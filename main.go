@@ -18,9 +18,9 @@ const (
 	STORE_DIR     = "store"
 
 	README_HEAD = "# Weibo Hot List \n" +
-	" ![Refresh](https://github.com/baiyutang/weibo-hot-list/workflows/Refresh/badge.svg)\n\n" +
-	"微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 \n\n " +
-	"创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)\n"
+		" ![Refresh](https://github.com/baiyutang/weibo-hot-list/workflows/Refresh/badge.svg)\n\n" +
+		"微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 \n\n " +
+		"创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)\n"
 )
 
 type newItem map[string]string
@@ -56,6 +56,9 @@ func getTodayFileName() string {
 }
 
 func mergeList(old newsList, latest newsList) newsList {
+	if len(latest) < 1 {
+		return old
+	}
 	for _, item := range latest {
 		find := false
 		for _, v := range old {
