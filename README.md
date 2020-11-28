@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 17:02:45
+## 微博今日热榜 更新于 2020-11-28 18:02:47
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -116,4 +116,32 @@
 1. [武汉万达一小区吊装玻璃从40楼坠落](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%87%E8%BE%BE%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%90%8A%E8%A3%85%E7%8E%BB%E7%92%83%E4%BB%8E40%E6%A5%BC%E5%9D%A0%E8%90%BD%23&Refer=top)
 
 1. [银保监会考试](https://s.weibo.com//weibo?q=%E9%93%B6%E4%BF%9D%E7%9B%91%E4%BC%9A%E8%80%83%E8%AF%95&Refer=top)
+
+1. [丹麦首相为扑杀水貂而含泪道歉](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E9%BA%A6%E9%A6%96%E7%9B%B8%E4%B8%BA%E6%89%91%E6%9D%80%E6%B0%B4%E8%B2%82%E8%80%8C%E5%90%AB%E6%B3%AA%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [道枝骏佑 创4](https://s.weibo.com//weibo?q=%E9%81%93%E6%9E%9D%E9%AA%8F%E4%BD%91%20%E5%88%9B4&Refer=top)
+
+1. [官方通报举报补课被班主任丈夫暴打](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%BE%E6%8A%A5%E8%A1%A5%E8%AF%BE%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%88%E5%A4%AB%E6%9A%B4%E6%89%93%23&Refer=top)
+
+1. [谢娜为易烊千玺庆生](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%BA%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [杨丞琳为黄鸿升庆冥诞](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%B8%BA%E9%BB%84%E9%B8%BF%E5%8D%87%E5%BA%86%E5%86%A5%E8%AF%9E&Refer=top)
+
+1. [请完假感觉身体好多了](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E5%AE%8C%E5%81%87%E6%84%9F%E8%A7%89%E8%BA%AB%E4%BD%93%E5%A5%BD%E5%A4%9A%E4%BA%86%23&Refer=top)
+
+1. [东风快递后来的我们](https://s.weibo.com//weibo?q=%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E5%90%8E%E6%9D%A5%E7%9A%84%E6%88%91%E4%BB%AC&Refer=top)
+
+1. [伊朗称以色列参与暗杀核科学家](https://s.weibo.com//weibo?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%82%E4%B8%8E%E6%9A%97%E6%9D%80%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6&Refer=top)
+
+1. [AAA颁奖礼](https://s.weibo.com//weibo?q=AAA%E9%A2%81%E5%A5%96%E7%A4%BC&Refer=top)
+
+1. [什么是意定监护](https://s.weibo.com//weibo?q=%E4%BB%80%E4%B9%88%E6%98%AF%E6%84%8F%E5%AE%9A%E7%9B%91%E6%8A%A4&Refer=top)
+
+1. [西藏和四川开始rap battle了](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E5%92%8C%E5%9B%9B%E5%B7%9D%E5%BC%80%E5%A7%8Brap%20battle%E4%BA%86&Refer=top)
+
+1. [芯片行业出现盲目投资和烂尾项目](https://s.weibo.com//weibo?q=%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E5%87%BA%E7%8E%B0%E7%9B%B2%E7%9B%AE%E6%8A%95%E8%B5%84%E5%92%8C%E7%83%82%E5%B0%BE%E9%A1%B9%E7%9B%AE&Refer=top)
+
+1. [做核酸检测殴打护士男子被行拘](https://s.weibo.com//weibo?q=%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%AE%B4%E6%89%93%E6%8A%A4%E5%A3%AB%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98&Refer=top)
+
+1. [黑龙江客车冲出公路致1死5伤](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%AE%A2%E8%BD%A6%E5%86%B2%E5%87%BA%E5%85%AC%E8%B7%AF%E8%87%B41%E6%AD%BB5%E4%BC%A4&Refer=top)
 
