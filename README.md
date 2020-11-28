@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 21:02:06
+## 微博今日热榜 更新于 2020-11-28 22:03:01
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -214,4 +214,36 @@
 1. [爱的厘米](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E5%8E%98%E7%B1%B3&Refer=top)
 
 1. [顾耀东沈青禾重逢](https://s.weibo.com//weibo?q=%23%E9%A1%BE%E8%80%80%E4%B8%9C%E6%B2%88%E9%9D%92%E7%A6%BE%E9%87%8D%E9%80%A2%23&Refer=top)
+
+1. [7条线帮老年人追上智能时代](https://s.weibo.com//weibo?q=%237%E6%9D%A1%E7%BA%BF%E5%B8%AE%E8%80%81%E5%B9%B4%E4%BA%BA%E8%BF%BD%E4%B8%8A%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3%23&Refer=new_time)
+
+1. [关晓彤陈飞宇对称表情](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%99%88%E9%A3%9E%E5%AE%87%E5%AF%B9%E7%A7%B0%E8%A1%A8%E6%83%85%23&Refer=top)
+
+1. [刘德华 可能明年金鸡奖有我提名](https://s.weibo.com//weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%20%E5%8F%AF%E8%83%BD%E6%98%8E%E5%B9%B4%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%89%E6%88%91%E6%8F%90%E5%90%8D&Refer=top)
+
+1. [甘孜机票预定量](https://s.weibo.com//weibo?q=%E7%94%98%E5%AD%9C%E6%9C%BA%E7%A5%A8%E9%A2%84%E5%AE%9A%E9%87%8F&Refer=top)
+
+1. [西安年底前禁用不可降解塑料袋](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B9%B4%E5%BA%95%E5%89%8D%E7%A6%81%E7%94%A8%E4%B8%8D%E5%8F%AF%E9%99%8D%E8%A7%A3%E5%A1%91%E6%96%99%E8%A2%8B%23&Refer=top)
+
+1. [绿松石耳坠](https://s.weibo.com//weibo?q=%E7%BB%BF%E6%9D%BE%E7%9F%B3%E8%80%B3%E5%9D%A0&Refer=top)
+
+1. [丁程鑫画心好唯美](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%94%BB%E5%BF%83%E5%A5%BD%E5%94%AF%E7%BE%8E%23&Refer=top)
+
+1. [隐秘而伟大大结局](https://s.weibo.com//weibo?q=%23%E9%9A%90%E7%A7%98%E8%80%8C%E4%BC%9F%E5%A4%A7%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [刘浩存笑起来好美](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E7%AC%91%E8%B5%B7%E6%9D%A5%E5%A5%BD%E7%BE%8E%23&Refer=top)
+
+1. [马嘉祺严浩翔合唱飘向北方](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%90%88%E5%94%B1%E9%A3%98%E5%90%91%E5%8C%97%E6%96%B9%23&Refer=top)
+
+1. [所以贾玲见到刘德华了吗](https://s.weibo.com//weibo?q=%E6%89%80%E4%BB%A5%E8%B4%BE%E7%8E%B2%E8%A7%81%E5%88%B0%E5%88%98%E5%BE%B7%E5%8D%8E%E4%BA%86%E5%90%97&Refer=top)
+
+1. [周冬雨金鸡奖最佳女主角](https://s.weibo.com//weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92&Refer=top)
+
+1. [夏处长没有牺牲](https://s.weibo.com//weibo?q=%E5%A4%8F%E5%A4%84%E9%95%BF%E6%B2%A1%E6%9C%89%E7%89%BA%E7%89%B2&Refer=top)
+
+1. [李易峰演技](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%98%93%E5%B3%B0%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [黄晓明金鸡奖最佳男主角](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&Refer=top)
+
+1. [北京晚霞有多美](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
 
