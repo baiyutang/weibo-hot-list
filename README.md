@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 22:03:01
+## 微博今日热榜 更新于 2020-11-28 23:02:24
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -246,4 +246,30 @@
 1. [黄晓明金鸡奖最佳男主角](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&Refer=top)
 
 1. [北京晚霞有多美](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
+
+1. [尔冬升离场](https://s.weibo.com//weibo?q=%E5%B0%94%E5%86%AC%E5%8D%87%E7%A6%BB%E5%9C%BA&Refer=top)
+
+1. [郭敬明被尔冬升怼哭](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E8%A2%AB%E5%B0%94%E5%86%AC%E5%8D%87%E6%80%BC%E5%93%AD%23&Refer=top)
+
+1. [金鸡奖最佳音乐奖空缺](https://s.weibo.com//weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E9%9F%B3%E4%B9%90%E5%A5%96%E7%A9%BA%E7%BC%BA&Refer=top)
+
+1. [广东一18岁高中生迎娶14岁初中生](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%8018%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E8%BF%8E%E5%A8%B614%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%23&Refer=top)
+
+1. [周冬雨金马金像金鸡三金影后](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E9%87%91%E9%A9%AC%E9%87%91%E5%83%8F%E9%87%91%E9%B8%A1%E4%B8%89%E9%87%91%E5%BD%B1%E5%90%8E%23&Refer=top)
+
+1. [嫦娥五号踩了脚太空刹车](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%B8%A9%E4%BA%86%E8%84%9A%E5%A4%AA%E7%A9%BA%E5%88%B9%E8%BD%A6%23&Refer=top)
+
+1. [搭讪路人偷拍上传涉嫌违法](https://s.weibo.com//weibo?q=%23%E6%90%AD%E8%AE%AA%E8%B7%AF%E4%BA%BA%E5%81%B7%E6%8B%8D%E4%B8%8A%E4%BC%A0%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&Refer=top)
+
+1. [秦岭地下1840米施工现场](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%AD%E5%9C%B0%E4%B8%8B1840%E7%B1%B3%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [钱学森之子分享父亲的十个感人故事](https://s.weibo.com//weibo?q=%23%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%B9%8B%E5%AD%90%E5%88%86%E4%BA%AB%E7%88%B6%E4%BA%B2%E7%9A%84%E5%8D%81%E4%B8%AA%E6%84%9F%E4%BA%BA%E6%95%85%E4%BA%8B%23&Refer=top)
+
+1. [刘念总选举第二](https://s.weibo.com//weibo?q=%E5%88%98%E5%BF%B5%E6%80%BB%E9%80%89%E4%B8%BE%E7%AC%AC%E4%BA%8C&Refer=top)
+
+1. [刘耀文和丁程鑫把宋亚轩顶破音了](https://s.weibo.com//weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%92%8C%E4%B8%81%E7%A8%8B%E9%91%AB%E6%8A%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%E9%A1%B6%E7%A0%B4%E9%9F%B3%E4%BA%86&Refer=top)
+
+1. [舞蹈风暴](https://s.weibo.com//weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [嫦娥五号顺利进入环月轨道](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E9%A1%BA%E5%88%A9%E8%BF%9B%E5%85%A5%E7%8E%AF%E6%9C%88%E8%BD%A8%E9%81%93%23&Refer=top)
 
