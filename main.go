@@ -17,7 +17,10 @@ const (
 	MARTCH_RULE   = `<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>`
 	STORE_DIR     = "store"
 
-	README_HEAD = "# Weibo Hot List \n 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 \n\n 创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)\n"
+	README_HEAD = "# Weibo Hot List \n" +
+	" ![Refresh](https://github.com/baiyutang/weibo-hot-list/workflows/Refresh/badge.svg)\n\n" +
+	"微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 \n\n " +
+	"创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)\n"
 )
 
 type newItem map[string]string
