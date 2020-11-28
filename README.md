@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-29 02:02:43
+## 微博今日热榜 更新于 2020-11-29 03:02:18
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [尔冬升离场](https://s.weibo.com//weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E7%A6%BB%E5%9C%BA%23&Refer=top)
