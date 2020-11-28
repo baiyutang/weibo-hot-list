@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 17:02:04
+## 微博今日热榜 更新于 2020-11-28 17:02:45
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -112,4 +112,8 @@
 1. [2021年起全面禁止进口洋垃圾](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E8%B5%B7%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%B4%8B%E5%9E%83%E5%9C%BE%23&Refer=new_time)
 
 1. [广州深圳还没入秋](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B7%B1%E5%9C%B3%E8%BF%98%E6%B2%A1%E5%85%A5%E7%A7%8B%23&Refer=top)
+
+1. [武汉万达一小区吊装玻璃从40楼坠落](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%87%E8%BE%BE%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%90%8A%E8%A3%85%E7%8E%BB%E7%92%83%E4%BB%8E40%E6%A5%BC%E5%9D%A0%E8%90%BD%23&Refer=top)
+
+1. [银保监会考试](https://s.weibo.com//weibo?q=%E9%93%B6%E4%BF%9D%E7%9B%91%E4%BC%9A%E8%80%83%E8%AF%95&Refer=top)
 
