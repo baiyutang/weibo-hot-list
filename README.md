@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 20:03:23
+## 微博今日热榜 更新于 2020-11-28 21:02:06
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -186,4 +186,32 @@
 1. [EDG纪录片](https://s.weibo.com//weibo?q=%23EDG%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top)
 
 1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
+
+1. [袁泉金鸡奖最佳女配角](https://s.weibo.com//weibo?q=%E8%A2%81%E6%B3%89%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92&Refer=top)
+
+1. [印小天金鸡奖最佳男配角](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%8F%E5%A4%A9%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&Refer=top)
+
+1. [小胖哭了](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%83%96%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [中山大学副教授否认燕窝是智商税](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E5%90%A6%E8%AE%A4%E7%87%95%E7%AA%9D%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%23&Refer=top)
+
+1. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
+
+1. [演员请就位](https://s.weibo.com//weibo?q=%E6%BC%94%E5%91%98%E8%AF%B7%E5%B0%B1%E4%BD%8D&Refer=top)
+
+1. [宋亚轩全开麦](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%85%A8%E5%BC%80%E9%BA%A6%23&Refer=top)
+
+1. [狼殿下](https://s.weibo.com//weibo?q=%E7%8B%BC%E6%AE%BF%E4%B8%8B&Refer=top)
+
+1. [持刀凶徒在干警追逃下窜入法院](https://s.weibo.com//weibo?q=%23%E6%8C%81%E5%88%80%E5%87%B6%E5%BE%92%E5%9C%A8%E5%B9%B2%E8%AD%A6%E8%BF%BD%E9%80%83%E4%B8%8B%E7%AA%9C%E5%85%A5%E6%B3%95%E9%99%A2%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [如意芳霏](https://s.weibo.com//weibo?q=%E5%A6%82%E6%84%8F%E8%8A%B3%E9%9C%8F&Refer=top)
+
+1. [无畏的镜](https://s.weibo.com//weibo?q=%E6%97%A0%E7%95%8F%E7%9A%84%E9%95%9C&Refer=top)
+
+1. [爱的厘米](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E5%8E%98%E7%B1%B3&Refer=top)
+
+1. [顾耀东沈青禾重逢](https://s.weibo.com//weibo?q=%23%E9%A1%BE%E8%80%80%E4%B8%9C%E6%B2%88%E9%9D%92%E7%A6%BE%E9%87%8D%E9%80%A2%23&Refer=top)
 
