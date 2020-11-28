@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-29 06:03:08
+## 微博今日热榜 更新于 2020-11-29 07:02:40
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [尔冬升离场](https://s.weibo.com//weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E7%A6%BB%E5%9C%BA%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [2021年起全面禁止进口洋垃圾](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E8%B5%B7%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%B4%8B%E5%9E%83%E5%9C%BE%23&Refer=new_time)
 
 1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
+
+1. [爱的厘米](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E5%8E%98%E7%B1%B3&Refer=top)
+
+1. [秦岭地下1840米施工现场](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%AD%E5%9C%B0%E4%B8%8B1840%E7%B1%B3%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA&Refer=top)
 
