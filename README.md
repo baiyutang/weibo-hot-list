@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-29 01:02:17
+## 微博今日热榜 更新于 2020-11-29 02:02:43
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [尔冬升离场](https://s.weibo.com//weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E7%A6%BB%E5%9C%BA%23&Refer=top)
@@ -110,4 +110,8 @@
 1. [嫦娥五号顺利进入环月轨道](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E9%A1%BA%E5%88%A9%E8%BF%9B%E5%85%A5%E7%8E%AF%E6%9C%88%E8%BD%A8%E9%81%93%23&Refer=top)
 
 1. [人民日报评马保国](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%A9%AC%E4%BF%9D%E5%9B%BD%23&Refer=top)
+
+1. [亚冠](https://s.weibo.com//weibo?q=%E4%BA%9A%E5%86%A0&Refer=top)
+
+1. [星辰大海](https://s.weibo.com//weibo?q=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7&Refer=top)
 
