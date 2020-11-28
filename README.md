@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 18:02:47
+## 微博今日热榜 更新于 2020-11-28 19:02:34
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -144,4 +144,22 @@
 1. [做核酸检测殴打护士男子被行拘](https://s.weibo.com//weibo?q=%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%AE%B4%E6%89%93%E6%8A%A4%E5%A3%AB%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98&Refer=top)
 
 1. [黑龙江客车冲出公路致1死5伤](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%AE%A2%E8%BD%A6%E5%86%B2%E5%87%BA%E5%85%AC%E8%B7%AF%E8%87%B41%E6%AD%BB5%E4%BC%A4&Refer=top)
+
+1. [金鸡奖红毯](https://s.weibo.com//weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF&Refer=top)
+
+1. [我们离婚了](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%A6%BB%E5%A9%9A%E4%BA%86&Refer=top)
+
+1. [时代少年团演唱会](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [赵薇糖纸风大片](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E7%B3%96%E7%BA%B8%E9%A3%8E%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [15国亚马逊员工举行黑五抗议](https://s.weibo.com//weibo?q=15%E5%9B%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%91%98%E5%B7%A5%E4%B8%BE%E8%A1%8C%E9%BB%91%E4%BA%94%E6%8A%97%E8%AE%AE&Refer=top)
+
+1. [北京晚霞](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E&Refer=top)
+
+1. [阿塞拜疆士兵践踏亚美尼亚墓地](https://s.weibo.com//weibo?q=%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E5%A3%AB%E5%85%B5%E8%B7%B5%E8%B8%8F%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%E5%A2%93%E5%9C%B0&Refer=top)
+
+1. [亚冠](https://s.weibo.com//weibo?q=%E4%BA%9A%E5%86%A0&Refer=top)
+
+1. [法考主观题考试29万人参考](https://s.weibo.com//weibo?q=%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%E8%80%83%E8%AF%9529%E4%B8%87%E4%BA%BA%E5%8F%82%E8%80%83&Refer=top)
 
