@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-28 16:52:40
+## 微博今日热榜 更新于 2020-11-28 17:02:04
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [黄子韬 我需要蹭什么你告诉我](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E9%9C%80%E8%A6%81%E8%B9%AD%E4%BB%80%E4%B9%88%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
@@ -108,4 +108,8 @@
 1. [李佳琦回应直播带货新规](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E6%96%B0%E8%A7%84%23&Refer=top)
 
 1. [中国深潜勇士](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B7%B1%E6%BD%9C%E5%8B%87%E5%A3%AB%23&Refer=new_time)
+
+1. [2021年起全面禁止进口洋垃圾](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E8%B5%B7%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%B4%8B%E5%9E%83%E5%9C%BE%23&Refer=new_time)
+
+1. [广州深圳还没入秋](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B7%B1%E5%9C%B3%E8%BF%98%E6%B2%A1%E5%85%A5%E7%A7%8B%23&Refer=top)
 
