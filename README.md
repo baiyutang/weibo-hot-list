@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-29 21:02:30
+## 微博今日热榜 更新于 2020-11-29 22:03:06
 1. [2021年国考开考](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E5%9B%BD%E8%80%83%E5%BC%80%E8%80%83%23&Refer=new_time)
 
 1. [佟丽娅在贾玲微博评论里秀合照](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%9C%A8%E8%B4%BE%E7%8E%B2%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E9%87%8C%E7%A7%80%E5%90%88%E7%85%A7%23&Refer=top)
@@ -318,4 +318,32 @@
 1. [江疏影拿暖手宝走红毯](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E6%8B%BF%E6%9A%96%E6%89%8B%E5%AE%9D%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
 
 1. [雪地策马的女副县长名叫贺娇龙](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E5%9C%B0%E7%AD%96%E9%A9%AC%E7%9A%84%E5%A5%B3%E5%89%AF%E5%8E%BF%E9%95%BF%E5%90%8D%E5%8F%AB%E8%B4%BA%E5%A8%87%E9%BE%99%23&Refer=top)
+
+1. [华春莹连发三推为丁真打call](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%91%E4%B8%89%E6%8E%A8%E4%B8%BA%E4%B8%81%E7%9C%9F%E6%89%93call%23&Refer=top)
+
+1. [警方通报锦江学院2人死亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%94%A6%E6%B1%9F%E5%AD%A6%E9%99%A22%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [陈可辛称不会捍卫自己的电影](https://s.weibo.com//weibo?q=%E9%99%88%E5%8F%AF%E8%BE%9B%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%8D%8D%E5%8D%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E5%BD%B1&Refer=top)
+
+1. [我国超2.5亿人受脱发困扰](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%852.5%E4%BA%BF%E4%BA%BA%E5%8F%97%E8%84%B1%E5%8F%91%E5%9B%B0%E6%89%B0%23&Refer=top)
+
+1. [王祖蓝卧铺交友交了个寂寞](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E5%8D%A7%E9%93%BA%E4%BA%A4%E5%8F%8B%E4%BA%A4%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [蔡依林把小s口红亲花了](https://s.weibo.com//weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%8A%8A%E5%B0%8Fs%E5%8F%A3%E7%BA%A2%E4%BA%B2%E8%8A%B1%E4%BA%86%23&Refer=top)
+
+1. [除了寿星大家都很快乐](https://s.weibo.com//weibo?q=%23%E9%99%A4%E4%BA%86%E5%AF%BF%E6%98%9F%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%BE%88%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [偷电动车不会骑推15里弄回家](https://s.weibo.com//weibo?q=%23%E5%81%B7%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B8%8D%E4%BC%9A%E9%AA%91%E6%8E%A815%E9%87%8C%E5%BC%84%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [我们的歌](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&Refer=top)
+
+1. [广东人的自我满足](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E8%87%AA%E6%88%91%E6%BB%A1%E8%B6%B3%23&Refer=top)
+
+1. [姜云升巡演门票](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E4%BA%91%E5%8D%87%E5%B7%A1%E6%BC%94%E9%97%A8%E7%A5%A8%23&Refer=top)
+
+1. [大学课堂堪比发布会](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%AF%BE%E5%A0%82%E5%A0%AA%E6%AF%94%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [张云雷年度最具突破男歌手](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BA%91%E9%9B%B7%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E7%AA%81%E7%A0%B4%E7%94%B7%E6%AD%8C%E6%89%8B&Refer=top)
+
+1. [蓝俏俏高级绿茶](https://s.weibo.com//weibo?q=%E8%93%9D%E4%BF%8F%E4%BF%8F%E9%AB%98%E7%BA%A7%E7%BB%BF%E8%8C%B6&Refer=top)
 
