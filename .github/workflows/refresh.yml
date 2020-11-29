@@ -22,6 +22,7 @@ jobs:
     
       - name: Git setting
         run: |
+          git config --local user.name "github-actions"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           go build main.go
