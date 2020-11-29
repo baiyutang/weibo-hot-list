@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-29 08:06:38
+## 微博今日热榜 更新于 2020-11-29 09:20:56
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [尔冬升离场](https://s.weibo.com//weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E7%A6%BB%E5%9C%BA%23&Refer=top)
@@ -150,4 +150,28 @@
 1. [伊朗外长扎里夫用中文发推](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E6%89%8E%E9%87%8C%E5%A4%AB%E7%94%A8%E4%B8%AD%E6%96%87%E5%8F%91%E6%8E%A8%23&Refer=top)
 
 1. [狼殿下花絮](https://s.weibo.com//weibo?q=%E7%8B%BC%E6%AE%BF%E4%B8%8B%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [海霞说丁真背后的美值得更多流量](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%9C%9E%E8%AF%B4%E4%B8%81%E7%9C%9F%E8%83%8C%E5%90%8E%E7%9A%84%E7%BE%8E%E5%80%BC%E5%BE%97%E6%9B%B4%E5%A4%9A%E6%B5%81%E9%87%8F%23&Refer=top)
+
+1. [沈腾 金鸡奖红毯最忙艺人](https://s.weibo.com//weibo?q=%E6%B2%88%E8%85%BE%20%E9%87%91%E9%B8%A1%E5%A5%96%E7%BA%A2%E6%AF%AF%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA&Refer=top)
+
+1. [官方通报18岁男生娶14岁初中生](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A518%E5%B2%81%E7%94%B7%E7%94%9F%E5%A8%B614%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%23&Refer=top)
+
+1. [重庆一企业外籍员工出境后被确诊](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BC%81%E4%B8%9A%E5%A4%96%E7%B1%8D%E5%91%98%E5%B7%A5%E5%87%BA%E5%A2%83%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [克罗地亚总理因妻子确诊开始隔离](https://s.weibo.com//weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%80%BB%E7%90%86%E5%9B%A0%E5%A6%BB%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%BC%80%E5%A7%8B%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [伊朗重要核物理学家遭暗杀](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E9%87%8D%E8%A6%81%E6%A0%B8%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6%E9%81%AD%E6%9A%97%E6%9D%80%23&Refer=top)
+
+1. [从老一辈的爱情里学到了什么](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E7%88%B1%E6%83%85%E9%87%8C%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [国考行测](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B&Refer=top)
+
+1. [南京马拉松](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E9%A9%AC%E6%8B%89%E6%9D%BE&Refer=top)
+
+1. [成都马拉松](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E9%A9%AC%E6%8B%89%E6%9D%BE&Refer=top)
+
+1. [国考平均竞争比](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%80%83%E5%B9%B3%E5%9D%87%E7%AB%9E%E4%BA%89%E6%AF%94&Refer=top)
+
+1. [英国女王表示对区块链感兴趣](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E8%A1%A8%E7%A4%BA%E5%AF%B9%E5%8C%BA%E5%9D%97%E9%93%BE%E6%84%9F%E5%85%B4%E8%B6%A3%23&Refer=top)
 
