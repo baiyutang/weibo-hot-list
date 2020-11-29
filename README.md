@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 06:02:36
+## 微博今日热榜 更新于 2020-11-30 07:02:49
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
