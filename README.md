@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 02:02:43
+## 微博今日热榜 更新于 2020-11-30 03:02:01
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
@@ -114,4 +114,10 @@
 1. [雪地策马的女副县长名叫贺娇龙](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E5%9C%B0%E7%AD%96%E9%A9%AC%E7%9A%84%E5%A5%B3%E5%89%AF%E5%8E%BF%E9%95%BF%E5%90%8D%E5%8F%AB%E8%B4%BA%E5%A8%87%E9%BE%99%23&Refer=top)
 
 1. [爱的厘米](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E5%8E%98%E7%B1%B3&Refer=top)
+
+1. [装台](https://s.weibo.com//weibo?q=%E8%A3%85%E5%8F%B0&Refer=top)
+
+1. [李易峰绿组年度好演员](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E7%BB%BF%E7%BB%84%E5%B9%B4%E5%BA%A6%E5%A5%BD%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [长大后最大的幸福](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E6%9C%80%E5%A4%A7%E7%9A%84%E5%B9%B8%E7%A6%8F%23&Refer=top)
 
