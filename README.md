@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-29 10:02:52
+## 微博今日热榜 更新于 2020-11-29 11:02:53
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [尔冬升离场](https://s.weibo.com//weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E7%A6%BB%E5%9C%BA%23&Refer=top)
@@ -184,4 +184,18 @@
 1. [中国金融开放会引狼入室吗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%BC%80%E6%94%BE%E4%BC%9A%E5%BC%95%E7%8B%BC%E5%85%A5%E5%AE%A4%E5%90%97%23&Refer=top)
 
 1. [31省区市新增11例境外输入](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E11%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%23&Refer=top)
+
+1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
+
+1. [以为曾国祥在调戏易烊千玺](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%9B%BE%E5%9B%BD%E7%A5%A5%E5%9C%A8%E8%B0%83%E6%88%8F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&Refer=top)
+
+1. [满洲里一新冠肺炎患者多次乘公交车](https://s.weibo.com//weibo?q=%23%E6%BB%A1%E6%B4%B2%E9%87%8C%E4%B8%80%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%82%A3%E8%80%85%E5%A4%9A%E6%AC%A1%E4%B9%98%E5%85%AC%E4%BA%A4%E8%BD%A6%23&Refer=top)
+
+1. [深圳再现万人抢房](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%8E%B0%E4%B8%87%E4%BA%BA%E6%8A%A2%E6%88%BF%23&Refer=top)
+
+1. [钟点工拍雇主家生活视频发到网上](https://s.weibo.com//weibo?q=%23%E9%92%9F%E7%82%B9%E5%B7%A5%E6%8B%8D%E9%9B%87%E4%B8%BB%E5%AE%B6%E7%94%9F%E6%B4%BB%E8%A7%86%E9%A2%91%E5%8F%91%E5%88%B0%E7%BD%91%E4%B8%8A%23&Refer=top)
+
+1. [币圈第一大案二审宣判](https://s.weibo.com//weibo?q=%23%E5%B8%81%E5%9C%88%E7%AC%AC%E4%B8%80%E5%A4%A7%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&Refer=top)
+
+1. [泰森 琼斯](https://s.weibo.com//weibo?q=%E6%B3%B0%E6%A3%AE%20%E7%90%BC%E6%96%AF&Refer=top)
 
