@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 19:02:34
+## 微博今日热榜 更新于 2020-11-30 20:03:48
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
@@ -378,4 +378,22 @@
 1. [Juhan加入DYN](https://s.weibo.com//weibo?q=Juhan%E5%8A%A0%E5%85%A5DYN&Refer=top)
 
 1. [社区团购会夺走卖菜商贩生计吗](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%A2%E8%B4%AD%E4%BC%9A%E5%A4%BA%E8%B5%B0%E5%8D%96%E8%8F%9C%E5%95%86%E8%B4%A9%E7%94%9F%E8%AE%A1%E5%90%97%23&Refer=top)
+
+1. [日本10月自杀人数超新冠死亡人数](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC10%E6%9C%88%E8%87%AA%E6%9D%80%E4%BA%BA%E6%95%B0%E8%B6%85%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%23&Refer=top)
+
+1. [丁真登上日本电视台](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E7%99%BB%E4%B8%8A%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%8F%B0%23&Refer=top)
+
+1. [陈奕迅想和易烊千玺组男团](https://s.weibo.com//weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%83%B3%E5%92%8C%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%84%E7%94%B7%E5%9B%A2&Refer=top)
+
+1. [郑爽林更新客串刘老根4](https://s.weibo.com//weibo?q=%E9%83%91%E7%88%BD%E6%9E%97%E6%9B%B4%E6%96%B0%E5%AE%A2%E4%B8%B2%E5%88%98%E8%80%81%E6%A0%B94&Refer=top)
+
+1. [Peanut加入DYN](https://s.weibo.com//weibo?q=Peanut%E5%8A%A0%E5%85%A5DYN&Refer=top)
+
+1. [国人日均刷社交媒体近2小时](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%BA%E6%97%A5%E5%9D%87%E5%88%B7%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BF%912%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [康辉第一次跳街舞](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E8%BE%89%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%B7%B3%E8%A1%97%E8%88%9E%23&Refer=top)
+
+1. [谋女郎刘浩存首封](https://s.weibo.com//weibo?q=%23%E8%B0%8B%E5%A5%B3%E9%83%8E%E5%88%98%E6%B5%A9%E5%AD%98%E9%A6%96%E5%B0%81%23&Refer=top)
+
+1. [深圳音体美纳入高中学考](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%9F%B3%E4%BD%93%E7%BE%8E%E7%BA%B3%E5%85%A5%E9%AB%98%E4%B8%AD%E5%AD%A6%E8%80%83%23&Refer=top)
 
