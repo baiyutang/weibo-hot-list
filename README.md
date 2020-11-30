@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 07:02:49
+## 微博今日热榜 更新于 2020-11-30 08:07:10
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
@@ -134,4 +134,24 @@
 1. [林则徐后裔被查](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%88%99%E5%BE%90%E5%90%8E%E8%A3%94%E8%A2%AB%E6%9F%A5%23&Refer=top)
 
 1. [职业女棋手黑嘉嘉](https://s.weibo.com//weibo?q=%E8%81%8C%E4%B8%9A%E5%A5%B3%E6%A3%8B%E6%89%8B%E9%BB%91%E5%98%89%E5%98%89&Refer=top)
+
+1. [马拉多纳私人医生接受警方调查](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3%E7%A7%81%E4%BA%BA%E5%8C%BB%E7%94%9F%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23&Refer=top)
+
+1. [胡宇桐秒删后用后悔药公开](https://s.weibo.com//weibo?q=%E8%83%A1%E5%AE%87%E6%A1%90%E7%A7%92%E5%88%A0%E5%90%8E%E7%94%A8%E5%90%8E%E6%82%94%E8%8D%AF%E5%85%AC%E5%BC%80&Refer=top)
+
+1. [美国新冠肺炎超1334万例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851334%E4%B8%87%E4%BE%8B&Refer=top)
+
+1. [七旬老人自建博物馆11年免费开放](https://s.weibo.com//weibo?q=%23%E4%B8%83%E6%97%AC%E8%80%81%E4%BA%BA%E8%87%AA%E5%BB%BA%E5%8D%9A%E7%89%A9%E9%A6%8611%E5%B9%B4%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [为啥药品灵魂砍价能接连上演](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E8%8D%AF%E5%93%81%E7%81%B5%E9%AD%82%E7%A0%8D%E4%BB%B7%E8%83%BD%E6%8E%A5%E8%BF%9E%E4%B8%8A%E6%BC%94%23&Refer=top)
+
+1. [笑到头掉的宝藏综艺](https://s.weibo.com//weibo?q=%23%E7%AC%91%E5%88%B0%E5%A4%B4%E6%8E%89%E7%9A%84%E5%AE%9D%E8%97%8F%E7%BB%BC%E8%89%BA%23&Refer=top)
+
+1. [11月的最后一天](https://s.weibo.com//weibo?q=11%E6%9C%88%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [TS晋级四强](https://s.weibo.com//weibo?q=%23TS%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23&Refer=top)
+
+1. [一鸣惊人的旅游文案](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%B8%A3%E6%83%8A%E4%BA%BA%E7%9A%84%E6%97%85%E6%B8%B8%E6%96%87%E6%A1%88%23&Refer=top)
+
+1. [卡瓦尼助曼联绝杀](https://s.weibo.com//weibo?q=%E5%8D%A1%E7%93%A6%E5%B0%BC%E5%8A%A9%E6%9B%BC%E8%81%94%E7%BB%9D%E6%9D%80&Refer=top)
 
