@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 06:02:55
+## 微博今日热榜 更新于 2020-12-01 07:02:20
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -120,4 +120,8 @@
 1. [虎鲸世仇座头鲸](https://s.weibo.com//weibo?q=%23%E8%99%8E%E9%B2%B8%E4%B8%96%E4%BB%87%E5%BA%A7%E5%A4%B4%E9%B2%B8%23&Refer=top)
 
 1. [尼日利亚一村庄遭到极端组织袭击](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%B8%80%E6%9D%91%E5%BA%84%E9%81%AD%E5%88%B0%E6%9E%81%E7%AB%AF%E7%BB%84%E7%BB%87%E8%A2%AD%E5%87%BB&Refer=top)
+
+1. [哈尔滨继红小学出现诺如病毒患者](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%A7%E7%BA%A2%E5%B0%8F%E5%AD%A6%E5%87%BA%E7%8E%B0%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%E6%82%A3%E8%80%85&Refer=top)
+
+1. [绿皮火车内抽烟现状](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E5%86%85%E6%8A%BD%E7%83%9F%E7%8E%B0%E7%8A%B6%23&Refer=top)
 
