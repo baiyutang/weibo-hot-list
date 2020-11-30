@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 16:03:38
+## 微博今日热榜 更新于 2020-11-30 17:02:53
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
@@ -312,4 +312,24 @@
 1. [云南文山亿万富翁被杀案一审宣判](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%A2%AB%E6%9D%80%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4&Refer=top)
 
 1. [半影月食](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E5%BD%B1%E6%9C%88%E9%A3%9F%23&Refer=top)
+
+1. [李心草溺亡案维持原判](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%BF%83%E8%8D%89%E6%BA%BA%E4%BA%A1%E6%A1%88%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23&Refer=top)
+
+1. [蔡依林小S感谢对方让自己再红了一次](https://s.weibo.com//weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%AF%B9%E6%96%B9%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%86%8D%E7%BA%A2%E4%BA%86%E4%B8%80%E6%AC%A1%23&Refer=top)
+
+1. [伊朗发布杀害核科学家4名嫌犯照片](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E6%9D%80%E5%AE%B3%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B64%E5%90%8D%E5%AB%8C%E7%8A%AF%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [东京奥运会推迟令预算增加19亿美元](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%8E%A8%E8%BF%9F%E4%BB%A4%E9%A2%84%E7%AE%97%E5%A2%9E%E5%8A%A019%E4%BA%BF%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [云南腾冲热气球故障致工作人员坠亡](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%85%BE%E5%86%B2%E7%83%AD%E6%B0%94%E7%90%83%E6%95%85%E9%9A%9C%E8%87%B4%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9D%A0%E4%BA%A1%23&Refer=top)
+
+1. [绿皮火车内抽烟现状](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E5%86%85%E6%8A%BD%E7%83%9F%E7%8E%B0%E7%8A%B6%23&Refer=top)
+
+1. [我们的课本去哪了](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E8%AF%BE%E6%9C%AC%E5%8E%BB%E5%93%AA%E4%BA%86%23&Refer=top)
+
+1. [退役军人优待证式样](https://s.weibo.com//weibo?q=%23%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E4%BC%98%E5%BE%85%E8%AF%81%E5%BC%8F%E6%A0%B7%23&Refer=top)
+
+1. [冬日里的小橘灯](https://s.weibo.com//weibo?q=%23%E5%86%AC%E6%97%A5%E9%87%8C%E7%9A%84%E5%B0%8F%E6%A9%98%E7%81%AF%23&Refer=top)
+
+1. [被爸妈感动哭的瞬间](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%88%B8%E5%A6%88%E6%84%9F%E5%8A%A8%E5%93%AD%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
 
