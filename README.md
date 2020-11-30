@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 15:02:29
+## 微博今日热榜 更新于 2020-11-30 16:03:38
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
@@ -294,4 +294,22 @@
 1. [江西篮球赛多人追打裁判](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E7%AF%AE%E7%90%83%E8%B5%9B%E5%A4%9A%E4%BA%BA%E8%BF%BD%E6%89%93%E8%A3%81%E5%88%A4%23&Refer=top)
 
 1. [清透感纯欲落泪妆](https://s.weibo.com//weibo?q=%23%E6%B8%85%E9%80%8F%E6%84%9F%E7%BA%AF%E6%AC%B2%E8%90%BD%E6%B3%AA%E5%A6%86%23&Refer=top)
+
+1. [12月起海南全岛禁塑](https://s.weibo.com//weibo?q=%2312%E6%9C%88%E8%B5%B7%E6%B5%B7%E5%8D%97%E5%85%A8%E5%B2%9B%E7%A6%81%E5%A1%91%23&Refer=top)
+
+1. [全程憋笑考完试有多难](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%A8%8B%E6%86%8B%E7%AC%91%E8%80%83%E5%AE%8C%E8%AF%95%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [高天佐收到粉丝最贵重礼物](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E6%94%B6%E5%88%B0%E7%B2%89%E4%B8%9D%E6%9C%80%E8%B4%B5%E9%87%8D%E7%A4%BC%E7%89%A9%23&Refer=top)
+
+1. [腾冲热气球](https://s.weibo.com//weibo?q=%E8%85%BE%E5%86%B2%E7%83%AD%E6%B0%94%E7%90%83&Refer=top)
+
+1. [A股](https://s.weibo.com//weibo?q=A%E8%82%A1&Refer=top)
+
+1. [Bang加入AF](https://s.weibo.com//weibo?q=Bang%E5%8A%A0%E5%85%A5AF&Refer=top)
+
+1. [大四男生用蜡烛做出腊梅](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E7%94%A8%E8%9C%A1%E7%83%9B%E5%81%9A%E5%87%BA%E8%85%8A%E6%A2%85%23&Refer=top)
+
+1. [云南文山亿万富翁被杀案一审宣判](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%A2%AB%E6%9D%80%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4&Refer=top)
+
+1. [半影月食](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E5%BD%B1%E6%9C%88%E9%A3%9F%23&Refer=top)
 
