@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-11-30 12:03:11
+## 微博今日热榜 更新于 2020-11-30 13:02:30
 1. [三明后生仔](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%8E%E5%90%8E%E7%94%9F%E4%BB%94%23&Refer=new_time)
 
 1. [贾玲身材](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E8%BA%AB%E6%9D%90&Refer=top)
@@ -240,4 +240,12 @@
 1. [年轻一代为何渴望创作](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%B8%80%E4%BB%A3%E4%B8%BA%E4%BD%95%E6%B8%B4%E6%9C%9B%E5%88%9B%E4%BD%9C%23&Refer=top)
 
 1. [金钟仁solo新歌MV](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%92%9F%E4%BB%81solo%E6%96%B0%E6%AD%8CMV%23&Refer=top)
+
+1. [江苏响水78死特大爆炸事故案一审宣判](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%93%8D%E6%B0%B478%E6%AD%BB%E7%89%B9%E5%A4%A7%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23&Refer=top)
+
+1. [易烊千玺时装双刊四封](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%97%B6%E8%A3%85%E5%8F%8C%E5%88%8A%E5%9B%9B%E5%B0%81%23&Refer=top)
+
+1. [易烊千玺旗下公司申请易烊千玺商标](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E7%94%B3%E8%AF%B7%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%95%86%E6%A0%87&Refer=top)
+
+1. [未来5到10年电动汽车投资3000亿美元](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A55%E5%88%B010%E5%B9%B4%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E6%8A%95%E8%B5%843000%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top)
 
