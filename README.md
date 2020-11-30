@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 05:02:11
+## 微博今日热榜 更新于 2020-12-01 06:02:55
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -118,4 +118,6 @@
 1. [北京设百余个蛋壳公寓接待点](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%AE%BE%E7%99%BE%E4%BD%99%E4%B8%AA%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93%E6%8E%A5%E5%BE%85%E7%82%B9%23&Refer=top)
 
 1. [虎鲸世仇座头鲸](https://s.weibo.com//weibo?q=%23%E8%99%8E%E9%B2%B8%E4%B8%96%E4%BB%87%E5%BA%A7%E5%A4%B4%E9%B2%B8%23&Refer=top)
+
+1. [尼日利亚一村庄遭到极端组织袭击](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%B8%80%E6%9D%91%E5%BA%84%E9%81%AD%E5%88%B0%E6%9E%81%E7%AB%AF%E7%BB%84%E7%BB%87%E8%A2%AD%E5%87%BB&Refer=top)
 
