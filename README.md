@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 10:02:53
+## 微博今日热榜 更新于 2020-12-01 11:02:41
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -190,4 +190,38 @@
 1. [送你一朵小红花珍惜版预告](https://s.weibo.com//weibo?q=%23%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E7%8F%8D%E6%83%9C%E7%89%88%E9%A2%84%E5%91%8A%23&Refer=top)
 
 1. [中学请108名优秀学生吃牛排](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%AD%A6%E8%AF%B7108%E5%90%8D%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%90%83%E7%89%9B%E6%8E%92&Refer=top)
+
+1. [武汉茶颜悦色门外排起长队](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E9%97%A8%E5%A4%96%E6%8E%92%E8%B5%B7%E9%95%BF%E9%98%9F%23&Refer=top)
+
+1. [张若昀瘦了好多](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23&Refer=top)
+
+1. [丁真同款耳环在家乡走红](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%90%8C%E6%AC%BE%E8%80%B3%E7%8E%AF%E5%9C%A8%E5%AE%B6%E4%B9%A1%E8%B5%B0%E7%BA%A2%23&Refer=top)
+
+1. [每天一个离职小技巧](https://s.weibo.com//weibo?q=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E7%A6%BB%E8%81%8C%E5%B0%8F%E6%8A%80%E5%B7%A7&Refer=top)
+
+1. [人的休息刚需](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%9A%84%E4%BC%91%E6%81%AF%E5%88%9A%E9%9C%80%23&Refer=top)
+
+1. [博古特退役](https://s.weibo.com//weibo?q=%E5%8D%9A%E5%8F%A4%E7%89%B9%E9%80%80%E5%BD%B9&Refer=top)
+
+1. [我国每年约3000青年学生感染艾滋病](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%AF%8F%E5%B9%B4%E7%BA%A63000%E9%9D%92%E5%B9%B4%E5%AD%A6%E7%94%9F%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85%23&Refer=top)
+
+1. [香港迪士尼12月2日起暂停开放](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC12%E6%9C%882%E6%97%A5%E8%B5%B7%E6%9A%82%E5%81%9C%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [我国报告现存艾滋病感染者104.5万例](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8A%A5%E5%91%8A%E7%8E%B0%E5%AD%98%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85104.5%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [上海部分高校配备HIV匿名检测机](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%83%A8%E5%88%86%E9%AB%98%E6%A0%A1%E9%85%8D%E5%A4%87HIV%E5%8C%BF%E5%90%8D%E6%A3%80%E6%B5%8B%E6%9C%BA%23&Refer=top)
+
+1. [驻加大使同孟晚舟通电话](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E5%8A%A0%E5%A4%A7%E4%BD%BF%E5%90%8C%E5%AD%9F%E6%99%9A%E8%88%9F%E9%80%9A%E7%94%B5%E8%AF%9D%23&Refer=top)
+
+1. [有翡Q版海报](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1Q%E7%89%88%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [共用餐具不会传染艾滋病](https://s.weibo.com//weibo?q=%23%E5%85%B1%E7%94%A8%E9%A4%90%E5%85%B7%E4%B8%8D%E4%BC%9A%E4%BC%A0%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85%23&Refer=top)
+
+1. [十二月的奇迹](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%BA%8C%E6%9C%88%E7%9A%84%E5%A5%87%E8%BF%B9%23&Refer=top)
+
+1. [刚刚好的感觉太美妙了](https://s.weibo.com//weibo?q=%E5%88%9A%E5%88%9A%E5%A5%BD%E7%9A%84%E6%84%9F%E8%A7%89%E5%A4%AA%E7%BE%8E%E5%A6%99%E4%BA%86&Refer=top)
+
+1. [张新成当女生三天最想体验的事情](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E5%BD%93%E5%A5%B3%E7%94%9F%E4%B8%89%E5%A4%A9%E6%9C%80%E6%83%B3%E4%BD%93%E9%AA%8C%E7%9A%84%E4%BA%8B%E6%83%85&Refer=top)
+
+1. [一年一度广东入冬](https://s.weibo.com//weibo?q=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%B9%BF%E4%B8%9C%E5%85%A5%E5%86%AC&Refer=top)
 
