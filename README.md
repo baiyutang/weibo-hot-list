@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 02:36:16
+## 微博今日热榜 更新于 2020-12-02 04:27:47
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [12月](https://s.weibo.com//weibo?q=12%E6%9C%88&Refer=top)
 
 1. [16年背对春晚舞台老兵退伍](https://s.weibo.com//weibo?q=%2316%E5%B9%B4%E8%83%8C%E5%AF%B9%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%E8%80%81%E5%85%B5%E9%80%80%E4%BC%8D%23&Refer=top)
+
+1. [教育部推出首批国家级一流本科课程](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%8E%A8%E5%87%BA%E9%A6%96%E6%89%B9%E5%9B%BD%E5%AE%B6%E7%BA%A7%E4%B8%80%E6%B5%81%E6%9C%AC%E7%A7%91%E8%AF%BE%E7%A8%8B%23&Refer=new_time)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
 
