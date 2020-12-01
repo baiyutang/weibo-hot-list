@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 15:02:57
+## 微博今日热榜 更新于 2020-12-01 16:03:27
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -316,4 +316,32 @@
 1. [日剧少女淡颜妆](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%89%A7%E5%B0%91%E5%A5%B3%E6%B7%A1%E9%A2%9C%E5%A6%86%23&Refer=top)
 
 1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
+
+1. [宁泽涛脏辫](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B3%BD%E6%B6%9B%E8%84%8F%E8%BE%AB%23&Refer=top)
+
+1. [电子失恋](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E5%A4%B1%E6%81%8B%23&Refer=top)
+
+1. [澳大利亚一州推出疫情追踪二维码](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%80%E5%B7%9E%E6%8E%A8%E5%87%BA%E7%96%AB%E6%83%85%E8%BF%BD%E8%B8%AA%E4%BA%8C%E7%BB%B4%E7%A0%81&Refer=top)
+
+1. [LPL名人堂入选名单](https://s.weibo.com//weibo?q=%23LPL%E5%90%8D%E4%BA%BA%E5%A0%82%E5%85%A5%E9%80%89%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [螺蛳粉奶酪火锅](https://s.weibo.com//weibo?q=%23%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%A5%B6%E9%85%AA%E7%81%AB%E9%94%85%23&Refer=top)
+
+1. [汉密尔顿新冠阳性](https://s.weibo.com//weibo?q=%23%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [深圳新增病例为深港跨境货车司机](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E4%B8%BA%E6%B7%B1%E6%B8%AF%E8%B7%A8%E5%A2%83%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%23&Refer=top)
+
+1. [见过杀伤力最大的买家秀](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9D%80%E4%BC%A4%E5%8A%9B%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B9%B0%E5%AE%B6%E7%A7%80%23&Refer=top)
+
+1. [新版中国药典](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%89%88%E4%B8%AD%E5%9B%BD%E8%8D%AF%E5%85%B8%23&Refer=top)
+
+1. [马拉多纳生前最后音频发给前妻男友](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E9%9F%B3%E9%A2%91%E5%8F%91%E7%BB%99%E5%89%8D%E5%A6%BB%E7%94%B7%E5%8F%8B%23&Refer=top)
+
+1. [美国海军宣布报废准航母好人理查德号](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%AE%A3%E5%B8%83%E6%8A%A5%E5%BA%9F%E5%87%86%E8%88%AA%E6%AF%8D%E5%A5%BD%E4%BA%BA%E7%90%86%E6%9F%A5%E5%BE%B7%E5%8F%B7%23&Refer=top)
+
+1. [上海离婚登记预约将改为申请预约](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A6%BB%E5%A9%9A%E7%99%BB%E8%AE%B0%E9%A2%84%E7%BA%A6%E5%B0%86%E6%94%B9%E4%B8%BA%E7%94%B3%E8%AF%B7%E9%A2%84%E7%BA%A6%23&Refer=top)
+
+1. [香港反对派议员辞职全部生效](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E5%8F%8D%E5%AF%B9%E6%B4%BE%E8%AE%AE%E5%91%98%E8%BE%9E%E8%81%8C%E5%85%A8%E9%83%A8%E7%94%9F%E6%95%88%23&Refer=top)
 
