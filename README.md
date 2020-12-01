@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 11:02:41
+## 微博今日热榜 更新于 2020-12-01 12:03:14
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -224,4 +224,28 @@
 1. [张新成当女生三天最想体验的事情](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E5%BD%93%E5%A5%B3%E7%94%9F%E4%B8%89%E5%A4%A9%E6%9C%80%E6%83%B3%E4%BD%93%E9%AA%8C%E7%9A%84%E4%BA%8B%E6%83%85&Refer=top)
 
 1. [一年一度广东入冬](https://s.weibo.com//weibo?q=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%B9%BF%E4%B8%9C%E5%85%A5%E5%86%AC&Refer=top)
+
+1. [周杰伦说萧敬腾有Summer](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E8%90%A7%E6%95%AC%E8%85%BE%E6%9C%89Summer%23&Refer=top)
+
+1. [腾冲热气球坠亡事故景区停业整顿](https://s.weibo.com//weibo?q=%23%E8%85%BE%E5%86%B2%E7%83%AD%E6%B0%94%E7%90%83%E5%9D%A0%E4%BA%A1%E4%BA%8B%E6%95%85%E6%99%AF%E5%8C%BA%E5%81%9C%E4%B8%9A%E6%95%B4%E9%A1%BF%23&Refer=top)
+
+1. [蕾哈娜新恋情](https://s.weibo.com//weibo?q=%23%E8%95%BE%E5%93%88%E5%A8%9C%E6%96%B0%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [厦大选修课学做海蛎煎还能拿学分](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%89%E4%BF%AE%E8%AF%BE%E5%AD%A6%E5%81%9A%E6%B5%B7%E8%9B%8E%E7%85%8E%E8%BF%98%E8%83%BD%E6%8B%BF%E5%AD%A6%E5%88%86%23&Refer=top)
+
+1. [小S说林志玲粉丝比自己少太好了](https://s.weibo.com//weibo?q=%E5%B0%8FS%E8%AF%B4%E6%9E%97%E5%BF%97%E7%8E%B2%E7%B2%89%E4%B8%9D%E6%AF%94%E8%87%AA%E5%B7%B1%E5%B0%91%E5%A4%AA%E5%A5%BD%E4%BA%86&Refer=top)
+
+1. [郑州下雪](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E4%B8%8B%E9%9B%AA&Refer=top)
+
+1. [送你一朵小红花台词](https://s.weibo.com//weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%8F%B0%E8%AF%8D&Refer=top)
+
+1. [自如回应业主解约](https://s.weibo.com//weibo?q=%E8%87%AA%E5%A6%82%E5%9B%9E%E5%BA%94%E4%B8%9A%E4%B8%BB%E8%A7%A3%E7%BA%A6&Refer=top)
+
+1. [2020年世界艾滋病日](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%96%E7%95%8C%E8%89%BE%E6%BB%8B%E7%97%85%E6%97%A5%23&Refer=top)
+
+1. [SK海力士半导体重庆公司全员核酸阴性](https://s.weibo.com//weibo?q=%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%87%8D%E5%BA%86%E5%85%AC%E5%8F%B8%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%23&Refer=top)
+
+1. [学生与钟南山隔车窗合影](https://s.weibo.com//weibo?q=%E5%AD%A6%E7%94%9F%E4%B8%8E%E9%92%9F%E5%8D%97%E5%B1%B1%E9%9A%94%E8%BD%A6%E7%AA%97%E5%90%88%E5%BD%B1&Refer=top)
+
+1. [萧敬腾经纪人](https://s.weibo.com//weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%E7%BB%8F%E7%BA%AA%E4%BA%BA&Refer=top)
 
