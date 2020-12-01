@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 07:02:20
+## 微博今日热榜 更新于 2020-12-01 08:07:07
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -124,4 +124,30 @@
 1. [哈尔滨继红小学出现诺如病毒患者](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%A7%E7%BA%A2%E5%B0%8F%E5%AD%A6%E5%87%BA%E7%8E%B0%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%E6%82%A3%E8%80%85&Refer=top)
 
 1. [绿皮火车内抽烟现状](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E5%86%85%E6%8A%BD%E7%83%9F%E7%8E%B0%E7%8A%B6%23&Refer=top)
+
+1. [关晓彤 都特别好只有我不够好](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E9%83%BD%E7%89%B9%E5%88%AB%E5%A5%BD%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%8D%E5%A4%9F%E5%A5%BD&Refer=top)
+
+1. [每100秒就有一名孩子感染艾滋病](https://s.weibo.com//weibo?q=%23%E6%AF%8F100%E7%A7%92%E5%B0%B1%E6%9C%89%E4%B8%80%E5%90%8D%E5%AD%A9%E5%AD%90%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85%23&Refer=top)
+
+1. [杨丞琳晒李荣浩与柴犬对比图](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%99%92%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%8E%E6%9F%B4%E7%8A%AC%E5%AF%B9%E6%AF%94%E5%9B%BE&Refer=top)
+
+1. [12月](https://s.weibo.com//weibo?q=12%E6%9C%88&Refer=top)
+
+1. [漠河男子用500块冰搭冰屋吃火锅](https://s.weibo.com//weibo?q=%23%E6%BC%A0%E6%B2%B3%E7%94%B7%E5%AD%90%E7%94%A8500%E5%9D%97%E5%86%B0%E6%90%AD%E5%86%B0%E5%B1%8B%E5%90%83%E7%81%AB%E9%94%85%23&Refer=top)
+
+1. [救落水女孩的哥唐超被评为烈士](https://s.weibo.com//weibo?q=%23%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%93%A5%E5%94%90%E8%B6%85%E8%A2%AB%E8%AF%84%E4%B8%BA%E7%83%88%E5%A3%AB%23&Refer=top)
+
+1. [2020最后1个月](https://s.weibo.com//weibo?q=%232020%E6%9C%80%E5%90%8E1%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [青岛一小区全面禁养宠物](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%85%A8%E9%9D%A2%E7%A6%81%E5%85%BB%E5%AE%A0%E7%89%A9%23&Refer=top)
+
+1. [救场反应超强的艺人](https://s.weibo.com//weibo?q=%23%E6%95%91%E5%9C%BA%E5%8F%8D%E5%BA%94%E8%B6%85%E5%BC%BA%E7%9A%84%E8%89%BA%E4%BA%BA%23&Refer=top)
+
+1. [民航局再向一外航发出熔断指令](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%88%AA%E5%B1%80%E5%86%8D%E5%90%91%E4%B8%80%E5%A4%96%E8%88%AA%E5%8F%91%E5%87%BA%E7%86%94%E6%96%AD%E6%8C%87%E4%BB%A4%23&Refer=top)
+
+1. [深圳辟谣将征房地产税](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E8%BE%9F%E8%B0%A3%E5%B0%86%E5%BE%81%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E&Refer=top)
+
+1. [韩前总统全斗焕获刑8个月缓刑2年](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%89%8D%E6%80%BB%E7%BB%9F%E5%85%A8%E6%96%97%E7%84%95%E8%8E%B7%E5%88%918%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%912%E5%B9%B4&Refer=top)
+
+1. [美股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1&Refer=top)
 
