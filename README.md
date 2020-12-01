@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 22:03:50
+## 微博今日热榜 更新于 2020-12-01 23:04:01
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -490,4 +490,36 @@
 1. [恒大出线形势](https://s.weibo.com//weibo?q=%E6%81%92%E5%A4%A7%E5%87%BA%E7%BA%BF%E5%BD%A2%E5%8A%BF&Refer=top)
 
 1. [华春莹带照片上记者会回应澳总理言论](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%B8%A6%E7%85%A7%E7%89%87%E4%B8%8A%E8%AE%B0%E8%80%85%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%BE%B3%E6%80%BB%E7%90%86%E8%A8%80%E8%AE%BA%23&Refer=top)
+
+1. [2分钟看扶贫那些事儿](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E7%9C%8B%E6%89%B6%E8%B4%AB%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF%23&Refer=new_time)
+
+1. [华春莹回应泡菜问题](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%9B%9E%E5%BA%94%E6%B3%A1%E8%8F%9C%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [王怡人金施贤新冠阳性](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%80%A1%E4%BA%BA%E9%87%91%E6%96%BD%E8%B4%A4%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [佳偶天橙](https://s.weibo.com//weibo?q=%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%A9%99&Refer=top)
+
+1. [吴宣仪 我还不是演员但是我在努力](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E6%88%91%E8%BF%98%E4%B8%8D%E6%98%AF%E6%BC%94%E5%91%98%E4%BD%86%E6%98%AF%E6%88%91%E5%9C%A8%E5%8A%AA%E5%8A%9B&Refer=top)
+
+1. [徐清风识别绿茶CT机](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%B8%85%E9%A3%8E%E8%AF%86%E5%88%AB%E7%BB%BF%E8%8C%B6CT%E6%9C%BA%23&Refer=top)
+
+1. [蔡素芬醉酒](https://s.weibo.com//weibo?q=%23%E8%94%A1%E7%B4%A0%E8%8A%AC%E9%86%89%E9%85%92%23&Refer=top)
+
+1. [独腿女子拄拐杖参加旗袍大赛](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E8%85%BF%E5%A5%B3%E5%AD%90%E6%8B%84%E6%8B%90%E6%9D%96%E5%8F%82%E5%8A%A0%E6%97%97%E8%A2%8D%E5%A4%A7%E8%B5%9B%23&Refer=top)
+
+1. [乌合麒麟致莫里森](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E8%87%B4%E8%8E%AB%E9%87%8C%E6%A3%AE&Refer=top)
+
+1. [上港 悉尼](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B8%AF%20%E6%82%89%E5%B0%BC&Refer=top)
+
+1. [谷歌人工智能解决蛋白质折叠问题](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E6%AD%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%A3%E5%86%B3%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [已有七尊兽首铜像归国](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E6%9C%89%E4%B8%83%E5%B0%8A%E5%85%BD%E9%A6%96%E9%93%9C%E5%83%8F%E5%BD%92%E5%9B%BD%23&Refer=top)
+
+1. [于谦把尚九熙马褂扒了](https://s.weibo.com//weibo?q=%E4%BA%8E%E8%B0%A6%E6%8A%8A%E5%B0%9A%E4%B9%9D%E7%86%99%E9%A9%AC%E8%A4%82%E6%89%92%E4%BA%86&Refer=top)
+
+1. [监考时开直播老师被停职](https://s.weibo.com//weibo?q=%23%E7%9B%91%E8%80%83%E6%97%B6%E5%BC%80%E7%9B%B4%E6%92%AD%E8%80%81%E5%B8%88%E8%A2%AB%E5%81%9C%E8%81%8C%23&Refer=top)
+
+1. [十二月是最幸运的一个月](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%BA%8C%E6%9C%88%E6%98%AF%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E4%B8%80%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [李现眼神大片](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9C%BC%E7%A5%9E%E5%A4%A7%E7%89%87%23&Refer=top)
 
