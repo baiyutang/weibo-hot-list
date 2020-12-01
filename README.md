@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 05:17:27
+## 微博今日热榜 更新于 2020-12-02 06:03:09
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
 
 1. [傅欢放弃防守](https://s.weibo.com//weibo?q=%E5%82%85%E6%AC%A2%E6%94%BE%E5%BC%83%E9%98%B2%E5%AE%88&Refer=top)
+
+1. [电视剧大赏](https://s.weibo.com//weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E8%B5%8F&Refer=top)
 
