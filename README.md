@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 14:03:48
+## 微博今日热榜 更新于 2020-12-01 15:02:57
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -288,4 +288,32 @@
 1. [这眼神太到位了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%9C%BC%E7%A5%9E%E5%A4%AA%E5%88%B0%E4%BD%8D%E4%BA%86%23&Refer=top)
 
 1. [私家车堵消防通道被众人推翻](https://s.weibo.com//weibo?q=%23%E7%A7%81%E5%AE%B6%E8%BD%A6%E5%A0%B5%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E8%A2%AB%E4%BC%97%E4%BA%BA%E6%8E%A8%E7%BF%BB%23&Refer=top)
+
+1. [钟汉良李小冉 往后余生](https://s.weibo.com//weibo?q=%E9%92%9F%E6%B1%89%E8%89%AF%E6%9D%8E%E5%B0%8F%E5%86%89%20%E5%BE%80%E5%90%8E%E4%BD%99%E7%94%9F&Refer=top)
+
+1. [刘雨昕](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%A8%E6%98%95&Refer=top)
+
+1. [易烊千玺眼神](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9C%BC%E7%A5%9E%23&Refer=top)
+
+1. [西安调整二套房首付比例](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E8%B0%83%E6%95%B4%E4%BA%8C%E5%A5%97%E6%88%BF%E9%A6%96%E4%BB%98%E6%AF%94%E4%BE%8B&Refer=top)
+
+1. [为啥很多人以为丁真在西藏](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%BB%A5%E4%B8%BA%E4%B8%81%E7%9C%9F%E5%9C%A8%E8%A5%BF%E8%97%8F%23&Refer=top)
+
+1. [白百何的ootd](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E7%9A%84ootd%23&Refer=top)
+
+1. [小雏菊贝壳美甲](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%9B%8F%E8%8F%8A%E8%B4%9D%E5%A3%B3%E7%BE%8E%E7%94%B2%23&Refer=top)
+
+1. [GQ盛典阵容](https://s.weibo.com//weibo?q=%23GQ%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [深圳新增1例输入病例](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E1%E4%BE%8B%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [美国一个月新增新冠确诊超400万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%B8%AA%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%85400%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [资本家看了都流泪](https://s.weibo.com//weibo?q=%23%E8%B5%84%E6%9C%AC%E5%AE%B6%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B5%81%E6%B3%AA%23&Refer=top)
+
+1. [云中君源梦新皮肤](https://s.weibo.com//weibo?q=%23%E4%BA%91%E4%B8%AD%E5%90%9B%E6%BA%90%E6%A2%A6%E6%96%B0%E7%9A%AE%E8%82%A4%23&Refer=top)
+
+1. [日剧少女淡颜妆](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%89%A7%E5%B0%91%E5%A5%B3%E6%B7%A1%E9%A2%9C%E5%A6%86%23&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
 
