@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 09:22:03
+## 微博今日热榜 更新于 2020-12-01 10:02:53
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -176,4 +176,18 @@
 1. [十二月文案](https://s.weibo.com//weibo?q=%E5%8D%81%E4%BA%8C%E6%9C%88%E6%96%87%E6%A1%88&Refer=top)
 
 1. [31省区市新增确诊12例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A12%E4%BE%8B%23&Refer=top)
+
+1. [拜登首次听取总统每日简报](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E9%A6%96%E6%AC%A1%E5%90%AC%E5%8F%96%E6%80%BB%E7%BB%9F%E6%AF%8F%E6%97%A5%E7%AE%80%E6%8A%A5&Refer=top)
+
+1. [马首回归圆明园](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%A6%96%E5%9B%9E%E5%BD%92%E5%9C%86%E6%98%8E%E5%9B%AD%23&Refer=top)
+
+1. [77岁奶奶给23岁自己的信](https://s.weibo.com//weibo?q=%2377%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BB%9923%E5%B2%81%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [李荣浩问杨丞琳从哪找那么多狗](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%97%AE%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%BB%8E%E5%93%AA%E6%89%BE%E9%82%A3%E4%B9%88%E5%A4%9A%E7%8B%97&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
+
+1. [送你一朵小红花珍惜版预告](https://s.weibo.com//weibo?q=%23%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E7%8F%8D%E6%83%9C%E7%89%88%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [中学请108名优秀学生吃牛排](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%AD%A6%E8%AF%B7108%E5%90%8D%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%90%83%E7%89%9B%E6%8E%92&Refer=top)
 
