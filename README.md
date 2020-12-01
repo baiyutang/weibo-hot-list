@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-01 18:03:05
+## 微博今日热榜 更新于 2020-12-01 19:02:17
 1. [2分钟回顾乘风破浪的2020](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%842020%23&Refer=new_time)
 
 1. [王俊凯 少点关注我年轻的时候](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%B0%91%E7%82%B9%E5%85%B3%E6%B3%A8%E6%88%91%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99&Refer=top)
@@ -406,4 +406,18 @@
 1. [想要逃离宿舍的洗衣机](https://s.weibo.com//weibo?q=%23%E6%83%B3%E8%A6%81%E9%80%83%E7%A6%BB%E5%AE%BF%E8%88%8D%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%23&Refer=top)
 
 1. [2020最后一个月有两场流星雨](https://s.weibo.com//weibo?q=%232020%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%9C%89%E4%B8%A4%E5%9C%BA%E6%B5%81%E6%98%9F%E9%9B%A8%23&Refer=top)
+
+1. [院士用哈尔滨香肠详解月面采样](https://s.weibo.com//weibo?q=%23%E9%99%A2%E5%A3%AB%E7%94%A8%E5%93%88%E5%B0%94%E6%BB%A8%E9%A6%99%E8%82%A0%E8%AF%A6%E8%A7%A3%E6%9C%88%E9%9D%A2%E9%87%87%E6%A0%B7%23&Refer=top)
+
+1. [总和生育率破警戒线](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%92%8C%E7%94%9F%E8%82%B2%E7%8E%87%E7%A0%B4%E8%AD%A6%E6%88%92%E7%BA%BF%23&Refer=top)
+
+1. [如何让自卑的学生走出困境](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%8D%91%E7%9A%84%E5%AD%A6%E7%94%9F%E8%B5%B0%E5%87%BA%E5%9B%B0%E5%A2%83%23&Refer=top)
+
+1. [住在5元旅店的女人们](https://s.weibo.com//weibo?q=%23%E4%BD%8F%E5%9C%A85%E5%85%83%E6%97%85%E5%BA%97%E7%9A%84%E5%A5%B3%E4%BA%BA%E4%BB%AC%23&Refer=top)
+
+1. [给餐馆扫雪报恩老人获网友捐助](https://s.weibo.com//weibo?q=%23%E7%BB%99%E9%A4%90%E9%A6%86%E6%89%AB%E9%9B%AA%E6%8A%A5%E6%81%A9%E8%80%81%E4%BA%BA%E8%8E%B7%E7%BD%91%E5%8F%8B%E6%8D%90%E5%8A%A9%23&Refer=top)
+
+1. [全国中小学联网率99.7%](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%81%94%E7%BD%91%E7%8E%8799.7%25%23&Refer=top)
+
+1. [原神 钟离](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%A5%9E%20%E9%92%9F%E7%A6%BB%23&Refer=top)
 
