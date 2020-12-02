@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 19:02:45
+## 微博今日热榜 更新于 2020-12-02 20:03:32
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -418,4 +418,22 @@
 1. [甘肃绿皮火车运行48年最低价1元](https://s.weibo.com//weibo?q=%E7%94%98%E8%82%83%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E8%BF%90%E8%A1%8C48%E5%B9%B4%E6%9C%80%E4%BD%8E%E4%BB%B71%E5%85%83&Refer=top)
 
 1. [上海房管部门回复蛋壳事件](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%88%BF%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%A4%8D%E8%9B%8B%E5%A3%B3%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [孟美岐捡到宋妍霏红毯掉的甲片](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%8D%A1%E5%88%B0%E5%AE%8B%E5%A6%8D%E9%9C%8F%E7%BA%A2%E6%AF%AF%E6%8E%89%E7%9A%84%E7%94%B2%E7%89%87%23&Refer=top)
+
+1. [COSMO盛典](https://s.weibo.com//weibo?q=COSMO%E7%9B%9B%E5%85%B8&Refer=top)
+
+1. [钟楚曦 红毯定海神针](https://s.weibo.com//weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%20%E7%BA%A2%E6%AF%AF%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88&Refer=top)
+
+1. [刘诗诗拖尾西装好帅](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%8B%96%E5%B0%BE%E8%A5%BF%E8%A3%85%E5%A5%BD%E5%B8%85%23&Refer=top)
+
+1. [宋茜黛绿烟波礼服](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E9%BB%9B%E7%BB%BF%E7%83%9F%E6%B3%A2%E7%A4%BC%E6%9C%8D%23&Refer=top)
+
+1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [关晓彤能不能换个造型师](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8D%A2%E4%B8%AA%E9%80%A0%E5%9E%8B%E5%B8%88&Refer=top)
+
+1. [小米成立集团总办](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E6%88%90%E7%AB%8B%E9%9B%86%E5%9B%A2%E6%80%BB%E5%8A%9E&Refer=top)
+
+1. [云南踢学生涉事教师被处以停职](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E8%B8%A2%E5%AD%A6%E7%94%9F%E6%B6%89%E4%BA%8B%E6%95%99%E5%B8%88%E8%A2%AB%E5%A4%84%E4%BB%A5%E5%81%9C%E8%81%8C&Refer=top)
 
