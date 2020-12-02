@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 08:06:34
+## 微博今日热榜 更新于 2020-12-02 09:21:34
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -156,4 +156,20 @@
 1. [嫦娥五号落月瞬间](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%90%BD%E6%9C%88%E7%9E%AC%E9%97%B4%23&Refer=top)
 
 1. [假装自己戴了口罩](https://s.weibo.com//weibo?q=%23%E5%81%87%E8%A3%85%E8%87%AA%E5%B7%B1%E6%88%B4%E4%BA%86%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [青岛新增2例本地无症状感染者](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%B0%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [拜登受伤后首次公开露面](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%97%E4%BC%A4%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%23&Refer=top)
+
+1. [中国驻法国使馆发言人回应](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%B3%95%E5%9B%BD%E4%BD%BF%E9%A6%86%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [英国83岁老人因放音乐声太大坐牢](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD83%E5%B2%81%E8%80%81%E4%BA%BA%E5%9B%A0%E6%94%BE%E9%9F%B3%E4%B9%90%E5%A3%B0%E5%A4%AA%E5%A4%A7%E5%9D%90%E7%89%A2&Refer=top)
+
+1. [教体局通报老师强迫学生摔手机](https://s.weibo.com//weibo?q=%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E8%80%81%E5%B8%88%E5%BC%BA%E8%BF%AB%E5%AD%A6%E7%94%9F%E6%91%94%E6%89%8B%E6%9C%BA&Refer=top)
+
+1. [皇马遭矿工双杀](https://s.weibo.com//weibo?q=%E7%9A%87%E9%A9%AC%E9%81%AD%E7%9F%BF%E5%B7%A5%E5%8F%8C%E6%9D%80&Refer=top)
+
+1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
+
+1. [阿富汗村民回忆澳军暴行](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%9D%91%E6%B0%91%E5%9B%9E%E5%BF%86%E6%BE%B3%E5%86%9B%E6%9A%B4%E8%A1%8C%23&Refer=top)
 
