@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-03 06:03:02
+## 微博今日热榜 更新于 2020-12-03 07:02:34
 1. [知危险平安行](https://s.weibo.com//weibo?q=%23%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%B9%B3%E5%AE%89%E8%A1%8C%23&Refer=new_time)
 
 1. [杨幂 刘诗诗你干嘛抢我台词](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E5%88%98%E8%AF%97%E8%AF%97%E4%BD%A0%E5%B9%B2%E5%98%9B%E6%8A%A2%E6%88%91%E5%8F%B0%E8%AF%8D&Refer=top)
