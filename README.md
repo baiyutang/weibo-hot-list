@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 15:02:46
+## 微博今日热榜 更新于 2020-12-02 16:03:14
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -314,4 +314,26 @@
 1. [因为身高吃过的亏](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA%E8%BA%AB%E9%AB%98%E5%90%83%E8%BF%87%E7%9A%84%E4%BA%8F%23&Refer=top)
 
 1. [猫咪是冬日限定暖宝宝](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E6%98%AF%E5%86%AC%E6%97%A5%E9%99%90%E5%AE%9A%E6%9A%96%E5%AE%9D%E5%AE%9D%23&Refer=top)
+
+1. [不准以任何方式强迫毕业生签就业协议](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%87%86%E4%BB%A5%E4%BB%BB%E4%BD%95%E6%96%B9%E5%BC%8F%E5%BC%BA%E8%BF%AB%E6%AF%95%E4%B8%9A%E7%94%9F%E7%AD%BE%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE%23&Refer=top)
+
+1. [丁真妈妈回应儿子入职国企](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E5%85%A5%E8%81%8C%E5%9B%BD%E4%BC%81&Refer=top)
+
+1. [15岁女生发明捡乒乓球机器人](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E5%8F%91%E6%98%8E%E6%8D%A1%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&Refer=top)
+
+1. [上海技能人才平均工资突破12万元](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E7%AA%81%E7%A0%B412%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [乌布雷求婚成功](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%B8%83%E9%9B%B7%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F&Refer=top)
+
+1. [国际乒联最新世界排名](https://s.weibo.com//weibo?q=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [黄之锋涉非法集结案被判刑](https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E6%B6%89%E9%9D%9E%E6%B3%95%E9%9B%86%E7%BB%93%E6%A1%88%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top)
+
+1. [活带鱼有多惊艳](https://s.weibo.com//weibo?q=%23%E6%B4%BB%E5%B8%A6%E9%B1%BC%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top)
+
+1. [英国批准辉瑞新冠疫苗](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E6%89%B9%E5%87%86%E8%BE%89%E7%91%9E%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [钮承泽性侵案二审被判4年](https://s.weibo.com//weibo?q=%E9%92%AE%E6%89%BF%E6%B3%BD%E6%80%A7%E4%BE%B5%E6%A1%88%E4%BA%8C%E5%AE%A1%E8%A2%AB%E5%88%A44%E5%B9%B4&Refer=top)
+
+1. [自如暂停部分租金贷业务](https://s.weibo.com//weibo?q=%23%E8%87%AA%E5%A6%82%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E7%A7%9F%E9%87%91%E8%B4%B7%E4%B8%9A%E5%8A%A1%23&Refer=top)
 
