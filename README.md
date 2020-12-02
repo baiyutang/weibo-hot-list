@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 11:02:44
+## 微博今日热榜 更新于 2020-12-02 12:03:14
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -230,4 +230,18 @@
 1. [2020只剩最后30天](https://s.weibo.com//weibo?q=%232020%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E30%E5%A4%A9%23&Refer=top)
 
 1. [阿富汗时报发表社论](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%97%B6%E6%8A%A5%E5%8F%91%E8%A1%A8%E7%A4%BE%E8%AE%BA%23&Refer=top)
+
+1. [这是2020中国青年的样子](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF2020%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=new_time)
+
+1. [湖南卫视跨年首波阵容](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [张亮儿子13岁近照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%AE%E5%84%BF%E5%AD%9013%E5%B2%81%E8%BF%91%E7%85%A7%23&Refer=top)
+
+1. [吃个方便面太不容易了](https://s.weibo.com//weibo?q=%23%E5%90%83%E4%B8%AA%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%A4%AA%E4%B8%8D%E5%AE%B9%E6%98%93%E4%BA%86%23&Refer=top)
+
+1. [COSMO时尚盛典](https://s.weibo.com//weibo?q=COSMO%E6%97%B6%E5%B0%9A%E7%9B%9B%E5%85%B8&Refer=top)
+
+1. [英国两大零售业巨头一天内倒闭](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E4%B8%A4%E5%A4%A7%E9%9B%B6%E5%94%AE%E4%B8%9A%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%A4%A9%E5%86%85%E5%80%92%E9%97%AD&Refer=top)
+
+1. [小米集团回应停牌](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E5%81%9C%E7%89%8C%23&Refer=top)
 
