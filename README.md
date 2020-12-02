@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-03 02:02:51
+## 微博今日热榜 更新于 2020-12-03 03:02:14
 1. [知危险平安行](https://s.weibo.com//weibo?q=%23%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%B9%B3%E5%AE%89%E8%A1%8C%23&Refer=new_time)
 
 1. [杨幂 刘诗诗你干嘛抢我台词](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E5%88%98%E8%AF%97%E8%AF%97%E4%BD%A0%E5%B9%B2%E5%98%9B%E6%8A%A2%E6%88%91%E5%8F%B0%E8%AF%8D&Refer=top)
@@ -112,4 +112,12 @@
 1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
 
 1. [澳大利亚](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [蓝俏俏好气人](https://s.weibo.com//weibo?q=%E8%93%9D%E4%BF%8F%E4%BF%8F%E5%A5%BD%E6%B0%94%E4%BA%BA&Refer=top)
+
+1. [流金岁月给我搞快点](https://s.weibo.com//weibo?q=%23%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88%E7%BB%99%E6%88%91%E6%90%9E%E5%BF%AB%E7%82%B9%23&Refer=top)
+
+1. [大秦赋](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%A7%A6%E8%B5%8B&Refer=top)
 
