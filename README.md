@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 22:03:13
+## 微博今日热榜 更新于 2020-12-02 23:04:00
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -488,4 +488,24 @@
 1. [于洪臣](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%B4%AA%E8%87%A3&Refer=top)
 
 1. [市民送民警锦旗称长得帅破案快](https://s.weibo.com//weibo?q=%23%E5%B8%82%E6%B0%91%E9%80%81%E6%B0%91%E8%AD%A6%E9%94%A6%E6%97%97%E7%A7%B0%E9%95%BF%E5%BE%97%E5%B8%85%E7%A0%B4%E6%A1%88%E5%BF%AB%23&Refer=top)
+
+1. [杨幂 刘诗诗你干嘛抢我台词](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E5%88%98%E8%AF%97%E8%AF%97%E4%BD%A0%E5%B9%B2%E5%98%9B%E6%8A%A2%E6%88%91%E5%8F%B0%E8%AF%8D&Refer=top)
+
+1. [我爱美女](https://s.weibo.com//weibo?q=%E6%88%91%E7%88%B1%E7%BE%8E%E5%A5%B3&Refer=top)
+
+1. [丁辉被约谈](https://s.weibo.com//weibo?q=%23%E4%B8%81%E8%BE%89%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
+
+1. [郭士强骂人](https://s.weibo.com//weibo?q=%E9%83%AD%E5%A3%AB%E5%BC%BA%E9%AA%82%E4%BA%BA&Refer=top)
+
+1. [西安电子科技大学拟清退77名学生](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%8B%9F%E6%B8%85%E9%80%8077%E5%90%8D%E5%AD%A6%E7%94%9F&Refer=top)
+
+1. [蔡徐坤衣柜里最多的时尚单品是衣架](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%A1%A3%E6%9F%9C%E9%87%8C%E6%9C%80%E5%A4%9A%E7%9A%84%E6%97%B6%E5%B0%9A%E5%8D%95%E5%93%81%E6%98%AF%E8%A1%A3%E6%9E%B6%23&Refer=top)
+
+1. [深圳新增1例新冠阳性病例](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [郭艾伦得分升至历史第22](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%BE%97%E5%88%86%E5%8D%87%E8%87%B3%E5%8E%86%E5%8F%B2%E7%AC%AC22%23&Refer=top)
+
+1. [吴昕 觉得自己太美了](https://s.weibo.com//weibo?q=%E5%90%B4%E6%98%95%20%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%A4%AA%E7%BE%8E%E4%BA%86&Refer=top)
+
+1. [微众银行](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C&Refer=top)
 
