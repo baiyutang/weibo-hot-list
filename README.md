@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 13:03:03
+## 微博今日热榜 更新于 2020-12-02 14:03:00
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -278,4 +278,16 @@
 1. [哈尔滨性侵4岁女童嫌犯被判死刑](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E6%80%A7%E4%BE%B54%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&Refer=top)
 
 1. [电焊专业在寝室赶作业](https://s.weibo.com//weibo?q=%23%E7%94%B5%E7%84%8A%E4%B8%93%E4%B8%9A%E5%9C%A8%E5%AF%9D%E5%AE%A4%E8%B5%B6%E4%BD%9C%E4%B8%9A%23&Refer=top)
+
+1. [8个安全出行忠告](https://s.weibo.com//weibo?q=%238%E4%B8%AA%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%E5%BF%A0%E5%91%8A%23&Refer=new_time)
+
+1. [金晨和陈一鸣约会害羞了](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%A8%E5%92%8C%E9%99%88%E4%B8%80%E9%B8%A3%E7%BA%A6%E4%BC%9A%E5%AE%B3%E7%BE%9E%E4%BA%86&Refer=top)
+
+1. [罗志祥](https://s.weibo.com//weibo?q=%E7%BD%97%E5%BF%97%E7%A5%A5&Refer=top)
+
+1. [女儿们的恋爱](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%84%BF%E4%BB%AC%E7%9A%84%E6%81%8B%E7%88%B1&Refer=top)
+
+1. [气象部门回应河南人工增雪](https://s.weibo.com//weibo?q=%23%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%8D%97%E4%BA%BA%E5%B7%A5%E5%A2%9E%E9%9B%AA%23&Refer=top)
+
+1. [薇娅](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85&Refer=top)
 
