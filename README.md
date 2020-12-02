@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-02 09:21:34
+## 微博今日热榜 更新于 2020-12-02 10:02:33
 1. [文旅部拟增15个国家级旅游度假区](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8B%9F%E5%A2%9E15%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%8C%BA%23&Refer=new_time)
 
 1. [13岁的天天](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%9A%84%E5%A4%A9%E5%A4%A9%23&Refer=top)
@@ -172,4 +172,28 @@
 1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
 
 1. [阿富汗村民回忆澳军暴行](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%9D%91%E6%B0%91%E5%9B%9E%E5%BF%86%E6%BE%B3%E5%86%9B%E6%9A%B4%E8%A1%8C%23&Refer=top)
+
+1. [电子竞技员国家职业技能标准](https://s.weibo.com//weibo?q=%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E5%91%98%E5%9B%BD%E5%AE%B6%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E6%A0%87%E5%87%86&Refer=top)
+
+1. [艾伦佩吉宣布为跨性别者](https://s.weibo.com//weibo?q=%E8%89%BE%E4%BC%A6%E4%BD%A9%E5%90%89%E5%AE%A3%E5%B8%83%E4%B8%BA%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85&Refer=top)
+
+1. [我国每年都发生近20万起交通事故](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%AF%8F%E5%B9%B4%E9%83%BD%E5%8F%91%E7%94%9F%E8%BF%9120%E4%B8%87%E8%B5%B7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [工科学校的水龙头](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E7%A7%91%E5%AD%A6%E6%A0%A1%E7%9A%84%E6%B0%B4%E9%BE%99%E5%A4%B4%23&Refer=top)
+
+1. [C罗荣获2020年金足奖](https://s.weibo.com//weibo?q=C%E7%BD%97%E8%8D%A3%E8%8E%B72020%E5%B9%B4%E9%87%91%E8%B6%B3%E5%A5%96&Refer=top)
+
+1. [青岛通报新增无症状感染者详情](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E9%80%9A%E6%8A%A5%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [勇士两名球员感染新冠](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E4%B8%A4%E5%90%8D%E7%90%83%E5%91%98%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [南方装地暖降价近半](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E8%A3%85%E5%9C%B0%E6%9A%96%E9%99%8D%E4%BB%B7%E8%BF%91%E5%8D%8A%23&Refer=top)
+
+1. [嫦娥五号落月画面](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%90%BD%E6%9C%88%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [2020中国最具影响力商界女性](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%95%86%E7%95%8C%E5%A5%B3%E6%80%A7%23&Refer=top)
+
+1. [超鬼王](https://s.weibo.com//weibo?q=%E8%B6%85%E9%AC%BC%E7%8E%8B&Refer=top)
+
+1. [毛笔画出了打印机的效果](https://s.weibo.com//weibo?q=%E6%AF%9B%E7%AC%94%E7%94%BB%E5%87%BA%E4%BA%86%E6%89%93%E5%8D%B0%E6%9C%BA%E7%9A%84%E6%95%88%E6%9E%9C&Refer=top)
 
