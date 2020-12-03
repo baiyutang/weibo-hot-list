@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-04 01:05:21
+## 微博今日热榜 更新于 2020-12-04 02:02:57
 1. [十三五易地扶贫搬迁任务已全面完成](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%89%E4%BA%94%E6%98%93%E5%9C%B0%E6%89%B6%E8%B4%AB%E6%90%AC%E8%BF%81%E4%BB%BB%E5%8A%A1%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%AE%8C%E6%88%90%23&Refer=new_time)
 
 1. [黄子韬劝被出轨的粉丝分手](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8A%9D%E8%A2%AB%E5%87%BA%E8%BD%A8%E7%9A%84%E7%B2%89%E4%B8%9D%E5%88%86%E6%89%8B&Refer=top)
@@ -110,4 +110,6 @@
 1. [我国已累计培养25万多名博士后](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E7%B4%AF%E8%AE%A1%E5%9F%B9%E5%85%BB25%E4%B8%87%E5%A4%9A%E5%90%8D%E5%8D%9A%E5%A3%AB%E5%90%8E%23&Refer=new_time)
 
 1. [浓眉顶薪续约湖人](https://s.weibo.com//weibo?q=%E6%B5%93%E7%9C%89%E9%A1%B6%E8%96%AA%E7%BB%AD%E7%BA%A6%E6%B9%96%E4%BA%BA&Refer=top)
+
+1. [被关震雷气死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%85%B3%E9%9C%87%E9%9B%B7%E6%B0%94%E6%AD%BB%23&Refer=top)
 
