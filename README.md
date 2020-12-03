@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-03 07:02:34
+## 微博今日热榜 更新于 2020-12-03 08:06:54
 1. [知危险平安行](https://s.weibo.com//weibo?q=%23%E7%9F%A5%E5%8D%B1%E9%99%A9%E5%B9%B3%E5%AE%89%E8%A1%8C%23&Refer=new_time)
 
 1. [杨幂 刘诗诗你干嘛抢我台词](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E5%88%98%E8%AF%97%E8%AF%97%E4%BD%A0%E5%B9%B2%E5%98%9B%E6%8A%A2%E6%88%91%E5%8F%B0%E8%AF%8D&Refer=top)
@@ -128,4 +128,30 @@
 1. [体育差生图鉴](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E5%B7%AE%E7%94%9F%E5%9B%BE%E9%89%B4%23&Refer=top)
 
 1. [黄之锋涉非法集结案被判刑](https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E6%B6%89%E9%9D%9E%E6%B3%95%E9%9B%86%E7%BB%93%E6%A1%88%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top)
+
+1. [黄俊捷回应恋情](https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%BF%8A%E6%8D%B7%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [张紫宁高速摆pose](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%B4%AB%E5%AE%81%E9%AB%98%E9%80%9F%E6%91%86pose%23&Refer=top)
+
+1. [小男孩第一次见到男生化妆](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E7%94%B7%E7%94%9F%E5%8C%96%E5%A6%86%23&Refer=top)
+
+1. [王菊怼自家宣传](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%8F%8A%E6%80%BC%E8%87%AA%E5%AE%B6%E5%AE%A3%E4%BC%A0&Refer=top)
+
+1. [詹姆斯续约湖人](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E7%BB%AD%E7%BA%A6%E6%B9%96%E4%BA%BA%23&Refer=top)
+
+1. [央视探访深圳万人抢房楼盘](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8E%A2%E8%AE%BF%E6%B7%B1%E5%9C%B3%E4%B8%87%E4%BA%BA%E6%8A%A2%E6%88%BF%E6%A5%BC%E7%9B%98%23&Refer=top)
+
+1. [九尾狐传](https://s.weibo.com//weibo?q=%E4%B9%9D%E5%B0%BE%E7%8B%90%E4%BC%A0&Refer=top)
+
+1. [唐僧一路上是如何拒绝女人](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%83%A7%E4%B8%80%E8%B7%AF%E4%B8%8A%E6%98%AF%E5%A6%82%E4%BD%95%E6%8B%92%E7%BB%9D%E5%A5%B3%E4%BA%BA%23&Refer=top)
+
+1. [美国单日新增新冠确诊超20万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%8520%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [使用人脸识别的法律边界在哪儿](https://s.weibo.com//weibo?q=%23%E4%BD%BF%E7%94%A8%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%9A%84%E6%B3%95%E5%BE%8B%E8%BE%B9%E7%95%8C%E5%9C%A8%E5%93%AA%E5%84%BF%23&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [阿朵回马枪式走红毯](https://s.weibo.com//weibo?q=%E9%98%BF%E6%9C%B5%E5%9B%9E%E9%A9%AC%E6%9E%AA%E5%BC%8F%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
+
+1. [外交部回应美国将限制中企在美上市](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%99%90%E5%88%B6%E4%B8%AD%E4%BC%81%E5%9C%A8%E7%BE%8E%E4%B8%8A%E5%B8%82%23&Refer=top)
 
