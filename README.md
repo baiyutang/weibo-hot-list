@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-04 06:03:05
+## 微博今日热榜 更新于 2020-12-04 07:02:50
 1. [十三五易地扶贫搬迁任务已全面完成](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%89%E4%BA%94%E6%98%93%E5%9C%B0%E6%89%B6%E8%B4%AB%E6%90%AC%E8%BF%81%E4%BB%BB%E5%8A%A1%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%AE%8C%E6%88%90%23&Refer=new_time)
 
 1. [黄子韬劝被出轨的粉丝分手](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8A%9D%E8%A2%AB%E5%87%BA%E8%BD%A8%E7%9A%84%E7%B2%89%E4%B8%9D%E5%88%86%E6%89%8B&Refer=top)
@@ -128,4 +128,6 @@
 1. [2020中国的足迹](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [王霏霏在逃香水图鉴](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%8F%E9%9C%8F%E5%9C%A8%E9%80%83%E9%A6%99%E6%B0%B4%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [供暖公司被送制冷能手锦旗](https://s.weibo.com//weibo?q=%E4%BE%9B%E6%9A%96%E5%85%AC%E5%8F%B8%E8%A2%AB%E9%80%81%E5%88%B6%E5%86%B7%E8%83%BD%E6%89%8B%E9%94%A6%E6%97%97&Refer=top)
 
