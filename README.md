@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 01:22:52
+## 微博今日热榜 更新于 2020-12-05 02:02:52
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -108,4 +108,12 @@
 1. [脱贫攻坚总结评估汇报](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%AF%84%E4%BC%B0%E6%B1%87%E6%8A%A5%23&Refer=new_time)
 
 1. [新西游记8](https://s.weibo.com//weibo?q=%E6%96%B0%E8%A5%BF%E6%B8%B8%E8%AE%B08&Refer=top)
+
+1. [薇娅刘德华直播](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%88%98%E5%BE%B7%E5%8D%8E%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [月亮](https://s.weibo.com//weibo?q=%E6%9C%88%E4%BA%AE&Refer=top)
+
+1. [五星红旗再次闪耀月球](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%86%8D%E6%AC%A1%E9%97%AA%E8%80%80%E6%9C%88%E7%90%83%23&Refer=top)
+
+1. [南大学生回应申请贫困补助炫富](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E7%94%B3%E8%AF%B7%E8%B4%AB%E5%9B%B0%E8%A1%A5%E5%8A%A9%E7%82%AB%E5%AF%8C%23&Refer=top)
 
