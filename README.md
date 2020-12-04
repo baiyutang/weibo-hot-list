@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-04 13:02:52
+## 微博今日热榜 更新于 2020-12-04 14:03:00
 1. [十三五易地扶贫搬迁任务已全面完成](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%89%E4%BA%94%E6%98%93%E5%9C%B0%E6%89%B6%E8%B4%AB%E6%90%AC%E8%BF%81%E4%BB%BB%E5%8A%A1%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%AE%8C%E6%88%90%23&Refer=new_time)
 
 1. [黄子韬劝被出轨的粉丝分手](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8A%9D%E8%A2%AB%E5%87%BA%E8%BD%A8%E7%9A%84%E7%B2%89%E4%B8%9D%E5%88%86%E6%89%8B&Refer=top)
@@ -272,4 +272,16 @@
 1. [哈里斯高级幕僚团队全为女性](https://s.weibo.com//weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E9%AB%98%E7%BA%A7%E5%B9%95%E5%83%9A%E5%9B%A2%E9%98%9F%E5%85%A8%E4%B8%BA%E5%A5%B3%E6%80%A7%23&Refer=top)
 
 1. [郭敬明无量预告](https://s.weibo.com//weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E6%97%A0%E9%87%8F%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [谈莉娜被记者问哭](https://s.weibo.com//weibo?q=%23%E8%B0%88%E8%8E%89%E5%A8%9C%E8%A2%AB%E8%AE%B0%E8%80%85%E9%97%AE%E5%93%AD%23&Refer=top)
+
+1. [仝卓被AI换脸](https://s.weibo.com//weibo?q=%23%E4%BB%9D%E5%8D%93%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23&Refer=top)
+
+1. [华纳兄弟宣布取消院线窗口期](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E9%99%A2%E7%BA%BF%E7%AA%97%E5%8F%A3%E6%9C%9F%23&Refer=top)
+
+1. [日月同辉](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%88%E5%90%8C%E8%BE%89&Refer=top)
+
+1. [西藏阿里地区接入国家电网](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E9%98%BF%E9%87%8C%E5%9C%B0%E5%8C%BA%E6%8E%A5%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%23&Refer=top)
+
+1. [离婚冷静期一方不同意离婚怎么办](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E4%B8%80%E6%96%B9%E4%B8%8D%E5%90%8C%E6%84%8F%E7%A6%BB%E5%A9%9A%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top)
 
