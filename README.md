@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-04 08:06:47
+## 微博今日热榜 更新于 2020-12-04 09:22:38
 1. [十三五易地扶贫搬迁任务已全面完成](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%89%E4%BA%94%E6%98%93%E5%9C%B0%E6%89%B6%E8%B4%AB%E6%90%AC%E8%BF%81%E4%BB%BB%E5%8A%A1%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%AE%8C%E6%88%90%23&Refer=new_time)
 
 1. [黄子韬劝被出轨的粉丝分手](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8A%9D%E8%A2%AB%E5%87%BA%E8%BD%A8%E7%9A%84%E7%B2%89%E4%B8%9D%E5%88%86%E6%89%8B&Refer=top)
@@ -166,4 +166,22 @@
 1. [我向你敬礼salute](https://s.weibo.com//weibo?q=%E6%88%91%E5%90%91%E4%BD%A0%E6%95%AC%E7%A4%BCsalute&Refer=top)
 
 1. [正确的生育观](https://s.weibo.com//weibo?q=%23%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%94%9F%E8%82%B2%E8%A7%82%23&Refer=top)
+
+1. [直播带货三天卖出130万元假口红](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B8%89%E5%A4%A9%E5%8D%96%E5%87%BA130%E4%B8%87%E5%85%83%E5%81%87%E5%8F%A3%E7%BA%A2%23&Refer=top)
+
+1. [厂长](https://s.weibo.com//weibo?q=%E5%8E%82%E9%95%BF&Refer=top)
+
+1. [东京奥运会日本国内退票81万张](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E9%80%80%E7%A5%A881%E4%B8%87%E5%BC%A0%23&Refer=top)
+
+1. [31省区市新增17例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E17%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [TheShy将缺席LOL全明星赛](https://s.weibo.com//weibo?q=TheShy%E5%B0%86%E7%BC%BA%E5%B8%ADLOL%E5%85%A8%E6%98%8E%E6%98%9F%E8%B5%9B&Refer=top)
+
+1. [阴阳师超鬼王](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E8%B6%85%E9%AC%BC%E7%8E%8B&Refer=top)
+
+1. [四川广播电视大学更名为四川开放大学](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%A4%A7%E5%AD%A6%E6%9B%B4%E5%90%8D%E4%B8%BA%E5%9B%9B%E5%B7%9D%E5%BC%80%E6%94%BE%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [黄俊捷](https://s.weibo.com//weibo?q=%E9%BB%84%E4%BF%8A%E6%8D%B7&Refer=top)
+
+1. [低温冷冻消毒剂即将研制成功](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E6%B8%A9%E5%86%B7%E5%86%BB%E6%B6%88%E6%AF%92%E5%89%82%E5%8D%B3%E5%B0%86%E7%A0%94%E5%88%B6%E6%88%90%E5%8A%9F%23&Refer=top)
 
