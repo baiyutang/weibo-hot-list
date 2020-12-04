@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 04:02:51
+## 微博今日热榜 更新于 2020-12-05 05:02:26
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -120,4 +120,12 @@
 1. [恒大亚冠出局](https://s.weibo.com//weibo?q=%E6%81%92%E5%A4%A7%E4%BA%9A%E5%86%A0%E5%87%BA%E5%B1%80&Refer=top)
 
 1. [DYG晋级总决赛](https://s.weibo.com//weibo?q=DYG%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [成毅又憨又认真](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%88%E6%86%A8%E5%8F%88%E8%AE%A4%E7%9C%9F%23&Refer=top)
+
+1. [食贫道镜头下的王冰冰](https://s.weibo.com//weibo?q=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E7%8E%8B%E5%86%B0%E5%86%B0&Refer=top)
+
+1. [赤狐书生](https://s.weibo.com//weibo?q=%E8%B5%A4%E7%8B%90%E4%B9%A6%E7%94%9F&Refer=top)
+
+1. [冷血狂宴](https://s.weibo.com//weibo?q=%E5%86%B7%E8%A1%80%E7%8B%82%E5%AE%B4&Refer=top)
 
