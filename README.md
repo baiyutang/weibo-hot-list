@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 00:04:02
+## 微博今日热榜 更新于 2020-12-05 01:22:52
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [亚冠](https://s.weibo.com//weibo?q=%E4%BA%9A%E5%86%A0&Refer=top)
 
 1. [GQ年度人物盛典主题大片](https://s.weibo.com//weibo?q=%23GQ%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E7%9B%9B%E5%85%B8%E4%B8%BB%E9%A2%98%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [脱贫攻坚总结评估汇报](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%AF%84%E4%BC%B0%E6%B1%87%E6%8A%A5%23&Refer=new_time)
+
+1. [新西游记8](https://s.weibo.com//weibo?q=%E6%96%B0%E8%A5%BF%E6%B8%B8%E8%AE%B08&Refer=top)
 
