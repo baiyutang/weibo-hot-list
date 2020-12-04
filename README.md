@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-04 09:22:38
+## 微博今日热榜 更新于 2020-12-04 10:02:51
 1. [十三五易地扶贫搬迁任务已全面完成](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%89%E4%BA%94%E6%98%93%E5%9C%B0%E6%89%B6%E8%B4%AB%E6%90%AC%E8%BF%81%E4%BB%BB%E5%8A%A1%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%AE%8C%E6%88%90%23&Refer=new_time)
 
 1. [黄子韬劝被出轨的粉丝分手](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8A%9D%E8%A2%AB%E5%87%BA%E8%BD%A8%E7%9A%84%E7%B2%89%E4%B8%9D%E5%88%86%E6%89%8B&Refer=top)
@@ -184,4 +184,24 @@
 1. [黄俊捷](https://s.weibo.com//weibo?q=%E9%BB%84%E4%BF%8A%E6%8D%B7&Refer=top)
 
 1. [低温冷冻消毒剂即将研制成功](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E6%B8%A9%E5%86%B7%E5%86%BB%E6%B6%88%E6%AF%92%E5%89%82%E5%8D%B3%E5%B0%86%E7%A0%94%E5%88%B6%E6%88%90%E5%8A%9F%23&Refer=top)
+
+1. [奥巴马称绝对会接种新冠疫苗](https://s.weibo.com//weibo?q=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E7%BB%9D%E5%AF%B9%E4%BC%9A%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [元旦多地机票价格比火车票低一半](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%97%A6%E5%A4%9A%E5%9C%B0%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E6%AF%94%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BD%8E%E4%B8%80%E5%8D%8A%23&Refer=top)
+
+1. [快递员以为丁真是图书馆管理员](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E4%BB%A5%E4%B8%BA%E4%B8%81%E7%9C%9F%E6%98%AF%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%AE%A1%E7%90%86%E5%91%98%23&Refer=top)
+
+1. [杨丞琳夸金钟仁跳舞超好看](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%A4%B8%E9%87%91%E9%92%9F%E4%BB%81%E8%B7%B3%E8%88%9E%E8%B6%85%E5%A5%BD%E7%9C%8B%23&Refer=top)
+
+1. [广州棠下发生地陷](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E6%A3%A0%E4%B8%8B%E5%8F%91%E7%94%9F%E5%9C%B0%E9%99%B7&Refer=top)
+
+1. [陕西收到羊肉全院将吃羊肉泡馍](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E6%94%B6%E5%88%B0%E7%BE%8A%E8%82%89%E5%85%A8%E9%99%A2%E5%B0%86%E5%90%83%E7%BE%8A%E8%82%89%E6%B3%A1%E9%A6%8D&Refer=top)
+
+1. [赤狐书生终极预告](https://s.weibo.com//weibo?q=%23%E8%B5%A4%E7%8B%90%E4%B9%A6%E7%94%9F%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [内蒙古新增本土确诊3例](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A3%E4%BE%8B%23&Refer=top)
+
+1. [拜登称将要求美国人戴口罩100天](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E5%B0%86%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%88%B4%E5%8F%A3%E7%BD%A9100%E5%A4%A9%23&Refer=top)
+
+1. [威少改穿4号球衣](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E6%94%B9%E7%A9%BF4%E5%8F%B7%E7%90%83%E8%A1%A3&Refer=top)
 
