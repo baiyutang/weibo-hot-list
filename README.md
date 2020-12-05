@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 15:03:12
+## 微博今日热榜 更新于 2020-12-05 16:02:59
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -316,4 +316,22 @@
 1. [中国最长火车有多长](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%81%AB%E8%BD%A6%E6%9C%89%E5%A4%9A%E9%95%BF%23&Refer=top)
 
 1. [特朗普下令从索马里撤出大部分美军](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E4%BB%8E%E7%B4%A2%E9%A9%AC%E9%87%8C%E6%92%A4%E5%87%BA%E5%A4%A7%E9%83%A8%E5%88%86%E7%BE%8E%E5%86%9B%23&Refer=top)
+
+1. [致敬志愿者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E5%BF%97%E6%84%BF%E8%80%85%23&Refer=new_time)
+
+1. [王霏霏 谁会不爱美女呢](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%9C%8F%E9%9C%8F%20%E8%B0%81%E4%BC%9A%E4%B8%8D%E7%88%B1%E7%BE%8E%E5%A5%B3%E5%91%A2&Refer=top)
+
+1. [爱奇艺尖叫之夜](https://s.weibo.com//weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C&Refer=top)
+
+1. [姜云升被私生威胁](https://s.weibo.com//weibo?q=%E5%A7%9C%E4%BA%91%E5%8D%87%E8%A2%AB%E7%A7%81%E7%94%9F%E5%A8%81%E8%83%81&Refer=top)
+
+1. [xxxfffff_97](https://s.weibo.com//weibo?q=xxxfffff_97&Refer=top)
+
+1. [丁真得到一匹名叫青龙的赛马](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%BE%97%E5%88%B0%E4%B8%80%E5%8C%B9%E5%90%8D%E5%8F%AB%E9%9D%92%E9%BE%99%E7%9A%84%E8%B5%9B%E9%A9%AC%23&Refer=top)
+
+1. [李易峰长春](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E9%95%BF%E6%98%A5%23&Refer=top)
+
+1. [雷佳音](https://s.weibo.com//weibo?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3&Refer=top)
+
+1. [如果声音不记得](https://s.weibo.com//weibo?q=%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97&Refer=top)
 
