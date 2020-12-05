@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 10:03:27
+## 微博今日热榜 更新于 2020-12-05 11:02:51
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -198,4 +198,30 @@
 1. [重庆一煤矿发生一氧化碳超限24人被困](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E8%B6%85%E9%99%9024%E4%BA%BA%E8%A2%AB%E5%9B%B0%23&Refer=top)
 
 1. [杨幂没走GQ台阶](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E6%B2%A1%E8%B5%B0GQ%E5%8F%B0%E9%98%B6&Refer=top)
+
+1. [赤狐书生评分](https://s.weibo.com//weibo?q=%23%E8%B5%A4%E7%8B%90%E4%B9%A6%E7%94%9F%E8%AF%84%E5%88%86%23&Refer=top)
+
+1. [小盒鱼会喵喵叫吗](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%9B%92%E9%B1%BC%E4%BC%9A%E5%96%B5%E5%96%B5%E5%8F%AB%E5%90%97&Refer=top)
+
+1. [韩美娟确认参加创4](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E7%A1%AE%E8%AE%A4%E5%8F%82%E5%8A%A0%E5%88%9B4%23&Refer=top)
+
+1. [R1SE](https://s.weibo.com//weibo?q=R1SE&Refer=top)
+
+1. [杨洋王耀庆一起跳舞](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E8%80%80%E5%BA%86%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%88%9E%23&Refer=top)
+
+1. [郭采洁 羽毛飞舞靠浦江的风](https://s.weibo.com//weibo?q=%E9%83%AD%E9%87%87%E6%B4%81%20%E7%BE%BD%E6%AF%9B%E9%A3%9E%E8%88%9E%E9%9D%A0%E6%B5%A6%E6%B1%9F%E7%9A%84%E9%A3%8E&Refer=top)
+
+1. [警察注视女生溺亡被停职](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%AF%9F%E6%B3%A8%E8%A7%86%E5%A5%B3%E7%94%9F%E6%BA%BA%E4%BA%A1%E8%A2%AB%E5%81%9C%E8%81%8C%23&Refer=top)
+
+1. [乌干达印度企业47名中国员工新冠阳性](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%8D%B0%E5%BA%A6%E4%BC%81%E4%B8%9A47%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%91%98%E5%B7%A5%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [养了两年的暹罗](https://s.weibo.com//weibo?q=%E5%85%BB%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%9A%84%E6%9A%B9%E7%BD%97&Refer=top)
+
+1. [重庆永川煤矿事故已致18人遇难](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B418%E4%BA%BA%E9%81%87%E9%9A%BE&Refer=top)
+
+1. [妖怪合租屋](https://s.weibo.com//weibo?q=%E5%A6%96%E6%80%AA%E5%90%88%E7%A7%9F%E5%B1%8B&Refer=top)
+
+1. [遇到不懂的问题只需要打开手机](https://s.weibo.com//weibo?q=%E9%81%87%E5%88%B0%E4%B8%8D%E6%87%82%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%AA%E9%9C%80%E8%A6%81%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA&Refer=top)
+
+1. [交通联合卡](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%80%9A%E8%81%94%E5%90%88%E5%8D%A1&Refer=top)
 
