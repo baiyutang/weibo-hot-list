@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 19:02:55
+## 微博今日热榜 更新于 2020-12-05 20:03:47
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -388,4 +388,20 @@
 1. [2020MMA](https://s.weibo.com//weibo?q=2020MMA&Refer=top)
 
 1. [高诗岩三双](https://s.weibo.com//weibo?q=%E9%AB%98%E8%AF%97%E5%B2%A9%E4%B8%89%E5%8F%8C&Refer=top)
+
+1. [肖战 演员请就位决赛](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E6%BC%94%E5%91%98%E8%AF%B7%E5%B0%B1%E4%BD%8D%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [演员请就位终极盛典](https://s.weibo.com//weibo?q=%E6%BC%94%E5%91%98%E8%AF%B7%E5%B0%B1%E4%BD%8D%E7%BB%88%E6%9E%81%E7%9B%9B%E5%85%B8&Refer=top)
+
+1. [高然](https://s.weibo.com//weibo?q=%E9%AB%98%E7%84%B6&Refer=top)
+
+1. [冷血狂宴评分](https://s.weibo.com//weibo?q=%23%E5%86%B7%E8%A1%80%E7%8B%82%E5%AE%B4%E8%AF%84%E5%88%86%23&Refer=top)
+
+1. [游泳是否应该成为警察必备技能](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E6%88%90%E4%B8%BA%E8%AD%A6%E5%AF%9F%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD%23&Refer=top)
+
+1. [周末最舒服的度过方式](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9C%AB%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E5%BA%A6%E8%BF%87%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [LPL全明星选人](https://s.weibo.com//weibo?q=%23LPL%E5%85%A8%E6%98%8E%E6%98%9F%E9%80%89%E4%BA%BA%23&Refer=top)
+
+1. [DYU GNR](https://s.weibo.com//weibo?q=DYU%20GNR&Refer=top)
 
