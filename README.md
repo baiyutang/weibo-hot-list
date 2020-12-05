@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 00:03:40
+## 微博今日热榜 更新于 2020-12-06 01:05:14
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -102,4 +102,16 @@
 1. [的哥浦东医院深夜排队接患者回家](https://s.weibo.com//weibo?q=%23%E7%9A%84%E5%93%A5%E6%B5%A6%E4%B8%9C%E5%8C%BB%E9%99%A2%E6%B7%B1%E5%A4%9C%E6%8E%92%E9%98%9F%E6%8E%A5%E6%82%A3%E8%80%85%E5%9B%9E%E5%AE%B6%23&Refer=top)
 
 1. [美术老师雪地中扫出巨幅雪竹图](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%9C%AF%E8%80%81%E5%B8%88%E9%9B%AA%E5%9C%B0%E4%B8%AD%E6%89%AB%E5%87%BA%E5%B7%A8%E5%B9%85%E9%9B%AA%E7%AB%B9%E5%9B%BE%23&Refer=top)
+
+1. [2020中国扶贫画卷](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E6%89%B6%E8%B4%AB%E7%94%BB%E5%8D%B7%23&Refer=new_time)
+
+1. [陈志朋和艾福杰尼的对话太好笑了](https://s.weibo.com//weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%92%8C%E8%89%BE%E7%A6%8F%E6%9D%B0%E5%B0%BC%E7%9A%84%E5%AF%B9%E8%AF%9D%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86&Refer=top)
+
+1. [内蒙古严禁教师用微信群布置作业](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%A5%E7%A6%81%E6%95%99%E5%B8%88%E7%94%A8%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A%23&Refer=top)
+
+1. [郭敬明的无量](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E7%9A%84%E6%97%A0%E9%87%8F%23&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [爱的厘米](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E5%8E%98%E7%B1%B3&Refer=top)
 
