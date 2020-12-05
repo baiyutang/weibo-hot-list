@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 16:02:59
+## 微博今日热榜 更新于 2020-12-05 17:03:05
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -334,4 +334,20 @@
 1. [雷佳音](https://s.weibo.com//weibo?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3&Refer=top)
 
 1. [如果声音不记得](https://s.weibo.com//weibo?q=%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97&Refer=top)
+
+1. [中国银行被罚5050万](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%A2%AB%E7%BD%9A5050%E4%B8%87&Refer=top)
+
+1. [律师谈女孩在警察注视下溺亡](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E5%A5%B3%E5%AD%A9%E5%9C%A8%E8%AD%A6%E5%AF%9F%E6%B3%A8%E8%A7%86%E4%B8%8B%E6%BA%BA%E4%BA%A1%23&Refer=top)
+
+1. [外交部副部长谈所谓战狼外交标签](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%B0%88%E6%89%80%E8%B0%93%E6%88%98%E7%8B%BC%E5%A4%96%E4%BA%A4%E6%A0%87%E7%AD%BE%23&Refer=top)
+
+1. [除暴](https://s.weibo.com//weibo?q=%E9%99%A4%E6%9A%B4&Refer=top)
+
+1. [合肥一份进口牛肉外包装检测阳性](https://s.weibo.com//weibo?q=%E5%90%88%E8%82%A5%E4%B8%80%E4%BB%BD%E8%BF%9B%E5%8F%A3%E7%89%9B%E8%82%89%E5%A4%96%E5%8C%85%E8%A3%85%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [朱正廷 别没事总cue我](https://s.weibo.com//weibo?q=%E6%9C%B1%E6%AD%A3%E5%BB%B7%20%E5%88%AB%E6%B2%A1%E4%BA%8B%E6%80%BBcue%E6%88%91&Refer=top)
+
+1. [蔡徐坤头发炸毛了](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%B4%E5%8F%91%E7%82%B8%E6%AF%9B%E4%BA%86%23&Refer=top)
+
+1. [暖胃金汤柠檬鱼](https://s.weibo.com//weibo?q=%23%E6%9A%96%E8%83%83%E9%87%91%E6%B1%A4%E6%9F%A0%E6%AA%AC%E9%B1%BC%23&Refer=top)
 
