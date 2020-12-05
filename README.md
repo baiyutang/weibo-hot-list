@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 18:03:01
+## 微博今日热榜 更新于 2020-12-05 19:02:55
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -372,4 +372,20 @@
 1. [宿舍里的沙雕日常](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E8%88%8D%E9%87%8C%E7%9A%84%E6%B2%99%E9%9B%95%E6%97%A5%E5%B8%B8%23&Refer=top)
 
 1. [冬日火辣辣鸡丝](https://s.weibo.com//weibo?q=%23%E5%86%AC%E6%97%A5%E7%81%AB%E8%BE%A3%E8%BE%A3%E9%B8%A1%E4%B8%9D%23&Refer=top)
+
+1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
+
+1. [丁真对珍珠溺爱到双标](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%AF%B9%E7%8F%8D%E7%8F%A0%E6%BA%BA%E7%88%B1%E5%88%B0%E5%8F%8C%E6%A0%87%23&Refer=top)
+
+1. [张萌点赞](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E7%82%B9%E8%B5%9E%23&Refer=top)
+
+1. [跳河身亡女孩父亲发声](https://s.weibo.com//weibo?q=%23%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [北京新增1例意大利输入确诊病例](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [2020追星现状](https://s.weibo.com//weibo?q=%232020%E8%BF%BD%E6%98%9F%E7%8E%B0%E7%8A%B6%23&Refer=top)
+
+1. [2020MMA](https://s.weibo.com//weibo?q=2020MMA&Refer=top)
+
+1. [高诗岩三双](https://s.weibo.com//weibo?q=%E9%AB%98%E8%AF%97%E5%B2%A9%E4%B8%89%E5%8F%8C&Refer=top)
 
