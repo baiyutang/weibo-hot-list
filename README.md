@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 04:02:43
+## 微博今日热榜 更新于 2020-12-06 05:02:51
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [7日零时9分大雪节气将至](https://s.weibo.com//weibo?q=%237%E6%97%A5%E9%9B%B6%E6%97%B69%E5%88%86%E5%A4%A7%E9%9B%AA%E8%8A%82%E6%B0%94%E5%B0%86%E8%87%B3%23&Refer=new_time)
 
 1. [丁程鑫哭戏感染力](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%93%AD%E6%88%8F%E6%84%9F%E6%9F%93%E5%8A%9B%23&Refer=top)
+
+1. [游泳是否应该成为警察必备技能](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E6%88%90%E4%B8%BA%E8%AD%A6%E5%AF%9F%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD%23&Refer=top)
 
