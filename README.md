@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 09:23:45
+## 微博今日热榜 更新于 2020-12-05 10:03:27
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -182,4 +182,20 @@
 1. [女孩跳河身亡警方被指施救不力](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1%E8%AD%A6%E6%96%B9%E8%A2%AB%E6%8C%87%E6%96%BD%E6%95%91%E4%B8%8D%E5%8A%9B%23&Refer=top)
 
 1. [刘昊然拿到的奖杯](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E6%8B%BF%E5%88%B0%E7%9A%84%E5%A5%96%E6%9D%AF%23&Refer=top)
+
+1. [焉栩嘉](https://s.weibo.com//weibo?q=%E7%84%89%E6%A0%A9%E5%98%89&Refer=top)
+
+1. [苹果被曝无需接触便可被盗一切信息](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E6%97%A0%E9%9C%80%E6%8E%A5%E8%A7%A6%E4%BE%BF%E5%8F%AF%E8%A2%AB%E7%9B%97%E4%B8%80%E5%88%87%E4%BF%A1%E6%81%AF&Refer=top)
+
+1. [新疆完成对楼兰古城重要遗址抢险加固](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%AE%8C%E6%88%90%E5%AF%B9%E6%A5%BC%E5%85%B0%E5%8F%A4%E5%9F%8E%E9%87%8D%E8%A6%81%E9%81%97%E5%9D%80%E6%8A%A2%E9%99%A9%E5%8A%A0%E5%9B%BA%23&Refer=top)
+
+1. [GQ盛典内场图](https://s.weibo.com//weibo?q=GQ%E7%9B%9B%E5%85%B8%E5%86%85%E5%9C%BA%E5%9B%BE&Refer=top)
+
+1. [蔡徐坤刘昊然互相谦让](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%88%98%E6%98%8A%E7%84%B6%E4%BA%92%E7%9B%B8%E8%B0%A6%E8%AE%A9%23&Refer=top)
+
+1. [内蒙古新增2例本土病例](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [重庆一煤矿发生一氧化碳超限24人被困](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E8%B6%85%E9%99%9024%E4%BA%BA%E8%A2%AB%E5%9B%B0%23&Refer=top)
+
+1. [杨幂没走GQ台阶](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E6%B2%A1%E8%B5%B0GQ%E5%8F%B0%E9%98%B6&Refer=top)
 
