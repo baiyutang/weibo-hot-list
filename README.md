@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-05 14:02:58
+## 微博今日热榜 更新于 2020-12-05 15:03:12
 1. [中国核聚变发展取得重大突破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
 
 1. [周扬青第一次上综艺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BB%BC%E8%89%BA%23&Refer=top)
@@ -298,4 +298,22 @@
 1. [独特蓝色鸟居](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E7%89%B9%E8%93%9D%E8%89%B2%E9%B8%9F%E5%B1%85%23&Refer=top)
 
 1. [2020年度十大BGM](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7BGM%23&Refer=top)
+
+1. [2020中国扶贫画卷](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E6%89%B6%E8%B4%AB%E7%94%BB%E5%8D%B7%23&Refer=new_time)
+
+1. [爱奇艺尖叫之夜直播在干啥](https://s.weibo.com//weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%9B%B4%E6%92%AD%E5%9C%A8%E5%B9%B2%E5%95%A5&Refer=top)
+
+1. [的哥浦东医院深夜排队接患者回家](https://s.weibo.com//weibo?q=%23%E7%9A%84%E5%93%A5%E6%B5%A6%E4%B8%9C%E5%8C%BB%E9%99%A2%E6%B7%B1%E5%A4%9C%E6%8E%92%E9%98%9F%E6%8E%A5%E6%82%A3%E8%80%85%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [日本首相再次承诺东京奥运会如期举行](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%86%8D%E6%AC%A1%E6%89%BF%E8%AF%BA%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [复仇者之嫂子联盟](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E4%BB%87%E8%80%85%E4%B9%8B%E5%AB%82%E5%AD%90%E8%81%94%E7%9B%9F%23&Refer=top)
+
+1. [辽宁营口进口冻牛肉外包装阳性](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%BF%9B%E5%8F%A3%E5%86%BB%E7%89%9B%E8%82%89%E5%A4%96%E5%8C%85%E8%A3%85%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [王耀庆 舞娘的喜悲没人看见](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%80%E5%BA%86%20%E8%88%9E%E5%A8%98%E7%9A%84%E5%96%9C%E6%82%B2%E6%B2%A1%E4%BA%BA%E7%9C%8B%E8%A7%81&Refer=top)
+
+1. [中国最长火车有多长](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%81%AB%E8%BD%A6%E6%9C%89%E5%A4%9A%E9%95%BF%23&Refer=top)
+
+1. [特朗普下令从索马里撤出大部分美军](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E4%BB%8E%E7%B4%A2%E9%A9%AC%E9%87%8C%E6%92%A4%E5%87%BA%E5%A4%A7%E9%83%A8%E5%88%86%E7%BE%8E%E5%86%9B%23&Refer=top)
 
