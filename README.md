@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-07 03:02:19
+## 微博今日热榜 更新于 2020-12-07 04:02:52
 1. [我国首次实现月球轨道交会对接](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%23&Refer=new_time)
 
 1. [焉栩嘉道歉需要付费观看](https://s.weibo.com//weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E9%81%93%E6%AD%89%E9%9C%80%E8%A6%81%E4%BB%98%E8%B4%B9%E8%A7%82%E7%9C%8B%23&Refer=top)
@@ -116,4 +116,6 @@
 1. [国家宝藏](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F&Refer=top)
 
 1. [张艺兴张信哲合唱](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BC%A0%E4%BF%A1%E5%93%B2%E5%90%88%E5%94%B1%23&Refer=top)
+
+1. [AG晋级总决赛](https://s.weibo.com//weibo?q=%23AG%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top)
 
