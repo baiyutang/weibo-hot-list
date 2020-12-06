@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 22:02:59
+## 微博今日热榜 更新于 2020-12-06 23:02:34
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -458,4 +458,32 @@
 1. [扑通心动表彰大会](https://s.weibo.com//weibo?q=%23%E6%89%91%E9%80%9A%E5%BF%83%E5%8A%A8%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=top)
 
 1. [王嘉尔普通话好听](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E9%80%9A%E8%AF%9D%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [中国学校结核病防控指南](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%A0%A1%E7%BB%93%E6%A0%B8%E7%97%85%E9%98%B2%E6%8E%A7%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [贾玲回应刘德华喊她演夫人](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E5%9B%9E%E5%BA%94%E5%88%98%E5%BE%B7%E5%8D%8E%E5%96%8A%E5%A5%B9%E6%BC%94%E5%A4%AB%E4%BA%BA&Refer=top)
+
+1. [MAMA颁奖典礼上的消毒人员](https://s.weibo.com//weibo?q=MAMA%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E6%B6%88%E6%AF%92%E4%BA%BA%E5%91%98&Refer=top)
+
+1. [温碧霞身材](https://s.weibo.com//weibo?q=%E6%B8%A9%E7%A2%A7%E9%9C%9E%E8%BA%AB%E6%9D%90&Refer=top)
+
+1. [小伊伊怀孕](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%8A%E4%BC%8A%E6%80%80%E5%AD%95&Refer=top)
+
+1. [TWICE没拿到奖](https://s.weibo.com//weibo?q=%23TWICE%E6%B2%A1%E6%8B%BF%E5%88%B0%E5%A5%96%23&Refer=top)
+
+1. [时代少年团全开麦](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%85%A8%E5%BC%80%E9%BA%A6&Refer=top)
+
+1. [李斯丹妮教腾格尔唱耶斯莫拉](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E6%95%99%E8%85%BE%E6%A0%BC%E5%B0%94%E5%94%B1%E8%80%B6%E6%96%AF%E8%8E%AB%E6%8B%89%23&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [蒙面唱将](https://s.weibo.com//weibo?q=%E8%92%99%E9%9D%A2%E5%94%B1%E5%B0%86&Refer=top)
+
+1. [希林娜依高容祖儿神仙合唱](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E5%AE%B9%E7%A5%96%E5%84%BF%E7%A5%9E%E4%BB%99%E5%90%88%E5%94%B1%23&Refer=top)
+
+1. [今年全球汽车销量或萎缩五分之一](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%88%96%E8%90%8E%E7%BC%A9%E4%BA%94%E5%88%86%E4%B9%8B%E4%B8%80%23&Refer=top)
+
+1. [人工智能还原的宋朝皇帝](https://s.weibo.com//weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BF%98%E5%8E%9F%E7%9A%84%E5%AE%8B%E6%9C%9D%E7%9A%87%E5%B8%9D&Refer=top)
+
+1. [合唱队唯一男生穿长裙占据C位](https://s.weibo.com//weibo?q=%E5%90%88%E5%94%B1%E9%98%9F%E5%94%AF%E4%B8%80%E7%94%B7%E7%94%9F%E7%A9%BF%E9%95%BF%E8%A3%99%E5%8D%A0%E6%8D%AEC%E4%BD%8D&Refer=top)
 
