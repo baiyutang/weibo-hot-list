@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 21:02:51
+## 微博今日热榜 更新于 2020-12-06 22:02:59
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -440,4 +440,22 @@
 1. [守望先锋服务器](https://s.weibo.com//weibo?q=%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%E6%9C%8D%E5%8A%A1%E5%99%A8&Refer=top)
 
 1. [战网崩了](https://s.weibo.com//weibo?q=%E6%88%98%E7%BD%91%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [徐佳莹生子](https://s.weibo.com//weibo?q=%23%E5%BE%90%E4%BD%B3%E8%8E%B9%E7%94%9F%E5%AD%90%23&Refer=top)
+
+1. [王勉怂了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%8B%89%E6%80%82%E4%BA%86%23&Refer=top)
+
+1. [焉栩嘉道歉需要付费观看](https://s.weibo.com//weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E9%81%93%E6%AD%89%E9%9C%80%E8%A6%81%E4%BB%98%E8%B4%B9%E8%A7%82%E7%9C%8B%23&Refer=top)
+
+1. [赵本山潘长江视频太好笑了](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%BD%98%E9%95%BF%E6%B1%9F%E8%A7%86%E9%A2%91%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [闽南没有siri](https://s.weibo.com//weibo?q=%23%E9%97%BD%E5%8D%97%E6%B2%A1%E6%9C%89siri%23&Refer=top)
+
+1. [MAMAMOO](https://s.weibo.com//weibo?q=MAMAMOO&Refer=top)
+
+1. [R1SE酒醉的壶人](https://s.weibo.com//weibo?q=%23R1SE%E9%85%92%E9%86%89%E7%9A%84%E5%A3%B6%E4%BA%BA%23&Refer=top)
+
+1. [扑通心动表彰大会](https://s.weibo.com//weibo?q=%23%E6%89%91%E9%80%9A%E5%BF%83%E5%8A%A8%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=top)
+
+1. [王嘉尔普通话好听](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%99%AE%E9%80%9A%E8%AF%9D%E5%A5%BD%E5%90%AC%23&Refer=top)
 
