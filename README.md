@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 18:03:00
+## 微博今日热榜 更新于 2020-12-06 19:02:37
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -380,4 +380,22 @@
 1. [蒙古国捐赠的羊肉到浙江了](https://s.weibo.com//weibo?q=%E8%92%99%E5%8F%A4%E5%9B%BD%E6%8D%90%E8%B5%A0%E7%9A%84%E7%BE%8A%E8%82%89%E5%88%B0%E6%B5%99%E6%B1%9F%E4%BA%86&Refer=top)
 
 1. [中西部18城房价过万](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E8%A5%BF%E9%83%A818%E5%9F%8E%E6%88%BF%E4%BB%B7%E8%BF%87%E4%B8%87%23&Refer=top)
+
+1. [王一博 尖叫男神](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E5%B0%96%E5%8F%AB%E7%94%B7%E7%A5%9E&Refer=top)
+
+1. [刘亦菲深V亮钻雾蓝纱裙](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%B7%B1V%E4%BA%AE%E9%92%BB%E9%9B%BE%E8%93%9D%E7%BA%B1%E8%A3%99%23&Refer=top)
+
+1. [王柠萌](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9F%A0%E8%90%8C&Refer=top)
+
+1. [官方辟谣家长送老师不作为锦旗](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%AE%B6%E9%95%BF%E9%80%81%E8%80%81%E5%B8%88%E4%B8%8D%E4%BD%9C%E4%B8%BA%E9%94%A6%E6%97%97&Refer=top)
+
+1. [NCT团体照好像班级照](https://s.weibo.com//weibo?q=NCT%E5%9B%A2%E4%BD%93%E7%85%A7%E5%A5%BD%E5%83%8F%E7%8F%AD%E7%BA%A7%E7%85%A7&Refer=top)
+
+1. [五地球迷组织反对足协中性名一刀切](https://s.weibo.com//weibo?q=%E4%BA%94%E5%9C%B0%E7%90%83%E8%BF%B7%E7%BB%84%E7%BB%87%E5%8F%8D%E5%AF%B9%E8%B6%B3%E5%8D%8F%E4%B8%AD%E6%80%A7%E5%90%8D%E4%B8%80%E5%88%80%E5%88%87&Refer=top)
+
+1. [印小天发文](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%8F%E5%A4%A9%E5%8F%91%E6%96%87&Refer=top)
+
+1. [情久夺得CFS世界总冠军](https://s.weibo.com//weibo?q=%E6%83%85%E4%B9%85%E5%A4%BA%E5%BE%97CFS%E4%B8%96%E7%95%8C%E6%80%BB%E5%86%A0%E5%86%9B&Refer=top)
+
+1. [美国男子三周内失去四位至亲](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%89%E5%91%A8%E5%86%85%E5%A4%B1%E5%8E%BB%E5%9B%9B%E4%BD%8D%E8%87%B3%E4%BA%B2%23&Refer=top)
 
