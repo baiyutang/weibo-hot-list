@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 20:04:10
+## 微博今日热榜 更新于 2020-12-06 21:02:51
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -420,4 +420,24 @@
 1. [国家宝藏](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F&Refer=top)
 
 1. [福州一批厄瓜多尔冻虾核酸阳性](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B8%80%E6%89%B9%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%86%BB%E8%99%BE%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [以为李泰民把头发扔了](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%9D%8E%E6%B3%B0%E6%B0%91%E6%8A%8A%E5%A4%B4%E5%8F%91%E6%89%94%E4%BA%86%23&Refer=top)
+
+1. [亚冠](https://s.weibo.com//weibo?q=%E4%BA%9A%E5%86%A0&Refer=top)
+
+1. [美香](https://s.weibo.com//weibo?q=%E7%BE%8E%E9%A6%99&Refer=top)
+
+1. [徐守盛](https://s.weibo.com//weibo?q=%E5%BE%90%E5%AE%88%E7%9B%9B&Refer=top)
+
+1. [如果声音不记得](https://s.weibo.com//weibo?q=%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97&Refer=top)
+
+1. [我们的歌](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&Refer=top)
+
+1. [装台](https://s.weibo.com//weibo?q=%E8%A3%85%E5%8F%B0&Refer=top)
+
+1. [金白开](https://s.weibo.com//weibo?q=%E9%87%91%E7%99%BD%E5%BC%80&Refer=top)
+
+1. [守望先锋服务器](https://s.weibo.com//weibo?q=%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%E6%9C%8D%E5%8A%A1%E5%99%A8&Refer=top)
+
+1. [战网崩了](https://s.weibo.com//weibo?q=%E6%88%98%E7%BD%91%E5%B4%A9%E4%BA%86&Refer=top)
 
