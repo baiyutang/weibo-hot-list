@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 09:26:49
+## 微博今日热榜 更新于 2020-12-06 10:05:56
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -184,4 +184,20 @@
 1. [女孩考场丢手机内含亡父生前资料](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%A9%E8%80%83%E5%9C%BA%E4%B8%A2%E6%89%8B%E6%9C%BA%E5%86%85%E5%90%AB%E4%BA%A1%E7%88%B6%E7%94%9F%E5%89%8D%E8%B5%84%E6%96%99&Refer=top)
 
 1. [首次月球轨道交会对接画面](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%AC%A1%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [焉栩嘉后援会喊话焉栩嘉](https://s.weibo.com//weibo?q=%E7%84%89%E6%A0%A9%E5%98%89%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%96%8A%E8%AF%9D%E7%84%89%E6%A0%A9%E5%98%89&Refer=top)
+
+1. [黄子韬 马伯骞就出来这么一会](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%B0%B1%E5%87%BA%E6%9D%A5%E8%BF%99%E4%B9%88%E4%B8%80%E4%BC%9A&Refer=top)
+
+1. [罗云熙 你们有证吗](https://s.weibo.com//weibo?q=%E7%BD%97%E4%BA%91%E7%86%99%20%E4%BD%A0%E4%BB%AC%E6%9C%89%E8%AF%81%E5%90%97&Refer=top)
+
+1. [31省区市新增18例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E18%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [陈志朋再唱青苹果乐园](https://s.weibo.com//weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%E5%86%8D%E5%94%B1%E9%9D%92%E8%8B%B9%E6%9E%9C%E4%B9%90%E5%9B%AD&Refer=top)
+
+1. [于正回应杜淳主动跟印小天说话](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E6%9D%9C%E6%B7%B3%E4%B8%BB%E5%8A%A8%E8%B7%9F%E5%8D%B0%E5%B0%8F%E5%A4%A9%E8%AF%B4%E8%AF%9D&Refer=top)
+
+1. [10岁单手女孩一句话回应恶意嘲笑](https://s.weibo.com//weibo?q=%2310%E5%B2%81%E5%8D%95%E6%89%8B%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%9B%9E%E5%BA%94%E6%81%B6%E6%84%8F%E5%98%B2%E7%AC%91%23&Refer=top)
+
+1. [天津新增本土确诊病例详情](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
 
