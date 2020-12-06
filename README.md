@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 08:07:30
+## 微博今日热榜 更新于 2020-12-06 09:26:49
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -164,4 +164,24 @@
 1. [澳大利亚女孩患难梳头发综合征](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A5%B3%E5%AD%A9%E6%82%A3%E9%9A%BE%E6%A2%B3%E5%A4%B4%E5%8F%91%E7%BB%BC%E5%90%88%E5%BE%81&Refer=top)
 
 1. [我们离婚了](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%A6%BB%E5%A9%9A%E4%BA%86&Refer=top)
+
+1. [谢谢你陪我扛过2020](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BD%A0%E9%99%AA%E6%88%91%E6%89%9B%E8%BF%872020%23&Refer=new_time)
+
+1. [特朗普阵营上诉推翻拜登遭驳回](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%B5%E8%90%A5%E4%B8%8A%E8%AF%89%E6%8E%A8%E7%BF%BB%E6%8B%9C%E7%99%BB%E9%81%AD%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [饶雪漫邀请丁程鑫出演沙漏](https://s.weibo.com//weibo?q=%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E9%82%80%E8%AF%B7%E4%B8%81%E7%A8%8B%E9%91%AB%E5%87%BA%E6%BC%94%E6%B2%99%E6%BC%8F%23&Refer=top)
+
+1. [全美急救系统濒临崩溃](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BE%8E%E6%80%A5%E6%95%91%E7%B3%BB%E7%BB%9F%E6%BF%92%E4%B8%B4%E5%B4%A9%E6%BA%83%23&Refer=top)
+
+1. [尔冬升 张大大](https://s.weibo.com//weibo?q=%E5%B0%94%E5%86%AC%E5%8D%87%20%E5%BC%A0%E5%A4%A7%E5%A4%A7&Refer=top)
+
+1. [秦沛维护尔冬升时镜头切给郭敬明](https://s.weibo.com//weibo?q=%E7%A7%A6%E6%B2%9B%E7%BB%B4%E6%8A%A4%E5%B0%94%E5%86%AC%E5%8D%87%E6%97%B6%E9%95%9C%E5%A4%B4%E5%88%87%E7%BB%99%E9%83%AD%E6%95%AC%E6%98%8E&Refer=top)
+
+1. [北京男篮惨败福建男篮](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE%E6%83%A8%E8%B4%A5%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE&Refer=top)
+
+1. [陆川 白蛇人间](https://s.weibo.com//weibo?q=%E9%99%86%E5%B7%9D%20%E7%99%BD%E8%9B%87%E4%BA%BA%E9%97%B4&Refer=top)
+
+1. [女孩考场丢手机内含亡父生前资料](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%A9%E8%80%83%E5%9C%BA%E4%B8%A2%E6%89%8B%E6%9C%BA%E5%86%85%E5%90%AB%E4%BA%A1%E7%88%B6%E7%94%9F%E5%89%8D%E8%B5%84%E6%96%99&Refer=top)
+
+1. [首次月球轨道交会对接画面](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%AC%A1%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%E7%94%BB%E9%9D%A2%23&Refer=top)
 
