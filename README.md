@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 12:03:39
+## 微博今日热榜 更新于 2020-12-06 13:02:45
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -240,4 +240,12 @@
 1. [四川省考](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83&Refer=top)
 
 1. [2020我国已痛失36位院士](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%B7%B2%E7%97%9B%E5%A4%B136%E4%BD%8D%E9%99%A2%E5%A3%AB%23&Refer=top)
+
+1. [陈凯歌宝贝儿 代孕](https://s.weibo.com//weibo?q=%E9%99%88%E5%87%AF%E6%AD%8C%E5%AE%9D%E8%B4%9D%E5%84%BF%20%E4%BB%A3%E5%AD%95&Refer=top)
+
+1. [二建](https://s.weibo.com//weibo?q=%E4%BA%8C%E5%BB%BA&Refer=top)
+
+1. [实施代孕技术或可构成犯罪](https://s.weibo.com//weibo?q=%E5%AE%9E%E6%96%BD%E4%BB%A3%E5%AD%95%E6%8A%80%E6%9C%AF%E6%88%96%E5%8F%AF%E6%9E%84%E6%88%90%E7%8A%AF%E7%BD%AA&Refer=top)
+
+1. [吴宣仪是怎么看到镜头的](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%98%AF%E6%80%8E%E4%B9%88%E7%9C%8B%E5%88%B0%E9%95%9C%E5%A4%B4%E7%9A%84%23&Refer=top)
 
