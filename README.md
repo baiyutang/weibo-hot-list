@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 10:05:56
+## 微博今日热榜 更新于 2020-12-06 11:02:44
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -200,4 +200,24 @@
 1. [10岁单手女孩一句话回应恶意嘲笑](https://s.weibo.com//weibo?q=%2310%E5%B2%81%E5%8D%95%E6%89%8B%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%9B%9E%E5%BA%94%E6%81%B6%E6%84%8F%E5%98%B2%E7%AC%91%23&Refer=top)
 
 1. [天津新增本土确诊病例详情](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [安徽女孩跳河身亡事发地实拍](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1%E4%BA%8B%E5%8F%91%E5%9C%B0%E5%AE%9E%E6%8B%8D%23&Refer=top)
+
+1. [印度官员接种新冠疫苗后确诊新冠](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E5%AE%98%E5%91%98%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%90%8E%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [金立魅族暗中给手机植入木马](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%AB%8B%E9%AD%85%E6%97%8F%E6%9A%97%E4%B8%AD%E7%BB%99%E6%89%8B%E6%9C%BA%E6%A4%8D%E5%85%A5%E6%9C%A8%E9%A9%AC%23&Refer=top)
+
+1. [肖战](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98&Refer=top)
+
+1. [哇唧唧哇](https://s.weibo.com//weibo?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87&Refer=top)
+
+1. [广州一小区住户爬钢筋上下楼](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E4%BD%8F%E6%88%B7%E7%88%AC%E9%92%A2%E7%AD%8B%E4%B8%8A%E4%B8%8B%E6%A5%BC%23&Refer=top)
+
+1. [大众中国回应停产](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BC%97%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%81%9C%E4%BA%A7&Refer=top)
+
+1. [英国女王将接种辉瑞新冠疫苗](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%B0%86%E6%8E%A5%E7%A7%8D%E8%BE%89%E7%91%9E%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [金珉锡正式退伍](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%8F%89%E9%94%A1%E6%AD%A3%E5%BC%8F%E9%80%80%E4%BC%8D%23&Refer=top)
+
+1. [巴萨不敌加的斯](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%90%A8%E4%B8%8D%E6%95%8C%E5%8A%A0%E7%9A%84%E6%96%AF&Refer=top)
 
