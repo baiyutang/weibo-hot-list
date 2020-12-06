@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-07 02:02:51
+## 微博今日热榜 更新于 2020-12-07 03:02:19
 1. [我国首次实现月球轨道交会对接](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%23&Refer=new_time)
 
 1. [焉栩嘉道歉需要付费观看](https://s.weibo.com//weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E9%81%93%E6%AD%89%E9%9C%80%E8%A6%81%E4%BB%98%E8%B4%B9%E8%A7%82%E7%9C%8B%23&Refer=top)
@@ -110,4 +110,10 @@
 1. [70秒重温历次太空交会对接真实影像](https://s.weibo.com//weibo?q=%2370%E7%A7%92%E9%87%8D%E6%B8%A9%E5%8E%86%E6%AC%A1%E5%A4%AA%E7%A9%BA%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%E7%9C%9F%E5%AE%9E%E5%BD%B1%E5%83%8F%23&Refer=new_time)
 
 1. [肖战](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98&Refer=top)
+
+1. [艺考季谨防这些骗局](https://s.weibo.com//weibo?q=%23%E8%89%BA%E8%80%83%E5%AD%A3%E8%B0%A8%E9%98%B2%E8%BF%99%E4%BA%9B%E9%AA%97%E5%B1%80%23&Refer=new_time)
+
+1. [国家宝藏](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F&Refer=top)
+
+1. [张艺兴张信哲合唱](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BC%A0%E4%BF%A1%E5%93%B2%E5%90%88%E5%94%B1%23&Refer=top)
 
