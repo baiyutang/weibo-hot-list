@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-06 19:02:37
+## 微博今日热榜 更新于 2020-12-06 20:04:10
 1. [致敬退伍老兵](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%23&Refer=new_time)
 
 1. [肖战说话时没声音](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E8%AF%9D%E6%97%B6%E6%B2%A1%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -398,4 +398,26 @@
 1. [情久夺得CFS世界总冠军](https://s.weibo.com//weibo?q=%E6%83%85%E4%B9%85%E5%A4%BA%E5%BE%97CFS%E4%B8%96%E7%95%8C%E6%80%BB%E5%86%A0%E5%86%9B&Refer=top)
 
 1. [美国男子三周内失去四位至亲](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%89%E5%91%A8%E5%86%85%E5%A4%B1%E5%8E%BB%E5%9B%9B%E4%BD%8D%E8%87%B3%E4%BA%B2%23&Refer=top)
+
+1. [2020中国科技硬核突破](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E7%A1%AC%E6%A0%B8%E7%AA%81%E7%A0%B4%23&Refer=new_time)
+
+1. [焉栩嘉回应](https://s.weibo.com//weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [刘德华请贾玲演自己夫人](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%AF%B7%E8%B4%BE%E7%8E%B2%E6%BC%94%E8%87%AA%E5%B7%B1%E5%A4%AB%E4%BA%BA%23&Refer=top)
+
+1. [虞书欣钻边复古红丝绒裙](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%92%BB%E8%BE%B9%E5%A4%8D%E5%8F%A4%E7%BA%A2%E4%B8%9D%E7%BB%92%E8%A3%99%23&Refer=top)
+
+1. [THE9 尖叫女神](https://s.weibo.com//weibo?q=THE9%20%E5%B0%96%E5%8F%AB%E5%A5%B3%E7%A5%9E&Refer=top)
+
+1. [摩萨德指挥官疑似在以色列遭枪杀](https://s.weibo.com//weibo?q=%E6%91%A9%E8%90%A8%E5%BE%B7%E6%8C%87%E6%8C%A5%E5%AE%98%E7%96%91%E4%BC%BC%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%AD%E6%9E%AA%E6%9D%80&Refer=top)
+
+1. [Kingdom](https://s.weibo.com//weibo?q=Kingdom&Refer=top)
+
+1. [AG LGD大鹅](https://s.weibo.com//weibo?q=%23AG%20LGD%E5%A4%A7%E9%B9%85%23&Refer=top)
+
+1. [LOL主播对抗赛](https://s.weibo.com//weibo?q=LOL%E4%B8%BB%E6%92%AD%E5%AF%B9%E6%8A%97%E8%B5%9B&Refer=top)
+
+1. [国家宝藏](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F&Refer=top)
+
+1. [福州一批厄瓜多尔冻虾核酸阳性](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E%E4%B8%80%E6%89%B9%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%86%BB%E8%99%BE%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top)
 
