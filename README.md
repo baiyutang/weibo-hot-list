@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-07 17:02:52
+## 微博今日热榜 更新于 2020-12-07 18:03:20
 1. [我国首次实现月球轨道交会对接](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%23&Refer=new_time)
 
 1. [焉栩嘉道歉需要付费观看](https://s.weibo.com//weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E9%81%93%E6%AD%89%E9%9C%80%E8%A6%81%E4%BB%98%E8%B4%B9%E8%A7%82%E7%9C%8B%23&Refer=top)
@@ -360,4 +360,28 @@
 1. [2020综艺快乐名场面](https://s.weibo.com//weibo?q=2020%E7%BB%BC%E8%89%BA%E5%BF%AB%E4%B9%90%E5%90%8D%E5%9C%BA%E9%9D%A2&Refer=top)
 
 1. [闪耀暖暖](https://s.weibo.com//weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96&Refer=top)
+
+1. [明年幼师和保育员预计缺口超300万](https://s.weibo.com//weibo?q=%23%E6%98%8E%E5%B9%B4%E5%B9%BC%E5%B8%88%E5%92%8C%E4%BF%9D%E8%82%B2%E5%91%98%E9%A2%84%E8%AE%A1%E7%BC%BA%E5%8F%A3%E8%B6%85300%E4%B8%87%23&Refer=top)
+
+1. [追光吧哥哥 艺人禁忌点](https://s.weibo.com//weibo?q=%E8%BF%BD%E5%85%89%E5%90%A7%E5%93%A5%E5%93%A5%20%E8%89%BA%E4%BA%BA%E7%A6%81%E5%BF%8C%E7%82%B9&Refer=top)
+
+1. [追星女孩必备塌房预警](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%AD%A9%E5%BF%85%E5%A4%87%E5%A1%8C%E6%88%BF%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [中牟县一批冷冻鸡整翅新冠检测阳性](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%89%9F%E5%8E%BF%E4%B8%80%E6%89%B9%E5%86%B7%E5%86%BB%E9%B8%A1%E6%95%B4%E7%BF%85%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [三星申请充电戒指专利](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E7%94%B3%E8%AF%B7%E5%85%85%E7%94%B5%E6%88%92%E6%8C%87%E4%B8%93%E5%88%A9%23&Refer=top)
+
+1. [英雄联盟手游](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8%23&Refer=top)
+
+1. [多省份发布考研防疫要求](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E7%9C%81%E4%BB%BD%E5%8F%91%E5%B8%83%E8%80%83%E7%A0%94%E9%98%B2%E7%96%AB%E8%A6%81%E6%B1%82%23&Refer=top)
+
+1. [暖暖入冬罗宋汤](https://s.weibo.com//weibo?q=%23%E6%9A%96%E6%9A%96%E5%85%A5%E5%86%AC%E7%BD%97%E5%AE%8B%E6%B1%A4%23&Refer=top)
+
+1. [为啥卫星总在半夜发射](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E5%8D%AB%E6%98%9F%E6%80%BB%E5%9C%A8%E5%8D%8A%E5%A4%9C%E5%8F%91%E5%B0%84%23&Refer=top)
+
+1. [肖四](https://s.weibo.com//weibo?q=%E8%82%96%E5%9B%9B&Refer=top)
+
+1. [朱日和零下20度雪中大练兵](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%97%A5%E5%92%8C%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E9%9B%AA%E4%B8%AD%E5%A4%A7%E7%BB%83%E5%85%B5%23&Refer=top)
 
