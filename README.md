@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-08 00:04:03
+## 微博今日热榜 更新于 2020-12-08 01:07:37
 1. [嫦娥五号走过的103小时](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%B5%B0%E8%BF%87%E7%9A%84103%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 
 1. [郑爽回应直播失控](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E5%A4%B1%E6%8E%A7%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [错换人生28年当事人认可一审判决](https://s.weibo.com//weibo?q=%23%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%AE%A4%E5%8F%AF%E4%B8%80%E5%AE%A1%E5%88%A4%E5%86%B3%23&Refer=top)
 
 1. [大秦赋](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%A7%A6%E8%B5%8B&Refer=top)
+
+1. [80秒看冰封要塞大练兵](https://s.weibo.com//weibo?q=%2380%E7%A7%92%E7%9C%8B%E5%86%B0%E5%B0%81%E8%A6%81%E5%A1%9E%E5%A4%A7%E7%BB%83%E5%85%B5%23&Refer=new_time)
+
+1. [女婴坠楼受伤父亲拒绝治疗](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%9D%A0%E6%A5%BC%E5%8F%97%E4%BC%A4%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E6%B2%BB%E7%96%97%23&Refer=top)
+
+1. [浙江明年招录6000名公务员](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%98%8E%E5%B9%B4%E6%8B%9B%E5%BD%956000%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%23&Refer=top)
+
+1. [了不起的儿科医生](https://s.weibo.com//weibo?q=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F&Refer=top)
 
