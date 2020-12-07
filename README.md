@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-08 03:02:19
+## 微博今日热榜 更新于 2020-12-08 04:02:52
 1. [嫦娥五号走过的103小时](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%B5%B0%E8%BF%87%E7%9A%84103%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 
 1. [郑爽回应直播失控](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E5%A4%B1%E6%8E%A7%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [美术老师9万颗钉子复原宋代山水画](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%9C%AF%E8%80%81%E5%B8%889%E4%B8%87%E9%A2%97%E9%92%89%E5%AD%90%E5%A4%8D%E5%8E%9F%E5%AE%8B%E4%BB%A3%E5%B1%B1%E6%B0%B4%E7%94%BB%23&Refer=top)
 
 1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [谷佳人表白邓子昂又失败](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E4%BD%B3%E4%BA%BA%E8%A1%A8%E7%99%BD%E9%82%93%E5%AD%90%E6%98%82%E5%8F%88%E5%A4%B1%E8%B4%A5%23&Refer=top)
 
