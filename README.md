@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-08 18:03:16
+## 微博今日热榜 更新于 2020-12-08 19:03:13
 1. [嫦娥五号走过的103小时](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%B5%B0%E8%BF%87%E7%9A%84103%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 
 1. [郑爽回应直播失控](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E5%A4%B1%E6%8E%A7%23&Refer=top)
@@ -454,4 +454,22 @@
 1. [上升器受控离轨落月可避免成为太空垃圾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%8D%87%E5%99%A8%E5%8F%97%E6%8E%A7%E7%A6%BB%E8%BD%A8%E8%90%BD%E6%9C%88%E5%8F%AF%E9%81%BF%E5%85%8D%E6%88%90%E4%B8%BA%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%23&Refer=top)
 
 1. [Bao教练辞职](https://s.weibo.com//weibo?q=Bao%E6%95%99%E7%BB%83%E8%BE%9E%E8%81%8C&Refer=top)
+
+1. [成都娱乐场所消费人数不超75%](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%A8%B1%E4%B9%90%E5%9C%BA%E6%89%80%E6%B6%88%E8%B4%B9%E4%BA%BA%E6%95%B0%E4%B8%8D%E8%B6%8575%25%23&Refer=top)
+
+1. [孟佳王霏霏为李斯丹妮打歌](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%8E%8B%E9%9C%8F%E9%9C%8F%E4%B8%BA%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E6%89%93%E6%AD%8C%23&Refer=top)
+
+1. [卢姨](https://s.weibo.com//weibo?q=%E5%8D%A2%E5%A7%A8&Refer=top)
+
+1. [狗可能不喜欢过生日](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top)
+
+1. [掌中之物](https://s.weibo.com//weibo?q=%E6%8E%8C%E4%B8%AD%E4%B9%8B%E7%89%A9&Refer=top)
+
+1. [全球性芯片短缺波及汽车业](https://s.weibo.com//weibo?q=%E5%85%A8%E7%90%83%E6%80%A7%E8%8A%AF%E7%89%87%E7%9F%AD%E7%BC%BA%E6%B3%A2%E5%8F%8A%E6%B1%BD%E8%BD%A6%E4%B8%9A&Refer=top)
+
+1. [LPL全明星主题曲](https://s.weibo.com//weibo?q=%23LPL%E5%85%A8%E6%98%8E%E6%98%9F%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top)
+
+1. [岳云鹏的战绩图](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%9A%84%E6%88%98%E7%BB%A9%E5%9B%BE%23&Refer=top)
+
+1. [成都理工大学师生原则上不得离校外出](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%B8%88%E7%94%9F%E5%8E%9F%E5%88%99%E4%B8%8A%E4%B8%8D%E5%BE%97%E7%A6%BB%E6%A0%A1%E5%A4%96%E5%87%BA%23&Refer=top)
 
