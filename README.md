@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-09 06:03:34
+## 微博今日热榜 更新于 2020-12-09 07:02:50
 1. [平凡英雄救灾图鉴](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%E6%95%91%E7%81%BE%E5%9B%BE%E9%89%B4%23&Refer=new_time)
 
 1. [央视评成都确诊女孩信息遭泄露](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E6%88%90%E9%83%BD%E7%A1%AE%E8%AF%8A%E5%A5%B3%E5%AD%A9%E4%BF%A1%E6%81%AF%E9%81%AD%E6%B3%84%E9%9C%B2%23&Refer=top)
@@ -140,4 +140,8 @@
 1. [巴黎与伊斯坦布尔的比赛中断](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%BB%8E%E4%B8%8E%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E7%9A%84%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%96%AD&Refer=top)
 
 1. [曼联 莱比锡](https://s.weibo.com//weibo?q=%E6%9B%BC%E8%81%94%20%E8%8E%B1%E6%AF%94%E9%94%A1&Refer=top)
+
+1. [梅西C罗拥抱](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%A5%BFC%E7%BD%97%E6%8B%A5%E6%8A%B1%23&Refer=top)
+
+1. [尤文3比0巴萨](https://s.weibo.com//weibo?q=%E5%B0%A4%E6%96%873%E6%AF%940%E5%B7%B4%E8%90%A8&Refer=top)
 
