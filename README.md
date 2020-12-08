@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-09 00:03:51
+## 微博今日热榜 更新于 2020-12-09 01:08:09
 1. [平凡英雄救灾图鉴](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%E6%95%91%E7%81%BE%E5%9B%BE%E9%89%B4%23&Refer=new_time)
 
 1. [央视评成都确诊女孩信息遭泄露](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E6%88%90%E9%83%BD%E7%A1%AE%E8%AF%8A%E5%A5%B3%E5%AD%A9%E4%BF%A1%E6%81%AF%E9%81%AD%E6%B3%84%E9%9C%B2%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [珠峰新身高8848.86米](https://s.weibo.com//weibo?q=%23%E7%8F%A0%E5%B3%B0%E6%96%B0%E8%BA%AB%E9%AB%988848.86%E7%B1%B3%23&Refer=top)
 
 1. [今夕何夕](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%A4%95%E4%BD%95%E5%A4%95&Refer=top)
+
+1. [迪奥2021秋季男装大秀](https://s.weibo.com//weibo?q=%E8%BF%AA%E5%A5%A52021%E7%A7%8B%E5%AD%A3%E7%94%B7%E8%A3%85%E5%A4%A7%E7%A7%80&Refer=top)
+
+1. [大秦赋](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%A7%A6%E8%B5%8B&Refer=top)
+
+1. [石家庄通报女婴坠楼事件](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6%23&Refer=top)
 
