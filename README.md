@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-08 07:02:43
+## 微博今日热榜 更新于 2020-12-08 08:07:06
 1. [嫦娥五号走过的103小时](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%E8%B5%B0%E8%BF%87%E7%9A%84103%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 
 1. [郑爽回应直播失控](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E5%A4%B1%E6%8E%A7%23&Refer=top)
@@ -136,4 +136,32 @@
 1. [是否愿意一键重启你的2020](https://s.weibo.com//weibo?q=%23%E6%98%AF%E5%90%A6%E6%84%BF%E6%84%8F%E4%B8%80%E9%94%AE%E9%87%8D%E5%90%AF%E4%BD%A0%E7%9A%842020%23&Refer=top)
 
 1. [中国纪录片里的神仙文案](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BA%AA%E5%BD%95%E7%89%87%E9%87%8C%E7%9A%84%E7%A5%9E%E4%BB%99%E6%96%87%E6%A1%88%23&Refer=top)
+
+1. [郑爽 拥有过的恋情都是珍贵的](https://s.weibo.com//weibo?q=%E9%83%91%E7%88%BD%20%E6%8B%A5%E6%9C%89%E8%BF%87%E7%9A%84%E6%81%8B%E6%83%85%E9%83%BD%E6%98%AF%E7%8F%8D%E8%B4%B5%E7%9A%84&Refer=top)
+
+1. [虞书欣录歌时差点被砸到](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BD%95%E6%AD%8C%E6%97%B6%E5%B7%AE%E7%82%B9%E8%A2%AB%E7%A0%B8%E5%88%B0%23&Refer=top)
+
+1. [成都](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD&Refer=top)
+
+1. [福奇被拜登提名首席新冠顾问](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%A5%87%E8%A2%AB%E6%8B%9C%E7%99%BB%E6%8F%90%E5%90%8D%E9%A6%96%E5%B8%AD%E6%96%B0%E5%86%A0%E9%A1%BE%E9%97%AE%23&Refer=top)
+
+1. [美国新冠肺炎超1488万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851488%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [成都确诊病例孙女](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%AD%99%E5%A5%B3&Refer=top)
+
+1. [焉栩嘉表白文案 粉丝写的CP文](https://s.weibo.com//weibo?q=%E7%84%89%E6%A0%A9%E5%98%89%E8%A1%A8%E7%99%BD%E6%96%87%E6%A1%88%20%E7%B2%89%E4%B8%9D%E5%86%99%E7%9A%84CP%E6%96%87&Refer=top)
+
+1. [AK](https://s.weibo.com//weibo?q=AK&Refer=top)
+
+1. [装台](https://s.weibo.com//weibo?q=%E8%A3%85%E5%8F%B0&Refer=top)
+
+1. [日本25个县推出政府婚介服务](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC25%E4%B8%AA%E5%8E%BF%E6%8E%A8%E5%87%BA%E6%94%BF%E5%BA%9C%E5%A9%9A%E4%BB%8B%E6%9C%8D%E5%8A%A1%23&Refer=top)
+
+1. [当纪录片拍出电影质感](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%BA%AA%E5%BD%95%E7%89%87%E6%8B%8D%E5%87%BA%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%23&Refer=top)
+
+1. [成都新增3例本土确诊](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [赛博朋克2077](https://s.weibo.com//weibo?q=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077&Refer=top)
+
+1. [成都新增3例确诊活动轨迹](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%96%B0%E5%A2%9E3%E4%BE%8B%E7%A1%AE%E8%AF%8A%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%23&Refer=top)
 
