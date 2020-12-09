@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-10 03:02:32
+## 微博今日热榜 更新于 2020-12-10 04:02:51
 1. [天问一号预计春节前后被火星捕获](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E9%A2%84%E8%AE%A1%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E8%A2%AB%E7%81%AB%E6%98%9F%E6%8D%95%E8%8E%B7%23&Refer=new_time)
 
 1. [张馨月 没有林峯我也有这样的生活水平](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A6%A8%E6%9C%88%20%E6%B2%A1%E6%9C%89%E6%9E%97%E5%B3%AF%E6%88%91%E4%B9%9F%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%B0%B4%E5%B9%B3&Refer=top)
@@ -122,4 +122,8 @@
 1. [工信部发布18项团体标准保护个人信息](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%8318%E9%A1%B9%E5%9B%A2%E4%BD%93%E6%A0%87%E5%87%86%E4%BF%9D%E6%8A%A4%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&Refer=new_time)
 
 1. [成都目前无新增病例及无症状感染者](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E7%9B%AE%E5%89%8D%E6%97%A0%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E5%8F%8A%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [齐麟10记三分](https://s.weibo.com//weibo?q=%E9%BD%90%E9%BA%9F10%E8%AE%B0%E4%B8%89%E5%88%86&Refer=top)
 
