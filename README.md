@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-09 22:03:26
+## 微博今日热榜 更新于 2020-12-09 23:02:46
 1. [平凡英雄救灾图鉴](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%E6%95%91%E7%81%BE%E5%9B%BE%E9%89%B4%23&Refer=new_time)
 
 1. [央视评成都确诊女孩信息遭泄露](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E6%88%90%E9%83%BD%E7%A1%AE%E8%AF%8A%E5%A5%B3%E5%AD%A9%E4%BF%A1%E6%81%AF%E9%81%AD%E6%B3%84%E9%9C%B2%23&Refer=top)
@@ -542,4 +542,28 @@
 1. [辛巴](https://s.weibo.com//weibo?q=%E8%BE%9B%E5%B7%B4&Refer=top)
 
 1. [齐麟10记三分](https://s.weibo.com//weibo?q=%E9%BD%90%E9%BA%9F10%E8%AE%B0%E4%B8%89%E5%88%86&Refer=top)
+
+1. [成都检出14份阳性环境样本](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%A3%80%E5%87%BA14%E4%BB%BD%E9%98%B3%E6%80%A7%E7%8E%AF%E5%A2%83%E6%A0%B7%E6%9C%AC%23&Refer=top)
+
+1. [天官赐福 谢怜选角](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%20%E8%B0%A2%E6%80%9C%E9%80%89%E8%A7%92&Refer=top)
+
+1. [成都确诊女孩密接全部隔离管控](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%A1%AE%E8%AF%8A%E5%A5%B3%E5%AD%A9%E5%AF%86%E6%8E%A5%E5%85%A8%E9%83%A8%E9%9A%94%E7%A6%BB%E7%AE%A1%E6%8E%A7%23&Refer=top)
+
+1. [张若昀为唐艺昕定制蛋糕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E4%B8%BA%E5%94%90%E8%89%BA%E6%98%95%E5%AE%9A%E5%88%B6%E8%9B%8B%E7%B3%95%23&Refer=top)
+
+1. [杨鸣生气](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E9%B8%A3%E7%94%9F%E6%B0%94%23&Refer=top)
+
+1. [蛋壳公寓CEO高靖被限制高消费](https://s.weibo.com//weibo?q=%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93CEO%E9%AB%98%E9%9D%96%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9&Refer=top)
+
+1. [冰船涮火锅](https://s.weibo.com//weibo?q=%23%E5%86%B0%E8%88%B9%E6%B6%AE%E7%81%AB%E9%94%85%23&Refer=top)
+
+1. [高诗岩三场两个三双](https://s.weibo.com//weibo?q=%E9%AB%98%E8%AF%97%E5%B2%A9%E4%B8%89%E5%9C%BA%E4%B8%A4%E4%B8%AA%E4%B8%89%E5%8F%8C&Refer=top)
+
+1. [特战队员镜像一发子弹击中瓶盖](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E9%98%9F%E5%91%98%E9%95%9C%E5%83%8F%E4%B8%80%E5%8F%91%E5%AD%90%E5%BC%B9%E5%87%BB%E4%B8%AD%E7%93%B6%E7%9B%96%23&Refer=top)
+
+1. [随着成长认识到的人生真相](https://s.weibo.com//weibo?q=%23%E9%9A%8F%E7%9D%80%E6%88%90%E9%95%BF%E8%AE%A4%E8%AF%86%E5%88%B0%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9C%9F%E7%9B%B8%23&Refer=top)
+
+1. [李晋晔是现实版何以琛吧](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%99%8B%E6%99%94%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E4%BD%95%E4%BB%A5%E7%90%9B%E5%90%A7&Refer=top)
+
+1. [何旻哲](https://s.weibo.com//weibo?q=%E4%BD%95%E6%97%BB%E5%93%B2&Refer=top)
 
