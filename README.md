@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-11 06:03:32
+## 微博今日热榜 更新于 2020-12-11 07:03:02
 1. [教育部介绍十三五期间基础教育情况](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E4%BB%8B%E7%BB%8D%E5%8D%81%E4%B8%89%E4%BA%94%E6%9C%9F%E9%97%B4%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E6%83%85%E5%86%B5%23&Refer=new_time)
 
 1. [张雨绮 希望我明年不会塌房](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E5%B8%8C%E6%9C%9B%E6%88%91%E6%98%8E%E5%B9%B4%E4%B8%8D%E4%BC%9A%E5%A1%8C%E6%88%BF&Refer=top)
@@ -134,4 +134,6 @@
 1. [薇娅直播间](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%E9%97%B4&Refer=top)
 
 1. [赛博朋克2077](https://s.weibo.com//weibo?q=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077&Refer=top)
+
+1. [来自外科老师的叮嘱](https://s.weibo.com//weibo?q=%23%E6%9D%A5%E8%87%AA%E5%A4%96%E7%A7%91%E8%80%81%E5%B8%88%E7%9A%84%E5%8F%AE%E5%98%B1%23&Refer=top)
 
