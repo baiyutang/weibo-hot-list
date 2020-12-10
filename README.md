@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-10 10:11:10
+## 微博今日热榜 更新于 2020-12-10 11:02:51
 1. [天问一号预计春节前后被火星捕获](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E9%A2%84%E8%AE%A1%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E8%A2%AB%E7%81%AB%E6%98%9F%E6%8D%95%E8%8E%B7%23&Refer=new_time)
 
 1. [张馨月 没有林峯我也有这样的生活水平](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A6%A8%E6%9C%88%20%E6%B2%A1%E6%9C%89%E6%9E%97%E5%B3%AF%E6%88%91%E4%B9%9F%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%B0%B4%E5%B9%B3&Refer=top)
@@ -214,4 +214,36 @@
 1. [新冠主题儿童玩具在西班牙热销](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E4%B8%BB%E9%A2%98%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E7%83%AD%E9%94%80&Refer=top)
 
 1. [闪耀暖暖](https://s.weibo.com//weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96&Refer=top)
+
+1. [第一届全国技能大赛](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B%23&Refer=new_time)
+
+1. [素媛案罪犯居住地家庭将装安心铃](https://s.weibo.com//weibo?q=%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E5%B1%85%E4%BD%8F%E5%9C%B0%E5%AE%B6%E5%BA%AD%E5%B0%86%E8%A3%85%E5%AE%89%E5%BF%83%E9%93%83&Refer=top)
+
+1. [原来溜肩比直角肩更可爱](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%BA%9C%E8%82%A9%E6%AF%94%E7%9B%B4%E8%A7%92%E8%82%A9%E6%9B%B4%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [有翡欢喜冤家预告](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E6%AC%A2%E5%96%9C%E5%86%A4%E5%AE%B6%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [不懂粉丝心理有多可怕](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%87%82%E7%B2%89%E4%B8%9D%E5%BF%83%E7%90%86%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&Refer=top)
+
+1. [默克尔含泪恳求德国人遵守隔离规定](https://s.weibo.com//weibo?q=%E9%BB%98%E5%85%8B%E5%B0%94%E5%90%AB%E6%B3%AA%E6%81%B3%E6%B1%82%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%81%B5%E5%AE%88%E9%9A%94%E7%A6%BB%E8%A7%84%E5%AE%9A&Refer=top)
+
+1. [迪丽热巴秋波春黛大片](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%8B%E6%B3%A2%E6%98%A5%E9%BB%9B%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [2021年度流行色](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E5%BA%A6%E6%B5%81%E8%A1%8C%E8%89%B2&Refer=top)
+
+1. [易凡医生从武汉到北京感恩同袍救治](https://s.weibo.com//weibo?q=%23%E6%98%93%E5%87%A1%E5%8C%BB%E7%94%9F%E4%BB%8E%E6%AD%A6%E6%B1%89%E5%88%B0%E5%8C%97%E4%BA%AC%E6%84%9F%E6%81%A9%E5%90%8C%E8%A2%8D%E6%95%91%E6%B2%BB%23&Refer=top)
+
+1. [杀害6人的A级通缉犯张承禹落网](https://s.weibo.com//weibo?q=%23%E6%9D%80%E5%AE%B36%E4%BA%BA%E7%9A%84A%E7%BA%A7%E9%80%9A%E7%BC%89%E7%8A%AF%E5%BC%A0%E6%89%BF%E7%A6%B9%E8%90%BD%E7%BD%91%23&Refer=top)
+
+1. [读书好比竹篮打水](https://s.weibo.com//weibo?q=%23%E8%AF%BB%E4%B9%A6%E5%A5%BD%E6%AF%94%E7%AB%B9%E7%AF%AE%E6%89%93%E6%B0%B4%23&Refer=top)
+
+1. [重庆建2万平空中足球场](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%BB%BA2%E4%B8%87%E5%B9%B3%E7%A9%BA%E4%B8%AD%E8%B6%B3%E7%90%83%E5%9C%BA%23&Refer=top)
+
+1. [王海](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%B5%B7&Refer=top)
+
+1. [日本网友请愿删除大雄进静香浴室戏份](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E8%AF%B7%E6%84%BF%E5%88%A0%E9%99%A4%E5%A4%A7%E9%9B%84%E8%BF%9B%E9%9D%99%E9%A6%99%E6%B5%B4%E5%AE%A4%E6%88%8F%E4%BB%BD&Refer=top)
+
+1. [电影三叉戟预告](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%89%E5%8F%89%E6%88%9F%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [上海南京西路地铁站浓烟](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF%E5%9C%B0%E9%93%81%E7%AB%99%E6%B5%93%E7%83%9F&Refer=top)
 
