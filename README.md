@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 01:11:54
+## 微博今日热榜 更新于 2020-12-12 02:03:09
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -112,4 +112,8 @@
 1. [综艺里的意外名场面](https://s.weibo.com//weibo?q=%E7%BB%BC%E8%89%BA%E9%87%8C%E7%9A%84%E6%84%8F%E5%A4%96%E5%90%8D%E5%9C%BA%E9%9D%A2&Refer=top)
 
 1. [潮流合伙人](https://s.weibo.com//weibo?q=%E6%BD%AE%E6%B5%81%E5%90%88%E4%BC%99%E4%BA%BA&Refer=top)
+
+1. [严查上网服务场所违规接纳未成年人](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%9F%A5%E4%B8%8A%E7%BD%91%E6%9C%8D%E5%8A%A1%E5%9C%BA%E6%89%80%E8%BF%9D%E8%A7%84%E6%8E%A5%E7%BA%B3%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%23&Refer=new_time)
+
+1. [张桂梅获评时代楷模](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%8E%B7%E8%AF%84%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%23&Refer=top)
 
