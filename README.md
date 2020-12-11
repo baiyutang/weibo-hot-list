@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 00:04:05
+## 微博今日热榜 更新于 2020-12-12 01:11:54
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [心理老师布置表白信或分手信作业](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%90%86%E8%80%81%E5%B8%88%E5%B8%83%E7%BD%AE%E8%A1%A8%E7%99%BD%E4%BF%A1%E6%88%96%E5%88%86%E6%89%8B%E4%BF%A1%E4%BD%9C%E4%B8%9A%23&Refer=top)
 
 1. [阿宁下线](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AE%81%E4%B8%8B%E7%BA%BF%23&Refer=top)
+
+1. [我国医保领域第一部条例](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%8C%BB%E4%BF%9D%E9%A2%86%E5%9F%9F%E7%AC%AC%E4%B8%80%E9%83%A8%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
+
+1. [百度因未核对广告被罚6万](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%BA%A6%E5%9B%A0%E6%9C%AA%E6%A0%B8%E5%AF%B9%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&Refer=top)
+
+1. [综艺里的意外名场面](https://s.weibo.com//weibo?q=%E7%BB%BC%E8%89%BA%E9%87%8C%E7%9A%84%E6%84%8F%E5%A4%96%E5%90%8D%E5%9C%BA%E9%9D%A2&Refer=top)
+
+1. [潮流合伙人](https://s.weibo.com//weibo?q=%E6%BD%AE%E6%B5%81%E5%90%88%E4%BC%99%E4%BA%BA&Refer=top)
 
