@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 03:02:07
+## 微博今日热榜 更新于 2020-12-12 04:02:55
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -118,4 +118,10 @@
 1. [张桂梅获评时代楷模](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%8E%B7%E8%AF%84%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%23&Refer=top)
 
 1. [迷雾追踪](https://s.weibo.com//weibo?q=%E8%BF%B7%E9%9B%BE%E8%BF%BD%E8%B8%AA&Refer=top)
+
+1. [中国飞侠](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%9E%E4%BE%A0%23&Refer=new_time)
+
+1. [邓子昂原生家庭](https://s.weibo.com//weibo?q=%23%E9%82%93%E5%AD%90%E6%98%82%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23&Refer=top)
+
+1. [武汉熊爪咖啡馆](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E7%86%8A%E7%88%AA%E5%92%96%E5%95%A1%E9%A6%86&Refer=top)
 
