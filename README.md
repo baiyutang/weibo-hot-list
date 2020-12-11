@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 05:02:41
+## 微博今日热榜 更新于 2020-12-12 06:03:06
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [周琦带病坚持比赛](https://s.weibo.com//weibo?q=%E5%91%A8%E7%90%A6%E5%B8%A6%E7%97%85%E5%9D%9A%E6%8C%81%E6%AF%94%E8%B5%9B&Refer=top)
 
 1. [人民日报评社区团购](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%A4%BE%E5%8C%BA%E5%9B%A2%E8%B4%AD%23&Refer=top)
+
+1. [2020凡人英雄](https://s.weibo.com//weibo?q=%232020%E5%87%A1%E4%BA%BA%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
