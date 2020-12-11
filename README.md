@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-11 20:03:37
+## 微博今日热榜 更新于 2020-12-11 21:03:22
 1. [教育部介绍十三五期间基础教育情况](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E4%BB%8B%E7%BB%8D%E5%8D%81%E4%B8%89%E4%BA%94%E6%9C%9F%E9%97%B4%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E6%83%85%E5%86%B5%23&Refer=new_time)
 
 1. [张雨绮 希望我明年不会塌房](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E5%B8%8C%E6%9C%9B%E6%88%91%E6%98%8E%E5%B9%B4%E4%B8%8D%E4%BC%9A%E5%A1%8C%E6%88%BF&Refer=top)
@@ -484,4 +484,32 @@
 1. [黑龙江绥芬河新增无症状感染者2例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%BB%A5%E8%8A%AC%E6%B2%B3%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%852%E4%BE%8B%23&Refer=top)
 
 1. [金刚川](https://s.weibo.com//weibo?q=%E9%87%91%E5%88%9A%E5%B7%9D&Refer=top)
+
+1. [中国向世卫申请国家消除疟疾认证](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E5%8D%AB%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%AE%B6%E6%B6%88%E9%99%A4%E7%96%9F%E7%96%BE%E8%AE%A4%E8%AF%81%23&Refer=top)
+
+1. [掌中之物](https://s.weibo.com//weibo?q=%E6%8E%8C%E4%B8%AD%E4%B9%8B%E7%89%A9&Refer=top)
+
+1. [金基德去世](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%9F%BA%E5%BE%B7%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [杨紫星空蓝露肩礼裙](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%98%9F%E7%A9%BA%E8%93%9D%E9%9C%B2%E8%82%A9%E7%A4%BC%E8%A3%99%23&Refer=top)
+
+1. [四六级明天开考](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%98%8E%E5%A4%A9%E5%BC%80%E8%80%83%23&Refer=top)
+
+1. [猛男雪花酥](https://s.weibo.com//weibo?q=%23%E7%8C%9B%E7%94%B7%E9%9B%AA%E8%8A%B1%E9%85%A5%23&Refer=top)
+
+1. [幼儿园的比赛太有意思了](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E6%AF%94%E8%B5%9B%E5%A4%AA%E6%9C%89%E6%84%8F%E6%80%9D%E4%BA%86%23&Refer=top)
+
+1. [坦然面对价格并大声惊叹](https://s.weibo.com//weibo?q=%23%E5%9D%A6%E7%84%B6%E9%9D%A2%E5%AF%B9%E4%BB%B7%E6%A0%BC%E5%B9%B6%E5%A4%A7%E5%A3%B0%E6%83%8A%E5%8F%B9%23&Refer=top)
+
+1. [黄子韬唱完了也要salute](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%94%B1%E5%AE%8C%E4%BA%86%E4%B9%9F%E8%A6%81salute%23&Refer=top)
+
+1. [当动漫特效出现在真人剧](https://s.weibo.com//weibo?q=%E5%BD%93%E5%8A%A8%E6%BC%AB%E7%89%B9%E6%95%88%E5%87%BA%E7%8E%B0%E5%9C%A8%E7%9C%9F%E4%BA%BA%E5%89%A7&Refer=top)
+
+1. [打工人有多矛盾](https://s.weibo.com//weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%9F%9B%E7%9B%BE%23&Refer=top)
+
+1. [高山太惨了](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B1%B1%E5%A4%AA%E6%83%A8%E4%BA%86%23&Refer=top)
+
+1. [没想到还有偷棉裤的](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E6%9C%89%E5%81%B7%E6%A3%89%E8%A3%A4%E7%9A%84%23&Refer=top)
+
+1. [阿宁下线](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AE%81%E4%B8%8B%E7%BA%BF&Refer=top)
 
