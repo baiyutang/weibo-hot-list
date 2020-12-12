@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 11:03:32
+## 微博今日热榜 更新于 2020-12-12 12:03:30
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -236,4 +236,30 @@
 1. [湖人 快船](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%20%E5%BF%AB%E8%88%B9&Refer=top)
 
 1. [沃尔考辛斯连线](https://s.weibo.com//weibo?q=%E6%B2%83%E5%B0%94%E8%80%83%E8%BE%9B%E6%96%AF%E8%BF%9E%E7%BA%BF&Refer=top)
+
+1. [四级翻译](https://s.weibo.com//weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91&Refer=top)
+
+1. [何炅看刘耀文丁程鑫的表情](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E7%9C%8B%E5%88%98%E8%80%80%E6%96%87%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E8%A1%A8%E6%83%85%23&Refer=top)
+
+1. [许佳琪捡到陆柯燃耳骨夹](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%90%AA%E6%8D%A1%E5%88%B0%E9%99%86%E6%9F%AF%E7%87%83%E8%80%B3%E9%AA%A8%E5%A4%B9%23&Refer=top)
+
+1. [张桂梅每天只睡三四个小时](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A1%E4%B8%89%E5%9B%9B%E4%B8%AA%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [小舞献祭](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%9E%E7%8C%AE%E7%A5%AD&Refer=top)
+
+1. [恋与制作人](https://s.weibo.com//weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA&Refer=top)
+
+1. [浙江21地急寻市民进行核酸检测](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F21%E5%9C%B0%E6%80%A5%E5%AF%BB%E5%B8%82%E6%B0%91%E8%BF%9B%E8%A1%8C%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B&Refer=top)
+
+1. [四级听力](https://s.weibo.com//weibo?q=%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B&Refer=top)
+
+1. [格林2分钟连得11分](https://s.weibo.com//weibo?q=%E6%A0%BC%E6%9E%972%E5%88%86%E9%92%9F%E8%BF%9E%E5%BE%9711%E5%88%86&Refer=top)
+
+1. [湖北黄州向24名被罚居民致歉](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E9%BB%84%E5%B7%9E%E5%90%9124%E5%90%8D%E8%A2%AB%E7%BD%9A%E5%B1%85%E6%B0%91%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [山东多个高速收费站入口关闭](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E4%B8%AA%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%85%A5%E5%8F%A3%E5%85%B3%E9%97%AD%23&Refer=top)
+
+1. [朱婧汐 丑到你了我很开心](https://s.weibo.com//weibo?q=%E6%9C%B1%E5%A9%A7%E6%B1%90%20%E4%B8%91%E5%88%B0%E4%BD%A0%E4%BA%86%E6%88%91%E5%BE%88%E5%BC%80%E5%BF%83&Refer=top)
+
+1. [李宇春行走的仙人掌](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%A1%8C%E8%B5%B0%E7%9A%84%E4%BB%99%E4%BA%BA%E6%8E%8C%23&Refer=top)
 
