@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 18:03:07
+## 微博今日热榜 更新于 2020-12-12 19:02:55
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -398,4 +398,36 @@
 1. [六级阅读](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E9%98%85%E8%AF%BB&Refer=top)
 
 1. [当老师参加了校运会](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E5%8F%82%E5%8A%A0%E4%BA%86%E6%A0%A1%E8%BF%90%E4%BC%9A%23&Refer=top)
+
+1. [2020外交部金句盘点](https://s.weibo.com//weibo?q=%232020%E5%A4%96%E4%BA%A4%E9%83%A8%E9%87%91%E5%8F%A5%E7%9B%98%E7%82%B9%23&Refer=new_time)
+
+1. [关晓彤好像贝儿公主](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%A5%BD%E5%83%8F%E8%B4%9D%E5%84%BF%E5%85%AC%E4%B8%BB%23&Refer=top)
+
+1. [陈妍希晒照回应](https://s.weibo.com//weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E6%99%92%E7%85%A7%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [男子酒驾送父就医民警先救人后处罚](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E9%80%81%E7%88%B6%E5%B0%B1%E5%8C%BB%E6%B0%91%E8%AD%A6%E5%85%88%E6%95%91%E4%BA%BA%E5%90%8E%E5%A4%84%E7%BD%9A%23&Refer=top)
+
+1. [杨幂海边漫步大片](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B5%B7%E8%BE%B9%E6%BC%AB%E6%AD%A5%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [谭松韵香槟色星河裙](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%A6%99%E6%A7%9F%E8%89%B2%E6%98%9F%E6%B2%B3%E8%A3%99%23&Refer=top)
+
+1. [人类幼崽就是最治愈的](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E5%B0%B1%E6%98%AF%E6%9C%80%E6%B2%BB%E6%84%88%E7%9A%84%23&Refer=top)
+
+1. [THE9硬糖少女合影](https://s.weibo.com//weibo?q=THE9%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3%E5%90%88%E5%BD%B1&Refer=top)
+
+1. [丁禹兮被话筒吓到](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E8%A2%AB%E8%AF%9D%E7%AD%92%E5%90%93%E5%88%B0%23&Refer=top)
+
+1. [忍受丈夫打骂四十年欲离婚被驳回](https://s.weibo.com//weibo?q=%23%E5%BF%8D%E5%8F%97%E4%B8%88%E5%A4%AB%E6%89%93%E9%AA%82%E5%9B%9B%E5%8D%81%E5%B9%B4%E6%AC%B2%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [陈数解释NBCS时自带消音](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%95%B0%E8%A7%A3%E9%87%8ANBCS%E6%97%B6%E8%87%AA%E5%B8%A6%E6%B6%88%E9%9F%B3%23&Refer=top)
+
+1. [追星女孩的生日面条](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%94%9F%E6%97%A5%E9%9D%A2%E6%9D%A1%23&Refer=top)
+
+1. [红豆沙奶卷](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%B1%86%E6%B2%99%E5%A5%B6%E5%8D%B7%23&Refer=top)
+
+1. [目前还有14个中风险地区](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E8%BF%98%E6%9C%8914%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [千万不要在搓澡时闲聊](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%90%93%E6%BE%A1%E6%97%B6%E9%97%B2%E8%81%8A%23&Refer=top)
+
+1. [一节萝卜削成一条长片](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%8A%82%E8%90%9D%E5%8D%9C%E5%89%8A%E6%88%90%E4%B8%80%E6%9D%A1%E9%95%BF%E7%89%87%23&Refer=top)
 
