@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 19:02:55
+## 微博今日热榜 更新于 2020-12-12 20:03:31
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -430,4 +430,24 @@
 1. [千万不要在搓澡时闲聊](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%90%93%E6%BE%A1%E6%97%B6%E9%97%B2%E8%81%8A%23&Refer=top)
 
 1. [一节萝卜削成一条长片](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%8A%82%E8%90%9D%E5%8D%9C%E5%89%8A%E6%88%90%E4%B8%80%E6%9D%A1%E9%95%BF%E7%89%87%23&Refer=top)
+
+1. [成都学生用手机灯光致敬防疫人员](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%AD%A6%E7%94%9F%E7%94%A8%E6%89%8B%E6%9C%BA%E7%81%AF%E5%85%89%E8%87%B4%E6%95%AC%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%23&Refer=top)
+
+1. [北京下雪](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&Refer=top)
+
+1. [白敬亭单膝跪地签名](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8D%95%E8%86%9D%E8%B7%AA%E5%9C%B0%E7%AD%BE%E5%90%8D%23&Refer=top)
+
+1. [寻找章莹颖预告](https://s.weibo.com//weibo?q=%E5%AF%BB%E6%89%BE%E7%AB%A0%E8%8E%B9%E9%A2%96%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [王海](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%B5%B7&Refer=top)
+
+1. [薇娅直播间](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%E9%97%B4&Refer=top)
+
+1. [西藏的英文是yalaso](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E7%9A%84%E8%8B%B1%E6%96%87%E6%98%AFyalaso&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [李洙赫演男主了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%B4%99%E8%B5%AB%E6%BC%94%E7%94%B7%E4%B8%BB%E4%BA%86&Refer=top)
+
+1. [美团优选原陕宁省区负责人被刑拘](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%A2%E4%BC%98%E9%80%89%E5%8E%9F%E9%99%95%E5%AE%81%E7%9C%81%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98&Refer=top)
 
