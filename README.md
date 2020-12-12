@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 17:03:06
+## 微博今日热榜 更新于 2020-12-12 18:03:07
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -374,4 +374,28 @@
 1. [赛博朋克2077一天收回成本](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077%E4%B8%80%E5%A4%A9%E6%94%B6%E5%9B%9E%E6%88%90%E6%9C%AC%23&Refer=top)
 
 1. [官方回应环卫工往轿车上铲垃圾](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%BE%80%E8%BD%BF%E8%BD%A6%E4%B8%8A%E9%93%B2%E5%9E%83%E5%9C%BE&Refer=top)
+
+1. [曾国祥退出我就是演员](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E5%9B%BD%E7%A5%A5%E9%80%80%E5%87%BA%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [六级答案](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88&Refer=top)
+
+1. [郭麒麟 今天特意请了探亲假](https://s.weibo.com//weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%20%E4%BB%8A%E5%A4%A9%E7%89%B9%E6%84%8F%E8%AF%B7%E4%BA%86%E6%8E%A2%E4%BA%B2%E5%81%87&Refer=top)
+
+1. [郭德纲穿羽绒服走红毯](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
+
+1. [六级好难](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E5%A5%BD%E9%9A%BE&Refer=top)
+
+1. [生而为不会学习人我很抱歉](https://s.weibo.com//weibo?q=%23%E7%94%9F%E8%80%8C%E4%B8%BA%E4%B8%8D%E4%BC%9A%E5%AD%A6%E4%B9%A0%E4%BA%BA%E6%88%91%E5%BE%88%E6%8A%B1%E6%AD%89%23&Refer=top)
+
+1. [干饭人干锅香辣鸡翅](https://s.weibo.com//weibo?q=%23%E5%B9%B2%E9%A5%AD%E4%BA%BA%E5%B9%B2%E9%94%85%E9%A6%99%E8%BE%A3%E9%B8%A1%E7%BF%85%23&Refer=top)
+
+1. [六级听力](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B&Refer=top)
+
+1. [大兴机场港珠澳大桥翻译](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%85%B4%E6%9C%BA%E5%9C%BA%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5%E7%BF%BB%E8%AF%91&Refer=top)
+
+1. [章子怡齐肩气质短发](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E9%BD%90%E8%82%A9%E6%B0%94%E8%B4%A8%E7%9F%AD%E5%8F%91&Refer=top)
+
+1. [六级阅读](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E9%98%85%E8%AF%BB&Refer=top)
+
+1. [当老师参加了校运会](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E5%8F%82%E5%8A%A0%E4%BA%86%E6%A0%A1%E8%BF%90%E4%BC%9A%23&Refer=top)
 
