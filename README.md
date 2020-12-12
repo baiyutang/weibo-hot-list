@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-12 09:31:01
+## 微博今日热榜 更新于 2020-12-12 10:11:21
 1. [世界首座高速铁路悬索桥建成通车](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%BA%A7%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E6%82%AC%E7%B4%A2%E6%A1%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6%23&Refer=new_time)
 
 1. [R1SE抡大锤了](https://s.weibo.com//weibo?q=%23R1SE%E6%8A%A1%E5%A4%A7%E9%94%A4%E4%BA%86%23&Refer=top)
@@ -202,4 +202,20 @@
 1. [新冠检测阳性冷冻猪肉流入合肥](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E5%86%B7%E5%86%BB%E7%8C%AA%E8%82%89%E6%B5%81%E5%85%A5%E5%90%88%E8%82%A5%23&Refer=top)
 
 1. [NBA季前赛](https://s.weibo.com//weibo?q=NBA%E5%AD%A3%E5%89%8D%E8%B5%9B&Refer=top)
+
+1. [浙江新增1例西班牙输入确诊](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [鹿晗长发](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E9%95%BF%E5%8F%91%23&Refer=top)
+
+1. [沐浴之王](https://s.weibo.com//weibo?q=%E6%B2%90%E6%B5%B4%E4%B9%8B%E7%8E%8B&Refer=top)
+
+1. [黄明昊朱正廷王子异梦回大厂](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%9C%B1%E6%AD%A3%E5%BB%B7%E7%8E%8B%E5%AD%90%E5%BC%82%E6%A2%A6%E5%9B%9E%E5%A4%A7%E5%8E%82%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [火箭 公牛](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD%20%E5%85%AC%E7%89%9B&Refer=top)
+
+1. [多部漫威新片推迟上映](https://s.weibo.com//weibo?q=%E5%A4%9A%E9%83%A8%E6%BC%AB%E5%A8%81%E6%96%B0%E7%89%87%E6%8E%A8%E8%BF%9F%E4%B8%8A%E6%98%A0&Refer=top)
+
+1. [黄冈居民网购冻猪肉处罚被撤销](https://s.weibo.com//weibo?q=%E9%BB%84%E5%86%88%E5%B1%85%E6%B0%91%E7%BD%91%E8%B4%AD%E5%86%BB%E7%8C%AA%E8%82%89%E5%A4%84%E7%BD%9A%E8%A2%AB%E6%92%A4%E9%94%80&Refer=top)
 
