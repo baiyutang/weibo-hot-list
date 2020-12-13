@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-13 14:03:15
+## 微博今日热榜 更新于 2020-12-13 15:02:48
 1. [中国为何能成功控制新冠疫情](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%83%BD%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%23&Refer=new_time)
 
 1. [泫雅曾给刘维伴舞](https://s.weibo.com//weibo?q=%23%E6%B3%AB%E9%9B%85%E6%9B%BE%E7%BB%99%E5%88%98%E7%BB%B4%E4%BC%B4%E8%88%9E%23&Refer=top)
@@ -304,4 +304,20 @@
 1. [加油吧哥哥](https://s.weibo.com//weibo?q=%E5%8A%A0%E6%B2%B9%E5%90%A7%E5%93%A5%E5%93%A5&Refer=top)
 
 1. [呼伦贝尔出现零下43.6度极寒天气](https://s.weibo.com//weibo?q=%23%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E5%87%BA%E7%8E%B0%E9%9B%B6%E4%B8%8B43.6%E5%BA%A6%E6%9E%81%E5%AF%92%E5%A4%A9%E6%B0%94%23&Refer=top)
+
+1. [成都一工厂给员工划格子隔离](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E4%B8%80%E5%B7%A5%E5%8E%82%E7%BB%99%E5%91%98%E5%B7%A5%E5%88%92%E6%A0%BC%E5%AD%90%E9%9A%94%E7%A6%BB&Refer=top)
+
+1. [孔子像前被摆上健胃消食片](https://s.weibo.com//weibo?q=%23%E5%AD%94%E5%AD%90%E5%83%8F%E5%89%8D%E8%A2%AB%E6%91%86%E4%B8%8A%E5%81%A5%E8%83%83%E6%B6%88%E9%A3%9F%E7%89%87%23&Refer=top)
+
+1. [CardiB爱吃中国姜糖](https://s.weibo.com//weibo?q=%23CardiB%E7%88%B1%E5%90%83%E4%B8%AD%E5%9B%BD%E5%A7%9C%E7%B3%96%23&Refer=top)
+
+1. [墨西哥学习中国用二维码抗击疫情](https://s.weibo.com//weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%9B%BD%E7%94%A8%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%8A%97%E5%87%BB%E7%96%AB%E6%83%85&Refer=top)
+
+1. [每小时1名电动车骑行者死亡](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E5%B0%8F%E6%97%B61%E5%90%8D%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%AA%91%E8%A1%8C%E8%80%85%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [冬天的阿拉斯加](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A4%A9%E7%9A%84%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0&Refer=top)
+
+1. [UFC256](https://s.weibo.com//weibo?q=UFC256&Refer=top)
+
+1. [日本日新增确诊病例首超3000人](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E9%A6%96%E8%B6%853000%E4%BA%BA&Refer=top)
 
