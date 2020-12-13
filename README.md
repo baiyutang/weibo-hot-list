@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-13 20:03:55
+## 微博今日热榜 更新于 2020-12-13 21:03:23
 1. [中国为何能成功控制新冠疫情](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%83%BD%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%23&Refer=new_time)
 
 1. [泫雅曾给刘维伴舞](https://s.weibo.com//weibo?q=%23%E6%B3%AB%E9%9B%85%E6%9B%BE%E7%BB%99%E5%88%98%E7%BB%B4%E4%BC%B4%E8%88%9E%23&Refer=top)
@@ -444,4 +444,24 @@
 1. [漠河气温降到零下44.3度](https://s.weibo.com//weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%B0%94%E6%B8%A9%E9%99%8D%E5%88%B0%E9%9B%B6%E4%B8%8B44.3%E5%BA%A6%23&Refer=top)
 
 1. [银西高铁12月底正式开通](https://s.weibo.com//weibo?q=%E9%93%B6%E8%A5%BF%E9%AB%98%E9%93%8112%E6%9C%88%E5%BA%95%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A&Refer=top)
+
+1. [国家公祭日](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%23&Refer=new_time)
+
+1. [暴露年龄的图片](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9C%B2%E5%B9%B4%E9%BE%84%E7%9A%84%E5%9B%BE%E7%89%87%23&Refer=top)
+
+1. [蔡素芬太惨了](https://s.weibo.com//weibo?q=%23%E8%94%A1%E7%B4%A0%E8%8A%AC%E5%A4%AA%E6%83%A8%E4%BA%86%23&Refer=top)
+
+1. [我们的歌](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&Refer=top)
+
+1. [国家宝藏](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F&Refer=top)
+
+1. [香港新增新冠肺炎确诊95例](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A95%E4%BE%8B&Refer=top)
+
+1. [巡回检察组开播](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84%E5%BC%80%E6%92%AD&Refer=top)
+
+1. [今年唯一一次日全食将在南半球上演](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%B9%B4%E5%94%AF%E4%B8%80%E4%B8%80%E6%AC%A1%E6%97%A5%E5%85%A8%E9%A3%9F%E5%B0%86%E5%9C%A8%E5%8D%97%E5%8D%8A%E7%90%83%E4%B8%8A%E6%BC%94&Refer=top)
+
+1. [了不起的儿科医生](https://s.weibo.com//weibo?q=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F&Refer=top)
+
+1. [上海雾霾](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E9%9B%BE%E9%9C%BE&Refer=top)
 
