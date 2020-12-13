@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-13 13:02:37
+## 微博今日热榜 更新于 2020-12-13 14:03:15
 1. [中国为何能成功控制新冠疫情](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%83%BD%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%23&Refer=new_time)
 
 1. [泫雅曾给刘维伴舞](https://s.weibo.com//weibo?q=%23%E6%B3%AB%E9%9B%85%E6%9B%BE%E7%BB%99%E5%88%98%E7%BB%B4%E4%BC%B4%E8%88%9E%23&Refer=top)
@@ -292,4 +292,16 @@
 1. [大学生在张纯如纪念馆外点1213根蜡烛](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BC%A0%E7%BA%AF%E5%A6%82%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%A4%96%E7%82%B91213%E6%A0%B9%E8%9C%A1%E7%83%9B&Refer=top)
 
 1. [阿不都沙拉木复出](https://s.weibo.com//weibo?q=%E9%98%BF%E4%B8%8D%E9%83%BD%E6%B2%99%E6%8B%89%E6%9C%A8%E5%A4%8D%E5%87%BA&Refer=top)
+
+1. [今日说法播出拉姆的案件](https://s.weibo.com//weibo?q=%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95%E6%92%AD%E5%87%BA%E6%8B%89%E5%A7%86%E7%9A%84%E6%A1%88%E4%BB%B6&Refer=top)
+
+1. [张翰力挺杜淳](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%8A%9B%E6%8C%BA%E6%9D%9C%E6%B7%B3%23&Refer=top)
+
+1. [新冠病毒灭活口罩](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%81%AD%E6%B4%BB%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [郫都再寻需核酸检测人员](https://s.weibo.com//weibo?q=%23%E9%83%AB%E9%83%BD%E5%86%8D%E5%AF%BB%E9%9C%80%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BA%BA%E5%91%98%23&Refer=top)
+
+1. [加油吧哥哥](https://s.weibo.com//weibo?q=%E5%8A%A0%E6%B2%B9%E5%90%A7%E5%93%A5%E5%93%A5&Refer=top)
+
+1. [呼伦贝尔出现零下43.6度极寒天气](https://s.weibo.com//weibo?q=%23%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E5%87%BA%E7%8E%B0%E9%9B%B6%E4%B8%8B43.6%E5%BA%A6%E6%9E%81%E5%AF%92%E5%A4%A9%E6%B0%94%23&Refer=top)
 
