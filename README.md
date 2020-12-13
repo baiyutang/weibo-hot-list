@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-13 16:03:18
+## 微博今日热榜 更新于 2020-12-13 17:02:57
 1. [中国为何能成功控制新冠疫情](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%83%BD%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%23&Refer=new_time)
 
 1. [泫雅曾给刘维伴舞](https://s.weibo.com//weibo?q=%23%E6%B3%AB%E9%9B%85%E6%9B%BE%E7%BB%99%E5%88%98%E7%BB%B4%E4%BC%B4%E8%88%9E%23&Refer=top)
@@ -334,4 +334,34 @@
 1. [网友呼吁抵制素媛案罪犯羽绒服牌子](https://s.weibo.com//weibo?q=%E7%BD%91%E5%8F%8B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%89%8C%E5%AD%90&Refer=top)
 
 1. [南京大屠杀幸存者百人群像](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E7%99%BE%E4%BA%BA%E7%BE%A4%E5%83%8F%23&Refer=top)
+
+1. [演员为了工作撒过哪些谎](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E4%B8%BA%E4%BA%86%E5%B7%A5%E4%BD%9C%E6%92%92%E8%BF%87%E5%93%AA%E4%BA%9B%E8%B0%8E%23&Refer=top)
+
+1. [阿里拼多多美团回应退出社区团购](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E7%A4%BE%E5%8C%BA%E5%9B%A2%E8%B4%AD%23&Refer=top)
+
+1. [武汉下雪](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E4%B8%8B%E9%9B%AA&Refer=top)
+
+1. [成都隔离居民阳台隔空对歌](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E9%9A%94%E7%A6%BB%E5%B1%85%E6%B0%91%E9%98%B3%E5%8F%B0%E9%9A%94%E7%A9%BA%E5%AF%B9%E6%AD%8C%23&Refer=top)
+
+1. [甜茶主持SNL](https://s.weibo.com//weibo?q=%E7%94%9C%E8%8C%B6%E4%B8%BB%E6%8C%81SNL&Refer=top)
+
+1. [四川甘孜雪山之巅](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%E9%9B%AA%E5%B1%B1%E4%B9%8B%E5%B7%85%23&Refer=top)
+
+1. [北京公布新增输入病例详情](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%AC%E5%B8%83%E6%96%B0%E5%A2%9E%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [上海市考](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%80%83&Refer=top)
+
+1. [小朋友比赛碰瓷现场](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%AF%94%E8%B5%9B%E7%A2%B0%E7%93%B7%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [体验了次猫和老鼠的感觉](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%AA%8C%E4%BA%86%E6%AC%A1%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top)
+
+1. [中国新冠灭活疫苗在巴林获批上市](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E5%9C%A8%E5%B7%B4%E6%9E%97%E8%8E%B7%E6%89%B9%E4%B8%8A%E5%B8%82%23&Refer=top)
+
+1. [杭州U14足球队就飞踹对手集体致歉](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9EU14%E8%B6%B3%E7%90%83%E9%98%9F%E5%B0%B1%E9%A3%9E%E8%B8%B9%E5%AF%B9%E6%89%8B%E9%9B%86%E4%BD%93%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [山西修缮一宋代建筑时发现罕见地宫](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E4%BF%AE%E7%BC%AE%E4%B8%80%E5%AE%8B%E4%BB%A3%E5%BB%BA%E7%AD%91%E6%97%B6%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%81%E5%9C%B0%E5%AE%AB&Refer=top)
+
+1. [叠一枝紫金草祭奠死难同胞](https://s.weibo.com//weibo?q=%E5%8F%A0%E4%B8%80%E6%9E%9D%E7%B4%AB%E9%87%91%E8%8D%89%E7%A5%AD%E5%A5%A0%E6%AD%BB%E9%9A%BE%E5%90%8C%E8%83%9E&Refer=top)
+
+1. [国家公祭日前夜的南京](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5%E5%89%8D%E5%A4%9C%E7%9A%84%E5%8D%97%E4%BA%AC&Refer=top)
 
