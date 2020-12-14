@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-15 00:03:41
+## 微博今日热榜 更新于 2020-12-15 01:13:02
 1. [2020励志学子高燃合集](https://s.weibo.com//weibo?q=%232020%E5%8A%B1%E5%BF%97%E5%AD%A6%E5%AD%90%E9%AB%98%E7%87%83%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [王栎鑫离婚](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%A6%BB%E5%A9%9A%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [于朦胧刘彻古装造型](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%A6%E8%83%A7%E5%88%98%E5%BD%BB%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 1. [鬼灭之刃票房破300亿日元](https://s.weibo.com//weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%A5%A8%E6%88%BF%E7%A0%B4300%E4%BA%BF%E6%97%A5%E5%85%83%23&Refer=top)
+
+1. [韩国教授称百度锁定泡菜词条](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E6%8E%88%E7%A7%B0%E7%99%BE%E5%BA%A6%E9%94%81%E5%AE%9A%E6%B3%A1%E8%8F%9C%E8%AF%8D%E6%9D%A1&Refer=top)
+
+1. [95%学校保证学生每天锻炼1小时](https://s.weibo.com//weibo?q=%2395%25%E5%AD%A6%E6%A0%A1%E4%BF%9D%E8%AF%81%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E9%94%BB%E7%82%BC1%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [今夕何夕](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%A4%95%E4%BD%95%E5%A4%95&Refer=top)
+
+1. [风格大赏红毯](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E6%A0%BC%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF%23&Refer=top)
 
