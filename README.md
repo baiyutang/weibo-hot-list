@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-14 07:02:56
+## 微博今日热榜 更新于 2020-12-14 08:07:29
 1. [南水北调使1.2亿人受益](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%B0%B4%E5%8C%97%E8%B0%83%E4%BD%BF1.2%E4%BA%BF%E4%BA%BA%E5%8F%97%E7%9B%8A%23&Refer=new_time)
 
 1. [吴京儿子手臂线条](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E5%84%BF%E5%AD%90%E6%89%8B%E8%87%82%E7%BA%BF%E6%9D%A1%23&Refer=top)
@@ -122,4 +122,40 @@
 1. [爱的厘米大结局](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E5%8E%98%E7%B1%B3%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
 
 1. [了不起的儿科医生](https://s.weibo.com//weibo?q=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F&Refer=top)
+
+1. [为了看潘长江爬上树](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%8B%E6%BD%98%E9%95%BF%E6%B1%9F%E7%88%AC%E4%B8%8A%E6%A0%91%23&Refer=top)
+
+1. [黑龙江新增2例本土病例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [长沙下雪](https://s.weibo.com//weibo?q=%E9%95%BF%E6%B2%99%E4%B8%8B%E9%9B%AA&Refer=top)
+
+1. [满洲里进口冷链食品实行专柜销售](https://s.weibo.com//weibo?q=%23%E6%BB%A1%E6%B4%B2%E9%87%8C%E8%BF%9B%E5%8F%A3%E5%86%B7%E9%93%BE%E9%A3%9F%E5%93%81%E5%AE%9E%E8%A1%8C%E4%B8%93%E6%9F%9C%E9%94%80%E5%94%AE%23&Refer=top)
+
+1. [C罗梅开二度](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [男子骑马从新疆伊犁回福建老家](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%AA%91%E9%A9%AC%E4%BB%8E%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E5%9B%9E%E7%A6%8F%E5%BB%BA%E8%80%81%E5%AE%B6&Refer=top)
+
+1. [宝蓝回应ID事件](https://s.weibo.com//weibo?q=%E5%AE%9D%E8%93%9D%E5%9B%9E%E5%BA%94ID%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [内马尔受伤](https://s.weibo.com//weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [男子赤脚从火场抱出八旬老人](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E8%B5%A4%E8%84%9A%E4%BB%8E%E7%81%AB%E5%9C%BA%E6%8A%B1%E5%87%BA%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA&Refer=top)
+
+1. [村民深夜被带走谈话6小时后昏迷](https://s.weibo.com//weibo?q=%E6%9D%91%E6%B0%91%E6%B7%B1%E5%A4%9C%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%88%E8%AF%9D6%E5%B0%8F%E6%97%B6%E5%90%8E%E6%98%8F%E8%BF%B7&Refer=top)
+
+1. [司机为救婴儿连闯红灯家属拒绝作证](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E4%B8%BA%E6%95%91%E5%A9%B4%E5%84%BF%E8%BF%9E%E9%97%AF%E7%BA%A2%E7%81%AF%E5%AE%B6%E5%B1%9E%E6%8B%92%E7%BB%9D%E4%BD%9C%E8%AF%81%23&Refer=top)
+
+1. [杜兰特回来了](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%9B%9E%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [梅西进球](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E8%BF%9B%E7%90%83&Refer=top)
+
+1. [美国新冠肺炎超1619万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851619%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [慢镜头下的雪中武汉](https://s.weibo.com//weibo?q=%23%E6%85%A2%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E9%9B%AA%E4%B8%AD%E6%AD%A6%E6%B1%89%23&Refer=top)
+
+1. [NBA季前赛](https://s.weibo.com//weibo?q=NBA%E5%AD%A3%E5%89%8D%E8%B5%9B&Refer=top)
+
+1. [尼日利亚一中学遭袭300多名学生失踪](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%B8%80%E4%B8%AD%E5%AD%A6%E9%81%AD%E8%A2%AD300%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E5%A4%B1%E8%B8%AA&Refer=top)
+
+1. [美国选举人团将投票](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%80%89%E4%B8%BE%E4%BA%BA%E5%9B%A2%E5%B0%86%E6%8A%95%E7%A5%A8%23&Refer=top)
 
