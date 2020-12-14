@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-15 06:03:27
+## 微博今日热榜 更新于 2020-12-15 07:03:04
 1. [2020励志学子高燃合集](https://s.weibo.com//weibo?q=%232020%E5%8A%B1%E5%BF%97%E5%AD%A6%E5%AD%90%E9%AB%98%E7%87%83%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [王栎鑫离婚](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%A6%BB%E5%A9%9A%23&Refer=top)
