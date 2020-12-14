@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-15 02:02:47
+## 微博今日热榜 更新于 2020-12-15 03:02:13
 1. [2020励志学子高燃合集](https://s.weibo.com//weibo?q=%232020%E5%8A%B1%E5%BF%97%E5%AD%A6%E5%AD%90%E9%AB%98%E7%87%83%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [王栎鑫离婚](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%A6%BB%E5%A9%9A%23&Refer=top)
@@ -120,4 +120,10 @@
 1. [陆柯燃渔网露腰装好绝](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E6%B8%94%E7%BD%91%E9%9C%B2%E8%85%B0%E8%A3%85%E5%A5%BD%E7%BB%9D%23&Refer=top)
 
 1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
+
+1. [闯红灯送患儿网约车内监控](https://s.weibo.com//weibo?q=%E9%97%AF%E7%BA%A2%E7%81%AF%E9%80%81%E6%82%A3%E5%84%BF%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%86%85%E7%9B%91%E6%8E%A7&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
