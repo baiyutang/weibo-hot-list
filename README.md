@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-16 00:04:20
+## 微博今日热榜 更新于 2020-12-16 01:17:02
 1. [教育部明确10个不得底线要求](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE10%E4%B8%AA%E4%B8%8D%E5%BE%97%E5%BA%95%E7%BA%BF%E8%A6%81%E6%B1%82%23&Refer=new_time)
 
 1. [在上海的张韶涵和在吉林的张韶涵](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%92%8C%E5%9C%A8%E5%90%89%E6%9E%97%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [国安坚持申报北京国安为俱乐部名](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%89%E5%9D%9A%E6%8C%81%E7%94%B3%E6%8A%A5%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E4%B8%BA%E4%BF%B1%E4%B9%90%E9%83%A8%E5%90%8D%23&Refer=top)
 
 1. [幼师可以有多戏精](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%B8%88%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%88%8F%E7%B2%BE%23&Refer=top)
+
+1. [冬季疫情科普防控指南](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%AD%A3%E7%96%AB%E6%83%85%E7%A7%91%E6%99%AE%E9%98%B2%E6%8E%A7%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [四川逐步取消现场宰杀销售活禽](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%80%90%E6%AD%A5%E5%8F%96%E6%B6%88%E7%8E%B0%E5%9C%BA%E5%AE%B0%E6%9D%80%E9%94%80%E5%94%AE%E6%B4%BB%E7%A6%BD%23&Refer=top)
+
+1. [谷爱凌为北京冬奥推迟入学斯坦福](https://s.weibo.com//weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%BA%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%8E%A8%E8%BF%9F%E5%85%A5%E5%AD%A6%E6%96%AF%E5%9D%A6%E7%A6%8F&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
 
