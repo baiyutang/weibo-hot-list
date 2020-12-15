@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-16 03:02:59
+## 微博今日热榜 更新于 2020-12-16 04:03:05
 1. [教育部明确10个不得底线要求](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE10%E4%B8%AA%E4%B8%8D%E5%BE%97%E5%BA%95%E7%BA%BF%E8%A6%81%E6%B1%82%23&Refer=new_time)
 
 1. [在上海的张韶涵和在吉林的张韶涵](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%92%8C%E5%9C%A8%E5%90%89%E6%9E%97%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%23&Refer=top)
