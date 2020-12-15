@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-15 09:32:45
+## 微博今日热榜 更新于 2020-12-15 10:14:08
 1. [2020励志学子高燃合集](https://s.weibo.com//weibo?q=%232020%E5%8A%B1%E5%BF%97%E5%AD%A6%E5%AD%90%E9%AB%98%E7%87%83%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [王栎鑫离婚](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%A6%BB%E5%A9%9A%23&Refer=top)
@@ -196,4 +196,24 @@
 1. [网红景点值得去吗](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A2%E6%99%AF%E7%82%B9%E5%80%BC%E5%BE%97%E5%8E%BB%E5%90%97%23&Refer=top)
 
 1. [法国足球梦之队](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E8%B6%B3%E7%90%83%E6%A2%A6%E4%B9%8B%E9%98%9F&Refer=top)
+
+1. [四川新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [张佳宁](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BD%B3%E5%AE%81&Refer=top)
+
+1. [江油](https://s.weibo.com//weibo?q=%E6%B1%9F%E6%B2%B9&Refer=top)
+
+1. [英国发现新冠变种病毒](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E5%86%A0%E5%8F%98%E7%A7%8D%E7%97%85%E6%AF%92&Refer=top)
+
+1. [警方回应司机为救婴儿闯红灯核查过程](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8F%B8%E6%9C%BA%E4%B8%BA%E6%95%91%E5%A9%B4%E5%84%BF%E9%97%AF%E7%BA%A2%E7%81%AF%E6%A0%B8%E6%9F%A5%E8%BF%87%E7%A8%8B%23&Refer=top)
+
+1. [世卫大会首次承诺要消除一种癌症](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E5%A4%A7%E4%BC%9A%E9%A6%96%E6%AC%A1%E6%89%BF%E8%AF%BA%E8%A6%81%E6%B6%88%E9%99%A4%E4%B8%80%E7%A7%8D%E7%99%8C%E7%97%87%23&Refer=top)
+
+1. [易烊千玺刘浩存雨中对手戏](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%98%E6%B5%A9%E5%AD%98%E9%9B%A8%E4%B8%AD%E5%AF%B9%E6%89%8B%E6%88%8F%23&Refer=top)
+
+1. [百香果女童母亲再发声](https://s.weibo.com//weibo?q=%23%E7%99%BE%E9%A6%99%E6%9E%9C%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%86%8D%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [干饭人的油面筋酿肉](https://s.weibo.com//weibo?q=%23%E5%B9%B2%E9%A5%AD%E4%BA%BA%E7%9A%84%E6%B2%B9%E9%9D%A2%E7%AD%8B%E9%85%BF%E8%82%89%23&Refer=top)
+
+1. [纳木错圣象天门](https://s.weibo.com//weibo?q=%E7%BA%B3%E6%9C%A8%E9%94%99%E5%9C%A3%E8%B1%A1%E5%A4%A9%E9%97%A8&Refer=top)
 
