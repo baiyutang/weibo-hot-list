@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-17 00:04:49
+## 微博今日热榜 更新于 2020-12-17 01:17:56
 1. [中国绿都献给地球的山水画](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%BF%E9%83%BD%E7%8C%AE%E7%BB%99%E5%9C%B0%E7%90%83%E7%9A%84%E5%B1%B1%E6%B0%B4%E7%94%BB%23&Refer=new_time)
 
 1. [黄圣依发文告别我们恋爱吧](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%88%91%E4%BB%AC%E6%81%8B%E7%88%B1%E5%90%A7%23&Refer=top)
@@ -102,4 +102,6 @@
 1. [美财政部将瑞士和越南列为汇率操纵国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E7%91%9E%E5%A3%AB%E5%92%8C%E8%B6%8A%E5%8D%97%E5%88%97%E4%B8%BA%E6%B1%87%E7%8E%87%E6%93%8D%E7%BA%B5%E5%9B%BD%23&Refer=top)
 
 1. [中国疫苗研发处于全球第一方阵](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%A4%84%E4%BA%8E%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%96%B9%E9%98%B5%23&Refer=top)
+
+1. [东北人带100斤开水玩泼水成冰](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%B8%A6100%E6%96%A4%E5%BC%80%E6%B0%B4%E7%8E%A9%E6%B3%BC%E6%B0%B4%E6%88%90%E5%86%B0%23&Refer=top)
 
