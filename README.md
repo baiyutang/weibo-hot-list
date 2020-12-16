@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-16 19:03:17
+## 微博今日热榜 更新于 2020-12-16 20:04:04
 1. [教育部明确10个不得底线要求](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE10%E4%B8%AA%E4%B8%8D%E5%BE%97%E5%BA%95%E7%BA%BF%E8%A6%81%E6%B1%82%23&Refer=new_time)
 
 1. [在上海的张韶涵和在吉林的张韶涵](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%92%8C%E5%9C%A8%E5%90%89%E6%9E%97%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%23&Refer=top)
@@ -506,4 +506,26 @@
 1. [美卫生官员出现史上最大规模离职潮](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%8D%AB%E7%94%9F%E5%AE%98%E5%91%98%E5%87%BA%E7%8E%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A6%BB%E8%81%8C%E6%BD%AE%23&Refer=top)
 
 1. [Uzi](https://s.weibo.com//weibo?q=Uzi&Refer=top)
+
+1. [于正把椅子坐塌了](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%8A%8A%E6%A4%85%E5%AD%90%E5%9D%90%E5%A1%8C%E4%BA%86%23&Refer=top)
+
+1. [李佳航追星TheShy](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E8%BF%BD%E6%98%9FTheShy%23&Refer=top)
+
+1. [禽流感已扩散至日本12个县](https://s.weibo.com//weibo?q=%E7%A6%BD%E6%B5%81%E6%84%9F%E5%B7%B2%E6%89%A9%E6%95%A3%E8%87%B3%E6%97%A5%E6%9C%AC12%E4%B8%AA%E5%8E%BF&Refer=top)
+
+1. [嫦娥五号](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E4%BA%94%E5%8F%B7%23&Refer=top)
+
+1. [干饭人麻辣香锅](https://s.weibo.com//weibo?q=%23%E5%B9%B2%E9%A5%AD%E4%BA%BA%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85%23&Refer=top)
+
+1. [天官赐福](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [快乐建立在别人痛苦之上](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E4%B9%90%E5%BB%BA%E7%AB%8B%E5%9C%A8%E5%88%AB%E4%BA%BA%E7%97%9B%E8%8B%A6%E4%B9%8B%E4%B8%8A%23&Refer=top)
+
+1. [圣枪哥加入EDG](https://s.weibo.com//weibo?q=%E5%9C%A3%E6%9E%AA%E5%93%A5%E5%8A%A0%E5%85%A5EDG&Refer=top)
+
+1. [这就是干啥啥不行](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%B9%B2%E5%95%A5%E5%95%A5%E4%B8%8D%E8%A1%8C%23&Refer=top)
+
+1. [用手编出来的围巾](https://s.weibo.com//weibo?q=%23%E7%94%A8%E6%89%8B%E7%BC%96%E5%87%BA%E6%9D%A5%E7%9A%84%E5%9B%B4%E5%B7%BE%23&Refer=top)
+
+1. [边防战士双脚挂满冰碴](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%8F%8C%E8%84%9A%E6%8C%82%E6%BB%A1%E5%86%B0%E7%A2%B4%23&Refer=top)
 
