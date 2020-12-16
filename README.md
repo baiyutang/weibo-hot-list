@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-16 22:06:28
+## 微博今日热榜 更新于 2020-12-16 23:03:02
 1. [教育部明确10个不得底线要求](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE10%E4%B8%AA%E4%B8%8D%E5%BE%97%E5%BA%95%E7%BA%BF%E8%A6%81%E6%B1%82%23&Refer=new_time)
 
 1. [在上海的张韶涵和在吉林的张韶涵](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%92%8C%E5%9C%A8%E5%90%89%E6%9E%97%E7%9A%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%23&Refer=top)
@@ -586,4 +586,38 @@
 1. [EDG大名单](https://s.weibo.com//weibo?q=EDG%E5%A4%A7%E5%90%8D%E5%8D%95&Refer=top)
 
 1. [糯糯无骨鸡爪煲](https://s.weibo.com//weibo?q=%23%E7%B3%AF%E7%B3%AF%E6%97%A0%E9%AA%A8%E9%B8%A1%E7%88%AA%E7%85%B2%23&Refer=top)
+
+1. [2020年度中国媒体十大新词语发布](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E5%BA%A6%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E5%8D%81%E5%A4%A7%E6%96%B0%E8%AF%8D%E8%AF%AD%E5%8F%91%E5%B8%83%23&Refer=new_time)
+
+1. [周翡谢允一栗定情](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E4%B8%80%E6%A0%97%E5%AE%9A%E6%83%85%23&Refer=top)
+
+1. [黄圣依发文告别我们恋爱吧](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%88%91%E4%BB%AC%E6%81%8B%E7%88%B1%E5%90%A7%23&Refer=top)
+
+1. [琅琊榜第三部](https://s.weibo.com//weibo?q=%23%E7%90%85%E7%90%8A%E6%A6%9C%E7%AC%AC%E4%B8%89%E9%83%A8%23&Refer=top)
+
+1. [后援会否认胡一天将出演天官赐福](https://s.weibo.com//weibo?q=%23%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%83%A1%E4%B8%80%E5%A4%A9%E5%B0%86%E5%87%BA%E6%BC%94%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%23&Refer=top)
+
+1. [电竞正式入选杭州亚运会](https://s.weibo.com//weibo?q=%23%E7%94%B5%E7%AB%9E%E6%AD%A3%E5%BC%8F%E5%85%A5%E9%80%89%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23&Refer=top)
+
+1. [A股第二只千元股诞生](https://s.weibo.com//weibo?q=%23A%E8%82%A1%E7%AC%AC%E4%BA%8C%E5%8F%AA%E5%8D%83%E5%85%83%E8%82%A1%E8%AF%9E%E7%94%9F%23&Refer=top)
+
+1. [圣诞节文案](https://s.weibo.com//weibo?q=%E5%9C%A3%E8%AF%9E%E8%8A%82%E6%96%87%E6%A1%88&Refer=top)
+
+1. [中国疫苗研发处于全球第一方阵](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%A4%84%E4%BA%8E%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%96%B9%E9%98%B5%23&Refer=top)
+
+1. [2020年全球新增1930万癌症患者](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E5%85%A8%E7%90%83%E6%96%B0%E5%A2%9E1930%E4%B8%87%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85&Refer=top)
+
+1. [放羊的星星 翻拍](https://s.weibo.com//weibo?q=%E6%94%BE%E7%BE%8A%E7%9A%84%E6%98%9F%E6%98%9F%20%E7%BF%BB%E6%8B%8D&Refer=top)
+
+1. [古代的地名有多好听](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BB%A3%E7%9A%84%E5%9C%B0%E5%90%8D%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [杨丞琳郑元畅林依晨同框](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E9%83%91%E5%85%83%E7%95%85%E6%9E%97%E4%BE%9D%E6%99%A8%E5%90%8C%E6%A1%86&Refer=top)
+
+1. [东京奥运会火炬传递百日后开始](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%99%BE%E6%97%A5%E5%90%8E%E5%BC%80%E5%A7%8B%23&Refer=top)
+
+1. [比特币站上20000美元大关](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%AB%99%E4%B8%8A20000%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3&Refer=top)
+
+1. [徐杰莫泰抢篮板](https://s.weibo.com//weibo?q=%E5%BE%90%E6%9D%B0%E8%8E%AB%E6%B3%B0%E6%8A%A2%E7%AF%AE%E6%9D%BF&Refer=top)
+
+1. [美财政部将瑞士和越南列为汇率操纵国](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E7%91%9E%E5%A3%AB%E5%92%8C%E8%B6%8A%E5%8D%97%E5%88%97%E4%B8%BA%E6%B1%87%E7%8E%87%E6%93%8D%E7%BA%B5%E5%9B%BD&Refer=top)
 
