@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-18 04:03:08
+## 微博今日热榜 更新于 2020-12-18 05:03:00
 1. [致敬穿军装的平凡英雄](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E7%A9%BF%E5%86%9B%E8%A3%85%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [杨幂模仿绿茶](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%A8%A1%E4%BB%BF%E7%BB%BF%E8%8C%B6%23&Refer=top)
