@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-18 06:03:54
+## 微博今日热榜 更新于 2020-12-18 07:04:28
 1. [致敬穿军装的平凡英雄](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E7%A9%BF%E5%86%9B%E8%A3%85%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [杨幂模仿绿茶](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%A8%A1%E4%BB%BF%E7%BB%BF%E8%8C%B6%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [刁顺子蔡素芬大团圆](https://s.weibo.com//weibo?q=%23%E5%88%81%E9%A1%BA%E5%AD%90%E8%94%A1%E7%B4%A0%E8%8A%AC%E5%A4%A7%E5%9B%A2%E5%9C%86%23&Refer=top)
 
 1. [英国议员夺走女王权杖抗议](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%AE%AE%E5%91%98%E5%A4%BA%E8%B5%B0%E5%A5%B3%E7%8E%8B%E6%9D%83%E6%9D%96%E6%8A%97%E8%AE%AE%23&Refer=top)
+
+1. [外交部回应世卫将来华进行病毒溯源](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%96%E5%8D%AB%E5%B0%86%E6%9D%A5%E5%8D%8E%E8%BF%9B%E8%A1%8C%E7%97%85%E6%AF%92%E6%BA%AF%E6%BA%90%23&Refer=top)
+
+1. [大秦赋](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%A7%A6%E8%B5%8B&Refer=top)
 
