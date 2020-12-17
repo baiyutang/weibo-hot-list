@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-18 03:04:05
+## 微博今日热榜 更新于 2020-12-18 04:03:08
 1. [致敬穿军装的平凡英雄](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E7%A9%BF%E5%86%9B%E8%A3%85%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [杨幂模仿绿茶](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%A8%A1%E4%BB%BF%E7%BB%BF%E8%8C%B6%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [了不起的儿科医生](https://s.weibo.com//weibo?q=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F&Refer=top)
 
 1. [蔡琳高梓淇离婚](https://s.weibo.com//weibo?q=%E8%94%A1%E7%90%B3%E9%AB%98%E6%A2%93%E6%B7%87%E7%A6%BB%E5%A9%9A&Refer=top)
+
+1. [刁顺子蔡素芬大团圆](https://s.weibo.com//weibo?q=%23%E5%88%81%E9%A1%BA%E5%AD%90%E8%94%A1%E7%B4%A0%E8%8A%AC%E5%A4%A7%E5%9B%A2%E5%9C%86%23&Refer=top)
 
