@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-19 06:03:55
+## 微博今日热榜 更新于 2020-12-19 07:04:49
 1. [2020值得记忆](https://s.weibo.com//weibo?q=%232020%E5%80%BC%E5%BE%97%E8%AE%B0%E5%BF%86%23&Refer=new_time)
 
 1. [四川确诊飞行员所涉婚宴主持人发声](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%A1%AE%E8%AF%8A%E9%A3%9E%E8%A1%8C%E5%91%98%E6%89%80%E6%B6%89%E5%A9%9A%E5%AE%B4%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E5%A3%B0&Refer=top)
@@ -130,4 +130,8 @@
 1. [母女遭醉汉纠缠初中生挺身守护](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E5%A5%B3%E9%81%AD%E9%86%89%E6%B1%89%E7%BA%A0%E7%BC%A0%E5%88%9D%E4%B8%AD%E7%94%9F%E6%8C%BA%E8%BA%AB%E5%AE%88%E6%8A%A4%23&Refer=top)
 
 1. [陕西一保育老师针扎多名幼儿被拘](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E4%B8%80%E4%BF%9D%E8%82%B2%E8%80%81%E5%B8%88%E9%92%88%E6%89%8E%E5%A4%9A%E5%90%8D%E5%B9%BC%E5%84%BF%E8%A2%AB%E6%8B%98&Refer=top)
+
+1. [美国副总统彭斯接种新冠疫苗](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E5%BD%AD%E6%96%AF%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [林书豪将签约勇士](https://s.weibo.com//weibo?q=%E6%9E%97%E4%B9%A6%E8%B1%AA%E5%B0%86%E7%AD%BE%E7%BA%A6%E5%8B%87%E5%A3%AB&Refer=top)
 
