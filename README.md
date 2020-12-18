@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-19 03:09:26
+## 微博今日热榜 更新于 2020-12-19 04:03:42
 1. [2020值得记忆](https://s.weibo.com//weibo?q=%232020%E5%80%BC%E5%BE%97%E8%AE%B0%E5%BF%86%23&Refer=new_time)
 
 1. [四川确诊飞行员所涉婚宴主持人发声](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%A1%AE%E8%AF%8A%E9%A3%9E%E8%A1%8C%E5%91%98%E6%89%80%E6%B6%89%E5%A9%9A%E5%AE%B4%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E5%A3%B0&Refer=top)
@@ -118,4 +118,10 @@
 1. [黑白禁区](https://s.weibo.com//weibo?q=%E9%BB%91%E7%99%BD%E7%A6%81%E5%8C%BA&Refer=top)
 
 1. [江苏女排 天津女排](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%A5%B3%E6%8E%92%20%E5%A4%A9%E6%B4%A5%E5%A5%B3%E6%8E%92&Refer=top)
+
+1. [神奇女侠](https://s.weibo.com//weibo?q=%E7%A5%9E%E5%A5%87%E5%A5%B3%E4%BE%A0&Refer=top)
+
+1. [美商务部将中芯国际列入实体清单](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E5%B0%86%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%88%97%E5%85%A5%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95&Refer=top)
+
+1. [天津女排夺冠](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0&Refer=top)
 
