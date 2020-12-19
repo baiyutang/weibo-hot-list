@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-19 17:04:55
+## 微博今日热榜 更新于 2020-12-19 18:05:32
 1. [2020值得记忆](https://s.weibo.com//weibo?q=%232020%E5%80%BC%E5%BE%97%E8%AE%B0%E5%BF%86%23&Refer=new_time)
 
 1. [四川确诊飞行员所涉婚宴主持人发声](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%A1%AE%E8%AF%8A%E9%A3%9E%E8%A1%8C%E5%91%98%E6%89%80%E6%B6%89%E5%A9%9A%E5%AE%B4%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E5%A3%B0&Refer=top)
@@ -442,4 +442,24 @@
 1. [中国已为全球提供超2000亿只口罩](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E4%B8%BA%E5%85%A8%E7%90%83%E6%8F%90%E4%BE%9B%E8%B6%852000%E4%BA%BF%E5%8F%AA%E5%8F%A3%E7%BD%A9%23&Refer=top)
 
 1. [一茶一坐全国大面积关店](https://s.weibo.com//weibo?q=%E4%B8%80%E8%8C%B6%E4%B8%80%E5%9D%90%E5%85%A8%E5%9B%BD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E5%BA%97&Refer=top)
+
+1. [救援英雄们有多全能](https://s.weibo.com//weibo?q=%23%E6%95%91%E6%8F%B4%E8%8B%B1%E9%9B%84%E4%BB%AC%E6%9C%89%E5%A4%9A%E5%85%A8%E8%83%BD%23&Refer=new_time)
+
+1. [南非发现新冠病毒变异](https://s.weibo.com//weibo?q=%E5%8D%97%E9%9D%9E%E5%8F%91%E7%8E%B0%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%8F%98%E5%BC%82&Refer=top)
+
+1. [天官赐福](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [拜登团队回应五角大楼暂停过渡工作](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%9A%82%E5%81%9C%E8%BF%87%E6%B8%A1%E5%B7%A5%E4%BD%9C%23&Refer=top)
+
+1. [宁海教育局通报女生校外被殴打](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B5%B7%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%A4%96%E8%A2%AB%E6%AE%B4%E6%89%93%23&Refer=top)
+
+1. [出租联盟呼吁继续调查滴滴优步反垄断](https://s.weibo.com//weibo?q=%E5%87%BA%E7%A7%9F%E8%81%94%E7%9B%9F%E5%91%BC%E5%90%81%E7%BB%A7%E7%BB%AD%E8%B0%83%E6%9F%A5%E6%BB%B4%E6%BB%B4%E4%BC%98%E6%AD%A5%E5%8F%8D%E5%9E%84%E6%96%AD&Refer=top)
+
+1. [冲绳美军基地旧址发现放射性毒废弃物](https://s.weibo.com//weibo?q=%E5%86%B2%E7%BB%B3%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%97%A7%E5%9D%80%E5%8F%91%E7%8E%B0%E6%94%BE%E5%B0%84%E6%80%A7%E6%AF%92%E5%BA%9F%E5%BC%83%E7%89%A9&Refer=top)
+
+1. [上港无缘亚冠](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B8%AF%E6%97%A0%E7%BC%98%E4%BA%9A%E5%86%A0&Refer=top)
+
+1. [土星木星冬至日上演星星相吸](https://s.weibo.com//weibo?q=%23%E5%9C%9F%E6%98%9F%E6%9C%A8%E6%98%9F%E5%86%AC%E8%87%B3%E6%97%A5%E4%B8%8A%E6%BC%94%E6%98%9F%E6%98%9F%E7%9B%B8%E5%90%B8%23&Refer=top)
+
+1. [鹿晗兑现医护粉丝承诺](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%91%E7%8E%B0%E5%8C%BB%E6%8A%A4%E7%B2%89%E4%B8%9D%E6%89%BF%E8%AF%BA%23&Refer=top)
 
