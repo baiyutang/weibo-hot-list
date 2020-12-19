@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-19 21:10:02
+## 微博今日热榜 更新于 2020-12-19 22:03:32
 1. [2020值得记忆](https://s.weibo.com//weibo?q=%232020%E5%80%BC%E5%BE%97%E8%AE%B0%E5%BF%86%23&Refer=new_time)
 
 1. [四川确诊飞行员所涉婚宴主持人发声](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%A1%AE%E8%AF%8A%E9%A3%9E%E8%A1%8C%E5%91%98%E6%89%80%E6%B6%89%E5%A9%9A%E5%AE%B4%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E5%A3%B0&Refer=top)
@@ -564,4 +564,32 @@
 1. [国网湖南电力全面进入战时状态](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E7%BD%91%E6%B9%96%E5%8D%97%E7%94%B5%E5%8A%9B%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81%23&Refer=top)
 
 1. [冯欣肘击赵睿](https://s.weibo.com//weibo?q=%E5%86%AF%E6%AC%A3%E8%82%98%E5%87%BB%E8%B5%B5%E7%9D%BF&Refer=top)
+
+1. [雷锋诞辰80周年](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E9%94%8B%E8%AF%9E%E8%BE%B080%E5%91%A8%E5%B9%B4%23&Refer=new_time)
+
+1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
+
+1. [香港一确诊男子擅自离开医院](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E7%A1%AE%E8%AF%8A%E7%94%B7%E5%AD%90%E6%93%85%E8%87%AA%E7%A6%BB%E5%BC%80%E5%8C%BB%E9%99%A2%23&Refer=top)
+
+1. [杨幂郑爽同框吐槽好敢说](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E9%83%91%E7%88%BD%E5%90%8C%E6%A1%86%E5%90%90%E6%A7%BD%E5%A5%BD%E6%95%A2%E8%AF%B4%23&Refer=top)
+
+1. [盛一伦 我现在已经凉透了](https://s.weibo.com//weibo?q=%E7%9B%9B%E4%B8%80%E4%BC%A6%20%E6%88%91%E7%8E%B0%E5%9C%A8%E5%B7%B2%E7%BB%8F%E5%87%89%E9%80%8F%E4%BA%86&Refer=top)
+
+1. [于朦胧李泽锋嗑到了](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%9D%8E%E6%B3%BD%E9%94%8B%E5%97%91%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [迪丽热巴年度人气电视剧女演员](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B9%B4%E5%BA%A6%E4%BA%BA%E6%B0%94%E7%94%B5%E8%A7%86%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [SBS演艺大赏](https://s.weibo.com//weibo?q=SBS%E6%BC%94%E8%89%BA%E5%A4%A7%E8%B5%8F&Refer=top)
+
+1. [唐嫣年度电视剧角色](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E5%B9%B4%E5%BA%A6%E7%94%B5%E8%A7%86%E5%89%A7%E8%A7%92%E8%89%B2%23&Refer=top)
+
+1. [章子怡说马嘉祺谢可寅争气](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E8%AF%B4%E9%A9%AC%E5%98%89%E7%A5%BA%E8%B0%A2%E5%8F%AF%E5%AF%85%E4%BA%89%E6%B0%94&Refer=top)
+
+1. [有翡配音收到王一博粉丝鼓励](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E9%85%8D%E9%9F%B3%E6%94%B6%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%B2%89%E4%B8%9D%E9%BC%93%E5%8A%B1%23&Refer=top)
+
+1. [奇葩说海选晋级选手](https://s.weibo.com//weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4%E6%B5%B7%E9%80%89%E6%99%8B%E7%BA%A7%E9%80%89%E6%89%8B&Refer=top)
+
+1. [张雨绮唱歌进步好大](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%94%B1%E6%AD%8C%E8%BF%9B%E6%AD%A5%E5%A5%BD%E5%A4%A7%23&Refer=top)
+
+1. [小义的澜](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%B9%89%E7%9A%84%E6%BE%9C&Refer=top)
 
