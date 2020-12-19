@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 06:03:48
+## 微博今日热榜 更新于 2020-12-20 07:02:28
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -128,4 +128,6 @@
 1. [大秦赋](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%A7%A6%E8%B5%8B&Refer=top)
 
 1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [马克龙病情稳定](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%97%85%E6%83%85%E7%A8%B3%E5%AE%9A%23&Refer=top)
 
