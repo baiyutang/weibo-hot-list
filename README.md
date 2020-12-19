@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 00:08:54
+## 微博今日热榜 更新于 2020-12-20 01:25:43
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -104,4 +104,8 @@
 1. [丰田汽车掌门人炮轰电动汽车](https://s.weibo.com//weibo?q=%23%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%82%AE%E8%BD%B0%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%23&Refer=top)
 
 1. [这英文翻译很上头](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91%E5%BE%88%E4%B8%8A%E5%A4%B4%23&Refer=top)
+
+1. [月球样品价值有哪些](https://s.weibo.com//weibo?q=%23%E6%9C%88%E7%90%83%E6%A0%B7%E5%93%81%E4%BB%B7%E5%80%BC%E6%9C%89%E5%93%AA%E4%BA%9B%23&Refer=new_time)
+
+1. [SBS演艺大赏艺人定制口罩](https://s.weibo.com//weibo?q=%23SBS%E6%BC%94%E8%89%BA%E5%A4%A7%E8%B5%8F%E8%89%BA%E4%BA%BA%E5%AE%9A%E5%88%B6%E5%8F%A3%E7%BD%A9%23&Refer=top)
 
