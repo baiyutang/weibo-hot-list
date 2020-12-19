@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 03:05:22
+## 微博今日热榜 更新于 2020-12-20 04:03:22
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -112,4 +112,10 @@
 1. [雷锋诞辰80周年](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E9%94%8B%E8%AF%9E%E8%BE%B080%E5%91%A8%E5%B9%B4%23&Refer=new_time)
 
 1. [DYG夺冠](https://s.weibo.com//weibo?q=DYG%E5%A4%BA%E5%86%A0&Refer=top)
+
+1. [一图读懂2020年中央经济工作会议](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%822020%E5%B9%B4%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%23&Refer=new_time)
+
+1. [舞蹈风暴](https://s.weibo.com//weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [了不起的儿科医生](https://s.weibo.com//weibo?q=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F&Refer=top)
 
