@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-19 07:04:49
+## 微博今日热榜 更新于 2020-12-19 08:08:55
 1. [2020值得记忆](https://s.weibo.com//weibo?q=%232020%E5%80%BC%E5%BE%97%E8%AE%B0%E5%BF%86%23&Refer=new_time)
 
 1. [四川确诊飞行员所涉婚宴主持人发声](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%A1%AE%E8%AF%8A%E9%A3%9E%E8%A1%8C%E5%91%98%E6%89%80%E6%B6%89%E5%A9%9A%E5%AE%B4%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E5%A3%B0&Refer=top)
@@ -134,4 +134,30 @@
 1. [美国副总统彭斯接种新冠疫苗](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E5%BD%AD%E6%96%AF%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
 
 1. [林书豪将签约勇士](https://s.weibo.com//weibo?q=%E6%9E%97%E4%B9%A6%E8%B1%AA%E5%B0%86%E7%AD%BE%E7%BA%A6%E5%8B%87%E5%A3%AB&Refer=top)
+
+1. [郑恺拎邓紫棋姿势好像猫和老鼠](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E6%8B%8E%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A7%BF%E5%8A%BF%E5%A5%BD%E5%83%8F%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0&Refer=top)
+
+1. [王嘉尔歌词回应夜店传闻](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E6%AD%8C%E8%AF%8D%E5%9B%9E%E5%BA%94%E5%A4%9C%E5%BA%97%E4%BC%A0%E9%97%BB&Refer=top)
+
+1. [法院回应女子忍40年家暴离婚被驳回](https://s.weibo.com//weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%BF%8D40%E5%B9%B4%E5%AE%B6%E6%9A%B4%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [美国新冠肺炎超1737万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851737%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [孙越到哪儿都是捧哏](https://s.weibo.com//weibo?q=%23%E5%AD%99%E8%B6%8A%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E6%8D%A7%E5%93%8F%23&Refer=top)
+
+1. [范丞丞耳朵绑皮筋](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%80%B3%E6%9C%B5%E7%BB%91%E7%9A%AE%E7%AD%8B%23&Refer=top)
+
+1. [吴冠希安慰张常宁](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%86%A0%E5%B8%8C%E5%AE%89%E6%85%B0%E5%BC%A0%E5%B8%B8%E5%AE%81%23&Refer=top)
+
+1. [美国发生多起新冠疫苗报废事件](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E5%A4%9A%E8%B5%B7%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8A%A5%E5%BA%9F%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [新西游记8](https://s.weibo.com//weibo?q=%E6%96%B0%E8%A5%BF%E6%B8%B8%E8%AE%B08&Refer=top)
+
+1. [世卫劝告勿将疫苗开发当成民族主义竞赛](https://s.weibo.com//weibo?q=%E4%B8%96%E5%8D%AB%E5%8A%9D%E5%91%8A%E5%8B%BF%E5%B0%86%E7%96%AB%E8%8B%97%E5%BC%80%E5%8F%91%E5%BD%93%E6%88%90%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%E7%AB%9E%E8%B5%9B&Refer=top)
+
+1. [紧急救援票房破亿](https://s.weibo.com//weibo?q=%E7%B4%A7%E6%80%A5%E6%95%91%E6%8F%B4%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&Refer=top)
+
+1. [林书豪否认已签约勇士](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B9%A6%E8%B1%AA%E5%90%A6%E8%AE%A4%E5%B7%B2%E7%AD%BE%E7%BA%A6%E5%8B%87%E5%A3%AB%23&Refer=top)
+
+1. [天津女排13冠](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E5%A5%B3%E6%8E%9213%E5%86%A0&Refer=top)
 
