@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 19:03:19
+## 微博今日热榜 更新于 2020-12-20 20:03:54
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -454,4 +454,32 @@
 1. [明星机位](https://s.weibo.com//weibo?q=%E6%98%8E%E6%98%9F%E6%9C%BA%E4%BD%8D&Refer=top)
 
 1. [时代少年团爆米花撒了](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%88%86%E7%B1%B3%E8%8A%B1%E6%92%92%E4%BA%86&Refer=top)
+
+1. [肖战杨紫合唱余生请多指教](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A8%E7%B4%AB%E5%90%88%E5%94%B1%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%23&Refer=top)
+
+1. [王一博 高跟](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%AB%98%E8%B7%9F&Refer=top)
+
+1. [境外抵京人员严格执行14加7医学观察](https://s.weibo.com//weibo?q=%23%E5%A2%83%E5%A4%96%E6%8A%B5%E4%BA%AC%E4%BA%BA%E5%91%98%E4%B8%A5%E6%A0%BC%E6%89%A7%E8%A1%8C14%E5%8A%A07%E5%8C%BB%E5%AD%A6%E8%A7%82%E5%AF%9F%23&Refer=top)
+
+1. [羊肉价格涨破40元关口](https://s.weibo.com//weibo?q=%E7%BE%8A%E8%82%89%E4%BB%B7%E6%A0%BC%E6%B6%A8%E7%A0%B440%E5%85%83%E5%85%B3%E5%8F%A3&Refer=top)
+
+1. [吴亦凡穿风衣还冻得搓手](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E7%A9%BF%E9%A3%8E%E8%A1%A3%E8%BF%98%E5%86%BB%E5%BE%97%E6%90%93%E6%89%8B%23&Refer=top)
+
+1. [宋茜的魅力还是在舞台上](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%8C%9C%E7%9A%84%E9%AD%85%E5%8A%9B%E8%BF%98%E6%98%AF%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A&Refer=top)
+
+1. [杨幂发型也是蝴蝶结](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8F%91%E5%9E%8B%E4%B9%9F%E6%98%AF%E8%9D%B4%E8%9D%B6%E7%BB%93%23&Refer=top)
+
+1. [星光大赏红海](https://s.weibo.com//weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%B5%B7&Refer=top)
+
+1. [张杰生日演唱会](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%9F%E6%97%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+
+1. [杨超越说礼服像想开了](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%AF%B4%E7%A4%BC%E6%9C%8D%E5%83%8F%E6%83%B3%E5%BC%80%E4%BA%86&Refer=top)
+
+1. [赵丽颖流光缤纷亮片长裙](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B5%81%E5%85%89%E7%BC%A4%E7%BA%B7%E4%BA%AE%E7%89%87%E9%95%BF%E8%A3%99&Refer=top)
+
+1. [唐嫣腰带](https://s.weibo.com//weibo?q=%E5%94%90%E5%AB%A3%E8%85%B0%E5%B8%A6&Refer=top)
+
+1. [赵露思造型太素了吧](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%B4%A0%E4%BA%86%E5%90%A7&Refer=top)
+
+1. [难听](https://s.weibo.com//weibo?q=%E9%9A%BE%E5%90%AC&Refer=top)
 
