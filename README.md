@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-21 06:03:51
+## 微博今日热榜 更新于 2020-12-21 07:06:54
 1. [21年前解放军进驻澳门珍贵画面](https://s.weibo.com//weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%9B%E9%A9%BB%E6%BE%B3%E9%97%A8%E7%8F%8D%E8%B4%B5%E7%94%BB%E9%9D%A2%23&Refer=new_time)
 
 1. [张杰哭到唱不下去](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%93%AD%E5%88%B0%E5%94%B1%E4%B8%8D%E4%B8%8B%E5%8E%BB%23&Refer=top)
