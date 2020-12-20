@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 09:40:43
+## 微博今日热榜 更新于 2020-12-20 10:17:40
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -200,4 +200,18 @@
 1. [C罗梅开二度](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
 
 1. [张檬发素颜照回应](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E5%8F%91%E7%B4%A0%E9%A2%9C%E7%85%A7%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [热橙子水](https://s.weibo.com//weibo?q=%E7%83%AD%E6%A9%99%E5%AD%90%E6%B0%B4&Refer=top)
+
+1. [唐山一密接者曾与北京病例同乘电梯](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E4%B8%80%E5%AF%86%E6%8E%A5%E8%80%85%E6%9B%BE%E4%B8%8E%E5%8C%97%E4%BA%AC%E7%97%85%E4%BE%8B%E5%90%8C%E4%B9%98%E7%94%B5%E6%A2%AF%23&Refer=top)
+
+1. [新冠病毒在英变异后传播力高出70%](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%9C%A8%E8%8B%B1%E5%8F%98%E5%BC%82%E5%90%8E%E4%BC%A0%E6%92%AD%E5%8A%9B%E9%AB%98%E5%87%BA70%25%23&Refer=top)
+
+1. [2020全球最帅100人](https://s.weibo.com//weibo?q=%232020%E5%85%A8%E7%90%83%E6%9C%80%E5%B8%85100%E4%BA%BA%23&Refer=top)
+
+1. [跨越时空的七子之歌](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E4%B8%83%E5%AD%90%E4%B9%8B%E6%AD%8C%23&Refer=top)
+
+1. [甜蜜家园](https://s.weibo.com//weibo?q=%E7%94%9C%E8%9C%9C%E5%AE%B6%E5%9B%AD&Refer=top)
+
+1. [鹤壁一儿童被狗咬死狗主人被刑拘](https://s.weibo.com//weibo?q=%23%E9%B9%A4%E5%A3%81%E4%B8%80%E5%84%BF%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E6%AD%BB%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
 
