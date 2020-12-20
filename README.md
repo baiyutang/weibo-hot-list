@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 20:03:54
+## 微博今日热榜 更新于 2020-12-20 21:09:01
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -482,4 +482,46 @@
 1. [赵露思造型太素了吧](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%B4%A0%E4%BA%86%E5%90%A7&Refer=top)
 
 1. [难听](https://s.weibo.com//weibo?q=%E9%9A%BE%E5%90%AC&Refer=top)
+
+1. [吴亦凡李雪琴合影](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%90%88%E5%BD%B1&Refer=top)
+
+1. [吴尊友谈新冠病毒环境传人三条件](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E8%B0%88%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%8E%AF%E5%A2%83%E4%BC%A0%E4%BA%BA%E4%B8%89%E6%9D%A1%E4%BB%B6%23&Refer=top)
+
+1. [博君一肖](https://s.weibo.com//weibo?q=%E5%8D%9A%E5%90%9B%E4%B8%80%E8%82%96&Refer=top)
+
+1. [新冠病毒新毒株在英已经失去控制](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%96%B0%E6%AF%92%E6%A0%AA%E5%9C%A8%E8%8B%B1%E5%B7%B2%E7%BB%8F%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6%23&Refer=top)
+
+1. [山东舰](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E8%88%B0&Refer=top)
+
+1. [R1SE舞台有周震南](https://s.weibo.com//weibo?q=R1SE%E8%88%9E%E5%8F%B0%E6%9C%89%E5%91%A8%E9%9C%87%E5%8D%97&Refer=top)
+
+1. [张杰哭到唱不下去](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E5%93%AD%E5%88%B0%E5%94%B1%E4%B8%8D%E4%B8%8B%E5%8E%BB&Refer=top)
+
+1. [许光汉 喉结](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%85%89%E6%B1%89%20%E5%96%89%E7%BB%93&Refer=top)
+
+1. [高二女生面馆蹭暖气学习](https://s.weibo.com//weibo?q=%E9%AB%98%E4%BA%8C%E5%A5%B3%E7%94%9F%E9%9D%A2%E9%A6%86%E8%B9%AD%E6%9A%96%E6%B0%94%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [星光大赏节目单](https://s.weibo.com//weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E8%8A%82%E7%9B%AE%E5%8D%95&Refer=top)
+
+1. [话筒为什么欺负周深](https://s.weibo.com//weibo?q=%E8%AF%9D%E7%AD%92%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AC%BA%E8%B4%9F%E5%91%A8%E6%B7%B1&Refer=top)
+
+1. [林海 新年快乐来日方长](https://s.weibo.com//weibo?q=%E6%9E%97%E6%B5%B7%20%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E6%9D%A5%E6%97%A5%E6%96%B9%E9%95%BF&Refer=top)
+
+1. [国家宝藏](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F&Refer=top)
+
+1. [晚安计划](https://s.weibo.com//weibo?q=%E6%99%9A%E5%AE%89%E8%AE%A1%E5%88%92&Refer=top)
+
+1. [斗罗大陆唐三 年度虚拟人物](https://s.weibo.com//weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E5%94%90%E4%B8%89%20%E5%B9%B4%E5%BA%A6%E8%99%9A%E6%8B%9F%E4%BA%BA%E7%89%A9&Refer=top)
+
+1. [杨紫对肖战说加油](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%AF%B9%E8%82%96%E6%88%98%E8%AF%B4%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [大疆无视美国制裁继续销售](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%96%86%E6%97%A0%E8%A7%86%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E7%BB%A7%E7%BB%AD%E9%94%80%E5%94%AE&Refer=top)
+
+1. [沈阳2份冷链食品外包装呈阳性](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B32%E4%BB%BD%E5%86%B7%E9%93%BE%E9%A3%9F%E5%93%81%E5%A4%96%E5%8C%85%E8%A3%85%E5%91%88%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [警察叔叔送回300多只离家出走的羊](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E9%80%81%E5%9B%9E300%E5%A4%9A%E5%8F%AA%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0%E7%9A%84%E7%BE%8A%23&Refer=top)
+
+1. [大连隔离区飞出的暖心纸飞机](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E9%9A%94%E7%A6%BB%E5%8C%BA%E9%A3%9E%E5%87%BA%E7%9A%84%E6%9A%96%E5%BF%83%E7%BA%B8%E9%A3%9E%E6%9C%BA%23&Refer=top)
+
+1. [勇士仍希望签约林书豪](https://s.weibo.com//weibo?q=%23%E5%8B%87%E5%A3%AB%E4%BB%8D%E5%B8%8C%E6%9C%9B%E7%AD%BE%E7%BA%A6%E6%9E%97%E4%B9%A6%E8%B1%AA%23&Refer=top)
 
