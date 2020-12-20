@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 17:03:19
+## 微博今日热榜 更新于 2020-12-20 18:04:08
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -398,4 +398,32 @@
 1. [一个好的书名有多重要](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E4%B9%A6%E5%90%8D%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
 
 1. [校园辣妹妆](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%9B%AD%E8%BE%A3%E5%A6%B9%E5%A6%86%23&Refer=top)
+
+1. [刘雨欣回应张檬道歉](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%AA%AC%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [郑秀文爸爸去世](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%A7%80%E6%96%87%E7%88%B8%E7%88%B8%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [星光大赏红毯](https://s.weibo.com//weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF&Refer=top)
+
+1. [素媛案罪犯疑似悄悄搬家](https://s.weibo.com//weibo?q=%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E7%96%91%E4%BC%BC%E6%82%84%E6%82%84%E6%90%AC%E5%AE%B6&Refer=top)
+
+1. [江苏省考行测考了凡尔赛文学](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%80%83%E8%A1%8C%E6%B5%8B%E8%80%83%E4%BA%86%E5%87%A1%E5%B0%94%E8%B5%9B%E6%96%87%E5%AD%A6%23&Refer=top)
+
+1. [董璇一字马回应有翡假腿](https://s.weibo.com//weibo?q=%23%E8%91%A3%E7%92%87%E4%B8%80%E5%AD%97%E9%A9%AC%E5%9B%9E%E5%BA%94%E6%9C%89%E7%BF%A1%E5%81%87%E8%85%BF%23&Refer=top)
+
+1. [9岁男孩年收入近3000万美元](https://s.weibo.com//weibo?q=9%E5%B2%81%E7%94%B7%E5%AD%A9%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BF%913000%E4%B8%87%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [张韶涵宜昌演出致交通瘫痪](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%AE%9C%E6%98%8C%E6%BC%94%E5%87%BA%E8%87%B4%E4%BA%A4%E9%80%9A%E7%98%AB%E7%97%AA%23&Refer=top)
+
+1. [8岁女孩短道速滑起步摔跤却得冠军](https://s.weibo.com//weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E8%B5%B7%E6%AD%A5%E6%91%94%E8%B7%A4%E5%8D%B4%E5%BE%97%E5%86%A0%E5%86%9B%23&Refer=top)
+
+1. [金晨小丑女变装全过程](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%A8%E5%B0%8F%E4%B8%91%E5%A5%B3%E5%8F%98%E8%A3%85%E5%85%A8%E8%BF%87%E7%A8%8B&Refer=top)
+
+1. [最不容易忘掉的前任是啥样](https://s.weibo.com//weibo?q=%23%E6%9C%80%E4%B8%8D%E5%AE%B9%E6%98%93%E5%BF%98%E6%8E%89%E7%9A%84%E5%89%8D%E4%BB%BB%E6%98%AF%E5%95%A5%E6%A0%B7%23&Refer=top)
+
+1. [有翡版动物世界](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E7%89%88%E5%8A%A8%E7%89%A9%E4%B8%96%E7%95%8C%23&Refer=top)
+
+1. [当不想回答私人问题时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%B8%8D%E6%83%B3%E5%9B%9E%E7%AD%94%E7%A7%81%E4%BA%BA%E9%97%AE%E9%A2%98%E6%97%B6%23&Refer=top)
+
+1. [梅姨案受害人申军良谈寻子15年](https://s.weibo.com//weibo?q=%E6%A2%85%E5%A7%A8%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E7%94%B3%E5%86%9B%E8%89%AF%E8%B0%88%E5%AF%BB%E5%AD%9015%E5%B9%B4&Refer=top)
 
