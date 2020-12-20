@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-21 02:08:01
+## 微博今日热榜 更新于 2020-12-21 03:06:10
 1. [21年前解放军进驻澳门珍贵画面](https://s.weibo.com//weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%9B%E9%A9%BB%E6%BE%B3%E9%97%A8%E7%8F%8D%E8%B4%B5%E7%94%BB%E9%9D%A2%23&Refer=new_time)
 
 1. [张杰哭到唱不下去](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%93%AD%E5%88%B0%E5%94%B1%E4%B8%8D%E4%B8%8B%E5%8E%BB%23&Refer=top)
@@ -114,4 +114,20 @@
 1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
 
 1. [只要平凡](https://s.weibo.com//weibo?q=%E5%8F%AA%E8%A6%81%E5%B9%B3%E5%87%A1&Refer=top)
+
+1. [新疆发现千亿立方米气藏](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%8F%91%E7%8E%B0%E5%8D%83%E4%BA%BF%E7%AB%8B%E6%96%B9%E7%B1%B3%E6%B0%94%E8%97%8F%23&Refer=new_time)
+
+1. [8岁女孩短道速滑起步摔跤却得冠军](https://s.weibo.com//weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E8%B5%B7%E6%AD%A5%E6%91%94%E8%B7%A4%E5%8D%B4%E5%BE%97%E5%86%A0%E5%86%9B%23&Refer=top)
+
+1. [伦敦民众封城前疯狂购物](https://s.weibo.com//weibo?q=%E4%BC%A6%E6%95%A6%E6%B0%91%E4%BC%97%E5%B0%81%E5%9F%8E%E5%89%8D%E7%96%AF%E7%8B%82%E8%B4%AD%E7%89%A9&Refer=top)
+
+1. [陈飞宇罗云熙击掌](https://s.weibo.com//weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E7%BD%97%E4%BA%91%E7%86%99%E5%87%BB%E6%8E%8C&Refer=top)
+
+1. [时代少年团舞台](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [陈飞宇唱歌居然这么好听](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%94%B1%E6%AD%8C%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [时速160至350公里复兴号全部投用](https://s.weibo.com//weibo?q=%23%E6%97%B6%E9%80%9F160%E8%87%B3350%E5%85%AC%E9%87%8C%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%85%A8%E9%83%A8%E6%8A%95%E7%94%A8%23&Refer=top)
+
+1. [星光大赏星星眼大片](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E6%98%9F%E6%98%9F%E7%9C%BC%E5%A4%A7%E7%89%87%23&Refer=top)
 
