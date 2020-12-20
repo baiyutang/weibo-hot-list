@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 22:03:18
+## 微博今日热榜 更新于 2020-12-20 23:03:01
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -550,4 +550,38 @@
 1. [亚当斯受伤](https://s.weibo.com//weibo?q=%E4%BA%9A%E5%BD%93%E6%96%AF%E5%8F%97%E4%BC%A4&Refer=top)
 
 1. [汽车坠河两小伙脱衣下河砸窗救人](https://s.weibo.com//weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3%E4%B8%A4%E5%B0%8F%E4%BC%99%E8%84%B1%E8%A1%A3%E4%B8%8B%E6%B2%B3%E7%A0%B8%E7%AA%97%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [首尔关押李明博看守所现集体感染](https://s.weibo.com//weibo?q=%23%E9%A6%96%E5%B0%94%E5%85%B3%E6%8A%BC%E6%9D%8E%E6%98%8E%E5%8D%9A%E7%9C%8B%E5%AE%88%E6%89%80%E7%8E%B0%E9%9B%86%E4%BD%93%E6%84%9F%E6%9F%93%23&Refer=top)
+
+1. [迪丽热巴第二套造型](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC%E4%BA%8C%E5%A5%97%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [考研](https://s.weibo.com//weibo?q=%E8%80%83%E7%A0%94&Refer=top)
+
+1. [湖南卫视跨年概念宣传片](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%A6%82%E5%BF%B5%E5%AE%A3%E4%BC%A0%E7%89%87&Refer=top)
+
+1. [王一博首唱熹微](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%A6%96%E5%94%B1%E7%86%B9%E5%BE%AE%23&Refer=top)
+
+1. [4种情况必须戴口罩](https://s.weibo.com//weibo?q=%234%E7%A7%8D%E6%83%85%E5%86%B5%E5%BF%85%E9%A1%BB%E6%88%B4%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [蚂蚁京东百度下架互联网存款产品](https://s.weibo.com//weibo?q=%23%E8%9A%82%E8%9A%81%E4%BA%AC%E4%B8%9C%E7%99%BE%E5%BA%A6%E4%B8%8B%E6%9E%B6%E4%BA%92%E8%81%94%E7%BD%91%E5%AD%98%E6%AC%BE%E4%BA%A7%E5%93%81%23&Refer=top)
+
+1. [杨幂吴亦凡李现台下玩游戏](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E5%90%B4%E4%BA%A6%E5%87%A1%E6%9D%8E%E7%8E%B0%E5%8F%B0%E4%B8%8B%E7%8E%A9%E6%B8%B8%E6%88%8F&Refer=top)
+
+1. [美国疫情](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E7%96%AB%E6%83%85&Refer=top)
+
+1. [星光大赏星星眼大片](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E6%98%9F%E6%98%9F%E7%9C%BC%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [勤深深](https://s.weibo.com//weibo?q=%E5%8B%A4%E6%B7%B1%E6%B7%B1&Refer=top)
+
+1. [白敬亭节目外唱rap是另外的价钱](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E8%8A%82%E7%9B%AE%E5%A4%96%E5%94%B1rap%E6%98%AF%E5%8F%A6%E5%A4%96%E7%9A%84%E4%BB%B7%E9%92%B1&Refer=top)
+
+1. [杀猪盘团伙涉案金额约1.2亿元](https://s.weibo.com//weibo?q=%23%E6%9D%80%E7%8C%AA%E7%9B%98%E5%9B%A2%E4%BC%99%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61.2%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [周深 OST大魔王](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%20OST%E5%A4%A7%E9%AD%94%E7%8E%8B&Refer=top)
+
+1. [可以吹嘘一辈子的事](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E4%BB%A5%E5%90%B9%E5%98%98%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E4%BA%8B%23&Refer=top)
+
+1. [黑龙江东宁新增确诊1例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%9C%E5%AE%81%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A1%E4%BE%8B%23&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
 
