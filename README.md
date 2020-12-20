@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 21:09:01
+## 微博今日热榜 更新于 2020-12-20 22:03:18
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -524,4 +524,30 @@
 1. [大连隔离区飞出的暖心纸飞机](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E9%9A%94%E7%A6%BB%E5%8C%BA%E9%A3%9E%E5%87%BA%E7%9A%84%E6%9A%96%E5%BF%83%E7%BA%B8%E9%A3%9E%E6%9C%BA%23&Refer=top)
 
 1. [勇士仍希望签约林书豪](https://s.weibo.com//weibo?q=%23%E5%8B%87%E5%A3%AB%E4%BB%8D%E5%B8%8C%E6%9C%9B%E7%AD%BE%E7%BA%A6%E6%9E%97%E4%B9%A6%E8%B1%AA%23&Refer=top)
+
+1. [星光大赏主持人](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E4%B8%BB%E6%8C%81%E4%BA%BA%23&Refer=top)
+
+1. [陈飞宇唱歌居然这么好听](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%94%B1%E6%AD%8C%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [大连疫情](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E7%96%AB%E6%83%85&Refer=top)
+
+1. [澳门珠海大学生共唱七子之歌](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E9%97%A8%E7%8F%A0%E6%B5%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%B1%E5%94%B1%E4%B8%83%E5%AD%90%E4%B9%8B%E6%AD%8C%23&Refer=top)
+
+1. [陈飞宇罗云熙击掌](https://s.weibo.com//weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E7%BD%97%E4%BA%91%E7%86%99%E5%87%BB%E6%8E%8C&Refer=top)
+
+1. [台湾新增3例新冠肺炎确诊病例](https://s.weibo.com//weibo?q=%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [我们的歌](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&Refer=top)
+
+1. [宋运辉打工人](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BF%90%E8%BE%89%E6%89%93%E5%B7%A5%E4%BA%BA%23&Refer=top)
+
+1. [邓紫棋出图比工作室快](https://s.weibo.com//weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%87%BA%E5%9B%BE%E6%AF%94%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BF%AB&Refer=top)
+
+1. [德云男团唱rap](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E7%94%B7%E5%9B%A2%E5%94%B1rap&Refer=top)
+
+1. [任豪 今天才算真正回来了](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%20%E4%BB%8A%E5%A4%A9%E6%89%8D%E7%AE%97%E7%9C%9F%E6%AD%A3%E5%9B%9E%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [亚当斯受伤](https://s.weibo.com//weibo?q=%E4%BA%9A%E5%BD%93%E6%96%AF%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [汽车坠河两小伙脱衣下河砸窗救人](https://s.weibo.com//weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3%E4%B8%A4%E5%B0%8F%E4%BC%99%E8%84%B1%E8%A1%A3%E4%B8%8B%E6%B2%B3%E7%A0%B8%E7%AA%97%E6%95%91%E4%BA%BA%23&Refer=top)
 
