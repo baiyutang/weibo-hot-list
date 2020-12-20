@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-21 00:07:47
+## 微博今日热榜 更新于 2020-12-21 01:25:11
 1. [21年前解放军进驻澳门珍贵画面](https://s.weibo.com//weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%9B%E9%A9%BB%E6%BE%B3%E9%97%A8%E7%8F%8D%E8%B4%B5%E7%94%BB%E9%9D%A2%23&Refer=new_time)
 
 1. [张杰哭到唱不下去](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%93%AD%E5%88%B0%E5%94%B1%E4%B8%8D%E4%B8%8B%E5%8E%BB%23&Refer=top)
@@ -102,4 +102,12 @@
 1. [王一博 高跟](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E9%AB%98%E8%B7%9F&Refer=top)
 
 1. [黑龙江东宁新增确诊1例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%9C%E5%AE%81%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A1%E4%BE%8B%23&Refer=top)
+
+1. [澳门举行升旗仪式庆祝回归21年](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E9%97%A8%E4%B8%BE%E8%A1%8C%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E5%BA%86%E7%A5%9D%E5%9B%9E%E5%BD%9221%E5%B9%B4%23&Refer=new_time)
+
+1. [星光大赏红毯](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF%23&Refer=top)
+
+1. [冬至](https://s.weibo.com//weibo?q=%E5%86%AC%E8%87%B3&Refer=top)
+
+1. [我们的歌](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&Refer=top)
 
