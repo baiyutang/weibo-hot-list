@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 15:04:09
+## 微博今日热榜 更新于 2020-12-20 16:04:31
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -328,4 +328,46 @@
 1. [doki人气舞台](https://s.weibo.com//weibo?q=doki%E4%BA%BA%E6%B0%94%E8%88%9E%E5%8F%B0&Refer=top)
 
 1. [郭德纲 安利神器](https://s.weibo.com//weibo?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E5%AE%89%E5%88%A9%E7%A5%9E%E5%99%A8&Refer=top)
+
+1. [Jennie发际线](https://s.weibo.com//weibo?q=%23Jennie%E5%8F%91%E9%99%85%E7%BA%BF%23&Refer=top)
+
+1. [两头婚](https://s.weibo.com//weibo?q=%E4%B8%A4%E5%A4%B4%E5%A9%9A&Refer=top)
+
+1. [星光大赏粉丝应援](https://s.weibo.com//weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4&Refer=top)
+
+1. [张绍刚借裤子给黄圣依穿](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BB%8D%E5%88%9A%E5%80%9F%E8%A3%A4%E5%AD%90%E7%BB%99%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%A9%BF%23&Refer=top)
+
+1. [陈志朋 昨天一上称又少了1kg](https://s.weibo.com//weibo?q=%E9%99%88%E5%BF%97%E6%9C%8B%20%E6%98%A8%E5%A4%A9%E4%B8%80%E4%B8%8A%E7%A7%B0%E5%8F%88%E5%B0%91%E4%BA%861kg&Refer=top)
+
+1. [李希侃](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%B8%8C%E4%BE%83&Refer=top)
+
+1. [战士回家被妈妈当成顾客让扫付款码](https://s.weibo.com//weibo?q=%23%E6%88%98%E5%A3%AB%E5%9B%9E%E5%AE%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E5%BD%93%E6%88%90%E9%A1%BE%E5%AE%A2%E8%AE%A9%E6%89%AB%E4%BB%98%E6%AC%BE%E7%A0%81%23&Refer=top)
+
+1. [比特币突破24000美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B424000%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [殷世航求婚现场](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E6%B1%82%E5%A9%9A%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [冬至](https://s.weibo.com//weibo?q=%E5%86%AC%E8%87%B3&Refer=top)
+
+1. [有翡突如其来的搞笑](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E7%AA%81%E5%A6%82%E5%85%B6%E6%9D%A5%E7%9A%84%E6%90%9E%E7%AC%91%23&Refer=top)
+
+1. [张艺兴送练习生莲花](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E7%BB%83%E4%B9%A0%E7%94%9F%E8%8E%B2%E8%8A%B1%23&Refer=top)
+
+1. [刘天池晒马嘉祺的日记](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A9%E6%B1%A0%E6%99%92%E9%A9%AC%E5%98%89%E7%A5%BA%E7%9A%84%E6%97%A5%E8%AE%B0%23&Refer=top)
+
+1. [丁程鑫即兴表演酒醉的蝴蝶](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8D%B3%E5%85%B4%E8%A1%A8%E6%BC%94%E9%85%92%E9%86%89%E7%9A%84%E8%9D%B4%E8%9D%B6&Refer=top)
+
+1. [民警冬夜跳河救人后妻子发的微信](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E5%86%AC%E5%A4%9C%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%90%8E%E5%A6%BB%E5%AD%90%E5%8F%91%E7%9A%84%E5%BE%AE%E4%BF%A1%23&Refer=top)
+
+1. [虎扑投票63%男性认为自己比丁真帅](https://s.weibo.com//weibo?q=%23%E8%99%8E%E6%89%91%E6%8A%95%E7%A5%A863%25%E7%94%B7%E6%80%A7%E8%AE%A4%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%AF%94%E4%B8%81%E7%9C%9F%E5%B8%85%23&Refer=top)
+
+1. [不雅检查涉事校长亡妻弟弟发声](https://s.weibo.com//weibo?q=%E4%B8%8D%E9%9B%85%E6%A3%80%E6%9F%A5%E6%B6%89%E4%BA%8B%E6%A0%A1%E9%95%BF%E4%BA%A1%E5%A6%BB%E5%BC%9F%E5%BC%9F%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [高校全鱼宴材料由学生下湖捕捞](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%85%A8%E9%B1%BC%E5%AE%B4%E6%9D%90%E6%96%99%E7%94%B1%E5%AD%A6%E7%94%9F%E4%B8%8B%E6%B9%96%E6%8D%95%E6%8D%9E%23&Refer=top)
+
+1. [官方回应市民零下20度排队交社保](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B8%82%E6%B0%91%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E6%8E%92%E9%98%9F%E4%BA%A4%E7%A4%BE%E4%BF%9D%23&Refer=top)
+
+1. [美国单日新增新冠病例超40万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E8%B6%8540%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [供热公司回应拒收零钱取暖费](https://s.weibo.com//weibo?q=%E4%BE%9B%E7%83%AD%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%8B%92%E6%94%B6%E9%9B%B6%E9%92%B1%E5%8F%96%E6%9A%96%E8%B4%B9&Refer=top)
 
