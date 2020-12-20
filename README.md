@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-20 08:07:41
+## 微博今日热榜 更新于 2020-12-20 09:40:43
 1. [同学们请坐](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B7%E5%9D%90%23&Refer=new_time)
 
 1. [张檬最后悔的事情是整容](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E6%9C%80%E5%90%8E%E6%82%94%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E6%95%B4%E5%AE%B9&Refer=top)
@@ -154,4 +154,50 @@
 1. [辽宁新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
 1. [上世纪的秀场是怎样的](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%96%E7%BA%AA%E7%9A%84%E7%A7%80%E5%9C%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&Refer=top)
+
+1. [泰国一海鲜市场激增516例本土感染病例](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E6%B5%B7%E9%B2%9C%E5%B8%82%E5%9C%BA%E6%BF%80%E5%A2%9E516%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [杨幂 极度的坦诚就是无坚不摧](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E6%9E%81%E5%BA%A6%E7%9A%84%E5%9D%A6%E8%AF%9A%E5%B0%B1%E6%98%AF%E6%97%A0%E5%9D%9A%E4%B8%8D%E6%91%A7&Refer=top)
+
+1. [又三家平台下架互联网存款产品](https://s.weibo.com//weibo?q=%E5%8F%88%E4%B8%89%E5%AE%B6%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E4%BA%92%E8%81%94%E7%BD%91%E5%AD%98%E6%AC%BE%E4%BA%A7%E5%93%81&Refer=top)
+
+1. [中国驻美使馆调整回国检测标准](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E4%BD%BF%E9%A6%86%E8%B0%83%E6%95%B4%E5%9B%9E%E5%9B%BD%E6%A3%80%E6%B5%8B%E6%A0%87%E5%87%86&Refer=top)
+
+1. [张艺兴 流水的女舞者铁打的陈镇威](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%B5%81%E6%B0%B4%E7%9A%84%E5%A5%B3%E8%88%9E%E8%80%85%E9%93%81%E6%89%93%E7%9A%84%E9%99%88%E9%95%87%E5%A8%81&Refer=top)
+
+1. [伊能静 我可能对女团没有敬畏心](https://s.weibo.com//weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%20%E6%88%91%E5%8F%AF%E8%83%BD%E5%AF%B9%E5%A5%B3%E5%9B%A2%E6%B2%A1%E6%9C%89%E6%95%AC%E7%95%8F%E5%BF%83&Refer=top)
+
+1. [于正道歉](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%AD%A3%E9%81%93%E6%AD%89&Refer=top)
+
+1. [苹果将暂时关闭加州所有门店](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E5%8A%A0%E5%B7%9E%E6%89%80%E6%9C%89%E9%97%A8%E5%BA%97&Refer=top)
+
+1. [辽宁新增本土病例详情](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [刘也](https://s.weibo.com//weibo?q=%E5%88%98%E4%B9%9F&Refer=top)
+
+1. [谷嘉诚看伍嘉成看了个寂寞](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E5%98%89%E8%AF%9A%E7%9C%8B%E4%BC%8D%E5%98%89%E6%88%90%E7%9C%8B%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [谢怜跳罪人坑](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E6%80%9C%E8%B7%B3%E7%BD%AA%E4%BA%BA%E5%9D%91%23&Refer=top)
+
+1. [臧鸿飞 我甚至连丁太昇都不是](https://s.weibo.com//weibo?q=%E8%87%A7%E9%B8%BF%E9%A3%9E%20%E6%88%91%E7%94%9A%E8%87%B3%E8%BF%9E%E4%B8%81%E5%A4%AA%E6%98%87%E9%83%BD%E4%B8%8D%E6%98%AF&Refer=top)
+
+1. [80张照片回顾2020的春夏秋冬](https://s.weibo.com//weibo?q=%2380%E5%BC%A0%E7%85%A7%E7%89%87%E5%9B%9E%E9%A1%BE2020%E7%9A%84%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC%23&Refer=top)
+
+1. [大葱批发价较上月涨超50%](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%91%B1%E6%89%B9%E5%8F%91%E4%BB%B7%E8%BE%83%E4%B8%8A%E6%9C%88%E6%B6%A8%E8%B6%8550%25%23&Refer=top)
+
+1. [王嘉尔林俊杰隔空对唱](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9A%94%E7%A9%BA%E5%AF%B9%E5%94%B1%23&Refer=top)
+
+1. [天官赐福动画新片尾曲](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%8A%A8%E7%94%BB%E6%96%B0%E7%89%87%E5%B0%BE%E6%9B%B2%23&Refer=top)
+
+1. [火箭裁掉杰拉德格林](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD%E8%A3%81%E6%8E%89%E6%9D%B0%E6%8B%89%E5%BE%B7%E6%A0%BC%E6%9E%97&Refer=top)
+
+1. [山西吕梁严重违反师德校长被免职](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%90%95%E6%A2%81%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E5%B8%88%E5%BE%B7%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top)
+
+1. [蔚山现代亚冠冠军](https://s.weibo.com//weibo?q=%E8%94%9A%E5%B1%B1%E7%8E%B0%E4%BB%A3%E4%BA%9A%E5%86%A0%E5%86%A0%E5%86%9B&Refer=top)
+
+1. [威少奇才首秀](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E5%A5%87%E6%89%8D%E9%A6%96%E7%A7%80&Refer=top)
+
+1. [C罗梅开二度](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [张檬发素颜照回应](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AA%AC%E5%8F%91%E7%B4%A0%E9%A2%9C%E7%85%A7%E5%9B%9E%E5%BA%94&Refer=top)
 
