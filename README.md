@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-22 02:11:48
+## 微博今日热榜 更新于 2020-12-22 03:10:02
 1. [中央经济工作会议的细节故事](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%9A%84%E7%BB%86%E8%8A%82%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [迪丽热巴 黄景瑜](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%BB%84%E6%99%AF%E7%91%9C&Refer=top)
@@ -114,4 +114,8 @@
 1. [瑞丽时尚盛典](https://s.weibo.com//weibo?q=%E7%91%9E%E4%B8%BD%E6%97%B6%E5%B0%9A%E7%9B%9B%E5%85%B8&Refer=top)
 
 1. [张云雷现场唱牵挂](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E7%8E%B0%E5%9C%BA%E5%94%B1%E7%89%B5%E6%8C%82%23&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
+
+1. [德云社直播](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%9B%B4%E6%92%AD&Refer=top)
 
