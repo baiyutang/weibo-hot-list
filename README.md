@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-22 04:03:29
+## 微博今日热榜 更新于 2020-12-22 05:03:49
 1. [中央经济工作会议的细节故事](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%9A%84%E7%BB%86%E8%8A%82%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [迪丽热巴 黄景瑜](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%BB%84%E6%99%AF%E7%91%9C&Refer=top)
@@ -124,4 +124,8 @@
 1. [周翡太会怼了](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E5%A4%AA%E4%BC%9A%E6%80%BC%E4%BA%86%23&Refer=top)
 
 1. [宋运辉好难](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BF%90%E8%BE%89%E5%A5%BD%E9%9A%BE%23&Refer=top)
+
+1. [英国变异病毒对市场的影响](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8F%98%E5%BC%82%E7%97%85%E6%AF%92%E5%AF%B9%E5%B8%82%E5%9C%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&Refer=top)
+
+1. [薇娅GAI直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85GAI%E7%9B%B4%E6%92%AD&Refer=top)
 
