@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-21 19:05:33
+## 微博今日热榜 更新于 2020-12-21 20:04:17
 1. [21年前解放军进驻澳门珍贵画面](https://s.weibo.com//weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%9B%E9%A9%BB%E6%BE%B3%E9%97%A8%E7%8F%8D%E8%B4%B5%E7%94%BB%E9%9D%A2%23&Refer=new_time)
 
 1. [张杰哭到唱不下去](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%93%AD%E5%88%B0%E5%94%B1%E4%B8%8D%E4%B8%8B%E5%8E%BB%23&Refer=top)
@@ -502,4 +502,24 @@
 1. [离爱情只差一盘水饺](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E7%88%B1%E6%83%85%E5%8F%AA%E5%B7%AE%E4%B8%80%E7%9B%98%E6%B0%B4%E9%A5%BA%23&Refer=top)
 
 1. [劳荣枝称自己也是受害者](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E7%A7%B0%E8%87%AA%E5%B7%B1%E4%B9%9F%E6%98%AF%E5%8F%97%E5%AE%B3%E8%80%85%23&Refer=top)
+
+1. [2021年春季征兵启动](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%BE%81%E5%85%B5%E5%90%AF%E5%8A%A8%23&Refer=new_time)
+
+1. [黄子韬 马伯骞失踪了能不能帮我找一下](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%A4%B1%E8%B8%AA%E4%BA%86%E8%83%BD%E4%B8%8D%E8%83%BD%E5%B8%AE%E6%88%91%E6%89%BE%E4%B8%80%E4%B8%8B&Refer=top)
+
+1. [撒贝宁 我不是纵火是对方自燃](https://s.weibo.com//weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%20%E6%88%91%E4%B8%8D%E6%98%AF%E7%BA%B5%E7%81%AB%E6%98%AF%E5%AF%B9%E6%96%B9%E8%87%AA%E7%87%83&Refer=top)
+
+1. [邓伦手机字号像老人机](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E6%89%8B%E6%9C%BA%E5%AD%97%E5%8F%B7%E5%83%8F%E8%80%81%E4%BA%BA%E6%9C%BA%23&Refer=top)
+
+1. [疲劳过度的常见征兆](https://s.weibo.com//weibo?q=%23%E7%96%B2%E5%8A%B3%E8%BF%87%E5%BA%A6%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BE%81%E5%85%86%23&Refer=top)
+
+1. [伦敦情侣封城前2小时内匆忙结婚](https://s.weibo.com//weibo?q=%E4%BC%A6%E6%95%A6%E6%83%85%E4%BE%A3%E5%B0%81%E5%9F%8E%E5%89%8D2%E5%B0%8F%E6%97%B6%E5%86%85%E5%8C%86%E5%BF%99%E7%BB%93%E5%A9%9A&Refer=top)
+
+1. [瑞丽时尚盛典](https://s.weibo.com//weibo?q=%E7%91%9E%E4%B8%BD%E6%97%B6%E5%B0%9A%E7%9B%9B%E5%85%B8&Refer=top)
+
+1. [印度暂停所有从英国飞印度航班](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%9A%82%E5%81%9C%E6%89%80%E6%9C%89%E4%BB%8E%E8%8B%B1%E5%9B%BD%E9%A3%9E%E5%8D%B0%E5%BA%A6%E8%88%AA%E7%8F%AD&Refer=top)
+
+1. [英国单日新增确诊创纪录](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E5%88%9B%E7%BA%AA%E5%BD%95&Refer=top)
+
+1. [湖南永州一活禽交易市场关闭](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E6%B0%B8%E5%B7%9E%E4%B8%80%E6%B4%BB%E7%A6%BD%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E5%85%B3%E9%97%AD%23&Refer=top)
 
