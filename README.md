@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-23 05:04:40
+## 微博今日热榜 更新于 2020-12-23 06:07:33
 1. [反食品浪费法草案提交审议](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E9%A3%9F%E5%93%81%E6%B5%AA%E8%B4%B9%E6%B3%95%E8%8D%89%E6%A1%88%E6%8F%90%E4%BA%A4%E5%AE%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [李佳琦给金靖过生日](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%BB%99%E9%87%91%E9%9D%96%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top)
@@ -128,4 +128,8 @@
 1. [声控灯到底有多麻烦](https://s.weibo.com//weibo?q=%23%E5%A3%B0%E6%8E%A7%E7%81%AF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%BA%BB%E7%83%A6%23&Refer=top)
 
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [中国交通的可持续发展白皮书发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A%E7%9A%84%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%8F%91%E5%B8%83%23&Refer=new_time)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
 
