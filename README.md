@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-24 04:05:41
+## 微博今日热榜 更新于 2020-12-24 05:05:37
 1. [进一步完善低龄未成年犯罪规定](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AE%8C%E5%96%84%E4%BD%8E%E9%BE%84%E6%9C%AA%E6%88%90%E5%B9%B4%E7%8A%AF%E7%BD%AA%E8%A7%84%E5%AE%9A%23&Refer=new_time)
 
 1. [湖南卫视声明](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -140,4 +140,6 @@
 1. [我国焦虑障碍患病率近5%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%84%A6%E8%99%91%E9%9A%9C%E7%A2%8D%E6%82%A3%E7%97%85%E7%8E%87%E8%BF%915%25%23&Refer=top)
 
 1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [虎牙天命杯S8](https://s.weibo.com//weibo?q=%E8%99%8E%E7%89%99%E5%A4%A9%E5%91%BD%E6%9D%AFS8&Refer=top)
 
