@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-24 06:08:27
+## 微博今日热榜 更新于 2020-12-24 07:13:12
 1. [进一步完善低龄未成年犯罪规定](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AE%8C%E5%96%84%E4%BD%8E%E9%BE%84%E6%9C%AA%E6%88%90%E5%B9%B4%E7%8A%AF%E7%BD%AA%E8%A7%84%E5%AE%9A%23&Refer=new_time)
 
 1. [湖南卫视声明](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -142,4 +142,10 @@
 1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
 
 1. [虎牙天命杯S8](https://s.weibo.com//weibo?q=%E8%99%8E%E7%89%99%E5%A4%A9%E5%91%BD%E6%9D%AFS8&Refer=top)
+
+1. [中国超一半成年居民超重或肥胖](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%85%E4%B8%80%E5%8D%8A%E6%88%90%E5%B9%B4%E5%B1%85%E6%B0%91%E8%B6%85%E9%87%8D%E6%88%96%E8%82%A5%E8%83%96%23&Refer=top)
+
+1. [瑞士最高法院撤销涉及孙杨的裁决](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%92%A4%E9%94%80%E6%B6%89%E5%8F%8A%E5%AD%99%E6%9D%A8%E7%9A%84%E8%A3%81%E5%86%B3&Refer=top)
+
+1. [平安夜](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E5%A4%9C&Refer=top)
 
