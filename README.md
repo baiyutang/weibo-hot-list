@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-25 00:15:18
+## 微博今日热榜 更新于 2020-12-25 01:37:21
 1. [高铁静音车厢要遵守哪些约定](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E8%A6%81%E9%81%B5%E5%AE%88%E5%93%AA%E4%BA%9B%E7%BA%A6%E5%AE%9A%23&Refer=new_time)
 
 1. [鹿晗关晓彤](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&Refer=top)
@@ -104,4 +104,10 @@
 1. [用一句话为考研人加油](https://s.weibo.com//weibo?q=%23%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%B8%BA%E8%80%83%E7%A0%94%E4%BA%BA%E5%8A%A0%E6%B2%B9%23&Refer=top)
 
 1. [Angelababy 正常人谁会叫baby啊](https://s.weibo.com//weibo?q=Angelababy%20%E6%AD%A3%E5%B8%B8%E4%BA%BA%E8%B0%81%E4%BC%9A%E5%8F%ABbaby%E5%95%8A&Refer=top)
+
+1. [嫦娥带月球特产回地球](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%B8%A6%E6%9C%88%E7%90%83%E7%89%B9%E4%BA%A7%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=new_time)
+
+1. [陆可沈思怡闺蜜一起失恋](https://s.weibo.com//weibo?q=%23%E9%99%86%E5%8F%AF%E6%B2%88%E6%80%9D%E6%80%A1%E9%97%BA%E8%9C%9C%E4%B8%80%E8%B5%B7%E5%A4%B1%E6%81%8B%23&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
 
