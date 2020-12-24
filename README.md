@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-24 21:19:09
+## 微博今日热榜 更新于 2020-12-24 22:06:41
 1. [进一步完善低龄未成年犯罪规定](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AE%8C%E5%96%84%E4%BD%8E%E9%BE%84%E6%9C%AA%E6%88%90%E5%B9%B4%E7%8A%AF%E7%BD%AA%E8%A7%84%E5%AE%9A%23&Refer=new_time)
 
 1. [湖南卫视声明](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -616,4 +616,26 @@
 1. [茅台](https://s.weibo.com//weibo?q=%E8%8C%85%E5%8F%B0&Refer=top)
 
 1. [泡泡玛特承认二次销售](https://s.weibo.com//weibo?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%89%BF%E8%AE%A4%E4%BA%8C%E6%AC%A1%E9%94%80%E5%94%AE&Refer=top)
+
+1. [蔡琳官宣离婚后首现身](https://s.weibo.com//weibo?q=%E8%94%A1%E7%90%B3%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB&Refer=top)
+
+1. [尼日利亚或出现了另一种变异新冠病毒](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E6%88%96%E5%87%BA%E7%8E%B0%E4%BA%86%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92&Refer=top)
+
+1. [宋运辉程开颜吻戏](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BF%90%E8%BE%89%E7%A8%8B%E5%BC%80%E9%A2%9C%E5%90%BB%E6%88%8F%23&Refer=top)
+
+1. [男子扣上帽子冲进小吃店灭火](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E6%89%A3%E4%B8%8A%E5%B8%BD%E5%AD%90%E5%86%B2%E8%BF%9B%E5%B0%8F%E5%90%83%E5%BA%97%E7%81%AD%E7%81%AB&Refer=top)
+
+1. [葡萄牙报告3种变异新冠病毒](https://s.weibo.com//weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E6%8A%A5%E5%91%8A3%E7%A7%8D%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%23&Refer=top)
+
+1. [结婚和不结婚哪个压力更大](https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A%E5%92%8C%E4%B8%8D%E7%BB%93%E5%A9%9A%E5%93%AA%E4%B8%AA%E5%8E%8B%E5%8A%9B%E6%9B%B4%E5%A4%A7%23&Refer=top)
+
+1. [被指威胁游客的涉事导游自辩](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%8C%87%E5%A8%81%E8%83%81%E6%B8%B8%E5%AE%A2%E7%9A%84%E6%B6%89%E4%BA%8B%E5%AF%BC%E6%B8%B8%E8%87%AA%E8%BE%A9%23&Refer=top)
+
+1. [挑战6秒说8句英文](https://s.weibo.com//weibo?q=%23%E6%8C%91%E6%88%986%E7%A7%92%E8%AF%B48%E5%8F%A5%E8%8B%B1%E6%96%87%23&Refer=top)
+
+1. [哈尔滨冰雪大世界今日开园](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E4%BB%8A%E6%97%A5%E5%BC%80%E5%9B%AD%23&Refer=top)
+
+1. [新兵拉练偶遇特战队员击掌加油](https://s.weibo.com//weibo?q=%E6%96%B0%E5%85%B5%E6%8B%89%E7%BB%83%E5%81%B6%E9%81%87%E7%89%B9%E6%88%98%E9%98%9F%E5%91%98%E5%87%BB%E6%8E%8C%E5%8A%A0%E6%B2%B9&Refer=top)
+
+1. [有偿补课该怎么治理](https://s.weibo.com//weibo?q=%E6%9C%89%E5%81%BF%E8%A1%A5%E8%AF%BE%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B2%BB%E7%90%86&Refer=top)
 
