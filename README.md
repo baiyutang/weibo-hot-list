@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-24 18:11:36
+## 微博今日热榜 更新于 2020-12-24 19:09:19
 1. [进一步完善低龄未成年犯罪规定](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AE%8C%E5%96%84%E4%BD%8E%E9%BE%84%E6%9C%AA%E6%88%90%E5%B9%B4%E7%8A%AF%E7%BD%AA%E8%A7%84%E5%AE%9A%23&Refer=new_time)
 
 1. [湖南卫视声明](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -518,4 +518,36 @@
 1. [圣诞美食有多好看](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E7%BE%8E%E9%A3%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%9C%8B%23&Refer=top)
 
 1. [平安夜自制苹果](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%AE%89%E5%A4%9C%E8%87%AA%E5%88%B6%E8%8B%B9%E6%9E%9C%23&Refer=top)
+
+1. [抖音崩了](https://s.weibo.com//weibo?q=%E6%8A%96%E9%9F%B3%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [日本日增新冠确诊和死亡病例均创新高](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%A5%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E5%92%8C%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E5%9D%87%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=top)
+
+1. [平安喜乐](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90&Refer=top)
+
+1. [王俊凯循环使用圣诞树](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BE%AA%E7%8E%AF%E4%BD%BF%E7%94%A8%E5%9C%A3%E8%AF%9E%E6%A0%91%23&Refer=top)
+
+1. [消防员让轻生男子先下楼把车开走](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%AE%A9%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%E5%85%88%E4%B8%8B%E6%A5%BC%E6%8A%8A%E8%BD%A6%E5%BC%80%E8%B5%B0%23&Refer=top)
+
+1. [青少年经常饮用含糖饮料问题凸显](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%8F%E5%B8%B8%E9%A5%AE%E7%94%A8%E5%90%AB%E7%B3%96%E9%A5%AE%E6%96%99%E9%97%AE%E9%A2%98%E5%87%B8%E6%98%BE%23&Refer=top)
+
+1. [父母只是长大了的孩子](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E5%8F%AA%E6%98%AF%E9%95%BF%E5%A4%A7%E4%BA%86%E7%9A%84%E5%AD%A9%E5%AD%90%23&Refer=top)
+
+1. [平安夜要吃饺子吗](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%AE%89%E5%A4%9C%E8%A6%81%E5%90%83%E9%A5%BA%E5%AD%90%E5%90%97%23&Refer=top)
+
+1. [一个字总结2020](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AD%97%E6%80%BB%E7%BB%932020%23&Refer=top)
+
+1. [老师进教室前反复调整笑容](https://s.weibo.com//weibo?q=%E8%80%81%E5%B8%88%E8%BF%9B%E6%95%99%E5%AE%A4%E5%89%8D%E5%8F%8D%E5%A4%8D%E8%B0%83%E6%95%B4%E7%AC%91%E5%AE%B9&Refer=top)
+
+1. [2021开年流星雨](https://s.weibo.com//weibo?q=%232021%E5%BC%80%E5%B9%B4%E6%B5%81%E6%98%9F%E9%9B%A8%23&Refer=top)
+
+1. [TES晋级四强](https://s.weibo.com//weibo?q=%23TES%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23&Refer=top)
+
+1. [绝世千金完结篇](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E4%B8%96%E5%8D%83%E9%87%91%E5%AE%8C%E7%BB%93%E7%AF%87%23&Refer=top)
+
+1. [护鸟铁娘子6年救鸟百万只](https://s.weibo.com//weibo?q=%23%E6%8A%A4%E9%B8%9F%E9%93%81%E5%A8%98%E5%AD%906%E5%B9%B4%E6%95%91%E9%B8%9F%E7%99%BE%E4%B8%87%E5%8F%AA%23&Refer=top)
+
+1. [随手拍棵圣诞树](https://s.weibo.com//weibo?q=%23%E9%9A%8F%E6%89%8B%E6%8B%8D%E6%A3%B5%E5%9C%A3%E8%AF%9E%E6%A0%91%23&Refer=top)
+
+1. [铅笔的消失速度有多快](https://s.weibo.com//weibo?q=%23%E9%93%85%E7%AC%94%E7%9A%84%E6%B6%88%E5%A4%B1%E9%80%9F%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%BF%AB%23&Refer=top)
 
