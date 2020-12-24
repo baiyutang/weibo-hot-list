@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-25 03:19:50
+## 微博今日热榜 更新于 2020-12-25 04:06:24
 1. [高铁静音车厢要遵守哪些约定](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E8%A6%81%E9%81%B5%E5%AE%88%E5%93%AA%E4%BA%9B%E7%BA%A6%E5%AE%9A%23&Refer=new_time)
 
 1. [鹿晗关晓彤](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&Refer=top)
@@ -128,4 +128,8 @@
 1. [女神降临](https://s.weibo.com//weibo?q=%E5%A5%B3%E7%A5%9E%E9%99%8D%E4%B8%B4&Refer=top)
 
 1. [周翡对谢允撒娇](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E5%AF%B9%E8%B0%A2%E5%85%81%E6%92%92%E5%A8%87%23&Refer=top)
+
+1. [邓伦演技](https://s.weibo.com//weibo?q=%E9%82%93%E4%BC%A6%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [汪铎演技](https://s.weibo.com//weibo?q=%E6%B1%AA%E9%93%8E%E6%BC%94%E6%8A%80&Refer=top)
 
