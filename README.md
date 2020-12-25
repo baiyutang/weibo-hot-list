@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-25 07:11:31
+## 微博今日热榜 更新于 2020-12-25 08:14:13
 1. [高铁静音车厢要遵守哪些约定](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E8%A6%81%E9%81%B5%E5%AE%88%E5%93%AA%E4%BA%9B%E7%BA%A6%E5%AE%9A%23&Refer=new_time)
 
 1. [鹿晗关晓彤](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&Refer=top)
@@ -138,4 +138,38 @@
 1. [中国救捞系统累计救助遇险人员超8万名](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8D%9E%E7%B3%BB%E7%BB%9F%E7%B4%AF%E8%AE%A1%E6%95%91%E5%8A%A9%E9%81%87%E9%99%A9%E4%BA%BA%E5%91%98%E8%B6%858%E4%B8%87%E5%90%8D%23&Refer=new_time)
 
 1. [圣诞节](https://s.weibo.com//weibo?q=%E5%9C%A3%E8%AF%9E%E8%8A%82&Refer=top)
+
+1. [王栎鑫方回应新恋情](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%96%B9%E5%9B%9E%E5%BA%94%E6%96%B0%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [美国新冠肺炎超1860万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851860%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [10余个国家发现新冠病毒新变种](https://s.weibo.com//weibo?q=%2310%E4%BD%99%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%96%B0%E5%8F%98%E7%A7%8D%23&Refer=top)
+
+1. [英国宣布完成脱欧](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AE%8C%E6%88%90%E8%84%B1%E6%AC%A7%23&Refer=top)
+
+1. [拆弹专家2票房破亿](https://s.weibo.com//weibo?q=%23%E6%8B%86%E5%BC%B9%E4%B8%93%E5%AE%B62%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23&Refer=top)
+
+1. [考研前最后1天](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E5%89%8D%E6%9C%80%E5%90%8E1%E5%A4%A9%23&Refer=top)
+
+1. [陈铭帮我找到了一学习就困的原因](https://s.weibo.com//weibo?q=%E9%99%88%E9%93%AD%E5%B8%AE%E6%88%91%E6%89%BE%E5%88%B0%E4%BA%86%E4%B8%80%E5%AD%A6%E4%B9%A0%E5%B0%B1%E5%9B%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&Refer=top)
+
+1. [胡先煦 不捏一下很难收场](https://s.weibo.com//weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%20%E4%B8%8D%E6%8D%8F%E4%B8%80%E4%B8%8B%E5%BE%88%E9%9A%BE%E6%94%B6%E5%9C%BA&Refer=top)
+
+1. [王子文造型好像黑化前后](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E9%80%A0%E5%9E%8B%E5%A5%BD%E5%83%8F%E9%BB%91%E5%8C%96%E5%89%8D%E5%90%8E%23&Refer=top)
+
+1. [周洁琼劝李妍关麦](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E5%8A%9D%E6%9D%8E%E5%A6%8D%E5%85%B3%E9%BA%A6%23&Refer=top)
+
+1. [李一桐台词](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E5%8F%B0%E8%AF%8D&Refer=top)
+
+1. [SHE圣诞合照](https://s.weibo.com//weibo?q=SHE%E5%9C%A3%E8%AF%9E%E5%90%88%E7%85%A7&Refer=top)
+
+1. [THE9新歌歌词被泄露](https://s.weibo.com//weibo?q=%23THE9%E6%96%B0%E6%AD%8C%E6%AD%8C%E8%AF%8D%E8%A2%AB%E6%B3%84%E9%9C%B2%23&Refer=top)
+
+1. [五月天 因为你所以我](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%89%80%E4%BB%A5%E6%88%91&Refer=top)
+
+1. [辽宁新增7例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E7%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [圣诞节应该吃什么](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E8%8A%82%E5%BA%94%E8%AF%A5%E5%90%83%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [2020只剩最后7天](https://s.weibo.com//weibo?q=%232020%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E7%E5%A4%A9%23&Refer=top)
 
