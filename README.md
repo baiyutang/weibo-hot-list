@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-26 04:02:58
+## 微博今日热榜 更新于 2020-12-26 05:02:38
 1. [2022年前实现普通高中三科统编教材覆盖所有省份](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E5%89%8D%E5%AE%9E%E7%8E%B0%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E4%B8%89%E7%A7%91%E7%BB%9F%E7%BC%96%E6%95%99%E6%9D%90%E8%A6%86%E7%9B%96%E6%89%80%E6%9C%89%E7%9C%81%E4%BB%BD%23&Refer=new_time)
 
 1. [杨笠 男人还有底线呢](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0%20%E7%94%B7%E4%BA%BA%E8%BF%98%E6%9C%89%E5%BA%95%E7%BA%BF%E5%91%A2&Refer=top)
@@ -130,4 +130,8 @@
 1. [考研前一天的状态](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top)
 
 1. [杨幂调侃自己发际线](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E8%B0%83%E4%BE%83%E8%87%AA%E5%B7%B1%E5%8F%91%E9%99%85%E7%BA%BF&Refer=top)
+
+1. [THE9金属未来感写真](https://s.weibo.com//weibo?q=%23THE9%E9%87%91%E5%B1%9E%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%86%99%E7%9C%9F%23&Refer=top)
+
+1. [原来花絮才是最好笑的](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E8%8A%B1%E7%B5%AE%E6%89%8D%E6%98%AF%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84&Refer=top)
 
