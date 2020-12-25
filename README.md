@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-25 12:09:06
+## 微博今日热榜 更新于 2020-12-25 13:10:30
 1. [高铁静音车厢要遵守哪些约定](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E8%A6%81%E9%81%B5%E5%AE%88%E5%93%AA%E4%BA%9B%E7%BA%A6%E5%AE%9A%23&Refer=new_time)
 
 1. [鹿晗关晓彤](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&Refer=top)
@@ -272,4 +272,40 @@
 1. [夫妻18年在沙漠种下4000多亩梭梭](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB18%E5%B9%B4%E5%9C%A8%E6%B2%99%E6%BC%A0%E7%A7%8D%E4%B8%8B4000%E5%A4%9A%E4%BA%A9%E6%A2%AD%E6%A2%AD%23&Refer=top)
 
 1. [圣诞约会满分妆容](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E7%BA%A6%E4%BC%9A%E6%BB%A1%E5%88%86%E5%A6%86%E5%AE%B9%23&Refer=top)
+
+1. [元旦假期防疫要点](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E9%98%B2%E7%96%AB%E8%A6%81%E7%82%B9%23&Refer=new_time)
+
+1. [张家口急寻无症状感染者密接同车人](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E5%8F%A3%E6%80%A5%E5%AF%BB%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E5%AF%86%E6%8E%A5%E5%90%8C%E8%BD%A6%E4%BA%BA%23&Refer=top)
+
+1. [微信支付宝将进行适老化改造](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B0%86%E8%BF%9B%E8%A1%8C%E9%80%82%E8%80%81%E5%8C%96%E6%94%B9%E9%80%A0%23&Refer=top)
+
+1. [黄子韬徐艺洋石玺彤合体发歌](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E7%9F%B3%E7%8E%BA%E5%BD%A4%E5%90%88%E4%BD%93%E5%8F%91%E6%AD%8C%23&Refer=top)
+
+1. [学霸的圣诞树](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E9%9C%B8%E7%9A%84%E5%9C%A3%E8%AF%9E%E6%A0%91%23&Refer=top)
+
+1. [圣诞节别人家的男朋友](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E8%8A%82%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%9A%84%E7%94%B7%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [被一只长颈鹿惊艳到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%B8%80%E5%8F%AA%E9%95%BF%E9%A2%88%E9%B9%BF%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [Angelababy向日葵日系大片](https://s.weibo.com//weibo?q=%23Angelababy%E5%90%91%E6%97%A5%E8%91%B5%E6%97%A5%E7%B3%BB%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [王一博黑白氛围感大片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%BB%91%E7%99%BD%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [中国高铁复兴号家族图鉴](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%AE%B6%E6%97%8F%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [郝蕾听见她说预告](https://s.weibo.com//weibo?q=%23%E9%83%9D%E8%95%BE%E5%90%AC%E8%A7%81%E5%A5%B9%E8%AF%B4%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [退役圣诞老人的提醒](https://s.weibo.com//weibo?q=%23%E9%80%80%E5%BD%B9%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E7%9A%84%E6%8F%90%E9%86%92%23&Refer=top)
+
+1. [沈阳发布考研防疫最新公告](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E5%8F%91%E5%B8%83%E8%80%83%E7%A0%94%E9%98%B2%E7%96%AB%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A%23&Refer=top)
+
+1. [有翡插曲熹微MV](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E6%8F%92%E6%9B%B2%E7%86%B9%E5%BE%AEMV%23&Refer=top)
+
+1. [打工人的圣诞节](https://s.weibo.com//weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%9C%A3%E8%AF%9E%E8%8A%82%23&Refer=top)
+
+1. [一首歌回顾2020娱乐圈](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%A6%96%E6%AD%8C%E5%9B%9E%E9%A1%BE2020%E5%A8%B1%E4%B9%90%E5%9C%88%23&Refer=top)
+
+1. [鹿晗三巡演唱会门票](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%E4%B8%89%E5%B7%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&Refer=top)
+
+1. [安崎Yea](https://s.weibo.com//weibo?q=%E5%AE%89%E5%B4%8EYea&Refer=top)
 
