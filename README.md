@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-26 03:14:46
+## 微博今日热榜 更新于 2020-12-26 04:02:58
 1. [2022年前实现普通高中三科统编教材覆盖所有省份](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E5%89%8D%E5%AE%9E%E7%8E%B0%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E4%B8%89%E7%A7%91%E7%BB%9F%E7%BC%96%E6%95%99%E6%9D%90%E8%A6%86%E7%9B%96%E6%89%80%E6%9C%89%E7%9C%81%E4%BB%BD%23&Refer=new_time)
 
 1. [杨笠 男人还有底线呢](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0%20%E7%94%B7%E4%BA%BA%E8%BF%98%E6%9C%89%E5%BA%95%E7%BA%BF%E5%91%A2&Refer=top)
@@ -128,4 +128,6 @@
 1. [赛博朋克2077发行商被起诉](https://s.weibo.com//weibo?q=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077%E5%8F%91%E8%A1%8C%E5%95%86%E8%A2%AB%E8%B5%B7%E8%AF%89&Refer=top)
 
 1. [考研前一天的状态](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [杨幂调侃自己发际线](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E8%B0%83%E4%BE%83%E8%87%AA%E5%B7%B1%E5%8F%91%E9%99%85%E7%BA%BF&Refer=top)
 
