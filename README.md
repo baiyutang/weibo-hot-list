@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-25 21:14:24
+## 微博今日热榜 更新于 2020-12-25 22:03:23
 1. [高铁静音车厢要遵守哪些约定](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E8%A6%81%E9%81%B5%E5%AE%88%E5%93%AA%E4%BA%9B%E7%BA%A6%E5%AE%9A%23&Refer=new_time)
 
 1. [鹿晗关晓彤](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23&Refer=top)
@@ -574,4 +574,32 @@
 1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
 
 1. [周翡谢允吵架](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E5%90%B5%E6%9E%B6%23&Refer=top)
+
+1. [总书记勉励青少年追求梦想](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8B%89%E5%8A%B1%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BF%BD%E6%B1%82%E6%A2%A6%E6%83%B3%23&Refer=new_time)
+
+1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
+
+1. [教科书级别的撒娇精男主](https://s.weibo.com//weibo?q=%23%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%88%AB%E7%9A%84%E6%92%92%E5%A8%87%E7%B2%BE%E7%94%B7%E4%B8%BB%23&Refer=top)
+
+1. [许垚](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%9E%9A&Refer=top)
+
+1. [你看我像rapper吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9C%8B%E6%88%91%E5%83%8Frapper%E5%90%97%23&Refer=top)
+
+1. [今年美国涉枪案已致4.2万人死亡](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%B6%89%E6%9E%AA%E6%A1%88%E5%B7%B2%E8%87%B44.2%E4%B8%87%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
+
+1. [宋运辉程开颜吵架](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BF%90%E8%BE%89%E7%A8%8B%E5%BC%80%E9%A2%9C%E5%90%B5%E6%9E%B6%23&Refer=top)
+
+1. [赛博朋克2077发行商被起诉](https://s.weibo.com//weibo?q=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077%E5%8F%91%E8%A1%8C%E5%95%86%E8%A2%AB%E8%B5%B7%E8%AF%89&Refer=top)
+
+1. [王子文哭戏感染力](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%93%AD%E6%88%8F%E6%84%9F%E6%9F%93%E5%8A%9B%23&Refer=top)
+
+1. [银行不得与互联网平台合作吸收存款](https://s.weibo.com//weibo?q=%E9%93%B6%E8%A1%8C%E4%B8%8D%E5%BE%97%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E5%90%B8%E6%94%B6%E5%AD%98%E6%AC%BE&Refer=top)
+
+1. [杨笠 男人还有底线呢](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0%20%E7%94%B7%E4%BA%BA%E8%BF%98%E6%9C%89%E5%BA%95%E7%BA%BF%E5%91%A2&Refer=top)
+
+1. [原来花絮才是最好笑的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%8A%B1%E7%B5%AE%E6%89%8D%E6%98%AF%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84%23&Refer=top)
+
+1. [汪铎身材](https://s.weibo.com//weibo?q=%E6%B1%AA%E9%93%8E%E8%BA%AB%E6%9D%90&Refer=top)
 
