@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-27 04:03:02
+## 微博今日热榜 更新于 2020-12-27 05:02:39
 1. [50秒回顾高原战士的2020](https://s.weibo.com//weibo?q=%2350%E7%A7%92%E5%9B%9E%E9%A1%BE%E9%AB%98%E5%8E%9F%E6%88%98%E5%A3%AB%E7%9A%842020%23&Refer=new_time)
 
 1. [杨幂看杜淳脱衣服跳舞的表情](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9C%8B%E6%9D%9C%E6%B7%B3%E8%84%B1%E8%A1%A3%E6%9C%8D%E8%B7%B3%E8%88%9E%E7%9A%84%E8%A1%A8%E6%83%85%23&Refer=top)
@@ -140,4 +140,10 @@
 1. [天真带小哥回家](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E7%9C%9F%E5%B8%A6%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%AE%B6%23&Refer=top)
 
 1. [心灵奇旅](https://s.weibo.com//weibo?q=%E5%BF%83%E7%81%B5%E5%A5%87%E6%97%85&Refer=top)
+
+1. [中国高铁复兴号家族图鉴](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%AE%B6%E6%97%8F%E5%9B%BE%E9%89%B4%23&Refer=new_time)
+
+1. [考研](https://s.weibo.com//weibo?q=%E8%80%83%E7%A0%94&Refer=top)
+
+1. [舞蹈风暴](https://s.weibo.com//weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4&Refer=top)
 
