@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-27 06:05:19
+## 微博今日热榜 更新于 2020-12-27 07:10:16
 1. [50秒回顾高原战士的2020](https://s.weibo.com//weibo?q=%2350%E7%A7%92%E5%9B%9E%E9%A1%BE%E9%AB%98%E5%8E%9F%E6%88%98%E5%A3%AB%E7%9A%842020%23&Refer=new_time)
 
 1. [杨幂看杜淳脱衣服跳舞的表情](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9C%8B%E6%9D%9C%E6%B7%B3%E8%84%B1%E8%A1%A3%E6%9C%8D%E8%B7%B3%E8%88%9E%E7%9A%84%E8%A1%A8%E6%83%85%23&Refer=top)
