@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-28 01:34:24
+## 微博今日热榜 更新于 2020-12-28 02:19:18
 1. [春运火车票购票日历来了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%B4%AD%E7%A5%A8%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86%23&Refer=new_time)
 
 1. [杨笠](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0&Refer=top)
@@ -110,4 +110,10 @@
 1. [假期自我防疫措施都有哪些](https://s.weibo.com//weibo?q=%23%E5%81%87%E6%9C%9F%E8%87%AA%E6%88%91%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%23&Refer=new_time)
 
 1. [孔庆东张颐武评有翡](https://s.weibo.com//weibo?q=%23%E5%AD%94%E5%BA%86%E4%B8%9C%E5%BC%A0%E9%A2%90%E6%AD%A6%E8%AF%84%E6%9C%89%E7%BF%A1%23&Refer=top)
+
+1. [关于冷链食品6个权威问答](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E5%86%B7%E9%93%BE%E9%A3%9F%E5%93%816%E4%B8%AA%E6%9D%83%E5%A8%81%E9%97%AE%E7%AD%94%23&Refer=new_time)
+
+1. [陈小春GAI经典武侠串烧好炸](https://s.weibo.com//weibo?q=%E9%99%88%E5%B0%8F%E6%98%A5GAI%E7%BB%8F%E5%85%B8%E6%AD%A6%E4%BE%A0%E4%B8%B2%E7%83%A7%E5%A5%BD%E7%82%B8&Refer=top)
+
+1. [2岁萌娃一天投篮1000分以上](https://s.weibo.com//weibo?q=%232%E5%B2%81%E8%90%8C%E5%A8%83%E4%B8%80%E5%A4%A9%E6%8A%95%E7%AF%AE1000%E5%88%86%E4%BB%A5%E4%B8%8A%23&Refer=top)
 
