@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-27 22:03:30
+## 微博今日热榜 更新于 2020-12-27 23:03:26
 1. [50秒回顾高原战士的2020](https://s.weibo.com//weibo?q=%2350%E7%A7%92%E5%9B%9E%E9%A1%BE%E9%AB%98%E5%8E%9F%E6%88%98%E5%A3%AB%E7%9A%842020%23&Refer=new_time)
 
 1. [杨幂看杜淳脱衣服跳舞的表情](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9C%8B%E6%9D%9C%E6%B7%B3%E8%84%B1%E8%A1%A3%E6%9C%8D%E8%B7%B3%E8%88%9E%E7%9A%84%E8%A1%A8%E6%83%85%23&Refer=top)
@@ -594,4 +594,38 @@
 1. [XYG全国大赛冠军](https://s.weibo.com//weibo?q=%23XYG%E5%85%A8%E5%9B%BD%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%23&Refer=top)
 
 1. [航拍华山绝美雪景](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E5%8D%8E%E5%B1%B1%E7%BB%9D%E7%BE%8E%E9%9B%AA%E6%99%AF%23&Refer=top)
+
+1. [周深日语发音](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%97%A5%E8%AF%AD%E5%8F%91%E9%9F%B3%23&Refer=top)
+
+1. [比特币价格突破28000美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B428000%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [周雨彤龚俊售后好甜](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E9%BE%9A%E4%BF%8A%E5%94%AE%E5%90%8E%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [勤深深 突如其来的爱情](https://s.weibo.com//weibo?q=%E5%8B%A4%E6%B7%B1%E6%B7%B1%20%E7%AA%81%E5%A6%82%E5%85%B6%E6%9D%A5%E7%9A%84%E7%88%B1%E6%83%85&Refer=top)
+
+1. [上千准考研生涌进教学楼抢座](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%8D%83%E5%87%86%E8%80%83%E7%A0%94%E7%94%9F%E6%B6%8C%E8%BF%9B%E6%95%99%E5%AD%A6%E6%A5%BC%E6%8A%A2%E5%BA%A7%23&Refer=top)
+
+1. [章鱼都比你努力](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E9%B1%BC%E9%83%BD%E6%AF%94%E4%BD%A0%E5%8A%AA%E5%8A%9B%23&Refer=top)
+
+1. [易烊千玺蹲下回答选手提问](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B9%B2%E4%B8%8B%E5%9B%9E%E7%AD%94%E9%80%89%E6%89%8B%E6%8F%90%E9%97%AE&Refer=top)
+
+1. [李克勤周深东京爱情故事](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%91%A8%E6%B7%B1%E4%B8%9C%E4%BA%AC%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B%23&Refer=top)
+
+1. [庞贝古城完整出土一快餐店遗址](https://s.weibo.com//weibo?q=%23%E5%BA%9E%E8%B4%9D%E5%8F%A4%E5%9F%8E%E5%AE%8C%E6%95%B4%E5%87%BA%E5%9C%9F%E4%B8%80%E5%BF%AB%E9%A4%90%E5%BA%97%E9%81%97%E5%9D%80%23&Refer=top)
+
+1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
+
+1. [EXO海外最佳团体](https://s.weibo.com//weibo?q=%23EXO%E6%B5%B7%E5%A4%96%E6%9C%80%E4%BD%B3%E5%9B%A2%E4%BD%93%23&Refer=top)
+
+1. [方硕怒吼](https://s.weibo.com//weibo?q=%23%E6%96%B9%E7%A1%95%E6%80%92%E5%90%BC%23&Refer=top)
+
+1. [综艺里的特困生](https://s.weibo.com//weibo?q=%23%E7%BB%BC%E8%89%BA%E9%87%8C%E7%9A%84%E7%89%B9%E5%9B%B0%E7%94%9F%23&Refer=top)
+
+1. [毛不易鼓励大家做早睡人](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E9%BC%93%E5%8A%B1%E5%A4%A7%E5%AE%B6%E5%81%9A%E6%97%A9%E7%9D%A1%E4%BA%BA%23&Refer=top)
+
+1. [张大仙恭喜XYG夺冠](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99%E6%81%AD%E5%96%9CXYG%E5%A4%BA%E5%86%A0&Refer=top)
+
+1. [美国ICU护士称这一年像在地狱里一样](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BDICU%E6%8A%A4%E5%A3%AB%E7%A7%B0%E8%BF%99%E4%B8%80%E5%B9%B4%E5%83%8F%E5%9C%A8%E5%9C%B0%E7%8B%B1%E9%87%8C%E4%B8%80%E6%A0%B7%23&Refer=top)
+
+1. [年度听歌报告](https://s.weibo.com//weibo?q=%E5%B9%B4%E5%BA%A6%E5%90%AC%E6%AD%8C%E6%8A%A5%E5%91%8A&Refer=top)
 
