@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-28 06:05:40
+## 微博今日热榜 更新于 2020-12-28 07:10:50
 1. [春运火车票购票日历来了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%B4%AD%E7%A5%A8%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86%23&Refer=new_time)
 
 1. [杨笠](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0&Refer=top)
@@ -128,4 +128,16 @@
 1. [航拍华山绝美雪景](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E5%8D%8E%E5%B1%B1%E7%BB%9D%E7%BE%8E%E9%9B%AA%E6%99%AF%23&Refer=top)
 
 1. [马嘉祺](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA&Refer=top)
+
+1. [GAI叫王源王甜甜](https://s.weibo.com//weibo?q=GAI%E5%8F%AB%E7%8E%8B%E6%BA%90%E7%8E%8B%E7%94%9C%E7%94%9C&Refer=top)
+
+1. [王子文离别戏哭了11小时](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E7%A6%BB%E5%88%AB%E6%88%8F%E5%93%AD%E4%BA%8611%E5%B0%8F%E6%97%B6&Refer=top)
+
+1. [孔雪儿熊梓淇沈月走秀](https://s.weibo.com//weibo?q=%E5%AD%94%E9%9B%AA%E5%84%BF%E7%86%8A%E6%A2%93%E6%B7%87%E6%B2%88%E6%9C%88%E8%B5%B0%E7%A7%80&Refer=top)
+
+1. [张芒到底有多少个前女友](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8A%92%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA%E5%89%8D%E5%A5%B3%E5%8F%8B%23&Refer=top)
+
+1. [杨巡的社畜生活太真实了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B7%A1%E7%9A%84%E7%A4%BE%E7%95%9C%E7%94%9F%E6%B4%BB%E5%A4%AA%E7%9C%9F%E5%AE%9E%E4%BA%86%23&Refer=top)
+
+1. [北京男篮结束连败](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE%E7%BB%93%E6%9D%9F%E8%BF%9E%E8%B4%A5%23&Refer=top)
 
