@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-28 00:10:04
+## 微博今日热榜 更新于 2020-12-28 01:34:24
 1. [春运火车票购票日历来了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%B4%AD%E7%A5%A8%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86%23&Refer=new_time)
 
 1. [杨笠](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0&Refer=top)
@@ -106,4 +106,8 @@
 1. [张大仙恭喜XYG夺冠](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E6%81%AD%E5%96%9CXYG%E5%A4%BA%E5%86%A0%23&Refer=top)
 
 1. [Subs](https://s.weibo.com//weibo?q=Subs&Refer=top)
+
+1. [假期自我防疫措施都有哪些](https://s.weibo.com//weibo?q=%23%E5%81%87%E6%9C%9F%E8%87%AA%E6%88%91%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%23&Refer=new_time)
+
+1. [孔庆东张颐武评有翡](https://s.weibo.com//weibo?q=%23%E5%AD%94%E5%BA%86%E4%B8%9C%E5%BC%A0%E9%A2%90%E6%AD%A6%E8%AF%84%E6%9C%89%E7%BF%A1%23&Refer=top)
 
