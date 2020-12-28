@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-28 19:07:21
+## 微博今日热榜 更新于 2020-12-28 20:04:17
 1. [春运火车票购票日历来了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%B4%AD%E7%A5%A8%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86%23&Refer=new_time)
 
 1. [杨笠](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0&Refer=top)
@@ -518,4 +518,22 @@
 1. [中老年抗体阳性率高于其他年龄段人群](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E8%80%81%E5%B9%B4%E6%8A%97%E4%BD%93%E9%98%B3%E6%80%A7%E7%8E%87%E9%AB%98%E4%BA%8E%E5%85%B6%E4%BB%96%E5%B9%B4%E9%BE%84%E6%AE%B5%E4%BA%BA%E7%BE%A4%23&Refer=top)
 
 1. [2021元旦期间高速公路不免费](https://s.weibo.com//weibo?q=%232021%E5%85%83%E6%97%A6%E6%9C%9F%E9%97%B4%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B8%8D%E5%85%8D%E8%B4%B9%23&Refer=top)
+
+1. [刘德华失去的腿是怎么拍的](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%A4%B1%E5%8E%BB%E7%9A%84%E8%85%BF%E6%98%AF%E6%80%8E%E4%B9%88%E6%8B%8D%E7%9A%84%23&Refer=top)
+
+1. [阿里拟增至100亿美元回购股份](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C%E6%8B%9F%E5%A2%9E%E8%87%B3100%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9B%9E%E8%B4%AD%E8%82%A1%E4%BB%BD&Refer=top)
+
+1. [贾青赞邓伦版痴情冢好听](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E9%9D%92%E8%B5%9E%E9%82%93%E4%BC%A6%E7%89%88%E7%97%B4%E6%83%85%E5%86%A2%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [邓伦吐血戏青筋暴起](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%90%90%E8%A1%80%E6%88%8F%E9%9D%92%E7%AD%8B%E6%9A%B4%E8%B5%B7%23&Refer=top)
+
+1. [北京批捕假结婚买卖京牌指标67人](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%89%B9%E6%8D%95%E5%81%87%E7%BB%93%E5%A9%9A%E4%B9%B0%E5%8D%96%E4%BA%AC%E7%89%8C%E6%8C%87%E6%A0%8767%E4%BA%BA&Refer=top)
+
+1. [流金岁月](https://s.weibo.com//weibo?q=%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88&Refer=top)
+
+1. [长歌行发行许可证](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E5%8F%91%E8%A1%8C%E8%AE%B8%E5%8F%AF%E8%AF%81%23&Refer=top)
+
+1. [小米发布会](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [拆弹专家2幕后](https://s.weibo.com//weibo?q=%E6%8B%86%E5%BC%B9%E4%B8%93%E5%AE%B62%E5%B9%95%E5%90%8E&Refer=top)
 
