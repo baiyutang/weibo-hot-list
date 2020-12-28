@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-29 06:06:41
+## 微博今日热榜 更新于 2020-12-29 07:12:53
 1. [1分钟看雄安站拔地而起](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E7%9C%8B%E9%9B%84%E5%AE%89%E7%AB%99%E6%8B%94%E5%9C%B0%E8%80%8C%E8%B5%B7%23&Refer=new_time)
 
 1. [李小冉身材](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E8%BA%AB%E6%9D%90&Refer=top)
@@ -136,4 +136,14 @@
 1. [新冠疫苗](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
 
 1. [119种新药进医保](https://s.weibo.com//weibo?q=%23119%E7%A7%8D%E6%96%B0%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%23&Refer=new_time)
+
+1. [钢琴家傅聪感染新冠去世](https://s.weibo.com//weibo?q=%23%E9%92%A2%E7%90%B4%E5%AE%B6%E5%82%85%E8%81%AA%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [上海办理健身卡将有七天冷静期](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8A%9E%E7%90%86%E5%81%A5%E8%BA%AB%E5%8D%A1%E5%B0%86%E6%9C%89%E4%B8%83%E5%A4%A9%E5%86%B7%E9%9D%99%E6%9C%9F%23&Refer=top)
+
+1. [日本首次发现在南非出现的变异病毒病例](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%9C%A8%E5%8D%97%E9%9D%9E%E5%87%BA%E7%8E%B0%E7%9A%84%E5%8F%98%E5%BC%82%E7%97%85%E6%AF%92%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [雷军回应小米股价大涨](https://s.weibo.com//weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8&Refer=top)
+
+1. [美国新冠肺炎超1924万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851924%E4%B8%87%E4%BE%8B%23&Refer=top)
 
