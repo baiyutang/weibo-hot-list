@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-29 05:03:39
+## 微博今日热榜 更新于 2020-12-29 06:06:41
 1. [1分钟看雄安站拔地而起](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E7%9C%8B%E9%9B%84%E5%AE%89%E7%AB%99%E6%8B%94%E5%9C%B0%E8%80%8C%E8%B5%B7%23&Refer=new_time)
 
 1. [李小冉身材](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E8%BA%AB%E6%9D%90&Refer=top)
@@ -134,4 +134,6 @@
 1. [女子跳桥遭围观者拍摄起哄](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A1%A5%E9%81%AD%E5%9B%B4%E8%A7%82%E8%80%85%E6%8B%8D%E6%91%84%E8%B5%B7%E5%93%84&Refer=top)
 
 1. [新冠疫苗](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [119种新药进医保](https://s.weibo.com//weibo?q=%23119%E7%A7%8D%E6%96%B0%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%23&Refer=new_time)
 
