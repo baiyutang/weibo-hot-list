@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-28 18:09:53
+## 微博今日热榜 更新于 2020-12-28 19:07:21
 1. [春运火车票购票日历来了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E8%B4%AD%E7%A5%A8%E6%97%A5%E5%8E%86%E6%9D%A5%E4%BA%86%23&Refer=new_time)
 
 1. [杨笠](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0&Refer=top)
@@ -472,4 +472,50 @@
 1. [美国深度分裂加剧疫情失控](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B7%B1%E5%BA%A6%E5%88%86%E8%A3%82%E5%8A%A0%E5%89%A7%E7%96%AB%E6%83%85%E5%A4%B1%E6%8E%A7%23&Refer=top)
 
 1. [外交部批美驻华使领馆散布虚假信息](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E7%BE%8E%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A2%86%E9%A6%86%E6%95%A3%E5%B8%83%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [119种新药进医保](https://s.weibo.com//weibo?q=%23119%E7%A7%8D%E6%96%B0%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%23&Refer=new_time)
+
+1. [沈阳新增确诊为此前境外输入病例密接](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%AD%A4%E5%89%8D%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%E5%AF%86%E6%8E%A5%23&Refer=top)
+
+1. [最适合跨年的城市](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E8%B7%A8%E5%B9%B4%E7%9A%84%E5%9F%8E%E5%B8%82%23&Refer=top)
+
+1. [麦当劳](https://s.weibo.com//weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3&Refer=top)
+
+1. [郑元畅林心如跨年菜谱安利](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%85%83%E7%95%85%E6%9E%97%E5%BF%83%E5%A6%82%E8%B7%A8%E5%B9%B4%E8%8F%9C%E8%B0%B1%E5%AE%89%E5%88%A9%23&Refer=top)
+
+1. [日本侵华战争最高决策绝密文件](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E6%88%98%E4%BA%89%E6%9C%80%E9%AB%98%E5%86%B3%E7%AD%96%E7%BB%9D%E5%AF%86%E6%96%87%E4%BB%B6%23&Refer=top)
+
+1. [做996的小孩有多难](https://s.weibo.com//weibo?q=%23%E5%81%9A996%E7%9A%84%E5%B0%8F%E5%AD%A9%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [螺蛳粉鸭掌火锅](https://s.weibo.com//weibo?q=%23%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%B8%AD%E6%8E%8C%E7%81%AB%E9%94%85%23&Refer=top)
+
+1. [东北人将废弃共享单车做成冰车](https://s.weibo.com//weibo?q=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%B0%86%E5%BA%9F%E5%BC%83%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%81%9A%E6%88%90%E5%86%B0%E8%BD%A6&Refer=top)
+
+1. [开发团队回应明星健康宝照片泄露](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E6%98%8E%E6%98%9F%E5%81%A5%E5%BA%B7%E5%AE%9D%E7%85%A7%E7%89%87%E6%B3%84%E9%9C%B2%23&Refer=top)
+
+1. [外交部称反对疫苗民族主义](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E5%8F%8D%E5%AF%B9%E7%96%AB%E8%8B%97%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%23&Refer=top)
+
+1. [让我做你的式神](https://s.weibo.com//weibo?q=%E8%AE%A9%E6%88%91%E5%81%9A%E4%BD%A0%E7%9A%84%E5%BC%8F%E7%A5%9E&Refer=top)
+
+1. [2020十大国内新闻](https://s.weibo.com//weibo?q=%232020%E5%8D%81%E5%A4%A7%E5%9B%BD%E5%86%85%E6%96%B0%E9%97%BB%23&Refer=top)
+
+1. [如何理解考研热](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E8%80%83%E7%A0%94%E7%83%AD%23&Refer=top)
+
+1. [LV推出1万美元天价风筝](https://s.weibo.com//weibo?q=LV%E6%8E%A8%E5%87%BA1%E4%B8%87%E7%BE%8E%E5%85%83%E5%A4%A9%E4%BB%B7%E9%A3%8E%E7%AD%9D&Refer=top)
+
+1. [中国最冷小镇迎入冬以来最低温](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%B0%8F%E9%95%87%E8%BF%8E%E5%85%A5%E5%86%AC%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%23&Refer=top)
+
+1. [阿尔山矮鹿跳跃如精灵](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%B0%94%E5%B1%B1%E7%9F%AE%E9%B9%BF%E8%B7%B3%E8%B7%83%E5%A6%82%E7%B2%BE%E7%81%B5%23&Refer=top)
+
+1. [女子剪纸剪出3.7米古代嫁衣](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E5%89%AA%E7%BA%B8%E5%89%AA%E5%87%BA3.7%E7%B1%B3%E5%8F%A4%E4%BB%A3%E5%AB%81%E8%A1%A3&Refer=top)
+
+1. [东北人在自家院子搭往返滑雪道](https://s.weibo.com//weibo?q=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%9C%A8%E8%87%AA%E5%AE%B6%E9%99%A2%E5%AD%90%E6%90%AD%E5%BE%80%E8%BF%94%E6%BB%91%E9%9B%AA%E9%81%93&Refer=top)
+
+1. [大同一企业发生人员疑似中毒事件](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%90%8C%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E4%BA%BA%E5%91%98%E7%96%91%E4%BC%BC%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [上海一幼儿园为小胖墩定减肥计划](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%BA%E5%B0%8F%E8%83%96%E5%A2%A9%E5%AE%9A%E5%87%8F%E8%82%A5%E8%AE%A1%E5%88%92%23&Refer=top)
+
+1. [中老年抗体阳性率高于其他年龄段人群](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E8%80%81%E5%B9%B4%E6%8A%97%E4%BD%93%E9%98%B3%E6%80%A7%E7%8E%87%E9%AB%98%E4%BA%8E%E5%85%B6%E4%BB%96%E5%B9%B4%E9%BE%84%E6%AE%B5%E4%BA%BA%E7%BE%A4%23&Refer=top)
+
+1. [2021元旦期间高速公路不免费](https://s.weibo.com//weibo?q=%232021%E5%85%83%E6%97%A6%E6%9C%9F%E9%97%B4%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B8%8D%E5%85%8D%E8%B4%B9%23&Refer=top)
 
