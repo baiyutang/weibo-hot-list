@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-30 05:05:29
+## 微博今日热榜 更新于 2020-12-30 06:08:52
 1. [卫星见证脱贫奇迹](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%81%E8%AF%81%E8%84%B1%E8%B4%AB%E5%A5%87%E8%BF%B9%23&Refer=new_time)
 
 1. [肖战 不减了吃面包去](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E4%B8%8D%E5%87%8F%E4%BA%86%E5%90%83%E9%9D%A2%E5%8C%85%E5%8E%BB&Refer=top)
