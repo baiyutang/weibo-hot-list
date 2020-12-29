@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-30 01:41:40
+## 微博今日热榜 更新于 2020-12-30 02:28:27
 1. [卫星见证脱贫奇迹](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%81%E8%AF%81%E8%84%B1%E8%B4%AB%E5%A5%87%E8%BF%B9%23&Refer=new_time)
 
 1. [肖战 不减了吃面包去](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E4%B8%8D%E5%87%8F%E4%BA%86%E5%90%83%E9%9D%A2%E5%8C%85%E5%8E%BB&Refer=top)
@@ -114,4 +114,8 @@
 1. [吴亦凡湖南跨年彩排](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%23&Refer=top)
 
 1. [美团遭遇反垄断诉讼](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%A2%E9%81%AD%E9%81%87%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC&Refer=top)
+
+1. [2020年十大反腐热词](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E5%8D%81%E5%A4%A7%E5%8F%8D%E8%85%90%E7%83%AD%E8%AF%8D%23&Refer=new_time)
+
+1. [乱港分子钟翰林被判4个月监禁](https://s.weibo.com//weibo?q=%23%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E9%92%9F%E7%BF%B0%E6%9E%97%E8%A2%AB%E5%88%A44%E4%B8%AA%E6%9C%88%E7%9B%91%E7%A6%81%23&Refer=top)
 
