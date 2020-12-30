@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-31 06:08:05
+## 微博今日热榜 更新于 2020-12-31 07:13:55
 1. [文旅部提醒非必要不出境旅游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%97%85%E6%B8%B8%23&Refer=new_time)
 
 1. [倪妮30岁之后体重没下过100斤](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE30%E5%B2%81%E4%B9%8B%E5%90%8E%E4%BD%93%E9%87%8D%E6%B2%A1%E4%B8%8B%E8%BF%87100%E6%96%A4%23&Refer=top)
@@ -136,4 +136,10 @@
 1. [心灵奇旅](https://s.weibo.com//weibo?q=%E5%BF%83%E7%81%B5%E5%A5%87%E6%97%85&Refer=top)
 
 1. [全国首套防溺卫士投用](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E5%A5%97%E9%98%B2%E6%BA%BA%E5%8D%AB%E5%A3%AB%E6%8A%95%E7%94%A8&Refer=top)
+
+1. [沈阳疫情](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [周翡第一次叫李晟哥](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E6%9D%8E%E6%99%9F%E5%93%A5%23&Refer=top)
+
+1. [庄羽](https://s.weibo.com//weibo?q=%E5%BA%84%E7%BE%BD&Refer=top)
 
