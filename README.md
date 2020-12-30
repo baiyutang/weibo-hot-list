@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-31 01:41:39
+## 微博今日热榜 更新于 2020-12-31 02:28:12
 1. [文旅部提醒非必要不出境旅游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%97%85%E6%B8%B8%23&Refer=new_time)
 
 1. [倪妮30岁之后体重没下过100斤](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE30%E5%B2%81%E4%B9%8B%E5%90%8E%E4%BD%93%E9%87%8D%E6%B2%A1%E4%B8%8B%E8%BF%87100%E6%96%A4%23&Refer=top)
@@ -120,4 +120,12 @@
 1. [上海将向医院同步推送医闹人员信息](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%86%E5%90%91%E5%8C%BB%E9%99%A2%E5%90%8C%E6%AD%A5%E6%8E%A8%E9%80%81%E5%8C%BB%E9%97%B9%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%23&Refer=top)
 
 1. [送你一朵小红花](https://s.weibo.com//weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1&Refer=top)
+
+1. [中欧投资协定谈判完成](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%AC%A7%E6%8A%95%E8%B5%84%E5%8D%8F%E5%AE%9A%E8%B0%88%E5%88%A4%E5%AE%8C%E6%88%90%23&Refer=new_time)
+
+1. [王俊凯 是时候让大家知道我长大了](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%98%AF%E6%97%B6%E5%80%99%E8%AE%A9%E5%A4%A7%E5%AE%B6%E7%9F%A5%E9%81%93%E6%88%91%E9%95%BF%E5%A4%A7%E4%BA%86&Refer=top)
+
+1. [于和伟哭戏感染力](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%93%AD%E6%88%8F%E6%84%9F%E6%9F%93%E5%8A%9B%23&Refer=top)
+
+1. [罗欣然被追杀](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%AC%A3%E7%84%B6%E8%A2%AB%E8%BF%BD%E6%9D%80%23&Refer=top)
 
