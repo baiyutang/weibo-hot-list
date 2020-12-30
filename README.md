@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-30 19:09:40
+## 微博今日热榜 更新于 2020-12-30 20:05:42
 1. [卫星见证脱贫奇迹](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%81%E8%AF%81%E8%84%B1%E8%B4%AB%E5%A5%87%E8%BF%B9%23&Refer=new_time)
 
 1. [肖战 不减了吃面包去](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E4%B8%8D%E5%87%8F%E4%BA%86%E5%90%83%E9%9D%A2%E5%8C%85%E5%8E%BB&Refer=top)
@@ -534,4 +534,30 @@
 1. [用一个表情总结2020](https://s.weibo.com//weibo?q=%23%E7%94%A8%E4%B8%80%E4%B8%AA%E8%A1%A8%E6%83%85%E6%80%BB%E7%BB%932020%23&Refer=top)
 
 1. [糯糯南瓜饼](https://s.weibo.com//weibo?q=%23%E7%B3%AF%E7%B3%AF%E5%8D%97%E7%93%9C%E9%A5%BC%23&Refer=top)
+
+1. [易烊千玺回应粉丝为癌症患者捐头发](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%E4%B8%BA%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E6%8D%90%E5%A4%B4%E5%8F%91%23&Refer=top)
+
+1. [严查中小学教师到培训机构兼职](https://s.weibo.com//weibo?q=%E4%B8%A5%E6%9F%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%88%B0%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%85%BC%E8%81%8C&Refer=top)
+
+1. [差点热死在福建的冬天](https://s.weibo.com//weibo?q=%23%E5%B7%AE%E7%82%B9%E7%83%AD%E6%AD%BB%E5%9C%A8%E7%A6%8F%E5%BB%BA%E7%9A%84%E5%86%AC%E5%A4%A9%23&Refer=top)
+
+1. [河北师范大学通报学生坠楼身亡事件](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [业主买小区556个车位高价转卖](https://s.weibo.com//weibo?q=%E4%B8%9A%E4%B8%BB%E4%B9%B0%E5%B0%8F%E5%8C%BA556%E4%B8%AA%E8%BD%A6%E4%BD%8D%E9%AB%98%E4%BB%B7%E8%BD%AC%E5%8D%96&Refer=top)
+
+1. [王俊凯换ins头像](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8D%A2ins%E5%A4%B4%E5%83%8F%23&Refer=top)
+
+1. [市场监管总局处罚京东天猫唯品会](https://s.weibo.com//weibo?q=%23%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%A4%84%E7%BD%9A%E4%BA%AC%E4%B8%9C%E5%A4%A9%E7%8C%AB%E5%94%AF%E5%93%81%E4%BC%9A%23&Refer=top)
+
+1. [官方回应交医保被拒现金只能刷卡](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%A4%E5%8C%BB%E4%BF%9D%E8%A2%AB%E6%8B%92%E7%8E%B0%E9%87%91%E5%8F%AA%E8%83%BD%E5%88%B7%E5%8D%A1&Refer=top)
+
+1. [也门亚丁机场传出巨大爆炸声枪声](https://s.weibo.com//weibo?q=%E4%B9%9F%E9%97%A8%E4%BA%9A%E4%B8%81%E6%9C%BA%E5%9C%BA%E4%BC%A0%E5%87%BA%E5%B7%A8%E5%A4%A7%E7%88%86%E7%82%B8%E5%A3%B0%E6%9E%AA%E5%A3%B0&Refer=top)
+
+1. [北京顺义区全面升级防控](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%A1%BA%E4%B9%89%E5%8C%BA%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7%E9%98%B2%E6%8E%A7%23&Refer=top)
+
+1. [小风暴](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [上海将向医院同步推送医闹人员信息](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%86%E5%90%91%E5%8C%BB%E9%99%A2%E5%90%8C%E6%AD%A5%E6%8E%A8%E9%80%81%E5%8C%BB%E9%97%B9%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [原来还能这样蹭车](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E8%B9%AD%E8%BD%A6%23&Refer=top)
 
