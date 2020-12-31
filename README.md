@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 02:30:26
+## 微博今日热榜 更新于 2021-01-01 03:24:25
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -162,4 +162,12 @@
 1. [诺安](https://s.weibo.com//weibo?q=%E8%AF%BA%E5%AE%89&Refer=top)
 
 1. [2021年新年贺词金句](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5%23&Refer=top)
+
+1. [繁星相宋](https://s.weibo.com//weibo?q=%23%E7%B9%81%E6%98%9F%E7%9B%B8%E5%AE%8B%23&Refer=top)
+
+1. [央视跨年盛典](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E7%9B%9B%E5%85%B8&Refer=top)
+
+1. [王力宏王一博龙的传人](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%BE%99%E7%9A%84%E4%BC%A0%E4%BA%BA&Refer=top)
+
+1. [李宇春跨年压轴造型曝光](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%B7%A8%E5%B9%B4%E5%8E%8B%E8%BD%B4%E9%80%A0%E5%9E%8B%E6%9B%9D%E5%85%89%23&Refer=top)
 
