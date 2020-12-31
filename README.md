@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-31 21:23:23
+## 微博今日热榜 更新于 2020-12-31 22:10:30
 1. [文旅部提醒非必要不出境旅游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%97%85%E6%B8%B8%23&Refer=new_time)
 
 1. [倪妮30岁之后体重没下过100斤](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE30%E5%B2%81%E4%B9%8B%E5%90%8E%E4%BD%93%E9%87%8D%E6%B2%A1%E4%B8%8B%E8%BF%87100%E6%96%A4%23&Refer=top)
@@ -544,4 +544,28 @@
 1. [2021年新年贺词金句](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5%23&Refer=top)
 
 1. [MBC歌谣大祭典](https://s.weibo.com//weibo?q=MBC%E6%AD%8C%E8%B0%A3%E5%A4%A7%E7%A5%AD%E5%85%B8&Refer=top)
+
+1. [何炅唱歌唱哭了](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E5%94%B1%E6%AD%8C%E5%94%B1%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [朱广权终于值手语班了](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E7%BB%88%E4%BA%8E%E5%80%BC%E6%89%8B%E8%AF%AD%E7%8F%AD%E4%BA%86%23&Refer=top)
+
+1. [青你3训练生舞台首秀](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E8%AE%AD%E7%BB%83%E7%94%9F%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80&Refer=top)
+
+1. [2020年股民人均赚10.9万](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E8%82%A1%E6%B0%91%E4%BA%BA%E5%9D%87%E8%B5%9A10.9%E4%B8%87%23&Refer=top)
+
+1. [载同事回家意外致其死亡赔134万](https://s.weibo.com//weibo?q=%E8%BD%BD%E5%90%8C%E4%BA%8B%E5%9B%9E%E5%AE%B6%E6%84%8F%E5%A4%96%E8%87%B4%E5%85%B6%E6%AD%BB%E4%BA%A1%E8%B5%94134%E4%B8%87&Refer=top)
+
+1. [张新成是真空西装吗](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E6%98%AF%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%E5%90%97&Refer=top)
+
+1. [硬糖少女跨年定制耳返](https://s.weibo.com//weibo?q=%23%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3%E8%B7%A8%E5%B9%B4%E5%AE%9A%E5%88%B6%E8%80%B3%E8%BF%94%23&Refer=top)
+
+1. [朴树戴墨镜的原因](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%A0%91%E6%88%B4%E5%A2%A8%E9%95%9C%E7%9A%84%E5%8E%9F%E5%9B%A0&Refer=top)
+
+1. [王力宏王一博龙的传人](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%BE%99%E7%9A%84%E4%BC%A0%E4%BA%BA&Refer=top)
+
+1. [听谭维维郎朗合作像坐在音乐厅](https://s.weibo.com//weibo?q=%E5%90%AC%E8%B0%AD%E7%BB%B4%E7%BB%B4%E9%83%8E%E6%9C%97%E5%90%88%E4%BD%9C%E5%83%8F%E5%9D%90%E5%9C%A8%E9%9F%B3%E4%B9%90%E5%8E%85&Refer=top)
+
+1. [杨紫四首歌串烧](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E5%9B%9B%E9%A6%96%E6%AD%8C%E4%B8%B2%E7%83%A7&Refer=top)
+
+1. [加满一箱92号汽油将多花3.5元](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B192%E5%8F%B7%E6%B1%BD%E6%B2%B9%E5%B0%86%E5%A4%9A%E8%8A%B13.5%E5%85%83%23&Refer=top)
 
