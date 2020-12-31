@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-31 19:14:04
+## 微博今日热榜 更新于 2020-12-31 20:07:41
 1. [文旅部提醒非必要不出境旅游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%97%85%E6%B8%B8%23&Refer=new_time)
 
 1. [倪妮30岁之后体重没下过100斤](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE30%E5%B2%81%E4%B9%8B%E5%90%8E%E4%BD%93%E9%87%8D%E6%B2%A1%E4%B8%8B%E8%BF%87100%E6%96%A4%23&Refer=top)
@@ -478,4 +478,22 @@
 1. [钟南山2021新年寄语](https://s.weibo.com//weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B12021%E6%96%B0%E5%B9%B4%E5%AF%84%E8%AF%AD&Refer=top)
 
 1. [原来豆腐也能作画](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%B1%86%E8%85%90%E4%B9%9F%E8%83%BD%E4%BD%9C%E7%94%BB%23&Refer=top)
+
+1. [湖南卫视跨年](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&Refer=top)
+
+1. [男子嫩豆腐上雕刻出王一博](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%AB%A9%E8%B1%86%E8%85%90%E4%B8%8A%E9%9B%95%E5%88%BB%E5%87%BA%E7%8E%8B%E4%B8%80%E5%8D%9A%23&Refer=top)
+
+1. [美阿拉斯加最大监狱几乎全员染疫](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%9C%80%E5%A4%A7%E7%9B%91%E7%8B%B1%E5%87%A0%E4%B9%8E%E5%85%A8%E5%91%98%E6%9F%93%E7%96%AB%23&Refer=top)
+
+1. [央视跨年盛典](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E7%9B%9B%E5%85%B8&Refer=top)
+
+1. [王嘉尔发文告别2020](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB2020%23&Refer=top)
+
+1. [周翡把谢允锁死](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E6%8A%8A%E8%B0%A2%E5%85%81%E9%94%81%E6%AD%BB%23&Refer=top)
+
+1. [河南建业更名洛阳龙门](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E5%BB%BA%E4%B8%9A%E6%9B%B4%E5%90%8D%E6%B4%9B%E9%98%B3%E9%BE%99%E9%97%A8&Refer=top)
+
+1. [B站跨年](https://s.weibo.com//weibo?q=B%E7%AB%99%E8%B7%A8%E5%B9%B4&Refer=top)
+
+1. [成都公布本土疫情传染源](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%85%AC%E5%B8%83%E6%9C%AC%E5%9C%9F%E7%96%AB%E6%83%85%E4%BC%A0%E6%9F%93%E6%BA%90%23&Refer=top)
 
