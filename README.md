@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 06:07:00
+## 微博今日热榜 更新于 2021-01-01 07:14:20
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -178,4 +178,8 @@
 1. [吴宣仪和工作室pk跨年选图](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%AE%A4pk%E8%B7%A8%E5%B9%B4%E9%80%89%E5%9B%BE&Refer=top)
 
 1. [我国在世界主要经济体中率先实现正增长](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E4%B8%96%E7%95%8C%E4%B8%BB%E8%A6%81%E7%BB%8F%E6%B5%8E%E4%BD%93%E4%B8%AD%E7%8E%87%E5%85%88%E5%AE%9E%E7%8E%B0%E6%AD%A3%E5%A2%9E%E9%95%BF%23&Refer=top)
+
+1. [动森跨年](https://s.weibo.com//weibo?q=%E5%8A%A8%E6%A3%AE%E8%B7%A8%E5%B9%B4&Refer=top)
+
+1. [感动你我的新年金句](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%8A%A8%E4%BD%A0%E6%88%91%E7%9A%84%E6%96%B0%E5%B9%B4%E9%87%91%E5%8F%A5%23&Refer=top)
 
