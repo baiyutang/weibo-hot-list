@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 00:17:11
+## 微博今日热榜 更新于 2021-01-01 01:46:12
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -102,4 +102,44 @@
 1. [2021新年贺词完整视频](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91%23&Refer=top)
 
 1. [成都首发病例或接触隔离点垃圾感染](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E9%A6%96%E5%8F%91%E7%97%85%E4%BE%8B%E6%88%96%E6%8E%A5%E8%A7%A6%E9%9A%94%E7%A6%BB%E7%82%B9%E5%9E%83%E5%9C%BE%E6%84%9F%E6%9F%93%23&Refer=top)
+
+1. [为什么把吴亦凡的歌和芭蕾放一起](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%8A%E5%90%B4%E4%BA%A6%E5%87%A1%E7%9A%84%E6%AD%8C%E5%92%8C%E8%8A%AD%E8%95%BE%E6%94%BE%E4%B8%80%E8%B5%B7&Refer=top)
+
+1. [朋友圈刷不出来](https://s.weibo.com//weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%88%B7%E4%B8%8D%E5%87%BA%E6%9D%A5&Refer=top)
+
+1. [易烊千玺](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&Refer=top)
+
+1. [江苏跨年 歌手照妖镜](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E8%B7%A8%E5%B9%B4%20%E6%AD%8C%E6%89%8B%E7%85%A7%E5%A6%96%E9%95%9C&Refer=top)
+
+1. [丁真](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F&Refer=top)
+
+1. [上海外滩7300名安保守护跨年夜](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A97300%E5%90%8D%E5%AE%89%E4%BF%9D%E5%AE%88%E6%8A%A4%E8%B7%A8%E5%B9%B4%E5%A4%9C&Refer=top)
+
+1. [万茜主持能力](https://s.weibo.com//weibo?q=%23%E4%B8%87%E8%8C%9C%E4%B8%BB%E6%8C%81%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [王霏霏许魏洲差点亲上](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%8F%E9%9C%8F%E8%AE%B8%E9%AD%8F%E6%B4%B2%E5%B7%AE%E7%82%B9%E4%BA%B2%E4%B8%8A%23&Refer=top)
+
+1. [肖战再唱野子](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E5%94%B1%E9%87%8E%E5%AD%90%23&Refer=top)
+
+1. [2021年第一条微博](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [陈伟霆把跨年舞台变成品牌走秀](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%8A%8A%E8%B7%A8%E5%B9%B4%E8%88%9E%E5%8F%B0%E5%8F%98%E6%88%90%E5%93%81%E7%89%8C%E8%B5%B0%E7%A7%80%23&Refer=top)
+
+1. [宁静 不再想跟大家一起蹦蹦跳跳](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%20%E4%B8%8D%E5%86%8D%E6%83%B3%E8%B7%9F%E5%A4%A7%E5%AE%B6%E4%B8%80%E8%B5%B7%E8%B9%A6%E8%B9%A6%E8%B7%B3%E8%B7%B3&Refer=top)
+
+1. [明道 真唱真跳](https://s.weibo.com//weibo?q=%E6%98%8E%E9%81%93%20%E7%9C%9F%E5%94%B1%E7%9C%9F%E8%B7%B3&Refer=top)
+
+1. [THE9新歌舞台](https://s.weibo.com//weibo?q=%23THE9%E6%96%B0%E6%AD%8C%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [牛年](https://s.weibo.com//weibo?q=%E7%89%9B%E5%B9%B4&Refer=top)
+
+1. [跨年的真正意义](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%B9%B4%E7%9A%84%E7%9C%9F%E6%AD%A3%E6%84%8F%E4%B9%89%23&Refer=top)
+
+1. [王俊凯发文感谢粉丝](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%23&Refer=top)
+
+1. [小米11](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B311%23&Refer=top)
+
+1. [沈阳5地升为中风险](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B35%E5%9C%B0%E5%8D%87%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [湖南卫视跨年](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&Refer=top)
 
