@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 01:46:12
+## 微博今日热榜 更新于 2021-01-01 02:30:26
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -142,4 +142,24 @@
 1. [沈阳5地升为中风险](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B35%E5%9C%B0%E5%8D%87%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
 
 1. [湖南卫视跨年](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&Refer=top)
+
+1. [全糖去冰](https://s.weibo.com//weibo?q=%E5%85%A8%E7%B3%96%E5%8E%BB%E5%86%B0&Refer=top)
+
+1. [陈学冬把寸头写成秃头](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%AD%A6%E5%86%AC%E6%8A%8A%E5%AF%B8%E5%A4%B4%E5%86%99%E6%88%90%E7%A7%83%E5%A4%B4%23&Refer=top)
+
+1. [江苏卫视跨年](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&Refer=top)
+
+1. [2021你好](https://s.weibo.com//weibo?q=2021%E4%BD%A0%E5%A5%BD&Refer=top)
+
+1. [烟花](https://s.weibo.com//weibo?q=%E7%83%9F%E8%8A%B1&Refer=top)
+
+1. [阿朵一开口就是老江湖了](https://s.weibo.com//weibo?q=%E9%98%BF%E6%9C%B5%E4%B8%80%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E8%80%81%E6%B1%9F%E6%B9%96%E4%BA%86&Refer=top)
+
+1. [流金岁月](https://s.weibo.com//weibo?q=%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88&Refer=top)
+
+1. [杨鸣](https://s.weibo.com//weibo?q=%E6%9D%A8%E9%B8%A3&Refer=top)
+
+1. [诺安](https://s.weibo.com//weibo?q=%E8%AF%BA%E5%AE%89&Refer=top)
+
+1. [2021年新年贺词金句](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5%23&Refer=top)
 
