@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-31 11:17:39
+## 微博今日热榜 更新于 2020-12-31 12:16:22
 1. [文旅部提醒非必要不出境旅游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%97%85%E6%B8%B8%23&Refer=new_time)
 
 1. [倪妮30岁之后体重没下过100斤](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE30%E5%B2%81%E4%B9%8B%E5%90%8E%E4%BD%93%E9%87%8D%E6%B2%A1%E4%B8%8B%E8%BF%87100%E6%96%A4%23&Refer=top)
@@ -242,4 +242,34 @@
 1. [驻香港部队部分军官轮换离港](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E9%A6%99%E6%B8%AF%E9%83%A8%E9%98%9F%E9%83%A8%E5%88%86%E5%86%9B%E5%AE%98%E8%BD%AE%E6%8D%A2%E7%A6%BB%E6%B8%AF%23&Refer=top)
 
 1. [杰伦布朗42分](https://s.weibo.com//weibo?q=%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%9742%E5%88%86&Refer=top)
+
+1. [中国新冠病毒疫苗上市](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E4%B8%8A%E5%B8%82%23&Refer=new_time)
+
+1. [2020道歉日](https://s.weibo.com//weibo?q=2020%E9%81%93%E6%AD%89%E6%97%A5&Refer=top)
+
+1. [温暖的抱抱](https://s.weibo.com//weibo?q=%E6%B8%A9%E6%9A%96%E7%9A%84%E6%8A%B1%E6%8A%B1&Refer=top)
+
+1. [唐七](https://s.weibo.com//weibo?q=%E5%94%90%E4%B8%83&Refer=top)
+
+1. [我的姐姐定档](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [网曝西安一烧烤店用扫把刷锅](https://s.weibo.com//weibo?q=%E7%BD%91%E6%9B%9D%E8%A5%BF%E5%AE%89%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%94%A8%E6%89%AB%E6%8A%8A%E5%88%B7%E9%94%85&Refer=top)
+
+1. [陈伟霆到海口去逛动物园](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%88%B0%E6%B5%B7%E5%8F%A3%E5%8E%BB%E9%80%9B%E5%8A%A8%E7%89%A9%E5%9B%AD%23&Refer=top)
+
+1. [刘若英献唱刘德华新片](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E7%8C%AE%E5%94%B1%E5%88%98%E5%BE%B7%E5%8D%8E%E6%96%B0%E7%89%87%23&Refer=top)
+
+1. [波波维奇被驱逐](https://s.weibo.com//weibo?q=%E6%B3%A2%E6%B3%A2%E7%BB%B4%E5%A5%87%E8%A2%AB%E9%A9%B1%E9%80%90&Refer=top)
+
+1. [元旦期间浙江气温继续下降](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%97%A6%E6%9C%9F%E9%97%B4%E6%B5%99%E6%B1%9F%E6%B0%94%E6%B8%A9%E7%BB%A7%E7%BB%AD%E4%B8%8B%E9%99%8D%23&Refer=top)
+
+1. [刘聪新歌](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%81%AA%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [高校坡道结冰秒变滑冰场](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9D%A1%E9%81%93%E7%BB%93%E5%86%B0%E7%A7%92%E5%8F%98%E6%BB%91%E5%86%B0%E5%9C%BA%23&Refer=top)
+
+1. [杜兰特33分](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B933%E5%88%86&Refer=top)
+
+1. [目前无证据证明病毒变异对疫苗构成影响](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E6%97%A0%E8%AF%81%E6%8D%AE%E8%AF%81%E6%98%8E%E7%97%85%E6%AF%92%E5%8F%98%E5%BC%82%E5%AF%B9%E7%96%AB%E8%8B%97%E6%9E%84%E6%88%90%E5%BD%B1%E5%93%8D%23&Refer=top)
+
+1. [明日方舟](https://s.weibo.com//weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F&Refer=top)
 
