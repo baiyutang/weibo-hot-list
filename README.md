@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2020-12-31 07:13:55
+## 微博今日热榜 更新于 2020-12-31 08:18:16
 1. [文旅部提醒非必要不出境旅游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%97%85%E6%B8%B8%23&Refer=new_time)
 
 1. [倪妮30岁之后体重没下过100斤](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE30%E5%B2%81%E4%B9%8B%E5%90%8E%E4%BD%93%E9%87%8D%E6%B2%A1%E4%B8%8B%E8%BF%87100%E6%96%A4%23&Refer=top)
@@ -142,4 +142,32 @@
 1. [周翡第一次叫李晟哥](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E6%9D%8E%E6%99%9F%E5%93%A5%23&Refer=top)
 
 1. [庄羽](https://s.weibo.com//weibo?q=%E5%BA%84%E7%BE%BD&Refer=top)
+
+1. [牛津新冠疫苗在英国获批](https://s.weibo.com//weibo?q=%23%E7%89%9B%E6%B4%A5%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%8E%B7%E6%89%B9%23&Refer=top)
+
+1. [王俊凯因身体原因退出湖南跨年](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%A0%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0%E9%80%80%E5%87%BA%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4&Refer=top)
+
+1. [2020最后一天](https://s.weibo.com//weibo?q=2020%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [再见2020](https://s.weibo.com//weibo?q=%E5%86%8D%E8%A7%812020&Refer=top)
+
+1. [美国新冠肺炎超1967万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851967%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [沈阳市铁西区全民核酸检测](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E5%B8%82%E9%93%81%E8%A5%BF%E5%8C%BA%E5%85%A8%E6%B0%91%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [于正](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%AD%A3&Refer=top)
+
+1. [为什么谈恋爱不能凑合](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B0%88%E6%81%8B%E7%88%B1%E4%B8%8D%E8%83%BD%E5%87%91%E5%90%88%23&Refer=top)
+
+1. [环卫工雪天路边死亡](https://s.weibo.com//weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E9%9B%AA%E5%A4%A9%E8%B7%AF%E8%BE%B9%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [黑龙江新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [朱广权押韵版总结2020](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E7%89%88%E6%80%BB%E7%BB%932020%23&Refer=top)
+
+1. [田雨还好卑职没放弃](https://s.weibo.com//weibo?q=%23%E7%94%B0%E9%9B%A8%E8%BF%98%E5%A5%BD%E5%8D%91%E8%81%8C%E6%B2%A1%E6%94%BE%E5%BC%83%23&Refer=top)
+
+1. [上海立法医护人员报告享免责权](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%AB%8B%E6%B3%95%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E6%8A%A5%E5%91%8A%E4%BA%AB%E5%85%8D%E8%B4%A3%E6%9D%83&Refer=top)
+
+1. [31省区市新增25例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E25%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
