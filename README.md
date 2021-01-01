@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 14:08:02
+## 微博今日热榜 更新于 2021-01-01 15:14:46
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -350,4 +350,22 @@
 1. [汪文斌12种语言祝福新年快乐](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C12%E7%A7%8D%E8%AF%AD%E8%A8%80%E7%A5%9D%E7%A6%8F%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&Refer=top)
 
 1. [纽交所将摘牌中国三家电信运营商](https://s.weibo.com//weibo?q=%23%E7%BA%BD%E4%BA%A4%E6%89%80%E5%B0%86%E6%91%98%E7%89%8C%E4%B8%AD%E5%9B%BD%E4%B8%89%E5%AE%B6%E7%94%B5%E4%BF%A1%E8%BF%90%E8%90%A5%E5%95%86%23&Refer=top)
+
+1. [杜淳结婚](https://s.weibo.com//weibo?q=%E6%9D%9C%E6%B7%B3%E7%BB%93%E5%A9%9A&Refer=top)
+
+1. [起哄怂恿女子跳桥围观者被拘9日](https://s.weibo.com//weibo?q=%E8%B5%B7%E5%93%84%E6%80%82%E6%81%BF%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A1%A5%E5%9B%B4%E8%A7%82%E8%80%85%E8%A2%AB%E6%8B%989%E6%97%A5&Refer=top)
+
+1. [杜淳老婆是谁](https://s.weibo.com//weibo?q=%E6%9D%9C%E6%B7%B3%E8%80%81%E5%A9%86%E6%98%AF%E8%B0%81&Refer=top)
+
+1. [陶勇评送你一朵小红花](https://s.weibo.com//weibo?q=%23%E9%99%B6%E5%8B%87%E8%AF%84%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%23&Refer=top)
+
+1. [民法典](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%B3%95%E5%85%B8%23&Refer=top)
+
+1. [谢允妻管严](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E5%A6%BB%E7%AE%A1%E4%B8%A5%23&Refer=top)
+
+1. [跨年演唱会上的搞笑瞬间](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%90%9E%E7%AC%91%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=top)
+
+1. [元旦橙香转运蛋糕](https://s.weibo.com//weibo?q=%E5%85%83%E6%97%A6%E6%A9%99%E9%A6%99%E8%BD%AC%E8%BF%90%E8%9B%8B%E7%B3%95&Refer=top)
 
