@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 20:05:27
+## 微博今日热榜 更新于 2021-01-01 21:20:43
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -498,4 +498,32 @@
 1. [男子为请假自称核酸阳性被拘留](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%AF%B7%E5%81%87%E8%87%AA%E7%A7%B0%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
 
 1. [2021柿柿如意糯米糕](https://s.weibo.com//weibo?q=%232021%E6%9F%BF%E6%9F%BF%E5%A6%82%E6%84%8F%E7%B3%AF%E7%B1%B3%E7%B3%95%23&Refer=top)
+
+1. [LPL全明星现场停电](https://s.weibo.com//weibo?q=LPL%E5%85%A8%E6%98%8E%E6%98%9F%E7%8E%B0%E5%9C%BA%E5%81%9C%E7%94%B5&Refer=top)
+
+1. [蛋壳CFO张政离职](https://s.weibo.com//weibo?q=%E8%9B%8B%E5%A3%B3CFO%E5%BC%A0%E6%94%BF%E7%A6%BB%E8%81%8C&Refer=top)
+
+1. [陈赫坐轮椅在重庆寸步难行](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%B5%AB%E5%9D%90%E8%BD%AE%E6%A4%85%E5%9C%A8%E9%87%8D%E5%BA%86%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C%23&Refer=top)
+
+1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9&Refer=top)
+
+1. [英雄联盟](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&Refer=top)
+
+1. [易烊千玺回应章子怡评价](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%BA%94%E7%AB%A0%E5%AD%90%E6%80%A1%E8%AF%84%E4%BB%B7&Refer=top)
+
+1. [大连中学放假保安大爷独自坚持升旗](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E4%B8%AD%E5%AD%A6%E6%94%BE%E5%81%87%E4%BF%9D%E5%AE%89%E5%A4%A7%E7%88%B7%E7%8B%AC%E8%87%AA%E5%9D%9A%E6%8C%81%E5%8D%87%E6%97%97&Refer=top)
+
+1. [易烊千玺解读韦一航](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A7%A3%E8%AF%BB%E9%9F%A6%E4%B8%80%E8%88%AA%23&Refer=top)
+
+1. [送你一朵小红花中国式家庭](https://s.weibo.com//weibo?q=%23%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%AE%B6%E5%BA%AD%23&Refer=top)
+
+1. [我和我的家乡](https://s.weibo.com//weibo?q=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1&Refer=top)
+
+1. [马薇薇谈凡尔赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%96%87%E8%96%87%E8%B0%88%E5%87%A1%E5%B0%94%E8%B5%9B%23&Refer=top)
+
+1. [周深 不要因为自己的不一样感到难过](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%20%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%E6%84%9F%E5%88%B0%E9%9A%BE%E8%BF%87&Refer=top)
+
+1. [2021年的第一套穿搭](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A5%97%E7%A9%BF%E6%90%AD%23&Refer=top)
+
+1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
 
