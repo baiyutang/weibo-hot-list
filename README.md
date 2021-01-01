@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 21:20:43
+## 微博今日热榜 更新于 2021-01-01 22:07:08
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -526,4 +526,26 @@
 1. [2021年的第一套穿搭](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A5%97%E7%A9%BF%E6%90%AD%23&Refer=top)
 
 1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
+
+1. [谭松韵白敬亭合唱想见你](https://s.weibo.com//weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%88%E5%94%B1%E6%83%B3%E8%A7%81%E4%BD%A0&Refer=top)
+
+1. [金晨新年第一天遗失证件](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E9%81%97%E5%A4%B1%E8%AF%81%E4%BB%B6%23&Refer=top)
+
+1. [武汉医生艾芬发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E5%8C%BB%E7%94%9F%E8%89%BE%E8%8A%AC%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [蔡文静我们的第一年来了](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E5%B9%B4%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [四川卫视新年演唱会](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E6%96%B0%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [李云迪叫易烊千玺惊喜弟弟](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BA%91%E8%BF%AA%E5%8F%AB%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%83%8A%E5%96%9C%E5%BC%9F%E5%BC%9F&Refer=top)
+
+1. [心灵奇旅票房破亿](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%81%B5%E5%A5%87%E6%97%85%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23&Refer=top)
+
+1. [许嵩挑眉](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9%E6%8C%91%E7%9C%89&Refer=top)
+
+1. [李宇春的银河天梯如何突然出现](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%9A%84%E9%93%B6%E6%B2%B3%E5%A4%A9%E6%A2%AF%E5%A6%82%E4%BD%95%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%23&Refer=top)
+
+1. [这只龟怎么蛙里蛙气的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%8F%AA%E9%BE%9F%E6%80%8E%E4%B9%88%E8%9B%99%E9%87%8C%E8%9B%99%E6%B0%94%E7%9A%84%23&Refer=top)
+
+1. [武汉的新年第一天](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E7%9A%84%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top)
 
