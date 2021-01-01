@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 07:14:20
+## 微博今日热榜 更新于 2021-01-01 08:16:56
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -182,4 +182,24 @@
 1. [动森跨年](https://s.weibo.com//weibo?q=%E5%8A%A8%E6%A3%AE%E8%B7%A8%E5%B9%B4&Refer=top)
 
 1. [感动你我的新年金句](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%8A%A8%E4%BD%A0%E6%88%91%E7%9A%84%E6%96%B0%E5%B9%B4%E9%87%91%E5%8F%A5%23&Refer=top)
+
+1. [辽宁中高风险区高校暂不放假](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E9%AB%98%E6%A0%A1%E6%9A%82%E4%B8%8D%E6%94%BE%E5%81%87%23&Refer=top)
+
+1. [时隔8个月再访雷神山抗疫护士](https://s.weibo.com//weibo?q=%E6%97%B6%E9%9A%948%E4%B8%AA%E6%9C%88%E5%86%8D%E8%AE%BF%E9%9B%B7%E7%A5%9E%E5%B1%B1%E6%8A%97%E7%96%AB%E6%8A%A4%E5%A3%AB&Refer=top)
+
+1. [新年第一场升旗](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E5%8D%87%E6%97%97%23&Refer=top)
+
+1. [扒马褂](https://s.weibo.com//weibo?q=%E6%89%92%E9%A9%AC%E8%A4%82&Refer=top)
+
+1. [美国新冠肺炎超1989万例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%851989%E4%B8%87%E4%BE%8B&Refer=top)
+
+1. [辽宁高校寒假安排](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E9%AB%98%E6%A0%A1%E5%AF%92%E5%81%87%E5%AE%89%E6%8E%92%23&Refer=top)
+
+1. [EXO金唱片](https://s.weibo.com//weibo?q=%23EXO%E9%87%91%E5%94%B1%E7%89%87%23&Refer=top)
+
+1. [粮食生产喜获十七连丰](https://s.weibo.com//weibo?q=%23%E7%B2%AE%E9%A3%9F%E7%94%9F%E4%BA%A7%E5%96%9C%E8%8E%B7%E5%8D%81%E4%B8%83%E8%BF%9E%E4%B8%B0%23&Refer=top)
+
+1. [2021第一个日出](https://s.weibo.com//weibo?q=2021%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%97%A5%E5%87%BA&Refer=top)
+
+1. [巩俐拍老公好甜](https://s.weibo.com//weibo?q=%E5%B7%A9%E4%BF%90%E6%8B%8D%E8%80%81%E5%85%AC%E5%A5%BD%E7%94%9C&Refer=top)
 
