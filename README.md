@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 15:14:46
+## 微博今日热榜 更新于 2021-01-01 16:08:00
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -368,4 +368,30 @@
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=top)
 
 1. [元旦橙香转运蛋糕](https://s.weibo.com//weibo?q=%E5%85%83%E6%97%A6%E6%A9%99%E9%A6%99%E8%BD%AC%E8%BF%90%E8%9B%8B%E7%B3%95&Refer=top)
+
+1. [赵丽颖又要买锁了](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%88%E8%A6%81%E4%B9%B0%E9%94%81%E4%BA%86&Refer=top)
+
+1. [湖南卫视跨年收视第一](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [武汉一天桥刻满援鄂医疗队队名](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%A4%A9%E6%A1%A5%E5%88%BB%E6%BB%A1%E6%8F%B4%E9%84%82%E5%8C%BB%E7%96%97%E9%98%9F%E9%98%9F%E5%90%8D&Refer=top)
+
+1. [王鹤棣问唱的比告白气球好吗](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%97%AE%E5%94%B1%E7%9A%84%E6%AF%94%E5%91%8A%E7%99%BD%E6%B0%94%E7%90%83%E5%A5%BD%E5%90%97%23&Refer=top)
+
+1. [杨幂独白被商品化感受](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%8B%AC%E7%99%BD%E8%A2%AB%E5%95%86%E5%93%81%E5%8C%96%E6%84%9F%E5%8F%97%23&Refer=top)
+
+1. [wendy回归](https://s.weibo.com//weibo?q=%23wendy%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [2021年的第一天](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [东风快递最牛烟花秀](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E6%9C%80%E7%89%9B%E7%83%9F%E8%8A%B1%E7%A7%80%23&Refer=top)
+
+1. [上海通报一英国输入病例病毒基因序列](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5%E4%B8%80%E8%8B%B1%E5%9B%BD%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%E7%97%85%E6%AF%92%E5%9F%BA%E5%9B%A0%E5%BA%8F%E5%88%97%23&Refer=top)
+
+1. [液化气槽罐车爆炸致20死调查报告公布](https://s.weibo.com//weibo?q=%23%E6%B6%B2%E5%8C%96%E6%B0%94%E6%A7%BD%E7%BD%90%E8%BD%A6%E7%88%86%E7%82%B8%E8%87%B420%E6%AD%BB%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [小红花DIY大赛](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%BA%A2%E8%8A%B1DIY%E5%A4%A7%E8%B5%9B%23&Refer=top)
+
+1. [自如回应男子违规入住骚扰女租客](https://s.weibo.com//weibo?q=%E8%87%AA%E5%A6%82%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%BF%9D%E8%A7%84%E5%85%A5%E4%BD%8F%E9%AA%9A%E6%89%B0%E5%A5%B3%E7%A7%9F%E5%AE%A2&Refer=top)
+
+1. [2021第一天甘孜现七彩祥云](https://s.weibo.com//weibo?q=%232021%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%94%98%E5%AD%9C%E7%8E%B0%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%23&Refer=top)
 
