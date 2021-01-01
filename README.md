@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 11:16:49
+## 微博今日热榜 更新于 2021-01-01 12:14:49
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -280,4 +280,32 @@
 1. [火箭赛季首胜](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C&Refer=top)
 
 1. [猫和老鼠注入灵魂](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E6%B3%A8%E5%85%A5%E7%81%B5%E9%AD%82&Refer=top)
+
+1. [腾讯游戏回应被华为下架](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%8E%E4%B8%BA%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [乘飞机离开大连须持三天核酸阴性报告](https://s.weibo.com//weibo?q=%23%E4%B9%98%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%A4%A7%E8%BF%9E%E9%A1%BB%E6%8C%81%E4%B8%89%E5%A4%A9%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [晚会停电学生举手机照亮舞台](https://s.weibo.com//weibo?q=%E6%99%9A%E4%BC%9A%E5%81%9C%E7%94%B5%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%89%8B%E6%9C%BA%E7%85%A7%E4%BA%AE%E8%88%9E%E5%8F%B0&Refer=top)
+
+1. [宋慧乔](https://s.weibo.com//weibo?q=%E5%AE%8B%E6%85%A7%E4%B9%94&Refer=top)
+
+1. [周柏豪](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9F%8F%E8%B1%AA&Refer=top)
+
+1. [辽宁6岁被虐女童现状恢复良好](https://s.weibo.com//weibo?q=%E8%BE%BD%E5%AE%816%E5%B2%81%E8%A2%AB%E8%99%90%E5%A5%B3%E7%AB%A5%E7%8E%B0%E7%8A%B6%E6%81%A2%E5%A4%8D%E8%89%AF%E5%A5%BD&Refer=top)
+
+1. [孟佳跨年夜下台后哭了](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E8%B7%A8%E5%B9%B4%E5%A4%9C%E4%B8%8B%E5%8F%B0%E5%90%8E%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [王源摸着良心自拍](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%91%B8%E7%9D%80%E8%89%AF%E5%BF%83%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [温暖的抱抱](https://s.weibo.com//weibo?q=%E6%B8%A9%E6%9A%96%E7%9A%84%E6%8A%B1%E6%8A%B1&Refer=top)
+
+1. [零点武汉气球飘满夜空](https://s.weibo.com//weibo?q=%E9%9B%B6%E7%82%B9%E6%AD%A6%E6%B1%89%E6%B0%94%E7%90%83%E9%A3%98%E6%BB%A1%E5%A4%9C%E7%A9%BA&Refer=top)
+
+1. [哈登33分](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB33%E5%88%86&Refer=top)
+
+1. [首批700多元心脏支架在18省区市落地](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%89%B9700%E5%A4%9A%E5%85%83%E5%BF%83%E8%84%8F%E6%94%AF%E6%9E%B6%E5%9C%A818%E7%9C%81%E5%8C%BA%E5%B8%82%E8%90%BD%E5%9C%B0%23&Refer=top)
+
+1. [张梓琳怀二胎](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A2%93%E7%90%B3%E6%80%80%E4%BA%8C%E8%83%8E%23&Refer=top)
+
+1. [2021年第一缕阳光洒向西湖](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%BC%95%E9%98%B3%E5%85%89%E6%B4%92%E5%90%91%E8%A5%BF%E6%B9%96&Refer=top)
 
