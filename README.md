@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 18:14:00
+## 微博今日热榜 更新于 2021-01-01 19:11:56
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -452,4 +452,26 @@
 1. [拆弹专家](https://s.weibo.com//weibo?q=%E6%8B%86%E5%BC%B9%E4%B8%93%E5%AE%B6&Refer=top)
 
 1. [阿Bin最佳新秀](https://s.weibo.com//weibo?q=%E9%98%BFBin%E6%9C%80%E4%BD%B3%E6%96%B0%E7%A7%80&Refer=top)
+
+1. [王俊凯说身体已经好多了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E8%BA%AB%E4%BD%93%E5%B7%B2%E7%BB%8F%E5%A5%BD%E5%A4%9A%E4%BA%86%23&Refer=top)
+
+1. [美国一药剂师因毁坏新冠疫苗被捕](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%8D%AF%E5%89%82%E5%B8%88%E5%9B%A0%E6%AF%81%E5%9D%8F%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A2%AB%E6%8D%95%23&Refer=top)
+
+1. [青你3slogan](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03slogan%23&Refer=top)
+
+1. [玄彬孙艺珍计划结婚](https://s.weibo.com//weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E8%AE%A1%E5%88%92%E7%BB%93%E5%A9%9A%23&Refer=top)
+
+1. [今年跨年最圈粉舞台](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B7%A8%E5%B9%B4%E6%9C%80%E5%9C%88%E7%B2%89%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [五人PSYCHO](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%BA%BAPSYCHO%23&Refer=top)
+
+1. [惊鸿是对晚会审美的降维打击](https://s.weibo.com//weibo?q=%23%E6%83%8A%E9%B8%BF%E6%98%AF%E5%AF%B9%E6%99%9A%E4%BC%9A%E5%AE%A1%E7%BE%8E%E7%9A%84%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%23&Refer=top)
+
+1. [英国重启方舱医院](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%87%8D%E5%90%AF%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%23&Refer=top)
+
+1. [小钰最受欢迎解说主持](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%92%B0%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E8%A7%A3%E8%AF%B4%E4%B8%BB%E6%8C%81&Refer=top)
+
+1. [2021年你的第一张自拍](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BC%A0%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [2021第一天就翻车了](https://s.weibo.com//weibo?q=%232021%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E7%BF%BB%E8%BD%A6%E4%BA%86%23&Refer=top)
 
