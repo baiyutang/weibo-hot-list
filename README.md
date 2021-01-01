@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 22:07:08
+## 微博今日热榜 更新于 2021-01-01 23:05:09
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -548,4 +548,46 @@
 1. [这只龟怎么蛙里蛙气的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%8F%AA%E9%BE%9F%E6%80%8E%E4%B9%88%E8%9B%99%E9%87%8C%E8%9B%99%E6%B0%94%E7%9A%84%23&Refer=top)
 
 1. [武汉的新年第一天](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E7%9A%84%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top)
+
+1. [当新年贺词遇到说唱](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%81%87%E5%88%B0%E8%AF%B4%E5%94%B1%23&Refer=new_time)
+
+1. [汪文斌用36种语言说新年快乐](https://s.weibo.com//weibo?q=%E6%B1%AA%E6%96%87%E6%96%8C%E7%94%A836%E7%A7%8D%E8%AF%AD%E8%A8%80%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top)
+
+1. [送你一朵小红花彩蛋](https://s.weibo.com//weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%BD%A9%E8%9B%8B&Refer=top)
+
+1. [沈阳男子插队遭拒后殴打防疫民警](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E7%94%B7%E5%AD%90%E6%8F%92%E9%98%9F%E9%81%AD%E6%8B%92%E5%90%8E%E6%AE%B4%E6%89%93%E9%98%B2%E7%96%AB%E6%B0%91%E8%AD%A6%23&Refer=top)
+
+1. [周杰伦五月天再同台](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%94%E6%9C%88%E5%A4%A9%E5%86%8D%E5%90%8C%E5%8F%B0&Refer=top)
+
+1. [5岁小女孩哭着鼻子挑战5米台](https://s.weibo.com//weibo?q=%235%E5%B2%81%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%93%AD%E7%9D%80%E9%BC%BB%E5%AD%90%E6%8C%91%E6%88%985%E7%B1%B3%E5%8F%B0%23&Refer=top)
+
+1. [青城山疑因游船故障大批游客被困山中](https://s.weibo.com//weibo?q=%E9%9D%92%E5%9F%8E%E5%B1%B1%E7%96%91%E5%9B%A0%E6%B8%B8%E8%88%B9%E6%95%85%E9%9A%9C%E5%A4%A7%E6%89%B9%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%AD&Refer=top)
+
+1. [纽约时代广场100多年来最冷清跨年夜](https://s.weibo.com//weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA100%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%86%B7%E6%B8%85%E8%B7%A8%E5%B9%B4%E5%A4%9C%23&Refer=top)
+
+1. [国歌最新版MV发布](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E6%AD%8C%E6%9C%80%E6%96%B0%E7%89%88MV%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [白敬亭青春飞跃男演员](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%9D%92%E6%98%A5%E9%A3%9E%E8%B7%83%E7%94%B7%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [369全明星SOLO KING](https://s.weibo.com//weibo?q=369%E5%85%A8%E6%98%8E%E6%98%9FSOLO%20KING&Refer=top)
+
+1. [警方通报男子核酸检测点殴打民警](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%82%B9%E6%AE%B4%E6%89%93%E6%B0%91%E8%AD%A6%23&Refer=top)
+
+1. [朱锁锁替蒋南孙出气](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E6%9B%BF%E8%92%8B%E5%8D%97%E5%AD%99%E5%87%BA%E6%B0%94%23&Refer=top)
+
+1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
+
+1. [GALA追梦赤子心](https://s.weibo.com//weibo?q=GALA%E8%BF%BD%E6%A2%A6%E8%B5%A4%E5%AD%90%E5%BF%83&Refer=top)
+
+1. [王俊凯唱海阔天空](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%94%B1%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%23&Refer=top)
+
+1. [不可辜负的美食](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%8F%AF%E8%BE%9C%E8%B4%9F%E7%9A%84%E7%BE%8E%E9%A3%9F%23&Refer=top)
+
+1. [刘诗诗评价蒋南孙是软刀子](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E8%AF%84%E4%BB%B7%E8%92%8B%E5%8D%97%E5%AD%99%E6%98%AF%E8%BD%AF%E5%88%80%E5%AD%90%23&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
+
+1. [TheShy年度最受欢迎选手](https://s.weibo.com//weibo?q=TheShy%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E9%80%89%E6%89%8B&Refer=top)
+
+1. [范子铭9封盖](https://s.weibo.com//weibo?q=%E8%8C%83%E5%AD%90%E9%93%AD9%E5%B0%81%E7%9B%96&Refer=top)
 
