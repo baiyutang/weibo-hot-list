@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 08:16:56
+## 微博今日热榜 更新于 2021-01-01 10:04:03
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -202,4 +202,46 @@
 1. [2021第一个日出](https://s.weibo.com//weibo?q=2021%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%97%A5%E5%87%BA&Refer=top)
 
 1. [巩俐拍老公好甜](https://s.weibo.com//weibo?q=%E5%B7%A9%E4%BF%90%E6%8B%8D%E8%80%81%E5%85%AC%E5%A5%BD%E7%94%9C&Refer=top)
+
+1. [玄彬孙艺珍](https://s.weibo.com//weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%23&Refer=top)
+
+1. [北京新增5例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [汪涵以为黄子韬还有舞台](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%B6%B5%E4%BB%A5%E4%B8%BA%E9%BB%84%E5%AD%90%E9%9F%AC%E8%BF%98%E6%9C%89%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [王一博话筒和耳返都是绿色](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%9D%E7%AD%92%E5%92%8C%E8%80%B3%E8%BF%94%E9%83%BD%E6%98%AF%E7%BB%BF%E8%89%B2%23&Refer=top)
+
+1. [送你一朵小红花台词](https://s.weibo.com//weibo?q=%23%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%8F%B0%E8%AF%8D%23&Refer=top)
+
+1. [2021年新年宝宝诞生](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E6%96%B0%E5%B9%B4%E5%AE%9D%E5%AE%9D%E8%AF%9E%E7%94%9F&Refer=top)
+
+1. [D社](https://s.weibo.com//weibo?q=D%E7%A4%BE&Refer=top)
+
+1. [张靓颖 我不是唯一掉耳环的人](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9D%93%E9%A2%96%20%E6%88%91%E4%B8%8D%E6%98%AF%E5%94%AF%E4%B8%80%E6%8E%89%E8%80%B3%E7%8E%AF%E7%9A%84%E4%BA%BA&Refer=top)
+
+1. [辽宁新增4例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E4%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [北京5例本土确诊病例详情](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [张雨绮帮工作人员追星王一博](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%B8%AE%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%BF%BD%E6%98%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%23&Refer=top)
+
+1. [沈阳疫情](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [五月天首唱因为你所以我](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%A6%96%E5%94%B1%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%89%80%E4%BB%A5%E6%88%91%23&Refer=top)
+
+1. [许佳琪扯领带](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%90%AA%E6%89%AF%E9%A2%86%E5%B8%A6%23&Refer=top)
+
+1. [华晨宇戴面具唱歌好稳](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%88%B4%E9%9D%A2%E5%85%B7%E5%94%B1%E6%AD%8C%E5%A5%BD%E7%A8%B3%23&Refer=top)
+
+1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
+
+1. [五月天演唱会太好听了](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%23&Refer=top)
+
+1. [王祖蓝我和我的祖国](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23&Refer=top)
+
+1. [毛不易稍息立正站好](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E7%A8%8D%E6%81%AF%E7%AB%8B%E6%AD%A3%E7%AB%99%E5%A5%BD&Refer=top)
+
+1. [和平精英](https://s.weibo.com//weibo?q=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1&Refer=top)
+
+1. [辽宁新增3例本土无症状](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
 
