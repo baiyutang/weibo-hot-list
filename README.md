@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 06:07:50
+## 微博今日热榜 更新于 2021-01-02 07:14:46
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -134,4 +134,10 @@
 1. [婚姻法继承法合同法等废止](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E5%A7%BB%E6%B3%95%E7%BB%A7%E6%89%BF%E6%B3%95%E5%90%88%E5%90%8C%E6%B3%95%E7%AD%89%E5%BA%9F%E6%AD%A2%23&Refer=top)
 
 1. [2021](https://s.weibo.com//weibo?q=2021&Refer=top)
+
+1. [绝对忠诚之国家利益](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A%E4%B9%8B%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A%23&Refer=new_time)
+
+1. [刘宇](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87&Refer=top)
+
+1. [今年跨年最圈粉舞台](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B7%A8%E5%B9%B4%E6%9C%80%E5%9C%88%E7%B2%89%E8%88%9E%E5%8F%B0%23&Refer=top)
 
