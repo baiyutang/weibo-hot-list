@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-01 19:11:56
+## 微博今日热榜 更新于 2021-01-01 20:05:27
 1. [2021新年贺词](https://s.weibo.com//weibo?q=%232021%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
 
 1. [吴昕杜海涛的节目去哪儿了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E8%8A%82%E7%9B%AE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23&Refer=top)
@@ -474,4 +474,28 @@
 1. [2021年你的第一张自拍](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BC%A0%E8%87%AA%E6%8B%8D%23&Refer=top)
 
 1. [2021第一天就翻车了](https://s.weibo.com//weibo?q=%232021%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E7%BF%BB%E8%BD%A6%E4%BA%86%23&Refer=top)
+
+1. [国剧盛典](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%89%A7%E7%9B%9B%E5%85%B8%23&Refer=top)
+
+1. [国旗法规定不得倒挂倒插国旗](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E6%97%97%E6%B3%95%E8%A7%84%E5%AE%9A%E4%B8%8D%E5%BE%97%E5%80%92%E6%8C%82%E5%80%92%E6%8F%92%E5%9B%BD%E6%97%97%23&Refer=top)
+
+1. [小鬼王琳凯反拍狗仔](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%AC%BC%E7%8E%8B%E7%90%B3%E5%87%AF%E5%8F%8D%E6%8B%8D%E7%8B%97%E4%BB%94%23&Refer=top)
+
+1. [北京福码大厦4件环境样本阳性](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%A6%8F%E7%A0%81%E5%A4%A7%E5%8E%A64%E4%BB%B6%E7%8E%AF%E5%A2%83%E6%A0%B7%E6%9C%AC%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [中疾控回应上海发现一英国输入病例情况](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%96%BE%E6%8E%A7%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%8E%B0%E4%B8%80%E8%8B%B1%E5%9B%BD%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [沐浴之王](https://s.weibo.com//weibo?q=%E6%B2%90%E6%B5%B4%E4%B9%8B%E7%8E%8B&Refer=top)
+
+1. [小朋友的感染力有多强](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%84%9F%E6%9F%93%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [电影你的婚礼定档](https://s.weibo.com//weibo?q=%E7%94%B5%E5%BD%B1%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC%E5%AE%9A%E6%A1%A3&Refer=top)
+
+1. [元旦晚会](https://s.weibo.com//weibo?q=%E5%85%83%E6%97%A6%E6%99%9A%E4%BC%9A&Refer=top)
+
+1. [维也纳新年音乐会](https://s.weibo.com//weibo?q=%E7%BB%B4%E4%B9%9F%E7%BA%B3%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A&Refer=top)
+
+1. [男子为请假自称核酸阳性被拘留](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%AF%B7%E5%81%87%E8%87%AA%E7%A7%B0%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
+
+1. [2021柿柿如意糯米糕](https://s.weibo.com//weibo?q=%232021%E6%9F%BF%E6%9F%BF%E5%A6%82%E6%84%8F%E7%B3%AF%E7%B1%B3%E7%B3%95%23&Refer=top)
 
