@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 00:14:03
+## 微博今日热榜 更新于 2021-01-02 01:41:01
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -102,4 +102,10 @@
 1. [LPL全明星现场停电](https://s.weibo.com//weibo?q=%23LPL%E5%85%A8%E6%98%8E%E6%98%9F%E7%8E%B0%E5%9C%BA%E5%81%9C%E7%94%B5%23&Refer=top)
 
 1. [范子铭9封盖](https://s.weibo.com//weibo?q=%E8%8C%83%E5%AD%90%E9%93%AD9%E5%B0%81%E7%9B%96&Refer=top)
+
+1. [平凡英雄](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
+
+1. [常远骑小摩托带李沁](https://s.weibo.com//weibo?q=%23%E5%B8%B8%E8%BF%9C%E9%AA%91%E5%B0%8F%E6%91%A9%E6%89%98%E5%B8%A6%E6%9D%8E%E6%B2%81%23&Refer=top)
+
+1. [2021年的第一天](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top)
 
