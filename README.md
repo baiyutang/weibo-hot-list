@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 03:23:53
+## 微博今日热榜 更新于 2021-01-02 04:08:03
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -118,4 +118,12 @@
 1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
 
 1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
+
+1. [2021年新年贺词金句](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5%23&Refer=new_time)
+
+1. [警方通报男子核酸检测点殴打民警](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%82%B9%E6%AE%B4%E6%89%93%E6%B0%91%E8%AD%A6%23&Refer=top)
+
+1. [LPL全明星](https://s.weibo.com//weibo?q=%23LPL%E5%85%A8%E6%98%8E%E6%98%9F%23&Refer=top)
+
+1. [张起灵打戏](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%B5%B7%E7%81%B5%E6%89%93%E6%88%8F&Refer=top)
 
