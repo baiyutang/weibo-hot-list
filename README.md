@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 18:12:28
+## 微博今日热榜 更新于 2021-01-02 19:10:30
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -420,4 +420,22 @@
 1. [牙齿的心声](https://s.weibo.com//weibo?q=%23%E7%89%99%E9%BD%BF%E7%9A%84%E5%BF%83%E5%A3%B0%23&Refer=top)
 
 1. [脆皮孜然豆腐](https://s.weibo.com//weibo?q=%23%E8%84%86%E7%9A%AE%E5%AD%9C%E7%84%B6%E8%B1%86%E8%85%90%23&Refer=top)
+
+1. [美琪回去拯救魔仙堡了](https://s.weibo.com//weibo?q=%E7%BE%8E%E7%90%AA%E5%9B%9E%E5%8E%BB%E6%8B%AF%E6%95%91%E9%AD%94%E4%BB%99%E5%A0%A1%E4%BA%86&Refer=top)
+
+1. [李钟硕 我回来了](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%92%9F%E7%A1%95%20%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [宋妍霏成功追星印小天](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E6%88%90%E5%8A%9F%E8%BF%BD%E6%98%9F%E5%8D%B0%E5%B0%8F%E5%A4%A9%23&Refer=top)
+
+1. [权志龙晒BIGBANG握手照](https://s.weibo.com//weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%99%92BIGBANG%E6%8F%A1%E6%89%8B%E7%85%A7%23&Refer=top)
+
+1. [西藏南路附近一地下水管爆裂](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E5%8D%97%E8%B7%AF%E9%99%84%E8%BF%91%E4%B8%80%E5%9C%B0%E4%B8%8B%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82&Refer=top)
+
+1. [商务部回应纽交所摘牌3家中国企业](https://s.weibo.com//weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BA%BD%E4%BA%A4%E6%89%80%E6%91%98%E7%89%8C3%E5%AE%B6%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%23&Refer=top)
+
+1. [90后退伍军人离世捐器官救5人](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&Refer=top)
+
+1. [广州警犬新年穿上新制服](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AD%A6%E7%8A%AC%E6%96%B0%E5%B9%B4%E7%A9%BF%E4%B8%8A%E6%96%B0%E5%88%B6%E6%9C%8D%23&Refer=top)
+
+1. [数百人不戴口罩参加特朗普跨年派对](https://s.weibo.com//weibo?q=%23%E6%95%B0%E7%99%BE%E4%BA%BA%E4%B8%8D%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E8%B7%A8%E5%B9%B4%E6%B4%BE%E5%AF%B9%23&Refer=top)
 
