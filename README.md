@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 12:15:02
+## 微博今日热榜 更新于 2021-01-02 13:17:34
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -276,4 +276,30 @@
 1. [充满人间烟火气息的爱情](https://s.weibo.com//weibo?q=%23%E5%85%85%E6%BB%A1%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E6%B0%94%E6%81%AF%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top)
 
 1. [湖人vs马刺](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BAvs%E9%A9%AC%E5%88%BA&Refer=top)
+
+1. [86岁奶奶零下19度挑战冬泳](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%9B%B6%E4%B8%8B19%E5%BA%A6%E6%8C%91%E6%88%98%E5%86%AC%E6%B3%B3%23&Refer=top)
+
+1. [官方回应迎亲直升机写湖北应急](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BF%8E%E4%BA%B2%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%86%99%E6%B9%96%E5%8C%97%E5%BA%94%E6%80%A5&Refer=top)
+
+1. [密保问题就该不忘初心](https://s.weibo.com//weibo?q=%23%E5%AF%86%E4%BF%9D%E9%97%AE%E9%A2%98%E5%B0%B1%E8%AF%A5%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83%23&Refer=top)
+
+1. [美国新冠疫苗接种混乱](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%B7%B7%E4%B9%B1&Refer=top)
+
+1. [谢怜认出花城](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E6%80%9C%E8%AE%A4%E5%87%BA%E8%8A%B1%E5%9F%8E%23&Refer=top)
+
+1. [雄安新区居住证和积分落户办法公布](https://s.weibo.com//weibo?q=%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E5%B1%85%E4%BD%8F%E8%AF%81%E5%92%8C%E7%A7%AF%E5%88%86%E8%90%BD%E6%88%B7%E5%8A%9E%E6%B3%95%E5%85%AC%E5%B8%83&Refer=top)
+
+1. [刘德华哭戏](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%93%AD%E6%88%8F%23&Refer=top)
+
+1. [心疼半月](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%8D%8A%E6%9C%88%23&Refer=top)
+
+1. [天官赐福动画第一季收官](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%8A%A8%E7%94%BB%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [迎亲直升机上写湖北应急引质疑](https://s.weibo.com//weibo?q=%E8%BF%8E%E4%BA%B2%E7%9B%B4%E5%8D%87%E6%9C%BA%E4%B8%8A%E5%86%99%E6%B9%96%E5%8C%97%E5%BA%94%E6%80%A5%E5%BC%95%E8%B4%A8%E7%96%91&Refer=top)
+
+1. [福建降温有多离谱](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%99%8D%E6%B8%A9%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top)
+
+1. [宿管阿姨退休前收到暖心蛋挞](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E7%AE%A1%E9%98%BF%E5%A7%A8%E9%80%80%E4%BC%91%E5%89%8D%E6%94%B6%E5%88%B0%E6%9A%96%E5%BF%83%E8%9B%8B%E6%8C%9E%23&Refer=top)
+
+1. [面包车司机点烟引发液化气爆炸](https://s.weibo.com//weibo?q=%E9%9D%A2%E5%8C%85%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%82%B9%E7%83%9F%E5%BC%95%E5%8F%91%E6%B6%B2%E5%8C%96%E6%B0%94%E7%88%86%E7%82%B8&Refer=top)
 
