@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 21:18:28
+## 微博今日热榜 更新于 2021-01-02 22:05:04
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -488,4 +488,20 @@
 1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
 
 1. [巴啦啦小魔仙演员悼念孙侨潞](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%95%A6%E5%95%A6%E5%B0%8F%E9%AD%94%E4%BB%99%E6%BC%94%E5%91%98%E6%82%BC%E5%BF%B5%E5%AD%99%E4%BE%A8%E6%BD%9E%23&Refer=top)
+
+1. [金莎金子涵没演完就被喊卡](https://s.weibo.com//weibo?q=%E9%87%91%E8%8E%8E%E9%87%91%E5%AD%90%E6%B6%B5%E6%B2%A1%E6%BC%94%E5%AE%8C%E5%B0%B1%E8%A2%AB%E5%96%8A%E5%8D%A1&Refer=top)
+
+1. [章子怡问为什么都要当演员](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%A6%81%E5%BD%93%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [李诚儒问李梦为什么被白鹿原换掉](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%AF%9A%E5%84%92%E9%97%AE%E6%9D%8E%E6%A2%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E7%99%BD%E9%B9%BF%E5%8E%9F%E6%8D%A2%E6%8E%89&Refer=top)
+
+1. [全国目前有36个中风险地区](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%9C%8936%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [蒋南孙今天分手了吗](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8D%97%E5%AD%99%E4%BB%8A%E5%A4%A9%E5%88%86%E6%89%8B%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [杨超越写侯明昊好帅写到笔没水](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%86%99%E4%BE%AF%E6%98%8E%E6%98%8A%E5%A5%BD%E5%B8%85%E5%86%99%E5%88%B0%E7%AC%94%E6%B2%A1%E6%B0%B4%23&Refer=top)
+
+1. [赵睿暴扣](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%9D%BF%E6%9A%B4%E6%89%A3%23&Refer=top)
+
+1. [疆粤大战](https://s.weibo.com//weibo?q=%23%E7%96%86%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top)
 
