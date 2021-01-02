@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 20:04:23
+## 微博今日热榜 更新于 2021-01-02 21:18:28
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -458,4 +458,34 @@
 1. [热刺2将感染新冠](https://s.weibo.com//weibo?q=%E7%83%AD%E5%88%BA2%E5%B0%86%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0&Refer=top)
 
 1. [男子元旦家中聚餐遇地面坍塌](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%83%E6%97%A6%E5%AE%B6%E4%B8%AD%E8%81%9A%E9%A4%90%E9%81%87%E5%9C%B0%E9%9D%A2%E5%9D%8D%E5%A1%8C%23&Refer=top)
+
+1. [晴雅集](https://s.weibo.com//weibo?q=%E6%99%B4%E9%9B%85%E9%9B%86&Refer=top)
+
+1. [奇葩说](https://s.weibo.com//weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4&Refer=top)
+
+1. [温暖的抱抱](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E6%9A%96%E7%9A%84%E6%8A%B1%E6%8A%B1%23&Refer=top)
+
+1. [北京顺义区仁和镇河南村升为中风险](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%A1%BA%E4%B9%89%E5%8C%BA%E4%BB%81%E5%92%8C%E9%95%87%E6%B2%B3%E5%8D%97%E6%9D%91%E5%8D%87%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [拒绝喝酒的心机技巧](https://s.weibo.com//weibo?q=%23%E6%8B%92%E7%BB%9D%E5%96%9D%E9%85%92%E7%9A%84%E5%BF%83%E6%9C%BA%E6%8A%80%E5%B7%A7%23&Refer=top)
+
+1. [追光吧哥哥](https://s.weibo.com//weibo?q=%E8%BF%BD%E5%85%89%E5%90%A7%E5%93%A5%E5%93%A5&Refer=top)
+
+1. [哈尔滨漫展](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E6%BC%AB%E5%B1%95&Refer=top)
+
+1. [安徽40米高瀑布结冰远观似玉](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD40%E7%B1%B3%E9%AB%98%E7%80%91%E5%B8%83%E7%BB%93%E5%86%B0%E8%BF%9C%E8%A7%82%E4%BC%BC%E7%8E%89%23&Refer=top)
+
+1. [比特币突破3万美元](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B43%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [爱立信称继续禁华为将离开瑞典](https://s.weibo.com//weibo?q=%E7%88%B1%E7%AB%8B%E4%BF%A1%E7%A7%B0%E7%BB%A7%E7%BB%AD%E7%A6%81%E5%8D%8E%E4%B8%BA%E5%B0%86%E7%A6%BB%E5%BC%80%E7%91%9E%E5%85%B8&Refer=top)
+
+1. [我就是演员](https://s.weibo.com//weibo?q=%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98&Refer=top)
+
+1. [刘聪演唱会门票](https://s.weibo.com//weibo?q=%E5%88%98%E8%81%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8&Refer=top)
+
+1. [沐浴之王](https://s.weibo.com//weibo?q=%E6%B2%90%E6%B5%B4%E4%B9%8B%E7%8E%8B&Refer=top)
+
+1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
+
+1. [巴啦啦小魔仙演员悼念孙侨潞](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%95%A6%E5%95%A6%E5%B0%8F%E9%AD%94%E4%BB%99%E6%BC%94%E5%91%98%E6%82%BC%E5%BF%B5%E5%AD%99%E4%BE%A8%E6%BD%9E%23&Refer=top)
 
