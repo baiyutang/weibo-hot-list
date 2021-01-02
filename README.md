@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-03 00:12:55
+## 微博今日热榜 更新于 2021-01-03 01:40:38
 1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
 
 1. [章子怡问为什么都要当演员](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%A6%81%E5%BD%93%E6%BC%94%E5%91%98%23&Refer=top)
@@ -104,4 +104,20 @@
 1. [符龙飞塑料普通话太好笑了](https://s.weibo.com//weibo?q=%23%E7%AC%A6%E9%BE%99%E9%A3%9E%E5%A1%91%E6%96%99%E6%99%AE%E9%80%9A%E8%AF%9D%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top)
 
 1. [赵睿暴扣](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%9D%BF%E6%9A%B4%E6%89%A3%23&Refer=top)
+
+1. [元旦春节疫情防控提示](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%97%A6%E6%98%A5%E8%8A%82%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8F%90%E7%A4%BA%23&Refer=new_time)
+
+1. [奚梦瑶追星成功](https://s.weibo.com//weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%23&Refer=top)
+
+1. [章子怡给李晟满星卡](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E7%BB%99%E6%9D%8E%E6%99%9F%E6%BB%A1%E6%98%9F%E5%8D%A1%23&Refer=top)
+
+1. [比特币突破3万美元](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B43%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [孙坚台词](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%9D%9A%E5%8F%B0%E8%AF%8D%23&Refer=top)
+
+1. [董子健毒鸡汤鼓励杨巡](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E6%AF%92%E9%B8%A1%E6%B1%A4%E9%BC%93%E5%8A%B1%E6%9D%A8%E5%B7%A1%23&Refer=top)
+
+1. [王心凌演唱会](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [90后退伍军人离世捐器官救5人](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&Refer=top)
 
