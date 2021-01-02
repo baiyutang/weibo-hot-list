@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-03 04:07:36
+## 微博今日热榜 更新于 2021-01-03 05:04:19
 1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
 
 1. [章子怡问为什么都要当演员](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%A6%81%E5%BD%93%E6%BC%94%E5%91%98%23&Refer=top)
@@ -134,4 +134,6 @@
 1. [王彦霖李一桐玩大摆锤好像尖叫鸡](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BD%A6%E9%9C%96%E6%9D%8E%E4%B8%80%E6%A1%90%E7%8E%A9%E5%A4%A7%E6%91%86%E9%94%A4%E5%A5%BD%E5%83%8F%E5%B0%96%E5%8F%AB%E9%B8%A1%23&Refer=top)
 
 1. [大连近期发现的感染者均集中在管控圈内](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E8%BF%91%E6%9C%9F%E5%8F%91%E7%8E%B0%E7%9A%84%E6%84%9F%E6%9F%93%E8%80%85%E5%9D%87%E9%9B%86%E4%B8%AD%E5%9C%A8%E7%AE%A1%E6%8E%A7%E5%9C%88%E5%86%85%23&Refer=top)
+
+1. [国社送你一张船票](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E7%A4%BE%E9%80%81%E4%BD%A0%E4%B8%80%E5%BC%A0%E8%88%B9%E7%A5%A8%23&Refer=new_time)
 
