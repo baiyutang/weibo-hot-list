@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 22:05:04
+## 微博今日热榜 更新于 2021-01-02 23:04:09
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -504,4 +504,20 @@
 1. [赵睿暴扣](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%9D%BF%E6%9A%B4%E6%89%A3%23&Refer=top)
 
 1. [疆粤大战](https://s.weibo.com//weibo?q=%23%E7%96%86%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top)
+
+1. [符龙飞卡斯柏突然摔本子](https://s.weibo.com//weibo?q=%23%E7%AC%A6%E9%BE%99%E9%A3%9E%E5%8D%A1%E6%96%AF%E6%9F%8F%E7%AA%81%E7%84%B6%E6%91%94%E6%9C%AC%E5%AD%90%23&Refer=top)
+
+1. [李宇春舞台上假发突然被薅走](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%88%9E%E5%8F%B0%E4%B8%8A%E5%81%87%E5%8F%91%E7%AA%81%E7%84%B6%E8%A2%AB%E8%96%85%E8%B5%B0%23&Refer=top)
+
+1. [过量饮酒的危害有多大](https://s.weibo.com//weibo?q=%23%E8%BF%87%E9%87%8F%E9%A5%AE%E9%85%92%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [哲仁王后](https://s.weibo.com//weibo?q=%E5%93%B2%E4%BB%81%E7%8E%8B%E5%90%8E&Refer=top)
+
+1. [丁程鑫卡点跳舞](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8D%A1%E7%82%B9%E8%B7%B3%E8%88%9E%23&Refer=top)
+
+1. [如何预防心梗](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E5%BF%83%E6%A2%97%23&Refer=top)
+
+1. [Knight全明星MVP](https://s.weibo.com//weibo?q=Knight%E5%85%A8%E6%98%8E%E6%98%9FMVP&Refer=top)
+
+1. [胡明轩违体犯规](https://s.weibo.com//weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%E8%BF%9D%E4%BD%93%E7%8A%AF%E8%A7%84&Refer=top)
 
