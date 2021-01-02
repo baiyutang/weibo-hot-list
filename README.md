@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 19:10:30
+## 微博今日热榜 更新于 2021-01-02 20:04:23
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -438,4 +438,24 @@
 1. [广州警犬新年穿上新制服](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AD%A6%E7%8A%AC%E6%96%B0%E5%B9%B4%E7%A9%BF%E4%B8%8A%E6%96%B0%E5%88%B6%E6%9C%8D%23&Refer=top)
 
 1. [数百人不戴口罩参加特朗普跨年派对](https://s.weibo.com//weibo?q=%23%E6%95%B0%E7%99%BE%E4%BA%BA%E4%B8%8D%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E8%B7%A8%E5%B9%B4%E6%B4%BE%E5%AF%B9%23&Refer=top)
+
+1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
+
+1. [为何心梗会缠上年轻人](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BD%95%E5%BF%83%E6%A2%97%E4%BC%9A%E7%BC%A0%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top)
+
+1. [张慧雯](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%85%A7%E9%9B%AF&Refer=top)
+
+1. [北京奥运举重冠军回应兴奋剂事件](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%B8%BE%E9%87%8D%E5%86%A0%E5%86%9B%E5%9B%9E%E5%BA%94%E5%85%B4%E5%A5%8B%E5%89%82%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [接种新冠疫苗要注意什么](https://s.weibo.com//weibo?q=%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88&Refer=top)
+
+1. [周深端水大师](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&Refer=top)
+
+1. [蔚来喊话电动车用户](https://s.weibo.com//weibo?q=%E8%94%9A%E6%9D%A5%E5%96%8A%E8%AF%9D%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%A8%E6%88%B7&Refer=top)
+
+1. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
+
+1. [热刺2将感染新冠](https://s.weibo.com//weibo?q=%E7%83%AD%E5%88%BA2%E5%B0%86%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [男子元旦家中聚餐遇地面坍塌](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%83%E6%97%A6%E5%AE%B6%E4%B8%AD%E8%81%9A%E9%A4%90%E9%81%87%E5%9C%B0%E9%9D%A2%E5%9D%8D%E5%A1%8C%23&Refer=top)
 
