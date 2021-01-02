@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 17:12:35
+## 微博今日热榜 更新于 2021-01-02 18:12:28
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -396,4 +396,28 @@
 1. [广州推出共有产权住房1366套](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%8E%A8%E5%87%BA%E5%85%B1%E6%9C%89%E4%BA%A7%E6%9D%83%E4%BD%8F%E6%88%BF1366%E5%A5%97%23&Refer=top)
 
 1. [蔡依林野生眉](https://s.weibo.com//weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E9%87%8E%E7%94%9F%E7%9C%89%23&Refer=top)
+
+1. [张伯礼称现在到2月底防疫非常关键](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%88%B02%E6%9C%88%E5%BA%95%E9%98%B2%E7%96%AB%E9%9D%9E%E5%B8%B8%E5%85%B3%E9%94%AE%23&Refer=top)
+
+1. [黄晓明说小海绵叫自己爸爸哥](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E8%AF%B4%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%8F%AB%E8%87%AA%E5%B7%B1%E7%88%B8%E7%88%B8%E5%93%A5&Refer=top)
+
+1. [任然](https://s.weibo.com//weibo?q=%E4%BB%BB%E7%84%B6&Refer=top)
+
+1. [原来燕小六戴的是搓澡巾](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%87%95%E5%B0%8F%E5%85%AD%E6%88%B4%E7%9A%84%E6%98%AF%E6%90%93%E6%BE%A1%E5%B7%BE%23&Refer=top)
+
+1. [新版绯闻女孩定妆照](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%89%88%E7%BB%AF%E9%97%BB%E5%A5%B3%E5%AD%A9%E5%AE%9A%E5%A6%86%E7%85%A7%23&Refer=top)
+
+1. [丢弃圣诞树的错误方式](https://s.weibo.com//weibo?q=%23%E4%B8%A2%E5%BC%83%E5%9C%A3%E8%AF%9E%E6%A0%91%E7%9A%84%E9%94%99%E8%AF%AF%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [跨年夜超顶的全开麦舞台](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%B9%B4%E5%A4%9C%E8%B6%85%E9%A1%B6%E7%9A%84%E5%85%A8%E5%BC%80%E9%BA%A6%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [嫁妆镜子碎了发现父亲14年前祝福](https://s.weibo.com//weibo?q=%23%E5%AB%81%E5%A6%86%E9%95%9C%E5%AD%90%E7%A2%8E%E4%BA%86%E5%8F%91%E7%8E%B0%E7%88%B6%E4%BA%B214%E5%B9%B4%E5%89%8D%E7%A5%9D%E7%A6%8F%23&Refer=top)
+
+1. [拆弹专家](https://s.weibo.com//weibo?q=%E6%8B%86%E5%BC%B9%E4%B8%93%E5%AE%B6&Refer=top)
+
+1. [黄奕工作室在易烊千玺超话晒票根](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A5%95%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9C%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B6%85%E8%AF%9D%E6%99%92%E7%A5%A8%E6%A0%B9%23&Refer=top)
+
+1. [牙齿的心声](https://s.weibo.com//weibo?q=%23%E7%89%99%E9%BD%BF%E7%9A%84%E5%BF%83%E5%A3%B0%23&Refer=top)
+
+1. [脆皮孜然豆腐](https://s.weibo.com//weibo?q=%23%E8%84%86%E7%9A%AE%E5%AD%9C%E7%84%B6%E8%B1%86%E8%85%90%23&Refer=top)
 
