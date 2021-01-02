@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-02 08:16:29
+## 微博今日热榜 更新于 2021-01-02 10:01:01
 1. [2021年1月起实施的新规](https://s.weibo.com//weibo?q=%232021%E5%B9%B41%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [郭德纲让张若昀对郭麒麟好点](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%AE%A9%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E7%82%B9%23&Refer=top)
@@ -170,4 +170,54 @@
 1. [2020女性瞬间](https://s.weibo.com//weibo?q=2020%E5%A5%B3%E6%80%A7%E7%9E%AC%E9%97%B4&Refer=top)
 
 1. [31省区市新增确诊22例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A22%E4%BE%8B%23&Refer=top)
+
+1. [杨超越说薛之谦玩笑一点也不好笑](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%AF%B4%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%8E%A9%E7%AC%91%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E5%A5%BD%E7%AC%91&Refer=top)
+
+1. [章子怡汪峰为儿子庆祝一周岁](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E6%B1%AA%E5%B3%B0%E4%B8%BA%E5%84%BF%E5%AD%90%E5%BA%86%E7%A5%9D%E4%B8%80%E5%91%A8%E5%B2%81&Refer=top)
+
+1. [岳云鹏演的吴晓昧的爱人](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%BC%94%E7%9A%84%E5%90%B4%E6%99%93%E6%98%A7%E7%9A%84%E7%88%B1%E4%BA%BA%23&Refer=top)
+
+1. [送你一朵小红花票房](https://s.weibo.com//weibo?q=%23%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E7%A5%A8%E6%88%BF%23&Refer=top)
+
+1. [父子核酸检测点殴打防疫民警被刑拘](https://s.weibo.com//weibo?q=%23%E7%88%B6%E5%AD%90%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%82%B9%E6%AE%B4%E6%89%93%E9%98%B2%E7%96%AB%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [撒贝宁让王俊凯把蛋糕带给王源千玺吃](https://s.weibo.com//weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E8%AE%A9%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8A%8A%E8%9B%8B%E7%B3%95%E5%B8%A6%E7%BB%99%E7%8E%8B%E6%BA%90%E5%8D%83%E7%8E%BA%E5%90%83&Refer=top)
+
+1. [北京新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [该不该向癌症患者隐瞒病情](https://s.weibo.com//weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%90%91%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E9%9A%90%E7%9E%92%E7%97%85%E6%83%85%23&Refer=top)
+
+1. [沈阳大哥做核酸检测自备塑料袋](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E5%A4%A7%E5%93%A5%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%87%AA%E5%A4%87%E5%A1%91%E6%96%99%E8%A2%8B&Refer=top)
+
+1. [创4新logo](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E6%96%B0logo%23&Refer=top)
+
+1. [见偶像前vs见偶像后](https://s.weibo.com//weibo?q=%23%E8%A7%81%E5%81%B6%E5%83%8F%E5%89%8Dvs%E8%A7%81%E5%81%B6%E5%83%8F%E5%90%8E%23&Refer=top)
+
+1. [女子醉酒不醒的哥暖心守护](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E9%86%89%E9%85%92%E4%B8%8D%E9%86%92%E7%9A%84%E5%93%A5%E6%9A%96%E5%BF%83%E5%AE%88%E6%8A%A4&Refer=top)
+
+1. [伊朗外长谴责美国阴谋编造战争借口](https://s.weibo.com//weibo?q=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E9%98%B4%E8%B0%8B%E7%BC%96%E9%80%A0%E6%88%98%E4%BA%89%E5%80%9F%E5%8F%A3&Refer=top)
+
+1. [大二男生自制160朵车厘子花送女友](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BA%8C%E7%94%B7%E7%94%9F%E8%87%AA%E5%88%B6160%E6%9C%B5%E8%BD%A6%E5%8E%98%E5%AD%90%E8%8A%B1%E9%80%81%E5%A5%B3%E5%8F%8B&Refer=top)
+
+1. [董子健说谢宏祖太凡了](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E8%AF%B4%E8%B0%A2%E5%AE%8F%E7%A5%96%E5%A4%AA%E5%87%A1%E4%BA%86%23&Refer=top)
+
+1. [拆弹专家2](https://s.weibo.com//weibo?q=%E6%8B%86%E5%BC%B9%E4%B8%93%E5%AE%B62&Refer=top)
+
+1. [如何假装自己去蹦迪](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%81%87%E8%A3%85%E8%87%AA%E5%B7%B1%E5%8E%BB%E8%B9%A6%E8%BF%AA%23&Refer=top)
+
+1. [烟台一汽车零部件外包装核酸阳性](https://s.weibo.com//weibo?q=%23%E7%83%9F%E5%8F%B0%E4%B8%80%E6%B1%BD%E8%BD%A6%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%A4%96%E5%8C%85%E8%A3%85%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [丁真和他的小伙伴幕后花絮](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%92%8C%E4%BB%96%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [艾芬](https://s.weibo.com//weibo?q=%E8%89%BE%E8%8A%AC&Refer=top)
+
+1. [蝴蝶结的系法](https://s.weibo.com//weibo?q=%23%E8%9D%B4%E8%9D%B6%E7%BB%93%E7%9A%84%E7%B3%BB%E6%B3%95%23&Refer=top)
+
+1. [元旦票房破6亿创新高](https://s.weibo.com//weibo?q=%E5%85%83%E6%97%A6%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF%E5%88%9B%E6%96%B0%E9%AB%98&Refer=top)
+
+1. [武汉今年第一位元旦宝宝](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%85%83%E6%97%A6%E5%AE%9D%E5%AE%9D%23&Refer=top)
+
+1. [元旦春节疫情防控提示](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%97%A6%E6%98%A5%E8%8A%82%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8F%90%E7%A4%BA%23&Refer=top)
+
+1. [SofM获2020年度MVP](https://s.weibo.com//weibo?q=%23SofM%E8%8E%B72020%E5%B9%B4%E5%BA%A6MVP%23&Refer=top)
 
