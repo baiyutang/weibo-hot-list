@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-03 13:16:32
+## 微博今日热榜 更新于 2021-01-03 14:08:22
 1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
 
 1. [章子怡问为什么都要当演员](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%A6%81%E5%BD%93%E6%BC%94%E5%91%98%23&Refer=top)
@@ -286,4 +286,26 @@
 1. [留学生在东北有多难](https://s.weibo.com//weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
 
 1. [2021LPL赛程](https://s.weibo.com//weibo?q=2021LPL%E8%B5%9B%E7%A8%8B&Refer=top)
+
+1. [鹿晗天官赐福动画主题曲](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%8A%A8%E7%94%BB%E4%B8%BB%E9%A2%98%E6%9B%B2&Refer=top)
+
+1. [高价订民宿遇脏乱差给差评不显示](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%BB%B7%E8%AE%A2%E6%B0%91%E5%AE%BF%E9%81%87%E8%84%8F%E4%B9%B1%E5%B7%AE%E7%BB%99%E5%B7%AE%E8%AF%84%E4%B8%8D%E6%98%BE%E7%A4%BA%23&Refer=top)
+
+1. [天官赐福](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [王一博 激动的我不知道说什么好](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E6%BF%80%E5%8A%A8%E7%9A%84%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93%E8%AF%B4%E4%BB%80%E4%B9%88%E5%A5%BD&Refer=top)
+
+1. [马嘉祺曾把邻居家的狗踩骨折](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%9B%BE%E6%8A%8A%E9%82%BB%E5%B1%85%E5%AE%B6%E7%9A%84%E7%8B%97%E8%B8%A9%E9%AA%A8%E6%8A%98%23&Refer=top)
+
+1. [西贝董事长称年轻人应该首选北上广](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%B4%9D%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BA%94%E8%AF%A5%E9%A6%96%E9%80%89%E5%8C%97%E4%B8%8A%E5%B9%BF%23&Refer=top)
+
+1. [原来猫是一种乐器](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8C%AB%E6%98%AF%E4%B8%80%E7%A7%8D%E4%B9%90%E5%99%A8%23&Refer=top)
+
+1. [这礼拜的时间错觉](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%A4%BC%E6%8B%9C%E7%9A%84%E6%97%B6%E9%97%B4%E9%94%99%E8%A7%89%23&Refer=top)
+
+1. [高诗岩抢断](https://s.weibo.com//weibo?q=%E9%AB%98%E8%AF%97%E5%B2%A9%E6%8A%A2%E6%96%AD&Refer=top)
+
+1. [VG战队更名RA](https://s.weibo.com//weibo?q=%23VG%E6%88%98%E9%98%9F%E6%9B%B4%E5%90%8DRA%23&Refer=top)
+
+1. [冰建景观里发现一条鱼](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%BB%BA%E6%99%AF%E8%A7%82%E9%87%8C%E5%8F%91%E7%8E%B0%E4%B8%80%E6%9D%A1%E9%B1%BC%23&Refer=top)
 
