@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-03 11:18:33
+## 微博今日热榜 更新于 2021-01-03 12:16:25
 1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
 
 1. [章子怡问为什么都要当演员](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%A6%81%E5%BD%93%E6%BC%94%E5%91%98%23&Refer=top)
@@ -244,4 +244,24 @@
 1. [一句话教你怼杠精](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%95%99%E4%BD%A0%E6%80%BC%E6%9D%A0%E7%B2%BE%23&Refer=top)
 
 1. [沃尔28分](https://s.weibo.com//weibo?q=%E6%B2%83%E5%B0%9428%E5%88%86&Refer=top)
+
+1. [我国首批新冠病毒疫苗开始接种](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E5%BC%80%E5%A7%8B%E6%8E%A5%E7%A7%8D%23&Refer=new_time)
+
+1. [北京时间是在西安产生的](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E6%98%AF%E5%9C%A8%E8%A5%BF%E5%AE%89%E4%BA%A7%E7%94%9F%E7%9A%84%23&Refer=top)
+
+1. [新疆赛里木湖现蓝冰拼图奇观](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%8E%B0%E8%93%9D%E5%86%B0%E6%8B%BC%E5%9B%BE%E5%A5%87%E8%A7%82&Refer=top)
+
+1. [肖战工作室土味横幅](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9C%9F%E5%91%B3%E6%A8%AA%E5%B9%85%23&Refer=top)
+
+1. [高铁一霸座女被罚款200元](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%80%E9%9C%B8%E5%BA%A7%E5%A5%B3%E8%A2%AB%E7%BD%9A%E6%AC%BE200%E5%85%83%23&Refer=top)
+
+1. [比特币突破3.2万美元](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B43.2%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [沧州一汽车零部件外包装检测阳性](https://s.weibo.com//weibo?q=%E6%B2%A7%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BD%A6%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%A4%96%E5%8C%85%E8%A3%85%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [当代读书人的迷茫](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E8%AF%BB%E4%B9%A6%E4%BA%BA%E7%9A%84%E8%BF%B7%E8%8C%AB%23&Refer=top)
+
+1. [全国目前有41个中风险地区](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%9C%8941%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [5米外飞扑克牌能削开易拉罐](https://s.weibo.com//weibo?q=%235%E7%B1%B3%E5%A4%96%E9%A3%9E%E6%89%91%E5%85%8B%E7%89%8C%E8%83%BD%E5%89%8A%E5%BC%80%E6%98%93%E6%8B%89%E7%BD%90%23&Refer=top)
 
