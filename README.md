@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 00:14:01
+## 微博今日热榜 更新于 2021-01-04 01:42:45
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [游客不顾景区路面结冰闯栏杆拍照](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E5%AE%A2%E4%B8%8D%E9%A1%BE%E6%99%AF%E5%8C%BA%E8%B7%AF%E9%9D%A2%E7%BB%93%E5%86%B0%E9%97%AF%E6%A0%8F%E6%9D%86%E6%8B%8D%E7%85%A7%23&Refer=top)
 
 1. [送你一朵小红花](https://s.weibo.com//weibo?q=%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1&Refer=top)
+
+1. [我国首批新冠病毒疫苗开始接种](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E5%BC%80%E5%A7%8B%E6%8E%A5%E7%A7%8D%23&Refer=new_time)
+
+1. [吴宣仪跳德善的狗腿舞](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E8%B7%B3%E5%BE%B7%E5%96%84%E7%9A%84%E7%8B%97%E8%85%BF%E8%88%9E%23&Refer=top)
+
+1. [18家企业已开展新冠疫苗产能建设](https://s.weibo.com//weibo?q=%2318%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%B7%B2%E5%BC%80%E5%B1%95%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BA%A7%E8%83%BD%E5%BB%BA%E8%AE%BE%23&Refer=top)
+
+1. [阳光之下](https://s.weibo.com//weibo?q=%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B&Refer=top)
 
