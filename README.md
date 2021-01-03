@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 03:23:27
+## 微博今日热榜 更新于 2021-01-04 04:08:41
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
 
 1. [安徽宿州燃气销售点起火爆炸](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E5%AE%BF%E5%B7%9E%E7%87%83%E6%B0%94%E9%94%80%E5%94%AE%E7%82%B9%E8%B5%B7%E7%81%AB%E7%88%86%E7%82%B8&Refer=top)
+
+1. [象限仪座流星雨](https://s.weibo.com//weibo?q=%E8%B1%A1%E9%99%90%E4%BB%AA%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&Refer=top)
 
