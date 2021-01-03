@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 06:08:38
+## 微博今日热榜 更新于 2021-01-04 07:15:27
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -126,4 +126,10 @@
 1. [象限仪座流星雨](https://s.weibo.com//weibo?q=%E8%B1%A1%E9%99%90%E4%BB%AA%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&Refer=top)
 
 1. [晴雅集](https://s.weibo.com//weibo?q=%E6%99%B4%E9%9B%85%E9%9B%86&Refer=top)
+
+1. [伊朗计划将浓缩铀丰度提高至20%](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%B0%86%E6%B5%93%E7%BC%A9%E9%93%80%E4%B8%B0%E5%BA%A6%E6%8F%90%E9%AB%98%E8%87%B320%25%23&Refer=top)
+
+1. [2021年的第一个工作日](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5&Refer=top)
+
+1. [接种新冠疫苗后也要戴口罩勤洗手](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%90%8E%E4%B9%9F%E8%A6%81%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%8B%A4%E6%B4%97%E6%89%8B%23&Refer=top)
 
