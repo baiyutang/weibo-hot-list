@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-03 19:12:19
+## 微博今日热榜 更新于 2021-01-03 20:05:05
 1. [2021跟人民空军一起起飞](https://s.weibo.com//weibo?q=%232021%E8%B7%9F%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E4%B8%80%E8%B5%B7%E8%B5%B7%E9%A3%9E%23&Refer=new_time)
 
 1. [章子怡问为什么都要当演员](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%A6%81%E5%BD%93%E6%BC%94%E5%91%98%23&Refer=top)
@@ -432,4 +432,14 @@
 1. [LCK联赛新LOGO](https://s.weibo.com//weibo?q=LCK%E8%81%94%E8%B5%9B%E6%96%B0LOGO&Refer=top)
 
 1. [鲁能宣布佩莱离队](https://s.weibo.com//weibo?q=%23%E9%B2%81%E8%83%BD%E5%AE%A3%E5%B8%83%E4%BD%A9%E8%8E%B1%E7%A6%BB%E9%98%9F%23&Refer=top)
+
+1. [日本考虑再次宣布紧急状态](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E8%80%83%E8%99%91%E5%86%8D%E6%AC%A1%E5%AE%A3%E5%B8%83%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [福建一温泉发生溜方事故9人受伤](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E4%B8%80%E6%B8%A9%E6%B3%89%E5%8F%91%E7%94%9F%E6%BA%9C%E6%96%B9%E4%BA%8B%E6%95%859%E4%BA%BA%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [创4拍摄路透](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E6%8B%8D%E6%91%84%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [天天向上开年大戏](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E5%BC%80%E5%B9%B4%E5%A4%A7%E6%88%8F&Refer=top)
+
+1. [广东梅州梅县突发山火](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A2%85%E5%B7%9E%E6%A2%85%E5%8E%BF%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB%23&Refer=top)
 
