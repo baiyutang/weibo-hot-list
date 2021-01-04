@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 13:18:34
+## 微博今日热榜 更新于 2021-01-04 14:09:50
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -310,4 +310,28 @@
 1. [天官赐福动画主题曲MV](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%8A%A8%E7%94%BB%E4%B8%BB%E9%A2%98%E6%9B%B2MV%23&Refer=top)
 
 1. [黄峥](https://s.weibo.com//weibo?q=%E9%BB%84%E5%B3%A5&Refer=top)
+
+1. [金星 我像郑爽这个年龄没她敢说](https://s.weibo.com//weibo?q=%E9%87%91%E6%98%9F%20%E6%88%91%E5%83%8F%E9%83%91%E7%88%BD%E8%BF%99%E4%B8%AA%E5%B9%B4%E9%BE%84%E6%B2%A1%E5%A5%B9%E6%95%A2%E8%AF%B4&Refer=top)
+
+1. [将门毒后](https://s.weibo.com//weibo?q=%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E&Refer=top)
+
+1. [不考虑工资最想做的职业](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%80%83%E8%99%91%E5%B7%A5%E8%B5%84%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E8%81%8C%E4%B8%9A%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [腾讯娱乐年度盛典阵容](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%A8%B1%E4%B9%90%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [谭谈交通春晚节目流出](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E8%B0%88%E4%BA%A4%E9%80%9A%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E6%B5%81%E5%87%BA%23&Refer=top)
+
+1. [肠粉在广东人心中的地位](https://s.weibo.com//weibo?q=%23%E8%82%A0%E7%B2%89%E5%9C%A8%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%BF%83%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D%23&Refer=top)
+
+1. [美国洛杉矶县多家殡仪馆已超过极限](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%BF%E5%A4%9A%E5%AE%B6%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%B7%B2%E8%B6%85%E8%BF%87%E6%9E%81%E9%99%90&Refer=top)
+
+1. [新冠病毒疫苗装盒画面](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%A3%85%E7%9B%92%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [全网最可爱的乒乓球训练员](https://s.weibo.com//weibo?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%B9%92%E4%B9%93%E7%90%83%E8%AE%AD%E7%BB%83%E5%91%98&Refer=top)
+
+1. [三毛逝世30周年](https://s.weibo.com//weibo?q=%E4%B8%89%E6%AF%9B%E9%80%9D%E4%B8%9630%E5%91%A8%E5%B9%B4&Refer=top)
+
+1. [原来女生穿西装这么绝](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A5%B3%E7%94%9F%E7%A9%BF%E8%A5%BF%E8%A3%85%E8%BF%99%E4%B9%88%E7%BB%9D%23&Refer=top)
 
