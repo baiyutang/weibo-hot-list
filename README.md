@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 07:15:27
+## 微博今日热榜 更新于 2021-01-04 08:18:51
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -132,4 +132,34 @@
 1. [2021年的第一个工作日](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5&Refer=top)
 
 1. [接种新冠疫苗后也要戴口罩勤洗手](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%90%8E%E4%B9%9F%E8%A6%81%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%8B%A4%E6%B4%97%E6%89%8B%23&Refer=top)
+
+1. [王思聪生日派对](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%80%9D%E8%81%AA%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9&Refer=top)
+
+1. [爱尔眼科称艾芬右眼失明与手术无关](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E7%A7%B0%E8%89%BE%E8%8A%AC%E5%8F%B3%E7%9C%BC%E5%A4%B1%E6%98%8E%E4%B8%8E%E6%89%8B%E6%9C%AF%E6%97%A0%E5%85%B3%23&Refer=top)
+
+1. [金莎粉丝群截图](https://s.weibo.com//weibo?q=%E9%87%91%E8%8E%8E%E7%B2%89%E4%B8%9D%E7%BE%A4%E6%88%AA%E5%9B%BE&Refer=top)
+
+1. [996](https://s.weibo.com//weibo?q=996&Refer=top)
+
+1. [张国荣试妆白蛇造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%9B%BD%E8%8D%A3%E8%AF%95%E5%A6%86%E7%99%BD%E8%9B%87%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [王一博京剧扮相唱长坂坡](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%AC%E5%89%A7%E6%89%AE%E7%9B%B8%E5%94%B1%E9%95%BF%E5%9D%82%E5%9D%A1%23&Refer=top)
+
+1. [广东梅州出动直升机灭山火](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E6%A2%85%E5%B7%9E%E5%87%BA%E5%8A%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%81%AD%E5%B1%B1%E7%81%AB&Refer=top)
+
+1. [元旦假期海南免税购物火爆](https://s.weibo.com//weibo?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E8%B4%AD%E7%89%A9%E7%81%AB%E7%88%86&Refer=top)
+
+1. [教资面试](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%23&Refer=top)
+
+1. [31省区市新增33例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E33%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [江南百景图](https://s.weibo.com//weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE&Refer=top)
+
+1. [内蒙古女篮斩获WCBA总冠军](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E5%A5%B3%E7%AF%AE%E6%96%A9%E8%8E%B7WCBA%E6%80%BB%E5%86%A0%E5%86%9B&Refer=top)
+
+1. [黑龙江新增1例确诊病例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [河北邢台南宫市全员非必要不出入南宫](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%A2%E5%8F%B0%E5%8D%97%E5%AE%AB%E5%B8%82%E5%85%A8%E5%91%98%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%85%A5%E5%8D%97%E5%AE%AB%23&Refer=top)
+
+1. [新年第一天护边员带国旗巡逻上山](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%8A%A4%E8%BE%B9%E5%91%98%E5%B8%A6%E5%9B%BD%E6%97%97%E5%B7%A1%E9%80%BB%E4%B8%8A%E5%B1%B1%23&Refer=top)
 
