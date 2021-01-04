@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 22:09:16
+## 微博今日热榜 更新于 2021-01-04 23:05:44
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -554,4 +554,34 @@
 1. [2020北京PM2.5年均浓度创记录](https://s.weibo.com//weibo?q=%232020%E5%8C%97%E4%BA%ACPM2.5%E5%B9%B4%E5%9D%87%E6%B5%93%E5%BA%A6%E5%88%9B%E8%AE%B0%E5%BD%95%23&Refer=top)
 
 1. [应急部披露襄汾饭店坍塌29死事故详情](https://s.weibo.com//weibo?q=%23%E5%BA%94%E6%80%A5%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%A5%84%E6%B1%BE%E9%A5%AD%E5%BA%97%E5%9D%8D%E5%A1%8C29%E6%AD%BB%E4%BA%8B%E6%95%85%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [北京一高校4名学生为确诊病例次密接](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E6%A0%A14%E5%90%8D%E5%AD%A6%E7%94%9F%E4%B8%BA%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E6%AC%A1%E5%AF%86%E6%8E%A5%23&Refer=top)
+
+1. [造型师否认李梦耍大牌](https://s.weibo.com//weibo?q=%E9%80%A0%E5%9E%8B%E5%B8%88%E5%90%A6%E8%AE%A4%E6%9D%8E%E6%A2%A6%E8%80%8D%E5%A4%A7%E7%89%8C&Refer=top)
+
+1. [微博播报](https://s.weibo.com//weibo?q=%E5%BE%AE%E5%8D%9A%E6%92%AD%E6%8A%A5&Refer=top)
+
+1. [许凯安慰粉丝](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%87%AF%E5%AE%89%E6%85%B0%E7%B2%89%E4%B8%9D%23&Refer=top)
+
+1. [周翡扑倒谢允](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E6%89%91%E5%80%92%E8%B0%A2%E5%85%81%23&Refer=top)
+
+1. [原来蜗牛是蛋生的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9C%97%E7%89%9B%E6%98%AF%E8%9B%8B%E7%94%9F%E7%9A%84%23&Refer=top)
+
+1. [河北疫情](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E7%96%AB%E6%83%85&Refer=top)
+
+1. [流金岁月男性角色盘点](https://s.weibo.com//weibo?q=%23%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88%E7%94%B7%E6%80%A7%E8%A7%92%E8%89%B2%E7%9B%98%E7%82%B9%23&Refer=top)
+
+1. [广州地铁回应珠江新城站冒白烟](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E%E7%AB%99%E5%86%92%E7%99%BD%E7%83%9F%23&Refer=top)
+
+1. [澳大利亚女警勇救落水中国留学生](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A5%B3%E8%AD%A6%E5%8B%87%E6%95%91%E8%90%BD%E6%B0%B4%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%23&Refer=top)
+
+1. [谢允喂周翡吃糯米鸭](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E5%96%82%E5%91%A8%E7%BF%A1%E5%90%83%E7%B3%AF%E7%B1%B3%E9%B8%AD%23&Refer=top)
+
+1. [朱锁锁被范金刚坑](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E8%A2%AB%E8%8C%83%E9%87%91%E5%88%9A%E5%9D%91%23&Refer=top)
+
+1. [石家庄市藁城区增村镇实行封闭管理](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%82%E8%97%81%E5%9F%8E%E5%8C%BA%E5%A2%9E%E6%9D%91%E9%95%87%E5%AE%9E%E8%A1%8C%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86&Refer=top)
+
+1. [2020年云南缴获毒品35.4吨](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%BA%91%E5%8D%97%E7%BC%B4%E8%8E%B7%E6%AF%92%E5%93%8135.4%E5%90%A8%23&Refer=top)
+
+1. [央视评不能让奋斗变了味](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E4%B8%8D%E8%83%BD%E8%AE%A9%E5%A5%8B%E6%96%97%E5%8F%98%E4%BA%86%E5%91%B3%23&Refer=top)
 
