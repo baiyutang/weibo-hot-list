@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 21:22:19
+## 微博今日热榜 更新于 2021-01-04 22:09:16
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -530,4 +530,28 @@
 1. [蒋南孙鼓励妈妈为自己而活](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8D%97%E5%AD%99%E9%BC%93%E5%8A%B1%E5%A6%88%E5%A6%88%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%80%8C%E6%B4%BB%23&Refer=top)
 
 1. [济南或将迎70年来最低温](https://s.weibo.com//weibo?q=%E6%B5%8E%E5%8D%97%E6%88%96%E5%B0%86%E8%BF%8E70%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%BD%8E%E6%B8%A9&Refer=top)
+
+1. [盛况](https://s.weibo.com//weibo?q=%E7%9B%9B%E5%86%B5&Refer=top)
+
+1. [李沁笑到打嗝](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E7%AC%91%E5%88%B0%E6%89%93%E5%97%9D%23&Refer=top)
+
+1. [孙悟空零号赤焰](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E9%9B%B6%E5%8F%B7%E8%B5%A4%E7%84%B0%23&Refer=top)
+
+1. [瑞典媒体曝光美国施压排除华为内幕](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%E5%AA%92%E4%BD%93%E6%9B%9D%E5%85%89%E7%BE%8E%E5%9B%BD%E6%96%BD%E5%8E%8B%E6%8E%92%E9%99%A4%E5%8D%8E%E4%B8%BA%E5%86%85%E5%B9%95&Refer=top)
+
+1. [逃离互联网大厂的年轻人](https://s.weibo.com//weibo?q=%23%E9%80%83%E7%A6%BB%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E5%8E%82%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top)
+
+1. [镜头下的街头艺人](https://s.weibo.com//weibo?q=%23%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E8%A1%97%E5%A4%B4%E8%89%BA%E4%BA%BA%23&Refer=top)
+
+1. [人类的倒霉各不相同](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%80%92%E9%9C%89%E5%90%84%E4%B8%8D%E7%9B%B8%E5%90%8C%23&Refer=top)
+
+1. [邓伦台词功底](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%8F%B0%E8%AF%8D%E5%8A%9F%E5%BA%95%23&Refer=top)
+
+1. [浙江12岁少年打破魔方中国纪录](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%93%E7%A0%B4%E9%AD%94%E6%96%B9%E4%B8%AD%E5%9B%BD%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [安徽宣城广德县3.3级地震](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E5%AE%A3%E5%9F%8E%E5%B9%BF%E5%BE%B7%E5%8E%BF3.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [2020北京PM2.5年均浓度创记录](https://s.weibo.com//weibo?q=%232020%E5%8C%97%E4%BA%ACPM2.5%E5%B9%B4%E5%9D%87%E6%B5%93%E5%BA%A6%E5%88%9B%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [应急部披露襄汾饭店坍塌29死事故详情](https://s.weibo.com//weibo?q=%23%E5%BA%94%E6%80%A5%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%A5%84%E6%B1%BE%E9%A5%AD%E5%BA%97%E5%9D%8D%E5%A1%8C29%E6%AD%BB%E4%BA%8B%E6%95%85%E8%AF%A6%E6%83%85%23&Refer=top)
 
