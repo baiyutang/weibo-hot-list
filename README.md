@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-05 00:15:49
+## 微博今日热榜 更新于 2021-01-05 01:46:06
 1. [走近民法典](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%91%E6%B0%91%E6%B3%95%E5%85%B8%23&Refer=new_time)
 
 1. [罗森便利店关东煮掉地上冲水接着卖](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%A3%AE%E4%BE%BF%E5%88%A9%E5%BA%97%E5%85%B3%E4%B8%9C%E7%85%AE%E6%8E%89%E5%9C%B0%E4%B8%8A%E5%86%B2%E6%B0%B4%E6%8E%A5%E7%9D%80%E5%8D%96%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [孙悟空零号赤焰](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E9%9B%B6%E5%8F%B7%E8%B5%A4%E7%84%B0%23&Refer=top)
 
 1. [浙江12岁少年打破魔方中国纪录](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F12%E5%B2%81%E5%B0%91%E5%B9%B4%E6%89%93%E7%A0%B4%E9%AD%94%E6%96%B9%E4%B8%AD%E5%9B%BD%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [拼多多](https://s.weibo.com//weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%23&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
 
