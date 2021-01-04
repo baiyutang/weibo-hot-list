@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 10:07:06
+## 微博今日热榜 更新于 2021-01-04 11:20:18
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -214,4 +214,32 @@
 1. [杜兰特隔扣布莱恩特](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B9%E9%9A%94%E6%89%A3%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9&Refer=top)
 
 1. [辽宁昨日6例本土确诊详情](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%98%A8%E6%97%A56%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [玄彬喜欢孙艺珍好明显](https://s.weibo.com//weibo?q=%E7%8E%84%E5%BD%AC%E5%96%9C%E6%AC%A2%E5%AD%99%E8%89%BA%E7%8F%8D%E5%A5%BD%E6%98%8E%E6%98%BE&Refer=top)
+
+1. [拼多多](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A&Refer=top)
+
+1. [特朗普](https://s.weibo.com//weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE&Refer=top)
+
+1. [王一博 没有一瞬间打过退堂鼓](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E6%B2%A1%E6%9C%89%E4%B8%80%E7%9E%AC%E9%97%B4%E6%89%93%E8%BF%87%E9%80%80%E5%A0%82%E9%BC%93&Refer=top)
+
+1. [四川乐山地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E5%9C%B0%E9%9C%87%23&Refer=top)
+
+1. [茅台](https://s.weibo.com//weibo?q=%E8%8C%85%E5%8F%B0&Refer=top)
+
+1. [女孩考第一被质疑后溺亡亲属发声](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E7%AC%AC%E4%B8%80%E8%A2%AB%E8%B4%A8%E7%96%91%E5%90%8E%E6%BA%BA%E4%BA%A1%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [bkpp](https://s.weibo.com//weibo?q=bkpp&Refer=top)
+
+1. [贵阳发现一中华秋沙鸭](https://s.weibo.com//weibo?q=%E8%B4%B5%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AD%E5%8D%8E%E7%A7%8B%E6%B2%99%E9%B8%AD&Refer=top)
+
+1. [漫展](https://s.weibo.com//weibo?q=%E6%BC%AB%E5%B1%95&Refer=top)
+
+1. [特朗普指责疾控中心夸大疫情数据](https://s.weibo.com//weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E8%B4%A3%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83%E5%A4%B8%E5%A4%A7%E7%96%AB%E6%83%85%E6%95%B0%E6%8D%AE&Refer=top)
+
+1. [西藏冒险王同伴回应遭网暴](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E5%86%92%E9%99%A9%E7%8E%8B%E5%90%8C%E4%BC%B4%E5%9B%9E%E5%BA%94%E9%81%AD%E7%BD%91%E6%9A%B4&Refer=top)
+
+1. [沈阳有16个中风险地区](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E6%9C%8916%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [库里单节21分](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C%E5%8D%95%E8%8A%8221%E5%88%86%23&Refer=top)
 
