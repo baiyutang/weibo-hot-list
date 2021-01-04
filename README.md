@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-05 03:22:31
+## 微博今日热榜 更新于 2021-01-05 04:09:37
 1. [走近民法典](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%91%E6%B0%91%E6%B3%95%E5%85%B8%23&Refer=new_time)
 
 1. [罗森便利店关东煮掉地上冲水接着卖](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%A3%AE%E4%BE%BF%E5%88%A9%E5%BA%97%E5%85%B3%E4%B8%9C%E7%85%AE%E6%8E%89%E5%9C%B0%E4%B8%8A%E5%86%B2%E6%B0%B4%E6%8E%A5%E7%9D%80%E5%8D%96%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [成都小伙接亲被要求先打麻将](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E5%B0%8F%E4%BC%99%E6%8E%A5%E4%BA%B2%E8%A2%AB%E8%A6%81%E6%B1%82%E5%85%88%E6%89%93%E9%BA%BB%E5%B0%86&Refer=top)
 
 1. [谢允喂周翡吃糯米鸭](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E5%96%82%E5%91%A8%E7%BF%A1%E5%90%83%E7%B3%AF%E7%B1%B3%E9%B8%AD%23&Refer=top)
+
+1. [流金岁月男性角色盘点](https://s.weibo.com//weibo?q=%23%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88%E7%94%B7%E6%80%A7%E8%A7%92%E8%89%B2%E7%9B%98%E7%82%B9%23&Refer=top)
 
