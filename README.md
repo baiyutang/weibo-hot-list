@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 18:16:47
+## 微博今日热榜 更新于 2021-01-04 19:14:10
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -458,4 +458,14 @@
 1. [婚前体检是否有必要](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E5%89%8D%E4%BD%93%E6%A3%80%E6%98%AF%E5%90%A6%E6%9C%89%E5%BF%85%E8%A6%81%23&Refer=top)
 
 1. [谢允后空翻好帅](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E5%90%8E%E7%A9%BA%E7%BF%BB%E5%A5%BD%E5%B8%85%23&Refer=top)
+
+1. [具惠善新恋情](https://s.weibo.com//weibo?q=%23%E5%85%B7%E6%83%A0%E5%96%84%E6%96%B0%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [知乎声明拼多多身份真实无误](https://s.weibo.com//weibo?q=%E7%9F%A5%E4%B9%8E%E5%A3%B0%E6%98%8E%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%BA%AB%E4%BB%BD%E7%9C%9F%E5%AE%9E%E6%97%A0%E8%AF%AF&Refer=top)
+
+1. [滴滴4.5万网约车司机全部核酸检测](https://s.weibo.com//weibo?q=%E6%BB%B4%E6%BB%B44.5%E4%B8%87%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%85%A8%E9%83%A8%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B&Refer=top)
+
+1. [周深说做歌手太幸福了](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E5%81%9A%E6%AD%8C%E6%89%8B%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86%23&Refer=top)
+
+1. [石家庄这两家医院全面禁止住院探视](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%BF%99%E4%B8%A4%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E4%BD%8F%E9%99%A2%E6%8E%A2%E8%A7%86&Refer=top)
 
