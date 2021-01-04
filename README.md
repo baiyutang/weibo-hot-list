@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-04 11:20:18
+## 微博今日热榜 更新于 2021-01-04 12:17:44
 1. [2020中国人的声音](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=new_time)
 
 1. [石原里美已于去年领证](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E%E5%B7%B2%E4%BA%8E%E5%8E%BB%E5%B9%B4%E9%A2%86%E8%AF%81%23&Refer=top)
@@ -242,4 +242,36 @@
 1. [沈阳有16个中风险地区](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E6%9C%8916%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
 
 1. [库里单节21分](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C%E5%8D%95%E8%8A%8221%E5%88%86%23&Refer=top)
+
+1. [贵州茅台股价突破2000元](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%E8%82%A1%E4%BB%B7%E7%AA%81%E7%A0%B42000%E5%85%83&Refer=top)
+
+1. [支付宝年度账单](https://s.weibo.com//weibo?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B9%B4%E5%BA%A6%E8%B4%A6%E5%8D%95&Refer=top)
+
+1. [小红花里的母子尴尬瞬间](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%BA%A2%E8%8A%B1%E9%87%8C%E7%9A%84%E6%AF%8D%E5%AD%90%E5%B0%B4%E5%B0%AC%E7%9E%AC%E9%97%B4&Refer=top)
+
+1. [沐浴之王](https://s.weibo.com//weibo?q=%E6%B2%90%E6%B5%B4%E4%B9%8B%E7%8E%8B&Refer=top)
+
+1. [张艺兴警察造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AD%A6%E5%AF%9F%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [重庆公安局原局长邓恢林被双开](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%85%AC%E5%AE%89%E5%B1%80%E5%8E%9F%E5%B1%80%E9%95%BF%E9%82%93%E6%81%A2%E6%9E%97%E8%A2%AB%E5%8F%8C%E5%BC%80&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [新娘父亲回应内衣不合身不让接亲](https://s.weibo.com//weibo?q=%E6%96%B0%E5%A8%98%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%86%85%E8%A1%A3%E4%B8%8D%E5%90%88%E8%BA%AB%E4%B8%8D%E8%AE%A9%E6%8E%A5%E4%BA%B2&Refer=top)
+
+1. [库里62分](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C62%E5%88%86%23&Refer=top)
+
+1. [美国考虑将新冠疫苗剂量减半](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%B0%86%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%89%82%E9%87%8F%E5%87%8F%E5%8D%8A%23&Refer=top)
+
+1. [小学生上课讲话不认错全班遭罚](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E8%AE%B2%E8%AF%9D%E4%B8%8D%E8%AE%A4%E9%94%99%E5%85%A8%E7%8F%AD%E9%81%AD%E7%BD%9A&Refer=top)
+
+1. [杭州元旦假期接待外地游客176万人次](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%8E%A5%E5%BE%85%E5%A4%96%E5%9C%B0%E6%B8%B8%E5%AE%A2176%E4%B8%87%E4%BA%BA%E6%AC%A1&Refer=top)
+
+1. [公司回应用高科技坐垫监视员工](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E7%94%A8%E9%AB%98%E7%A7%91%E6%8A%80%E5%9D%90%E5%9E%AB%E7%9B%91%E8%A7%86%E5%91%98%E5%B7%A5%23&Refer=top)
+
+1. [携程回应差评不显示](https://s.weibo.com//weibo?q=%E6%90%BA%E7%A8%8B%E5%9B%9E%E5%BA%94%E5%B7%AE%E8%AF%84%E4%B8%8D%E6%98%BE%E7%A4%BA&Refer=top)
+
+1. [扫黑风暴预告](https://s.weibo.com//weibo?q=%23%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [别人来旅游他是来探亲](https://s.weibo.com//weibo?q=%23%E5%88%AB%E4%BA%BA%E6%9D%A5%E6%97%85%E6%B8%B8%E4%BB%96%E6%98%AF%E6%9D%A5%E6%8E%A2%E4%BA%B2%23&Refer=top)
 
