@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-06 00:16:39
+## 微博今日热榜 更新于 2021-01-06 01:51:45
 1. [2021全军热血开训](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E5%86%9B%E7%83%AD%E8%A1%80%E5%BC%80%E8%AE%AD%23&Refer=new_time)
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com//weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top)
@@ -106,4 +106,18 @@
 1. [赖小民一审被判死刑](https://s.weibo.com//weibo?q=%23%E8%B5%96%E5%B0%8F%E6%B0%91%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&Refer=top)
 
 1. [谢宏祖朱锁锁好甜](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%9C%B1%E9%94%81%E9%94%81%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [杨洋你是我的荣耀杀青](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [酷我音乐因会员广告被罚5万元](https://s.weibo.com//weibo?q=%23%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E5%9B%A0%E4%BC%9A%E5%91%98%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A5%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [小红花里父亲的背影](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%BA%A2%E8%8A%B1%E9%87%8C%E7%88%B6%E4%BA%B2%E7%9A%84%E8%83%8C%E5%BD%B1%23&Refer=top)
+
+1. [柯滢雨中找杨雨泽断指](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E6%BB%A2%E9%9B%A8%E4%B8%AD%E6%89%BE%E6%9D%A8%E9%9B%A8%E6%B3%BD%E6%96%AD%E6%8C%87%23&Refer=top)
+
+1. [河北省进入战时状态](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E7%9C%81%E8%BF%9B%E5%85%A5%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [谢允用推云掌一命换一命](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E7%94%A8%E6%8E%A8%E4%BA%91%E6%8E%8C%E4%B8%80%E5%91%BD%E6%8D%A2%E4%B8%80%E5%91%BD%23&Refer=top)
+
+1. [河北大学放假](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%A4%A7%E5%AD%A6%E6%94%BE%E5%81%87%23&Refer=top)
 
