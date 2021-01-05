@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-06 02:28:46
+## 微博今日热榜 更新于 2021-01-06 03:22:55
 1. [2021全军热血开训](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E5%86%9B%E7%83%AD%E8%A1%80%E5%BC%80%E8%AE%AD%23&Refer=new_time)
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com//weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top)
@@ -124,4 +124,10 @@
 1. [十四五的自述](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%9B%9B%E4%BA%94%E7%9A%84%E8%87%AA%E8%BF%B0%23&Refer=new_time)
 
 1. [石家庄](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84&Refer=top)
+
+1. [甘肃天水公交车和救护车相撞坠桥](https://s.weibo.com//weibo?q=%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%92%8C%E6%95%91%E6%8A%A4%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%A1%A5&Refer=top)
+
+1. [MTV中文频道2月1日起停播](https://s.weibo.com//weibo?q=MTV%E4%B8%AD%E6%96%87%E9%A2%91%E9%81%932%E6%9C%881%E6%97%A5%E8%B5%B7%E5%81%9C%E6%92%AD&Refer=top)
+
+1. [王永正表白蒋南孙](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%B0%B8%E6%AD%A3%E8%A1%A8%E7%99%BD%E8%92%8B%E5%8D%97%E5%AD%99%23&Refer=top)
 
