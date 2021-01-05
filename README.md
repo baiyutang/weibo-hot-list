@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-05 12:17:55
+## 微博今日热榜 更新于 2021-01-05 13:19:10
 1. [走近民法典](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%91%E6%B0%91%E6%B3%95%E5%85%B8%23&Refer=new_time)
 
 1. [罗森便利店关东煮掉地上冲水接着卖](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%A3%AE%E4%BE%BF%E5%88%A9%E5%BA%97%E5%85%B3%E4%B8%9C%E7%85%AE%E6%8E%89%E5%9C%B0%E4%B8%8A%E5%86%B2%E6%B0%B4%E6%8E%A5%E7%9D%80%E5%8D%96%23&Refer=top)
@@ -260,4 +260,22 @@
 1. [杨幂独白被商品化感受](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E7%8B%AC%E7%99%BD%E8%A2%AB%E5%95%86%E5%93%81%E5%8C%96%E6%84%9F%E5%8F%97&Refer=top)
 
 1. [汽车兵把卡车开成了赛车](https://s.weibo.com//weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%85%B5%E6%8A%8A%E5%8D%A1%E8%BD%A6%E5%BC%80%E6%88%90%E4%BA%86%E8%B5%9B%E8%BD%A6%23&Refer=top)
+
+1. [金莎 不喜欢人家攻击我人格](https://s.weibo.com//weibo?q=%E9%87%91%E8%8E%8E%20%E4%B8%8D%E5%96%9C%E6%AC%A2%E4%BA%BA%E5%AE%B6%E6%94%BB%E5%87%BB%E6%88%91%E4%BA%BA%E6%A0%BC&Refer=top)
+
+1. [董子健拍刺杀小说家暴瘦40斤](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E6%8B%8D%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6%E6%9A%B4%E7%98%A640%E6%96%A4%23&Refer=top)
+
+1. [河北大学](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [男生反击猥亵少女者被批捕申请撤案](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%8F%8D%E5%87%BB%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3%E8%80%85%E8%A2%AB%E6%89%B9%E6%8D%95%E7%94%B3%E8%AF%B7%E6%92%A4%E6%A1%88%23&Refer=top)
+
+1. [人类幼崽模仿能力有多强](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E6%A8%A1%E4%BB%BF%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [听见她说收官](https://s.weibo.com//weibo?q=%23%E5%90%AC%E8%A7%81%E5%A5%B9%E8%AF%B4%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [你是讨好型人格么](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%E4%B9%88%23&Refer=top)
+
+1. [板野友美高桥奎二结婚](https://s.weibo.com//weibo?q=%E6%9D%BF%E9%87%8E%E5%8F%8B%E7%BE%8E%E9%AB%98%E6%A1%A5%E5%A5%8E%E4%BA%8C%E7%BB%93%E5%A9%9A&Refer=top)
+
+1. [衡水110名医护支援河北中风险地区](https://s.weibo.com//weibo?q=%E8%A1%A1%E6%B0%B4110%E5%90%8D%E5%8C%BB%E6%8A%A4%E6%94%AF%E6%8F%B4%E6%B2%B3%E5%8C%97%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA&Refer=top)
 
