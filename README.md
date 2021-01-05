@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-06 03:22:55
+## 微博今日热榜 更新于 2021-01-06 04:10:40
 1. [2021全军热血开训](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E5%86%9B%E7%83%AD%E8%A1%80%E5%BC%80%E8%AE%AD%23&Refer=new_time)
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com//weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top)
@@ -130,4 +130,8 @@
 1. [MTV中文频道2月1日起停播](https://s.weibo.com//weibo?q=MTV%E4%B8%AD%E6%96%87%E9%A2%91%E9%81%932%E6%9C%881%E6%97%A5%E8%B5%B7%E5%81%9C%E6%92%AD&Refer=top)
 
 1. [王永正表白蒋南孙](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%B0%B8%E6%AD%A3%E8%A1%A8%E7%99%BD%E8%92%8B%E5%8D%97%E5%AD%99%23&Refer=top)
+
+1. [每一剂新冠疫苗都有电子身份证](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E4%B8%80%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%83%BD%E6%9C%89%E7%94%B5%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=new_time)
+
+1. [雷军称不送充电器创意是他首创](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E4%B8%8D%E9%80%81%E5%85%85%E7%94%B5%E5%99%A8%E5%88%9B%E6%84%8F%E6%98%AF%E4%BB%96%E9%A6%96%E5%88%9B%23&Refer=top)
 
