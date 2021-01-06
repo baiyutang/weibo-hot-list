@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-06 13:20:55
+## 微博今日热榜 更新于 2021-01-06 14:12:20
 1. [2021全军热血开训](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E5%86%9B%E7%83%AD%E8%A1%80%E5%BC%80%E8%AE%AD%23&Refer=new_time)
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com//weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top)
@@ -352,4 +352,32 @@
 1. [欧文29分](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%8729%E5%88%86&Refer=top)
 
 1. [见过最可爱的儿童表演](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%84%BF%E7%AB%A5%E8%A1%A8%E6%BC%94%23&Refer=top)
+
+1. [盛况说和金莎恋爱可能性只有三成](https://s.weibo.com//weibo?q=%E7%9B%9B%E5%86%B5%E8%AF%B4%E5%92%8C%E9%87%91%E8%8E%8E%E6%81%8B%E7%88%B1%E5%8F%AF%E8%83%BD%E6%80%A7%E5%8F%AA%E6%9C%89%E4%B8%89%E6%88%90&Refer=top)
+
+1. [廊坊师范学院一学生确诊为无症状感染者](https://s.weibo.com//weibo?q=%E5%BB%8A%E5%9D%8A%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2%E4%B8%80%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
+
+1. [陈凯歌举报吐槽自己的up主](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E4%B8%BE%E6%8A%A5%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E7%9A%84up%E4%B8%BB%23&Refer=top)
+
+1. [青你3音乐导师李荣浩](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E9%9F%B3%E4%B9%90%E5%AF%BC%E5%B8%88%E6%9D%8E%E8%8D%A3%E6%B5%A9%23&Refer=top)
+
+1. [饿了么起诉饿了吗获赔1万元](https://s.weibo.com//weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E8%B5%B7%E8%AF%89%E9%A5%BF%E4%BA%86%E5%90%97%E8%8E%B7%E8%B5%941%E4%B8%87%E5%85%83&Refer=top)
+
+1. [黑龙江一确诊曾到女儿班级看护学生](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%A1%AE%E8%AF%8A%E6%9B%BE%E5%88%B0%E5%A5%B3%E5%84%BF%E7%8F%AD%E7%BA%A7%E7%9C%8B%E6%8A%A4%E5%AD%A6%E7%94%9F&Refer=top)
+
+1. [仙剑翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E7%BF%BB%E6%8B%8D%23&Refer=top)
+
+1. [安吉胖了](https://s.weibo.com//weibo?q=%E5%AE%89%E5%90%89%E8%83%96%E4%BA%86&Refer=top)
+
+1. [今冬寒冷的原因到底是什么](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%86%AC%E5%AF%92%E5%86%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88&Refer=top)
+
+1. [网传杭州有小学生感染新冠系谣言](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%AD%E5%B7%9E%E6%9C%89%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top)
+
+1. [北京泼水成冰](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%B3%BC%E6%B0%B4%E6%88%90%E5%86%B0&Refer=top)
+
+1. [美国反口罩男子感染后哭求人们戴口罩](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%8F%A3%E7%BD%A9%E7%94%B7%E5%AD%90%E6%84%9F%E6%9F%93%E5%90%8E%E5%93%AD%E6%B1%82%E4%BA%BA%E4%BB%AC%E6%88%B4%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [蔡徐坤首登TMEA](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%96%E7%99%BBTMEA%23&Refer=top)
+
+1. [沈阳一地升为中风险](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E4%B8%80%E5%9C%B0%E5%8D%87%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
 
