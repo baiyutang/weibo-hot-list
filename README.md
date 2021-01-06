@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-07 01:49:52
+## 微博今日热榜 更新于 2021-01-07 02:28:57
 1. [政务服务便民热线统一为12345](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%BE%BF%E6%B0%91%E7%83%AD%E7%BA%BF%E7%BB%9F%E4%B8%80%E4%B8%BA12345%23&Refer=new_time)
 
 1. [李菲儿微博评论](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [不同唇形涂口红的方式](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%8C%E5%94%87%E5%BD%A2%E6%B6%82%E5%8F%A3%E7%BA%A2%E7%9A%84%E6%96%B9%E5%BC%8F%23&Refer=top)
 
 1. [时速350公里复兴号高寒动车组亮相](https://s.weibo.com//weibo?q=%23%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E5%A4%8D%E5%85%B4%E5%8F%B7%E9%AB%98%E5%AF%92%E5%8A%A8%E8%BD%A6%E7%BB%84%E4%BA%AE%E7%9B%B8%23&Refer=top)
+
+1. [疫情防控7点微倡议](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A77%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
+
+1. [周深说曾把恐惧当饭吃](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%E8%AF%B4%E6%9B%BE%E6%8A%8A%E6%81%90%E6%83%A7%E5%BD%93%E9%A5%AD%E5%90%83&Refer=top)
 
