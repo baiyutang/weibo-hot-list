@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-06 20:06:59
+## 微博今日热榜 更新于 2021-01-06 21:23:09
 1. [2021全军热血开训](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E5%86%9B%E7%83%AD%E8%A1%80%E5%BC%80%E8%AE%AD%23&Refer=new_time)
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com//weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top)
@@ -536,4 +536,40 @@
 1. [电饭锅酱油鸡腿](https://s.weibo.com//weibo?q=%23%E7%94%B5%E9%A5%AD%E9%94%85%E9%85%B1%E6%B2%B9%E9%B8%A1%E8%85%BF%23&Refer=top)
 
 1. [猫咪和猫尾巴是两种生物](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E5%92%8C%E7%8C%AB%E5%B0%BE%E5%B7%B4%E6%98%AF%E4%B8%A4%E7%A7%8D%E7%94%9F%E7%89%A9%23&Refer=top)
+
+1. [河北邢台新冠病毒基因测序结果](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E9%82%A2%E5%8F%B0%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8F%E7%BB%93%E6%9E%9C&Refer=top)
+
+1. [杭州复阳无症状感染者曾去东莞](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%A4%8D%E9%98%B3%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E6%9B%BE%E5%8E%BB%E4%B8%9C%E8%8E%9E&Refer=top)
+
+1. [华春莹点赞竹内亮导演真实记录中国](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E7%82%B9%E8%B5%9E%E7%AB%B9%E5%86%85%E4%BA%AE%E5%AF%BC%E6%BC%94%E7%9C%9F%E5%AE%9E%E8%AE%B0%E5%BD%95%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [茶颜悦色回应反诉茶颜观色](https://s.weibo.com//weibo?q=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E5%8F%8D%E8%AF%89%E8%8C%B6%E9%A2%9C%E8%A7%82%E8%89%B2&Refer=top)
+
+1. [谭松韵名誉权案胜诉](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%90%8D%E8%AA%89%E6%9D%83%E6%A1%88%E8%83%9C%E8%AF%89%23&Refer=top)
+
+1. [香煎鸡胸肉饼](https://s.weibo.com//weibo?q=%23%E9%A6%99%E7%85%8E%E9%B8%A1%E8%83%B8%E8%82%89%E9%A5%BC%23&Refer=top)
+
+1. [谁在助推白酒股的暴涨](https://s.weibo.com//weibo?q=%23%E8%B0%81%E5%9C%A8%E5%8A%A9%E6%8E%A8%E7%99%BD%E9%85%92%E8%82%A1%E7%9A%84%E6%9A%B4%E6%B6%A8%23&Refer=top)
+
+1. [林俊杰唱的一路向北](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%94%B1%E7%9A%84%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97%23&Refer=top)
+
+1. [杭州新增病例密切接触者均为阴性](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%A6%E8%80%85%E5%9D%87%E4%B8%BA%E9%98%B4%E6%80%A7%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [文咏珊点赞Angelababy](https://s.weibo.com//weibo?q=%E6%96%87%E5%92%8F%E7%8F%8A%E7%82%B9%E8%B5%9EAngelababy&Refer=top)
+
+1. [1000名医务人员已抵达石家庄](https://s.weibo.com//weibo?q=%231000%E5%90%8D%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E5%B7%B2%E6%8A%B5%E8%BE%BE%E7%9F%B3%E5%AE%B6%E5%BA%84%23&Refer=top)
+
+1. [邢台疫情呈现出家庭单位聚集特点](https://s.weibo.com//weibo?q=%23%E9%82%A2%E5%8F%B0%E7%96%AB%E6%83%85%E5%91%88%E7%8E%B0%E5%87%BA%E5%AE%B6%E5%BA%AD%E5%8D%95%E4%BD%8D%E8%81%9A%E9%9B%86%E7%89%B9%E7%82%B9%23&Refer=top)
+
+1. [天津教资面试延期](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E5%BB%B6%E6%9C%9F&Refer=top)
+
+1. [周翡主动吻谢允](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E4%B8%BB%E5%8A%A8%E5%90%BB%E8%B0%A2%E5%85%81%23&Refer=top)
+
+1. [云朵夹心蛋挞](https://s.weibo.com//weibo?q=%23%E4%BA%91%E6%9C%B5%E5%A4%B9%E5%BF%83%E8%9B%8B%E6%8C%9E%23&Refer=top)
+
+1. [女孩独竹水上漂](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8B%AC%E7%AB%B9%E6%B0%B4%E4%B8%8A%E6%BC%82%23&Refer=top)
+
+1. [郑渊洁说容我先接待明星太太们](https://s.weibo.com//weibo?q=%E9%83%91%E6%B8%8A%E6%B4%81%E8%AF%B4%E5%AE%B9%E6%88%91%E5%85%88%E6%8E%A5%E5%BE%85%E6%98%8E%E6%98%9F%E5%A4%AA%E5%A4%AA%E4%BB%AC&Refer=top)
 
