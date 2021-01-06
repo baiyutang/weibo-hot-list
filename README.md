@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-07 05:06:09
+## 微博今日热榜 更新于 2021-01-07 06:09:20
 1. [政务服务便民热线统一为12345](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%BE%BF%E6%B0%91%E7%83%AD%E7%BA%BF%E7%BB%9F%E4%B8%80%E4%B8%BA12345%23&Refer=new_time)
 
 1. [李菲儿微博评论](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
