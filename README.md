@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-07 03:22:57
+## 微博今日热榜 更新于 2021-01-07 04:10:49
 1. [政务服务便民热线统一为12345](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%BE%BF%E6%B0%91%E7%83%AD%E7%BA%BF%E7%BB%9F%E4%B8%80%E4%B8%BA12345%23&Refer=new_time)
 
 1. [李菲儿微博评论](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [林俊杰唱的一路向北](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%94%B1%E7%9A%84%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97%23&Refer=top)
 
 1. [白宇花11块钱买了张自己的滑雪照](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%87%E8%8A%B111%E5%9D%97%E9%92%B1%E4%B9%B0%E4%BA%86%E5%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BB%91%E9%9B%AA%E7%85%A7%23&Refer=top)
+
+1. [蒋南孙替父还债](https://s.weibo.com//weibo?q=%E8%92%8B%E5%8D%97%E5%AD%99%E6%9B%BF%E7%88%B6%E8%BF%98%E5%80%BA&Refer=top)
 
