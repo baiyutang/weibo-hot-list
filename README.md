@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-06 08:19:10
+## 微博今日热榜 更新于 2021-01-06 10:08:48
 1. [2021全军热血开训](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E5%86%9B%E7%83%AD%E8%A1%80%E5%BC%80%E8%AE%AD%23&Refer=new_time)
 
 1. [谈莉娜 未等到的东西会等到嘛](https://s.weibo.com//weibo?q=%E8%B0%88%E8%8E%89%E5%A8%9C%20%E6%9C%AA%E7%AD%89%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%BC%9A%E7%AD%89%E5%88%B0%E5%98%9B&Refer=top)
@@ -192,4 +192,56 @@
 1. [辽宁新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
 1. [石家庄累计完成52784人份核酸检测](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%B4%AF%E8%AE%A1%E5%AE%8C%E6%88%9052784%E4%BA%BA%E4%BB%BD%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [全国冻哭预警](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E5%86%BB%E5%93%AD%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [侃爷卡戴珊离婚](https://s.weibo.com//weibo?q=%E4%BE%83%E7%88%B7%E5%8D%A1%E6%88%B4%E7%8F%8A%E7%A6%BB%E5%A9%9A&Refer=top)
+
+1. [河北新增20例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A2%9E20%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [特朗普签令禁止与8款中国应用交易](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4%E7%A6%81%E6%AD%A2%E4%B8%8E8%E6%AC%BE%E4%B8%AD%E5%9B%BD%E5%BA%94%E7%94%A8%E4%BA%A4%E6%98%93%23&Refer=top)
+
+1. [上海白领体检异常率99%](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%99%BD%E9%A2%86%E4%BD%93%E6%A3%80%E5%BC%82%E5%B8%B8%E7%8E%8799%25%23&Refer=top)
+
+1. [大连88岁新冠肺炎确诊患者出院](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E88%E5%B2%81%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E5%87%BA%E9%99%A2&Refer=top)
+
+1. [石家庄全寄宿学校实行全封闭管理](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%85%A8%E5%AF%84%E5%AE%BF%E5%AD%A6%E6%A0%A1%E5%AE%9E%E8%A1%8C%E5%85%A8%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86&Refer=top)
+
+1. [宋运辉梁思申关系被误会](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BF%90%E8%BE%89%E6%A2%81%E6%80%9D%E7%94%B3%E5%85%B3%E7%B3%BB%E8%A2%AB%E8%AF%AF%E4%BC%9A%23&Refer=top)
+
+1. [港警今早至少拘捕50人](https://s.weibo.com//weibo?q=%E6%B8%AF%E8%AD%A6%E4%BB%8A%E6%97%A9%E8%87%B3%E5%B0%91%E6%8B%98%E6%8D%9550%E4%BA%BA&Refer=top)
+
+1. [石家庄客运总站暂时停运](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%AE%A2%E8%BF%90%E6%80%BB%E7%AB%99%E6%9A%82%E6%97%B6%E5%81%9C%E8%BF%90&Refer=top)
+
+1. [杨幂演技](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [拼多多员工去世后股价再次暴涨](https://s.weibo.com//weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%91%98%E5%B7%A5%E5%8E%BB%E4%B8%96%E5%90%8E%E8%82%A1%E4%BB%B7%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%23&Refer=top)
+
+1. [付豪](https://s.weibo.com//weibo?q=%E4%BB%98%E8%B1%AA&Refer=top)
+
+1. [老师晚自习带学生看工地加班](https://s.weibo.com//weibo?q=%E8%80%81%E5%B8%88%E6%99%9A%E8%87%AA%E4%B9%A0%E5%B8%A6%E5%AD%A6%E7%94%9F%E7%9C%8B%E5%B7%A5%E5%9C%B0%E5%8A%A0%E7%8F%AD&Refer=top)
+
+1. [重庆现蘑菇林地铁站](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E7%8E%B0%E8%98%91%E8%8F%87%E6%9E%97%E5%9C%B0%E9%93%81%E7%AB%99%23&Refer=top)
+
+1. [河北境内多条高速禁止上道](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%A2%83%E5%86%85%E5%A4%9A%E6%9D%A1%E9%AB%98%E9%80%9F%E7%A6%81%E6%AD%A2%E4%B8%8A%E9%81%93%23&Refer=top)
+
+1. [喜欢的人拿着花向你奔来](https://s.weibo.com//weibo?q=%23%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E6%8B%BF%E7%9D%80%E8%8A%B1%E5%90%91%E4%BD%A0%E5%A5%94%E6%9D%A5%23&Refer=top)
+
+1. [南京一隧道失火致2辆轿车烧毁](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E4%B8%80%E9%9A%A7%E9%81%93%E5%A4%B1%E7%81%AB%E8%87%B42%E8%BE%86%E8%BD%BF%E8%BD%A6%E7%83%A7%E6%AF%81&Refer=top)
+
+1. [蝴蝶结还能这么玩](https://s.weibo.com//weibo?q=%23%E8%9D%B4%E8%9D%B6%E7%BB%93%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%8E%A9%23&Refer=top)
+
+1. [国家卫健委主任赴河北](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E4%B8%BB%E4%BB%BB%E8%B5%B4%E6%B2%B3%E5%8C%97&Refer=top)
+
+1. [北京气温](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%B0%94%E6%B8%A9&Refer=top)
+
+1. [河北20例确诊病例行动轨迹](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%9720%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%A1%8C%E5%8A%A8%E8%BD%A8%E8%BF%B9&Refer=top)
+
+1. [全国中高风险地区图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E5%9B%BE%23&Refer=top)
+
+1. [西班牙发现至少50例变异新冠病毒感染者](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8F%91%E7%8E%B0%E8%87%B3%E5%B0%9150%E4%BE%8B%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [浙江新增1例西班牙输入无症状](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BE%93%E5%85%A5%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [彭斯告诉特朗普自己无权改变大选结果](https://s.weibo.com//weibo?q=%E5%BD%AD%E6%96%AF%E5%91%8A%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E5%B7%B1%E6%97%A0%E6%9D%83%E6%94%B9%E5%8F%98%E5%A4%A7%E9%80%89%E7%BB%93%E6%9E%9C&Refer=top)
 
