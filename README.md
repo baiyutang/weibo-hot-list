@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 02:29:40
+## 微博今日热榜 更新于 2021-01-08 03:19:25
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -132,4 +132,10 @@
 1. [徐梦洁像踩着平衡车领的奖](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%E5%83%8F%E8%B8%A9%E7%9D%80%E5%B9%B3%E8%A1%A1%E8%BD%A6%E9%A2%86%E7%9A%84%E5%A5%96%23&Refer=top)
 
 1. [河北南宫新增2例阳性](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%8D%97%E5%AE%AB%E6%96%B0%E5%A2%9E2%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
 
