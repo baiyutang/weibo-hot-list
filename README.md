@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-07 21:23:48
+## 微博今日热榜 更新于 2021-01-07 22:10:00
 1. [政务服务便民热线统一为12345](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%BE%BF%E6%B0%91%E7%83%AD%E7%BA%BF%E7%BB%9F%E4%B8%80%E4%B8%BA12345%23&Refer=new_time)
 
 1. [李菲儿微博评论](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
@@ -550,4 +550,38 @@
 1. [青岛海域现海浩奇观](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E6%B5%B7%E5%9F%9F%E7%8E%B0%E6%B5%B7%E6%B5%A9%E5%A5%87%E8%A7%82%23&Refer=top)
 
 1. [中式碎鸡饭](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%BC%8F%E7%A2%8E%E9%B8%A1%E9%A5%AD&Refer=top)
+
+1. [大连24例感染者经4次以上核酸后呈阳性](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E24%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%E7%BB%8F4%E6%AC%A1%E4%BB%A5%E4%B8%8A%E6%A0%B8%E9%85%B8%E5%90%8E%E5%91%88%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [李晋晔王骁詹秋怡拿offer](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%8B%E6%99%94%E7%8E%8B%E9%AA%81%E8%A9%B9%E7%A7%8B%E6%80%A1%E6%8B%BFoffer%23&Refer=top)
+
+1. [新郎结完婚把新娘忘在酒店](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%83%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E6%96%B0%E5%A8%98%E5%BF%98%E5%9C%A8%E9%85%92%E5%BA%97%23&Refer=top)
+
+1. [多家银行着手清理个人睡眠账户](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E7%9D%80%E6%89%8B%E6%B8%85%E7%90%86%E4%B8%AA%E4%BA%BA%E7%9D%A1%E7%9C%A0%E8%B4%A6%E6%88%B7%23&Refer=top)
+
+1. [范丞丞妈妈就是我妈妈本人](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A6%88%E5%A6%88%E5%B0%B1%E6%98%AF%E6%88%91%E5%A6%88%E5%A6%88%E6%9C%AC%E4%BA%BA%23&Refer=top)
+
+1. [广州荔湾广场全员核酸检测只是演练](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%8D%94%E6%B9%BE%E5%B9%BF%E5%9C%BA%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8F%AA%E6%98%AF%E6%BC%94%E7%BB%83%23&Refer=top)
+
+1. [巡回检察组](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84&Refer=top)
+
+1. [华信信托董事长用锤子打伤总经理](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%BF%A1%E4%BF%A1%E6%89%98%E8%91%A3%E4%BA%8B%E9%95%BF%E7%94%A8%E9%94%A4%E5%AD%90%E6%89%93%E4%BC%A4%E6%80%BB%E7%BB%8F%E7%90%86&Refer=top)
+
+1. [公交公司再回应老人不会扫码被赶](https://s.weibo.com//weibo?q=%E5%85%AC%E4%BA%A4%E5%85%AC%E5%8F%B8%E5%86%8D%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E4%B8%8D%E4%BC%9A%E6%89%AB%E7%A0%81%E8%A2%AB%E8%B5%B6&Refer=top)
+
+1. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [消防员彻夜灭火被冻成冰人](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%BD%BB%E5%A4%9C%E7%81%AD%E7%81%AB%E8%A2%AB%E5%86%BB%E6%88%90%E5%86%B0%E4%BA%BA%23&Refer=top)
+
+1. [无敌万能眼影公式](https://s.weibo.com//weibo?q=%23%E6%97%A0%E6%95%8C%E4%B8%87%E8%83%BD%E7%9C%BC%E5%BD%B1%E5%85%AC%E5%BC%8F%23&Refer=top)
+
+1. [美国国会骚乱中枪身亡女子系退伍女兵](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E9%AA%9A%E4%B9%B1%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E7%B3%BB%E9%80%80%E4%BC%8D%E5%A5%B3%E5%85%B5%23&Refer=top)
+
+1. [外交部回应美方考虑将阿里腾讯拉黑](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E8%80%83%E8%99%91%E5%B0%86%E9%98%BF%E9%87%8C%E8%85%BE%E8%AE%AF%E6%8B%89%E9%BB%91&Refer=top)
+
+1. [华春莹反讽蓬佩奥应考虑下自我制裁](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%8F%8D%E8%AE%BD%E8%93%AC%E4%BD%A9%E5%A5%A5%E5%BA%94%E8%80%83%E8%99%91%E4%B8%8B%E8%87%AA%E6%88%91%E5%88%B6%E8%A3%81%23&Refer=top)
+
+1. [如何看待老年代步车事故频发](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%80%81%E5%B9%B4%E4%BB%A3%E6%AD%A5%E8%BD%A6%E4%BA%8B%E6%95%85%E9%A2%91%E5%8F%91%23&Refer=top)
+
+1. [河北南宫新增2例阳性](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%8D%97%E5%AE%AB%E6%96%B0%E5%A2%9E2%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top)
 
