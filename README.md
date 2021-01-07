@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-07 13:23:00
+## 微博今日热榜 更新于 2021-01-07 14:12:21
 1. [政务服务便民热线统一为12345](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E4%BE%BF%E6%B0%91%E7%83%AD%E7%BA%BF%E7%BB%9F%E4%B8%80%E4%B8%BA12345%23&Refer=new_time)
 
 1. [李菲儿微博评论](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
@@ -324,4 +324,40 @@
 1. [壶口瀑布落差消失](https://s.weibo.com//weibo?q=%E5%A3%B6%E5%8F%A3%E7%80%91%E5%B8%83%E8%90%BD%E5%B7%AE%E6%B6%88%E5%A4%B1&Refer=top)
 
 1. [莫奈彩绘风美甲](https://s.weibo.com//weibo?q=%23%E8%8E%AB%E5%A5%88%E5%BD%A9%E7%BB%98%E9%A3%8E%E7%BE%8E%E7%94%B2%23&Refer=top)
+
+1. [河北5天新增234例感染者](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%975%E5%A4%A9%E6%96%B0%E5%A2%9E234%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [青你3舞蹈导师Lisa](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E8%88%9E%E8%B9%88%E5%AF%BC%E5%B8%88Lisa%23&Refer=top)
+
+1. [赵丽颖为河北加油](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%BA%E6%B2%B3%E5%8C%97%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [石家庄核酸检测现场](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [华春莹问有没有闻到一股酸味](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%98%A5%E8%8E%B9%E9%97%AE%E6%9C%89%E6%B2%A1%E6%9C%89%E9%97%BB%E5%88%B0%E4%B8%80%E8%82%A1%E9%85%B8%E5%91%B3&Refer=top)
+
+1. [冷冷冷](https://s.weibo.com//weibo?q=%23%E5%86%B7%E5%86%B7%E5%86%B7%23&Refer=top)
+
+1. [不同老师没收学生手机](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%8C%E8%80%81%E5%B8%88%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%23&Refer=top)
+
+1. [美国会暴乱造成4人死亡](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%9A%E6%9A%B4%E4%B9%B1%E9%80%A0%E6%88%904%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [戚薇戴墨镜撞脸米老鼠](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E6%88%B4%E5%A2%A8%E9%95%9C%E6%92%9E%E8%84%B8%E7%B1%B3%E8%80%81%E9%BC%A0%23&Refer=top)
+
+1. [民警玩手机意外刷到逃犯做直播](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%84%8F%E5%A4%96%E5%88%B7%E5%88%B0%E9%80%83%E7%8A%AF%E5%81%9A%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [张新成秋衣穿多了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E7%A7%8B%E8%A1%A3%E7%A9%BF%E5%A4%9A%E4%BA%86%23&Refer=top)
+
+1. [辉瑞疫苗接种后已报告21起过敏反应](https://s.weibo.com//weibo?q=%E8%BE%89%E7%91%9E%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%90%8E%E5%B7%B2%E6%8A%A5%E5%91%8A21%E8%B5%B7%E8%BF%87%E6%95%8F%E5%8F%8D%E5%BA%94&Refer=top)
+
+1. [章子怡编辑记录](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E7%BC%96%E8%BE%91%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [格林恶意犯规](https://s.weibo.com//weibo?q=%E6%A0%BC%E6%9E%97%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84&Refer=top)
+
+1. [周奇胖了](https://s.weibo.com//weibo?q=%E5%91%A8%E5%A5%87%E8%83%96%E4%BA%86&Refer=top)
+
+1. [范丞丞程潇合唱OST](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A8%8B%E6%BD%87%E5%90%88%E5%94%B1OST%23&Refer=top)
+
+1. [黑龙江新增1例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [华盛顿公共紧急状态延长15天](https://s.weibo.com//weibo?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%85%AC%E5%85%B1%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%E5%BB%B6%E9%95%BF15%E5%A4%A9&Refer=top)
 
