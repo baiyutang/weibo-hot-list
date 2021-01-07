@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 06:09:35
+## 微博今日热榜 更新于 2021-01-08 07:18:53
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -146,4 +146,6 @@
 1. [江苏省级医疗队驰援河北](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%BA%A7%E5%8C%BB%E7%96%97%E9%98%9F%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97&Refer=top)
 
 1. [大江大河2高能饭局](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B32%E9%AB%98%E8%83%BD%E9%A5%AD%E5%B1%80%23&Refer=top)
+
+1. [法考](https://s.weibo.com//weibo?q=%E6%B3%95%E8%80%83&Refer=top)
 
