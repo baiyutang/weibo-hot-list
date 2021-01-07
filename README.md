@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 04:08:35
+## 微博今日热榜 更新于 2021-01-08 05:07:12
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -142,4 +142,6 @@
 1. [2020的20个温暖瞬间](https://s.weibo.com//weibo?q=%232020%E7%9A%8420%E4%B8%AA%E6%B8%A9%E6%9A%96%E7%9E%AC%E9%97%B4%23&Refer=new_time)
 
 1. [伊拉克司法机构对特朗普发逮捕令](https://s.weibo.com//weibo?q=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%8F%B8%E6%B3%95%E6%9C%BA%E6%9E%84%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E9%80%AE%E6%8D%95%E4%BB%A4&Refer=top)
+
+1. [江苏省级医疗队驰援河北](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%BA%A7%E5%8C%BB%E7%96%97%E9%98%9F%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97&Refer=top)
 
