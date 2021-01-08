@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 22:11:28
+## 微博今日热榜 更新于 2021-01-08 23:07:43
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -608,4 +608,28 @@
 1. [足协宣布80%俱乐部更名符合要求](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E5%8D%8F%E5%AE%A3%E5%B8%8380%25%E4%BF%B1%E4%B9%90%E9%83%A8%E6%9B%B4%E5%90%8D%E7%AC%A6%E5%90%88%E8%A6%81%E6%B1%82%23&Refer=top)
 
 1. [许嵩](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9&Refer=top)
+
+1. [郑爽关注李钟硕](https://s.weibo.com//weibo?q=%E9%83%91%E7%88%BD%E5%85%B3%E6%B3%A8%E6%9D%8E%E9%92%9F%E7%A1%95&Refer=top)
+
+1. [小鹿](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%B9%BF&Refer=top)
+
+1. [抚州](https://s.weibo.com//weibo?q=%E6%8A%9A%E5%B7%9E&Refer=top)
+
+1. [华春莹5个为什么反问对美对港双标](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B95%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8D%E9%97%AE%E5%AF%B9%E7%BE%8E%E5%AF%B9%E6%B8%AF%E5%8F%8C%E6%A0%87%23&Refer=top)
+
+1. [宋运辉说不要干涉我](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%BF%90%E8%BE%89%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%B9%B2%E6%B6%89%E6%88%91&Refer=top)
+
+1. [维拉14人感染新冠](https://s.weibo.com//weibo?q=%E7%BB%B4%E6%8B%8914%E4%BA%BA%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [中高风险区域地市名称行程卡不再标红](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%E5%9C%B0%E5%B8%82%E5%90%8D%E7%A7%B0%E8%A1%8C%E7%A8%8B%E5%8D%A1%E4%B8%8D%E5%86%8D%E6%A0%87%E7%BA%A2%23&Refer=top)
+
+1. [朱锁锁抓包谢宏祖偷吃牛排](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E6%8A%93%E5%8C%85%E8%B0%A2%E5%AE%8F%E7%A5%96%E5%81%B7%E5%90%83%E7%89%9B%E6%8E%92%23&Refer=top)
+
+1. [女孩子发自拍时该怎么夸](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%8F%91%E8%87%AA%E6%8B%8D%E6%97%B6%E8%AF%A5%E6%80%8E%E4%B9%88%E5%A4%B8%23&Refer=top)
+
+1. [五月天桃园演唱会](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%A1%83%E5%9B%AD%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [饿了么猝死骑手家属称需要道歉](https://s.weibo.com//weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E7%8C%9D%E6%AD%BB%E9%AA%91%E6%89%8B%E5%AE%B6%E5%B1%9E%E7%A7%B0%E9%9C%80%E8%A6%81%E9%81%93%E6%AD%89&Refer=top)
+
+1. [XYG战胜QG](https://s.weibo.com//weibo?q=XYG%E6%88%98%E8%83%9CQG&Refer=top)
 
