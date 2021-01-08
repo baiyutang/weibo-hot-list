@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 16:13:35
+## 微博今日热榜 更新于 2021-01-08 17:20:47
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -412,4 +412,30 @@
 1. [河北南宫举报未核酸检测人员奖励500元](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%8D%97%E5%AE%AB%E4%B8%BE%E6%8A%A5%E6%9C%AA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BA%BA%E5%91%98%E5%A5%96%E5%8A%B1500%E5%85%83%23&Refer=top)
 
 1. [单身狗生活技能](https://s.weibo.com//weibo?q=%23%E5%8D%95%E8%BA%AB%E7%8B%97%E7%94%9F%E6%B4%BB%E6%8A%80%E8%83%BD%23&Refer=top)
+
+1. [ZARA三个姊妹品牌将关闭中国线下门店](https://s.weibo.com//weibo?q=%23ZARA%E4%B8%89%E4%B8%AA%E5%A7%8A%E5%A6%B9%E5%93%81%E7%89%8C%E5%B0%86%E5%85%B3%E9%97%AD%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8B%E9%97%A8%E5%BA%97%23&Refer=top)
+
+1. [河北目前阳性病例是由一起疫情串起](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%9B%AE%E5%89%8D%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%E6%98%AF%E7%94%B1%E4%B8%80%E8%B5%B7%E7%96%AB%E6%83%85%E4%B8%B2%E8%B5%B7%23&Refer=top)
+
+1. [朴有天](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%9C%89%E5%A4%A9&Refer=top)
+
+1. [宋祖儿 想给我的关键词脱个水](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E6%83%B3%E7%BB%99%E6%88%91%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D%E8%84%B1%E4%B8%AA%E6%B0%B4&Refer=top)
+
+1. [黄奕 每个女孩子都比想象中坚强](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E6%AF%8F%E4%B8%AA%E5%A5%B3%E5%AD%A9%E5%AD%90%E9%83%BD%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9D%9A%E5%BC%BA&Refer=top)
+
+1. [一不小心就失去了择偶权](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%B1%E5%A4%B1%E5%8E%BB%E4%BA%86%E6%8B%A9%E5%81%B6%E6%9D%83%23&Refer=top)
+
+1. [大连新增本土无症状1例](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61%E4%BE%8B%23&Refer=top)
+
+1. [石家庄市9地升为中风险](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%829%E5%9C%B0%E5%8D%87%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [时尚博主雅鲁藏布江女人去世](https://s.weibo.com//weibo?q=%E6%97%B6%E5%B0%9A%E5%8D%9A%E4%B8%BB%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E5%A5%B3%E4%BA%BA%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [可以查鲁迅说过的话的网站](https://s.weibo.com//weibo?q=%E5%8F%AF%E4%BB%A5%E6%9F%A5%E9%B2%81%E8%BF%85%E8%AF%B4%E8%BF%87%E7%9A%84%E8%AF%9D%E7%9A%84%E7%BD%91%E7%AB%99&Refer=top)
+
+1. [雅鲁藏布江女人](https://s.weibo.com//weibo?q=%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E5%A5%B3%E4%BA%BA&Refer=top)
+
+1. [保障石家庄邢台应急运输车辆顺畅通行](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%82%A2%E5%8F%B0%E5%BA%94%E6%80%A5%E8%BF%90%E8%BE%93%E8%BD%A6%E8%BE%86%E9%A1%BA%E7%95%85%E9%80%9A%E8%A1%8C%23&Refer=top)
+
+1. [华裔女议员亲述被困国会经历](https://s.weibo.com//weibo?q=%E5%8D%8E%E8%A3%94%E5%A5%B3%E8%AE%AE%E5%91%98%E4%BA%B2%E8%BF%B0%E8%A2%AB%E5%9B%B0%E5%9B%BD%E4%BC%9A%E7%BB%8F%E5%8E%86&Refer=top)
 
