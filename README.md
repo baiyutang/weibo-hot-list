@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 00:19:02
+## 微博今日热榜 更新于 2021-01-09 01:53:03
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [饿了么回应外卖员送餐路上猝死](https://s.weibo.com//weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8D%96%E5%91%98%E9%80%81%E9%A4%90%E8%B7%AF%E4%B8%8A%E7%8C%9D%E6%AD%BB%23&Refer=top)
 
 1. [朱锁锁谢宏祖什么时候在一起](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E8%B0%A2%E5%AE%8F%E7%A5%96%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%9C%A8%E4%B8%80%E8%B5%B7%23&Refer=top)
+
+1. [重点人群接种新冠疫苗的22个问题](https://s.weibo.com//weibo?q=%23%E9%87%8D%E7%82%B9%E4%BA%BA%E7%BE%A4%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%9A%8422%E4%B8%AA%E9%97%AE%E9%A2%98%23&Refer=new_time)
+
+1. [于和伟演技共情力](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E6%BC%94%E6%8A%80%E5%85%B1%E6%83%85%E5%8A%9B%23&Refer=top)
+
+1. [河北疫情](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [张云雷红毯首秀](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E7%BA%A2%E6%AF%AF%E9%A6%96%E7%A7%80%23&Refer=top)
 
