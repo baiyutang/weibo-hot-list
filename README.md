@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 07:18:53
+## 微博今日热榜 更新于 2021-01-08 08:21:58
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -148,4 +148,46 @@
 1. [大江大河2高能饭局](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B32%E9%AB%98%E8%83%BD%E9%A5%AD%E5%B1%80%23&Refer=top)
 
 1. [法考](https://s.weibo.com//weibo?q=%E6%B3%95%E8%80%83&Refer=top)
+
+1. [曹颖儿子](https://s.weibo.com//weibo?q=%E6%9B%B9%E9%A2%96%E5%84%BF%E5%AD%90&Refer=top)
+
+1. [美国交通部长赵小兰辞职](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%BF%E8%B5%B5%E5%B0%8F%E5%85%B0%E8%BE%9E%E8%81%8C&Refer=top)
+
+1. [马斯克成为世界首富](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C&Refer=top)
+
+1. [浙江支援河北核酸检测医疗队出征](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%94%AF%E6%8F%B4%E6%B2%B3%E5%8C%97%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8C%BB%E7%96%97%E9%98%9F%E5%87%BA%E5%BE%81%23&Refer=top)
+
+1. [大学生打破复原魔方吉尼斯世界纪录](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%93%E7%A0%B4%E5%A4%8D%E5%8E%9F%E9%AD%94%E6%96%B9%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [彭斯办公室主任被特朗普禁止进入白宫](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%96%AF%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E7%99%BD%E5%AE%AB%23&Refer=top)
+
+1. [北京新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [希林娜依高被妈妈问为什么苦涩](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E8%A2%AB%E5%A6%88%E5%A6%88%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8B%A6%E6%B6%A9%23&Refer=top)
+
+1. [车银优好帅](https://s.weibo.com//weibo?q=%E8%BD%A6%E9%93%B6%E4%BC%98%E5%A5%BD%E5%B8%85&Refer=top)
+
+1. [上海地铁](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81&Refer=top)
+
+1. [董子健让杨巡学学谢宏祖](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E8%AE%A9%E6%9D%A8%E5%B7%A1%E5%AD%A6%E5%AD%A6%E8%B0%A2%E5%AE%8F%E7%A5%96%23&Refer=top)
+
+1. [比特币](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top)
+
+1. [谢允醒来第一件事是画画](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E9%86%92%E6%9D%A5%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E7%94%BB%E7%94%BB%23&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [青年教师的996](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E7%9A%84996&Refer=top)
+
+1. [黑龙江新增1例本土确诊](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [美国单日新增新冠确诊超26万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%8526%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [2020年西双版纳缴毒1.5吨](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%BC%B4%E6%AF%921.5%E5%90%A8&Refer=top)
+
+1. [美抗议者搬走众议院议长讲台](https://s.weibo.com//weibo?q=%E7%BE%8E%E6%8A%97%E8%AE%AE%E8%80%85%E6%90%AC%E8%B5%B0%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E8%AE%B2%E5%8F%B0&Refer=top)
+
+1. [变异新冠病毒将成2021年新挑战](https://s.weibo.com//weibo?q=%23%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%B0%86%E6%88%902021%E5%B9%B4%E6%96%B0%E6%8C%91%E6%88%98%23&Refer=top)
+
+1. [国航监督员事件当事人起诉李亚玲](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%88%AA%E7%9B%91%E7%9D%A3%E5%91%98%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%B5%B7%E8%AF%89%E6%9D%8E%E4%BA%9A%E7%8E%B2%23&Refer=top)
 
