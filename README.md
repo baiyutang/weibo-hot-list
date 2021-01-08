@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 12:22:41
+## 微博今日热榜 更新于 2021-01-08 13:24:27
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -300,4 +300,34 @@
 1. [今起河北通勤人员进京须持三证](https://s.weibo.com//weibo?q=%E4%BB%8A%E8%B5%B7%E6%B2%B3%E5%8C%97%E9%80%9A%E5%8B%A4%E4%BA%BA%E5%91%98%E8%BF%9B%E4%BA%AC%E9%A1%BB%E6%8C%81%E4%B8%89%E8%AF%81&Refer=top)
 
 1. [秦岭拍到金钱豹四口全家福](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%AD%E6%8B%8D%E5%88%B0%E9%87%91%E9%92%B1%E8%B1%B9%E5%9B%9B%E5%8F%A3%E5%85%A8%E5%AE%B6%E7%A6%8F&Refer=top)
+
+1. [大连警方通报一办公楼发生故意伤害案](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%8A%9E%E5%85%AC%E6%A5%BC%E5%8F%91%E7%94%9F%E6%95%85%E6%84%8F%E4%BC%A4%E5%AE%B3%E6%A1%88%23&Refer=top)
+
+1. [22岁女子长期过量喝奶茶被送进ICU](https://s.weibo.com//weibo?q=%2322%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E8%BF%87%E9%87%8F%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%A2%AB%E9%80%81%E8%BF%9BICU%23&Refer=top)
+
+1. [小红花里的父母自拍视频](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%BA%A2%E8%8A%B1%E9%87%8C%E7%9A%84%E7%88%B6%E6%AF%8D%E8%87%AA%E6%8B%8D%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [无法恋爱的理智派杀青](https://s.weibo.com//weibo?q=%23%E6%97%A0%E6%B3%95%E6%81%8B%E7%88%B1%E7%9A%84%E7%90%86%E6%99%BA%E6%B4%BE%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [河北本轮疫情呈现3大特点](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E5%91%88%E7%8E%B03%E5%A4%A7%E7%89%B9%E7%82%B9%23&Refer=top)
+
+1. [全国有55个中风险1个高风险地区](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%8955%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A91%E4%B8%AA%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [徐艺洋新歌会不会再见MV](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E6%96%B0%E6%AD%8C%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%86%8D%E8%A7%81MV%23&Refer=top)
+
+1. [柯南动画25周年](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E5%8D%97%E5%8A%A8%E7%94%BB25%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [白宫发言人回应国会暴力事件](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%9A%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [广东倡议尽量在粤过年](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%80%A1%E8%AE%AE%E5%B0%BD%E9%87%8F%E5%9C%A8%E7%B2%A4%E8%BF%87%E5%B9%B4%23&Refer=top)
+
+1. [一不小心就学会了劈叉](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%B1%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%8A%88%E5%8F%89%23&Refer=top)
+
+1. [可乐板栗咕咕鸡](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E4%B9%90%E6%9D%BF%E6%A0%97%E5%92%95%E5%92%95%E9%B8%A1%23&Refer=top)
+
+1. [父子殴打防疫警察案宣判](https://s.weibo.com//weibo?q=%23%E7%88%B6%E5%AD%90%E6%AE%B4%E6%89%93%E9%98%B2%E7%96%AB%E8%AD%A6%E5%AF%9F%E6%A1%88%E5%AE%A3%E5%88%A4%23&Refer=top)
+
+1. [马斯克称一半财富用在火星](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%80%E5%8D%8A%E8%B4%A2%E5%AF%8C%E7%94%A8%E5%9C%A8%E7%81%AB%E6%98%9F&Refer=top)
+
+1. [马刺vs湖人](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%88%BAvs%E6%B9%96%E4%BA%BA&Refer=top)
 
