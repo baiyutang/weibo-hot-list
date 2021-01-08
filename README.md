@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 02:28:05
+## 微博今日热榜 更新于 2021-01-09 03:20:54
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [张云雷红毯首秀](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E7%BA%A2%E6%AF%AF%E9%A6%96%E7%A7%80%23&Refer=top)
 
 1. [巡回检察组大结局](https://s.weibo.com//weibo?q=%E5%B7%A1%E5%9B%9E%E6%A3%80%E5%AF%9F%E7%BB%84%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [阳光之下](https://s.weibo.com//weibo?q=%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B&Refer=top)
+
+1. [XYG战胜QG](https://s.weibo.com//weibo?q=XYG%E6%88%98%E8%83%9CQG&Refer=top)
 
