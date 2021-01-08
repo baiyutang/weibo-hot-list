@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-08 15:20:42
+## 微博今日热榜 更新于 2021-01-08 16:13:35
 1. [本科毕业论文抽检每年1次](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8A%BD%E6%A3%80%E6%AF%8F%E5%B9%B41%E6%AC%A1%23&Refer=new_time)
 
 1. [Angelababy蔡徐坤同框](https://s.weibo.com//weibo?q=%23Angelababy%E8%94%A1%E5%BE%90%E5%9D%A4%E5%90%8C%E6%A1%86%23&Refer=top)
@@ -390,4 +390,26 @@
 1. [大爷大妈都是怎么锻炼的](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E9%94%BB%E7%82%BC%E7%9A%84%23&Refer=top)
 
 1. [如何让爸妈同意养猫](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AE%A9%E7%88%B8%E5%A6%88%E5%90%8C%E6%84%8F%E5%85%BB%E7%8C%AB%23&Refer=top)
+
+1. [河北现有本土确诊127例](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%8E%B0%E6%9C%89%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A127%E4%BE%8B%23&Refer=top)
+
+1. [河北疫情源头尚未完全查明](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%96%AB%E6%83%85%E6%BA%90%E5%A4%B4%E5%B0%9A%E6%9C%AA%E5%AE%8C%E5%85%A8%E6%9F%A5%E6%98%8E%23&Refer=top)
+
+1. [错把染发剂当成了洗面奶](https://s.weibo.com//weibo?q=%23%E9%94%99%E6%8A%8A%E6%9F%93%E5%8F%91%E5%89%82%E5%BD%93%E6%88%90%E4%BA%86%E6%B4%97%E9%9D%A2%E5%A5%B6%23&Refer=top)
+
+1. [杨玏酒窝笑海报](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%8E%8F%E9%85%92%E7%AA%9D%E7%AC%91%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [刘宇宁生日微博评论](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%94%9F%E6%97%A5%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
+
+1. [河北疫情](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [脆皮冻汤圆](https://s.weibo.com//weibo?q=%23%E8%84%86%E7%9A%AE%E5%86%BB%E6%B1%A4%E5%9C%86%23&Refer=top)
+
+1. [蔡少芬香港小姐没哭但成团哭了](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E6%B2%A1%E5%93%AD%E4%BD%86%E6%88%90%E5%9B%A2%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [芋泥奶酪雪域小贝](https://s.weibo.com//weibo?q=%E8%8A%8B%E6%B3%A5%E5%A5%B6%E9%85%AA%E9%9B%AA%E5%9F%9F%E5%B0%8F%E8%B4%9D&Refer=top)
+
+1. [河北南宫举报未核酸检测人员奖励500元](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%8D%97%E5%AE%AB%E4%B8%BE%E6%8A%A5%E6%9C%AA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BA%BA%E5%91%98%E5%A5%96%E5%8A%B1500%E5%85%83%23&Refer=top)
+
+1. [单身狗生活技能](https://s.weibo.com//weibo?q=%23%E5%8D%95%E8%BA%AB%E7%8B%97%E7%94%9F%E6%B4%BB%E6%8A%80%E8%83%BD%23&Refer=top)
 
