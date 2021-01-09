@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-10 06:12:09
+## 微博今日热榜 更新于 2021-01-10 07:20:39
 1. [寒冬里的7个倡议](https://s.weibo.com//weibo?q=%23%E5%AF%92%E5%86%AC%E9%87%8C%E7%9A%847%E4%B8%AA%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [健康码出自一名杭州民警](https://s.weibo.com//weibo?q=%23%E5%81%A5%E5%BA%B7%E7%A0%81%E5%87%BA%E8%87%AA%E4%B8%80%E5%90%8D%E6%9D%AD%E5%B7%9E%E6%B0%91%E8%AD%A6%23&Refer=top)
@@ -148,4 +148,24 @@
 1. [2020王者荣耀冬冠](https://s.weibo.com//weibo?q=%232020%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%AC%E5%86%A0%23&Refer=top)
 
 1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
+
+1. [欧豪发文告别淦天雷](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E8%B1%AA%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%B7%A6%E5%A4%A9%E9%9B%B7%23&Refer=top)
+
+1. [谢宏祖三观](https://s.weibo.com//weibo?q=%E8%B0%A2%E5%AE%8F%E7%A5%96%E4%B8%89%E8%A7%82&Refer=top)
+
+1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
+
+1. [娄艺潇版希尔瓦娜斯](https://s.weibo.com//weibo?q=%23%E5%A8%84%E8%89%BA%E6%BD%87%E7%89%88%E5%B8%8C%E5%B0%94%E7%93%A6%E5%A8%9C%E6%96%AF%23&Refer=top)
+
+1. [英国女王及丈夫已接种新冠疫苗](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8F%8A%E4%B8%88%E5%A4%AB%E5%B7%B2%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [美国新冠肺炎超2206万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852206%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [梅西梅开二度](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [辣椒价格持续上涨](https://s.weibo.com//weibo?q=%23%E8%BE%A3%E6%A4%92%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%23&Refer=top)
+
+1. [低风险地区返汉人员要持核酸阴性证明](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E8%BF%94%E6%B1%89%E4%BA%BA%E5%91%98%E8%A6%81%E6%8C%81%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%23&Refer=top)
+
+1. [来自爸妈的调侃式催婚](https://s.weibo.com//weibo?q=%23%E6%9D%A5%E8%87%AA%E7%88%B8%E5%A6%88%E7%9A%84%E8%B0%83%E4%BE%83%E5%BC%8F%E5%82%AC%E5%A9%9A%23&Refer=top)
 
