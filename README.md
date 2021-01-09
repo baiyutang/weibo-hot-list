@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 21:26:01
+## 微博今日热榜 更新于 2021-01-09 22:11:03
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -532,4 +532,12 @@
 1. [IU 音源部门大赏](https://s.weibo.com//weibo?q=IU%20%E9%9F%B3%E6%BA%90%E9%83%A8%E9%97%A8%E5%A4%A7%E8%B5%8F&Refer=top)
 
 1. [印尼一载62人客机坠毁](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E4%B8%80%E8%BD%BD62%E4%BA%BA%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%23&Refer=top)
+
+1. [陈铭 人类没有那么孤独的痛苦](https://s.weibo.com//weibo?q=%E9%99%88%E9%93%AD%20%E4%BA%BA%E7%B1%BB%E6%B2%A1%E6%9C%89%E9%82%A3%E4%B9%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E7%97%9B%E8%8B%A6&Refer=top)
+
+1. [郑爽 粉丝应援典范](https://s.weibo.com//weibo?q=%E9%83%91%E7%88%BD%20%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4%E5%85%B8%E8%8C%83&Refer=top)
+
+1. [宋妍霏被说长得有攻击性](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A2%AB%E8%AF%B4%E9%95%BF%E5%BE%97%E6%9C%89%E6%94%BB%E5%87%BB%E6%80%A7%23&Refer=top)
+
+1. [边防官兵巡逻路上的午餐](https://s.weibo.com//weibo?q=%E8%BE%B9%E9%98%B2%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%8D%88%E9%A4%90&Refer=top)
 
