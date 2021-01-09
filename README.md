@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 12:24:30
+## 微博今日热榜 更新于 2021-01-09 13:26:09
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -272,4 +272,42 @@
 1. [寻6日K7537次列车2密接者同乘人](https://s.weibo.com//weibo?q=%23%E5%AF%BB6%E6%97%A5K7537%E6%AC%A1%E5%88%97%E8%BD%A62%E5%AF%86%E6%8E%A5%E8%80%85%E5%90%8C%E4%B9%98%E4%BA%BA%23&Refer=top)
 
 1. [变异毒株不影响我国新冠疫苗保护力](https://s.weibo.com//weibo?q=%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E4%B8%8D%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BF%9D%E6%8A%A4%E5%8A%9B&Refer=top)
+
+1. [孟佳没有找到结婚的理由](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E6%B2%A1%E6%9C%89%E6%89%BE%E5%88%B0%E7%BB%93%E5%A9%9A%E7%9A%84%E7%90%86%E7%94%B1%23&Refer=top)
+
+1. [章子怡新剧人设](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%96%B0%E5%89%A7%E4%BA%BA%E8%AE%BE%23&Refer=top)
+
+1. [张雨绮李斯丹妮唱大花轿唱到缺氧](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%94%B1%E5%A4%A7%E8%8A%B1%E8%BD%BF%E5%94%B1%E5%88%B0%E7%BC%BA%E6%B0%A7%23&Refer=top)
+
+1. [95岁院士向101岁院士贺生辰](https://s.weibo.com//weibo?q=95%E5%B2%81%E9%99%A2%E5%A3%AB%E5%90%91101%E5%B2%81%E9%99%A2%E5%A3%AB%E8%B4%BA%E7%94%9F%E8%BE%B0&Refer=top)
+
+1. [广州恒大更名广州足球](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%81%92%E5%A4%A7%E6%9B%B4%E5%90%8D%E5%B9%BF%E5%B7%9E%E8%B6%B3%E7%90%83%23&Refer=top)
+
+1. [原来我们都曾被人想过](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E9%83%BD%E6%9B%BE%E8%A2%AB%E4%BA%BA%E6%83%B3%E8%BF%87%23&Refer=top)
+
+1. [王者荣耀不夜长安赛年](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%8D%E5%A4%9C%E9%95%BF%E5%AE%89%E8%B5%9B%E5%B9%B4%23&Refer=top)
+
+1. [陕西扎幼儿女教师获刑8个月](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E6%89%8E%E5%B9%BC%E5%84%BF%E5%A5%B3%E6%95%99%E5%B8%88%E8%8E%B7%E5%88%918%E4%B8%AA%E6%9C%88&Refer=top)
+
+1. [阿妩及笄礼出场](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A6%A9%E5%8F%8A%E7%AC%84%E7%A4%BC%E5%87%BA%E5%9C%BA%23&Refer=top)
+
+1. [多家快递春节不停运](https://s.weibo.com//weibo?q=%E5%A4%9A%E5%AE%B6%E5%BF%AB%E9%80%92%E6%98%A5%E8%8A%82%E4%B8%8D%E5%81%9C%E8%BF%90&Refer=top)
+
+1. [上海野生动物园开启御寒模式](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%BC%80%E5%90%AF%E5%BE%A1%E5%AF%92%E6%A8%A1%E5%BC%8F&Refer=top)
+
+1. [拜登称特朗普不来就职典礼是好事](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%9D%A5%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC%E6%98%AF%E5%A5%BD%E4%BA%8B&Refer=top)
+
+1. [江苏公布908家新冠病毒疫苗接种单位](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%85%AC%E5%B8%83908%E5%AE%B6%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%8D%95%E4%BD%8D&Refer=top)
+
+1. [阿妩性格好皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A6%A9%E6%80%A7%E6%A0%BC%E5%A5%BD%E7%9A%AE%23&Refer=top)
+
+1. [新冠疫苗定价和全民免费接种不矛盾](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%AE%9A%E4%BB%B7%E5%92%8C%E5%85%A8%E6%B0%91%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8D%E4%B8%8D%E7%9F%9B%E7%9B%BE%23&Refer=top)
+
+1. [快船如何防守库里](https://s.weibo.com//weibo?q=%E5%BF%AB%E8%88%B9%E5%A6%82%E4%BD%95%E9%98%B2%E5%AE%88%E5%BA%93%E9%87%8C&Refer=top)
+
+1. [推特股价盘后大跌](https://s.weibo.com//weibo?q=%E6%8E%A8%E7%89%B9%E8%82%A1%E4%BB%B7%E7%9B%98%E5%90%8E%E5%A4%A7%E8%B7%8C&Refer=top)
+
+1. [2021LPL宣传片](https://s.weibo.com//weibo?q=2021LPL%E5%AE%A3%E4%BC%A0%E7%89%87&Refer=top)
+
+1. [火箭42分大胜魔术](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD42%E5%88%86%E5%A4%A7%E8%83%9C%E9%AD%94%E6%9C%AF&Refer=top)
 
