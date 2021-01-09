@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-10 03:26:43
+## 微博今日热榜 更新于 2021-01-10 04:14:00
 1. [寒冬里的7个倡议](https://s.weibo.com//weibo?q=%23%E5%AF%92%E5%86%AC%E9%87%8C%E7%9A%847%E4%B8%AA%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [健康码出自一名杭州民警](https://s.weibo.com//weibo?q=%23%E5%81%A5%E5%BA%B7%E7%A0%81%E5%87%BA%E8%87%AA%E4%B8%80%E5%90%8D%E6%9D%AD%E5%B7%9E%E6%B0%91%E8%AD%A6%23&Refer=top)
@@ -140,4 +140,6 @@
 1. [秦岚刘以豪用演技去油](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%88%98%E4%BB%A5%E8%B1%AA%E7%94%A8%E6%BC%94%E6%8A%80%E5%8E%BB%E6%B2%B9%23&Refer=top)
 
 1. [舞蹈风暴总决赛](https://s.weibo.com//weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4%E6%80%BB%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [LPL春季赛](https://s.weibo.com//weibo?q=%23LPL%E6%98%A5%E5%AD%A3%E8%B5%9B%23&Refer=top)
 
