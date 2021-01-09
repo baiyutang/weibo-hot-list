@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 17:20:15
+## 微博今日热榜 更新于 2021-01-09 18:19:14
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -418,4 +418,26 @@
 1. [妈妈说的话鼓舞我很久](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B4%E7%9A%84%E8%AF%9D%E9%BC%93%E8%88%9E%E6%88%91%E5%BE%88%E4%B9%85%23&Refer=top)
 
 1. [考第一溺亡女孩家属将获60万补偿金](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%AC%AC%E4%B8%80%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%B0%86%E8%8E%B760%E4%B8%87%E8%A1%A5%E5%81%BF%E9%87%91%23&Refer=top)
+
+1. [寒潮中的坚守者](https://s.weibo.com//weibo?q=%23%E5%AF%92%E6%BD%AE%E4%B8%AD%E7%9A%84%E5%9D%9A%E5%AE%88%E8%80%85%23&Refer=new_time)
+
+1. [刘梓晨确诊新冠](https://s.weibo.com//weibo?q=%E5%88%98%E6%A2%93%E6%99%A8%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [章子怡 别再消费我营销少女感了](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E5%88%AB%E5%86%8D%E6%B6%88%E8%B4%B9%E6%88%91%E8%90%A5%E9%94%80%E5%B0%91%E5%A5%B3%E6%84%9F%E4%BA%86&Refer=top)
+
+1. [大S婆婆回应被判入狱](https://s.weibo.com//weibo?q=%E5%A4%A7S%E5%A9%86%E5%A9%86%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%88%A4%E5%85%A5%E7%8B%B1&Refer=top)
+
+1. [陈学冬 网速够快谣言就追不上我](https://s.weibo.com//weibo?q=%E9%99%88%E5%AD%A6%E5%86%AC%20%E7%BD%91%E9%80%9F%E5%A4%9F%E5%BF%AB%E8%B0%A3%E8%A8%80%E5%B0%B1%E8%BF%BD%E4%B8%8D%E4%B8%8A%E6%88%91&Refer=top)
+
+1. [北京什刹海冰场正式对外营业](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%80%E5%88%B9%E6%B5%B7%E5%86%B0%E5%9C%BA%E6%AD%A3%E5%BC%8F%E5%AF%B9%E5%A4%96%E8%90%A5%E4%B8%9A%23&Refer=top)
+
+1. [人生七年导演去世](https://s.weibo.com//weibo?q=%E4%BA%BA%E7%94%9F%E4%B8%83%E5%B9%B4%E5%AF%BC%E6%BC%94%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [茄汁金针菇肥牛](https://s.weibo.com//weibo?q=%E8%8C%84%E6%B1%81%E9%87%91%E9%92%88%E8%8F%87%E8%82%A5%E7%89%9B&Refer=top)
+
+1. [印度10名婴儿在医院火灾中丧生](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A610%E5%90%8D%E5%A9%B4%E5%84%BF%E5%9C%A8%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E4%B8%AD%E4%B8%A7%E7%94%9F&Refer=top)
+
+1. [TES SN](https://s.weibo.com//weibo?q=%23TES%20SN%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
 
