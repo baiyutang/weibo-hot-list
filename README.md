@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 18:19:14
+## 微博今日热榜 更新于 2021-01-09 19:17:43
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -440,4 +440,42 @@
 1. [TES SN](https://s.weibo.com//weibo?q=%23TES%20SN%23&Refer=top)
 
 1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [美国大量老人彻夜排队接种疫苗](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%87%8F%E8%80%81%E4%BA%BA%E5%BD%BB%E5%A4%9C%E6%8E%92%E9%98%9F%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [石家庄回应网传小果庄村宗教活动](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%B0%8F%E6%9E%9C%E5%BA%84%E6%9D%91%E5%AE%97%E6%95%99%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [印尼一飞机失联](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%A4%B1%E8%81%94%23&Refer=top)
+
+1. [台湾女司机被劫吼哭匪徒](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%8A%AB%E5%90%BC%E5%93%AD%E5%8C%AA%E5%BE%92%23&Refer=top)
+
+1. [周翡捅谢允腰好甜](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E6%8D%85%E8%B0%A2%E5%85%81%E8%85%B0%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [狗狗害羞起来有多可爱](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%AE%B3%E7%BE%9E%E8%B5%B7%E6%9D%A5%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [拼多多通报员工自杀](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%9A%E6%8A%A5%E5%91%98%E5%B7%A5%E8%87%AA%E6%9D%80&Refer=top)
+
+1. [特鲁多公开指责特朗普](https://s.weibo.com//weibo?q=%23%E7%89%B9%E9%B2%81%E5%A4%9A%E5%85%AC%E5%BC%80%E6%8C%87%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%23&Refer=top)
+
+1. [SJ182](https://s.weibo.com//weibo?q=SJ182&Refer=top)
+
+1. [邢台除南宫外全员核酸检测均为阴性](https://s.weibo.com//weibo?q=%23%E9%82%A2%E5%8F%B0%E9%99%A4%E5%8D%97%E5%AE%AB%E5%A4%96%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%9D%87%E4%B8%BA%E9%98%B4%E6%80%A7%23&Refer=top)
+
+1. [考第一溺亡女孩家属称老师未道歉](https://s.weibo.com//weibo?q=%E8%80%83%E7%AC%AC%E4%B8%80%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%80%81%E5%B8%88%E6%9C%AA%E9%81%93%E6%AD%89&Refer=top)
+
+1. [OMG EDG](https://s.weibo.com//weibo?q=OMG%20EDG&Refer=top)
+
+1. [家庭版热辣牛肉粉丝汤](https://s.weibo.com//weibo?q=%E5%AE%B6%E5%BA%AD%E7%89%88%E7%83%AD%E8%BE%A3%E7%89%9B%E8%82%89%E7%B2%89%E4%B8%9D%E6%B1%A4&Refer=top)
+
+1. [字母哥压哨三分](https://s.weibo.com//weibo?q=%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8E%8B%E5%93%A8%E4%B8%89%E5%88%86&Refer=top)
+
+1. [丽江倒查密接者信息遭泄露](https://s.weibo.com//weibo?q=%23%E4%B8%BD%E6%B1%9F%E5%80%92%E6%9F%A5%E5%AF%86%E6%8E%A5%E8%80%85%E4%BF%A1%E6%81%AF%E9%81%AD%E6%B3%84%E9%9C%B2%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [蔚来发布会](https://s.weibo.com//weibo?q=%E8%94%9A%E6%9D%A5%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [比特币矿机价格翻倍仍供不应求](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%9F%BF%E6%9C%BA%E4%BB%B7%E6%A0%BC%E7%BF%BB%E5%80%8D%E4%BB%8D%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82&Refer=top)
+
+1. [滔博](https://s.weibo.com//weibo?q=%E6%BB%94%E5%8D%9A&Refer=top)
 
