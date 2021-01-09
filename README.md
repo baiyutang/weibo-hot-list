@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 20:09:18
+## 微博今日热榜 更新于 2021-01-09 21:26:01
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -494,4 +494,42 @@
 1. [huanfeng卡莎](https://s.weibo.com//weibo?q=huanfeng%E5%8D%A1%E8%8E%8E&Refer=top)
 
 1. [EXO 金唱片第一排名](https://s.weibo.com//weibo?q=EXO%20%E9%87%91%E5%94%B1%E7%89%87%E7%AC%AC%E4%B8%80%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [健康码出自一名杭州民警](https://s.weibo.com//weibo?q=%23%E5%81%A5%E5%BA%B7%E7%A0%81%E5%87%BA%E8%87%AA%E4%B8%80%E5%90%8D%E6%9D%AD%E5%B7%9E%E6%B0%91%E8%AD%A6%23&Refer=top)
+
+1. [李子柒一物一生系列完结](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E4%B8%80%E7%89%A9%E4%B8%80%E7%94%9F%E7%B3%BB%E5%88%97%E5%AE%8C%E7%BB%93%23&Refer=top)
+
+1. [河北疫情病毒通过机场输入可能性很大](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E9%80%9A%E8%BF%87%E6%9C%BA%E5%9C%BA%E8%BE%93%E5%85%A5%E5%8F%AF%E8%83%BD%E6%80%A7%E5%BE%88%E5%A4%A7%23&Refer=top)
+
+1. [石家庄商超全部暂停线下营业](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%95%86%E8%B6%85%E5%85%A8%E9%83%A8%E6%9A%82%E5%81%9C%E7%BA%BF%E4%B8%8B%E8%90%A5%E4%B8%9A%23&Refer=top)
+
+1. [快乐大本营滑滑的世界](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E6%BB%91%E6%BB%91%E7%9A%84%E4%B8%96%E7%95%8C&Refer=top)
+
+1. [孕妇大出血警车救护车接力护送](https://s.weibo.com//weibo?q=%E5%AD%95%E5%A6%87%E5%A4%A7%E5%87%BA%E8%A1%80%E8%AD%A6%E8%BD%A6%E6%95%91%E6%8A%A4%E8%BD%A6%E6%8E%A5%E5%8A%9B%E6%8A%A4%E9%80%81&Refer=top)
+
+1. [4家银行踩中房贷红线](https://s.weibo.com//weibo?q=4%E5%AE%B6%E9%93%B6%E8%A1%8C%E8%B8%A9%E4%B8%AD%E6%88%BF%E8%B4%B7%E7%BA%A2%E7%BA%BF&Refer=top)
+
+1. [追光吧哥哥](https://s.weibo.com//weibo?q=%E8%BF%BD%E5%85%89%E5%90%A7%E5%93%A5%E5%93%A5&Refer=top)
+
+1. [蔚来et7](https://s.weibo.com//weibo?q=%E8%94%9A%E6%9D%A5et7&Refer=top)
+
+1. [美民众走上街头要求罢免特朗普](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%B0%91%E4%BC%97%E8%B5%B0%E4%B8%8A%E8%A1%97%E5%A4%B4%E8%A6%81%E6%B1%82%E7%BD%A2%E5%85%8D%E7%89%B9%E6%9C%97%E6%99%AE%23&Refer=top)
+
+1. [演技真的可以弥补年龄差吗](https://s.weibo.com//weibo?q=%23%E6%BC%94%E6%8A%80%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%BC%A5%E8%A1%A5%E5%B9%B4%E9%BE%84%E5%B7%AE%E5%90%97%23&Refer=top)
+
+1. [我就是演员](https://s.weibo.com//weibo?q=%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98&Refer=top)
+
+1. [成都退伍兵做整理师月入过万](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E9%80%80%E4%BC%8D%E5%85%B5%E5%81%9A%E6%95%B4%E7%90%86%E5%B8%88%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87&Refer=top)
+
+1. [石家庄医护累到就地睡着](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8C%BB%E6%8A%A4%E7%B4%AF%E5%88%B0%E5%B0%B1%E5%9C%B0%E7%9D%A1%E7%9D%80&Refer=top)
+
+1. [北京市民回应BBC记者疫情采访](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E5%9B%9E%E5%BA%94BBC%E8%AE%B0%E8%80%85%E7%96%AB%E6%83%85%E9%87%87%E8%AE%BF%23&Refer=top)
+
+1. [你支持推出前任点评app吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%94%AF%E6%8C%81%E6%8E%A8%E5%87%BA%E5%89%8D%E4%BB%BB%E7%82%B9%E8%AF%84app%E5%90%97%23&Refer=top)
+
+1. [四川严控聚集性活动](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%A5%E6%8E%A7%E8%81%9A%E9%9B%86%E6%80%A7%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [IU 音源部门大赏](https://s.weibo.com//weibo?q=IU%20%E9%9F%B3%E6%BA%90%E9%83%A8%E9%97%A8%E5%A4%A7%E8%B5%8F&Refer=top)
+
+1. [印尼一载62人客机坠毁](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E4%B8%80%E8%BD%BD62%E4%BA%BA%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%23&Refer=top)
 
