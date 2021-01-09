@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 10:14:19
+## 微博今日热榜 更新于 2021-01-09 11:28:04
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -228,4 +228,24 @@
 1. [南方没有暖气有多难](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E6%B2%A1%E6%9C%89%E6%9A%96%E6%B0%94%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
 
 1. [NBA首期MVP榜单](https://s.weibo.com//weibo?q=NBA%E9%A6%96%E6%9C%9FMVP%E6%A6%9C%E5%8D%95&Refer=top)
+
+1. [加强退役军人司法救助工作](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%8F%B8%E6%B3%95%E6%95%91%E5%8A%A9%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
+
+1. [我国已累计新冠疫苗接种900多万剂次](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E7%B4%AF%E8%AE%A1%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D900%E5%A4%9A%E4%B8%87%E5%89%82%E6%AC%A1%23&Refer=top)
+
+1. [坚决取消或改造不符合要求发热门诊](https://s.weibo.com//weibo?q=%E5%9D%9A%E5%86%B3%E5%8F%96%E6%B6%88%E6%88%96%E6%94%B9%E9%80%A0%E4%B8%8D%E7%AC%A6%E5%90%88%E8%A6%81%E6%B1%82%E5%8F%91%E7%83%AD%E9%97%A8%E8%AF%8A&Refer=top)
+
+1. [抚州疑似阳性样本复核为阴性](https://s.weibo.com//weibo?q=%E6%8A%9A%E5%B7%9E%E7%96%91%E4%BC%BC%E9%98%B3%E6%80%A7%E6%A0%B7%E6%9C%AC%E5%A4%8D%E6%A0%B8%E4%B8%BA%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [王一博数字单曲销售总额破亿](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%95%B0%E5%AD%97%E5%8D%95%E6%9B%B2%E9%94%80%E5%94%AE%E6%80%BB%E9%A2%9D%E7%A0%B4%E4%BA%BF&Refer=top)
+
+1. [薇娅提示汪苏泷](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E6%8F%90%E7%A4%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%23&Refer=top)
+
+1. [国家卫健委倡导在工作地过年](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%80%A1%E5%AF%BC%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%9C%B0%E8%BF%87%E5%B9%B4%23&Refer=top)
+
+1. [新冠疫苗接种个人不负担费用](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%B4%9F%E6%8B%85%E8%B4%B9%E7%94%A8%23&Refer=top)
+
+1. [上阳赋](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E9%98%B3%E8%B5%8B%23&Refer=top)
+
+1. [辽宁新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
