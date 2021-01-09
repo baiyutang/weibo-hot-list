@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-09 22:11:03
+## 微博今日热榜 更新于 2021-01-09 23:07:50
 1. [中国火箭军2021年形象片发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B2021%E5%B9%B4%E5%BD%A2%E8%B1%A1%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [高天佐道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%A4%A9%E4%BD%90%E9%81%93%E6%AD%89%23&Refer=top)
@@ -540,4 +540,24 @@
 1. [宋妍霏被说长得有攻击性](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%A2%AB%E8%AF%B4%E9%95%BF%E5%BE%97%E6%9C%89%E6%94%BB%E5%87%BB%E6%80%A7%23&Refer=top)
 
 1. [边防官兵巡逻路上的午餐](https://s.weibo.com//weibo?q=%E8%BE%B9%E9%98%B2%E5%AE%98%E5%85%B5%E5%B7%A1%E9%80%BB%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%8D%88%E9%A4%90&Refer=top)
+
+1. [天津新增3例境外输入无症状](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E3%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [张艺兴夸父逐日舞台](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A4%B8%E7%88%B6%E9%80%90%E6%97%A5%E8%88%9E%E5%8F%B0&Refer=top)
+
+1. [核酸采样医护手冻成馒头](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E5%8C%BB%E6%8A%A4%E6%89%8B%E5%86%BB%E6%88%90%E9%A6%92%E5%A4%B4%23&Refer=top)
+
+1. [檀健次跳拉丁舞](https://s.weibo.com//weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B7%B3%E6%8B%89%E4%B8%81%E8%88%9E%23&Refer=top)
+
+1. [上海春考](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83%23&Refer=top)
+
+1. [豫章书院非法拘禁案发回重审](https://s.weibo.com//weibo?q=%23%E8%B1%AB%E7%AB%A0%E4%B9%A6%E9%99%A2%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81%E6%A1%88%E5%8F%91%E5%9B%9E%E9%87%8D%E5%AE%A1%23&Refer=top)
+
+1. [陈铭 女娲补天](https://s.weibo.com//weibo?q=%E9%99%88%E9%93%AD%20%E5%A5%B3%E5%A8%B2%E8%A1%A5%E5%A4%A9&Refer=top)
+
+1. [终极笔记收官](https://s.weibo.com//weibo?q=%23%E7%BB%88%E6%9E%81%E7%AC%94%E8%AE%B0%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [舞蹈风暴总决赛](https://s.weibo.com//weibo?q=%E8%88%9E%E8%B9%88%E9%A3%8E%E6%9A%B4%E6%80%BB%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [石家庄举报哄抬物价最高奖5000元](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%BE%E6%8A%A5%E5%93%84%E6%8A%AC%E7%89%A9%E4%BB%B7%E6%9C%80%E9%AB%98%E5%A5%965000%E5%85%83%23&Refer=top)
 
