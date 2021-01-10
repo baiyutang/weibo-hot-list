@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-11 01:58:03
+## 微博今日热榜 更新于 2021-01-11 02:42:58
 1. [新时代的中国国际发展合作](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%8F%91%E5%B1%95%E5%90%88%E4%BD%9C%23&Refer=new_time)
 
 1. [车厘子价格腰斩](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%23&Refer=top)
@@ -106,4 +106,6 @@
 1. [北京严格控制村内聚集性活动](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%A5%E6%A0%BC%E6%8E%A7%E5%88%B6%E6%9D%91%E5%86%85%E8%81%9A%E9%9B%86%E6%80%A7%E6%B4%BB%E5%8A%A8%23&Refer=top)
 
 1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
