@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-11 03:27:11
+## 微博今日热榜 更新于 2021-01-11 04:12:57
 1. [新时代的中国国际发展合作](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%8F%91%E5%B1%95%E5%90%88%E4%BD%9C%23&Refer=new_time)
 
 1. [车厘子价格腰斩](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [刘晓宇违体犯规](https://s.weibo.com//weibo?q=%E5%88%98%E6%99%93%E5%AE%87%E8%BF%9D%E4%BD%93%E7%8A%AF%E8%A7%84&Refer=top)
 
 1. [中央政法工作会议](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B3%95%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE&Refer=top)
+
+1. [深圳男篮绝杀北京男篮](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%E7%BB%9D%E6%9D%80%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE&Refer=top)
+
+1. [翟晓川怒喷裁判](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%99%93%E5%B7%9D%E6%80%92%E5%96%B7%E8%A3%81%E5%88%A4%23&Refer=top)
 
