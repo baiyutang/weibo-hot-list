@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 03:29:26
+## 微博今日热榜 更新于 2021-01-12 04:15:58
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -118,4 +118,10 @@
 1. [榆次高村](https://s.weibo.com//weibo?q=%E6%A6%86%E6%AC%A1%E9%AB%98%E6%9D%91&Refer=top)
 
 1. [大连男子用无人机硬核扔垃圾](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E7%94%B7%E5%AD%90%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A1%AC%E6%A0%B8%E6%89%94%E5%9E%83%E5%9C%BE&Refer=top)
+
+1. [黑龙江新增20例无症状](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E20%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [比特币](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top)
+
+1. [周翡霸气反撩谢允](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E9%9C%B8%E6%B0%94%E5%8F%8D%E6%92%A9%E8%B0%A2%E5%85%81%23&Refer=top)
 
