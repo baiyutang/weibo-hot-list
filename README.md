@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 05:11:13
+## 微博今日热榜 更新于 2021-01-12 06:13:52
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [周翡霸气反撩谢允](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E9%9C%B8%E6%B0%94%E5%8F%8D%E6%92%A9%E8%B0%A2%E5%85%81%23&Refer=top)
 
 1. [石家庄又有9地升为中风险](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8F%88%E6%9C%899%E5%9C%B0%E5%8D%87%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [新冠疫苗接种流程](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%B5%81%E7%A8%8B%23&Refer=new_time)
 
