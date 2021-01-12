@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 13:29:38
+## 微博今日热榜 更新于 2021-01-12 14:19:49
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -334,4 +334,28 @@
 1. [昂昂溪](https://s.weibo.com//weibo?q=%E6%98%82%E6%98%82%E6%BA%AA&Refer=top)
 
 1. [北京首钢队道歉](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2%E9%98%9F%E9%81%93%E6%AD%89&Refer=top)
+
+1. [特朗普承认自己对国会骚乱负部分责任](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E5%AF%B9%E5%9B%BD%E4%BC%9A%E9%AA%9A%E4%B9%B1%E8%B4%9F%E9%83%A8%E5%88%86%E8%B4%A3%E4%BB%BB%23&Refer=top)
+
+1. [马来西亚宣布进入紧急状态](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [球鞋被修成了皮鞋](https://s.weibo.com//weibo?q=%23%E7%90%83%E9%9E%8B%E8%A2%AB%E4%BF%AE%E6%88%90%E4%BA%86%E7%9A%AE%E9%9E%8B%23&Refer=top)
+
+1. [石家庄一病例曾前往茅台酒厂卸货](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E7%97%85%E4%BE%8B%E6%9B%BE%E5%89%8D%E5%BE%80%E8%8C%85%E5%8F%B0%E9%85%92%E5%8E%82%E5%8D%B8%E8%B4%A7%23&Refer=top)
+
+1. [当蛋糕师改行做煎饼](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%9B%8B%E7%B3%95%E5%B8%88%E6%94%B9%E8%A1%8C%E5%81%9A%E7%85%8E%E9%A5%BC%23&Refer=top)
+
+1. [安东尼关键8分](https://s.weibo.com//weibo?q=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%85%B3%E9%94%AE8%E5%88%86&Refer=top)
+
+1. [用医保基金滚动结余支付新冠疫苗费用](https://s.weibo.com//weibo?q=%E7%94%A8%E5%8C%BB%E4%BF%9D%E5%9F%BA%E9%87%91%E6%BB%9A%E5%8A%A8%E7%BB%93%E4%BD%99%E6%94%AF%E4%BB%98%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B4%B9%E7%94%A8&Refer=top)
+
+1. [麦科勒姆绝杀](https://s.weibo.com//weibo?q=%E9%BA%A6%E7%A7%91%E5%8B%92%E5%A7%86%E7%BB%9D%E6%9D%80&Refer=top)
+
+1. [东京奥运会仍按计划开幕](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BB%8D%E6%8C%89%E8%AE%A1%E5%88%92%E5%BC%80%E5%B9%95&Refer=top)
+
+1. [武清](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B8%85&Refer=top)
+
+1. [索尼进军无人机市场](https://s.weibo.com//weibo?q=%E7%B4%A2%E5%B0%BC%E8%BF%9B%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%B8%82%E5%9C%BA&Refer=top)
+
+1. [LPL春季赛](https://s.weibo.com//weibo?q=LPL%E6%98%A5%E5%AD%A3%E8%B5%9B&Refer=top)
 
