@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 14:19:49
+## 微博今日热榜 更新于 2021-01-12 15:28:30
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -358,4 +358,32 @@
 1. [索尼进军无人机市场](https://s.weibo.com//weibo?q=%E7%B4%A2%E5%B0%BC%E8%BF%9B%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%B8%82%E5%9C%BA&Refer=top)
 
 1. [LPL春季赛](https://s.weibo.com//weibo?q=LPL%E6%98%A5%E5%AD%A3%E8%B5%9B&Refer=top)
+
+1. [新冠疫苗保护效力79.34％意味着什么](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BF%9D%E6%8A%A4%E6%95%88%E5%8A%9B79.34%EF%BC%85%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [腾讯QQ兴趣部落即将停运](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AFQQ%E5%85%B4%E8%B6%A3%E9%83%A8%E8%90%BD%E5%8D%B3%E5%B0%86%E5%81%9C%E8%BF%90%23&Refer=top)
+
+1. [为什么应届生都热衷于互联网](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E5%B1%8A%E7%94%9F%E9%83%BD%E7%83%AD%E8%A1%B7%E4%BA%8E%E4%BA%92%E8%81%94%E7%BD%91%23&Refer=top)
+
+1. [林奇](https://s.weibo.com//weibo?q=%E6%9E%97%E5%A5%87&Refer=top)
+
+1. [黑河邻里在楼道相逢互亮绿码](https://s.weibo.com//weibo?q=%E9%BB%91%E6%B2%B3%E9%82%BB%E9%87%8C%E5%9C%A8%E6%A5%BC%E9%81%93%E7%9B%B8%E9%80%A2%E4%BA%92%E4%BA%AE%E7%BB%BF%E7%A0%81&Refer=top)
+
+1. [毛毡没那个技术别买](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%AF%A1%E6%B2%A1%E9%82%A3%E4%B8%AA%E6%8A%80%E6%9C%AF%E5%88%AB%E4%B9%B0%23&Refer=top)
+
+1. [滴滴暂停北京拼车业务](https://s.weibo.com//weibo?q=%E6%BB%B4%E6%BB%B4%E6%9A%82%E5%81%9C%E5%8C%97%E4%BA%AC%E6%8B%BC%E8%BD%A6%E4%B8%9A%E5%8A%A1&Refer=top)
+
+1. [陕西中小幼1月16日起分3个批次放假](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%AD%E5%B0%8F%E5%B9%BC1%E6%9C%8816%E6%97%A5%E8%B5%B7%E5%88%863%E4%B8%AA%E6%89%B9%E6%AC%A1%E6%94%BE%E5%81%87%23&Refer=top)
+
+1. [谷歌应用出现仿造健康码软件](https://s.weibo.com//weibo?q=%E8%B0%B7%E6%AD%8C%E5%BA%94%E7%94%A8%E5%87%BA%E7%8E%B0%E4%BB%BF%E9%80%A0%E5%81%A5%E5%BA%B7%E7%A0%81%E8%BD%AF%E4%BB%B6&Refer=top)
+
+1. [金世正否认与吴世勋恋情](https://s.weibo.com//weibo?q=%23%E9%87%91%E4%B8%96%E6%AD%A3%E5%90%A6%E8%AE%A4%E4%B8%8E%E5%90%B4%E4%B8%96%E5%8B%8B%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [用白雪公主的方式打开画皮](https://s.weibo.com//weibo?q=%23%E7%94%A8%E7%99%BD%E9%9B%AA%E5%85%AC%E4%B8%BB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E7%94%BB%E7%9A%AE%23&Refer=top)
+
+1. [券商](https://s.weibo.com//weibo?q=%E5%88%B8%E5%95%86&Refer=top)
+
+1. [沪指突破3600点](https://s.weibo.com//weibo?q=%E6%B2%AA%E6%8C%87%E7%AA%81%E7%A0%B43600%E7%82%B9&Refer=top)
 
