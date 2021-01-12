@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 07:22:52
+## 微博今日热榜 更新于 2021-01-12 08:25:28
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -154,4 +154,54 @@
 1. [取消信用卡透支利率上限和下限管理](https://s.weibo.com//weibo?q=%23%E5%8F%96%E6%B6%88%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%80%8F%E6%94%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E9%99%90%E5%92%8C%E4%B8%8B%E9%99%90%E7%AE%A1%E7%90%86%23&Refer=top)
 
 1. [防疫志愿者生前最后一条朋友圈](https://s.weibo.com//weibo?q=%E9%98%B2%E7%96%AB%E5%BF%97%E6%84%BF%E8%80%85%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88&Refer=top)
+
+1. [意大利女子19年11月已感染新冠](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E5%AD%9019%E5%B9%B411%E6%9C%88%E5%B7%B2%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
+
+1. [武汉急寻河北确诊病例密切接触者](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%80%A5%E5%AF%BB%E6%B2%B3%E5%8C%97%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%A6%E8%80%85&Refer=top)
+
+1. [黑龙江新增36例无症状](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E36%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [萧綦王儇 先婚后爱](https://s.weibo.com//weibo?q=%E8%90%A7%E7%B6%A6%E7%8E%8B%E5%84%87%20%E5%85%88%E5%A9%9A%E5%90%8E%E7%88%B1&Refer=top)
+
+1. [辽宁省政协原副主席刘国强被开除党籍](https://s.weibo.com//weibo?q=%E8%BE%BD%E5%AE%81%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%88%98%E5%9B%BD%E5%BC%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&Refer=top)
+
+1. [封潇声对柯滢献殷勤](https://s.weibo.com//weibo?q=%23%E5%B0%81%E6%BD%87%E5%A3%B0%E5%AF%B9%E6%9F%AF%E6%BB%A2%E7%8C%AE%E6%AE%B7%E5%8B%A4%23&Refer=top)
+
+1. [石家庄公安局退休副局长被处罚](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%85%AC%E5%AE%89%E5%B1%80%E9%80%80%E4%BC%91%E5%89%AF%E5%B1%80%E9%95%BF%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=top)
+
+1. [外甥女眼里的小姨](https://s.weibo.com//weibo?q=%23%E5%A4%96%E7%94%A5%E5%A5%B3%E7%9C%BC%E9%87%8C%E7%9A%84%E5%B0%8F%E5%A7%A8%23&Refer=top)
+
+1. [骑手出车祸躺地打电话求顾客谅解](https://s.weibo.com//weibo?q=%E9%AA%91%E6%89%8B%E5%87%BA%E8%BD%A6%E7%A5%B8%E8%BA%BA%E5%9C%B0%E6%89%93%E7%94%B5%E8%AF%9D%E6%B1%82%E9%A1%BE%E5%AE%A2%E8%B0%85%E8%A7%A3&Refer=top)
+
+1. [广州时隔五年再次下霰](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E5%86%8D%E6%AC%A1%E4%B8%8B%E9%9C%B0%23&Refer=top)
+
+1. [江苏苏宁改名江苏队](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E8%8B%8F%E5%AE%81%E6%94%B9%E5%90%8D%E6%B1%9F%E8%8B%8F%E9%98%9F&Refer=top)
+
+1. [肺部健康测试](https://s.weibo.com//weibo?q=%23%E8%82%BA%E9%83%A8%E5%81%A5%E5%BA%B7%E6%B5%8B%E8%AF%95%23&Refer=top)
+
+1. [吉林长春新增3例无症状](https://s.weibo.com//weibo?q=%E5%90%89%E6%9E%97%E9%95%BF%E6%98%A5%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6&Refer=top)
+
+1. [最高检专设惩治网络犯罪指导组](https://s.weibo.com//weibo?q=%E6%9C%80%E9%AB%98%E6%A3%80%E4%B8%93%E8%AE%BE%E6%83%A9%E6%B2%BB%E7%BD%91%E7%BB%9C%E7%8A%AF%E7%BD%AA%E6%8C%87%E5%AF%BC%E7%BB%84&Refer=top)
+
+1. [强迫症的电脑桌面](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E8%BF%AB%E7%97%87%E7%9A%84%E7%94%B5%E8%84%91%E6%A1%8C%E9%9D%A2%23&Refer=top)
+
+1. [北京新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [预计2021年猪价向下走](https://s.weibo.com//weibo?q=%23%E9%A2%84%E8%AE%A12021%E5%B9%B4%E7%8C%AA%E4%BB%B7%E5%90%91%E4%B8%8B%E8%B5%B0%23&Refer=top)
+
+1. [公共场所注意形象的原因](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%B3%A8%E6%84%8F%E5%BD%A2%E8%B1%A1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [山西新增3例无症状感染者](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
+
+1. [流金岁月](https://s.weibo.com//weibo?q=%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88&Refer=top)
+
+1. [原来谭警官也会rap](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%B0%AD%E8%AD%A6%E5%AE%98%E4%B9%9F%E4%BC%9Arap%23&Refer=top)
+
+1. [征信机构不得过度采集信用信息](https://s.weibo.com//weibo?q=%23%E5%BE%81%E4%BF%A1%E6%9C%BA%E6%9E%84%E4%B8%8D%E5%BE%97%E8%BF%87%E5%BA%A6%E9%87%87%E9%9B%86%E4%BF%A1%E7%94%A8%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [不良贷款转让试点正式扩围](https://s.weibo.com//weibo?q=%E4%B8%8D%E8%89%AF%E8%B4%B7%E6%AC%BE%E8%BD%AC%E8%AE%A9%E8%AF%95%E7%82%B9%E6%AD%A3%E5%BC%8F%E6%89%A9%E5%9B%B4&Refer=top)
+
+1. [河北廊坊固安县一地调为中风险](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%BB%8A%E5%9D%8A%E5%9B%BA%E5%AE%89%E5%8E%BF%E4%B8%80%E5%9C%B0%E8%B0%83%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [郭老师](https://s.weibo.com//weibo?q=%E9%83%AD%E8%80%81%E5%B8%88&Refer=top)
 
