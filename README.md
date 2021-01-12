@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 11:34:45
+## 微博今日热榜 更新于 2021-01-12 12:26:03
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -280,4 +280,32 @@
 1. [河北向抗疫一线医护每人赠500元话费](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E5%90%91%E6%8A%97%E7%96%AB%E4%B8%80%E7%BA%BF%E5%8C%BB%E6%8A%A4%E6%AF%8F%E4%BA%BA%E8%B5%A0500%E5%85%83%E8%AF%9D%E8%B4%B9&Refer=top)
 
 1. [比尔超级拉杆](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%B0%94%E8%B6%85%E7%BA%A7%E6%8B%89%E6%9D%86%23&Refer=top)
+
+1. [周杰伦 我的女孩觉得这台可以](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%88%91%E7%9A%84%E5%A5%B3%E5%AD%A9%E8%A7%89%E5%BE%97%E8%BF%99%E5%8F%B0%E5%8F%AF%E4%BB%A5&Refer=top)
+
+1. [王源摘手套细节](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%91%98%E6%89%8B%E5%A5%97%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [Nuguri首发](https://s.weibo.com//weibo?q=Nuguri%E9%A6%96%E5%8F%91&Refer=top)
+
+1. [杭州城区人口规模超越南京](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%9F%8E%E5%8C%BA%E4%BA%BA%E5%8F%A3%E8%A7%84%E6%A8%A1%E8%B6%85%E8%B6%8A%E5%8D%97%E4%BA%AC&Refer=top)
+
+1. [这萨摩耶怎么熊里熊气的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%90%A8%E6%91%A9%E8%80%B6%E6%80%8E%E4%B9%88%E7%86%8A%E9%87%8C%E7%86%8A%E6%B0%94%E7%9A%84%23&Refer=top)
+
+1. [黑龙江伊春新增1例无症状](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BC%8A%E6%98%A5%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [警方通报福建一副县长落水失联](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%89%AF%E5%8E%BF%E9%95%BF%E8%90%BD%E6%B0%B4%E5%A4%B1%E8%81%94%23&Refer=top)
+
+1. [刘雨昕插兜插了个寂寞](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%8F%92%E5%85%9C%E6%8F%92%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [河北新增一确诊在火车站上班](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A2%9E%E4%B8%80%E7%A1%AE%E8%AF%8A%E5%9C%A8%E7%81%AB%E8%BD%A6%E7%AB%99%E4%B8%8A%E7%8F%AD%23&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
+
+1. [石家庄超2万村民大转移异地隔离](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%B6%852%E4%B8%87%E6%9D%91%E6%B0%91%E5%A4%A7%E8%BD%AC%E7%A7%BB%E5%BC%82%E5%9C%B0%E9%9A%94%E7%A6%BB&Refer=top)
+
+1. [美国动物园多只大猩猩感染新冠](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%A4%9A%E5%8F%AA%E5%A4%A7%E7%8C%A9%E7%8C%A9%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [家长该如何应对孩子厌学](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%8E%8C%E5%AD%A6%23&Refer=top)
+
+1. [蔚来市值突破千亿美元](https://s.weibo.com//weibo?q=%E8%94%9A%E6%9D%A5%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83&Refer=top)
 
