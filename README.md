@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 06:17:41
+## 微博今日热榜 更新于 2021-01-13 07:26:38
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -126,4 +126,18 @@
 1. [中国科学家登上南极大陆41周年](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%99%BB%E4%B8%8A%E5%8D%97%E6%9E%81%E5%A4%A7%E9%99%8641%E5%91%A8%E5%B9%B4%23&Refer=new_time)
 
 1. [如何看待留守老人大多是男性](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%95%99%E5%AE%88%E8%80%81%E4%BA%BA%E5%A4%A7%E5%A4%9A%E6%98%AF%E7%94%B7%E6%80%A7%23&Refer=top)
+
+1. [山东金矿爆炸事故救援进展](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%87%91%E7%9F%BF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%95%91%E6%8F%B4%E8%BF%9B%E5%B1%95%23&Refer=top)
+
+1. [郑爽回归追哥因为没协调下来](https://s.weibo.com//weibo?q=%E9%83%91%E7%88%BD%E5%9B%9E%E5%BD%92%E8%BF%BD%E5%93%A5%E5%9B%A0%E4%B8%BA%E6%B2%A1%E5%8D%8F%E8%B0%83%E4%B8%8B%E6%9D%A5&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [石家庄血小板库存告急](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%A1%80%E5%B0%8F%E6%9D%BF%E5%BA%93%E5%AD%98%E5%91%8A%E6%80%A5%23&Refer=top)
+
+1. [中南财经政法大学](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%8D%97%E8%B4%A2%E7%BB%8F%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [嵩山少林寺13日起暂停对外开放](https://s.weibo.com//weibo?q=%23%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97%E5%AF%BA13%E6%97%A5%E8%B5%B7%E6%9A%82%E5%81%9C%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [专家称固态电池5年内不可能商用](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A05%E5%B9%B4%E5%86%85%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%95%86%E7%94%A8%23&Refer=top)
 
