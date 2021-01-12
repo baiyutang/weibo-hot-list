@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 19:23:27
+## 微博今日热榜 更新于 2021-01-12 20:14:08
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -500,4 +500,26 @@
 1. [FPX战胜OMG](https://s.weibo.com//weibo?q=FPX%E6%88%98%E8%83%9COMG&Refer=top)
 
 1. [南京化工园](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E5%8C%96%E5%B7%A5%E5%9B%AD&Refer=top)
+
+1. [中国科学家登上南极大陆41周年](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%99%BB%E4%B8%8A%E5%8D%97%E6%9E%81%E5%A4%A7%E9%99%8641%E5%91%A8%E5%B9%B4%23&Refer=new_time)
+
+1. [去年全国基本医保参保人数13.6亿人](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B013.6%E4%BA%BF%E4%BA%BA%23&Refer=top)
+
+1. [日本首相称一定会举办奥运会](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E7%A7%B0%E4%B8%80%E5%AE%9A%E4%BC%9A%E4%B8%BE%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [遭退单代孕女童生物学父亲现身](https://s.weibo.com//weibo?q=%23%E9%81%AD%E9%80%80%E5%8D%95%E4%BB%A3%E5%AD%95%E5%A5%B3%E7%AB%A5%E7%94%9F%E7%89%A9%E5%AD%A6%E7%88%B6%E4%BA%B2%E7%8E%B0%E8%BA%AB%23&Refer=top)
+
+1. [奇妙之城重庆篇](https://s.weibo.com//weibo?q=%23%E5%A5%87%E5%A6%99%E4%B9%8B%E5%9F%8E%E9%87%8D%E5%BA%86%E7%AF%87%23&Refer=top)
+
+1. [全国有83个中风险1个高风险地区](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%8983%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A91%E4%B8%AA%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [Nuguri首秀](https://s.weibo.com//weibo?q=Nuguri%E9%A6%96%E7%A7%80&Refer=top)
+
+1. [11部门倡导职工群众就地过节](https://s.weibo.com//weibo?q=%2311%E9%83%A8%E9%97%A8%E5%80%A1%E5%AF%BC%E8%81%8C%E5%B7%A5%E7%BE%A4%E4%BC%97%E5%B0%B1%E5%9C%B0%E8%BF%87%E8%8A%82%23&Refer=top)
+
+1. [上海推出老年专版健康码](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%8E%A8%E5%87%BA%E8%80%81%E5%B9%B4%E4%B8%93%E7%89%88%E5%81%A5%E5%BA%B7%E7%A0%81&Refer=top)
+
+1. [LWX卡莎](https://s.weibo.com//weibo?q=LWX%E5%8D%A1%E8%8E%8E&Refer=top)
+
+1. [2020胡润世界500强](https://s.weibo.com//weibo?q=2020%E8%83%A1%E6%B6%A6%E4%B8%96%E7%95%8C500%E5%BC%BA&Refer=top)
 
