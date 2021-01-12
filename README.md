@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 02:05:30
+## 微博今日热榜 更新于 2021-01-13 03:35:53
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [警方介入调查假冒健康码软件](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%81%87%E5%86%92%E5%81%A5%E5%BA%B7%E7%A0%81%E8%BD%AF%E4%BB%B6%23&Refer=top)
 
 1. [万物皆可画画](https://s.weibo.com//weibo?q=%23%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E7%94%BB%E7%94%BB%23&Refer=top)
+
+1. [国家级检测实验室如何运行](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%A3%80%E6%B5%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%23&Refer=new_time)
+
+1. [RW TES](https://s.weibo.com//weibo?q=RW%20TES&Refer=top)
 
