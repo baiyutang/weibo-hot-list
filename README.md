@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 00:23:00
+## 微博今日热榜 更新于 2021-01-13 02:05:30
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
 
 1. [大江大河](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A4%A7%E6%B2%B3&Refer=top)
+
+1. [首个法治中国建设专门规划](https://s.weibo.com//weibo?q=%23%E9%A6%96%E4%B8%AA%E6%B3%95%E6%B2%BB%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E4%B8%93%E9%97%A8%E8%A7%84%E5%88%92%23&Refer=new_time)
+
+1. [金莎 不希望只被定义为甜姐](https://s.weibo.com//weibo?q=%E9%87%91%E8%8E%8E%20%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%8F%AA%E8%A2%AB%E5%AE%9A%E4%B9%89%E4%B8%BA%E7%94%9C%E5%A7%90&Refer=top)
+
+1. [她和他的恋爱剧本大结局](https://s.weibo.com//weibo?q=%E5%A5%B9%E5%92%8C%E4%BB%96%E7%9A%84%E6%81%8B%E7%88%B1%E5%89%A7%E6%9C%AC%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [警方介入调查假冒健康码软件](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%81%87%E5%86%92%E5%81%A5%E5%BA%B7%E7%A0%81%E8%BD%AF%E4%BB%B6%23&Refer=top)
+
+1. [万物皆可画画](https://s.weibo.com//weibo?q=%23%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E7%94%BB%E7%94%BB%23&Refer=top)
 
