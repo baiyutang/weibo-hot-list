@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 17:25:05
+## 微博今日热榜 更新于 2021-01-12 18:26:05
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -456,4 +456,24 @@
 1. [证监会今年首罚](https://s.weibo.com//weibo?q=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%BB%8A%E5%B9%B4%E9%A6%96%E7%BD%9A&Refer=top)
 
 1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [国家级检测实验室如何运行](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%A3%80%E6%B5%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%23&Refer=new_time)
+
+1. [打麻将容易让人性情大变](https://s.weibo.com//weibo?q=%23%E6%89%93%E9%BA%BB%E5%B0%86%E5%AE%B9%E6%98%93%E8%AE%A9%E4%BA%BA%E6%80%A7%E6%83%85%E5%A4%A7%E5%8F%98%23&Refer=top)
+
+1. [韦神当爸爸](https://s.weibo.com//weibo?q=%23%E9%9F%A6%E7%A5%9E%E5%BD%93%E7%88%B8%E7%88%B8%23&Refer=top)
+
+1. [在鬼屋当鬼有多难](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E9%AC%BC%E5%B1%8B%E5%BD%93%E9%AC%BC%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [大春](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%98%A5&Refer=top)
+
+1. [大连低风险地区高校1月中旬起放假](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E9%AB%98%E6%A0%A11%E6%9C%88%E4%B8%AD%E6%97%AC%E8%B5%B7%E6%94%BE%E5%81%87%23&Refer=top)
+
+1. [沈梓捷眼睛被打](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%93%E6%8D%B7%E7%9C%BC%E7%9D%9B%E8%A2%AB%E6%89%93&Refer=top)
+
+1. [萧綦一个月不洗澡](https://s.weibo.com//weibo?q=%23%E8%90%A7%E7%B6%A6%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%8D%E6%B4%97%E6%BE%A1%23&Refer=top)
+
+1. [警方通报湖南高院女法官被同乡刺死](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%96%E5%8D%97%E9%AB%98%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E8%A2%AB%E5%90%8C%E4%B9%A1%E5%88%BA%E6%AD%BB%23&Refer=top)
+
+1. [仅39%美国人负担得起1000美元紧急开支](https://s.weibo.com//weibo?q=%23%E4%BB%8539%25%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%B4%9F%E6%8B%85%E5%BE%97%E8%B5%B71000%E7%BE%8E%E5%85%83%E7%B4%A7%E6%80%A5%E5%BC%80%E6%94%AF%23&Refer=top)
 
