@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 15:28:30
+## 微博今日热榜 更新于 2021-01-12 16:19:55
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -386,4 +386,36 @@
 1. [券商](https://s.weibo.com//weibo?q=%E5%88%B8%E5%95%86&Refer=top)
 
 1. [沪指突破3600点](https://s.weibo.com//weibo?q=%E6%B2%AA%E6%8C%87%E7%AA%81%E7%A0%B43600%E7%82%B9&Refer=top)
+
+1. [央视牛年春晚Logo](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E7%89%9B%E5%B9%B4%E6%98%A5%E6%99%9ALogo%23&Refer=top)
+
+1. [可随意展示红码绿码APP已下架](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E9%9A%8F%E6%84%8F%E5%B1%95%E7%A4%BA%E7%BA%A2%E7%A0%81%E7%BB%BF%E7%A0%81APP%E5%B7%B2%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [石家庄疫情呈局部高度聚集性](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%96%AB%E6%83%85%E5%91%88%E5%B1%80%E9%83%A8%E9%AB%98%E5%BA%A6%E8%81%9A%E9%9B%86%E6%80%A7%23&Refer=top)
+
+1. [石家庄邢台廊坊全域封闭管理](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%82%A2%E5%8F%B0%E5%BB%8A%E5%9D%8A%E5%85%A8%E5%9F%9F%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86&Refer=top)
+
+1. [比特币挖矿约12个月才回本](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E6%8C%96%E7%9F%BF%E7%BA%A612%E4%B8%AA%E6%9C%88%E6%89%8D%E5%9B%9E%E6%9C%AC&Refer=top)
+
+1. [网友称被拼多多APP远程删除照片](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%A2%AB%E6%8B%BC%E5%A4%9A%E5%A4%9AAPP%E8%BF%9C%E7%A8%8B%E5%88%A0%E9%99%A4%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [王一博侧脸轮廓](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BE%A7%E8%84%B8%E8%BD%AE%E5%BB%93%23&Refer=top)
+
+1. [雪顶草莓脏脏挞](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E9%A1%B6%E8%8D%89%E8%8E%93%E8%84%8F%E8%84%8F%E6%8C%9E%23&Refer=top)
+
+1. [黑龙江齐齐哈尔新增7例无症状](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E6%96%B0%E5%A2%9E7%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [陈立农金发笑容海报](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E9%87%91%E5%8F%91%E7%AC%91%E5%AE%B9%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [拼多多回应远程删除用户相册照片](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%9E%E5%BA%94%E8%BF%9C%E7%A8%8B%E5%88%A0%E9%99%A4%E7%94%A8%E6%88%B7%E7%9B%B8%E5%86%8C%E7%85%A7%E7%89%87&Refer=top)
+
+1. [柯滢被绑架](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E6%BB%A2%E8%A2%AB%E7%BB%91%E6%9E%B6%23&Refer=top)
+
+1. [恰好是少年录制路透](https://s.weibo.com//weibo?q=%23%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [你是学什么的](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E5%AD%A6%E4%BB%80%E4%B9%88%E7%9A%84%23&Refer=top)
+
+1. [50年代流行的耳饰有多美](https://s.weibo.com//weibo?q=50%E5%B9%B4%E4%BB%A3%E6%B5%81%E8%A1%8C%E7%9A%84%E8%80%B3%E9%A5%B0%E6%9C%89%E5%A4%9A%E7%BE%8E&Refer=top)
+
+1. [新年C位复古中国妆](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4C%E4%BD%8D%E5%A4%8D%E5%8F%A4%E4%B8%AD%E5%9B%BD%E5%A6%86%23&Refer=top)
 
