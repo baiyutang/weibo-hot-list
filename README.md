@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-12 12:26:03
+## 微博今日热榜 更新于 2021-01-12 13:29:38
 1. [多地医疗队集结驰援河北](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8C%BB%E7%96%97%E9%98%9F%E9%9B%86%E7%BB%93%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8C%97%23&Refer=new_time)
 
 1. [王一博方声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -308,4 +308,30 @@
 1. [家长该如何应对孩子厌学](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%8E%8C%E5%AD%A6%23&Refer=top)
 
 1. [蔚来市值突破千亿美元](https://s.weibo.com//weibo?q=%E8%94%9A%E6%9D%A5%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [中国留美博士遇害细节](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E7%BE%8E%E5%8D%9A%E5%A3%AB%E9%81%87%E5%AE%B3%E7%BB%86%E8%8A%82&Refer=top)
+
+1. [廊坊全市居家观察7天](https://s.weibo.com//weibo?q=%23%E5%BB%8A%E5%9D%8A%E5%85%A8%E5%B8%82%E5%B1%85%E5%AE%B6%E8%A7%82%E5%AF%9F7%E5%A4%A9%23&Refer=top)
+
+1. [张恒已无资产可执行](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%81%92%E5%B7%B2%E6%97%A0%E8%B5%84%E4%BA%A7%E5%8F%AF%E6%89%A7%E8%A1%8C&Refer=top)
+
+1. [茅台股价](https://s.weibo.com//weibo?q=%E8%8C%85%E5%8F%B0%E8%82%A1%E4%BB%B7&Refer=top)
+
+1. [酸奶芝士热干面](https://s.weibo.com//weibo?q=%23%E9%85%B8%E5%A5%B6%E8%8A%9D%E5%A3%AB%E7%83%AD%E5%B9%B2%E9%9D%A2%23&Refer=top)
+
+1. [首个遭代孕客户退单女童无法上户](https://s.weibo.com//weibo?q=%23%E9%A6%96%E4%B8%AA%E9%81%AD%E4%BB%A3%E5%AD%95%E5%AE%A2%E6%88%B7%E9%80%80%E5%8D%95%E5%A5%B3%E7%AB%A5%E6%97%A0%E6%B3%95%E4%B8%8A%E6%88%B7%23&Refer=top)
+
+1. [吐槽大会5风暴海报](https://s.weibo.com//weibo?q=%23%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A5%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [石家庄居民阳台合唱我和我的祖国](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B1%85%E6%B0%91%E9%98%B3%E5%8F%B0%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD&Refer=top)
+
+1. [国美APP改名真快乐](https://s.weibo.com//weibo?q=%E5%9B%BD%E7%BE%8EAPP%E6%94%B9%E5%90%8D%E7%9C%9F%E5%BF%AB%E4%B9%90&Refer=top)
+
+1. [拜登接种第二剂新冠疫苗](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E6%8E%A5%E7%A7%8D%E7%AC%AC%E4%BA%8C%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [心疼贺兰箴](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E8%B4%BA%E5%85%B0%E7%AE%B4&Refer=top)
+
+1. [昂昂溪](https://s.weibo.com//weibo?q=%E6%98%82%E6%98%82%E6%BA%AA&Refer=top)
+
+1. [北京首钢队道歉](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2%E9%98%9F%E9%81%93%E6%AD%89&Refer=top)
 
