@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 20:22:24
+## 微博今日热榜 更新于 2021-01-13 21:39:44
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -576,4 +576,34 @@
 1. [河北南宫计划全员接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%8D%97%E5%AE%AB%E8%AE%A1%E5%88%92%E5%85%A8%E5%91%98%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [齐齐哈尔新增4例无症状](https://s.weibo.com//weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E6%96%B0%E5%A2%9E4%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [北京单位春节可错峰放假](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%95%E4%BD%8D%E6%98%A5%E8%8A%82%E5%8F%AF%E9%94%99%E5%B3%B0%E6%94%BE%E5%81%87%23&Refer=top)
+
+1. [蒋南孙王永正分手](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8D%97%E5%AD%99%E7%8E%8B%E6%B0%B8%E6%AD%A3%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [女兵穿外骨骼背140斤男兵飞奔](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%85%B5%E7%A9%BF%E5%A4%96%E9%AA%A8%E9%AA%BC%E8%83%8C140%E6%96%A4%E7%94%B7%E5%85%B5%E9%A3%9E%E5%A5%94&Refer=top)
+
+1. [中科院遇害研究生家属发声](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%A7%91%E9%99%A2%E9%81%87%E5%AE%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [明星式护手霜涂法](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E5%BC%8F%E6%8A%A4%E6%89%8B%E9%9C%9C%E6%B6%82%E6%B3%95%23&Refer=top)
+
+1. [全棉时代母公司回应广告式道歉](https://s.weibo.com//weibo?q=%E5%85%A8%E6%A3%89%E6%97%B6%E4%BB%A3%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%B9%BF%E5%91%8A%E5%BC%8F%E9%81%93%E6%AD%89&Refer=top)
+
+1. [张云雷蔡康永的十二扇窗](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%9A%84%E5%8D%81%E4%BA%8C%E6%89%87%E7%AA%97%23&Refer=top)
+
+1. [我的小确幸](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%B0%8F%E7%A1%AE%E5%B9%B8&Refer=top)
+
+1. [黄奕年度关键字是翻白眼第一名](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A5%95%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E5%AD%97%E6%98%AF%E7%BF%BB%E7%99%BD%E7%9C%BC%E7%AC%AC%E4%B8%80%E5%90%8D%23&Refer=top)
+
+1. [达州巴中急寻北京病例次密接](https://s.weibo.com//weibo?q=%23%E8%BE%BE%E5%B7%9E%E5%B7%B4%E4%B8%AD%E6%80%A5%E5%AF%BB%E5%8C%97%E4%BA%AC%E7%97%85%E4%BE%8B%E6%AC%A1%E5%AF%86%E6%8E%A5%23&Refer=top)
+
+1. [杨洋蓝白格学院风毛衣](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B4%8B%E8%93%9D%E7%99%BD%E6%A0%BC%E5%AD%A6%E9%99%A2%E9%A3%8E%E6%AF%9B%E8%A1%A3&Refer=top)
+
+1. [周翡谢允定终身](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E5%AE%9A%E7%BB%88%E8%BA%AB%23&Refer=top)
+
+1. [LNG击败iG](https://s.weibo.com//weibo?q=LNG%E5%87%BB%E8%B4%A5iG&Refer=top)
+
+1. [孙坚发文告别殷沛](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%9D%9A%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%AE%B7%E6%B2%9B%23&Refer=top)
+
+1. [为什么石家庄部分村民要异地隔离](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%A8%E5%88%86%E6%9D%91%E6%B0%91%E8%A6%81%E5%BC%82%E5%9C%B0%E9%9A%94%E7%A6%BB%23&Refer=top)
 
