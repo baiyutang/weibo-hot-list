@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 00:30:45
+## 微博今日热榜 更新于 2021-01-14 02:19:15
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -106,4 +106,22 @@
 1. [胡明轩后脑勺被打](https://s.weibo.com//weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%E5%90%8E%E8%84%91%E5%8B%BA%E8%A2%AB%E6%89%93&Refer=top)
 
 1. [丁真道歉信](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E9%81%93%E6%AD%89%E4%BF%A1%23&Refer=top)
+
+1. [迪丽热巴游戏ID真的是热巴](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B8%B8%E6%88%8FID%E7%9C%9F%E7%9A%84%E6%98%AF%E7%83%AD%E5%B7%B4&Refer=top)
+
+1. [朱锁锁被羞辱](https://s.weibo.com//weibo?q=%E6%9C%B1%E9%94%81%E9%94%81%E8%A2%AB%E7%BE%9E%E8%BE%B1&Refer=top)
+
+1. [邢菲问怎么就没人追我呢](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E9%97%AE%E6%80%8E%E4%B9%88%E5%B0%B1%E6%B2%A1%E4%BA%BA%E8%BF%BD%E6%88%91%E5%91%A2%23&Refer=top)
+
+1. [章子怡撞衫花玉米](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%92%9E%E8%A1%AB%E8%8A%B1%E7%8E%89%E7%B1%B3%23&Refer=top)
+
+1. [迪丽热巴学院风造型](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AD%A6%E9%99%A2%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
+
+1. [谢允愿周翡百岁无忧](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E6%84%BF%E5%91%A8%E7%BF%A1%E7%99%BE%E5%B2%81%E6%97%A0%E5%BF%A7%23&Refer=top)
+
+1. [周翡谢允定终身](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E5%AE%9A%E7%BB%88%E8%BA%AB%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%23&Refer=top)
 
