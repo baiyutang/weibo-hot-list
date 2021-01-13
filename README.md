@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 06:20:17
+## 微博今日热榜 更新于 2021-01-14 07:29:40
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -144,4 +144,12 @@
 1. [中国增设国家安全学一级学科](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A2%9E%E8%AE%BE%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%23&Refer=new_time)
 
 1. [宋怀恩救王儇](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%80%80%E6%81%A9%E6%95%91%E7%8E%8B%E5%84%87%23&Refer=top)
+
+1. [哈登被交易至篮网](https://s.weibo.com//weibo?q=%23%E5%93%88%E7%99%BB%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E7%AF%AE%E7%BD%91%23&Refer=top)
+
+1. [美国国会众议院通过特朗普弹劾案](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%B9%E5%8A%BE%E6%A1%88%23&Refer=top)
+
+1. [拜仁德国杯爆冷出局](https://s.weibo.com//weibo?q=%E6%8B%9C%E4%BB%81%E5%BE%B7%E5%9B%BD%E6%9D%AF%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&Refer=top)
+
+1. [流金岁月](https://s.weibo.com//weibo?q=%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88&Refer=top)
 
