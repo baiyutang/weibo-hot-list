@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 02:19:15
+## 微博今日热榜 更新于 2021-01-14 03:48:34
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -124,4 +124,14 @@
 1. [周翡谢允定终身](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E5%AE%9A%E7%BB%88%E8%BA%AB%23&Refer=top)
 
 1. [基金](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%23&Refer=top)
+
+1. [薪水很高但看不惯老板要不要辞职](https://s.weibo.com//weibo?q=%23%E8%96%AA%E6%B0%B4%E5%BE%88%E9%AB%98%E4%BD%86%E7%9C%8B%E4%B8%8D%E6%83%AF%E8%80%81%E6%9D%BF%E8%A6%81%E4%B8%8D%E8%A6%81%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [张艺谋告诉刘浩存电影电视都可以拍](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%91%8A%E8%AF%89%E5%88%98%E6%B5%A9%E5%AD%98%E7%94%B5%E5%BD%B1%E7%94%B5%E8%A7%86%E9%83%BD%E5%8F%AF%E4%BB%A5%E6%8B%8D&Refer=top)
+
+1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
+
+1. [叶谨言安慰朱锁锁](https://s.weibo.com//weibo?q=%E5%8F%B6%E8%B0%A8%E8%A8%80%E5%AE%89%E6%85%B0%E6%9C%B1%E9%94%81%E9%94%81&Refer=top)
+
+1. [武汉日夜](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top)
 
