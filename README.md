@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 22:31:09
+## 微博今日热榜 更新于 2021-01-13 23:20:24
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -634,4 +634,36 @@
 1. [心疼朱锁锁](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E6%9C%B1%E9%94%81%E9%94%81&Refer=top)
 
 1. [望奎县与大连疫情病毒毒株100%同源](https://s.weibo.com//weibo?q=%E6%9C%9B%E5%A5%8E%E5%8E%BF%E4%B8%8E%E5%A4%A7%E8%BF%9E%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E6%AF%92%E6%A0%AA100%25%E5%90%8C%E6%BA%90&Refer=top)
+
+1. [河南中高风险地区师生暂缓离校返校](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E5%B8%88%E7%94%9F%E6%9A%82%E7%BC%93%E7%A6%BB%E6%A0%A1%E8%BF%94%E6%A0%A1&Refer=top)
+
+1. [教资报名](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%84%E6%8A%A5%E5%90%8D&Refer=top)
+
+1. [为什么大部分人不喜欢团建](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%9B%A2%E5%BB%BA%23&Refer=top)
+
+1. [郑仁](https://s.weibo.com//weibo?q=%E9%83%91%E4%BB%81&Refer=top)
+
+1. [戚薇穿皮卡丘学奥特曼](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E7%A9%BF%E7%9A%AE%E5%8D%A1%E4%B8%98%E5%AD%A6%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top)
+
+1. [黑龙江疫情防控发布会](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [王者荣耀新赛季](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3&Refer=top)
+
+1. [王永正李昂吵架](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%B0%B8%E6%AD%A3%E6%9D%8E%E6%98%82%E5%90%B5%E6%9E%B6%23&Refer=top)
+
+1. [佳木斯至北京列车发现5名感染者](https://s.weibo.com//weibo?q=%E4%BD%B3%E6%9C%A8%E6%96%AF%E8%87%B3%E5%8C%97%E4%BA%AC%E5%88%97%E8%BD%A6%E5%8F%91%E7%8E%B05%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
+
+1. [形体课考试能有多魔性](https://s.weibo.com//weibo?q=%23%E5%BD%A2%E4%BD%93%E8%AF%BE%E8%80%83%E8%AF%95%E8%83%BD%E6%9C%89%E5%A4%9A%E9%AD%94%E6%80%A7%23&Refer=top)
+
+1. [拆弹专家2票房破10亿](https://s.weibo.com//weibo?q=%23%E6%8B%86%E5%BC%B9%E4%B8%93%E5%AE%B62%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23&Refer=top)
+
+1. [专家解释多次核酸才验出阳性](https://s.weibo.com//weibo?q=%E4%B8%93%E5%AE%B6%E8%A7%A3%E9%87%8A%E5%A4%9A%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%89%8D%E9%AA%8C%E5%87%BA%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [丛容温少卿衣柜抱](https://s.weibo.com//weibo?q=%23%E4%B8%9B%E5%AE%B9%E6%B8%A9%E5%B0%91%E5%8D%BF%E8%A1%A3%E6%9F%9C%E6%8A%B1%23&Refer=top)
+
+1. [爬山顶上网课女孩成全班第一](https://s.weibo.com//weibo?q=%E7%88%AC%E5%B1%B1%E9%A1%B6%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%A5%B3%E5%AD%A9%E6%88%90%E5%85%A8%E7%8F%AD%E7%AC%AC%E4%B8%80&Refer=top)
+
+1. [宋怀恩救王儇](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%80%80%E6%81%A9%E6%95%91%E7%8E%8B%E5%84%87%23&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
 
