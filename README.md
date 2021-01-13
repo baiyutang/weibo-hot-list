@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 18:34:26
+## 微博今日热榜 更新于 2021-01-13 19:32:15
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -520,4 +520,30 @@
 1. [北漂租房到底有多难](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%BC%82%E7%A7%9F%E6%88%BF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
 
 1. [断桥剧情](https://s.weibo.com//weibo?q=%23%E6%96%AD%E6%A1%A5%E5%89%A7%E6%83%85%23&Refer=top)
+
+1. [上海1.4万出租司机将接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B71.4%E4%B8%87%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E5%B0%86%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [肯德基回应因限塑令改用木勺引吐槽](https://s.weibo.com//weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%9B%9E%E5%BA%94%E5%9B%A0%E9%99%90%E5%A1%91%E4%BB%A4%E6%94%B9%E7%94%A8%E6%9C%A8%E5%8B%BA%E5%BC%95%E5%90%90%E6%A7%BD%23&Refer=top)
+
+1. [河北南宫新增6例确诊病例](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%8D%97%E5%AE%AB%E6%96%B0%E5%A2%9E6%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [严浩翔 别跟我车](https://s.weibo.com//weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%20%E5%88%AB%E8%B7%9F%E6%88%91%E8%BD%A6&Refer=top)
+
+1. [厦门一企业3000万元奖励员工留下过年](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E4%B8%80%E4%BC%81%E4%B8%9A3000%E4%B8%87%E5%85%83%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5%E7%95%99%E4%B8%8B%E8%BF%87%E5%B9%B4&Refer=top)
+
+1. [开车前8天及以上退票免费](https://s.weibo.com//weibo?q=%E5%BC%80%E8%BD%A6%E5%89%8D8%E5%A4%A9%E5%8F%8A%E4%BB%A5%E4%B8%8A%E9%80%80%E7%A5%A8%E5%85%8D%E8%B4%B9&Refer=top)
+
+1. [百度公开员工工作状态预测专利](https://s.weibo.com//weibo?q=%E7%99%BE%E5%BA%A6%E5%85%AC%E5%BC%80%E5%91%98%E5%B7%A5%E5%B7%A5%E4%BD%9C%E7%8A%B6%E6%80%81%E9%A2%84%E6%B5%8B%E4%B8%93%E5%88%A9&Refer=top)
+
+1. [唐山3000套集成房屋驰援石家庄](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B13000%E5%A5%97%E9%9B%86%E6%88%90%E6%88%BF%E5%B1%8B%E9%A9%B0%E6%8F%B4%E7%9F%B3%E5%AE%B6%E5%BA%84%23&Refer=top)
+
+1. [原来大厂是个地名](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%8E%82%E6%98%AF%E4%B8%AA%E5%9C%B0%E5%90%8D&Refer=top)
+
+1. [中科院谢雕案凶手被执行死刑](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E8%B0%A2%E9%9B%95%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [滴滴网约车违规出京被罚15万](https://s.weibo.com//weibo?q=%E6%BB%B4%E6%BB%B4%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%BF%9D%E8%A7%84%E5%87%BA%E4%BA%AC%E8%A2%AB%E7%BD%9A15%E4%B8%87&Refer=top)
+
+1. [翟潇闻滑雪比拿驾照容易](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E6%BB%91%E9%9B%AA%E6%AF%94%E6%8B%BF%E9%A9%BE%E7%85%A7%E5%AE%B9%E6%98%93%23&Refer=top)
+
+1. [铁路部门调整车票预售期为15天](https://s.weibo.com//weibo?q=%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E8%B0%83%E6%95%B4%E8%BD%A6%E7%A5%A8%E9%A2%84%E5%94%AE%E6%9C%9F%E4%B8%BA15%E5%A4%A9&Refer=top)
 
