@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 14:25:16
+## 微博今日热榜 更新于 2021-01-13 15:32:30
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -384,4 +384,44 @@
 1. [男子买特斯拉股票身价千万宣布退休](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E4%B9%B0%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E7%A5%A8%E8%BA%AB%E4%BB%B7%E5%8D%83%E4%B8%87%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91&Refer=top)
 
 1. [这保温瓶有点废纸](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BF%9D%E6%B8%A9%E7%93%B6%E6%9C%89%E7%82%B9%E5%BA%9F%E7%BA%B8%23&Refer=top)
+
+1. [教育局通报小学生排队被老师竹板打手](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E8%A2%AB%E8%80%81%E5%B8%88%E7%AB%B9%E6%9D%BF%E6%89%93%E6%89%8B%23&Refer=top)
+
+1. [40岁女子在贝加尔湖冰面下游85米](https://s.weibo.com//weibo?q=40%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E5%86%B0%E9%9D%A2%E4%B8%8B%E6%B8%B885%E7%B1%B3&Refer=top)
+
+1. [蓝鲸一口够我吃一年](https://s.weibo.com//weibo?q=%23%E8%93%9D%E9%B2%B8%E4%B8%80%E5%8F%A3%E5%A4%9F%E6%88%91%E5%90%83%E4%B8%80%E5%B9%B4%23&Refer=top)
+
+1. [道歉日](https://s.weibo.com//weibo?q=%E9%81%93%E6%AD%89%E6%97%A5&Refer=top)
+
+1. [男子约见男网友睡醒钱被转走](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%BA%A6%E8%A7%81%E7%94%B7%E7%BD%91%E5%8F%8B%E7%9D%A1%E9%86%92%E9%92%B1%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&Refer=top)
+
+1. [武汉快递今年春节不打烊](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E5%BF%AB%E9%80%92%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%8A%82%E4%B8%8D%E6%89%93%E7%83%8A&Refer=top)
+
+1. [YouTube下架特朗普新视频](https://s.weibo.com//weibo?q=YouTube%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [威海新增1例无症状详情](https://s.weibo.com//weibo?q=%23%E5%A8%81%E6%B5%B7%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [万达长白山187套别墅全拆除](https://s.weibo.com//weibo?q=%E4%B8%87%E8%BE%BE%E9%95%BF%E7%99%BD%E5%B1%B1187%E5%A5%97%E5%88%AB%E5%A2%85%E5%85%A8%E6%8B%86%E9%99%A4&Refer=top)
+
+1. [国药控股董事长因个人原因辞职](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%8D%AF%E6%8E%A7%E8%82%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%A0%E4%B8%AA%E4%BA%BA%E5%8E%9F%E5%9B%A0%E8%BE%9E%E8%81%8C&Refer=top)
+
+1. [乔丹体育更名为中乔体育](https://s.weibo.com//weibo?q=%E4%B9%94%E4%B8%B9%E4%BD%93%E8%82%B2%E6%9B%B4%E5%90%8D%E4%B8%BA%E4%B8%AD%E4%B9%94%E4%BD%93%E8%82%B2&Refer=top)
+
+1. [美众议院通过罢免特朗普决议草案](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BD%A2%E5%85%8D%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%23&Refer=top)
+
+1. [退役军人爬楼救2岁幼童摔骨折](https://s.weibo.com//weibo?q=%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E7%88%AC%E6%A5%BC%E6%95%912%E5%B2%81%E5%B9%BC%E7%AB%A5%E6%91%94%E9%AA%A8%E6%8A%98&Refer=top)
+
+1. [上阳赋里的电影级画面](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E9%98%B3%E8%B5%8B%E9%87%8C%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [格林9记三分](https://s.weibo.com//weibo?q=%E6%A0%BC%E6%9E%979%E8%AE%B0%E4%B8%89%E5%88%86&Refer=top)
+
+1. [湖人双杀火箭](https://s.weibo.com//weibo?q=%23%E6%B9%96%E4%BA%BA%E5%8F%8C%E6%9D%80%E7%81%AB%E7%AE%AD%23&Refer=top)
+
+1. [汤普森现场观战勇士](https://s.weibo.com//weibo?q=%E6%B1%A4%E6%99%AE%E6%A3%AE%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E5%8B%87%E5%A3%AB&Refer=top)
+
+1. [部分地区出现社区传播和多代传播](https://s.weibo.com//weibo?q=%23%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%87%BA%E7%8E%B0%E7%A4%BE%E5%8C%BA%E4%BC%A0%E6%92%AD%E5%92%8C%E5%A4%9A%E4%BB%A3%E4%BC%A0%E6%92%AD%23&Refer=top)
+
+1. [糯香紫米珍珠肉丸](https://s.weibo.com//weibo?q=%23%E7%B3%AF%E9%A6%99%E7%B4%AB%E7%B1%B3%E7%8F%8D%E7%8F%A0%E8%82%89%E4%B8%B8%23&Refer=top)
+
+1. [怎么会有这么乖的狗子](https://s.weibo.com//weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E8%BF%99%E4%B9%88%E4%B9%96%E7%9A%84%E7%8B%97%E5%AD%90%23&Refer=top)
 
