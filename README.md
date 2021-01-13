@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 21:39:44
+## 微博今日热榜 更新于 2021-01-13 22:31:09
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -606,4 +606,32 @@
 1. [孙坚发文告别殷沛](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%9D%9A%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%AE%B7%E6%B2%9B%23&Refer=top)
 
 1. [为什么石家庄部分村民要异地隔离](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%A8%E5%88%86%E6%9D%91%E6%B0%91%E8%A6%81%E5%BC%82%E5%9C%B0%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [黑龙江新增40例确诊病例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E40%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [武契奇说中国新冠疫苗质量极高就是小贵](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B4%A8%E9%87%8F%E6%9E%81%E9%AB%98%E5%B0%B1%E6%98%AF%E5%B0%8F%E8%B4%B5%23&Refer=top)
+
+1. [人民日报评周春梅法官遇害](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%91%A8%E6%98%A5%E6%A2%85%E6%B3%95%E5%AE%98%E9%81%87%E5%AE%B3%23&Refer=top)
+
+1. [黑龙江疫情](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%96%AB%E6%83%85&Refer=top)
+
+1. [宝蓝](https://s.weibo.com//weibo?q=%E5%AE%9D%E8%93%9D&Refer=top)
+
+1. [袁姗姗在线卑微求资源](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E5%9C%A8%E7%BA%BF%E5%8D%91%E5%BE%AE%E6%B1%82%E8%B5%84%E6%BA%90%23&Refer=top)
+
+1. [白白酱](https://s.weibo.com//weibo?q=%E7%99%BD%E7%99%BD%E9%85%B1&Refer=top)
+
+1. [蒋南孙活得好通透](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8D%97%E5%AD%99%E6%B4%BB%E5%BE%97%E5%A5%BD%E9%80%9A%E9%80%8F%23&Refer=top)
+
+1. [黑龙江望奎县惠七镇升为高风险](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9C%9B%E5%A5%8E%E5%8E%BF%E6%83%A0%E4%B8%83%E9%95%87%E5%8D%87%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [如何在农村阻断新冠疫情](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%9C%A8%E5%86%9C%E6%9D%91%E9%98%BB%E6%96%AD%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [黑龙江新增无症状感染者50例](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%8550%E4%BE%8B%23&Refer=top)
+
+1. [谢允教科书式告白](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%91%8A%E7%99%BD%23&Refer=top)
+
+1. [心疼朱锁锁](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E6%9C%B1%E9%94%81%E9%94%81&Refer=top)
+
+1. [望奎县与大连疫情病毒毒株100%同源](https://s.weibo.com//weibo?q=%E6%9C%9B%E5%A5%8E%E5%8E%BF%E4%B8%8E%E5%A4%A7%E8%BF%9E%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E6%AF%92%E6%A0%AA100%25%E5%90%8C%E6%BA%90&Refer=top)
 
