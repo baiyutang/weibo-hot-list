@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 04:27:16
+## 微博今日热榜 更新于 2021-01-14 05:20:19
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -136,4 +136,8 @@
 1. [武汉日夜](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top)
 
 1. [女神降临](https://s.weibo.com//weibo?q=%E5%A5%B3%E7%A5%9E%E9%99%8D%E4%B8%B4&Refer=top)
+
+1. [世界最大全民医疗保障网](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E5%85%A8%E6%B0%91%E5%8C%BB%E7%96%97%E4%BF%9D%E9%9A%9C%E7%BD%91%23&Refer=new_time)
+
+1. [日本将全面禁止外国人入境](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%A5%E5%A2%83%23&Refer=top)
 
