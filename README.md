@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-13 10:28:19
+## 微博今日热榜 更新于 2021-01-13 11:42:13
 1. [节前9点微倡议](https://s.weibo.com//weibo?q=%23%E8%8A%82%E5%89%8D9%E7%82%B9%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [朱锁锁发现谢宏祖撒谎](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E9%94%81%E9%94%81%E5%8F%91%E7%8E%B0%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%92%92%E8%B0%8E%23&Refer=top)
@@ -244,4 +244,44 @@
 1. [最高检对湖南女法官遇刺发声](https://s.weibo.com//weibo?q=%E6%9C%80%E9%AB%98%E6%A3%80%E5%AF%B9%E6%B9%96%E5%8D%97%E5%A5%B3%E6%B3%95%E5%AE%98%E9%81%87%E5%88%BA%E5%8F%91%E5%A3%B0&Refer=top)
 
 1. [顶楼第二季预告](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [虞书欣道歉](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%81%93%E6%AD%89&Refer=top)
+
+1. [微信屏蔽拼多多小红书等外链](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B1%8F%E8%94%BD%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%AD%89%E5%A4%96%E9%93%BE%23&Refer=top)
+
+1. [石家庄有人核酸检测6次才呈阳性](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%9C%89%E4%BA%BA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B6%E6%AC%A1%E6%89%8D%E5%91%88%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [石家庄共有56名确诊者参加过婚宴](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%85%B1%E6%9C%8956%E5%90%8D%E7%A1%AE%E8%AF%8A%E8%80%85%E5%8F%82%E5%8A%A0%E8%BF%87%E5%A9%9A%E5%AE%B4%23&Refer=top)
+
+1. [我会协调 但没协调下来](https://s.weibo.com//weibo?q=%E6%88%91%E4%BC%9A%E5%8D%8F%E8%B0%83%20%E4%BD%86%E6%B2%A1%E5%8D%8F%E8%B0%83%E4%B8%8B%E6%9D%A5&Refer=top)
+
+1. [二宫和也当爸](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%AE%AB%E5%92%8C%E4%B9%9F%E5%BD%93%E7%88%B8%23&Refer=top)
+
+1. [遭退单代孕女童涉事公司浮出水面](https://s.weibo.com//weibo?q=%23%E9%81%AD%E9%80%80%E5%8D%95%E4%BB%A3%E5%AD%95%E5%A5%B3%E7%AB%A5%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2%23&Refer=top)
+
+1. [只要我上班时穿得够土](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E8%A6%81%E6%88%91%E4%B8%8A%E7%8F%AD%E6%97%B6%E7%A9%BF%E5%BE%97%E5%A4%9F%E5%9C%9F%23&Refer=top)
+
+1. [齐齐哈尔](https://s.weibo.com//weibo?q=%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94&Refer=top)
+
+1. [詹姆斯不看筐三分](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E7%9C%8B%E7%AD%90%E4%B8%89%E5%88%86%23&Refer=top)
+
+1. [北方人根深蒂固的儿化音](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%96%B9%E4%BA%BA%E6%A0%B9%E6%B7%B1%E8%92%82%E5%9B%BA%E7%9A%84%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top)
+
+1. [PayPal全资控股国付宝](https://s.weibo.com//weibo?q=%23PayPal%E5%85%A8%E8%B5%84%E6%8E%A7%E8%82%A1%E5%9B%BD%E4%BB%98%E5%AE%9D%23&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [大妈掏400元想让公交变专车](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8E%8F400%E5%85%83%E6%83%B3%E8%AE%A9%E5%85%AC%E4%BA%A4%E5%8F%98%E4%B8%93%E8%BD%A6%23&Refer=top)
+
+1. [杜兰特关键5分](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E5%85%B3%E9%94%AE5%E5%88%86%23&Refer=top)
+
+1. [拼多多被辞当事人回应](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E8%BE%9E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [如何看待把饭圈带入现实](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%8A%8A%E9%A5%AD%E5%9C%88%E5%B8%A6%E5%85%A5%E7%8E%B0%E5%AE%9E%23&Refer=top)
+
+1. [世界首台高温超导高速磁浮工程化样车](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E9%A6%96%E5%8F%B0%E9%AB%98%E6%B8%A9%E8%B6%85%E5%AF%BC%E9%AB%98%E9%80%9F%E7%A3%81%E6%B5%AE%E5%B7%A5%E7%A8%8B%E5%8C%96%E6%A0%B7%E8%BD%A6&Refer=top)
+
+1. [杜兰特34分](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B934%E5%88%86&Refer=top)
+
+1. [官方回应防疫人员做人工呼吸救人](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E5%81%9A%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%95%91%E4%BA%BA&Refer=top)
 
