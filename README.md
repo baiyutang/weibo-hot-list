@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 02:15:46
+## 微博今日热榜 更新于 2021-01-15 03:44:16
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -122,4 +122,14 @@
 1. [谢允百毒不侵](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E7%99%BE%E6%AF%92%E4%B8%8D%E4%BE%B5%23&Refer=top)
 
 1. [约旦正式启动新冠疫苗全国接种](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E6%97%A6%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%85%A8%E5%9B%BD%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [张歆艺说袁弘周一围是铁憨憨](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%AD%86%E8%89%BA%E8%AF%B4%E8%A2%81%E5%BC%98%E5%91%A8%E4%B8%80%E5%9B%B4%E6%98%AF%E9%93%81%E6%86%A8%E6%86%A8%23&Refer=top)
+
+1. [傅首尔 藏起来的崩溃才是勋章](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E8%97%8F%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%B4%A9%E6%BA%83%E6%89%8D%E6%98%AF%E5%8B%8B%E7%AB%A0&Refer=top)
+
+1. [王者荣耀冬冠四强](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%AC%E5%86%A0%E5%9B%9B%E5%BC%BA&Refer=top)
+
+1. [大连卢书记](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E5%8D%A2%E4%B9%A6%E8%AE%B0&Refer=top)
+
+1. [放假后滞留石家庄大学生共2127人](https://s.weibo.com//weibo?q=%23%E6%94%BE%E5%81%87%E5%90%8E%E6%BB%9E%E7%95%99%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%B12127%E4%BA%BA%23&Refer=top)
 
