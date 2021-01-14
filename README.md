@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 04:25:58
+## 微博今日热榜 更新于 2021-01-15 05:17:27
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -134,4 +134,8 @@
 1. [放假后滞留石家庄大学生共2127人](https://s.weibo.com//weibo?q=%23%E6%94%BE%E5%81%87%E5%90%8E%E6%BB%9E%E7%95%99%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%B12127%E4%BA%BA%23&Refer=top)
 
 1. [春节防疫微倡议](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E9%98%B2%E7%96%AB%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
+
+1. [接种疫苗后仍要遵守防疫措施](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E5%90%8E%E4%BB%8D%E8%A6%81%E9%81%B5%E5%AE%88%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD%23&Refer=new_time)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
 
