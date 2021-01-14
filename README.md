@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 13:35:13
+## 微博今日热榜 更新于 2021-01-14 14:27:20
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -344,4 +344,20 @@
 1. [全国有2个高风险70个中风险地区](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%892%E4%B8%AA%E9%AB%98%E9%A3%8E%E9%99%A970%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
 
 1. [高空高速察打一体无人机首飞成功](https://s.weibo.com//weibo?q=%E9%AB%98%E7%A9%BA%E9%AB%98%E9%80%9F%E5%AF%9F%E6%89%93%E4%B8%80%E4%BD%93%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&Refer=top)
+
+1. [央视春晚语言类节目已审定](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%AF%AD%E8%A8%80%E7%B1%BB%E8%8A%82%E7%9B%AE%E5%B7%B2%E5%AE%A1%E5%AE%9A%23&Refer=top)
+
+1. [河北首批12名新冠肺炎患者治愈出院](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E9%A6%96%E6%89%B912%E5%90%8D%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%82%A3%E8%80%85%E6%B2%BB%E6%84%88%E5%87%BA%E9%99%A2%23&Refer=top)
+
+1. [麦当劳肉夹馍被曝肉量极少遭吐嘈](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E8%82%89%E5%A4%B9%E9%A6%8D%E8%A2%AB%E6%9B%9D%E8%82%89%E9%87%8F%E6%9E%81%E5%B0%91%E9%81%AD%E5%90%90%E5%98%88%23&Refer=top)
+
+1. [讨厌纸吸管的原因](https://s.weibo.com//weibo?q=%23%E8%AE%A8%E5%8E%8C%E7%BA%B8%E5%90%B8%E7%AE%A1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [被卖家身份耽误了的辩手](https://s.weibo.com//weibo?q=%E8%A2%AB%E5%8D%96%E5%AE%B6%E8%BA%AB%E4%BB%BD%E8%80%BD%E8%AF%AF%E4%BA%86%E7%9A%84%E8%BE%A9%E6%89%8B&Refer=top)
+
+1. [辽宁核酸检测团队支援石家庄](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%9B%A2%E9%98%9F%E6%94%AF%E6%8F%B4%E7%9F%B3%E5%AE%B6%E5%BA%84%23&Refer=top)
+
+1. [致所有我曾爱过的男孩3预告](https://s.weibo.com//weibo?q=%E8%87%B4%E6%89%80%E6%9C%89%E6%88%91%E6%9B%BE%E7%88%B1%E8%BF%87%E7%9A%84%E7%94%B7%E5%AD%A93%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [当谐音梗遇到英语单词](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%B0%90%E9%9F%B3%E6%A2%97%E9%81%87%E5%88%B0%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%23&Refer=top)
 
