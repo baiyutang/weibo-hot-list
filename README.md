@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 20:20:25
+## 微博今日热榜 更新于 2021-01-14 21:39:19
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -538,4 +538,40 @@
 1. [奇葩说](https://s.weibo.com//weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4&Refer=top)
 
 1. [RNG SN](https://s.weibo.com//weibo?q=RNG%20SN&Refer=top)
+
+1. [官方回应大连一女子不配合防疫登记](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E8%BF%9E%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%85%8D%E5%90%88%E9%98%B2%E7%96%AB%E7%99%BB%E8%AE%B0%23&Refer=top)
+
+1. [倪妮情绪张力](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE%E6%83%85%E7%BB%AA%E5%BC%A0%E5%8A%9B%23&Refer=top)
+
+1. [有翡大结局](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [赵丽颖王一博吻戏](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%90%BB%E6%88%8F&Refer=top)
+
+1. [成年人的崩溃要不要藏起来](https://s.weibo.com//weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%E8%A6%81%E4%B8%8D%E8%A6%81%E8%97%8F%E8%B5%B7%E6%9D%A5%23&Refer=top)
+
+1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B&Refer=top)
+
+1. [河南新增16900个自然村通硬化路](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E16900%E4%B8%AA%E8%87%AA%E7%84%B6%E6%9D%91%E9%80%9A%E7%A1%AC%E5%8C%96%E8%B7%AF&Refer=top)
+
+1. [特战女兵增肥锻炼后负重跑第一](https://s.weibo.com//weibo?q=%E7%89%B9%E6%88%98%E5%A5%B3%E5%85%B5%E5%A2%9E%E8%82%A5%E9%94%BB%E7%82%BC%E5%90%8E%E8%B4%9F%E9%87%8D%E8%B7%91%E7%AC%AC%E4%B8%80&Refer=top)
+
+1. [推特开通王一博专属板块](https://s.weibo.com//weibo?q=%E6%8E%A8%E7%89%B9%E5%BC%80%E9%80%9A%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%93%E5%B1%9E%E6%9D%BF%E5%9D%97&Refer=top)
+
+1. [丢失的手机出现在伊朗](https://s.weibo.com//weibo?q=%23%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%BC%8A%E6%9C%97%23&Refer=top)
+
+1. [郭艾伦背传韩德君暴扣](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E8%83%8C%E4%BC%A0%E9%9F%A9%E5%BE%B7%E5%90%9B%E6%9A%B4%E6%89%A3&Refer=top)
+
+1. [石家庄应急物资中转调运站选址](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%BA%94%E6%80%A5%E7%89%A9%E8%B5%84%E4%B8%AD%E8%BD%AC%E8%B0%83%E8%BF%90%E7%AB%99%E9%80%89%E5%9D%80&Refer=top)
+
+1. [刘诗诗爆发力](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top)
+
+1. [郭艾伦吐槽朱荣振](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E5%90%90%E6%A7%BD%E6%9C%B1%E8%8D%A3%E6%8C%AF&Refer=top)
+
+1. [深圳vs辽宁](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3vs%E8%BE%BD%E5%AE%81&Refer=top)
+
+1. [齐齐哈尔新增3例无症状](https://s.weibo.com//weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [傅首尔 藏起来的崩溃才是勋章](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E8%97%8F%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%B4%A9%E6%BA%83%E6%89%8D%E6%98%AF%E5%8B%8B%E7%AB%A0&Refer=top)
+
+1. [谢允百毒不侵](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E7%99%BE%E6%AF%92%E4%B8%8D%E4%BE%B5%23&Refer=top)
 
