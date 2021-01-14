@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 11:49:26
+## 微博今日热榜 更新于 2021-01-14 12:28:14
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -286,4 +286,20 @@
 1. [德意志银行将与特朗普断绝商业往来](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E6%84%8F%E5%BF%97%E9%93%B6%E8%A1%8C%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%AD%E7%BB%9D%E5%95%86%E4%B8%9A%E5%BE%80%E6%9D%A5%23&Refer=top)
 
 1. [央视评多地出现借疫情防控搞诈骗现象](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%80%9F%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%90%9E%E8%AF%88%E9%AA%97%E7%8E%B0%E8%B1%A1%23&Refer=top)
+
+1. [春节防疫微倡议](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E9%98%B2%E7%96%AB%E5%BE%AE%E5%80%A1%E8%AE%AE%23&Refer=new_time)
+
+1. [韩国将翻拍三十而已](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%86%E7%BF%BB%E6%8B%8D%E4%B8%89%E5%8D%81%E8%80%8C%E5%B7%B2%23&Refer=top)
+
+1. [石家庄集中隔离点土地平整完毕](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E7%82%B9%E5%9C%9F%E5%9C%B0%E5%B9%B3%E6%95%B4%E5%AE%8C%E6%AF%95%23&Refer=top)
+
+1. [周翡谢允花瓣吻海报](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%BF%A1%E8%B0%A2%E5%85%81%E8%8A%B1%E7%93%A3%E5%90%BB%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [石家庄硬核防疫口号](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%A1%AC%E6%A0%B8%E9%98%B2%E7%96%AB%E5%8F%A3%E5%8F%B7&Refer=top)
+
+1. [侍神令新预告](https://s.weibo.com//weibo?q=%23%E4%BE%8D%E7%A5%9E%E4%BB%A4%E6%96%B0%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [百度回应公开员工工作状态预测专利](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%BA%A6%E5%9B%9E%E5%BA%94%E5%85%AC%E5%BC%80%E5%91%98%E5%B7%A5%E5%B7%A5%E4%BD%9C%E7%8A%B6%E6%80%81%E9%A2%84%E6%B5%8B%E4%B8%93%E5%88%A9%23&Refer=top)
+
+1. [河北1死亡病例患有基础性疾病](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%971%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E6%82%A3%E6%9C%89%E5%9F%BA%E7%A1%80%E6%80%A7%E7%96%BE%E7%97%85%23&Refer=top)
 
