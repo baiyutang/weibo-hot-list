@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 00:28:33
+## 微博今日热榜 更新于 2021-01-15 02:15:46
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -104,4 +104,22 @@
 1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
 
 1. [小风暴组团二刷](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%A3%8E%E6%9A%B4%E7%BB%84%E5%9B%A2%E4%BA%8C%E5%88%B7%23&Refer=top)
+
+1. [我国2020年外贸同比增长1.9%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD2020%E5%B9%B4%E5%A4%96%E8%B4%B8%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF1.9%25%23&Refer=new_time)
+
+1. [大连通报卢书记事件](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E9%80%9A%E6%8A%A5%E5%8D%A2%E4%B9%A6%E8%AE%B0%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [姚安娜 为什么大家喜欢姐姐不喜欢我](https://s.weibo.com//weibo?q=%E5%A7%9A%E5%AE%89%E5%A8%9C%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E5%96%9C%E6%AC%A2%E5%A7%90%E5%A7%90%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%88%91&Refer=top)
+
+1. [李诞 成年人的崩溃从算了开始](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%AF%9E%20%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%E4%BB%8E%E7%AE%97%E4%BA%86%E5%BC%80%E5%A7%8B&Refer=top)
+
+1. [袁姗姗哭戏](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E5%93%AD%E6%88%8F%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [流金岁月意难平](https://s.weibo.com//weibo?q=%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88%E6%84%8F%E9%9A%BE%E5%B9%B3&Refer=top)
+
+1. [谢允百毒不侵](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E7%99%BE%E6%AF%92%E4%B8%8D%E4%BE%B5%23&Refer=top)
+
+1. [约旦正式启动新冠疫苗全国接种](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E6%97%A6%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%85%A8%E5%9B%BD%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
