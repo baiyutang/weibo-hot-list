@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 05:17:27
+## 微博今日热榜 更新于 2021-01-15 06:18:02
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -138,4 +138,8 @@
 1. [接种疫苗后仍要遵守防疫措施](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E5%90%8E%E4%BB%8D%E8%A6%81%E9%81%B5%E5%AE%88%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD%23&Refer=new_time)
 
 1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [乔欣垫木板和胡一天合照](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%AC%A3%E5%9E%AB%E6%9C%A8%E6%9D%BF%E5%92%8C%E8%83%A1%E4%B8%80%E5%A4%A9%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [孟晚舟](https://s.weibo.com//weibo?q=%E5%AD%9F%E6%99%9A%E8%88%9F&Refer=top)
 
