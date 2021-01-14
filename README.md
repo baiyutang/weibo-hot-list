@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 21:39:19
+## 微博今日热榜 更新于 2021-01-14 22:27:27
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -574,4 +574,34 @@
 1. [傅首尔 藏起来的崩溃才是勋章](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E8%97%8F%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%B4%A9%E6%BA%83%E6%89%8D%E6%98%AF%E5%8B%8B%E7%AB%A0&Refer=top)
 
 1. [谢允百毒不侵](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%85%81%E7%99%BE%E6%AF%92%E4%B8%8D%E4%BE%B5%23&Refer=top)
+
+1. [谢宏祖家破产](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%AE%8F%E7%A5%96%E5%AE%B6%E7%A0%B4%E4%BA%A7%23&Refer=top)
+
+1. [Amber 创4](https://s.weibo.com//weibo?q=Amber%20%E5%88%9B4&Refer=top)
+
+1. [袁媛朋友圈](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%AA%9B%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [Xiaohu2000杀](https://s.weibo.com//weibo?q=%23Xiaohu2000%E6%9D%80%23&Refer=top)
+
+1. [杨洋的腰](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9A%84%E8%85%B0%23&Refer=top)
+
+1. [石家庄藁城区将对全域消毒](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%97%81%E5%9F%8E%E5%8C%BA%E5%B0%86%E5%AF%B9%E5%85%A8%E5%9F%9F%E6%B6%88%E6%AF%92%23&Refer=top)
+
+1. [张萌减肥失败vlog](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E5%87%8F%E8%82%A5%E5%A4%B1%E8%B4%A5vlog%23&Refer=top)
+
+1. [小风暴结局](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A3%8E%E6%9A%B4%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [电视剧江山如此多娇](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E6%B1%9F%E5%B1%B1%E5%A6%82%E6%AD%A4%E5%A4%9A%E5%A8%87%23&Refer=top)
+
+1. [蒋南孙保护朱锁锁](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8D%97%E5%AD%99%E4%BF%9D%E6%8A%A4%E6%9C%B1%E9%94%81%E9%94%81%23&Refer=top)
+
+1. [熊浩 会哭的螺丝钉会生锈](https://s.weibo.com//weibo?q=%E7%86%8A%E6%B5%A9%20%E4%BC%9A%E5%93%AD%E7%9A%84%E8%9E%BA%E4%B8%9D%E9%92%89%E4%BC%9A%E7%94%9F%E9%94%88&Refer=top)
+
+1. [董子健 爆单了抽空慢慢骂](https://s.weibo.com//weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%20%E7%88%86%E5%8D%95%E4%BA%86%E6%8A%BD%E7%A9%BA%E6%85%A2%E6%85%A2%E9%AA%82&Refer=top)
+
+1. [温少卿表白丛容](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%B0%91%E5%8D%BF%E8%A1%A8%E7%99%BD%E4%B8%9B%E5%AE%B9%23&Refer=top)
+
+1. [廊坊全员核酸检测阴性](https://s.weibo.com//weibo?q=%E5%BB%8A%E5%9D%8A%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [RNG战胜SN](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CSN%23&Refer=top)
 
