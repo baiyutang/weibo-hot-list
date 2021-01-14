@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-14 18:34:27
+## 微博今日热榜 更新于 2021-01-14 19:32:31
 1. [春运期间推动健康码全国一码通行](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E6%8E%A8%E5%8A%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [多多用自己的脸打开了孙莉手机](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%9A%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%B8%E6%89%93%E5%BC%80%E4%BA%86%E5%AD%99%E8%8E%89%E6%89%8B%E6%9C%BA%23&Refer=top)
@@ -496,4 +496,26 @@
 1. [男生画女团妆是什么体验](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%BB%E5%A5%B3%E5%9B%A2%E5%A6%86%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
 
 1. [邢台南宫新增2例确诊病例](https://s.weibo.com//weibo?q=%23%E9%82%A2%E5%8F%B0%E5%8D%97%E5%AE%AB%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [孙艺珍生日蛋糕图是爱的迫降](https://s.weibo.com//weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E5%9B%BE%E6%98%AF%E7%88%B1%E7%9A%84%E8%BF%AB%E9%99%8D%23&Refer=top)
+
+1. [天津3份大桥道雪糕样本核酸呈阳性](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A53%E4%BB%BD%E5%A4%A7%E6%A1%A5%E9%81%93%E9%9B%AA%E7%B3%95%E6%A0%B7%E6%9C%AC%E6%A0%B8%E9%85%B8%E5%91%88%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [39岁网络技术员入住养老院](https://s.weibo.com//weibo?q=%2339%E5%B2%81%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%91%98%E5%85%A5%E4%BD%8F%E5%85%BB%E8%80%81%E9%99%A2%23&Refer=top)
+
+1. [黑龙江大庆新增1例无症状](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%BA%86%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [推特开通肖战专属话题板块](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E7%89%B9%E5%BC%80%E9%80%9A%E8%82%96%E6%88%98%E4%B8%93%E5%B1%9E%E8%AF%9D%E9%A2%98%E6%9D%BF%E5%9D%97%23&Refer=top)
+
+1. [陈伟霆掐周迅脖子](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%8E%90%E5%91%A8%E8%BF%85%E8%84%96%E5%AD%90%23&Refer=top)
+
+1. [穆雷新冠肺炎检测呈阳性](https://s.weibo.com//weibo?q=%E7%A9%86%E9%9B%B7%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [寒潮蓝色预警](https://s.weibo.com//weibo?q=%23%E5%AF%92%E6%BD%AE%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [2020王者荣耀冬冠](https://s.weibo.com//weibo?q=%232020%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%AC%E5%86%A0%23&Refer=top)
+
+1. [介绍起来特别难的姓](https://s.weibo.com//weibo?q=%23%E4%BB%8B%E7%BB%8D%E8%B5%B7%E6%9D%A5%E7%89%B9%E5%88%AB%E9%9A%BE%E7%9A%84%E5%A7%93%23&Refer=top)
+
+1. [大连八一路高层住宅大火](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E5%85%AB%E4%B8%80%E8%B7%AF%E9%AB%98%E5%B1%82%E4%BD%8F%E5%AE%85%E5%A4%A7%E7%81%AB&Refer=top)
 
