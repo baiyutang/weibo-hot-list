@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 21:38:00
+## 微博今日热榜 更新于 2021-01-15 22:25:46
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -544,4 +544,26 @@
 1. [李易峰看与刘德华的拉郎视频](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E7%9C%8B%E4%B8%8E%E5%88%98%E5%BE%B7%E5%8D%8E%E7%9A%84%E6%8B%89%E9%83%8E%E8%A7%86%E9%A2%91%23&Refer=top)
 
 1. [丁彦雨航入选三人篮球国家集训队](https://s.weibo.com//weibo?q=%E4%B8%81%E5%BD%A6%E9%9B%A8%E8%88%AA%E5%85%A5%E9%80%89%E4%B8%89%E4%BA%BA%E7%AF%AE%E7%90%83%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F&Refer=top)
+
+1. [石家庄阳性病例没有在社区蔓延](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%E6%B2%A1%E6%9C%89%E5%9C%A8%E7%A4%BE%E5%8C%BA%E8%94%93%E5%BB%B6&Refer=top)
+
+1. [把活动办成了酒席的样子](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E6%B4%BB%E5%8A%A8%E5%8A%9E%E6%88%90%E4%BA%86%E9%85%92%E5%B8%AD%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top)
+
+1. [肖波](https://s.weibo.com//weibo?q=%E8%82%96%E6%B3%A2&Refer=top)
+
+1. [焦茶去世](https://s.weibo.com//weibo?q=%E7%84%A6%E8%8C%B6%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [湖北省委巡视组原副组长黄学军被查](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%B7%A1%E8%A7%86%E7%BB%84%E5%8E%9F%E5%89%AF%E7%BB%84%E9%95%BF%E9%BB%84%E5%AD%A6%E5%86%9B%E8%A2%AB%E6%9F%A5%23&Refer=top)
+
+1. [杭州大剧院](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%89%A7%E9%99%A2&Refer=top)
+
+1. [新冠病毒疫苗接种进展](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%BF%9B%E5%B1%95%23&Refer=top)
+
+1. [重庆两拉石子货车侧翻多人被埋](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E4%B8%A4%E6%8B%89%E7%9F%B3%E5%AD%90%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B&Refer=top)
+
+1. [华彩少年](https://s.weibo.com//weibo?q=%E5%8D%8E%E5%BD%A9%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [卧龙发布全球唯一白色大熊猫影像](https://s.weibo.com//weibo?q=%E5%8D%A7%E9%BE%99%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%BD%B1%E5%83%8F&Refer=top)
+
+1. [VAVA呛丁太昇](https://s.weibo.com//weibo?q=VAVA%E5%91%9B%E4%B8%81%E5%A4%AA%E6%98%87&Refer=top)
 
