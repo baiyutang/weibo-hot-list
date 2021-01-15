@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 05:20:33
+## 微博今日热榜 更新于 2021-01-16 06:21:55
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -130,4 +130,14 @@
 1. [百年恰是风华正茂](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E6%81%B0%E6%98%AF%E9%A3%8E%E5%8D%8E%E6%AD%A3%E8%8C%82%23&Refer=new_time)
 
 1. [央视记者实录美国国会山现状](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E5%AE%9E%E5%BD%95%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%B1%B1%E7%8E%B0%E7%8A%B6%23&Refer=top)
+
+1. [漫画里的扶贫故事](https://s.weibo.com//weibo?q=%23%E6%BC%AB%E7%94%BB%E9%87%8C%E7%9A%84%E6%89%B6%E8%B4%AB%E6%95%85%E4%BA%8B%23&Refer=new_time)
+
+1. [外交部回应两名世卫专家未能顺利来华](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%90%8D%E4%B8%96%E5%8D%AB%E4%B8%93%E5%AE%B6%E6%9C%AA%E8%83%BD%E9%A1%BA%E5%88%A9%E6%9D%A5%E5%8D%8E&Refer=top)
+
+1. [孟美岐VAVA燕尾蝶](https://s.weibo.com//weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90VAVA%E7%87%95%E5%B0%BE%E8%9D%B6&Refer=top)
+
+1. [朝鲜举行阅兵式展示多种新型武器](https://s.weibo.com//weibo?q=%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E9%98%85%E5%85%B5%E5%BC%8F%E5%B1%95%E7%A4%BA%E5%A4%9A%E7%A7%8D%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8&Refer=top)
+
+1. [救遭猥亵女同学被捕男生发声](https://s.weibo.com//weibo?q=%23%E6%95%91%E9%81%AD%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%8D%95%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
 
