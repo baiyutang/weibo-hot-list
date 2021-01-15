@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 03:43:32
+## 微博今日热榜 更新于 2021-01-16 04:27:24
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -120,4 +120,10 @@
 1. [为爱尖叫阵容](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E9%98%B5%E5%AE%B9%23&Refer=top)
 
 1. [张韶涵赵磊高音](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B5%B5%E7%A3%8A%E9%AB%98%E9%9F%B3%23&Refer=top)
+
+1. [年底前实现社保卡申领启用跨省通办](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E5%BA%95%E5%89%8D%E5%AE%9E%E7%8E%B0%E7%A4%BE%E4%BF%9D%E5%8D%A1%E7%94%B3%E9%A2%86%E5%90%AF%E7%94%A8%E8%B7%A8%E7%9C%81%E9%80%9A%E5%8A%9E%23&Refer=new_time)
+
+1. [天津雪糕](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E9%9B%AA%E7%B3%95&Refer=top)
+
+1. [肖战为爱尖叫彩排](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E5%BD%A9%E6%8E%92%23&Refer=top)
 
