@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 11:44:58
+## 微博今日热榜 更新于 2021-01-15 12:25:24
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -290,4 +290,20 @@
 1. [印尼发生6.2级地震已致3死24伤](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F6.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B43%E6%AD%BB24%E4%BC%A4&Refer=top)
 
 1. [常州一河北籍货车司机有发热症状](https://s.weibo.com//weibo?q=%E5%B8%B8%E5%B7%9E%E4%B8%80%E6%B2%B3%E5%8C%97%E7%B1%8D%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%89%E5%8F%91%E7%83%AD%E7%97%87%E7%8A%B6&Refer=top)
+
+1. [最新款复兴号列车什么样](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E6%AC%BE%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%88%97%E8%BD%A6%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=new_time)
+
+1. [姚安娜否认美国国籍](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%90%A6%E8%AE%A4%E7%BE%8E%E5%9B%BD%E5%9B%BD%E7%B1%8D%23&Refer=top)
+
+1. [小猫咪才没有什么坏心思](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%89%8D%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E5%9D%8F%E5%BF%83%E6%80%9D%23&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [深圳公寓业主亏钱抛售](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%AC%E5%AF%93%E4%B8%9A%E4%B8%BB%E4%BA%8F%E9%92%B1%E6%8A%9B%E5%94%AE%23&Refer=top)
+
+1. [上海市考成绩](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [美国麻省理工知名华人教授陈刚被捕](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E7%9F%A5%E5%90%8D%E5%8D%8E%E4%BA%BA%E6%95%99%E6%8E%88%E9%99%88%E5%88%9A%E8%A2%AB%E6%8D%95&Refer=top)
+
+1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
 
