@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 04:27:24
+## 微博今日热榜 更新于 2021-01-16 05:20:33
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -126,4 +126,8 @@
 1. [天津雪糕](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E9%9B%AA%E7%B3%95&Refer=top)
 
 1. [肖战为爱尖叫彩排](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E5%BD%A9%E6%8E%92%23&Refer=top)
+
+1. [百年恰是风华正茂](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E6%81%B0%E6%98%AF%E9%A3%8E%E5%8D%8E%E6%AD%A3%E8%8C%82%23&Refer=new_time)
+
+1. [央视记者实录美国国会山现状](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E5%AE%9E%E5%BD%95%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%B1%B1%E7%8E%B0%E7%8A%B6%23&Refer=top)
 
