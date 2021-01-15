@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 22:25:46
+## 微博今日热榜 更新于 2021-01-15 23:16:53
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -566,4 +566,28 @@
 1. [卧龙发布全球唯一白色大熊猫影像](https://s.weibo.com//weibo?q=%E5%8D%A7%E9%BE%99%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E7%99%BD%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%BD%B1%E5%83%8F&Refer=top)
 
 1. [VAVA呛丁太昇](https://s.weibo.com//weibo?q=VAVA%E5%91%9B%E4%B8%81%E5%A4%AA%E6%98%87&Refer=top)
+
+1. [支付宝等平台不许再卖互联网存款产品](https://s.weibo.com//weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E7%AD%89%E5%B9%B3%E5%8F%B0%E4%B8%8D%E8%AE%B8%E5%86%8D%E5%8D%96%E4%BA%92%E8%81%94%E7%BD%91%E5%AD%98%E6%AC%BE%E4%BA%A7%E5%93%81%23&Refer=top)
+
+1. [叶谨言朱锁锁大结局](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E8%B0%A8%E8%A8%80%E6%9C%B1%E9%94%81%E9%94%81%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [大使馆回应中国情侣柬埔寨遇害](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BE%A3%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%87%E5%AE%B3&Refer=top)
+
+1. [鲁尼退役](https://s.weibo.com//weibo?q=%E9%B2%81%E5%B0%BC%E9%80%80%E5%BD%B9&Refer=top)
+
+1. [上海发布首套沪语防护海报](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E9%A6%96%E5%A5%97%E6%B2%AA%E8%AF%AD%E9%98%B2%E6%8A%A4%E6%B5%B7%E6%8A%A5&Refer=top)
+
+1. [齐齐哈尔开展全员核酸检测](https://s.weibo.com//weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%BC%80%E5%B1%95%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [倪妮画房子告别朱锁锁](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE%E7%94%BB%E6%88%BF%E5%AD%90%E5%91%8A%E5%88%AB%E6%9C%B1%E9%94%81%E9%94%81%23&Refer=top)
+
+1. [缅甸帅和尚](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B8%E5%B8%85%E5%92%8C%E5%B0%9A&Refer=top)
+
+1. [哈哈哈哈哈](https://s.weibo.com//weibo?q=%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88&Refer=top)
+
+1. [张韶涵赵磊高音](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B5%B5%E7%A3%8A%E9%AB%98%E9%9F%B3&Refer=top)
+
+1. [已有20多个国家订购中国新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E6%9C%8920%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E8%AE%A2%E8%B4%AD%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [最强大脑](https://s.weibo.com//weibo?q=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&Refer=top)
 
