@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-15 07:26:44
+## 微博今日热榜 更新于 2021-01-15 08:34:51
 1. [新冠疫苗接种防诈骗指南](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [余罪作者追阳光之下](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%BD%AA%E4%BD%9C%E8%80%85%E8%BF%BD%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -154,4 +154,30 @@
 1. [三星Galaxy S21](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9FGalaxy%20S21&Refer=top)
 
 1. [河北两字的笔画可以组成加油](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%A4%E5%AD%97%E7%9A%84%E7%AC%94%E7%94%BB%E5%8F%AF%E4%BB%A5%E7%BB%84%E6%88%90%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [怒怼大连卢书记志愿小伙回应](https://s.weibo.com//weibo?q=%23%E6%80%92%E6%80%BC%E5%A4%A7%E8%BF%9E%E5%8D%A2%E4%B9%A6%E8%AE%B0%E5%BF%97%E6%84%BF%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [黑龙江新增43例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E43%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [大桥道涉疫雪糕流入天津市场390盒](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%A1%A5%E9%81%93%E6%B6%89%E7%96%AB%E9%9B%AA%E7%B3%95%E6%B5%81%E5%85%A5%E5%A4%A9%E6%B4%A5%E5%B8%82%E5%9C%BA390%E7%9B%92%23&Refer=top)
+
+1. [谢允 以后都听你的娘子](https://s.weibo.com//weibo?q=%E8%B0%A2%E5%85%81%20%E4%BB%A5%E5%90%8E%E9%83%BD%E5%90%AC%E4%BD%A0%E7%9A%84%E5%A8%98%E5%AD%90&Refer=top)
+
+1. [广东新增本土无症状1例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61%E4%BE%8B%23&Refer=top)
+
+1. [把用户体验做到极致是什么样子](https://s.weibo.com//weibo?q=%E6%8A%8A%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90&Refer=top)
+
+1. [美国发现三种本土新冠变异毒株](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%89%E7%A7%8D%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA&Refer=top)
+
+1. [美国新冠肺炎超过2322万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%85%E8%BF%872322%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [腿太短不要穿汉服去骑马](https://s.weibo.com//weibo?q=%23%E8%85%BF%E5%A4%AA%E7%9F%AD%E4%B8%8D%E8%A6%81%E7%A9%BF%E6%B1%89%E6%9C%8D%E5%8E%BB%E9%AA%91%E9%A9%AC%23&Refer=top)
+
+1. [黑龙江新增31例无症状](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E31%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
+
+1. [挪威23名老人接种辉瑞新冠疫苗后死亡](https://s.weibo.com//weibo?q=%E6%8C%AA%E5%A8%8123%E5%90%8D%E8%80%81%E4%BA%BA%E6%8E%A5%E7%A7%8D%E8%BE%89%E7%91%9E%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%90%8E%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [导弹发射后空中直角漂移](https://s.weibo.com//weibo?q=%23%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%B0%84%E5%90%8E%E7%A9%BA%E4%B8%AD%E7%9B%B4%E8%A7%92%E6%BC%82%E7%A7%BB%23&Refer=top)
 
