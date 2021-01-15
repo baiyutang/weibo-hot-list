@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 02:13:58
+## 微博今日热榜 更新于 2021-01-16 03:43:32
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -112,4 +112,12 @@
 1. [黄明昊不规则破洞皮裤](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E4%B8%8D%E8%A7%84%E5%88%99%E7%A0%B4%E6%B4%9E%E7%9A%AE%E8%A3%A4%23&Refer=top)
 
 1. [周深无所畏惧](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A7%23&Refer=top)
+
+1. [重庆才是真的赛博朋克2077](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077%23&Refer=top)
+
+1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
+
+1. [为爱尖叫阵容](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%88%B1%E5%B0%96%E5%8F%AB%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [张韶涵赵磊高音](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B5%B5%E7%A3%8A%E9%AB%98%E9%9F%B3%23&Refer=top)
 
