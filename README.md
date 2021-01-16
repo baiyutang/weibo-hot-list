@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 08:38:07
+## 微博今日热榜 更新于 2021-01-16 10:34:39
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -168,4 +168,44 @@
 1. [流金岁月](https://s.weibo.com//weibo?q=%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88&Refer=top)
 
 1. [卢书记事件志愿者回应](https://s.weibo.com//weibo?q=%E5%8D%A2%E4%B9%A6%E8%AE%B0%E4%BA%8B%E4%BB%B6%E5%BF%97%E6%84%BF%E8%80%85%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [孙杨禁赛判决撤销原因官方公布](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A8%E7%A6%81%E8%B5%9B%E5%88%A4%E5%86%B3%E6%92%A4%E9%94%80%E5%8E%9F%E5%9B%A0%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [爱奇艺有毛病吧](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%9C%89%E6%AF%9B%E7%97%85%E5%90%A7%23&Refer=top)
+
+1. [河北疫情](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [中高风险地区回乡要集中隔离吗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E5%9B%9E%E4%B9%A1%E8%A6%81%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E5%90%97%23&Refer=top)
+
+1. [肖战余年舞台](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%BD%99%E5%B9%B4%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [河北新增90例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A2%9E90%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [不办5G套餐也能用5G](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%8A%9E5G%E5%A5%97%E9%A4%90%E4%B9%9F%E8%83%BD%E7%94%A85G%23&Refer=top)
+
+1. [31省区市新增本土病例115例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B115%E4%BE%8B%23&Refer=top)
+
+1. [江疏影](https://s.weibo.com//weibo?q=%E6%B1%9F%E7%96%8F%E5%BD%B1&Refer=top)
+
+1. [谢宏祖我长大了](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%AE%8F%E7%A5%96%E6%88%91%E9%95%BF%E5%A4%A7%E4%BA%86%23&Refer=top)
+
+1. [小鬼我爱罗发色](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%88%91%E7%88%B1%E7%BD%97%E5%8F%91%E8%89%B2%23&Refer=top)
+
+1. [陈伟霆 我门](https://s.weibo.com//weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%20%E6%88%91%E9%97%A8&Refer=top)
+
+1. [陶喆袁娅维foreveryoung](https://s.weibo.com//weibo?q=%23%E9%99%B6%E5%96%86%E8%A2%81%E5%A8%85%E7%BB%B4foreveryoung%23&Refer=top)
+
+1. [陕西白水实行全县封闭式管理](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E7%99%BD%E6%B0%B4%E5%AE%9E%E8%A1%8C%E5%85%A8%E5%8E%BF%E5%B0%81%E9%97%AD%E5%BC%8F%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [周笔畅用表情诠释无奈](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%94%A8%E8%A1%A8%E6%83%85%E8%AF%A0%E9%87%8A%E6%97%A0%E5%A5%88%23&Refer=top)
+
+1. [对华贸易战让美减少24.5万就业岗位](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E6%88%98%E8%AE%A9%E7%BE%8E%E5%87%8F%E5%B0%9124.5%E4%B8%87%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D%23&Refer=top)
+
+1. [自制糖炒栗子奶茶](https://s.weibo.com//weibo?q=%23%E8%87%AA%E5%88%B6%E7%B3%96%E7%82%92%E6%A0%97%E5%AD%90%E5%A5%B6%E8%8C%B6%23&Refer=top)
+
+1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
+
+1. [黄晓明尹正合唱](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E5%B0%B9%E6%AD%A3%E5%90%88%E5%94%B1&Refer=top)
+
+1. [当代学生戏精图鉴](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E5%AD%A6%E7%94%9F%E6%88%8F%E7%B2%BE%E5%9B%BE%E9%89%B4%23&Refer=top)
 
