@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 13:33:32
+## 微博今日热榜 更新于 2021-01-16 14:24:51
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -266,4 +266,28 @@
 1. [成年人的情绪演化](https://s.weibo.com//weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%83%85%E7%BB%AA%E6%BC%94%E5%8C%96%23&Refer=top)
 
 1. [边防军犬卡莉Vlog](https://s.weibo.com//weibo?q=%E8%BE%B9%E9%98%B2%E5%86%9B%E7%8A%AC%E5%8D%A1%E8%8E%89Vlog&Refer=top)
+
+1. [新冠病毒疫苗接种进展](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%BF%9B%E5%B1%95%23&Refer=new_time)
+
+1. [大庆新增确诊病例1例](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%BA%86%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B1%E4%BE%8B%23&Refer=top)
+
+1. [百变大咖秀定档](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [特朗普离开白宫具体计划曝光](https://s.weibo.com//weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E7%99%BD%E5%AE%AB%E5%85%B7%E4%BD%93%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89&Refer=top)
+
+1. [美国辉瑞将减少对欧洲新冠疫苗供应](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E8%BE%89%E7%91%9E%E5%B0%86%E5%87%8F%E5%B0%91%E5%AF%B9%E6%AC%A7%E6%B4%B2%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BE%9B%E5%BA%94&Refer=top)
+
+1. [近期多地聚集性疫情均为境外输入](https://s.weibo.com//weibo?q=%23%E8%BF%91%E6%9C%9F%E5%A4%9A%E5%9C%B0%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%E5%9D%87%E4%B8%BA%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%23&Refer=top)
+
+1. [春运节前车票预售较往年同期下降近6成](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E8%8A%82%E5%89%8D%E8%BD%A6%E7%A5%A8%E9%A2%84%E5%94%AE%E8%BE%83%E5%BE%80%E5%B9%B4%E5%90%8C%E6%9C%9F%E4%B8%8B%E9%99%8D%E8%BF%916%E6%88%90%23&Refer=top)
+
+1. [18日起所有抵达英国旅客需进行隔离](https://s.weibo.com//weibo?q=18%E6%97%A5%E8%B5%B7%E6%89%80%E6%9C%89%E6%8A%B5%E8%BE%BE%E8%8B%B1%E5%9B%BD%E6%97%85%E5%AE%A2%E9%9C%80%E8%BF%9B%E8%A1%8C%E9%9A%94%E7%A6%BB&Refer=top)
+
+1. [这狗子也太聪明了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8B%97%E5%AD%90%E4%B9%9F%E5%A4%AA%E8%81%AA%E6%98%8E%E4%BA%86%E5%90%A7%23&Refer=top)
+
+1. [吉林新增49名感染者均与培训活动有关](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E6%96%B0%E5%A2%9E49%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%E5%9D%87%E4%B8%8E%E5%9F%B9%E8%AE%AD%E6%B4%BB%E5%8A%A8%E6%9C%89%E5%85%B3%23&Refer=top)
+
+1. [高校期末考学生COS世界名画](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E5%AD%A6%E7%94%9FCOS%E4%B8%96%E7%95%8C%E5%90%8D%E7%94%BB%23&Refer=top)
+
+1. [詹姆斯单臂补扣](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%95%E8%87%82%E8%A1%A5%E6%89%A3%23&Refer=top)
 
