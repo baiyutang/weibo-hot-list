@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-16 19:29:54
+## 微博今日热榜 更新于 2021-01-16 20:19:04
 1. [春运健康码全国互认](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%BF%90%E5%81%A5%E5%BA%B7%E7%A0%81%E5%85%A8%E5%9B%BD%E4%BA%92%E8%AE%A4%23&Refer=new_time)
 
 1. [只有潘玮柏在后台认真吃火锅](https://s.weibo.com//weibo?q=%E5%8F%AA%E6%9C%89%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9C%A8%E5%90%8E%E5%8F%B0%E8%AE%A4%E7%9C%9F%E5%90%83%E7%81%AB%E9%94%85&Refer=top)
@@ -420,4 +420,22 @@
 1. [黄河壶口迎十年来最大凌汛](https://s.weibo.com//weibo?q=%E9%BB%84%E6%B2%B3%E5%A3%B6%E5%8F%A3%E8%BF%8E%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%87%8C%E6%B1%9B&Refer=top)
 
 1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [31个省区市最新返乡政策](https://s.weibo.com//weibo?q=%2331%E4%B8%AA%E7%9C%81%E5%8C%BA%E5%B8%82%E6%9C%80%E6%96%B0%E8%BF%94%E4%B9%A1%E6%94%BF%E7%AD%96%23&Refer=new_time)
+
+1. [Hamzy道歉](https://s.weibo.com//weibo?q=Hamzy%E9%81%93%E6%AD%89&Refer=top)
+
+1. [俄罗斯将退出开放天空条约](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%BC%80%E6%94%BE%E5%A4%A9%E7%A9%BA%E6%9D%A1%E7%BA%A6%23&Refer=top)
+
+1. [蔡文静彭冠英芭莎大片](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%BD%AD%E5%86%A0%E8%8B%B1%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [东部战区航空兵警告驱离外机](https://s.weibo.com//weibo?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%88%AA%E7%A9%BA%E5%85%B5%E8%AD%A6%E5%91%8A%E9%A9%B1%E7%A6%BB%E5%A4%96%E6%9C%BA&Refer=top)
+
+1. [邢台隆尧](https://s.weibo.com//weibo?q=%E9%82%A2%E5%8F%B0%E9%9A%86%E5%B0%A7&Refer=top)
+
+1. [紧急公关](https://s.weibo.com//weibo?q=%E7%B4%A7%E6%80%A5%E5%85%AC%E5%85%B3&Refer=top)
+
+1. [奇葩说](https://s.weibo.com//weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4&Refer=top)
+
+1. [DYG MTG](https://s.weibo.com//weibo?q=DYG%20MTG&Refer=top)
 
