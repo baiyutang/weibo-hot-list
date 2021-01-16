@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-17 02:11:12
+## 微博今日热榜 更新于 2021-01-17 03:39:05
 1. [2021我国将实现社保卡跨省通办](https://s.weibo.com//weibo?q=%232021%E6%88%91%E5%9B%BD%E5%B0%86%E5%AE%9E%E7%8E%B0%E7%A4%BE%E4%BF%9D%E5%8D%A1%E8%B7%A8%E7%9C%81%E9%80%9A%E5%8A%9E%23&Refer=new_time)
 
 1. [已回未支付](https://s.weibo.com//weibo?q=%E5%B7%B2%E5%9B%9E%E6%9C%AA%E6%94%AF%E4%BB%98&Refer=top)
@@ -116,4 +116,8 @@
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
 
 1. [武汉日夜](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [EDG FPX](https://s.weibo.com//weibo?q=EDG%20FPX&Refer=top)
 
