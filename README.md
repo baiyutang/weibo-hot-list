@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-18 06:18:16
+## 微博今日热榜 更新于 2021-01-18 07:25:48
 1. [是他们让战疫更有底气](https://s.weibo.com//weibo?q=%23%E6%98%AF%E4%BB%96%E4%BB%AC%E8%AE%A9%E6%88%98%E7%96%AB%E6%9B%B4%E6%9C%89%E5%BA%95%E6%B0%94%23&Refer=new_time)
 
 1. [半藏森林发长文](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%8F%91%E9%95%BF%E6%96%87%23&Refer=top)
@@ -128,4 +128,18 @@
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
 
 1. [39万家零售药店已纳入医保定点](https://s.weibo.com//weibo?q=%2339%E4%B8%87%E5%AE%B6%E9%9B%B6%E5%94%AE%E8%8D%AF%E5%BA%97%E5%B7%B2%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E5%AE%9A%E7%82%B9%23&Refer=new_time)
+
+1. [颜丙涛](https://s.weibo.com//weibo?q=%E9%A2%9C%E4%B8%99%E6%B6%9B&Refer=top)
+
+1. [刘宇宁迷惑自拍行为](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%B7%E6%83%91%E8%87%AA%E6%8B%8D%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [王俊凯画AE86为周杰伦庆生](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%BBAE86%E4%B8%BA%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [景区回应演员险从千米高空坠落](https://s.weibo.com//weibo?q=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%BC%94%E5%91%98%E9%99%A9%E4%BB%8E%E5%8D%83%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD&Refer=top)
+
+1. [美国凤凰城一购物中心突发枪击事件](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E7%AA%81%E5%8F%91%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [日本居家隔离新冠患者破3万](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E7%A0%B43%E4%B8%87%23&Refer=top)
+
+1. [周末的状态只有躺](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9C%AB%E7%9A%84%E7%8A%B6%E6%80%81%E5%8F%AA%E6%9C%89%E8%BA%BA%23&Refer=top)
 
