@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-18 05:15:46
+## 微博今日热榜 更新于 2021-01-18 06:18:16
 1. [是他们让战疫更有底气](https://s.weibo.com//weibo?q=%23%E6%98%AF%E4%BB%96%E4%BB%AC%E8%AE%A9%E6%88%98%E7%96%AB%E6%9B%B4%E6%9C%89%E5%BA%95%E6%B0%94%23&Refer=new_time)
 
 1. [半藏森林发长文](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%E5%8F%91%E9%95%BF%E6%96%87%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [栖霞笏山金矿救援钻孔已打通](https://s.weibo.com//weibo?q=%23%E6%A0%96%E9%9C%9E%E7%AC%8F%E5%B1%B1%E9%87%91%E7%9F%BF%E6%95%91%E6%8F%B4%E9%92%BB%E5%AD%94%E5%B7%B2%E6%89%93%E9%80%9A%23&Refer=top)
 
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
+
+1. [39万家零售药店已纳入医保定点](https://s.weibo.com//weibo?q=%2339%E4%B8%87%E5%AE%B6%E9%9B%B6%E5%94%AE%E8%8D%AF%E5%BA%97%E5%B7%B2%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E5%AE%9A%E7%82%B9%23&Refer=new_time)
 
