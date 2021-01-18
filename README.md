@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-19 03:42:35
+## 微博今日热榜 更新于 2021-01-19 04:28:16
 1. [中国经济V型反转](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8EV%E5%9E%8B%E5%8F%8D%E8%BD%AC%23&Refer=new_time)
 
 1. [郑爽张恒孩子出生证明](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%BC%A0%E6%81%92%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%23&Refer=top)
@@ -110,4 +110,6 @@
 1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
 
 1. [新冠疫苗](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [贾跃亭再被限制高消费](https://s.weibo.com//weibo?q=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%86%8D%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9&Refer=top)
 
