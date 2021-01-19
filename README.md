@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-19 07:30:18
+## 微博今日热榜 更新于 2021-01-19 08:37:29
 1. [中国经济V型反转](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8EV%E5%9E%8B%E5%8F%8D%E8%BD%AC%23&Refer=new_time)
 
 1. [郑爽张恒孩子出生证明](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%BC%A0%E6%81%92%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%23&Refer=top)
@@ -126,4 +126,42 @@
 1. [多家大型金融机构逃离华尔街](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%A4%A7%E5%9E%8B%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E9%80%83%E7%A6%BB%E5%8D%8E%E5%B0%94%E8%A1%97%23&Refer=top)
 
 1. [美国一公司推出新式麻将](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%85%AC%E5%8F%B8%E6%8E%A8%E5%87%BA%E6%96%B0%E5%BC%8F%E9%BA%BB%E5%B0%86&Refer=top)
+
+1. [德国新发现不明变异毒株](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%23&Refer=top)
+
+1. [特朗普宝宝气球将安家伦敦博物馆](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%9D%E5%AE%9D%E6%B0%94%E7%90%83%E5%B0%86%E5%AE%89%E5%AE%B6%E4%BC%A6%E6%95%A6%E5%8D%9A%E7%89%A9%E9%A6%86%23&Refer=top)
+
+1. [雀巢召回数百吨零食](https://s.weibo.com//weibo?q=%23%E9%9B%80%E5%B7%A2%E5%8F%AC%E5%9B%9E%E6%95%B0%E7%99%BE%E5%90%A8%E9%9B%B6%E9%A3%9F%23&Refer=top)
+
+1. [吉林新增43例本土确诊](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E6%96%B0%E5%A2%9E43%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [美国国会大厦被封锁](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%A4%A7%E5%8E%A6%E8%A2%AB%E5%B0%81%E9%94%81%23&Refer=top)
+
+1. [黑龙江望奎全县居民禁止离开家门](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9C%9B%E5%A5%8E%E5%85%A8%E5%8E%BF%E5%B1%85%E6%B0%91%E7%A6%81%E6%AD%A2%E7%A6%BB%E5%BC%80%E5%AE%B6%E9%97%A8&Refer=top)
+
+1. [北京新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [中国首辆火星车征名十强出炉](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%BE%81%E5%90%8D%E5%8D%81%E5%BC%BA%E5%87%BA%E7%82%89%23&Refer=top)
+
+1. [首届电子竞技专业学生即将毕业](https://s.weibo.com//weibo?q=%23%E9%A6%96%E5%B1%8A%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E5%8D%B3%E5%B0%86%E6%AF%95%E4%B8%9A%23&Refer=top)
+
+1. [你们是怎么变得自信的](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%98%E5%BE%97%E8%87%AA%E4%BF%A1%E7%9A%84%23&Refer=top)
+
+1. [进击的巨人](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [官方解释金矿22人获救不实消息来源](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E8%A7%A3%E9%87%8A%E9%87%91%E7%9F%BF22%E4%BA%BA%E8%8E%B7%E6%95%91%E4%B8%8D%E5%AE%9E%E6%B6%88%E6%81%AF%E6%9D%A5%E6%BA%90%23&Refer=top)
+
+1. [黑龙江新增27例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E27%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [于谦喊郭德纲我的角儿](https://s.weibo.com//weibo?q=%E4%BA%8E%E8%B0%A6%E5%96%8A%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%88%91%E7%9A%84%E8%A7%92%E5%84%BF&Refer=top)
+
+1. [吴亦凡上班图](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%B8%8A%E7%8F%AD%E5%9B%BE%23&Refer=top)
+
+1. [鹿晗直播](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [凯源](https://s.weibo.com//weibo?q=%E5%87%AF%E6%BA%90&Refer=top)
+
+1. [深圳地铁](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81&Refer=top)
+
+1. [故宫的雪](https://s.weibo.com//weibo?q=%E6%95%85%E5%AE%AB%E7%9A%84%E9%9B%AA&Refer=top)
 
