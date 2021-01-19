@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 00:28:06
+## 微博今日热榜 更新于 2021-01-20 02:11:50
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -104,4 +104,10 @@
 1. [企业微信崩了](https://s.weibo.com//weibo?q=%23%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%B4%A9%E4%BA%86%23&Refer=top)
 
 1. [广东揭阳一境外输入无症状复阳](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%8F%AD%E9%98%B3%E4%B8%80%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E6%97%A0%E7%97%87%E7%8A%B6%E5%A4%8D%E9%98%B3%23&Refer=top)
+
+1. [迪丽热巴写毛笔字](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%86%99%E6%AF%9B%E7%AC%94%E5%AD%97%23&Refer=top)
+
+1. [你好生活收官](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E7%94%9F%E6%B4%BB%E6%94%B6%E5%AE%98&Refer=top)
+
+1. [明日方舟](https://s.weibo.com//weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F&Refer=top)
 
