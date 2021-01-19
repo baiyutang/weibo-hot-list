@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 02:11:50
+## 微博今日热榜 更新于 2021-01-20 03:42:27
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -110,4 +110,12 @@
 1. [你好生活收官](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E7%94%9F%E6%B4%BB%E6%94%B6%E5%AE%98&Refer=top)
 
 1. [明日方舟](https://s.weibo.com//weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F&Refer=top)
+
+1. [新冠病毒疫苗要过哪些关](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%A6%81%E8%BF%87%E5%93%AA%E4%BA%9B%E5%85%B3%23&Refer=new_time)
+
+1. [乘风破浪的姐姐2赛制](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E8%B5%9B%E5%88%B6&Refer=top)
+
+1. [侯明昊一秒变脸](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%80%E7%A7%92%E5%8F%98%E8%84%B8%23&Refer=top)
+
+1. [新能源](https://s.weibo.com//weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90&Refer=top)
 
