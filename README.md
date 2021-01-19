@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 03:42:27
+## 微博今日热榜 更新于 2021-01-20 04:29:14
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -118,4 +118,8 @@
 1. [侯明昊一秒变脸](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%80%E7%A7%92%E5%8F%98%E8%84%B8%23&Refer=top)
 
 1. [新能源](https://s.weibo.com//weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90&Refer=top)
+
+1. [2020年央企累计营收30.3万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E5%A4%AE%E4%BC%81%E7%B4%AF%E8%AE%A1%E8%90%A5%E6%94%B630.3%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
+
+1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
 
