@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-19 11:50:03
+## 微博今日热榜 更新于 2021-01-19 12:27:25
 1. [中国经济V型反转](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8EV%E5%9E%8B%E5%8F%8D%E8%BD%AC%23&Refer=new_time)
 
 1. [郑爽张恒孩子出生证明](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E5%BC%A0%E6%81%92%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%23&Refer=top)
@@ -246,4 +246,16 @@
 1. [郭德纲感恩于谦哥哥](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%84%9F%E6%81%A9%E4%BA%8E%E8%B0%A6%E5%93%A5%E5%93%A5%23&Refer=top)
 
 1. [勇士 湖人](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%20%E6%B9%96%E4%BA%BA&Refer=top)
+
+1. [张柏芝状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [热依扎演技](https://s.weibo.com//weibo?q=%E7%83%AD%E4%BE%9D%E6%89%8E%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [北京环球影城哈利波特园区雪景](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%9B%AD%E5%8C%BA%E9%9B%AA%E6%99%AF&Refer=top)
+
+1. [奶爸当家定档](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E7%88%B8%E5%BD%93%E5%AE%B6%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [住养老院39岁程序员已出院](https://s.weibo.com//weibo?q=%E4%BD%8F%E5%85%BB%E8%80%81%E9%99%A239%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%B2%E5%87%BA%E9%99%A2&Refer=top)
+
+1. [库里拜佛晃飞浓眉](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C%E6%8B%9C%E4%BD%9B%E6%99%83%E9%A3%9E%E6%B5%93%E7%9C%89%23&Refer=top)
 
