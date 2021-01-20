@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 08:39:02
+## 微博今日热榜 更新于 2021-01-20 10:37:40
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -164,4 +164,44 @@
 1. [豆瓣崩了](https://s.weibo.com//weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&Refer=top)
 
 1. [Hill](https://s.weibo.com//weibo?q=Hill&Refer=top)
+
+1. [朴槿惠密切接触新冠患者](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%A6%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85&Refer=top)
+
+1. [北京新增7例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E7%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [时髦早春怎么穿](https://s.weibo.com//weibo?q=%23%E6%97%B6%E9%AB%A6%E6%97%A9%E6%98%A5%E6%80%8E%E4%B9%88%E7%A9%BF%23&Refer=top)
+
+1. [吉林新增46例本土确诊](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E6%96%B0%E5%A2%9E46%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [特斯拉首次回应Model Y降价](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94Model%20Y%E9%99%8D%E4%BB%B7&Refer=top)
+
+1. [周扬青](https://s.weibo.com//weibo?q=%E5%91%A8%E6%89%AC%E9%9D%92&Refer=top)
+
+1. [黄轩喝醉像极了我本人](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%BD%A9%E5%96%9D%E9%86%89%E5%83%8F%E6%9E%81%E4%BA%86%E6%88%91%E6%9C%AC%E4%BA%BA%23&Refer=top)
+
+1. [官方通报藁城区一老人外出被绑在树上](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%97%81%E5%9F%8E%E5%8C%BA%E4%B8%80%E8%80%81%E4%BA%BA%E5%A4%96%E5%87%BA%E8%A2%AB%E7%BB%91%E5%9C%A8%E6%A0%91%E4%B8%8A%23&Refer=top)
+
+1. [美媒称拜登上台后将撤销特朗普多项政策](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%AA%92%E7%A7%B0%E6%8B%9C%E7%99%BB%E4%B8%8A%E5%8F%B0%E5%90%8E%E5%B0%86%E6%92%A4%E9%94%80%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%9A%E9%A1%B9%E6%94%BF%E7%AD%96&Refer=top)
+
+1. [陪你一起做饭的男朋友](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%81%9A%E9%A5%AD%E7%9A%84%E7%94%B7%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [欧文离队原因](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%96%87%E7%A6%BB%E9%98%9F%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [上海地铁11号线](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%8111%E5%8F%B7%E7%BA%BF%23&Refer=top)
+
+1. [山西人提桶排队打醋过腊八](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BA%BA%E6%8F%90%E6%A1%B6%E6%8E%92%E9%98%9F%E6%89%93%E9%86%8B%E8%BF%87%E8%85%8A%E5%85%AB%23&Refer=top)
+
+1. [成都天府国际机场1月22日试飞](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA1%E6%9C%8822%E6%97%A5%E8%AF%95%E9%A3%9E%23&Refer=top)
+
+1. [濮泉生是扶二代](https://s.weibo.com//weibo?q=%23%E6%BF%AE%E6%B3%89%E7%94%9F%E6%98%AF%E6%89%B6%E4%BA%8C%E4%BB%A3%23&Refer=top)
+
+1. [腊八文案大赛](https://s.weibo.com//weibo?q=%23%E8%85%8A%E5%85%AB%E6%96%87%E6%A1%88%E5%A4%A7%E8%B5%9B%23&Refer=top)
+
+1. [拜登启程就职告别家乡](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E5%90%AF%E7%A8%8B%E5%B0%B1%E8%81%8C%E5%91%8A%E5%88%AB%E5%AE%B6%E4%B9%A1&Refer=top)
+
+1. [起底德特里克堡](https://s.weibo.com//weibo?q=%23%E8%B5%B7%E5%BA%95%E5%BE%B7%E7%89%B9%E9%87%8C%E5%85%8B%E5%A0%A1%23&Refer=top)
+
+1. [31省区市新增103例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E103%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [河北19例确诊行动轨迹](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%9719%E4%BE%8B%E7%A1%AE%E8%AF%8A%E8%A1%8C%E5%8A%A8%E8%BD%A8%E8%BF%B9%23&Refer=top)
 
