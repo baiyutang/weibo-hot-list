@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 03:44:25
+## 微博今日热榜 更新于 2021-01-21 04:27:39
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [教育如何改变一个孩子的命运](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%9A%84%E5%91%BD%E8%BF%90%23&Refer=top)
 
 1. [腊八](https://s.weibo.com//weibo?q=%E8%85%8A%E5%85%AB&Refer=top)
+
+1. [60秒回顾北京冬奥大事记](https://s.weibo.com//weibo?q=%2360%E7%A7%92%E5%9B%9E%E9%A1%BE%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=new_time)
 
