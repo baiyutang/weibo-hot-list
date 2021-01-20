@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 07:30:48
+## 微博今日热榜 更新于 2021-01-20 08:39:02
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -134,4 +134,34 @@
 1. [拼多多关联公司申请拼多多支付商标](https://s.weibo.com//weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E7%94%B3%E8%AF%B7%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%94%AF%E4%BB%98%E5%95%86%E6%A0%87%23&Refer=top)
 
 1. [腊八](https://s.weibo.com//weibo?q=%E8%85%8A%E5%85%AB&Refer=top)
+
+1. [特朗普发表告别演讲](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E5%91%8A%E5%88%AB%E6%BC%94%E8%AE%B2%23&Refer=top)
+
+1. [微信将推出自有输入法](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B0%86%E6%8E%A8%E5%87%BA%E8%87%AA%E6%9C%89%E8%BE%93%E5%85%A5%E6%B3%95%23&Refer=top)
+
+1. [北京大兴人员原则上禁止离京](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4%E4%BA%BA%E5%91%98%E5%8E%9F%E5%88%99%E4%B8%8A%E7%A6%81%E6%AD%A2%E7%A6%BB%E4%BA%AC%23&Refer=top)
+
+1. [还有3周就过年了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%893%E5%91%A8%E5%B0%B1%E8%BF%87%E5%B9%B4%E4%BA%86%23&Refer=top)
+
+1. [美国德特里克堡生物实验室](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%BE%B7%E7%89%B9%E9%87%8C%E5%85%8B%E5%A0%A1%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4&Refer=top)
+
+1. [杨丞琳李荣浩分开300天了](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%88%86%E5%BC%80300%E5%A4%A9%E4%BA%86&Refer=top)
+
+1. [微信张小龙称自己是上帝选中的人](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%BC%A0%E5%B0%8F%E9%BE%99%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8A%E5%B8%9D%E9%80%89%E4%B8%AD%E7%9A%84%E4%BA%BA%23&Refer=top)
+
+1. [李钟硕](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%92%9F%E7%A1%95&Refer=top)
+
+1. [每天有7.8亿人进入朋友圈](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E5%A4%A9%E6%9C%897.8%E4%BA%BF%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [最显年轻的接电话声调](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%98%BE%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%8E%A5%E7%94%B5%E8%AF%9D%E5%A3%B0%E8%B0%83%23&Refer=top)
+
+1. [美国新冠死亡人数已经接近40万](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%B7%B2%E7%BB%8F%E6%8E%A5%E8%BF%9140%E4%B8%87&Refer=top)
+
+1. [央视主播谈市委书记掌掴政府秘书长](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E8%B0%88%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8E%8C%E6%8E%B4%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%23&Refer=top)
+
+1. [转场变身有多惊艳](https://s.weibo.com//weibo?q=%23%E8%BD%AC%E5%9C%BA%E5%8F%98%E8%BA%AB%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top)
+
+1. [豆瓣崩了](https://s.weibo.com//weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [Hill](https://s.weibo.com//weibo?q=Hill&Refer=top)
 
