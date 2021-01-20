@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 11:52:54
+## 微博今日热榜 更新于 2021-01-20 12:30:36
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -224,4 +224,12 @@
 1. [孟菲斯动物园熊猫](https://s.weibo.com//weibo?q=%E5%AD%9F%E8%8F%B2%E6%96%AF%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%86%8A%E7%8C%AB&Refer=top)
 
 1. [腊八蒜](https://s.weibo.com//weibo?q=%E8%85%8A%E5%85%AB%E8%92%9C&Refer=top)
+
+1. [减少户外工作者严寒时段工作时间](https://s.weibo.com//weibo?q=%23%E5%87%8F%E5%B0%91%E6%88%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%80%85%E4%B8%A5%E5%AF%92%E6%97%B6%E6%AE%B5%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%23&Refer=new_time)
+
+1. [朴槿惠新冠检测呈阴性](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%A7%BF%E6%83%A0%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [Prada中国区公关](https://s.weibo.com//weibo?q=%23Prada%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%85%AC%E5%85%B3%23&Refer=top)
+
+1. [揭秘易烊千玺空军招飞宣传片原型人物](https://s.weibo.com//weibo?q=%E6%8F%AD%E7%A7%98%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A9%BA%E5%86%9B%E6%8B%9B%E9%A3%9E%E5%AE%A3%E4%BC%A0%E7%89%87%E5%8E%9F%E5%9E%8B%E4%BA%BA%E7%89%A9&Refer=top)
 
