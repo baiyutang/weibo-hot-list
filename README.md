@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-20 19:35:31
+## 微博今日热榜 更新于 2021-01-20 20:21:49
 1. [考察北京冬奥会冬残奥会筹办工作](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%AF%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%AD%B9%E5%8A%9E%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [外交部](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8&Refer=top)
@@ -400,4 +400,12 @@
 1. [和耳机里的男孩见面了](https://s.weibo.com//weibo?q=%23%E5%92%8C%E8%80%B3%E6%9C%BA%E9%87%8C%E7%9A%84%E7%94%B7%E5%AD%A9%E8%A7%81%E9%9D%A2%E4%BA%86%23&Refer=top)
 
 1. [无症状感染者9次核酸检测均为阴性](https://s.weibo.com//weibo?q=%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%859%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%9D%87%E4%B8%BA%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [小天暂别赛场](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%A4%A9%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA&Refer=top)
+
+1. [哈尔滨新增21例无症状](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%B0%E5%A2%9E21%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [刺痛挂牌](https://s.weibo.com//weibo?q=%E5%88%BA%E7%97%9B%E6%8C%82%E7%89%8C&Refer=top)
+
+1. [北京什刹海冰场关停](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%80%E5%88%B9%E6%B5%B7%E5%86%B0%E5%9C%BA%E5%85%B3%E5%81%9C%23&Refer=top)
 
