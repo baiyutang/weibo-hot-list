@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 21:41:43
+## 微博今日热榜 更新于 2021-01-21 22:27:10
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -456,4 +456,26 @@
 1. [深圳不动产登记中心暂停夫妻婚内更名](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E4%B8%8D%E5%8A%A8%E4%BA%A7%E7%99%BB%E8%AE%B0%E4%B8%AD%E5%BF%83%E6%9A%82%E5%81%9C%E5%A4%AB%E5%A6%BB%E5%A9%9A%E5%86%85%E6%9B%B4%E5%90%8D&Refer=top)
 
 1. [Cryin发条五杀](https://s.weibo.com//weibo?q=%23Cryin%E5%8F%91%E6%9D%A1%E4%BA%94%E6%9D%80%23&Refer=top)
+
+1. [有翡](https://s.weibo.com//weibo?q=%E6%9C%89%E7%BF%A1&Refer=top)
+
+1. [华晨宇 张碧晨](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%20%E5%BC%A0%E7%A2%A7%E6%99%A8&Refer=top)
+
+1. [邢菲挂件女友](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E6%8C%82%E4%BB%B6%E5%A5%B3%E5%8F%8B%23&Refer=top)
+
+1. [深圳南山山火](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%B1%B1%E7%81%AB&Refer=top)
+
+1. [臧鸿飞 为人父母就是卑微](https://s.weibo.com//weibo?q=%E8%87%A7%E9%B8%BF%E9%A3%9E%20%E4%B8%BA%E4%BA%BA%E7%88%B6%E6%AF%8D%E5%B0%B1%E6%98%AF%E5%8D%91%E5%BE%AE&Refer=top)
+
+1. [科技部通报有关论文涉嫌造假处理情况](https://s.weibo.com//weibo?q=%23%E7%A7%91%E6%8A%80%E9%83%A8%E9%80%9A%E6%8A%A5%E6%9C%89%E5%85%B3%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E9%80%A0%E5%81%87%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [浙江大学为返乡学生免费核酸检测](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E4%B8%BA%E8%BF%94%E4%B9%A1%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [灵石路](https://s.weibo.com//weibo?q=%E7%81%B5%E7%9F%B3%E8%B7%AF&Refer=top)
+
+1. [8岁小朋友捡到3岁小朋友](https://s.weibo.com//weibo?q=%238%E5%B2%81%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%8D%A1%E5%88%B03%E5%B2%81%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [成都一女生专职帮人写信](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%A5%B3%E7%94%9F%E4%B8%93%E8%81%8C%E5%B8%AE%E4%BA%BA%E5%86%99%E4%BF%A1%23&Refer=top)
 
