@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 20:22:07
+## 微博今日热榜 更新于 2021-01-21 21:41:43
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -440,4 +440,20 @@
 1. [被老师性侵女生班主任发声](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%80%A7%E4%BE%B5%E5%A5%B3%E7%94%9F%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%A3%B0%23&Refer=top)
 
 1. [吴京一张照片可以用多久](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E7%94%A8%E5%A4%9A%E4%B9%85%23&Refer=top)
+
+1. [肖战 我也不知道画了个啥](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E7%94%BB%E4%BA%86%E4%B8%AA%E5%95%A5&Refer=top)
+
+1. [掌掴市政府秘书长的市委书记被免职](https://s.weibo.com//weibo?q=%23%E6%8E%8C%E6%8E%B4%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A7%98%E4%B9%A6%E9%95%BF%E7%9A%84%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top)
+
+1. [奇葩说](https://s.weibo.com//weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4&Refer=top)
+
+1. [要不要在家长群跟风吹捧老师](https://s.weibo.com//weibo?q=%23%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%AE%B6%E9%95%BF%E7%BE%A4%E8%B7%9F%E9%A3%8E%E5%90%B9%E6%8D%A7%E8%80%81%E5%B8%88%23&Refer=top)
+
+1. [哈尔滨新增10例确诊](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%B0%E5%A2%9E10%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [上海昭通路居民区实施封闭管理](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%98%AD%E9%80%9A%E8%B7%AF%E5%B1%85%E6%B0%91%E5%8C%BA%E5%AE%9E%E6%96%BD%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86&Refer=top)
+
+1. [深圳不动产登记中心暂停夫妻婚内更名](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E4%B8%8D%E5%8A%A8%E4%BA%A7%E7%99%BB%E8%AE%B0%E4%B8%AD%E5%BF%83%E6%9A%82%E5%81%9C%E5%A4%AB%E5%A6%BB%E5%A9%9A%E5%86%85%E6%9B%B4%E5%90%8D&Refer=top)
+
+1. [Cryin发条五杀](https://s.weibo.com//weibo?q=%23Cryin%E5%8F%91%E6%9D%A1%E4%BA%94%E6%9D%80%23&Refer=top)
 
