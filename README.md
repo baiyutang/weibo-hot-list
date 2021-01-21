@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 08:38:27
+## 微博今日热榜 更新于 2021-01-21 10:37:46
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -196,4 +196,44 @@
 1. [欧文复出](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%87%E5%A4%8D%E5%87%BA&Refer=top)
 
 1. [篮网 骑士](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%20%E9%AA%91%E5%A3%AB&Refer=top)
+
+1. [广电时评称不会给郑爽发声露脸机会](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E7%94%B5%E6%97%B6%E8%AF%84%E7%A7%B0%E4%B8%8D%E4%BC%9A%E7%BB%99%E9%83%91%E7%88%BD%E5%8F%91%E5%A3%B0%E9%9C%B2%E8%84%B8%E6%9C%BA%E4%BC%9A%23&Refer=top)
+
+1. [LadyGaga美国总统就职典礼表演](https://s.weibo.com//weibo?q=LadyGaga%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC%E8%A1%A8%E6%BC%94&Refer=top)
+
+1. [女教师评职称申诉被拒后起诉教育局](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%AF%84%E8%81%8C%E7%A7%B0%E7%94%B3%E8%AF%89%E8%A2%AB%E6%8B%92%E5%90%8E%E8%B5%B7%E8%AF%89%E6%95%99%E8%82%B2%E5%B1%80%23&Refer=top)
+
+1. [上海仁济医院西院区发现1例疑似病例](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BB%81%E6%B5%8E%E5%8C%BB%E9%99%A2%E8%A5%BF%E9%99%A2%E5%8C%BA%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%96%91%E4%BC%BC%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [郑爽退圈声明录音](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E9%80%80%E5%9C%88%E5%A3%B0%E6%98%8E%E5%BD%95%E9%9F%B3%23&Refer=top)
+
+1. [外交部九问美国德特里克堡基地](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E4%B9%9D%E9%97%AE%E7%BE%8E%E5%9B%BD%E5%BE%B7%E7%89%B9%E9%87%8C%E5%85%8B%E5%A0%A1%E5%9F%BA%E5%9C%B0%23&Refer=top)
+
+1. [白敬亭录制最强大脑](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BD%95%E5%88%B6%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%23&Refer=top)
+
+1. [心疼王儇](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E7%8E%8B%E5%84%87&Refer=top)
+
+1. [晁然的洛枳](https://s.weibo.com//weibo?q=%E6%99%81%E7%84%B6%E7%9A%84%E6%B4%9B%E6%9E%B3&Refer=top)
+
+1. [赵丽颖周翡撕心哭戏](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E7%BF%A1%E6%92%95%E5%BF%83%E5%93%AD%E6%88%8F%23&Refer=top)
+
+1. [原来动漫里的场景真实存在](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8A%A8%E6%BC%AB%E9%87%8C%E7%9A%84%E5%9C%BA%E6%99%AF%E7%9C%9F%E5%AE%9E%E5%AD%98%E5%9C%A8%23&Refer=top)
+
+1. [美国将重返世卫组织](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E8%BF%94%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23&Refer=top)
+
+1. [蔡卓妍为钟欣潼庆生](https://s.weibo.com//weibo?q=%E8%94%A1%E5%8D%93%E5%A6%8D%E4%B8%BA%E9%92%9F%E6%AC%A3%E6%BD%BC%E5%BA%86%E7%94%9F&Refer=top)
+
+1. [中国科兴新冠疫苗在智利获紧急使用许可](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%85%B4%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%9C%A8%E6%99%BA%E5%88%A9%E8%8E%B7%E7%B4%A7%E6%80%A5%E4%BD%BF%E7%94%A8%E8%AE%B8%E5%8F%AF%23&Refer=top)
+
+1. [我就是这般女子](https://s.weibo.com//weibo?q=%E6%88%91%E5%B0%B1%E6%98%AF%E8%BF%99%E8%88%AC%E5%A5%B3%E5%AD%90&Refer=top)
+
+1. [大众CEO喊话马斯克](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BC%97CEO%E5%96%8A%E8%AF%9D%E9%A9%AC%E6%96%AF%E5%85%8B&Refer=top)
+
+1. [山西疫情](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E7%96%AB%E6%83%85&Refer=top)
+
+1. [电影断桥阵容](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E6%96%AD%E6%A1%A5%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [湖北新增境外输入确诊病例1例](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E6%96%B0%E5%A2%9E%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B1%E4%BE%8B&Refer=top)
+
+1. [骑士致敬欧文](https://s.weibo.com//weibo?q=%23%E9%AA%91%E5%A3%AB%E8%87%B4%E6%95%AC%E6%AC%A7%E6%96%87%23&Refer=top)
 
