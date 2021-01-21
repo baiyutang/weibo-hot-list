@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 19:35:06
+## 微博今日热榜 更新于 2021-01-21 20:22:07
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -436,4 +436,8 @@
 1. [江苏超31万人接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%B6%8531%E4%B8%87%E4%BA%BA%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [紫薯燕麦南瓜派](https://s.weibo.com//weibo?q=%23%E7%B4%AB%E8%96%AF%E7%87%95%E9%BA%A6%E5%8D%97%E7%93%9C%E6%B4%BE%23&Refer=top)
+
+1. [被老师性侵女生班主任发声](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%80%A7%E4%BE%B5%E5%A5%B3%E7%94%9F%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [吴京一张照片可以用多久](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E5%8F%AF%E4%BB%A5%E7%94%A8%E5%A4%9A%E4%B9%85%23&Refer=top)
 
