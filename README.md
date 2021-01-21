@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 06:20:04
+## 微博今日热榜 更新于 2021-01-22 07:27:58
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -122,4 +122,18 @@
 1. [广电时评称不会给郑爽发声露脸机会](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E7%94%B5%E6%97%B6%E8%AF%84%E7%A7%B0%E4%B8%8D%E4%BC%9A%E7%BB%99%E9%83%91%E7%88%BD%E5%8F%91%E5%A3%B0%E9%9C%B2%E8%84%B8%E6%9C%BA%E4%BC%9A%23&Refer=top)
 
 1. [全国100趟航班车次急寻同乘人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD100%E8%B6%9F%E8%88%AA%E7%8F%AD%E8%BD%A6%E6%AC%A1%E6%80%A5%E5%AF%BB%E5%90%8C%E4%B9%98%E4%BA%BA%23&Refer=top)
+
+1. [西藏冒险王 视频声音](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E5%86%92%E9%99%A9%E7%8E%8B%20%E8%A7%86%E9%A2%91%E5%A3%B0%E9%9F%B3&Refer=top)
+
+1. [丽水一地要求市民出门必须戴口罩](https://s.weibo.com//weibo?q=%23%E4%B8%BD%E6%B0%B4%E4%B8%80%E5%9C%B0%E8%A6%81%E6%B1%82%E5%B8%82%E6%B0%91%E5%87%BA%E9%97%A8%E5%BF%85%E9%A1%BB%E6%88%B4%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [小学生领奖状领出奥斯卡的感觉](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%A2%86%E5%A5%96%E7%8A%B6%E9%A2%86%E5%87%BA%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top)
+
+1. [上海离异3年内住房数按离异前总套数计算](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A6%BB%E5%BC%823%E5%B9%B4%E5%86%85%E4%BD%8F%E6%88%BF%E6%95%B0%E6%8C%89%E7%A6%BB%E5%BC%82%E5%89%8D%E6%80%BB%E5%A5%97%E6%95%B0%E8%AE%A1%E7%AE%97%23&Refer=top)
+
+1. [女神降临预告](https://s.weibo.com//weibo?q=%E5%A5%B3%E7%A5%9E%E9%99%8D%E4%B8%B4%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [草莓纸杯戚风蛋糕](https://s.weibo.com//weibo?q=%E8%8D%89%E8%8E%93%E7%BA%B8%E6%9D%AF%E6%88%9A%E9%A3%8E%E8%9B%8B%E7%B3%95&Refer=top)
+
+1. [三千年美人复原妆](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%8D%83%E5%B9%B4%E7%BE%8E%E4%BA%BA%E5%A4%8D%E5%8E%9F%E5%A6%86%23&Refer=top)
 
