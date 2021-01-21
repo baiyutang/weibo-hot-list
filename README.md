@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 11:52:44
+## 微博今日热榜 更新于 2021-01-21 12:30:41
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -264,4 +264,10 @@
 1. [农历辛丑年仅有354天](https://s.weibo.com//weibo?q=%23%E5%86%9C%E5%8E%86%E8%BE%9B%E4%B8%91%E5%B9%B4%E4%BB%85%E6%9C%89354%E5%A4%A9%23&Refer=top)
 
 1. [塞克斯顿42分](https://s.weibo.com//weibo?q=%E5%A1%9E%E5%85%8B%E6%96%AF%E9%A1%BF42%E5%88%86&Refer=top)
+
+1. [东北财经大学包机送大学生回家](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E5%8C%85%E6%9C%BA%E9%80%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [徐静蕾](https://s.weibo.com//weibo?q=%E5%BE%90%E9%9D%99%E8%95%BE&Refer=top)
+
+1. [刻在基因里的台词](https://s.weibo.com//weibo?q=%23%E5%88%BB%E5%9C%A8%E5%9F%BA%E5%9B%A0%E9%87%8C%E7%9A%84%E5%8F%B0%E8%AF%8D%23&Refer=top)
 
