@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 15:35:34
+## 微博今日热榜 更新于 2021-01-21 16:28:49
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -340,4 +340,26 @@
 1. [以色列超万人接种辉瑞疫苗后仍染新冠](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%B6%85%E4%B8%87%E4%BA%BA%E6%8E%A5%E7%A7%8D%E8%BE%89%E7%91%9E%E7%96%AB%E8%8B%97%E5%90%8E%E4%BB%8D%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
 
 1. [上海提倡家庭个人聚会聚餐不超10人](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%8F%90%E5%80%A1%E5%AE%B6%E5%BA%AD%E4%B8%AA%E4%BA%BA%E8%81%9A%E4%BC%9A%E8%81%9A%E9%A4%90%E4%B8%8D%E8%B6%8510%E4%BA%BA%23&Refer=top)
+
+1. [张文宏称上海本土病例几周内或控制](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E4%B8%8A%E6%B5%B7%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%E5%87%A0%E5%91%A8%E5%86%85%E6%88%96%E6%8E%A7%E5%88%B6&Refer=top)
+
+1. [王思聪被上海金融法院强制执行](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%80%9D%E8%81%AA%E8%A2%AB%E4%B8%8A%E6%B5%B7%E9%87%91%E8%9E%8D%E6%B3%95%E9%99%A2%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&Refer=top)
+
+1. [抖音bug](https://s.weibo.com//weibo?q=%E6%8A%96%E9%9F%B3bug&Refer=top)
+
+1. [陈小纭为姐姐2的自我管理](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E4%B8%BA%E5%A7%90%E5%A7%902%E7%9A%84%E8%87%AA%E6%88%91%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [半夜被猫打了四个小时](https://s.weibo.com//weibo?q=%E5%8D%8A%E5%A4%9C%E8%A2%AB%E7%8C%AB%E6%89%93%E4%BA%86%E5%9B%9B%E4%B8%AA%E5%B0%8F%E6%97%B6&Refer=top)
+
+1. [张恒朋友发声](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%81%92%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [张新成唱曾经我也想过一了百了](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E5%94%B1%E6%9B%BE%E7%BB%8F%E6%88%91%E4%B9%9F%E6%83%B3%E8%BF%87%E4%B8%80%E4%BA%86%E7%99%BE%E4%BA%86&Refer=top)
+
+1. [容祖儿行程表](https://s.weibo.com//weibo?q=%23%E5%AE%B9%E7%A5%96%E5%84%BF%E8%A1%8C%E7%A8%8B%E8%A1%A8%23&Refer=top)
+
+1. [鲜奶麻薯坚果杯](https://s.weibo.com//weibo?q=%E9%B2%9C%E5%A5%B6%E9%BA%BB%E8%96%AF%E5%9D%9A%E6%9E%9C%E6%9D%AF&Refer=top)
+
+1. [花式柿饼吃法](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%BC%8F%E6%9F%BF%E9%A5%BC%E5%90%83%E6%B3%95&Refer=top)
+
+1. [染什么发色才显瘦](https://s.weibo.com//weibo?q=%23%E6%9F%93%E4%BB%80%E4%B9%88%E5%8F%91%E8%89%B2%E6%89%8D%E6%98%BE%E7%98%A6%23&Refer=top)
 
