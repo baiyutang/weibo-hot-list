@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 18:36:28
+## 微博今日热榜 更新于 2021-01-21 19:35:06
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -418,4 +418,22 @@
 1. [罗云熙学院风造型](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%AD%A6%E9%99%A2%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 1. [有翡收官](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%BF%A1%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [春节防疫27字倡议](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E9%98%B2%E7%96%AB27%E5%AD%97%E5%80%A1%E8%AE%AE%23&Refer=new_time)
+
+1. [伊拉克首都发生自杀式爆炸袭击](https://s.weibo.com//weibo?q=%E4%BC%8A%E6%8B%89%E5%85%8B%E9%A6%96%E9%83%BD%E5%8F%91%E7%94%9F%E8%87%AA%E6%9D%80%E5%BC%8F%E7%88%86%E7%82%B8%E8%A2%AD%E5%87%BB&Refer=top)
+
+1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
+
+1. [微信更新8.0版本](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B08.0%E7%89%88%E6%9C%AC&Refer=top)
+
+1. [日本多地上空观测到闪光火球](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E4%B8%8A%E7%A9%BA%E8%A7%82%E6%B5%8B%E5%88%B0%E9%97%AA%E5%85%89%E7%81%AB%E7%90%83%23&Refer=top)
+
+1. [张文宏呼吁你快速我快速](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%87%E5%AE%8F%E5%91%BC%E5%90%81%E4%BD%A0%E5%BF%AB%E9%80%9F%E6%88%91%E5%BF%AB%E9%80%9F&Refer=top)
+
+1. [吃不腻的流心蛋包饭](https://s.weibo.com//weibo?q=%23%E5%90%83%E4%B8%8D%E8%85%BB%E7%9A%84%E6%B5%81%E5%BF%83%E8%9B%8B%E5%8C%85%E9%A5%AD%23&Refer=top)
+
+1. [江苏超31万人接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%B6%8531%E4%B8%87%E4%BA%BA%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [紫薯燕麦南瓜派](https://s.weibo.com//weibo?q=%23%E7%B4%AB%E8%96%AF%E7%87%95%E9%BA%A6%E5%8D%97%E7%93%9C%E6%B4%BE%23&Refer=top)
 
