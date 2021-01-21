@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 05:19:26
+## 微博今日热榜 更新于 2021-01-22 06:20:04
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
 
 1. [明星易受惊行为大赏](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E6%98%93%E5%8F%97%E6%83%8A%E8%A1%8C%E4%B8%BA%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [广电时评称不会给郑爽发声露脸机会](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E7%94%B5%E6%97%B6%E8%AF%84%E7%A7%B0%E4%B8%8D%E4%BC%9A%E7%BB%99%E9%83%91%E7%88%BD%E5%8F%91%E5%A3%B0%E9%9C%B2%E8%84%B8%E6%9C%BA%E4%BC%9A%23&Refer=top)
+
+1. [全国100趟航班车次急寻同乘人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD100%E8%B6%9F%E8%88%AA%E7%8F%AD%E8%BD%A6%E6%AC%A1%E6%80%A5%E5%AF%BB%E5%90%8C%E4%B9%98%E4%BA%BA%23&Refer=top)
 
