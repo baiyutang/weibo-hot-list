@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 00:29:09
+## 微博今日热榜 更新于 2021-01-22 02:13:04
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -104,4 +104,10 @@
 1. [新疆喀什4.6级地震](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%96%80%E4%BB%804.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
 
 1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [春节防疫27字倡议](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E9%98%B2%E7%96%AB27%E5%AD%97%E5%80%A1%E8%AE%AE%23&Refer=new_time)
+
+1. [迪丽热巴蝴蝶翅膀造型](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E7%BF%85%E8%86%80%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [冉高鸣 等风来](https://s.weibo.com//weibo?q=%E5%86%89%E9%AB%98%E9%B8%A3%20%E7%AD%89%E9%A3%8E%E6%9D%A5&Refer=top)
 
