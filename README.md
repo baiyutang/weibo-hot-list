@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-21 10:37:46
+## 微博今日热榜 更新于 2021-01-21 11:52:44
 1. [2020我国吸引外资近1万亿元](https://s.weibo.com//weibo?q=%232020%E6%88%91%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E8%BF%911%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [农村药店发现买退烧药的患者2小时内报告](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E8%8D%AF%E5%BA%97%E5%8F%91%E7%8E%B0%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E6%82%A3%E8%80%852%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%A5%E5%91%8A%23&Refer=top)
@@ -236,4 +236,32 @@
 1. [湖北新增境外输入确诊病例1例](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E6%96%B0%E5%A2%9E%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B1%E4%BE%8B&Refer=top)
 
 1. [骑士致敬欧文](https://s.weibo.com//weibo?q=%23%E9%AA%91%E5%A3%AB%E8%87%B4%E6%95%AC%E6%AC%A7%E6%96%87%23&Refer=top)
+
+1. [姐姐2全阵容](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%A7%902%E5%85%A8%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [上海疫情](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85&Refer=top)
+
+1. [山东确诊患者曾7天8赴医院检查](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E6%9B%BE7%E5%A4%A98%E8%B5%B4%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5&Refer=top)
+
+1. [青海省原副省长文国栋被逮捕](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%8E%9F%E5%89%AF%E7%9C%81%E9%95%BF%E6%96%87%E5%9B%BD%E6%A0%8B%E8%A2%AB%E9%80%AE%E6%8D%95%23&Refer=top)
+
+1. [最高人民检察院依法对胡问鸣决定逮捕](https://s.weibo.com//weibo?q=%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%A3%80%E5%AF%9F%E9%99%A2%E4%BE%9D%E6%B3%95%E5%AF%B9%E8%83%A1%E9%97%AE%E9%B8%A3%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95&Refer=top)
+
+1. [31省份2020年居民收入榜](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E4%BB%BD2020%E5%B9%B4%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5%E6%A6%9C%23&Refer=top)
+
+1. [宁波一老师与初中生发生关系被逮捕](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E8%80%81%E5%B8%88%E4%B8%8E%E5%88%9D%E4%B8%AD%E7%94%9F%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%A2%AB%E9%80%AE%E6%8D%95%23&Refer=top)
+
+1. [NBA](https://s.weibo.com//weibo?q=NBA&Refer=top)
+
+1. [国际奥委会委员称不会取消东京奥运](https://s.weibo.com//weibo?q=%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E5%A7%94%E5%91%98%E7%A7%B0%E4%B8%8D%E4%BC%9A%E5%8F%96%E6%B6%88%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90&Refer=top)
+
+1. [闪耀暖暖](https://s.weibo.com//weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96&Refer=top)
+
+1. [复印店老板出售变造的核酸检查报告](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E5%8D%B0%E5%BA%97%E8%80%81%E6%9D%BF%E5%87%BA%E5%94%AE%E5%8F%98%E9%80%A0%E7%9A%84%E6%A0%B8%E9%85%B8%E6%A3%80%E6%9F%A5%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [骑士双加时战胜篮网](https://s.weibo.com//weibo?q=%23%E9%AA%91%E5%A3%AB%E5%8F%8C%E5%8A%A0%E6%97%B6%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91%23&Refer=top)
+
+1. [农历辛丑年仅有354天](https://s.weibo.com//weibo?q=%23%E5%86%9C%E5%8E%86%E8%BE%9B%E4%B8%91%E5%B9%B4%E4%BB%85%E6%9C%89354%E5%A4%A9%23&Refer=top)
+
+1. [塞克斯顿42分](https://s.weibo.com//weibo?q=%E5%A1%9E%E5%85%8B%E6%96%AF%E9%A1%BF42%E5%88%86&Refer=top)
 
