@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 19:34:07
+## 微博今日热榜 更新于 2021-01-22 20:21:14
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -400,4 +400,16 @@
 1. [郑州航空港区组织开展全员核酸检测](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E8%88%AA%E7%A9%BA%E6%B8%AF%E5%8C%BA%E7%BB%84%E7%BB%87%E5%BC%80%E5%B1%95%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B&Refer=top)
 
 1. [昆明发生一起劫持人质案件](https://s.weibo.com//weibo?q=%23%E6%98%86%E6%98%8E%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E5%8A%AB%E6%8C%81%E4%BA%BA%E8%B4%A8%E6%A1%88%E4%BB%B6%23&Refer=top)
+
+1. [华晨宇张碧晨和女儿合影](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%92%8C%E5%A5%B3%E5%84%BF%E5%90%88%E5%BD%B1%23&Refer=top)
+
+1. [新华社评郑爽事件](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E9%83%91%E7%88%BD%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [会理县回应B站UP主墨茶去世](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E7%90%86%E5%8E%BF%E5%9B%9E%E5%BA%94B%E7%AB%99UP%E4%B8%BB%E5%A2%A8%E8%8C%B6%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [油泼辣子土豆泥蛋糕](https://s.weibo.com//weibo?q=%E6%B2%B9%E6%B3%BC%E8%BE%A3%E5%AD%90%E5%9C%9F%E8%B1%86%E6%B3%A5%E8%9B%8B%E7%B3%95&Refer=top)
+
+1. [一张纸折叠呈现三幅画](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BA%B8%E6%8A%98%E5%8F%A0%E5%91%88%E7%8E%B0%E4%B8%89%E5%B9%85%E7%94%BB%23&Refer=top)
+
+1. [武汉日夜](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top)
 
