@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 22:27:30
+## 微博今日热榜 更新于 2021-01-22 23:18:48
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -466,4 +466,20 @@
 1. [杨幂魏大勋](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E9%AD%8F%E5%A4%A7%E5%8B%8B&Refer=top)
 
 1. [石家庄疫情发布会](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [西藏冒险王弟弟回应网传降噪视频](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E5%86%92%E9%99%A9%E7%8E%8B%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%99%8D%E5%99%AA%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [央视专题片披露孙小果案大量细节](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%93%E9%A2%98%E7%89%87%E6%8A%AB%E9%9C%B2%E5%AD%99%E5%B0%8F%E6%9E%9C%E6%A1%88%E5%A4%A7%E9%87%8F%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [杨幂工作室辟谣声明](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [于志刚](https://s.weibo.com//weibo?q=%E4%BA%8E%E5%BF%97%E5%88%9A&Refer=top)
+
+1. [法国立法禁止开具处女证明](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%BC%80%E5%85%B7%E5%A4%84%E5%A5%B3%E8%AF%81%E6%98%8E&Refer=top)
+
+1. [李佳琦高圆圆直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%AB%98%E5%9C%86%E5%9C%86%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [奶爸当家开播](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E7%88%B8%E5%BD%93%E5%AE%B6%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [微信状态背景图](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E8%83%8C%E6%99%AF%E5%9B%BE&Refer=top)
 
