@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-23 05:21:13
+## 微博今日热榜 更新于 2021-01-23 06:22:08
 1. [中国首颗太阳探测卫星拟2022年发射](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%A2%97%E5%A4%AA%E9%98%B3%E6%8E%A2%E6%B5%8B%E5%8D%AB%E6%98%9F%E6%8B%9F2022%E5%B9%B4%E5%8F%91%E5%B0%84%23&Refer=new_time)
 
 1. [微信状态背景图](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E8%83%8C%E6%99%AF%E5%9B%BE&Refer=top)
@@ -134,4 +134,8 @@
 1. [刘卓 严格](https://s.weibo.com//weibo?q=%E5%88%98%E5%8D%93%20%E4%B8%A5%E6%A0%BC&Refer=top)
 
 1. [武汉日夜](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%97%A5%E5%A4%9C&Refer=top)
+
+1. [京哈高铁全线贯通](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%93%88%E9%AB%98%E9%93%81%E5%85%A8%E7%BA%BF%E8%B4%AF%E9%80%9A%23&Refer=new_time)
+
+1. [邓伦工作室声明](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
 
