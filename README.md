@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 15:34:34
+## 微博今日热榜 更新于 2021-01-22 16:27:19
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -316,4 +316,28 @@
 1. [医疗股](https://s.weibo.com//weibo?q=%E5%8C%BB%E7%96%97%E8%82%A1&Refer=top)
 
 1. [黑龙江新增47例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E47%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [拜登要求入境美国旅客隔离7天](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E8%A6%81%E6%B1%82%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E6%97%85%E5%AE%A2%E9%9A%94%E7%A6%BB7%E5%A4%A9%23&Refer=top)
+
+1. [吕一舞台表现力](https://s.weibo.com//weibo?q=%E5%90%95%E4%B8%80%E8%88%9E%E5%8F%B0%E8%A1%A8%E7%8E%B0%E5%8A%9B&Refer=top)
+
+1. [原来蔬菜包真的有很多蔬菜](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%94%AC%E8%8F%9C%E5%8C%85%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BE%88%E5%A4%9A%E8%94%AC%E8%8F%9C%23&Refer=top)
+
+1. [石家庄医护凌晨收到外卖署名湖北人](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%8C%BB%E6%8A%A4%E5%87%8C%E6%99%A8%E6%94%B6%E5%88%B0%E5%A4%96%E5%8D%96%E7%BD%B2%E5%90%8D%E6%B9%96%E5%8C%97%E4%BA%BA%23&Refer=top)
+
+1. [机票钱为何不能秒退](https://s.weibo.com//weibo?q=%23%E6%9C%BA%E7%A5%A8%E9%92%B1%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%83%BD%E7%A7%92%E9%80%80%23&Refer=top)
+
+1. [福奇称美国将停止退出世卫组织](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%A5%87%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%81%9C%E6%AD%A2%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23&Refer=top)
+
+1. [杭州率先推行宠物鼻纹身份证](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%8E%87%E5%85%88%E6%8E%A8%E8%A1%8C%E5%AE%A0%E7%89%A9%E9%BC%BB%E7%BA%B9%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
+
+1. [妈妈催婚都说过什么](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%82%AC%E5%A9%9A%E9%83%BD%E8%AF%B4%E8%BF%87%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [王鸥每一帧都好美](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%B8%A5%E6%AF%8F%E4%B8%80%E5%B8%A7%E9%83%BD%E5%A5%BD%E7%BE%8E&Refer=top)
+
+1. [无锡一份进口车厘子表面检测阳性](https://s.weibo.com//weibo?q=%E6%97%A0%E9%94%A1%E4%B8%80%E4%BB%BD%E8%BF%9B%E5%8F%A3%E8%BD%A6%E5%8E%98%E5%AD%90%E8%A1%A8%E9%9D%A2%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [华春莹回怼美政客指责中国制裁](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%9B%9E%E6%80%BC%E7%BE%8E%E6%94%BF%E5%AE%A2%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81&Refer=top)
+
+1. [幻彩紫薯芋泥鲜奶](https://s.weibo.com//weibo?q=%23%E5%B9%BB%E5%BD%A9%E7%B4%AB%E8%96%AF%E8%8A%8B%E6%B3%A5%E9%B2%9C%E5%A5%B6%23&Refer=top)
 
