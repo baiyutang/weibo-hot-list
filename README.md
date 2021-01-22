@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-22 11:51:59
+## 微博今日热榜 更新于 2021-01-22 12:30:30
 1. [2020年税收收入超13万亿元](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E7%A8%8E%E6%94%B6%E6%94%B6%E5%85%A5%E8%B6%8513%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [微信黄脸表情会动了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%BB%84%E8%84%B8%E8%A1%A8%E6%83%85%E4%BC%9A%E5%8A%A8%E4%BA%86%23&Refer=top)
@@ -228,4 +228,20 @@
 1. [石家庄本轮疫情首例确诊1岁外孙女确诊](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E9%A6%96%E4%BE%8B%E7%A1%AE%E8%AF%8A1%E5%B2%81%E5%A4%96%E5%AD%99%E5%A5%B3%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
 1. [亲爱的周游](https://s.weibo.com//weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84%E5%91%A8%E6%B8%B8&Refer=top)
+
+1. [最新版疫情防护线路图](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E7%89%88%E7%96%AB%E6%83%85%E9%98%B2%E6%8A%A4%E7%BA%BF%E8%B7%AF%E5%9B%BE%23&Refer=new_time)
+
+1. [霍思燕](https://s.weibo.com//weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95&Refer=top)
+
+1. [湖南警方通报村医儿子遭砍伤](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E5%8C%BB%E5%84%BF%E5%AD%90%E9%81%AD%E7%A0%8D%E4%BC%A4&Refer=top)
+
+1. [kingdom](https://s.weibo.com//weibo?q=kingdom&Refer=top)
+
+1. [浙江三种方式可进行核酸检测](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%8F%AF%E8%BF%9B%E8%A1%8C%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [还以为是开了特效](https://s.weibo.com//weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%BC%80%E4%BA%86%E7%89%B9%E6%95%88%23&Refer=top)
+
+1. [詹姆斯34分](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF34%E5%88%86&Refer=top)
+
+1. [焉栩嘉否认恋情](https://s.weibo.com//weibo?q=%E7%84%89%E6%A0%A9%E5%98%89%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85&Refer=top)
 
