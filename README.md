@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-24 05:17:33
+## 微博今日热榜 更新于 2021-01-24 06:19:20
 1. [新征程上的三牛精神](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E7%9A%84%E4%B8%89%E7%89%9B%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [杨丞琳李荣浩终于见面了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&Refer=top)
@@ -126,4 +126,10 @@
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
 
 1. [蔡徐坤情人年度十大金曲](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%83%85%E4%BA%BA%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E9%87%91%E6%9B%B2%23&Refer=top)
+
+1. [正风反腐就在身边](https://s.weibo.com//weibo?q=%23%E6%AD%A3%E9%A3%8E%E5%8F%8D%E8%85%90%E5%B0%B1%E5%9C%A8%E8%BA%AB%E8%BE%B9%23&Refer=new_time)
+
+1. [吉林通化二轮全员核酸检测88例阳性](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E9%80%9A%E5%8C%96%E4%BA%8C%E8%BD%AE%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B88%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [章子怡说李晟表演诚实](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E8%AF%B4%E6%9D%8E%E6%99%9F%E8%A1%A8%E6%BC%94%E8%AF%9A%E5%AE%9E%23&Refer=top)
 
