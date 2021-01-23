@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-24 03:39:05
+## 微博今日热榜 更新于 2021-01-24 04:24:02
 1. [新征程上的三牛精神](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E7%9A%84%E4%B8%89%E7%89%9B%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [杨丞琳李荣浩终于见面了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&Refer=top)
