@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-23 11:50:31
+## 微博今日热榜 更新于 2021-01-23 12:27:32
 1. [中国首颗太阳探测卫星拟2022年发射](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%A2%97%E5%A4%AA%E9%98%B3%E6%8E%A2%E6%B5%8B%E5%8D%AB%E6%98%9F%E6%8B%9F2022%E5%B9%B4%E5%8F%91%E5%B0%84%23&Refer=new_time)
 
 1. [微信状态背景图](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E8%83%8C%E6%99%AF%E5%9B%BE&Refer=top)
@@ -230,4 +230,10 @@
 1. [国家卫健委再次回应春节返乡问题](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%98%A5%E8%8A%82%E8%BF%94%E4%B9%A1%E9%97%AE%E9%A2%98&Refer=top)
 
 1. [哈尔滨下架正大1月1日后出厂产品](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%8B%E6%9E%B6%E6%AD%A3%E5%A4%A71%E6%9C%881%E6%97%A5%E5%90%8E%E5%87%BA%E5%8E%82%E4%BA%A7%E5%93%81%23&Refer=top)
+
+1. [沪牌](https://s.weibo.com//weibo?q=%E6%B2%AA%E7%89%8C&Refer=top)
+
+1. [荣耀CEO赵明感谢任正非和华为](https://s.weibo.com//weibo?q=%E8%8D%A3%E8%80%80CEO%E8%B5%B5%E6%98%8E%E6%84%9F%E8%B0%A2%E4%BB%BB%E6%AD%A3%E9%9D%9E%E5%92%8C%E5%8D%8E%E4%B8%BA&Refer=top)
+
+1. [湖北姑爷再上河北抗疫一线](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E5%A7%91%E7%88%B7%E5%86%8D%E4%B8%8A%E6%B2%B3%E5%8C%97%E6%8A%97%E7%96%AB%E4%B8%80%E7%BA%BF&Refer=top)
 
