@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-24 17:31:56
+## 微博今日热榜 更新于 2021-01-24 18:33:10
 1. [新征程上的三牛精神](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E7%9A%84%E4%B8%89%E7%89%9B%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [杨丞琳李荣浩终于见面了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&Refer=top)
@@ -382,4 +382,26 @@
 1. [专家回应山东金矿事故救援通道突然打通](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E9%87%91%E7%9F%BF%E4%BA%8B%E6%95%85%E6%95%91%E6%8F%B4%E9%80%9A%E9%81%93%E7%AA%81%E7%84%B6%E6%89%93%E9%80%9A%23&Refer=top)
 
 1. [焦糖脆皮糯米船](https://s.weibo.com//weibo?q=%23%E7%84%A6%E7%B3%96%E8%84%86%E7%9A%AE%E7%B3%AF%E7%B1%B3%E8%88%B9%23&Refer=top)
+
+1. [陈德容退出我就是演员](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%BE%B7%E5%AE%B9%E9%80%80%E5%87%BA%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [泉州隔离点酒店坍塌详情](https://s.weibo.com//weibo?q=%E6%B3%89%E5%B7%9E%E9%9A%94%E7%A6%BB%E7%82%B9%E9%85%92%E5%BA%97%E5%9D%8D%E5%A1%8C%E8%AF%A6%E6%83%85&Refer=top)
+
+1. [上海流调报告只提地点不提人](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%81%E8%B0%83%E6%8A%A5%E5%91%8A%E5%8F%AA%E6%8F%90%E5%9C%B0%E7%82%B9%E4%B8%8D%E6%8F%90%E4%BA%BA%23&Refer=top)
+
+1. [上海今年将推进数字人民币试点](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E8%AF%95%E7%82%B9&Refer=top)
+
+1. [北京倡导环京人员居家办公](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%80%A1%E5%AF%BC%E7%8E%AF%E4%BA%AC%E4%BA%BA%E5%91%98%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23&Refer=top)
+
+1. [印小天教金巧巧跳阿里巴巴](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%8F%E5%A4%A9%E6%95%99%E9%87%91%E5%B7%A7%E5%B7%A7%E8%B7%B3%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&Refer=top)
+
+1. [湖南益阳](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E7%9B%8A%E9%98%B3&Refer=top)
+
+1. [八省联考物理](https://s.weibo.com//weibo?q=%E5%85%AB%E7%9C%81%E8%81%94%E8%80%83%E7%89%A9%E7%90%86&Refer=top)
+
+1. [2020王者荣耀年度颁奖典礼](https://s.weibo.com//weibo?q=2020%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B9%B4%E5%BA%A6%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&Refer=top)
+
+1. [石家庄新增5例本土确诊](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
 
