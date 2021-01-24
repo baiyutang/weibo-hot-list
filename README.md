@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-25 02:11:22
+## 微博今日热榜 更新于 2021-01-25 04:25:33
 1. [一图看懂春运防护要点](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E6%98%A5%E8%BF%90%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&Refer=new_time)
 
 1. [首都航空JD5166航班](https://s.weibo.com//weibo?q=%E9%A6%96%E9%83%BD%E8%88%AA%E7%A9%BAJD5166%E8%88%AA%E7%8F%AD&Refer=top)
@@ -118,4 +118,12 @@
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
 
 1. [通化物资](https://s.weibo.com//weibo?q=%E9%80%9A%E5%8C%96%E7%89%A9%E8%B5%84&Refer=top)
+
+1. [核酸检测实用指南](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [2020王者荣耀年度颁奖典礼](https://s.weibo.com//weibo?q=2020%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B9%B4%E5%BA%A6%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC&Refer=top)
+
+1. [2020年度KPL最佳阵容](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E5%BA%A6KPL%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9&Refer=top)
+
+1. [同曦逆转吉林](https://s.weibo.com//weibo?q=%E5%90%8C%E6%9B%A6%E9%80%86%E8%BD%AC%E5%90%89%E6%9E%97&Refer=top)
 
