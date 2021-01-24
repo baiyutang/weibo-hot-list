@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-25 00:28:53
+## 微博今日热榜 更新于 2021-01-25 02:11:22
 1. [一图看懂春运防护要点](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E6%98%A5%E8%BF%90%E9%98%B2%E6%8A%A4%E8%A6%81%E7%82%B9%23&Refer=new_time)
 
 1. [首都航空JD5166航班](https://s.weibo.com//weibo?q=%E9%A6%96%E9%83%BD%E8%88%AA%E7%A9%BAJD5166%E8%88%AA%E7%8F%AD&Refer=top)
@@ -104,4 +104,18 @@
 1. [恒大汽车引入260亿投资](https://s.weibo.com//weibo?q=%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%BC%95%E5%85%A5260%E4%BA%BF%E6%8A%95%E8%B5%84&Refer=top)
 
 1. [白岩松说防疫是大事但行为不能破底线](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%AF%B4%E9%98%B2%E7%96%AB%E6%98%AF%E5%A4%A7%E4%BA%8B%E4%BD%86%E8%A1%8C%E4%B8%BA%E4%B8%8D%E8%83%BD%E7%A0%B4%E5%BA%95%E7%BA%BF%23&Refer=top)
+
+1. [新冠病毒疫苗需要每年接种吗](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E9%9C%80%E8%A6%81%E6%AF%8F%E5%B9%B4%E6%8E%A5%E7%A7%8D%E5%90%97%23&Refer=new_time)
+
+1. [王力宏凡尔赛发言](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%87%A1%E5%B0%94%E8%B5%9B%E5%8F%91%E8%A8%80%23&Refer=top)
+
+1. [柯滢以死相逼封潇声](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E6%BB%A2%E4%BB%A5%E6%AD%BB%E7%9B%B8%E9%80%BC%E5%B0%81%E6%BD%87%E5%A3%B0%23&Refer=top)
+
+1. [章小鱼面试](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%B0%8F%E9%B1%BC%E9%9D%A2%E8%AF%95%23&Refer=top)
+
+1. [蔡文静哭戏](https://s.weibo.com//weibo?q=%E8%94%A1%E6%96%87%E9%9D%99%E5%93%AD%E6%88%8F&Refer=top)
+
+1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
+
+1. [通化物资](https://s.weibo.com//weibo?q=%E9%80%9A%E5%8C%96%E7%89%A9%E8%B5%84&Refer=top)
 
