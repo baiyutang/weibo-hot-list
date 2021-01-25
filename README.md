@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-26 02:12:21
+## 微博今日热榜 更新于 2021-01-26 03:43:10
 1. [我的扶贫故事](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E6%89%B6%E8%B4%AB%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [上海红房子妇产科医院情况通报](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BA%A2%E6%88%BF%E5%AD%90%E5%A6%87%E4%BA%A7%E7%A7%91%E5%8C%BB%E9%99%A2%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [东京奥运可能空场举办](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E5%8F%AF%E8%83%BD%E7%A9%BA%E5%9C%BA%E4%B8%BE%E5%8A%9E&Refer=top)
 
 1. [牙刷的隐藏使用方法](https://s.weibo.com//weibo?q=%23%E7%89%99%E5%88%B7%E7%9A%84%E9%9A%90%E8%97%8F%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%23&Refer=top)
+
+1. [家庭教育将立法](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E5%B0%86%E7%AB%8B%E6%B3%95%23&Refer=new_time)
+
+1. [栖霞金矿10名被困矿工不幸遇难](https://s.weibo.com//weibo?q=%23%E6%A0%96%E9%9C%9E%E9%87%91%E7%9F%BF10%E5%90%8D%E8%A2%AB%E5%9B%B0%E7%9F%BF%E5%B7%A5%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE%23&Refer=top)
 
