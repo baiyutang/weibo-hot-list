@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-26 04:27:31
+## 微博今日热榜 更新于 2021-01-26 05:21:18
 1. [我的扶贫故事](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E6%89%B6%E8%B4%AB%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [上海红房子妇产科医院情况通报](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BA%A2%E6%88%BF%E5%AD%90%E5%A6%87%E4%BA%A7%E7%A7%91%E5%8C%BB%E9%99%A2%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [口罩潮湿会影响防护效果](https://s.weibo.com//weibo?q=%23%E5%8F%A3%E7%BD%A9%E6%BD%AE%E6%B9%BF%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%98%B2%E6%8A%A4%E6%95%88%E6%9E%9C%23&Refer=top)
 
 1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [十部门要求做好监护缺失未成年人救助](https://s.weibo.com//weibo?q=%23%E5%8D%81%E9%83%A8%E9%97%A8%E8%A6%81%E6%B1%82%E5%81%9A%E5%A5%BD%E7%9B%91%E6%8A%A4%E7%BC%BA%E5%A4%B1%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%95%91%E5%8A%A9%23&Refer=new_time)
 
