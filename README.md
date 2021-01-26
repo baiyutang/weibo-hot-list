@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-27 01:31:48
+## 微博今日热榜 更新于 2021-01-27 02:15:00
 1. [农村防疫八项倡议](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E9%98%B2%E7%96%AB%E5%85%AB%E9%A1%B9%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [现实版樊胜美](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E6%A8%8A%E8%83%9C%E7%BE%8E&Refer=top)
@@ -114,4 +114,6 @@
 1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
 
 1. [江西超载客车发生事故致7死7伤](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%A5%BF%E8%B6%85%E8%BD%BD%E5%AE%A2%E8%BD%A6%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB7%E4%BC%A4&Refer=top)
+
+1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
 
