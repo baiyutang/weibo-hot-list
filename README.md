@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-26 15:06:48
+## 微博今日热榜 更新于 2021-01-26 16:03:47
 1. [我的扶贫故事](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E6%89%B6%E8%B4%AB%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [上海红房子妇产科医院情况通报](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BA%A2%E6%88%BF%E5%AD%90%E5%A6%87%E4%BA%A7%E7%A7%91%E5%8C%BB%E9%99%A2%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&Refer=top)
@@ -312,4 +312,32 @@
 1. [股票](https://s.weibo.com//weibo?q=%E8%82%A1%E7%A5%A8&Refer=top)
 
 1. [合成大西瓜物理外挂](https://s.weibo.com//weibo?q=%E5%90%88%E6%88%90%E5%A4%A7%E8%A5%BF%E7%93%9C%E7%89%A9%E7%90%86%E5%A4%96%E6%8C%82&Refer=top)
+
+1. [全国最缺工100个职业排行](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E6%9C%80%E7%BC%BA%E5%B7%A5100%E4%B8%AA%E8%81%8C%E4%B8%9A%E6%8E%92%E8%A1%8C&Refer=top)
+
+1. [多所高校免费为返乡学生核酸检测](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%85%8D%E8%B4%B9%E4%B8%BA%E8%BF%94%E4%B9%A1%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [天猫国际下架问题猫粮](https://s.weibo.com//weibo?q=%E5%A4%A9%E7%8C%AB%E5%9B%BD%E9%99%85%E4%B8%8B%E6%9E%B6%E9%97%AE%E9%A2%98%E7%8C%AB%E7%B2%AE&Refer=top)
+
+1. [番茄肥牛浓汤螺蛳粉](https://s.weibo.com//weibo?q=%23%E7%95%AA%E8%8C%84%E8%82%A5%E7%89%9B%E6%B5%93%E6%B1%A4%E8%9E%BA%E8%9B%B3%E7%B2%89%23&Refer=top)
+
+1. [董子健古装少年造型](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E5%8F%A4%E8%A3%85%E5%B0%91%E5%B9%B4%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [工信部回应芯片行业缺货潮](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%BC%BA%E8%B4%A7%E6%BD%AE%23&Refer=top)
+
+1. [秦皇岛检方介入防疫工作人员死亡案](https://s.weibo.com//weibo?q=%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%A3%80%E6%96%B9%E4%BB%8B%E5%85%A5%E9%98%B2%E7%96%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1%E6%A1%88&Refer=top)
+
+1. [孙娜恩近照](https://s.weibo.com//weibo?q=%E5%AD%99%E5%A8%9C%E6%81%A9%E8%BF%91%E7%85%A7&Refer=top)
+
+1. [生还矿工说我们坚信会有人来救我们](https://s.weibo.com//weibo?q=%E7%94%9F%E8%BF%98%E7%9F%BF%E5%B7%A5%E8%AF%B4%E6%88%91%E4%BB%AC%E5%9D%9A%E4%BF%A1%E4%BC%9A%E6%9C%89%E4%BA%BA%E6%9D%A5%E6%95%91%E6%88%91%E4%BB%AC&Refer=top)
+
+1. [第二批跨境赌博旅游目的地黑名单](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%BA%8C%E6%89%B9%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A%E6%97%85%E6%B8%B8%E7%9B%AE%E7%9A%84%E5%9C%B0%E9%BB%91%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [警方通报江西吉水伤医案](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B1%9F%E8%A5%BF%E5%90%89%E6%B0%B4%E4%BC%A4%E5%8C%BB%E6%A1%88&Refer=top)
+
+1. [沪指失守3600点](https://s.weibo.com//weibo?q=%E6%B2%AA%E6%8C%87%E5%A4%B1%E5%AE%883600%E7%82%B9&Refer=top)
+
+1. [年夜饭葱油鸡](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E5%A4%9C%E9%A5%AD%E8%91%B1%E6%B2%B9%E9%B8%A1%23&Refer=top)
+
+1. [公路服务区和收费站不得擅自关闭](https://s.weibo.com//weibo?q=%23%E5%85%AC%E8%B7%AF%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%92%8C%E6%94%B6%E8%B4%B9%E7%AB%99%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E5%85%B3%E9%97%AD%23&Refer=top)
 
