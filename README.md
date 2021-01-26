@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-27 06:03:12
+## 微博今日热榜 更新于 2021-01-27 07:04:11
 1. [农村防疫八项倡议](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E9%98%B2%E7%96%AB%E5%85%AB%E9%A1%B9%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [现实版樊胜美](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E6%A8%8A%E8%83%9C%E7%BE%8E&Refer=top)
@@ -128,4 +128,6 @@
 1. [陈薇院士喊你身在他乡也要安心过年](https://s.weibo.com//weibo?q=%E9%99%88%E8%96%87%E9%99%A2%E5%A3%AB%E5%96%8A%E4%BD%A0%E8%BA%AB%E5%9C%A8%E4%BB%96%E4%B9%A1%E4%B9%9F%E8%A6%81%E5%AE%89%E5%BF%83%E8%BF%87%E5%B9%B4&Refer=top)
 
 1. [全国所有地级以上城市覆盖5G](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%89%80%E6%9C%89%E5%9C%B0%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9F%8E%E5%B8%82%E8%A6%86%E7%9B%965G%23&Refer=new_time)
+
+1. [胡冰卿演技](https://s.weibo.com//weibo?q=%E8%83%A1%E5%86%B0%E5%8D%BF%E6%BC%94%E6%8A%80&Refer=top)
 
