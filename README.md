@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-27 03:12:56
+## 微博今日热榜 更新于 2021-01-27 04:03:00
 1. [农村防疫八项倡议](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E9%98%B2%E7%96%AB%E5%85%AB%E9%A1%B9%E5%80%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [现实版樊胜美](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E6%A8%8A%E8%83%9C%E7%BE%8E&Refer=top)
@@ -122,4 +122,6 @@
 1. [姚晨给自己和白宇取CP名](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E6%99%A8%E7%BB%99%E8%87%AA%E5%B7%B1%E5%92%8C%E7%99%BD%E5%AE%87%E5%8F%96CP%E5%90%8D%23&Refer=top)
 
 1. [山海情](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B5%B7%E6%83%85%23&Refer=top)
+
+1. [福奇年薪超美国总统](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%A5%87%E5%B9%B4%E8%96%AA%E8%B6%85%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F&Refer=top)
 
