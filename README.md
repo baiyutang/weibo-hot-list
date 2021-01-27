@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-28 06:03:06
+## 微博今日热榜 更新于 2021-01-28 07:05:19
 1. [升级版中新自贸协定将释放更多开放红利](https://s.weibo.com//weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E4%B8%AD%E6%96%B0%E8%87%AA%E8%B4%B8%E5%8D%8F%E5%AE%9A%E5%B0%86%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E5%BC%80%E6%94%BE%E7%BA%A2%E5%88%A9%23&Refer=new_time)
 
 1. [日政府不认为中国在新疆实施种族灭绝](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%96%B0%E7%96%86%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%23&Refer=top)
@@ -134,4 +134,6 @@
 1. [刘宇宁唱让酒](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%94%B1%E8%AE%A9%E9%85%92%23&Refer=top)
 
 1. [菅义伟道歉](https://s.weibo.com//weibo?q=%23%E8%8F%85%E4%B9%89%E4%BC%9F%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [洛洛的微博](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E6%B4%9B%E7%9A%84%E5%BE%AE%E5%8D%9A%23&Refer=top)
 
