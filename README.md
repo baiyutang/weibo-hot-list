@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-29 00:09:00
+## 微博今日热榜 更新于 2021-01-29 01:33:56
 1. [平安过年54字口诀](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%AE%89%E8%BF%87%E5%B9%B454%E5%AD%97%E5%8F%A3%E8%AF%80%23&Refer=new_time)
 
 1. [马可宣布结婚](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%8F%AF%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&Refer=top)
@@ -104,4 +104,14 @@
 1. [灵域](https://s.weibo.com//weibo?q=%E7%81%B5%E5%9F%9F&Refer=top)
 
 1. [平底锅拉丝奶枣](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%BA%95%E9%94%85%E6%8B%89%E4%B8%9D%E5%A5%B6%E6%9E%A3%23&Refer=top)
+
+1. [详解春运核酸检测全流程](https://s.weibo.com//weibo?q=%23%E8%AF%A6%E8%A7%A3%E6%98%A5%E8%BF%90%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%85%A8%E6%B5%81%E7%A8%8B%23&Refer=new_time)
+
+1. [蔡文静2年拍4部剧2个月播完](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%992%E5%B9%B4%E6%8B%8D4%E9%83%A8%E5%89%A72%E4%B8%AA%E6%9C%88%E6%92%AD%E5%AE%8C%23&Refer=top)
+
+1. [冉高鸣 孩子很贵我们不配](https://s.weibo.com//weibo?q=%E5%86%89%E9%AB%98%E9%B8%A3%20%E5%AD%A9%E5%AD%90%E5%BE%88%E8%B4%B5%E6%88%91%E4%BB%AC%E4%B8%8D%E9%85%8D&Refer=top)
+
+1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [股票](https://s.weibo.com//weibo?q=%E8%82%A1%E7%A5%A8&Refer=top)
 
