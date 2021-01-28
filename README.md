@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-28 07:05:19
+## 微博今日热榜 更新于 2021-01-28 08:10:22
 1. [升级版中新自贸协定将释放更多开放红利](https://s.weibo.com//weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E4%B8%AD%E6%96%B0%E8%87%AA%E8%B4%B8%E5%8D%8F%E5%AE%9A%E5%B0%86%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E5%BC%80%E6%94%BE%E7%BA%A2%E5%88%A9%23&Refer=new_time)
 
 1. [日政府不认为中国在新疆实施种族灭绝](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%96%B0%E7%96%86%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%23&Refer=top)
@@ -136,4 +136,44 @@
 1. [菅义伟道歉](https://s.weibo.com//weibo?q=%23%E8%8F%85%E4%B9%89%E4%BC%9F%E9%81%93%E6%AD%89%23&Refer=top)
 
 1. [洛洛的微博](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E6%B4%9B%E7%9A%84%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [为什么昆仑被称为万山之祖](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%86%E4%BB%91%E8%A2%AB%E7%A7%B0%E4%B8%BA%E4%B8%87%E5%B1%B1%E4%B9%8B%E7%A5%96%23&Refer=top)
+
+1. [江苏溧阳通报水泥厂职工死亡事故](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%BA%A7%E9%98%B3%E9%80%9A%E6%8A%A5%E6%B0%B4%E6%B3%A5%E5%8E%82%E8%81%8C%E5%B7%A5%E6%AD%BB%E4%BA%A1%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [北京大风](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E&Refer=top)
+
+1. [高嘉朗对粉丝说抱歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%98%89%E6%9C%97%E5%AF%B9%E7%B2%89%E4%B8%9D%E8%AF%B4%E6%8A%B1%E6%AD%89%23&Refer=top)
+
+1. [黑龙江新增28例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E28%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [美国新冠肺炎超2554万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852554%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [范丞丞方声明](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [吴磊工作室声明](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [联邦法官叫停拜登政府移民新规](https://s.weibo.com//weibo?q=%23%E8%81%94%E9%82%A6%E6%B3%95%E5%AE%98%E5%8F%AB%E5%81%9C%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%A7%BB%E6%B0%91%E6%96%B0%E8%A7%84%23&Refer=top)
+
+1. [游戏驿站暴涨](https://s.weibo.com//weibo?q=%E6%B8%B8%E6%88%8F%E9%A9%BF%E7%AB%99%E6%9A%B4%E6%B6%A8&Refer=top)
+
+1. [干饭人必备速瘦肚腩操](https://s.weibo.com//weibo?q=%E5%B9%B2%E9%A5%AD%E4%BA%BA%E5%BF%85%E5%A4%87%E9%80%9F%E7%98%A6%E8%82%9A%E8%85%A9%E6%93%8D&Refer=top)
+
+1. [打印福字](https://s.weibo.com//weibo?q=%E6%89%93%E5%8D%B0%E7%A6%8F%E5%AD%97&Refer=top)
+
+1. [福牛](https://s.weibo.com//weibo?q=%E7%A6%8F%E7%89%9B&Refer=top)
+
+1. [美国将在气候问题上与中国合作](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%B0%94%E5%80%99%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C&Refer=top)
+
+1. [天津大风](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E9%A3%8E&Refer=top)
+
+1. [彭冠英白衬衫写真](https://s.weibo.com//weibo?q=%E5%BD%AD%E5%86%A0%E8%8B%B1%E7%99%BD%E8%A1%AC%E8%A1%AB%E5%86%99%E7%9C%9F&Refer=top)
+
+1. [章小鱼过山车式入职](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%B0%8F%E9%B1%BC%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%BC%8F%E5%85%A5%E8%81%8C%23&Refer=top)
+
+1. [鸡肉快乐吃法](https://s.weibo.com//weibo?q=%23%E9%B8%A1%E8%82%89%E5%BF%AB%E4%B9%90%E5%90%83%E6%B3%95%23&Refer=top)
+
+1. [直升机接力送重症边防战士就医](https://s.weibo.com//weibo?q=%E7%9B%B4%E5%8D%87%E6%9C%BA%E6%8E%A5%E5%8A%9B%E9%80%81%E9%87%8D%E7%97%87%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%B0%B1%E5%8C%BB&Refer=top)
+
+1. [衣服改造大赏](https://s.weibo.com//weibo?q=%23%E8%A1%A3%E6%9C%8D%E6%94%B9%E9%80%A0%E5%A4%A7%E8%B5%8F%23&Refer=top)
 
