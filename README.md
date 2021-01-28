@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-28 10:22:32
+## 微博今日热榜 更新于 2021-01-28 11:09:47
 1. [升级版中新自贸协定将释放更多开放红利](https://s.weibo.com//weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E4%B8%AD%E6%96%B0%E8%87%AA%E8%B4%B8%E5%8D%8F%E5%AE%9A%E5%B0%86%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E5%BC%80%E6%94%BE%E7%BA%A2%E5%88%A9%23&Refer=new_time)
 
 1. [日政府不认为中国在新疆实施种族灭绝](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%96%B0%E7%96%86%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%23&Refer=top)
@@ -232,4 +232,20 @@
 1. [2021春运出行注意事项](https://s.weibo.com//weibo?q=%232021%E6%98%A5%E8%BF%90%E5%87%BA%E8%A1%8C%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&Refer=top)
 
 1. [酒精和含氯消毒剂消毒有什么区别](https://s.weibo.com//weibo?q=%23%E9%85%92%E7%B2%BE%E5%92%8C%E5%90%AB%E6%B0%AF%E6%B6%88%E6%AF%92%E5%89%82%E6%B6%88%E6%AF%92%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [铁路部门优化车票改签服务](https://s.weibo.com//weibo?q=%23%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E4%BC%98%E5%8C%96%E8%BD%A6%E7%A5%A8%E6%94%B9%E7%AD%BE%E6%9C%8D%E5%8A%A1%23&Refer=new_time)
+
+1. [白宇姚晨吻戏](https://s.weibo.com//weibo?q=%E7%99%BD%E5%AE%87%E5%A7%9A%E6%99%A8%E5%90%BB%E6%88%8F&Refer=top)
+
+1. [滨州一批俄罗斯冻鸡脚新冠检测阳性](https://s.weibo.com//weibo?q=%23%E6%BB%A8%E5%B7%9E%E4%B8%80%E6%89%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%BB%E9%B8%A1%E8%84%9A%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [林周京素颜去学校](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%91%A8%E4%BA%AC%E7%B4%A0%E9%A2%9C%E5%8E%BB%E5%AD%A6%E6%A0%A1%23&Refer=top)
+
+1. [美国多所大学捐赠基金持续买入比特币](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E6%89%80%E5%A4%A7%E5%AD%A6%E6%8D%90%E8%B5%A0%E5%9F%BA%E9%87%91%E6%8C%81%E7%BB%AD%E4%B9%B0%E5%85%A5%E6%AF%94%E7%89%B9%E5%B8%81%23&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [詹姆斯恶意犯规](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84&Refer=top)
 
