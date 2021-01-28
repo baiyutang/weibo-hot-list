@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-29 01:33:56
+## 微博今日热榜 更新于 2021-01-29 02:17:57
 1. [平安过年54字口诀](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%AE%89%E8%BF%87%E5%B9%B454%E5%AD%97%E5%8F%A3%E8%AF%80%23&Refer=new_time)
 
 1. [马可宣布结婚](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%8F%AF%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
 
 1. [股票](https://s.weibo.com//weibo?q=%E8%82%A1%E7%A5%A8&Refer=top)
+
+1. [2021年春运第一天](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=new_time)
 
