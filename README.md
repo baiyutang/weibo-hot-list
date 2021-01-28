@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-28 15:51:44
+## 微博今日热榜 更新于 2021-01-28 16:24:47
 1. [升级版中新自贸协定将释放更多开放红利](https://s.weibo.com//weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E4%B8%AD%E6%96%B0%E8%87%AA%E8%B4%B8%E5%8D%8F%E5%AE%9A%E5%B0%86%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E5%BC%80%E6%94%BE%E7%BA%A2%E5%88%A9%23&Refer=new_time)
 
 1. [日政府不认为中国在新疆实施种族灭绝](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%96%B0%E7%96%86%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%23&Refer=top)
@@ -332,4 +332,18 @@
 1. [股票](https://s.weibo.com//weibo?q=%E8%82%A1%E7%A5%A8&Refer=top)
 
 1. [撒贝宁日本分撒](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E6%97%A5%E6%9C%AC%E5%88%86%E6%92%92%23&Refer=top)
+
+1. [吴谦说台独就意味着战争](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A6%E8%AF%B4%E5%8F%B0%E7%8B%AC%E5%B0%B1%E6%84%8F%E5%91%B3%E7%9D%80%E6%88%98%E4%BA%89%23&Refer=top)
+
+1. [南京明基医院可疑阳性人员核酸阴性](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E6%98%8E%E5%9F%BA%E5%8C%BB%E9%99%A2%E5%8F%AF%E7%96%91%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [美国28州已出现英国发现的新冠变异病毒](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD28%E5%B7%9E%E5%B7%B2%E5%87%BA%E7%8E%B0%E8%8B%B1%E5%9B%BD%E5%8F%91%E7%8E%B0%E7%9A%84%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E7%97%85%E6%AF%92&Refer=top)
+
+1. [福特中国广告错把牛年当马年](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E7%89%B9%E4%B8%AD%E5%9B%BD%E5%B9%BF%E5%91%8A%E9%94%99%E6%8A%8A%E7%89%9B%E5%B9%B4%E5%BD%93%E9%A9%AC%E5%B9%B4%23&Refer=top)
+
+1. [酸辣麻酱手撕鸡](https://s.weibo.com//weibo?q=%E9%85%B8%E8%BE%A3%E9%BA%BB%E9%85%B1%E6%89%8B%E6%92%95%E9%B8%A1&Refer=top)
+
+1. [最应该获奖的游戏](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%A5%96%E7%9A%84%E6%B8%B8%E6%88%8F%23&Refer=top)
+
+1. [歌尔股份](https://s.weibo.com//weibo?q=%E6%AD%8C%E5%B0%94%E8%82%A1%E4%BB%BD&Refer=top)
 
