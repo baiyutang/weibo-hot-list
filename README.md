@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 00:09:06
+## 微博今日热榜 更新于 2021-01-30 01:34:39
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -102,4 +102,22 @@
 1. [福清猝死公交司机家属获赔123万](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E6%B8%85%E7%8C%9D%E6%AD%BB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E8%8E%B7%E8%B5%94123%E4%B8%87%23&Refer=top)
 
 1. [潮流合伙人](https://s.weibo.com//weibo?q=%E6%BD%AE%E6%B5%81%E5%90%88%E4%BC%99%E4%BA%BA&Refer=top)
+
+1. [张韶涵 我没做错为什么要道歉](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%20%E6%88%91%E6%B2%A1%E5%81%9A%E9%94%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%81%93%E6%AD%89&Refer=top)
+
+1. [毛晓彤](https://s.weibo.com//weibo?q=%E6%AF%9B%E6%99%93%E5%BD%A4&Refer=top)
+
+1. [陈翔否认当年出轨](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%BF%94%E5%90%A6%E8%AE%A4%E5%BD%93%E5%B9%B4%E5%87%BA%E8%BD%A8%23&Refer=top)
+
+1. [江铠同](https://s.weibo.com//weibo?q=%E6%B1%9F%E9%93%A0%E5%90%8C&Refer=top)
+
+1. [蔡徐坤快把杨迪刘维抓起来](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%BF%AB%E6%8A%8A%E6%9D%A8%E8%BF%AA%E5%88%98%E7%BB%B4%E6%8A%93%E8%B5%B7%E6%9D%A5%23&Refer=top)
+
+1. [哎哎哎谁敢招我我就把他关进巴比笼](https://s.weibo.com//weibo?q=%23%E5%93%8E%E5%93%8E%E5%93%8E%E8%B0%81%E6%95%A2%E6%8B%9B%E6%88%91%E6%88%91%E5%B0%B1%E6%8A%8A%E4%BB%96%E5%85%B3%E8%BF%9B%E5%B7%B4%E6%AF%94%E7%AC%BC%23&Refer=top)
+
+1. [孙燕姿后援会关站](https://s.weibo.com//weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%85%B3%E7%AB%99&Refer=top)
+
+1. [刘昊然 我不要当中国的荷兰弟](https://s.weibo.com//weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%20%E6%88%91%E4%B8%8D%E8%A6%81%E5%BD%93%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8D%B7%E5%85%B0%E5%BC%9F&Refer=top)
+
+1. [所谓BNO护照不能用于在香港出入境](https://s.weibo.com//weibo?q=%23%E6%89%80%E8%B0%93BNO%E6%8A%A4%E7%85%A7%E4%B8%8D%E8%83%BD%E7%94%A8%E4%BA%8E%E5%9C%A8%E9%A6%99%E6%B8%AF%E5%87%BA%E5%85%A5%E5%A2%83%23&Refer=top)
 
