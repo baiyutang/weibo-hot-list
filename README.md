@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 04:03:05
+## 微博今日热榜 更新于 2021-01-30 05:02:36
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -136,4 +136,6 @@
 1. [全国文明城市提名城市名单](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%87%E6%98%8E%E5%9F%8E%E5%B8%82%E6%8F%90%E5%90%8D%E5%9F%8E%E5%B8%82%E5%90%8D%E5%8D%95%23&Refer=new_time)
 
 1. [刘亦菲身材管理](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [关晓彤被叫干晓彤](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%A2%AB%E5%8F%AB%E5%B9%B2%E6%99%93%E5%BD%A4&Refer=top)
 
