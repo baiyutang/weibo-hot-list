@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 02:18:32
+## 微博今日热榜 更新于 2021-01-30 03:16:15
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -124,4 +124,12 @@
 1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
 
 1. [如何看待海航集团破产重整](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B5%B7%E8%88%AA%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E6%95%B4%23&Refer=top)
+
+1. [图解新的军官等级制度](https://s.weibo.com//weibo?q=%23%E5%9B%BE%E8%A7%A3%E6%96%B0%E7%9A%84%E5%86%9B%E5%AE%98%E7%AD%89%E7%BA%A7%E5%88%B6%E5%BA%A6%23&Refer=new_time)
+
+1. [小确幸删减吻戏](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%A1%AE%E5%B9%B8%E5%88%A0%E5%87%8F%E5%90%BB%E6%88%8F%23&Refer=top)
+
+1. [人工繁育小白鲸首次和游客见面](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%B7%A5%E7%B9%81%E8%82%B2%E5%B0%8F%E7%99%BD%E9%B2%B8%E9%A6%96%E6%AC%A1%E5%92%8C%E6%B8%B8%E5%AE%A2%E8%A7%81%E9%9D%A2%23&Refer=top)
+
+1. [假日暖洋洋](https://s.weibo.com//weibo?q=%E5%81%87%E6%97%A5%E6%9A%96%E6%B4%8B%E6%B4%8B&Refer=top)
 
