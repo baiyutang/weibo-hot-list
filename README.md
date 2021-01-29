@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 05:02:36
+## 微博今日热榜 更新于 2021-01-30 06:03:10
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
