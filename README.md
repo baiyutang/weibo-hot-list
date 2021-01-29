@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 01:34:39
+## 微博今日热榜 更新于 2021-01-30 02:18:32
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -120,4 +120,8 @@
 1. [刘昊然 我不要当中国的荷兰弟](https://s.weibo.com//weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%20%E6%88%91%E4%B8%8D%E8%A6%81%E5%BD%93%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8D%B7%E5%85%B0%E5%BC%9F&Refer=top)
 
 1. [所谓BNO护照不能用于在香港出入境](https://s.weibo.com//weibo?q=%23%E6%89%80%E8%B0%93BNO%E6%8A%A4%E7%85%A7%E4%B8%8D%E8%83%BD%E7%94%A8%E4%BA%8E%E5%9C%A8%E9%A6%99%E6%B8%AF%E5%87%BA%E5%85%A5%E5%A2%83%23&Refer=top)
+
+1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [如何看待海航集团破产重整](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B5%B7%E8%88%AA%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E6%95%B4%23&Refer=top)
 
