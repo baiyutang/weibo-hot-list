@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-29 11:11:07
+## 微博今日热榜 更新于 2021-01-29 12:09:07
 1. [平安过年54字口诀](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%AE%89%E8%BF%87%E5%B9%B454%E5%AD%97%E5%8F%A3%E8%AF%80%23&Refer=new_time)
 
 1. [马可宣布结婚](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%8F%AF%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&Refer=top)
@@ -244,4 +244,26 @@
 1. [唐人街探案3预售](https://s.weibo.com//weibo?q=%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%883%E9%A2%84%E5%94%AE&Refer=top)
 
 1. [湖北高速大雾致20车连环相撞](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E9%AB%98%E9%80%9F%E5%A4%A7%E9%9B%BE%E8%87%B420%E8%BD%A6%E8%BF%9E%E7%8E%AF%E7%9B%B8%E6%92%9E&Refer=top)
+
+1. [拜登重启奥巴马医改](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E9%87%8D%E5%90%AF%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%8C%BB%E6%94%B9&Refer=top)
+
+1. [金靖新戏20位男主](https://s.weibo.com//weibo?q=%E9%87%91%E9%9D%96%E6%96%B0%E6%88%8F20%E4%BD%8D%E7%94%B7%E4%B8%BB&Refer=top)
+
+1. [狗狗币一天暴涨逾250%](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%81%E4%B8%80%E5%A4%A9%E6%9A%B4%E6%B6%A8%E9%80%BE250%25%23&Refer=top)
+
+1. [骂支书草包被拘女子获警方道歉](https://s.weibo.com//weibo?q=%23%E9%AA%82%E6%94%AF%E4%B9%A6%E8%8D%89%E5%8C%85%E8%A2%AB%E6%8B%98%E5%A5%B3%E5%AD%90%E8%8E%B7%E8%AD%A6%E6%96%B9%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [任嘉伦古装造型](https://s.weibo.com//weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [小米隔空充电](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E9%9A%94%E7%A9%BA%E5%85%85%E7%94%B5&Refer=top)
+
+1. [新奥特曼](https://s.weibo.com//weibo?q=%E6%96%B0%E5%A5%A5%E7%89%B9%E6%9B%BC&Refer=top)
+
+1. [网恋止于手机内存](https://s.weibo.com//weibo?q=%23%E7%BD%91%E6%81%8B%E6%AD%A2%E4%BA%8E%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98%23&Refer=top)
+
+1. [长安如故杀青](https://s.weibo.com//weibo?q=%E9%95%BF%E5%AE%89%E5%A6%82%E6%95%85%E6%9D%80%E9%9D%92&Refer=top)
+
+1. [山东大馒头](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E9%A6%92%E5%A4%B4&Refer=top)
+
+1. [40多个国家提出进口中国疫苗需求](https://s.weibo.com//weibo?q=%2340%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8F%90%E5%87%BA%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E9%9C%80%E6%B1%82%23&Refer=top)
 
