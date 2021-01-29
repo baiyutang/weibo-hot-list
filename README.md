@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 06:03:10
+## 微博今日热榜 更新于 2021-01-30 07:05:06
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -138,4 +138,8 @@
 1. [刘亦菲身材管理](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&Refer=top)
 
 1. [关晓彤被叫干晓彤](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%A2%AB%E5%8F%AB%E5%B9%B2%E6%99%93%E5%BD%A4&Refer=top)
+
+1. [多国政要接种中国新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%94%BF%E8%A6%81%E6%8E%A5%E7%A7%8D%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [雪地策马副县长谈官员成为网红](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E5%9C%B0%E7%AD%96%E9%A9%AC%E5%89%AF%E5%8E%BF%E9%95%BF%E8%B0%88%E5%AE%98%E5%91%98%E6%88%90%E4%B8%BA%E7%BD%91%E7%BA%A2%23&Refer=top)
 
