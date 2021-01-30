@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 03:13:06
+## 微博今日热榜 更新于 2021-01-31 04:03:07
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [13省份已下调核酸检测价格](https://s.weibo.com//weibo?q=%2313%E7%9C%81%E4%BB%BD%E5%B7%B2%E4%B8%8B%E8%B0%83%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BB%B7%E6%A0%BC%23&Refer=new_time)
 
 1. [河北最高礼遇送别浙江援冀医疗队](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E9%80%81%E5%88%AB%E6%B5%99%E6%B1%9F%E6%8F%B4%E5%86%80%E5%8C%BB%E7%96%97%E9%98%9F&Refer=top)
+
+1. [中消协发布盲盒市场四大问题](https://s.weibo.com//weibo?q=%E4%B8%AD%E6%B6%88%E5%8D%8F%E5%8F%91%E5%B8%83%E7%9B%B2%E7%9B%92%E5%B8%82%E5%9C%BA%E5%9B%9B%E5%A4%A7%E9%97%AE%E9%A2%98&Refer=top)
 
