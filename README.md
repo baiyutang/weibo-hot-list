@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 18:05:16
+## 微博今日热榜 更新于 2021-01-30 19:04:38
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -334,4 +334,26 @@
 1. [窝蛋滚滚牛肉粥](https://s.weibo.com//weibo?q=%23%E7%AA%9D%E8%9B%8B%E6%BB%9A%E6%BB%9A%E7%89%9B%E8%82%89%E7%B2%A5%23&Refer=top)
 
 1. [微博请你看电影](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%AF%B7%E4%BD%A0%E7%9C%8B%E7%94%B5%E5%BD%B1%23&Refer=top)
+
+1. [13省份已下调核酸检测价格](https://s.weibo.com//weibo?q=%2313%E7%9C%81%E4%BB%BD%E5%B7%B2%E4%B8%8B%E8%B0%83%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BB%B7%E6%A0%BC%23&Refer=new_time)
+
+1. [章子怡 老公明天要发歌](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E8%80%81%E5%85%AC%E6%98%8E%E5%A4%A9%E8%A6%81%E5%8F%91%E6%AD%8C&Refer=top)
+
+1. [汪峰问明天还有大事发生吗](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B3%B0%E9%97%AE%E6%98%8E%E5%A4%A9%E8%BF%98%E6%9C%89%E5%A4%A7%E4%BA%8B%E5%8F%91%E7%94%9F%E5%90%97&Refer=top)
+
+1. [车银优曾因长痘哭着道歉](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E6%9B%BE%E5%9B%A0%E9%95%BF%E7%97%98%E5%93%AD%E7%9D%80%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [法院已对毒保姆陈宇萍执行死刑](https://s.weibo.com//weibo?q=%23%E6%B3%95%E9%99%A2%E5%B7%B2%E5%AF%B9%E6%AF%92%E4%BF%9D%E5%A7%86%E9%99%88%E5%AE%87%E8%90%8D%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [11名美军士兵误把防冻液当酒喝](https://s.weibo.com//weibo?q=%2311%E5%90%8D%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E8%AF%AF%E6%8A%8A%E9%98%B2%E5%86%BB%E6%B6%B2%E5%BD%93%E9%85%92%E5%96%9D%23&Refer=top)
+
+1. [恋与制作人](https://s.weibo.com//weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA&Refer=top)
+
+1. [TT V5](https://s.weibo.com//weibo?q=TT%20V5&Refer=top)
+
+1. [吉祥如意](https://s.weibo.com//weibo?q=%E5%90%89%E7%A5%A5%E5%A6%82%E6%84%8F&Refer=top)
+
+1. [iG FPX](https://s.weibo.com//weibo?q=iG%20FPX&Refer=top)
+
+1. [外来留济人员就地过年每人500元补贴](https://s.weibo.com//weibo?q=%E5%A4%96%E6%9D%A5%E7%95%99%E6%B5%8E%E4%BA%BA%E5%91%98%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%E6%AF%8F%E4%BA%BA500%E5%85%83%E8%A1%A5%E8%B4%B4&Refer=top)
 
