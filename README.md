@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 06:03:11
+## 微博今日热榜 更新于 2021-01-31 07:04:49
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -132,4 +132,6 @@
 1. [中消协发布盲盒市场四大问题](https://s.weibo.com//weibo?q=%E4%B8%AD%E6%B6%88%E5%8D%8F%E5%8F%91%E5%B8%83%E7%9B%B2%E7%9B%92%E5%B8%82%E5%9C%BA%E5%9B%9B%E5%A4%A7%E9%97%AE%E9%A2%98&Refer=top)
 
 1. [加强关爱父母就地过年的农村留守儿童](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%85%B3%E7%88%B1%E7%88%B6%E6%AF%8D%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%E7%9A%84%E5%86%9C%E6%9D%91%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%23&Refer=new_time)
+
+1. [章子怡夸宋妍霏](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A4%B8%E5%AE%8B%E5%A6%8D%E9%9C%8F%23&Refer=top)
 
