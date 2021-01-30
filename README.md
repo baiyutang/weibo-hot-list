@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 10:22:47
+## 微博今日热榜 更新于 2021-01-30 11:10:01
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -192,4 +192,16 @@
 1. [海南航空公告](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%E5%85%AC%E5%91%8A&Refer=top)
 
 1. [丁俊晖不敌特鲁姆普](https://s.weibo.com//weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96%E4%B8%8D%E6%95%8C%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AE&Refer=top)
+
+1. [孟美岐被许飞马頔唱哭了](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E8%A2%AB%E8%AE%B8%E9%A3%9E%E9%A9%AC%E9%A0%94%E5%94%B1%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [焦虑的真正原因](https://s.weibo.com//weibo?q=%23%E7%84%A6%E8%99%91%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [年夜饭湘菜压轴血鸭](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E5%A4%9C%E9%A5%AD%E6%B9%98%E8%8F%9C%E5%8E%8B%E8%BD%B4%E8%A1%80%E9%B8%AD%23&Refer=top)
+
+1. [百变讲坛还是那个味](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%8F%98%E8%AE%B2%E5%9D%9B%E8%BF%98%E6%98%AF%E9%82%A3%E4%B8%AA%E5%91%B3%23&Refer=top)
+
+1. [广东不再收取核酸检测挂号费](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E4%B8%8D%E5%86%8D%E6%94%B6%E5%8F%96%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%8C%82%E5%8F%B7%E8%B4%B9&Refer=top)
+
+1. [河北战疫时间线](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%88%98%E7%96%AB%E6%97%B6%E9%97%B4%E7%BA%BF%23&Refer=top)
 
