@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 22:03:17
+## 微博今日热榜 更新于 2021-01-30 23:02:38
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -424,4 +424,18 @@
 1. [百大UP主颁奖](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%A4%A7UP%E4%B8%BB%E9%A2%81%E5%A5%96%23&Refer=top)
 
 1. [一段实验揭示玩盲盒为何易上瘾](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%AE%B5%E5%AE%9E%E9%AA%8C%E6%8F%AD%E7%A4%BA%E7%8E%A9%E7%9B%B2%E7%9B%92%E4%B8%BA%E4%BD%95%E6%98%93%E4%B8%8A%E7%98%BE%23&Refer=top)
+
+1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4&Refer=top)
+
+1. [诛仙收视率](https://s.weibo.com//weibo?q=%23%E8%AF%9B%E4%BB%99%E6%94%B6%E8%A7%86%E7%8E%87%23&Refer=top)
+
+1. [孙小果的复活与覆灭](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E7%9A%84%E5%A4%8D%E6%B4%BB%E4%B8%8E%E8%A6%86%E7%81%AD%23&Refer=top)
+
+1. [秦岚刘以豪海边看日出](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%88%98%E4%BB%A5%E8%B1%AA%E6%B5%B7%E8%BE%B9%E7%9C%8B%E6%97%A5%E5%87%BA%23&Refer=top)
+
+1. [算法到底改变了什么](https://s.weibo.com//weibo?q=%23%E7%AE%97%E6%B3%95%E5%88%B0%E5%BA%95%E6%94%B9%E5%8F%98%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [河北最高礼遇送别浙江援冀医疗队](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E9%80%81%E5%88%AB%E6%B5%99%E6%B1%9F%E6%8F%B4%E5%86%80%E5%8C%BB%E7%96%97%E9%98%9F&Refer=top)
+
+1. [河北2男子伪造核酸报告进京被拘](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%972%E7%94%B7%E5%AD%90%E4%BC%AA%E9%80%A0%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%91%8A%E8%BF%9B%E4%BA%AC%E8%A2%AB%E6%8B%98&Refer=top)
 
