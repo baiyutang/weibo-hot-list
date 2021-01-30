@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-30 14:03:19
+## 微博今日热榜 更新于 2021-01-30 15:06:50
 1. [建立健全学生欺凌报告制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%85%A8%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [陈翔](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94&Refer=top)
@@ -248,4 +248,20 @@
 1. [世界极限运动会谷爱凌夺冠创历史](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9E%81%E9%99%90%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%BA%E5%86%A0%E5%88%9B%E5%8E%86%E5%8F%B2&Refer=top)
 
 1. [美国女子感染新冠十余月未痊愈](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%8D%81%E4%BD%99%E6%9C%88%E6%9C%AA%E7%97%8A%E6%84%88%23&Refer=top)
+
+1. [央视评为人父母别把孩子逼成樊胜美](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E4%B8%BA%E4%BA%BA%E7%88%B6%E6%AF%8D%E5%88%AB%E6%8A%8A%E5%AD%A9%E5%AD%90%E9%80%BC%E6%88%90%E6%A8%8A%E8%83%9C%E7%BE%8E%23&Refer=top)
+
+1. [美国驱逐舰发生新冠病毒集体感染](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E9%A9%B1%E9%80%90%E8%88%B0%E5%8F%91%E7%94%9F%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E9%9B%86%E4%BD%93%E6%84%9F%E6%9F%93&Refer=top)
+
+1. [吕一喜欢王嘉尔](https://s.weibo.com//weibo?q=%23%E5%90%95%E4%B8%80%E5%96%9C%E6%AC%A2%E7%8E%8B%E5%98%89%E5%B0%94%23&Refer=top)
+
+1. [鹿晗发文告别五哈](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%BA%94%E5%93%88%23&Refer=top)
+
+1. [范丞丞吐槽秦烈把貂穿秃了](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%90%E6%A7%BD%E7%A7%A6%E7%83%88%E6%8A%8A%E8%B2%82%E7%A9%BF%E7%A7%83%E4%BA%86%23&Refer=top)
+
+1. [王嘉尔一镜到底MV](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95MV%23&Refer=top)
+
+1. [孜然鸡肉土豆丁](https://s.weibo.com//weibo?q=%E5%AD%9C%E7%84%B6%E9%B8%A1%E8%82%89%E5%9C%9F%E8%B1%86%E4%B8%81&Refer=top)
+
+1. [涉疫奶枣通过线上渠道流入淮安](https://s.weibo.com//weibo?q=%23%E6%B6%89%E7%96%AB%E5%A5%B6%E6%9E%A3%E9%80%9A%E8%BF%87%E7%BA%BF%E4%B8%8A%E6%B8%A0%E9%81%93%E6%B5%81%E5%85%A5%E6%B7%AE%E5%AE%89%23&Refer=top)
 
