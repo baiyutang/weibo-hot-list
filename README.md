@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 01:32:47
+## 微博今日热榜 更新于 2021-01-31 02:16:02
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [奇葩说](https://s.weibo.com//weibo?q=%E5%A5%87%E8%91%A9%E8%AF%B4&Refer=top)
 
 1. [山海情](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B5%B7%E6%83%85&Refer=top)
+
+1. [胡叠效应](https://s.weibo.com//weibo?q=%E8%83%A1%E5%8F%A0%E6%95%88%E5%BA%94&Refer=top)
+
+1. [中方不再承认所谓BNO护照为有效证件](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4%E6%89%80%E8%B0%93BNO%E6%8A%A4%E7%85%A7%E4%B8%BA%E6%9C%89%E6%95%88%E8%AF%81%E4%BB%B6%23&Refer=top)
 
