@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 09:47:32
+## 微博今日热榜 更新于 2021-01-31 10:24:07
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -190,4 +190,12 @@
 1. [江苏新增俄罗斯输入确诊1例](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E%E4%BF%84%E7%BD%97%E6%96%AF%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A1%E4%BE%8B%23&Refer=top)
 
 1. [巴特勒复出](https://s.weibo.com//weibo?q=%E5%B7%B4%E7%89%B9%E5%8B%92%E5%A4%8D%E5%87%BA&Refer=top)
+
+1. [31省份2020年GDP](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E4%BB%BD2020%E5%B9%B4GDP%23&Refer=new_time)
+
+1. [中国今日起不认BNO护照](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%8A%E6%97%A5%E8%B5%B7%E4%B8%8D%E8%AE%A4BNO%E6%8A%A4%E7%85%A7%23&Refer=top)
+
+1. [重疾险](https://s.weibo.com//weibo?q=%E9%87%8D%E7%96%BE%E9%99%A9&Refer=top)
+
+1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
 
