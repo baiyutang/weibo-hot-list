@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 12:06:48
+## 微博今日热榜 更新于 2021-01-31 13:11:13
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -232,4 +232,10 @@
 1. [汪峰张艺兴GAI合作新歌](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%BC%A0%E8%89%BA%E5%85%B4GAI%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&Refer=top)
 
 1. [钟南山提醒打了新冠疫苗仍要戴口罩](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E6%8F%90%E9%86%92%E6%89%93%E4%BA%86%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BB%8D%E8%A6%81%E6%88%B4%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [世卫敦促英国暂停疫苗接种计划](https://s.weibo.com//weibo?q=%E4%B8%96%E5%8D%AB%E6%95%A6%E4%BF%83%E8%8B%B1%E5%9B%BD%E6%9A%82%E5%81%9C%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%AE%A1%E5%88%92&Refer=top)
+
+1. [山东涉疫奶枣进口原料为天津雪糕同批](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E6%B6%89%E7%96%AB%E5%A5%B6%E6%9E%A3%E8%BF%9B%E5%8F%A3%E5%8E%9F%E6%96%99%E4%B8%BA%E5%A4%A9%E6%B4%A5%E9%9B%AA%E7%B3%95%E5%90%8C%E6%89%B9&Refer=top)
+
+1. [这也太上镜了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B9%9F%E5%A4%AA%E4%B8%8A%E9%95%9C%E4%BA%86%E5%90%A7%23&Refer=top)
 
