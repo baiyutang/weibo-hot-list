@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-01 03:13:22
+## 微博今日热榜 更新于 2021-02-01 04:02:58
 1. [跨境列车入境震撼消杀现场](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E5%88%97%E8%BD%A6%E5%85%A5%E5%A2%83%E9%9C%87%E6%92%BC%E6%B6%88%E6%9D%80%E7%8E%B0%E5%9C%BA%23&Refer=new_time)
 
 1. [章子怡 我老公不仅出歌而且产瓜](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E6%88%91%E8%80%81%E5%85%AC%E4%B8%8D%E4%BB%85%E5%87%BA%E6%AD%8C%E8%80%8C%E4%B8%94%E4%BA%A7%E7%93%9C&Refer=top)
@@ -112,4 +112,8 @@
 1. [琉璃怼人小天才](https://s.weibo.com//weibo?q=%23%E7%90%89%E7%92%83%E6%80%BC%E4%BA%BA%E5%B0%8F%E5%A4%A9%E6%89%8D%23&Refer=top)
 
 1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
+
+1. [2月起这些新规将影响你的生活](https://s.weibo.com//weibo?q=%232%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%23&Refer=new_time)
+
+1. [玲珑](https://s.weibo.com//weibo?q=%E7%8E%B2%E7%8F%91&Refer=top)
 
