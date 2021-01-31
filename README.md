@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-01 04:02:58
+## 微博今日热榜 更新于 2021-02-01 05:02:51
 1. [跨境列车入境震撼消杀现场](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E5%88%97%E8%BD%A6%E5%85%A5%E5%A2%83%E9%9C%87%E6%92%BC%E6%B6%88%E6%9D%80%E7%8E%B0%E5%9C%BA%23&Refer=new_time)
 
 1. [章子怡 我老公不仅出歌而且产瓜](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E6%88%91%E8%80%81%E5%85%AC%E4%B8%8D%E4%BB%85%E5%87%BA%E6%AD%8C%E8%80%8C%E4%B8%94%E4%BA%A7%E7%93%9C&Refer=top)
