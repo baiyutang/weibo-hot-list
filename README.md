@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 16:03:41
+## 微博今日热榜 更新于 2021-01-31 17:06:20
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -304,4 +304,30 @@
 1. [检出阳性的食品有传染性吗](https://s.weibo.com//weibo?q=%23%E6%A3%80%E5%87%BA%E9%98%B3%E6%80%A7%E7%9A%84%E9%A3%9F%E5%93%81%E6%9C%89%E4%BC%A0%E6%9F%93%E6%80%A7%E5%90%97%23&Refer=top)
 
 1. [钟南山即将会面福奇](https://s.weibo.com//weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%8D%B3%E5%B0%86%E4%BC%9A%E9%9D%A2%E7%A6%8F%E5%A5%87&Refer=top)
+
+1. [2月起这些新规将影响你的生活](https://s.weibo.com//weibo?q=%232%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%23&Refer=new_time)
+
+1. [教育部回应春季学期能否正常开学](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E8%83%BD%E5%90%A6%E6%AD%A3%E5%B8%B8%E5%BC%80%E5%AD%A6%23&Refer=top)
+
+1. [周传雄](https://s.weibo.com//weibo?q=%E5%91%A8%E4%BC%A0%E9%9B%84&Refer=top)
+
+1. [袁弘向蔡文静学端水](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%BC%98%E5%90%91%E8%94%A1%E6%96%87%E9%9D%99%E5%AD%A6%E7%AB%AF%E6%B0%B4%23&Refer=top)
+
+1. [老人靠卖石头供两个孙子读完大学](https://s.weibo.com//weibo?q=%E8%80%81%E4%BA%BA%E9%9D%A0%E5%8D%96%E7%9F%B3%E5%A4%B4%E4%BE%9B%E4%B8%A4%E4%B8%AA%E5%AD%99%E5%AD%90%E8%AF%BB%E5%AE%8C%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [1月以来全国累计新增本土确诊2016例](https://s.weibo.com//weibo?q=%231%E6%9C%88%E4%BB%A5%E6%9D%A5%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2016%E4%BE%8B%23&Refer=top)
+
+1. [北京黑龙江吉林疫情2月上旬基本控制](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%BB%91%E9%BE%99%E6%B1%9F%E5%90%89%E6%9E%97%E7%96%AB%E6%83%852%E6%9C%88%E4%B8%8A%E6%97%AC%E5%9F%BA%E6%9C%AC%E6%8E%A7%E5%88%B6&Refer=top)
+
+1. [锻炼肌肉的真正目的](https://s.weibo.com//weibo?q=%23%E9%94%BB%E7%82%BC%E8%82%8C%E8%82%89%E7%9A%84%E7%9C%9F%E6%AD%A3%E7%9B%AE%E7%9A%84%23&Refer=top)
+
+1. [各地各校做好线上线下教学衔接准备](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%9C%B0%E5%90%84%E6%A0%A1%E5%81%9A%E5%A5%BD%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%E6%95%99%E5%AD%A6%E8%A1%94%E6%8E%A5%E5%87%86%E5%A4%87%23&Refer=top)
+
+1. [赵继伟跑太快了](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%BB%A7%E4%BC%9F%E8%B7%91%E5%A4%AA%E5%BF%AB%E4%BA%86&Refer=top)
+
+1. [截至目前新冠疫苗接种超过2400万剂次](https://s.weibo.com//weibo?q=%E6%88%AA%E8%87%B3%E7%9B%AE%E5%89%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%B6%85%E8%BF%872400%E4%B8%87%E5%89%82%E6%AC%A1&Refer=top)
+
+1. [重疾险新规明起实施](https://s.weibo.com//weibo?q=%23%E9%87%8D%E7%96%BE%E9%99%A9%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top)
+
+1. [中文语法有多简单](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%87%E8%AF%AD%E6%B3%95%E6%9C%89%E5%A4%9A%E7%AE%80%E5%8D%95%23&Refer=top)
 
