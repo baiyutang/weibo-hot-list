@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-01-31 17:06:20
+## 微博今日热榜 更新于 2021-01-31 18:05:05
 1. [疫情期间日常消毒实用指南](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%97%A5%E5%B8%B8%E6%B6%88%E6%AF%92%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [周迅躺着玩手机鼻梁被砸伤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BC%BB%E6%A2%81%E8%A2%AB%E7%A0%B8%E4%BC%A4%23&Refer=top)
@@ -330,4 +330,22 @@
 1. [重疾险新规明起实施](https://s.weibo.com//weibo?q=%23%E9%87%8D%E7%96%BE%E9%99%A9%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top)
 
 1. [中文语法有多简单](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%87%E8%AF%AD%E6%B3%95%E6%9C%89%E5%A4%9A%E7%AE%80%E5%8D%95%23&Refer=top)
+
+1. [汪峰工作室回应新歌封面争议](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B3%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E4%BA%89%E8%AE%AE&Refer=top)
+
+1. [家属证实学车后失联大学生遇害](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E5%B1%9E%E8%AF%81%E5%AE%9E%E5%AD%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%87%E5%AE%B3%23&Refer=top)
+
+1. [bkpp](https://s.weibo.com//weibo?q=bkpp&Refer=top)
+
+1. [德阳](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E9%98%B3%23&Refer=top)
+
+1. [广东海域](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%9F%9F&Refer=top)
+
+1. [玲珑](https://s.weibo.com//weibo?q=%E7%8E%B2%E7%8F%91&Refer=top)
+
+1. [山东枣庄涉疫奶枣流入陕西处置情况通报](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E6%9E%A3%E5%BA%84%E6%B6%89%E7%96%AB%E5%A5%B6%E6%9E%A3%E6%B5%81%E5%85%A5%E9%99%95%E8%A5%BF%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5&Refer=top)
+
+1. [辽宁vs上海](https://s.weibo.com//weibo?q=%E8%BE%BD%E5%AE%81vs%E4%B8%8A%E6%B5%B7&Refer=top)
+
+1. [1月31日0至14时石家庄新增确诊1例](https://s.weibo.com//weibo?q=1%E6%9C%8831%E6%97%A50%E8%87%B314%E6%97%B6%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A1%E4%BE%8B&Refer=top)
 
