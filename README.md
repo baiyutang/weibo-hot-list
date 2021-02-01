@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-01 09:48:28
+## 微博今日热榜 更新于 2021-02-01 10:25:52
 1. [跨境列车入境震撼消杀现场](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E5%88%97%E8%BD%A6%E5%85%A5%E5%A2%83%E9%9C%87%E6%92%BC%E6%B6%88%E6%9D%80%E7%8E%B0%E5%9C%BA%23&Refer=new_time)
 
 1. [章子怡 我老公不仅出歌而且产瓜](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E6%88%91%E8%80%81%E5%85%AC%E4%B8%8D%E4%BB%85%E5%87%BA%E6%AD%8C%E8%80%8C%E4%B8%94%E4%BA%A7%E7%93%9C&Refer=top)
@@ -212,4 +212,12 @@
 1. [刷医保卡买药需带身份证](https://s.weibo.com//weibo?q=%E5%88%B7%E5%8C%BB%E4%BF%9D%E5%8D%A1%E4%B9%B0%E8%8D%AF%E9%9C%80%E5%B8%A6%E8%BA%AB%E4%BB%BD%E8%AF%81&Refer=top)
 
 1. [四川江油入室抢劫杀人案嫌犯落网](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%B1%9F%E6%B2%B9%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%8A%AB%E6%9D%80%E4%BA%BA%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91&Refer=top)
+
+1. [乐福与女友订婚](https://s.weibo.com//weibo?q=%E4%B9%90%E7%A6%8F%E4%B8%8E%E5%A5%B3%E5%8F%8B%E8%AE%A2%E5%A9%9A&Refer=top)
+
+1. [威少大帽杜兰特](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E5%A4%A7%E5%B8%BD%E6%9D%9C%E5%85%B0%E7%89%B9&Refer=top)
+
+1. [吉祥如意](https://s.weibo.com//weibo?q=%E5%90%89%E7%A5%A5%E5%A6%82%E6%84%8F&Refer=top)
+
+1. [郭艾伦加练被吐槽](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%8A%A0%E7%BB%83%E8%A2%AB%E5%90%90%E6%A7%BD%23&Refer=top)
 
