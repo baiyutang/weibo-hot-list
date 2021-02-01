@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 04:03:05
+## 微博今日热榜 更新于 2021-02-02 05:02:24
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
