@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-01 12:07:47
+## 微博今日热榜 更新于 2021-02-01 13:10:51
 1. [跨境列车入境震撼消杀现场](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E5%88%97%E8%BD%A6%E5%85%A5%E5%A2%83%E9%9C%87%E6%92%BC%E6%B6%88%E6%9D%80%E7%8E%B0%E5%9C%BA%23&Refer=new_time)
 
 1. [章子怡 我老公不仅出歌而且产瓜](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E6%88%91%E8%80%81%E5%85%AC%E4%B8%8D%E4%BB%85%E5%87%BA%E6%AD%8C%E8%80%8C%E4%B8%94%E4%BA%A7%E7%93%9C&Refer=top)
@@ -268,4 +268,26 @@
 1. [进击的巨人](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&Refer=top)
 
 1. [如何当好BBC记者](https://s.weibo.com//weibo?q=%E5%A6%82%E4%BD%95%E5%BD%93%E5%A5%BDBBC%E8%AE%B0%E8%80%85&Refer=top)
+
+1. [记者拽着代孕中介直接报警](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E8%80%85%E6%8B%BD%E7%9D%80%E4%BB%A3%E5%AD%95%E4%B8%AD%E4%BB%8B%E7%9B%B4%E6%8E%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
+
+1. [刘亦菲二次元粉发](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BA%8C%E6%AC%A1%E5%85%83%E7%B2%89%E5%8F%91&Refer=top)
+
+1. [哈尔滨9死1伤库房坍塌事故调查报告](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A89%E6%AD%BB1%E4%BC%A4%E5%BA%93%E6%88%BF%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A&Refer=top)
+
+1. [央视春晚首次大联排](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E9%A6%96%E6%AC%A1%E5%A4%A7%E8%81%94%E6%8E%92%23&Refer=top)
+
+1. [易烊千玺现身央视春晚](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23&Refer=top)
+
+1. [女生收入更高会造成压力吗](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E6%94%B6%E5%85%A5%E6%9B%B4%E9%AB%98%E4%BC%9A%E9%80%A0%E6%88%90%E5%8E%8B%E5%8A%9B%E5%90%97%23&Refer=top)
+
+1. [斗罗大陆](https://s.weibo.com//weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&Refer=top)
+
+1. [缅甸副总统敏瑞就任代总统](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B8%E5%89%AF%E6%80%BB%E7%BB%9F%E6%95%8F%E7%91%9E%E5%B0%B1%E4%BB%BB%E4%BB%A3%E6%80%BB%E7%BB%9F&Refer=top)
+
+1. [朱一龙呼吸感大片](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%91%BC%E5%90%B8%E6%84%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [云台山形成2000米冰瀑群](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8F%B0%E5%B1%B1%E5%BD%A2%E6%88%902000%E7%B1%B3%E5%86%B0%E7%80%91%E7%BE%A4&Refer=top)
+
+1. [互联网企业为什么热衷于支付](https://s.weibo.com//weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%81%E4%B8%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%83%AD%E8%A1%B7%E4%BA%8E%E6%94%AF%E4%BB%98%23&Refer=top)
 
