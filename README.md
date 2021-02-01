@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 00:08:16
+## 微博今日热榜 更新于 2021-02-02 01:35:00
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -104,4 +104,14 @@
 1. [比特币能与黄金相提并论吗](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E8%83%BD%E4%B8%8E%E9%BB%84%E9%87%91%E7%9B%B8%E6%8F%90%E5%B9%B6%E8%AE%BA%E5%90%97%23&Refer=top)
 
 1. [伊能静 写稿的人请学会尊重女性](https://s.weibo.com//weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%20%E5%86%99%E7%A8%BF%E7%9A%84%E4%BA%BA%E8%AF%B7%E5%AD%A6%E4%BC%9A%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7&Refer=top)
+
+1. [全国首条民营控股高铁全线铺轨](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E6%9D%A1%E6%B0%91%E8%90%A5%E6%8E%A7%E8%82%A1%E9%AB%98%E9%93%81%E5%85%A8%E7%BA%BF%E9%93%BA%E8%BD%A8%23&Refer=new_time)
+
+1. [姚晨7岁儿子演奏大鱼海棠](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E6%99%A87%E5%B2%81%E5%84%BF%E5%AD%90%E6%BC%94%E5%A5%8F%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0%23&Refer=top)
+
+1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [五福](https://s.weibo.com//weibo?q=%E4%BA%94%E7%A6%8F&Refer=top)
+
+1. [央视春晚首次大联排](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E9%A6%96%E6%AC%A1%E5%A4%A7%E8%81%94%E6%8E%92%23&Refer=top)
 
