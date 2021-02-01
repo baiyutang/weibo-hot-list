@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 03:16:46
+## 微博今日热榜 更新于 2021-02-02 04:03:05
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -124,4 +124,6 @@
 1. [缅甸](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B8&Refer=top)
 
 1. [你真的了解什么叫失眠吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E4%BB%80%E4%B9%88%E5%8F%AB%E5%A4%B1%E7%9C%A0%E5%90%97%23&Refer=top)
+
+1. [我国将试行以经常居住地登记户口制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E8%AF%95%E8%A1%8C%E4%BB%A5%E7%BB%8F%E5%B8%B8%E5%B1%85%E4%BD%8F%E5%9C%B0%E7%99%BB%E8%AE%B0%E6%88%B7%E5%8F%A3%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
