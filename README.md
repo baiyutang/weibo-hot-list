@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-01 07:05:05
+## 微博今日热榜 更新于 2021-02-01 08:11:34
 1. [跨境列车入境震撼消杀现场](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E5%88%97%E8%BD%A6%E5%85%A5%E5%A2%83%E9%9C%87%E6%92%BC%E6%B6%88%E6%9D%80%E7%8E%B0%E5%9C%BA%23&Refer=new_time)
 
 1. [章子怡 我老公不仅出歌而且产瓜](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%20%E6%88%91%E8%80%81%E5%85%AC%E4%B8%8D%E4%BB%85%E5%87%BA%E6%AD%8C%E8%80%8C%E4%B8%94%E4%BA%A7%E7%93%9C&Refer=top)
@@ -122,4 +122,52 @@
 1. [张雨绮 我能创造商业价值](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E6%88%91%E8%83%BD%E5%88%9B%E9%80%A0%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC&Refer=top)
 
 1. [马思纯首支VLOG](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%A6%96%E6%94%AFVLOG&Refer=top)
+
+1. [男子拉欧阳娜娜头发被带走](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E6%8B%89%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%B8%A6%E8%B5%B0&Refer=top)
+
+1. [钟南山预计全球疫情3月起才会下降](https://s.weibo.com//weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E9%A2%84%E8%AE%A1%E5%85%A8%E7%90%83%E7%96%AB%E6%83%853%E6%9C%88%E8%B5%B7%E6%89%8D%E4%BC%9A%E4%B8%8B%E9%99%8D&Refer=top)
+
+1. [五福](https://s.weibo.com//weibo?q=%E4%BA%94%E7%A6%8F&Refer=top)
+
+1. [海南新增两家离岛免税店](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E6%96%B0%E5%A2%9E%E4%B8%A4%E5%AE%B6%E7%A6%BB%E5%B2%9B%E5%85%8D%E7%A8%8E%E5%BA%97%23&Refer=top)
+
+1. [Jennie和红孩儿撞造型](https://s.weibo.com//weibo?q=Jennie%E5%92%8C%E7%BA%A2%E5%AD%A9%E5%84%BF%E6%92%9E%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [拜登正考虑紧急重返伊核协议](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E6%AD%A3%E8%80%83%E8%99%91%E7%B4%A7%E6%80%A5%E9%87%8D%E8%BF%94%E4%BC%8A%E6%A0%B8%E5%8D%8F%E8%AE%AE&Refer=top)
+
+1. [涉疫奶枣线上销往25个省区市](https://s.weibo.com//weibo?q=%23%E6%B6%89%E7%96%AB%E5%A5%B6%E6%9E%A3%E7%BA%BF%E4%B8%8A%E9%94%80%E5%BE%8025%E4%B8%AA%E7%9C%81%E5%8C%BA%E5%B8%82%23&Refer=top)
+
+1. [留校过年学生人数较往年翻两番](https://s.weibo.com//weibo?q=%E7%95%99%E6%A0%A1%E8%BF%87%E5%B9%B4%E5%AD%A6%E7%94%9F%E4%BA%BA%E6%95%B0%E8%BE%83%E5%BE%80%E5%B9%B4%E7%BF%BB%E4%B8%A4%E7%95%AA&Refer=top)
+
+1. [2月第1天](https://s.weibo.com//weibo?q=%232%E6%9C%88%E7%AC%AC1%E5%A4%A9%23&Refer=top)
+
+1. [大张伟 我的槽点就是才华过于横溢](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E6%88%91%E7%9A%84%E6%A7%BD%E7%82%B9%E5%B0%B1%E6%98%AF%E6%89%8D%E5%8D%8E%E8%BF%87%E4%BA%8E%E6%A8%AA%E6%BA%A2&Refer=top)
+
+1. [杨幂对李雪琴说杨幂你好](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E5%AF%B9%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%AF%B4%E6%9D%A8%E5%B9%82%E4%BD%A0%E5%A5%BD&Refer=top)
+
+1. [李艺彤](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%89%BA%E5%BD%A4&Refer=top)
+
+1. [林睿金小贝分手](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%9D%BF%E9%87%91%E5%B0%8F%E8%B4%9D%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [黑龙江新增22例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E22%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [特朗普高级辩护律师退出团队](https://s.weibo.com//weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E7%BA%A7%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%E9%80%80%E5%87%BA%E5%9B%A2%E9%98%9F&Refer=top)
+
+1. [看不懂设计师的想法](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%B8%8D%E6%87%82%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%9A%84%E6%83%B3%E6%B3%95%23&Refer=top)
+
+1. [章小鱼剧本杀谈生意](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%B0%8F%E9%B1%BC%E5%89%A7%E6%9C%AC%E6%9D%80%E8%B0%88%E7%94%9F%E6%84%8F%23&Refer=top)
+
+1. [江南百景图桃花村](https://s.weibo.com//weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE%E6%A1%83%E8%8A%B1%E6%9D%91&Refer=top)
+
+1. [深圳海湾再现白海豚](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%B9%BE%E5%86%8D%E7%8E%B0%E7%99%BD%E6%B5%B7%E8%B1%9A&Refer=top)
+
+1. [琉璃求裴行俭帮忙退婚](https://s.weibo.com//weibo?q=%23%E7%90%89%E7%92%83%E6%B1%82%E8%A3%B4%E8%A1%8C%E4%BF%AD%E5%B8%AE%E5%BF%99%E9%80%80%E5%A9%9A%23&Refer=top)
+
+1. [白银](https://s.weibo.com//weibo?q=%E7%99%BD%E9%93%B6&Refer=top)
+
+1. [阳光之下](https://s.weibo.com//weibo?q=%E9%98%B3%E5%85%89%E4%B9%8B%E4%B8%8B&Refer=top)
+
+1. [风起霓裳](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%9C%93%E8%A3%B3&Refer=top)
+
+1. [2021年2月新规](https://s.weibo.com//weibo?q=2021%E5%B9%B42%E6%9C%88%E6%96%B0%E8%A7%84&Refer=top)
 
