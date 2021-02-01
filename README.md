@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 01:35:00
+## 微博今日热榜 更新于 2021-02-02 02:18:10
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -114,4 +114,8 @@
 1. [五福](https://s.weibo.com//weibo?q=%E4%BA%94%E7%A6%8F&Refer=top)
 
 1. [央视春晚首次大联排](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E9%A6%96%E6%AC%A1%E5%A4%A7%E8%81%94%E6%8E%92%23&Refer=top)
+
+1. [解放军五大战区成立5周年](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BA%94%E5%A4%A7%E6%88%98%E5%8C%BA%E6%88%90%E7%AB%8B5%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [假日暖洋洋](https://s.weibo.com//weibo?q=%E5%81%87%E6%97%A5%E6%9A%96%E6%B4%8B%E6%B4%8B&Refer=top)
 
