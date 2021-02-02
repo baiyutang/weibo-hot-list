@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 22:03:30
+## 微博今日热榜 更新于 2021-02-02 23:03:13
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -488,4 +488,16 @@
 1. [山东一食品阳性公司产品再检全部阴性](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%A3%9F%E5%93%81%E9%98%B3%E6%80%A7%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81%E5%86%8D%E6%A3%80%E5%85%A8%E9%83%A8%E9%98%B4%E6%80%A7%23&Refer=top)
 
 1. [东京奥运男篮分组](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E7%94%B7%E7%AF%AE%E5%88%86%E7%BB%84%23&Refer=top)
+
+1. [歌手高娅媛醉驾被查](https://s.weibo.com//weibo?q=%E6%AD%8C%E6%89%8B%E9%AB%98%E5%A8%85%E5%AA%9B%E9%86%89%E9%A9%BE%E8%A2%AB%E6%9F%A5&Refer=top)
+
+1. [盛淮南给洛枳送雨衣](https://s.weibo.com//weibo?q=%E7%9B%9B%E6%B7%AE%E5%8D%97%E7%BB%99%E6%B4%9B%E6%9E%B3%E9%80%81%E9%9B%A8%E8%A1%A3&Refer=top)
+
+1. [风起霓裳](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%9C%93%E8%A3%B3&Refer=top)
+
+1. [从火星车命名看中国人有多浪漫](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%81%AB%E6%98%9F%E8%BD%A6%E5%91%BD%E5%90%8D%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E6%B5%AA%E6%BC%AB%23&Refer=top)
+
+1. [写福字](https://s.weibo.com//weibo?q=%E5%86%99%E7%A6%8F%E5%AD%97&Refer=top)
+
+1. [谢宛如苏锦儿联手](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%AE%9B%E5%A6%82%E8%8B%8F%E9%94%A6%E5%84%BF%E8%81%94%E6%89%8B%23&Refer=top)
 
