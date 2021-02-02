@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 09:43:20
+## 微博今日热榜 更新于 2021-02-02 10:24:29
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -214,4 +214,16 @@
 1. [戈登左脚严重扭伤](https://s.weibo.com//weibo?q=%E6%88%88%E7%99%BB%E5%B7%A6%E8%84%9A%E4%B8%A5%E9%87%8D%E6%89%AD%E4%BC%A4&Refer=top)
 
 1. [缅甸女子跳操时录下军车驶向议会](https://s.weibo.com//weibo?q=%23%E7%BC%85%E7%94%B8%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%93%8D%E6%97%B6%E5%BD%95%E4%B8%8B%E5%86%9B%E8%BD%A6%E9%A9%B6%E5%90%91%E8%AE%AE%E4%BC%9A%23&Refer=top)
+
+1. [防疫加码六不准](https://s.weibo.com//weibo?q=%23%E9%98%B2%E7%96%AB%E5%8A%A0%E7%A0%81%E5%85%AD%E4%B8%8D%E5%87%86%23&Refer=new_time)
+
+1. [演员林聪去世](https://s.weibo.com//weibo?q=%E6%BC%94%E5%91%98%E6%9E%97%E8%81%AA%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [王书金被执行死刑](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B9%A6%E9%87%91%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [新华网评特斯拉甩锅式回应](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%BD%91%E8%AF%84%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%A9%E9%94%85%E5%BC%8F%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [上海机场连续跌停](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%9C%BA%E5%9C%BA%E8%BF%9E%E7%BB%AD%E8%B7%8C%E5%81%9C&Refer=top)
+
+1. [四川泸沽湖景区恢复对外开放](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%B3%B8%E6%B2%BD%E6%B9%96%E6%99%AF%E5%8C%BA%E6%81%A2%E5%A4%8D%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE&Refer=top)
 
