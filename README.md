@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 17:07:31
+## 微博今日热榜 更新于 2021-02-02 18:06:18
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -378,4 +378,38 @@
 1. [大葱价格上涨](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%91%B1%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top)
 
 1. [如何看待人工智能干预自杀](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B9%B2%E9%A2%84%E8%87%AA%E6%9D%80%23&Refer=top)
+
+1. [春节防疫要上心](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E9%98%B2%E7%96%AB%E8%A6%81%E4%B8%8A%E5%BF%83%23&Refer=new_time)
+
+1. [周传雄 没有谁应该是谁的导师](https://s.weibo.com//weibo?q=%E5%91%A8%E4%BC%A0%E9%9B%84%20%E6%B2%A1%E6%9C%89%E8%B0%81%E5%BA%94%E8%AF%A5%E6%98%AF%E8%B0%81%E7%9A%84%E5%AF%BC%E5%B8%88&Refer=top)
+
+1. [广州民政局回应网上无法预约离婚申请](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E7%BD%91%E4%B8%8A%E6%97%A0%E6%B3%95%E9%A2%84%E7%BA%A6%E7%A6%BB%E5%A9%9A%E7%94%B3%E8%AF%B7&Refer=top)
+
+1. [李子柒刷新吉尼斯世界纪录](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [价值700万钻石被销售员调包](https://s.weibo.com//weibo?q=%23%E4%BB%B7%E5%80%BC700%E4%B8%87%E9%92%BB%E7%9F%B3%E8%A2%AB%E9%94%80%E5%94%AE%E5%91%98%E8%B0%83%E5%8C%85%23&Refer=top)
+
+1. [自卑真的无用](https://s.weibo.com//weibo?q=%23%E8%87%AA%E5%8D%91%E7%9C%9F%E7%9A%84%E6%97%A0%E7%94%A8%23&Refer=top)
+
+1. [黄强当选四川省省长](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%BC%BA%E5%BD%93%E9%80%89%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%9C%81%E9%95%BF%23&Refer=top)
+
+1. [王俊凯刘昊然董子健首次同框](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%98%E6%98%8A%E7%84%B6%E8%91%A3%E5%AD%90%E5%81%A5%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86%23&Refer=top)
+
+1. [东北小伙冰面上雕百兽](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E4%BC%99%E5%86%B0%E9%9D%A2%E4%B8%8A%E9%9B%95%E7%99%BE%E5%85%BD%23&Refer=top)
+
+1. [巴基斯坦外长感谢中国援助疫苗](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%BF%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [哈尔滨利民开发区利民街道升为高风险](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%88%A9%E6%B0%91%E5%BC%80%E5%8F%91%E5%8C%BA%E5%88%A9%E6%B0%91%E8%A1%97%E9%81%93%E5%8D%87%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [美国也应请世卫赴美开展溯源研究](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B9%9F%E5%BA%94%E8%AF%B7%E4%B8%96%E5%8D%AB%E8%B5%B4%E7%BE%8E%E5%BC%80%E5%B1%95%E6%BA%AF%E6%BA%90%E7%A0%94%E7%A9%B6%23&Refer=top)
+
+1. [连邮箱都知道我的论文水平](https://s.weibo.com//weibo?q=%E8%BF%9E%E9%82%AE%E7%AE%B1%E9%83%BD%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87%E6%B0%B4%E5%B9%B3&Refer=top)
+
+1. [唐艺昕DIY糖葫芦年宵花](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95DIY%E7%B3%96%E8%91%AB%E8%8A%A6%E5%B9%B4%E5%AE%B5%E8%8A%B1%23&Refer=top)
+
+1. [2020年每人日均使用移动支付3次](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E6%AF%8F%E4%BA%BA%E6%97%A5%E5%9D%87%E4%BD%BF%E7%94%A8%E7%A7%BB%E5%8A%A8%E6%94%AF%E4%BB%983%E6%AC%A1%23&Refer=top)
+
+1. [新年怎么化妆会赢](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E6%80%8E%E4%B9%88%E5%8C%96%E5%A6%86%E4%BC%9A%E8%B5%A2%23&Refer=top)
+
+1. [诸城违法倾倒化工废料致4人死亡](https://s.weibo.com//weibo?q=%E8%AF%B8%E5%9F%8E%E8%BF%9D%E6%B3%95%E5%80%BE%E5%80%92%E5%8C%96%E5%B7%A5%E5%BA%9F%E6%96%99%E8%87%B44%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
 
