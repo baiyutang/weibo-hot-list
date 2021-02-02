@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-02 12:08:26
+## 微博今日热榜 更新于 2021-02-02 13:09:31
 1. [战疫中的科技力量](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%23&Refer=new_time)
 
 1. [女子给差评遭外卖员上门威胁](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81&Refer=top)
@@ -276,4 +276,32 @@
 1. [公孙离惊鸿舞](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AD%99%E7%A6%BB%E6%83%8A%E9%B8%BF%E8%88%9E%23&Refer=top)
 
 1. [山西省考](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E7%9C%81%E8%80%83&Refer=top)
+
+1. [打新冠疫苗后不要带走按压棉签](https://s.weibo.com//weibo?q=%23%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%90%8E%E4%B8%8D%E8%A6%81%E5%B8%A6%E8%B5%B0%E6%8C%89%E5%8E%8B%E6%A3%89%E7%AD%BE%23&Refer=top)
+
+1. [明星大侦探](https://s.weibo.com//weibo?q=%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BE%A6%E6%8E%A2&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [中国疫苗在海外有多受欢迎](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%9C%89%E5%A4%9A%E5%8F%97%E6%AC%A2%E8%BF%8E%23&Refer=top)
+
+1. [创4春日少年初亮相](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E6%98%A5%E6%97%A5%E5%B0%91%E5%B9%B4%E5%88%9D%E4%BA%AE%E7%9B%B8%23&Refer=top)
+
+1. [王一博用化妆刷扫喉结](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%A8%E5%8C%96%E5%A6%86%E5%88%B7%E6%89%AB%E5%96%89%E7%BB%93%23&Refer=top)
+
+1. [唐探名场面模仿](https://s.weibo.com//weibo?q=%23%E5%94%90%E6%8E%A2%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%A8%A1%E4%BB%BF%23&Refer=top)
+
+1. [百香果女孩妈妈回应凶手被执行死刑](https://s.weibo.com//weibo?q=%E7%99%BE%E9%A6%99%E6%9E%9C%E5%A5%B3%E5%AD%A9%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&Refer=top)
+
+1. [华夏幸福52亿债务违约](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%A4%8F%E5%B9%B8%E7%A6%8F52%E4%BA%BF%E5%80%BA%E5%8A%A1%E8%BF%9D%E7%BA%A6%23&Refer=top)
+
+1. [王者荣耀不夜长安赛年](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%8D%E5%A4%9C%E9%95%BF%E5%AE%89%E8%B5%9B%E5%B9%B4&Refer=top)
+
+1. [晒福字大赛](https://s.weibo.com//weibo?q=%23%E6%99%92%E7%A6%8F%E5%AD%97%E5%A4%A7%E8%B5%9B%23&Refer=top)
+
+1. [游戏里的破防瞬间](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E6%88%8F%E9%87%8C%E7%9A%84%E7%A0%B4%E9%98%B2%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
 
