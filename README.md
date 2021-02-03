@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-04 02:09:01
+## 微博今日热榜 更新于 2021-02-04 03:07:41
 1. [我国研制亚洲最大单口径天线将投用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%A0%94%E5%88%B6%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%A4%A7%E5%8D%95%E5%8F%A3%E5%BE%84%E5%A4%A9%E7%BA%BF%E5%B0%86%E6%8A%95%E7%94%A8%23&Refer=new_time)
 
 1. [赵英俊吃完止疼药在家录的小红花](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%90%83%E5%AE%8C%E6%AD%A2%E7%96%BC%E8%8D%AF%E5%9C%A8%E5%AE%B6%E5%BD%95%E7%9A%84%E5%B0%8F%E7%BA%A2%E8%8A%B1%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [琉璃活得像个乙方](https://s.weibo.com//weibo?q=%23%E7%90%89%E7%92%83%E6%B4%BB%E5%BE%97%E5%83%8F%E4%B8%AA%E4%B9%99%E6%96%B9%23&Refer=top)
 
 1. [假日暖洋洋](https://s.weibo.com//weibo?q=%E5%81%87%E6%97%A5%E6%9A%96%E6%B4%8B%E6%B4%8B&Refer=top)
+
+1. [第四批国家药品集采拟中选产品158个](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E5%9B%9B%E6%89%B9%E5%9B%BD%E5%AE%B6%E8%8D%AF%E5%93%81%E9%9B%86%E9%87%87%E6%8B%9F%E4%B8%AD%E9%80%89%E4%BA%A7%E5%93%81158%E4%B8%AA%23&Refer=new_time)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
