@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 02:03:05
+## 微博今日热榜 更新于 2021-02-05 03:02:06
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -116,4 +116,6 @@
 1. [医院特许导盲犬探望生病主人](https://s.weibo.com//weibo?q=%E5%8C%BB%E9%99%A2%E7%89%B9%E8%AE%B8%E5%AF%BC%E7%9B%B2%E7%8A%AC%E6%8E%A2%E6%9C%9B%E7%94%9F%E7%97%85%E4%B8%BB%E4%BA%BA&Refer=top)
 
 1. [加强对未成年被害人及证人的特殊保护](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%9C%AA%E6%88%90%E5%B9%B4%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%8F%8A%E8%AF%81%E4%BA%BA%E7%9A%84%E7%89%B9%E6%AE%8A%E4%BF%9D%E6%8A%A4%23&Refer=new_time)
+
+1. [FPX LNG](https://s.weibo.com//weibo?q=FPX%20LNG&Refer=top)
 
