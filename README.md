@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 04:02:35
+## 微博今日热榜 更新于 2021-02-05 05:02:09
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -126,4 +126,10 @@
 1. [九九八十一好燃](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E4%B9%9D%E5%85%AB%E5%8D%81%E4%B8%80%E5%A5%BD%E7%87%83%23&Refer=top)
 
 1. [广东警方通报辅警踹倒骑行男子](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%BE%85%E8%AD%A6%E8%B8%B9%E5%80%92%E9%AA%91%E8%A1%8C%E7%94%B7%E5%AD%90&Refer=top)
+
+1. [cctv网络春晚](https://s.weibo.com//weibo?q=%23cctv%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A%23&Refer=new_time)
+
+1. [小年](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%B9%B4&Refer=top)
+
+1. [你是否有外貌焦虑](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E5%90%A6%E6%9C%89%E5%A4%96%E8%B2%8C%E7%84%A6%E8%99%91%23&Refer=top)
 
