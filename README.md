@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-04 08:06:14
+## 微博今日热榜 更新于 2021-02-04 09:26:50
 1. [我国研制亚洲最大单口径天线将投用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%A0%94%E5%88%B6%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%A4%A7%E5%8D%95%E5%8F%A3%E5%BE%84%E5%A4%A9%E7%BA%BF%E5%B0%86%E6%8A%95%E7%94%A8%23&Refer=new_time)
 
 1. [赵英俊吃完止疼药在家录的小红花](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%90%83%E5%AE%8C%E6%AD%A2%E7%96%BC%E8%8D%AF%E5%9C%A8%E5%AE%B6%E5%BD%95%E7%9A%84%E5%B0%8F%E7%BA%A2%E8%8A%B1%23&Refer=top)
@@ -164,4 +164,28 @@
 1. [关菲菲](https://s.weibo.com//weibo?q=%E5%85%B3%E8%8F%B2%E8%8F%B2&Refer=top)
 
 1. [光遇退款](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87%E9%80%80%E6%AC%BE&Refer=top)
+
+1. [上海新增本土确诊病例3例](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B3%E4%BE%8B%23&Refer=top)
+
+1. [跳绳等宅家健身器材销量猛增](https://s.weibo.com//weibo?q=%23%E8%B7%B3%E7%BB%B3%E7%AD%89%E5%AE%85%E5%AE%B6%E5%81%A5%E8%BA%AB%E5%99%A8%E6%9D%90%E9%94%80%E9%87%8F%E7%8C%9B%E5%A2%9E%23&Refer=top)
+
+1. [金球奖提名名单](https://s.weibo.com//weibo?q=%E9%87%91%E7%90%83%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [浴室到底有多少暗藏的危险](https://s.weibo.com//weibo?q=%23%E6%B5%B4%E5%AE%A4%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E6%9A%97%E8%97%8F%E7%9A%84%E5%8D%B1%E9%99%A9%23&Refer=top)
+
+1. [郭敬明悼念张昭](https://s.weibo.com//weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E6%82%BC%E5%BF%B5%E5%BC%A0%E6%98%AD&Refer=top)
+
+1. [卫健委通报医院要求高烧孩子等核酸](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E8%A6%81%E6%B1%82%E9%AB%98%E7%83%A7%E5%AD%A9%E5%AD%90%E7%AD%89%E6%A0%B8%E9%85%B8%23&Refer=top)
+
+1. [超半数美国人不满美国防疫工作](https://s.weibo.com//weibo?q=%E8%B6%85%E5%8D%8A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%8D%E6%BB%A1%E7%BE%8E%E5%9B%BD%E9%98%B2%E7%96%AB%E5%B7%A5%E4%BD%9C&Refer=top)
+
+1. [赵婷成首个提名金球导演奖亚裔女性](https://s.weibo.com//weibo?q=%E8%B5%B5%E5%A9%B7%E6%88%90%E9%A6%96%E4%B8%AA%E6%8F%90%E5%90%8D%E9%87%91%E7%90%83%E5%AF%BC%E6%BC%94%E5%A5%96%E4%BA%9A%E8%A3%94%E5%A5%B3%E6%80%A7&Refer=top)
+
+1. [小年快乐](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top)
+
+1. [心疼容瑕](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%AE%B9%E7%91%95%23&Refer=top)
+
+1. [河北新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [你家小年怎么过](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%AE%B6%E5%B0%8F%E5%B9%B4%E6%80%8E%E4%B9%88%E8%BF%87%23&Refer=top)
 
