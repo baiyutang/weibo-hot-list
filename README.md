@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 05:02:09
+## 微博今日热榜 更新于 2021-02-05 06:03:02
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -132,4 +132,6 @@
 1. [小年](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%B9%B4&Refer=top)
 
 1. [你是否有外貌焦虑](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E5%90%A6%E6%9C%89%E5%A4%96%E8%B2%8C%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [重要民生商品供应完全有保障](https://s.weibo.com//weibo?q=%23%E9%87%8D%E8%A6%81%E6%B0%91%E7%94%9F%E5%95%86%E5%93%81%E4%BE%9B%E5%BA%94%E5%AE%8C%E5%85%A8%E6%9C%89%E4%BF%9D%E9%9A%9C%23&Refer=new_time)
 
