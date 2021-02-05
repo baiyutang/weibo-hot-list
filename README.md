@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-06 01:16:50
+## 微博今日热榜 更新于 2021-02-06 02:03:00
 1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7%23&Refer=new_time)
 
 1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
@@ -108,4 +108,8 @@
 1. [周笔畅后台自拍时的腿](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%90%8E%E5%8F%B0%E8%87%AA%E6%8B%8D%E6%97%B6%E7%9A%84%E8%85%BF%23&Refer=top)
 
 1. [安徽宿松船只侧翻致10人遇难](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E5%AE%BF%E6%9D%BE%E8%88%B9%E5%8F%AA%E4%BE%A7%E7%BF%BB%E8%87%B410%E4%BA%BA%E9%81%87%E9%9A%BE&Refer=top)
+
+1. [中国成功实施陆基中段反导拦截技术试验](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E9%99%86%E5%9F%BA%E4%B8%AD%E6%AE%B5%E5%8F%8D%E5%AF%BC%E6%8B%A6%E6%88%AA%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%23&Refer=new_time)
+
+1. [王力宏指导张真源唱心桥](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%8C%87%E5%AF%BC%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%94%B1%E5%BF%83%E6%A1%A5%23&Refer=top)
 
