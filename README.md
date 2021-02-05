@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 10:07:54
+## 微博今日热榜 更新于 2021-02-05 12:03:16
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -218,4 +218,52 @@
 1. [拜登宣布将扩大美国接纳难民人数](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E5%B0%86%E6%89%A9%E5%A4%A7%E7%BE%8E%E5%9B%BD%E6%8E%A5%E7%BA%B3%E9%9A%BE%E6%B0%91%E4%BA%BA%E6%95%B0%23&Refer=top)
 
 1. [东京奥组委主席为歧视女性言论道歉](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E7%BB%84%E5%A7%94%E4%B8%BB%E5%B8%AD%E4%B8%BA%E6%AD%A7%E8%A7%86%E5%A5%B3%E6%80%A7%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [娜扎 心里是脏的看什么都是脏的](https://s.weibo.com//weibo?q=%E5%A8%9C%E6%89%8E%20%E5%BF%83%E9%87%8C%E6%98%AF%E8%84%8F%E7%9A%84%E7%9C%8B%E4%BB%80%E4%B9%88%E9%83%BD%E6%98%AF%E8%84%8F%E7%9A%84&Refer=top)
+
+1. [中国将向叙利亚提供15万剂新冠疫苗援助](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%90%91%E5%8F%99%E5%88%A9%E4%BA%9A%E6%8F%90%E4%BE%9B15%E4%B8%87%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8F%B4%E5%8A%A9&Refer=top)
+
+1. [微信红包封面](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [顺丰临时停牌](https://s.weibo.com//weibo?q=%E9%A1%BA%E4%B8%B0%E4%B8%B4%E6%97%B6%E5%81%9C%E7%89%8C&Refer=top)
+
+1. [陕西新人结婚当天出现小龙卷风](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%87%BA%E7%8E%B0%E5%B0%8F%E9%BE%99%E5%8D%B7%E9%A3%8E&Refer=top)
+
+1. [央视春晚第三次大联排](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%A4%A7%E8%81%94%E6%8E%92&Refer=top)
+
+1. [高中历史课程要让学生了解武术武德](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%AD%E5%8E%86%E5%8F%B2%E8%AF%BE%E7%A8%8B%E8%A6%81%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%BA%86%E8%A7%A3%E6%AD%A6%E6%9C%AF%E6%AD%A6%E5%BE%B7%23&Refer=top)
+
+1. [CGTN反对英国吊销落地许可](https://s.weibo.com//weibo?q=CGTN%E5%8F%8D%E5%AF%B9%E8%8B%B1%E5%9B%BD%E5%90%8A%E9%94%80%E8%90%BD%E5%9C%B0%E8%AE%B8%E5%8F%AF&Refer=top)
+
+1. [快手上市](https://s.weibo.com//weibo?q=%E5%BF%AB%E6%89%8B%E4%B8%8A%E5%B8%82&Refer=top)
+
+1. [虾米音乐最后一天的日推歌单](https://s.weibo.com//weibo?q=%23%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E7%9A%84%E6%97%A5%E6%8E%A8%E6%AD%8C%E5%8D%95%23&Refer=top)
+
+1. [肖战福字](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%A6%8F%E5%AD%97%23&Refer=top)
+
+1. [青岛困难户](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B2%9B%E5%9B%B0%E9%9A%BE%E6%88%B7&Refer=top)
+
+1. [天津95后大学生脑电波写福字](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A595%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%84%91%E7%94%B5%E6%B3%A2%E5%86%99%E7%A6%8F%E5%AD%97%23&Refer=top)
+
+1. [胡一天 被雨淋湿的狗狗](https://s.weibo.com//weibo?q=%E8%83%A1%E4%B8%80%E5%A4%A9%20%E8%A2%AB%E9%9B%A8%E6%B7%8B%E6%B9%BF%E7%9A%84%E7%8B%97%E7%8B%97&Refer=top)
+
+1. [下嵌式的床能有安全感吗](https://s.weibo.com//weibo?q=%23%E4%B8%8B%E5%B5%8C%E5%BC%8F%E7%9A%84%E5%BA%8A%E8%83%BD%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F%E5%90%97%23&Refer=top)
+
+1. [服装大王雅戈尔炒股获利上百亿](https://s.weibo.com//weibo?q=%E6%9C%8D%E8%A3%85%E5%A4%A7%E7%8E%8B%E9%9B%85%E6%88%88%E5%B0%94%E7%82%92%E8%82%A1%E8%8E%B7%E5%88%A9%E4%B8%8A%E7%99%BE%E4%BA%BF&Refer=top)
+
+1. [staff替爱豆彩排有多好笑](https://s.weibo.com//weibo?q=%23staff%E6%9B%BF%E7%88%B1%E8%B1%86%E5%BD%A9%E6%8E%92%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [如何穿的很有学问](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%A9%BF%E7%9A%84%E5%BE%88%E6%9C%89%E5%AD%A6%E9%97%AE%23&Refer=top)
+
+1. [南方小年](https://s.weibo.com//weibo?q=%E5%8D%97%E6%96%B9%E5%B0%8F%E5%B9%B4&Refer=top)
+
+1. [全球新冠疫苗接种剂数已超确诊病例数](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%89%82%E6%95%B0%E5%B7%B2%E8%B6%85%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E6%95%B0%23&Refer=top)
+
+1. [圭亚那终止与台湾设办公室协议](https://s.weibo.com//weibo?q=%23%E5%9C%AD%E4%BA%9A%E9%82%A3%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%8F%B0%E6%B9%BE%E8%AE%BE%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8D%8F%E8%AE%AE%23&Refer=top)
+
+1. [懒人素食千层面](https://s.weibo.com//weibo?q=%23%E6%87%92%E4%BA%BA%E7%B4%A0%E9%A3%9F%E5%8D%83%E5%B1%82%E9%9D%A2%23&Refer=top)
+
+1. [乌布雷40分](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%B8%83%E9%9B%B740%E5%88%86&Refer=top)
+
+1. [火鸡面芝士挞](https://s.weibo.com//weibo?q=%23%E7%81%AB%E9%B8%A1%E9%9D%A2%E8%8A%9D%E5%A3%AB%E6%8C%9E%23&Refer=top)
 
