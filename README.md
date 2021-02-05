@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 18:02:55
+## 微博今日热榜 更新于 2021-02-05 19:02:29
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -410,4 +410,22 @@
 1. [温州首辆智能移动核酸检测车](https://s.weibo.com//weibo?q=%E6%B8%A9%E5%B7%9E%E9%A6%96%E8%BE%86%E6%99%BA%E8%83%BD%E7%A7%BB%E5%8A%A8%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%BD%A6&Refer=top)
 
 1. [人文社更正五福错字](https://s.weibo.com//weibo?q=%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9B%B4%E6%AD%A3%E4%BA%94%E7%A6%8F%E9%94%99%E5%AD%97&Refer=top)
+
+1. [第二批基础学科拔尖学生培养计划2.0基地](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%BA%8C%E6%89%B9%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AE%A1%E5%88%922.0%E5%9F%BA%E5%9C%B0%23&Refer=new_time)
+
+1. [lex](https://s.weibo.com//weibo?q=lex&Refer=top)
+
+1. [易烊千玺现身央视春晚第三次大联排](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%A4%A7%E8%81%94%E6%8E%92%23&Refer=top)
+
+1. [王牌对王牌](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&Refer=top)
+
+1. [你好李焕英王牌首映礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E7%8E%8B%E7%89%8C%E9%A6%96%E6%98%A0%E7%A4%BC&Refer=top)
+
+1. [皮卡丘之日](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E5%8D%A1%E4%B8%98%E4%B9%8B%E6%97%A5%23&Refer=top)
+
+1. [澳洲打人](https://s.weibo.com//weibo?q=%E6%BE%B3%E6%B4%B2%E6%89%93%E4%BA%BA&Refer=top)
+
+1. [证监会回应德勤事件](https://s.weibo.com//weibo?q=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BE%B7%E5%8B%A4%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [演艺人员不得在营业性演出假唱](https://s.weibo.com//weibo?q=%23%E6%BC%94%E8%89%BA%E4%BA%BA%E5%91%98%E4%B8%8D%E5%BE%97%E5%9C%A8%E8%90%A5%E4%B8%9A%E6%80%A7%E6%BC%94%E5%87%BA%E5%81%87%E5%94%B1%23&Refer=top)
 
