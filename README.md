@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 16:03:13
+## 微博今日热榜 更新于 2021-02-05 17:02:48
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -364,4 +364,28 @@
 1. [董洁董璇侧手翻](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%B4%81%E8%91%A3%E7%92%87%E4%BE%A7%E6%89%8B%E7%BF%BB%23&Refer=top)
 
 1. [木兰组挑战成功](https://s.weibo.com//weibo?q=%E6%9C%A8%E5%85%B0%E7%BB%84%E6%8C%91%E6%88%98%E6%88%90%E5%8A%9F&Refer=top)
+
+1. [劣迹艺人惩戒复出程序业内首次明确](https://s.weibo.com//weibo?q=%23%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E6%83%A9%E6%88%92%E5%A4%8D%E5%87%BA%E7%A8%8B%E5%BA%8F%E4%B8%9A%E5%86%85%E9%A6%96%E6%AC%A1%E6%98%8E%E7%A1%AE%23&Refer=top)
+
+1. [肖战 准备准备要觉醒了](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E5%87%86%E5%A4%87%E5%87%86%E5%A4%87%E8%A6%81%E8%A7%89%E9%86%92%E4%BA%86&Refer=top)
+
+1. [那英个人喜爱度第一](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E4%B8%AA%E4%BA%BA%E5%96%9C%E7%88%B1%E5%BA%A6%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [斗罗大陆收视率](https://s.weibo.com//weibo?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E6%94%B6%E8%A7%86%E7%8E%87%23&Refer=top)
+
+1. [弦子 我劝你不要总想着多活几集](https://s.weibo.com//weibo?q=%E5%BC%A6%E5%AD%90%20%E6%88%91%E5%8A%9D%E4%BD%A0%E4%B8%8D%E8%A6%81%E6%80%BB%E6%83%B3%E7%9D%80%E5%A4%9A%E6%B4%BB%E5%87%A0%E9%9B%86&Refer=top)
+
+1. [李菲儿张馨予争执](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8F%B2%E5%84%BF%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BA%89%E6%89%A7&Refer=top)
+
+1. [下至碎钻妆](https://s.weibo.com//weibo?q=%E4%B8%8B%E8%87%B3%E7%A2%8E%E9%92%BB%E5%A6%86&Refer=top)
+
+1. [4AM16杀吃鸡](https://s.weibo.com//weibo?q=4AM16%E6%9D%80%E5%90%83%E9%B8%A1&Refer=top)
+
+1. [教育部发布2021年第1号留学预警](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832021%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [电视剧斗罗大陆武魂自拍](https://s.weibo.com//weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E6%AD%A6%E9%AD%82%E8%87%AA%E6%8B%8D&Refer=top)
+
+1. [原上海电影制片厂厂长朱永德去世](https://s.weibo.com//weibo?q=%E5%8E%9F%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E5%88%B6%E7%89%87%E5%8E%82%E5%8E%82%E9%95%BF%E6%9C%B1%E6%B0%B8%E5%BE%B7%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [瑞幸咖啡在美国申请破产保护](https://s.weibo.com//weibo?q=%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4&Refer=top)
 
