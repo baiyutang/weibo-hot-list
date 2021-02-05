@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-06 02:03:00
+## 微博今日热榜 更新于 2021-02-06 03:02:14
 1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7%23&Refer=new_time)
 
 1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
@@ -112,4 +112,12 @@
 1. [中国成功实施陆基中段反导拦截技术试验](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E9%99%86%E5%9F%BA%E4%B8%AD%E6%AE%B5%E5%8F%8D%E5%AF%BC%E6%8B%A6%E6%88%AA%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%23&Refer=new_time)
 
 1. [王力宏指导张真源唱心桥](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%8C%87%E5%AF%BC%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%94%B1%E5%BF%83%E6%A1%A5%23&Refer=top)
+
+1. [2021年教育发展改革](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E6%94%B9%E9%9D%A9%23&Refer=new_time)
+
+1. [左小青空中劈叉](https://s.weibo.com//weibo?q=%23%E5%B7%A6%E5%B0%8F%E9%9D%92%E7%A9%BA%E4%B8%AD%E5%8A%88%E5%8F%89%23&Refer=top)
+
+1. [直通春晚](https://s.weibo.com//weibo?q=%E7%9B%B4%E9%80%9A%E6%98%A5%E6%99%9A&Refer=top)
+
+1. [教育部发布2021年第1号留学预警](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832021%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6%23&Refer=top)
 
