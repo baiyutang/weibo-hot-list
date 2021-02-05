@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 21:03:04
+## 微博今日热榜 更新于 2021-02-05 22:03:08
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -456,4 +456,30 @@
 1. [EDG SN](https://s.weibo.com//weibo?q=EDG%20SN&Refer=top)
 
 1. [年夜饭甜品琉璃果子](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E5%A4%9C%E9%A5%AD%E7%94%9C%E5%93%81%E7%90%89%E7%92%83%E6%9E%9C%E5%AD%90%23&Refer=top)
+
+1. [2021年教育发展改革](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E6%94%B9%E9%9D%A9%23&Refer=new_time)
+
+1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A&Refer=top)
+
+1. [徐杰受伤](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%9D%B0%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [永远的第一名](https://s.weibo.com//weibo?q=%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%AC%AC%E4%B8%80%E5%90%8D&Refer=top)
+
+1. [旺达幻视](https://s.weibo.com//weibo?q=%E6%97%BA%E8%BE%BE%E5%B9%BB%E8%A7%86&Refer=top)
+
+1. [我的小确幸](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%B0%8F%E7%A1%AE%E5%B9%B8&Refer=top)
+
+1. [王一博华彩少年预告](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8D%8E%E5%BD%A9%E5%B0%91%E5%B9%B4%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [沈忠厚院士逝世](https://s.weibo.com//weibo?q=%23%E6%B2%88%E5%BF%A0%E5%8E%9A%E9%99%A2%E5%A3%AB%E9%80%9D%E4%B8%96%23&Refer=top)
+
+1. [安徽宿松船只侧翻致10人遇难](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E5%AE%BF%E6%9D%BE%E8%88%B9%E5%8F%AA%E4%BE%A7%E7%BF%BB%E8%87%B410%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top)
+
+1. [天问一号传回首幅火星图](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E4%BC%A0%E5%9B%9E%E9%A6%96%E5%B9%85%E7%81%AB%E6%98%9F%E5%9B%BE%23&Refer=top)
+
+1. [百变大咖秀](https://s.weibo.com//weibo?q=%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80&Refer=top)
+
+1. [关晓彤马丽宋亚轩跳爱你](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%A9%AC%E4%B8%BD%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%B7%B3%E7%88%B1%E4%BD%A0%23&Refer=top)
+
+1. [EDG七连胜](https://s.weibo.com//weibo?q=EDG%E4%B8%83%E8%BF%9E%E8%83%9C&Refer=top)
 
