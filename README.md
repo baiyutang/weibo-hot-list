@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 22:03:08
+## 微博今日热榜 更新于 2021-02-05 23:02:31
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -482,4 +482,22 @@
 1. [关晓彤马丽宋亚轩跳爱你](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%A9%AC%E4%B8%BD%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%B7%B3%E7%88%B1%E4%BD%A0%23&Refer=top)
 
 1. [EDG七连胜](https://s.weibo.com//weibo?q=EDG%E4%B8%83%E8%BF%9E%E8%83%9C&Refer=top)
+
+1. [男子酒驾致朋友死亡同桌7人被判](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%87%B4%E6%9C%8B%E5%8F%8B%E6%AD%BB%E4%BA%A1%E5%90%8C%E6%A1%8C7%E4%BA%BA%E8%A2%AB%E5%88%A4%23&Refer=top)
+
+1. [男子送7个月快递倒欠网点12万](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%817%E4%B8%AA%E6%9C%88%E5%BF%AB%E9%80%92%E5%80%92%E6%AC%A0%E7%BD%91%E7%82%B912%E4%B8%87%23&Refer=top)
+
+1. [工信部22条规定保护个人信息](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A822%E6%9D%A1%E8%A7%84%E5%AE%9A%E4%BF%9D%E6%8A%A4%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [周深跷二郎腿飙高音](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E8%B7%B7%E4%BA%8C%E9%83%8E%E8%85%BF%E9%A3%99%E9%AB%98%E9%9F%B3%23&Refer=top)
+
+1. [毛不易多唱英文歌好吗](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A4%9A%E5%94%B1%E8%8B%B1%E6%96%87%E6%AD%8C%E5%A5%BD%E5%90%97&Refer=top)
+
+1. [火箭少女唢呐版无羁](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD%E5%B0%91%E5%A5%B3%E5%94%A2%E5%91%90%E7%89%88%E6%97%A0%E7%BE%81&Refer=top)
+
+1. [吴宣仪教敖子逸跳兔子舞](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%95%99%E6%95%96%E5%AD%90%E9%80%B8%E8%B7%B3%E5%85%94%E5%AD%90%E8%88%9E%23&Refer=top)
+
+1. [郭艾伦摔倒](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E6%91%94%E5%80%92%23&Refer=top)
+
+1. [斗罗大陆花絮](https://s.weibo.com//weibo?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E8%8A%B1%E7%B5%AE%23&Refer=top)
 
