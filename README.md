@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-05 07:02:46
+## 微博今日热榜 更新于 2021-02-05 08:06:26
 1. [文旅部提醒春节坚持非必要不出境游](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E5%9D%9A%E6%8C%81%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%A2%83%E6%B8%B8%23&Refer=new_time)
 
 1. [傅首尔 真实的自卑好过虚假的自信](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E5%8D%91%E5%A5%BD%E8%BF%87%E8%99%9A%E5%81%87%E7%9A%84%E8%87%AA%E4%BF%A1&Refer=top)
@@ -134,4 +134,34 @@
 1. [你是否有外貌焦虑](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E5%90%A6%E6%9C%89%E5%A4%96%E8%B2%8C%E7%84%A6%E8%99%91%23&Refer=top)
 
 1. [重要民生商品供应完全有保障](https://s.weibo.com//weibo?q=%23%E9%87%8D%E8%A6%81%E6%B0%91%E7%94%9F%E5%95%86%E5%93%81%E4%BE%9B%E5%BA%94%E5%AE%8C%E5%85%A8%E6%9C%89%E4%BF%9D%E9%9A%9C%23&Refer=new_time)
+
+1. [超七成农民工就地过年](https://s.weibo.com//weibo?q=%23%E8%B6%85%E4%B8%83%E6%88%90%E5%86%9C%E6%B0%91%E5%B7%A5%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%23&Refer=top)
+
+1. [虾米音乐关停](https://s.weibo.com//weibo?q=%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90%E5%85%B3%E5%81%9C&Refer=top)
+
+1. [近70家公司发布退市风险提示](https://s.weibo.com//weibo?q=%23%E8%BF%9170%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E9%80%80%E5%B8%82%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA%23&Refer=top)
+
+1. [贵州茅台股价突破2300元](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%E8%82%A1%E4%BB%B7%E7%AA%81%E7%A0%B42300%E5%85%83&Refer=top)
+
+1. [官方回应湖南永州市场卖现宰活猫](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B9%96%E5%8D%97%E6%B0%B8%E5%B7%9E%E5%B8%82%E5%9C%BA%E5%8D%96%E7%8E%B0%E5%AE%B0%E6%B4%BB%E7%8C%AB%23&Refer=top)
+
+1. [王安宇Grunt人设](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87Grunt%E4%BA%BA%E8%AE%BE%23&Refer=top)
+
+1. [人类的本质是爱看热闹](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%88%B1%E7%9C%8B%E7%83%AD%E9%97%B9%23&Refer=top)
+
+1. [福牛](https://s.weibo.com//weibo?q=%E7%A6%8F%E7%89%9B&Refer=top)
+
+1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7&Refer=top)
+
+1. [存款基准利率要长期保留](https://s.weibo.com//weibo?q=%23%E5%AD%98%E6%AC%BE%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E8%A6%81%E9%95%BF%E6%9C%9F%E4%BF%9D%E7%95%99%23&Refer=top)
+
+1. [新疆夜空火箭云](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E5%A4%9C%E7%A9%BA%E7%81%AB%E7%AE%AD%E4%BA%91&Refer=top)
+
+1. [还有6天就过年了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%896%E5%A4%A9%E5%B0%B1%E8%BF%87%E5%B9%B4%E4%BA%86%23&Refer=top)
+
+1. [黑龙江新增5例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E5%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [翟潇闻坐飞机像极了我本人](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%83%8F%E6%9E%81%E4%BA%86%E6%88%91%E6%9C%AC%E4%BA%BA%23&Refer=top)
+
+1. [从不让人失望的评论区](https://s.weibo.com//weibo?q=%E4%BB%8E%E4%B8%8D%E8%AE%A9%E4%BA%BA%E5%A4%B1%E6%9C%9B%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8C%BA&Refer=top)
 
