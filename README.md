@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-06 18:02:52
+## 微博今日热榜 更新于 2021-02-06 19:02:39
 1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7%23&Refer=new_time)
 
 1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
@@ -382,4 +382,18 @@
 1. [腾格尔 听说这才是猛男该写的福字](https://s.weibo.com//weibo?q=%E8%85%BE%E6%A0%BC%E5%B0%94%20%E5%90%AC%E8%AF%B4%E8%BF%99%E6%89%8D%E6%98%AF%E7%8C%9B%E7%94%B7%E8%AF%A5%E5%86%99%E7%9A%84%E7%A6%8F%E5%AD%97&Refer=top)
 
 1. [RNGM](https://s.weibo.com//weibo?q=RNGM&Refer=top)
+
+1. [商家称15万办理全套本科学历](https://s.weibo.com//weibo?q=%23%E5%95%86%E5%AE%B6%E7%A7%B015%E4%B8%87%E5%8A%9E%E7%90%86%E5%85%A8%E5%A5%97%E6%9C%AC%E7%A7%91%E5%AD%A6%E5%8E%86%23&Refer=top)
+
+1. [唐三没吃过红烧肉](https://s.weibo.com//weibo?q=%E5%94%90%E4%B8%89%E6%B2%A1%E5%90%83%E8%BF%87%E7%BA%A2%E7%83%A7%E8%82%89&Refer=top)
+
+1. [Aki好帅](https://s.weibo.com//weibo?q=%23Aki%E5%A5%BD%E5%B8%85%23&Refer=top)
+
+1. [张艺兴湘江水方言大赛](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%B9%98%E6%B1%9F%E6%B0%B4%E6%96%B9%E8%A8%80%E5%A4%A7%E8%B5%9B%23&Refer=top)
+
+1. [用客服的语气回复客服](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%AE%A2%E6%9C%8D%E7%9A%84%E8%AF%AD%E6%B0%94%E5%9B%9E%E5%A4%8D%E5%AE%A2%E6%9C%8D%23&Refer=top)
+
+1. [各国电视剧扇巴掌的区别](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%E6%89%87%E5%B7%B4%E6%8E%8C%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [葱油拌面冰淇淋](https://s.weibo.com//weibo?q=%E8%91%B1%E6%B2%B9%E6%8B%8C%E9%9D%A2%E5%86%B0%E6%B7%87%E6%B7%8B&Refer=top)
 
