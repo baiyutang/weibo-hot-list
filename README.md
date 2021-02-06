@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-06 09:25:57
+## 微博今日热榜 更新于 2021-02-06 10:07:24
 1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7%23&Refer=new_time)
 
 1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
@@ -188,4 +188,28 @@
 1. [科兴新冠灭活疫苗临床研究数据公布](https://s.weibo.com//weibo?q=%E7%A7%91%E5%85%B4%E6%96%B0%E5%86%A0%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83&Refer=top)
 
 1. [东京都知事称东京奥运会面临严重问题](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E9%83%BD%E7%9F%A5%E4%BA%8B%E7%A7%B0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%9D%A2%E4%B8%B4%E4%B8%A5%E9%87%8D%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [俄罗斯驱逐德国瑞典和波兰3名外交官](https://s.weibo.com//weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%B1%E9%80%90%E5%BE%B7%E5%9B%BD%E7%91%9E%E5%85%B8%E5%92%8C%E6%B3%A2%E5%85%B03%E5%90%8D%E5%A4%96%E4%BA%A4%E5%AE%98&Refer=top)
+
+1. [王骁追星任豪成功](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%AA%81%E8%BF%BD%E6%98%9F%E4%BB%BB%E8%B1%AA%E6%88%90%E5%8A%9F%23&Refer=top)
+
+1. [刘若英所有相爱的人啊MV](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E6%89%80%E6%9C%89%E7%9B%B8%E7%88%B1%E7%9A%84%E4%BA%BA%E5%95%8AMV%23&Refer=top)
+
+1. [音乐之声男主去世](https://s.weibo.com//weibo?q=%23%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0%E7%94%B7%E4%B8%BB%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [盲道为绕开井盖穿过公交站牌](https://s.weibo.com//weibo?q=%23%E7%9B%B2%E9%81%93%E4%B8%BA%E7%BB%95%E5%BC%80%E4%BA%95%E7%9B%96%E7%A9%BF%E8%BF%87%E5%85%AC%E4%BA%A4%E7%AB%99%E7%89%8C%23&Refer=top)
+
+1. [牛年春节和情人节连一块了](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%B9%B4%E6%98%A5%E8%8A%82%E5%92%8C%E6%83%85%E4%BA%BA%E8%8A%82%E8%BF%9E%E4%B8%80%E5%9D%97%E4%BA%86%23&Refer=top)
+
+1. [张真源自责没在王力宏面前唱好心桥](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%87%AA%E8%B4%A3%E6%B2%A1%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%9D%A2%E5%89%8D%E5%94%B1%E5%A5%BD%E5%BF%83%E6%A1%A5%23&Refer=top)
+
+1. [吉林新增1例本土确诊病例](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [江西赣州1份进口鸡爪内包装阳性](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B5%A3%E5%B7%9E1%E4%BB%BD%E8%BF%9B%E5%8F%A3%E9%B8%A1%E7%88%AA%E5%86%85%E5%8C%85%E8%A3%85%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [篮网 猛龙](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%20%E7%8C%9B%E9%BE%99&Refer=top)
+
+1. [阿贾克斯门将禁赛一年](https://s.weibo.com//weibo?q=%E9%98%BF%E8%B4%BE%E5%85%8B%E6%96%AF%E9%97%A8%E5%B0%86%E7%A6%81%E8%B5%9B%E4%B8%80%E5%B9%B4&Refer=top)
+
+1. [31省区市新增12例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E12%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
