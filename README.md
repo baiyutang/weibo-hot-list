@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-06 07:02:46
+## 微博今日热榜 更新于 2021-02-06 08:06:09
 1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7%23&Refer=new_time)
 
 1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
@@ -130,4 +130,32 @@
 1. [杨迪就是雕塑本人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%B0%B1%E6%98%AF%E9%9B%95%E5%A1%91%E6%9C%AC%E4%BA%BA%23&Refer=top)
 
 1. [证监会回应德勤事件](https://s.weibo.com//weibo?q=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BE%B7%E5%8B%A4%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [沈阳一月子会所14名新生儿被确诊肺炎](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E4%B8%80%E6%9C%88%E5%AD%90%E4%BC%9A%E6%89%8014%E5%90%8D%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%82%8E&Refer=top)
+
+1. [全球新冠疫苗接种量超新冠感染者总数](https://s.weibo.com//weibo?q=%E5%85%A8%E7%90%83%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%87%8F%E8%B6%85%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%85%E6%80%BB%E6%95%B0&Refer=top)
+
+1. [上海网约车超半数计程不精准](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%B6%85%E5%8D%8A%E6%95%B0%E8%AE%A1%E7%A8%8B%E4%B8%8D%E7%B2%BE%E5%87%86%23&Refer=top)
+
+1. [科学家发现地球最小爬行动物](https://s.weibo.com//weibo?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%9C%B0%E7%90%83%E6%9C%80%E5%B0%8F%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9&Refer=top)
+
+1. [26款侵害用户权益行为APP](https://s.weibo.com//weibo?q=%2326%E6%AC%BE%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%E8%A1%8C%E4%B8%BAAPP%23&Refer=top)
+
+1. [四川汶川一村庄给村民分红260万](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%B1%B6%E5%B7%9D%E4%B8%80%E6%9D%91%E5%BA%84%E7%BB%99%E6%9D%91%E6%B0%91%E5%88%86%E7%BA%A2260%E4%B8%87&Refer=top)
+
+1. [江南百景图倭寇](https://s.weibo.com//weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE%E5%80%AD%E5%AF%87&Refer=top)
+
+1. [黑龙江新增3例确诊](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E5%A2%9E3%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [福奇警告变异新冠病毒可能在美国大流行](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%A5%87%E8%AD%A6%E5%91%8A%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%8F%AF%E8%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%B5%81%E8%A1%8C&Refer=top)
+
+1. [斗罗大陆](https://s.weibo.com//weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&Refer=top)
+
+1. [琉璃决定反击](https://s.weibo.com//weibo?q=%23%E7%90%89%E7%92%83%E5%86%B3%E5%AE%9A%E5%8F%8D%E5%87%BB%23&Refer=top)
+
+1. [多地加强个人住房信贷管理](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8A%A0%E5%BC%BA%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E4%BF%A1%E8%B4%B7%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [距过年还有5天](https://s.weibo.com//weibo?q=%23%E8%B7%9D%E8%BF%87%E5%B9%B4%E8%BF%98%E6%9C%895%E5%A4%A9%23&Refer=top)
+
+1. [中华白海豚现身广东阳江海域](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%8E%B0%E8%BA%AB%E5%B9%BF%E4%B8%9C%E9%98%B3%E6%B1%9F%E6%B5%B7%E5%9F%9F%23&Refer=top)
 
