@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-07 05:02:30
+## 微博今日热榜 更新于 2021-02-07 06:02:55
 1. [这是我的家乡](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%23&Refer=new_time)
 
 1. [鞠婧祎毛衣](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%AF%9B%E8%A1%A3%23&Refer=top)
