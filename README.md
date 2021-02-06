@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-06 13:02:43
+## 微博今日热榜 更新于 2021-02-06 14:03:08
 1. [我国成功发射通信技术试验卫星六号](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%85%AD%E5%8F%B7%23&Refer=new_time)
 
 1. [薛之谦悼念赵英俊](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%82%BC%E5%BF%B5%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
@@ -276,4 +276,26 @@
 1. [绕着中国天眼FAST跑完一圈需要多久](https://s.weibo.com//weibo?q=%23%E7%BB%95%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BCFAST%E8%B7%91%E5%AE%8C%E4%B8%80%E5%9C%88%E9%9C%80%E8%A6%81%E5%A4%9A%E4%B9%85%23&Refer=top)
 
 1. [丁程鑫把好运来唱成诗朗诵](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%8A%8A%E5%A5%BD%E8%BF%90%E6%9D%A5%E5%94%B1%E6%88%90%E8%AF%97%E6%9C%97%E8%AF%B5%23&Refer=top)
+
+1. [李文亮医生去世一周年](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%87%E4%BA%AE%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E4%B8%80%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [西藏冒险王同行者发声](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E5%86%92%E9%99%A9%E7%8E%8B%E5%90%8C%E8%A1%8C%E8%80%85%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [央视评少年不问白发只关热爱](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%B0%91%E5%B9%B4%E4%B8%8D%E9%97%AE%E7%99%BD%E5%8F%91%E5%8F%AA%E5%85%B3%E7%83%AD%E7%88%B1%23&Refer=top)
+
+1. [数据推算全球恢复到疫情前需7.4年](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E6%8E%A8%E7%AE%97%E5%85%A8%E7%90%83%E6%81%A2%E5%A4%8D%E5%88%B0%E7%96%AB%E6%83%85%E5%89%8D%E9%9C%807.4%E5%B9%B4%23&Refer=top)
+
+1. [王祖蓝帮老婆追星王力宏](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E5%B8%AE%E8%80%81%E5%A9%86%E8%BF%BD%E6%98%9F%E7%8E%8B%E5%8A%9B%E5%AE%8F%23&Refer=top)
+
+1. [杨洁篪同美国国务卿布林肯通电话](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B4%81%E7%AF%AA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%E9%80%9A%E7%94%B5%E8%AF%9D&Refer=top)
+
+1. [小朋友春晚后台追星王俊凯](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%98%A5%E6%99%9A%E5%90%8E%E5%8F%B0%E8%BF%BD%E6%98%9F%E7%8E%8B%E4%BF%8A%E5%87%AF%23&Refer=top)
+
+1. [山东鲁能更名山东泰山](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%B2%81%E8%83%BD%E6%9B%B4%E5%90%8D%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%23&Refer=top)
+
+1. [官方就慰问住别墅困难家庭致歉](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%B0%B1%E6%85%B0%E9%97%AE%E4%BD%8F%E5%88%AB%E5%A2%85%E5%9B%B0%E9%9A%BE%E5%AE%B6%E5%BA%AD%E8%87%B4%E6%AD%89&Refer=top)
+
+1. [苹果电动车生产商生变](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%9F%E4%BA%A7%E5%95%86%E7%94%9F%E5%8F%98&Refer=top)
+
+1. [一个人就地过年如何缓解孤独](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E5%AD%A4%E7%8B%AC%23&Refer=top)
 
