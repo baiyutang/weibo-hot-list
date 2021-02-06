@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-07 03:02:09
+## 微博今日热榜 更新于 2021-02-07 05:02:30
 1. [这是我的家乡](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%23&Refer=new_time)
 
 1. [鞠婧祎毛衣](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%AF%9B%E8%A1%A3%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [多地加强个人住房信贷管理](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8A%A0%E5%BC%BA%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E4%BF%A1%E8%B4%B7%E7%AE%A1%E7%90%86%23&Refer=new_time)
 
 1. [金牌喜剧班](https://s.weibo.com//weibo?q=%E9%87%91%E7%89%8C%E5%96%9C%E5%89%A7%E7%8F%AD&Refer=top)
+
+1. [过去一年都不容易](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E9%83%BD%E4%B8%8D%E5%AE%B9%E6%98%93%23&Refer=new_time)
+
+1. [跨境赌博首次入刑](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A%E9%A6%96%E6%AC%A1%E5%85%A5%E5%88%91%23&Refer=top)
 
