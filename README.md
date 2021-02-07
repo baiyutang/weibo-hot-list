@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-07 06:02:55
+## 微博今日热榜 更新于 2021-02-07 08:07:51
 1. [这是我的家乡](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%23&Refer=new_time)
 
 1. [鞠婧祎毛衣](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%AF%9B%E8%A1%A3%23&Refer=top)
@@ -126,4 +126,24 @@
 1. [过去一年都不容易](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E9%83%BD%E4%B8%8D%E5%AE%B9%E6%98%93%23&Refer=new_time)
 
 1. [跨境赌博首次入刑](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A%E9%A6%96%E6%AC%A1%E5%85%A5%E5%88%91%23&Refer=top)
+
+1. [台湾地震](https://s.weibo.com//weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [北京发放5万个数字人民币红包](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E6%94%BE5%E4%B8%87%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BA%A2%E5%8C%85%23&Refer=top)
+
+1. [贾玲回应胖了](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86%23&Refer=top)
+
+1. [斗罗大陆片头制作公司致歉](https://s.weibo.com//weibo?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E7%89%87%E5%A4%B4%E5%88%B6%E4%BD%9C%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [柯蓝发文退出我就是演员](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E8%93%9D%E5%8F%91%E6%96%87%E9%80%80%E5%87%BA%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [浙江通报春节返乡防疫政策层层加码问题](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E9%80%9A%E6%8A%A5%E6%98%A5%E8%8A%82%E8%BF%94%E4%B9%A1%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%E9%97%AE%E9%A2%98&Refer=top)
+
+1. [美国新冠肺炎超2687万例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852687%E4%B8%87%E4%BE%8B&Refer=top)
+
+1. [吴彤回复严浩翔高仿号](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%E5%9B%9E%E5%A4%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%E9%AB%98%E4%BB%BF%E5%8F%B7&Refer=top)
+
+1. [尤文战胜罗马](https://s.weibo.com//weibo?q=%E5%B0%A4%E6%96%87%E6%88%98%E8%83%9C%E7%BD%97%E9%A9%AC&Refer=top)
+
+1. [黑龙江昨日无新增病例](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%98%A8%E6%97%A5%E6%97%A0%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B&Refer=top)
 
