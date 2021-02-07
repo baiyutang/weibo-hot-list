@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-07 19:02:38
+## 微博今日热榜 更新于 2021-02-07 20:03:09
 1. [这是我的家乡](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%23&Refer=new_time)
 
 1. [鞠婧祎毛衣](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%AF%9B%E8%A1%A3%23&Refer=top)
@@ -362,4 +362,8 @@
 1. [青海省妇联回应马金瑜自述遭家暴](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E9%A9%AC%E9%87%91%E7%91%9C%E8%87%AA%E8%BF%B0%E9%81%AD%E5%AE%B6%E6%9A%B4%23&Refer=top)
 
 1. [食物语打电话](https://s.weibo.com//weibo?q=%E9%A3%9F%E7%89%A9%E8%AF%AD%E6%89%93%E7%94%B5%E8%AF%9D&Refer=top)
+
+1. [张碧晨点赞华晨宇生日微博](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%82%B9%E8%B5%9E%E5%8D%8E%E6%99%A8%E5%AE%87%E7%94%9F%E6%97%A5%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [糯米船](https://s.weibo.com//weibo?q=%23%E7%B3%AF%E7%B1%B3%E8%88%B9%23&Refer=top)
 
