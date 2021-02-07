@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 04:02:51
+## 微博今日热榜 更新于 2021-02-08 05:02:33
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -126,4 +126,8 @@
 1. [玉秀宋怀恩大婚](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%A7%80%E5%AE%8B%E6%80%80%E6%81%A9%E5%A4%A7%E5%A9%9A%23&Refer=top)
 
 1. [小孩子的压岁钱算谁的](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8E%8B%E5%B2%81%E9%92%B1%E7%AE%97%E8%B0%81%E7%9A%84%23&Refer=top)
+
+1. [章小鱼的底气在淮海路](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%B0%8F%E9%B1%BC%E7%9A%84%E5%BA%95%E6%B0%94%E5%9C%A8%E6%B7%AE%E6%B5%B7%E8%B7%AF%23&Refer=top)
+
+1. [Clubhouse](https://s.weibo.com//weibo?q=Clubhouse&Refer=top)
 
