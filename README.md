@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 00:04:04
+## 微博今日热榜 更新于 2021-02-08 01:16:25
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -102,4 +102,14 @@
 1. [余霜主持电竞春晚](https://s.weibo.com//weibo?q=%E4%BD%99%E9%9C%9C%E4%B8%BB%E6%8C%81%E7%94%B5%E7%AB%9E%E6%98%A5%E6%99%9A&Refer=top)
 
 1. [iG RNG](https://s.weibo.com//weibo?q=%23iG%20RNG%23&Refer=top)
+
+1. [首批10万剂国药疫苗抵达澳门](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%89%B910%E4%B8%87%E5%89%82%E5%9B%BD%E8%8D%AF%E7%96%AB%E8%8B%97%E6%8A%B5%E8%BE%BE%E6%BE%B3%E9%97%A8%23&Refer=new_time)
+
+1. [不想秒回微信有错吗](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%83%B3%E7%A7%92%E5%9B%9E%E5%BE%AE%E4%BF%A1%E6%9C%89%E9%94%99%E5%90%97%23&Refer=top)
+
+1. [R1SE唱跳玫瑰少年](https://s.weibo.com//weibo?q=%23R1SE%E5%94%B1%E8%B7%B3%E7%8E%AB%E7%91%B0%E5%B0%91%E5%B9%B4%23&Refer=top)
+
+1. [王者荣耀春节贺岁片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%98%A5%E8%8A%82%E8%B4%BA%E5%B2%81%E7%89%87%23&Refer=top)
+
+1. [新相亲大会](https://s.weibo.com//weibo?q=%E6%96%B0%E7%9B%B8%E4%BA%B2%E5%A4%A7%E4%BC%9A&Refer=top)
 
