@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 01:16:25
+## 微博今日热榜 更新于 2021-02-08 02:02:58
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -112,4 +112,8 @@
 1. [王者荣耀春节贺岁片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%98%A5%E8%8A%82%E8%B4%BA%E5%B2%81%E7%89%87%23&Refer=top)
 
 1. [新相亲大会](https://s.weibo.com//weibo?q=%E6%96%B0%E7%9B%B8%E4%BA%B2%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [年货防疫指南](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%B4%A7%E9%98%B2%E7%96%AB%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [马金瑜丈夫扎西回应家暴出轨](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%87%91%E7%91%9C%E4%B8%88%E5%A4%AB%E6%89%8E%E8%A5%BF%E5%9B%9E%E5%BA%94%E5%AE%B6%E6%9A%B4%E5%87%BA%E8%BD%A8%23&Refer=top)
 
