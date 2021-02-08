@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 15:02:49
+## 微博今日热榜 更新于 2021-02-08 16:03:23
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -344,4 +344,24 @@
 1. [诺安评论区有多好笑](https://s.weibo.com//weibo?q=%23%E8%AF%BA%E5%AE%89%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
 
 1. [90后段子手村官无人机喊话](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E6%AE%B5%E5%AD%90%E6%89%8B%E6%9D%91%E5%AE%98%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%96%8A%E8%AF%9D%23&Refer=top)
+
+1. [R1SE发布声明抵制私生](https://s.weibo.com//weibo?q=%23R1SE%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%E6%8A%B5%E5%88%B6%E7%A7%81%E7%94%9F%23&Refer=top)
+
+1. [错换人生28年案今日二审宣判](https://s.weibo.com//weibo?q=%23%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E6%A1%88%E4%BB%8A%E6%97%A5%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&Refer=top)
+
+1. [陈赫为邓超庆生](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%BA%E9%82%93%E8%B6%85%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [爸爸为10岁儿子买玩具拍连续剧](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%BA10%E5%B2%81%E5%84%BF%E5%AD%90%E4%B9%B0%E7%8E%A9%E5%85%B7%E6%8B%8D%E8%BF%9E%E7%BB%AD%E5%89%A7%23&Refer=top)
+
+1. [超级碗现场纸片观众每个100美元](https://s.weibo.com//weibo?q=%E8%B6%85%E7%BA%A7%E7%A2%97%E7%8E%B0%E5%9C%BA%E7%BA%B8%E7%89%87%E8%A7%82%E4%BC%97%E6%AF%8F%E4%B8%AA100%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [懒人开胃脆藕片](https://s.weibo.com//weibo?q=%E6%87%92%E4%BA%BA%E5%BC%80%E8%83%83%E8%84%86%E8%97%95%E7%89%87&Refer=top)
+
+1. [腾讯回应年终奖发价值超6万元股票](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%B9%B4%E7%BB%88%E5%A5%96%E5%8F%91%E4%BB%B7%E5%80%BC%E8%B6%856%E4%B8%87%E5%85%83%E8%82%A1%E7%A5%A8%23&Refer=top)
+
+1. [农科院和高校研发的美食](https://s.weibo.com//weibo?q=%23%E5%86%9C%E7%A7%91%E9%99%A2%E5%92%8C%E9%AB%98%E6%A0%A1%E7%A0%94%E5%8F%91%E7%9A%84%E7%BE%8E%E9%A3%9F%23&Refer=top)
+
+1. [妈妈坚持4年为孩子做诗词早餐](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%814%E5%B9%B4%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%81%9A%E8%AF%97%E8%AF%8D%E6%97%A9%E9%A4%90%23&Refer=top)
+
+1. [浙江省内一般人员返乡凭绿码自由流动](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9C%81%E5%86%85%E4%B8%80%E8%88%AC%E4%BA%BA%E5%91%98%E8%BF%94%E4%B9%A1%E5%87%AD%E7%BB%BF%E7%A0%81%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8%23&Refer=top)
 
