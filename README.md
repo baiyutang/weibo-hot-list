@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 14:03:13
+## 微博今日热榜 更新于 2021-02-08 15:02:49
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -316,4 +316,32 @@
 1. [徐连高铁开通运营](https://s.weibo.com//weibo?q=%E5%BE%90%E8%BF%9E%E9%AB%98%E9%93%81%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5&Refer=top)
 
 1. [耶鲁大学26岁华裔研究生遭枪杀](https://s.weibo.com//weibo?q=%23%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A626%E5%B2%81%E5%8D%8E%E8%A3%94%E7%A0%94%E7%A9%B6%E7%94%9F%E9%81%AD%E6%9E%AA%E6%9D%80%23&Refer=top)
+
+1. [孙俪庆与邓超领证11周年](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E5%BA%86%E4%B8%8E%E9%82%93%E8%B6%85%E9%A2%86%E8%AF%8111%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [累丑](https://s.weibo.com//weibo?q=%23%E7%B4%AF%E4%B8%91%23&Refer=top)
+
+1. [赵磊被私生按门铃](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%A3%8A%E8%A2%AB%E7%A7%81%E7%94%9F%E6%8C%89%E9%97%A8%E9%93%83%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [广东人无法读出来的名字](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%97%A0%E6%B3%95%E8%AF%BB%E5%87%BA%E6%9D%A5%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=top)
+
+1. [援鄂护士梁小霞获评定为烈士](https://s.weibo.com//weibo?q=%E6%8F%B4%E9%84%82%E6%8A%A4%E5%A3%AB%E6%A2%81%E5%B0%8F%E9%9C%9E%E8%8E%B7%E8%AF%84%E5%AE%9A%E4%B8%BA%E7%83%88%E5%A3%AB&Refer=top)
+
+1. [罗永浩吐槽Clubhouse](https://s.weibo.com//weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BDClubhouse&Refer=top)
+
+1. [小伙用中国风巧克力惊艳世界](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E7%94%A8%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&Refer=top)
+
+1. [秘鲁总统竖大拇指喜迎首批中国疫苗](https://s.weibo.com//weibo?q=%23%E7%A7%98%E9%B2%81%E6%80%BB%E7%BB%9F%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87%E5%96%9C%E8%BF%8E%E9%A6%96%E6%89%B9%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [猫和老鼠嗑到了](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E5%97%91%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [江南百景图](https://s.weibo.com//weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE&Refer=top)
+
+1. [蜂蜜爆浆芝士凹蛋糕](https://s.weibo.com//weibo?q=%23%E8%9C%82%E8%9C%9C%E7%88%86%E6%B5%86%E8%8A%9D%E5%A3%AB%E5%87%B9%E8%9B%8B%E7%B3%95%23&Refer=top)
+
+1. [诺安评论区有多好笑](https://s.weibo.com//weibo?q=%23%E8%AF%BA%E5%AE%89%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [90后段子手村官无人机喊话](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E6%AE%B5%E5%AD%90%E6%89%8B%E6%9D%91%E5%AE%98%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%96%8A%E8%AF%9D%23&Refer=top)
 
