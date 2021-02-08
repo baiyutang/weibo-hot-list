@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 10:08:23
+## 微博今日热榜 更新于 2021-02-08 11:02:49
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -212,4 +212,30 @@
 1. [唯品会回应被罚300万元](https://s.weibo.com//weibo?q=%E5%94%AF%E5%93%81%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A300%E4%B8%87%E5%85%83&Refer=top)
 
 1. [拼多多电视测评](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%94%B5%E8%A7%86%E6%B5%8B%E8%AF%84&Refer=top)
+
+1. [2021过年词典](https://s.weibo.com//weibo?q=%232021%E8%BF%87%E5%B9%B4%E8%AF%8D%E5%85%B8%23&Refer=new_time)
+
+1. [郝蕾方回应郭家铭](https://s.weibo.com//weibo?q=%E9%83%9D%E8%95%BE%E6%96%B9%E5%9B%9E%E5%BA%94%E9%83%AD%E5%AE%B6%E9%93%AD&Refer=top)
+
+1. [李晟敏称秘密拍婚纱照让他很辛苦](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%9F%E6%95%8F%E7%A7%B0%E7%A7%98%E5%AF%86%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E8%AE%A9%E4%BB%96%E5%BE%88%E8%BE%9B%E8%8B%A6%23&Refer=top)
+
+1. [宋茜古装](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%8F%A4%E8%A3%85%23&Refer=top)
+
+1. [假如还珠格格有英文版](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E6%9C%89%E8%8B%B1%E6%96%87%E7%89%88%23&Refer=top)
+
+1. [赵丽颖配音寻龙传说](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%85%8D%E9%9F%B3%E5%AF%BB%E9%BE%99%E4%BC%A0%E8%AF%B4%23&Refer=top)
+
+1. [拜登 今夏结束前群体免疫美国难实现](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%20%E4%BB%8A%E5%A4%8F%E7%BB%93%E6%9D%9F%E5%89%8D%E7%BE%A4%E4%BD%93%E5%85%8D%E7%96%AB%E7%BE%8E%E5%9B%BD%E9%9A%BE%E5%AE%9E%E7%8E%B0&Refer=top)
+
+1. [超级碗现场坐满纸片人](https://s.weibo.com//weibo?q=%23%E8%B6%85%E7%BA%A7%E7%A2%97%E7%8E%B0%E5%9C%BA%E5%9D%90%E6%BB%A1%E7%BA%B8%E7%89%87%E4%BA%BA%23&Refer=top)
+
+1. [网店售卖可定制生病视频](https://s.weibo.com//weibo?q=%E7%BD%91%E5%BA%97%E5%94%AE%E5%8D%96%E5%8F%AF%E5%AE%9A%E5%88%B6%E7%94%9F%E7%97%85%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [河南省考公告](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E5%85%AC%E5%91%8A&Refer=top)
+
+1. [甜茶出演小剪刀手爱德华](https://s.weibo.com//weibo?q=%23%E7%94%9C%E8%8C%B6%E5%87%BA%E6%BC%94%E5%B0%8F%E5%89%AA%E5%88%80%E6%89%8B%E7%88%B1%E5%BE%B7%E5%8D%8E%23&Refer=top)
 
