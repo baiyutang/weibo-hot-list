@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 16:03:23
+## 微博今日热榜 更新于 2021-02-08 17:03:28
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -364,4 +364,24 @@
 1. [妈妈坚持4年为孩子做诗词早餐](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%814%E5%B9%B4%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%81%9A%E8%AF%97%E8%AF%8D%E6%97%A9%E9%A4%90%23&Refer=top)
 
 1. [浙江省内一般人员返乡凭绿码自由流动](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9C%81%E5%86%85%E4%B8%80%E8%88%AC%E4%BA%BA%E5%91%98%E8%BF%94%E4%B9%A1%E5%87%AD%E7%BB%BF%E7%A0%81%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8%23&Refer=top)
+
+1. [拜登谈儿子吸毒史](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%88%E5%84%BF%E5%AD%90%E5%90%B8%E6%AF%92%E5%8F%B2%23&Refer=top)
+
+1. [男高中生在女厕安监控威胁女生](https://s.weibo.com//weibo?q=%23%E7%94%B7%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E5%A5%B3%E5%8E%95%E5%AE%89%E7%9B%91%E6%8E%A7%E5%A8%81%E8%83%81%E5%A5%B3%E7%94%9F%23&Refer=top)
+
+1. [上海交大3名本科生被勒令退学](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A73%E5%90%8D%E6%9C%AC%E7%A7%91%E7%94%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E9%80%80%E5%AD%A6&Refer=top)
+
+1. [跷二郎腿的后果](https://s.weibo.com//weibo?q=%23%E8%B7%B7%E4%BA%8C%E9%83%8E%E8%85%BF%E7%9A%84%E5%90%8E%E6%9E%9C%23&Refer=top)
+
+1. [李现将军造型](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%B0%86%E5%86%9B%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [丁真家书](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%AE%B6%E4%B9%A6%23&Refer=top)
+
+1. [唐三用昊天锤保护小舞](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B8%89%E7%94%A8%E6%98%8A%E5%A4%A9%E9%94%A4%E4%BF%9D%E6%8A%A4%E5%B0%8F%E8%88%9E%23&Refer=top)
+
+1. [肖战唐三打戏](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%94%90%E4%B8%89%E6%89%93%E6%88%8F%23&Refer=top)
+
+1. [深圳建立二手房成交参考价发布机制](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AB%8B%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%90%E4%BA%A4%E5%8F%82%E8%80%83%E4%BB%B7%E5%8F%91%E5%B8%83%E6%9C%BA%E5%88%B6&Refer=top)
+
+1. [火星为什么是红色的](https://s.weibo.com//weibo?q=%23%E7%81%AB%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BA%A2%E8%89%B2%E7%9A%84%23&Refer=top)
 
