@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 22:03:19
+## 微博今日热榜 更新于 2021-02-08 23:02:58
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -482,4 +482,18 @@
 1. [赵今麦胶片写真](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E8%83%B6%E7%89%87%E5%86%99%E7%9C%9F%23&Refer=top)
 
 1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [郑州茅台酒商签1499元承诺但拒售](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E8%8C%85%E5%8F%B0%E9%85%92%E5%95%86%E7%AD%BE1499%E5%85%83%E6%89%BF%E8%AF%BA%E4%BD%86%E6%8B%92%E5%94%AE%23&Refer=top)
+
+1. [我国科学家揭示阿尔茨海默症致病新机制](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8F%AD%E7%A4%BA%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%87%E8%87%B4%E7%97%85%E6%96%B0%E6%9C%BA%E5%88%B6&Refer=top)
+
+1. [内蒙古赤峰一批进口车厘子检测阳性](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E4%B8%80%E6%89%B9%E8%BF%9B%E5%8F%A3%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [关晓彤红衣挥鞭打戏](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%BA%A2%E8%A1%A3%E6%8C%A5%E9%9E%AD%E6%89%93%E6%88%8F%23&Refer=top)
+
+1. [仓库工人用牙刷写春联](https://s.weibo.com//weibo?q=%23%E4%BB%93%E5%BA%93%E5%B7%A5%E4%BA%BA%E7%94%A8%E7%89%99%E5%88%B7%E5%86%99%E6%98%A5%E8%81%94%23&Refer=top)
+
+1. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [美超级碗或变超级传播事件](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%B6%85%E7%BA%A7%E7%A2%97%E6%88%96%E5%8F%98%E8%B6%85%E7%BA%A7%E4%BC%A0%E6%92%AD%E4%BA%8B%E4%BB%B6&Refer=top)
 
