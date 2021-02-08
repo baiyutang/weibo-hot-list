@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-09 01:16:55
+## 微博今日热榜 更新于 2021-02-09 02:03:13
 1. [警方教你春节防诈骗](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%95%99%E4%BD%A0%E6%98%A5%E8%8A%82%E9%98%B2%E8%AF%88%E9%AA%97%23&Refer=new_time)
 
 1. [刘涛晒给老公王珂剃头照](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%99%92%E7%BB%99%E8%80%81%E5%85%AC%E7%8E%8B%E7%8F%82%E5%89%83%E5%A4%B4%E7%85%A7%23&Refer=top)
@@ -102,4 +102,8 @@
 1. [马金瑜再发声](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%87%91%E7%91%9C%E5%86%8D%E5%8F%91%E5%A3%B0%23&Refer=top)
 
 1. [仓库工人用牙刷写春联](https://s.weibo.com//weibo?q=%23%E4%BB%93%E5%BA%93%E5%B7%A5%E4%BA%BA%E7%94%A8%E7%89%99%E5%88%B7%E5%86%99%E6%98%A5%E8%81%94%23&Refer=top)
+
+1. [中方向53个发展中国家援助疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%9153%E4%B8%AA%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E6%8F%B4%E5%8A%A9%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [西安78岁奶奶街头给游客画扇面](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%8978%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%A1%97%E5%A4%B4%E7%BB%99%E6%B8%B8%E5%AE%A2%E7%94%BB%E6%89%87%E9%9D%A2&Refer=top)
 
