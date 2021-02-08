@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 11:02:49
+## 微博今日热榜 更新于 2021-02-08 12:03:13
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -238,4 +238,22 @@
 1. [河南省考公告](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E5%85%AC%E5%91%8A&Refer=top)
 
 1. [甜茶出演小剪刀手爱德华](https://s.weibo.com//weibo?q=%23%E7%94%9C%E8%8C%B6%E5%87%BA%E6%BC%94%E5%B0%8F%E5%89%AA%E5%88%80%E6%89%8B%E7%88%B1%E5%BE%B7%E5%8D%8E%23&Refer=top)
+
+1. [华为开除五名造谣传谣员工](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%BC%80%E9%99%A4%E4%BA%94%E5%90%8D%E9%80%A0%E8%B0%A3%E4%BC%A0%E8%B0%A3%E5%91%98%E5%B7%A5%23&Refer=top)
+
+1. [拜登再谈中美关系](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E5%86%8D%E8%B0%88%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&Refer=top)
+
+1. [PS5](https://s.weibo.com//weibo?q=PS5&Refer=top)
+
+1. [随母姓与随父姓的比例](https://s.weibo.com//weibo?q=%E9%9A%8F%E6%AF%8D%E5%A7%93%E4%B8%8E%E9%9A%8F%E7%88%B6%E5%A7%93%E7%9A%84%E6%AF%94%E4%BE%8B&Refer=top)
+
+1. [福萝卜面](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E8%90%9D%E5%8D%9C%E9%9D%A2%23&Refer=top)
+
+1. [印度人仍追捧中国手机](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E4%BB%8D%E8%BF%BD%E6%8D%A7%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA&Refer=top)
+
+1. [布雷迪七冠王](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E4%B8%83%E5%86%A0%E7%8E%8B%23&Refer=top)
+
+1. [吴敏霞说金牌太多放不下](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%95%8F%E9%9C%9E%E8%AF%B4%E9%87%91%E7%89%8C%E5%A4%AA%E5%A4%9A%E6%94%BE%E4%B8%8D%E4%B8%8B%23&Refer=top)
+
+1. [跑调但可爱至极的歌](https://s.weibo.com//weibo?q=%23%E8%B7%91%E8%B0%83%E4%BD%86%E5%8F%AF%E7%88%B1%E8%87%B3%E6%9E%81%E7%9A%84%E6%AD%8C%23&Refer=top)
 
