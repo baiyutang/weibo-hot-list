@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 08:12:06
+## 微博今日热榜 更新于 2021-02-08 09:27:14
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -168,4 +168,24 @@
 1. [阿利松两次失误](https://s.weibo.com//weibo?q=%E9%98%BF%E5%88%A9%E6%9D%BE%E4%B8%A4%E6%AC%A1%E5%A4%B1%E8%AF%AF&Refer=top)
 
 1. [伊布梅开二度](https://s.weibo.com//weibo?q=%E4%BC%8A%E5%B8%83%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [蔡卓宜 我离得很干净](https://s.weibo.com//weibo?q=%E8%94%A1%E5%8D%93%E5%AE%9C%20%E6%88%91%E7%A6%BB%E5%BE%97%E5%BE%88%E5%B9%B2%E5%87%80&Refer=top)
+
+1. [美籍记者和日本导演眼中的中国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E7%B1%8D%E8%AE%B0%E8%80%85%E5%92%8C%E6%97%A5%E6%9C%AC%E5%AF%BC%E6%BC%94%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [小沐沐和汪涵相似度](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%B2%90%E6%B2%90%E5%92%8C%E6%B1%AA%E6%B6%B5%E7%9B%B8%E4%BC%BC%E5%BA%A6&Refer=top)
+
+1. [坦桑尼亚出现不明疾病](https://s.weibo.com//weibo?q=%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%96%BE%E7%97%85&Refer=top)
+
+1. [微信红包封面](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2&Refer=top)
+
+1. [罗斯被交易至尼克斯](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%96%AF%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%B0%BC%E5%85%8B%E6%96%AF%23&Refer=top)
+
+1. [霸王别姬皮肤返场](https://s.weibo.com//weibo?q=%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%E7%9A%AE%E8%82%A4%E8%BF%94%E5%9C%BA&Refer=top)
+
+1. [北京餐企餐具开始换新装](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%A4%90%E4%BC%81%E9%A4%90%E5%85%B7%E5%BC%80%E5%A7%8B%E6%8D%A2%E6%96%B0%E8%A3%85%23&Refer=top)
+
+1. [金晶科技](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%B6%E7%A7%91%E6%8A%80&Refer=top)
+
+1. [唯品会被罚300万元](https://s.weibo.com//weibo?q=%E5%94%AF%E5%93%81%E4%BC%9A%E8%A2%AB%E7%BD%9A300%E4%B8%87%E5%85%83&Refer=top)
 
