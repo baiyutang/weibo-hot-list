@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-09 06:02:46
+## 微博今日热榜 更新于 2021-02-09 07:02:44
 1. [警方教你春节防诈骗](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%95%99%E4%BD%A0%E6%98%A5%E8%8A%82%E9%98%B2%E8%AF%88%E9%AA%97%23&Refer=new_time)
 
 1. [刘涛晒给老公王珂剃头照](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%99%92%E7%BB%99%E8%80%81%E5%85%AC%E7%8E%8B%E7%8F%82%E5%89%83%E5%A4%B4%E7%85%A7%23&Refer=top)
