@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-08 21:03:30
+## 微博今日热榜 更新于 2021-02-08 22:03:19
 1. [如何有效制止餐饮浪费](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%88%B6%E6%AD%A2%E9%A4%90%E9%A5%AE%E6%B5%AA%E8%B4%B9%23&Refer=new_time)
 
 1. [金晨求网友删博](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%B1%82%E7%BD%91%E5%8F%8B%E5%88%A0%E5%8D%9A%23&Refer=top)
@@ -470,4 +470,16 @@
 1. [新春无油酥炸巴沙鱼柳](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%98%A5%E6%97%A0%E6%B2%B9%E9%85%A5%E7%82%B8%E5%B7%B4%E6%B2%99%E9%B1%BC%E6%9F%B3%23&Refer=top)
 
 1. [江西赣州一货车撞小轿车致6人死亡](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%A5%BF%E8%B5%A3%E5%B7%9E%E4%B8%80%E8%B4%A7%E8%BD%A6%E6%92%9E%E5%B0%8F%E8%BD%BF%E8%BD%A6%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [中方向53个发展中国家援助疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%9153%E4%B8%AA%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E6%8F%B4%E5%8A%A9%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [中国首个量子计算机操作系统发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [比特币](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top)
+
+1. [孟鹤堂直播](https://s.weibo.com//weibo?q=%E5%AD%9F%E9%B9%A4%E5%A0%82%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [赵今麦胶片写真](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E8%83%B6%E7%89%87%E5%86%99%E7%9C%9F%23&Refer=top)
+
+1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
 
