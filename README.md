@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-09 02:03:13
+## 微博今日热榜 更新于 2021-02-09 03:02:09
 1. [警方教你春节防诈骗](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%95%99%E4%BD%A0%E6%98%A5%E8%8A%82%E9%98%B2%E8%AF%88%E9%AA%97%23&Refer=new_time)
 
 1. [刘涛晒给老公王珂剃头照](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%99%92%E7%BB%99%E8%80%81%E5%85%AC%E7%8E%8B%E7%8F%82%E5%89%83%E5%A4%B4%E7%85%A7%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [中方向53个发展中国家援助疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%9153%E4%B8%AA%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E6%8F%B4%E5%8A%A9%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [西安78岁奶奶街头给游客画扇面](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%8978%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%A1%97%E5%A4%B4%E7%BB%99%E6%B8%B8%E5%AE%A2%E7%94%BB%E6%89%87%E9%9D%A2&Refer=top)
+
+1. [八纵八横高铁网最长一横全线要通啦](https://s.weibo.com//weibo?q=%23%E5%85%AB%E7%BA%B5%E5%85%AB%E6%A8%AA%E9%AB%98%E9%93%81%E7%BD%91%E6%9C%80%E9%95%BF%E4%B8%80%E6%A8%AA%E5%85%A8%E7%BA%BF%E8%A6%81%E9%80%9A%E5%95%A6%23&Refer=new_time)
+
+1. [日本银行存款飙升至7.6万亿美元](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E9%A3%99%E5%8D%87%E8%87%B37.6%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [司机车窗抛物分神开车撞进桥缝](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E8%BD%A6%E7%AA%97%E6%8A%9B%E7%89%A9%E5%88%86%E7%A5%9E%E5%BC%80%E8%BD%A6%E6%92%9E%E8%BF%9B%E6%A1%A5%E7%BC%9D%23&Refer=top)
+
+1. [中国首个量子计算机操作系统发布](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [累丑](https://s.weibo.com//weibo?q=%E7%B4%AF%E4%B8%91&Refer=top)
 
