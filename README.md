@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-10 04:02:57
+## 微博今日热榜 更新于 2021-02-10 05:02:37
 1. [春节前52颗北斗卫星完成体检](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D52%E9%A2%97%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AE%8C%E6%88%90%E4%BD%93%E6%A3%80%23&Refer=new_time)
 
 1. [蝙蝠所携病毒并非新冠病毒直接祖先](https://s.weibo.com//weibo?q=%23%E8%9D%99%E8%9D%A0%E6%89%80%E6%90%BA%E7%97%85%E6%AF%92%E5%B9%B6%E9%9D%9E%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%9B%B4%E6%8E%A5%E7%A5%96%E5%85%88%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [央视春晚最后一次大联排](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%A7%E8%81%94%E6%8E%92%23&Refer=top)
 
 1. [安徽春晚](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E6%98%A5%E6%99%9A&Refer=top)
+
+1. [疫情期间采购年货应该注意什么](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E9%87%87%E8%B4%AD%E5%B9%B4%E8%B4%A7%E5%BA%94%E8%AF%A5%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=new_time)
 
