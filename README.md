@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-09 14:04:27
+## 微博今日热榜 更新于 2021-02-09 15:02:36
 1. [警方教你春节防诈骗](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%95%99%E4%BD%A0%E6%98%A5%E8%8A%82%E9%98%B2%E8%AF%88%E9%AA%97%23&Refer=new_time)
 
 1. [刘涛晒给老公王珂剃头照](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%99%92%E7%BB%99%E8%80%81%E5%85%AC%E7%8E%8B%E7%8F%82%E5%89%83%E5%A4%B4%E7%85%A7%23&Refer=top)
@@ -304,4 +304,28 @@
 1. [2021年春节天气预报](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%98%A5%E8%8A%82%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%23&Refer=top)
 
 1. [中国商业经济学会回应下架嘉宝米粉](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%95%86%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BC%9A%E5%9B%9E%E5%BA%94%E4%B8%8B%E6%9E%B6%E5%98%89%E5%AE%9D%E7%B1%B3%E7%B2%89%23&Refer=top)
+
+1. [张文宏称去年防同事今年防自己](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E5%8E%BB%E5%B9%B4%E9%98%B2%E5%90%8C%E4%BA%8B%E4%BB%8A%E5%B9%B4%E9%98%B2%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [语文水平退化的日常表现](https://s.weibo.com//weibo?q=%23%E8%AF%AD%E6%96%87%E6%B0%B4%E5%B9%B3%E9%80%80%E5%8C%96%E7%9A%84%E6%97%A5%E5%B8%B8%E8%A1%A8%E7%8E%B0%23&Refer=top)
+
+1. [武契奇再提对中国绝不吝惜感谢](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%86%8D%E6%8F%90%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BB%9D%E4%B8%8D%E5%90%9D%E6%83%9C%E6%84%9F%E8%B0%A2%23&Refer=top)
+
+1. [澳门特首贺一诚接种新冠疫苗](https://s.weibo.com//weibo?q=%E6%BE%B3%E9%97%A8%E7%89%B9%E9%A6%96%E8%B4%BA%E4%B8%80%E8%AF%9A%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [哈尔滨居民家自来水黑如墨](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B1%85%E6%B0%91%E5%AE%B6%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%BB%91%E5%A6%82%E5%A2%A8&Refer=top)
+
+1. [刘德华宋小宝合唱天意](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%AE%8B%E5%B0%8F%E5%AE%9D%E5%90%88%E5%94%B1%E5%A4%A9%E6%84%8F%23&Refer=top)
+
+1. [看电影拍照发朋友圈算盗摄吗](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E7%94%B5%E5%BD%B1%E6%8B%8D%E7%85%A7%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AE%97%E7%9B%97%E6%91%84%E5%90%97%23&Refer=top)
+
+1. [牛年榴莲牛奶牛腩煲](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%B9%B4%E6%A6%B4%E8%8E%B2%E7%89%9B%E5%A5%B6%E7%89%9B%E8%85%A9%E7%85%B2%23&Refer=top)
+
+1. [许诺可思议奶油吻](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E8%AF%BA%E5%8F%AF%E6%80%9D%E8%AE%AE%E5%A5%B6%E6%B2%B9%E5%90%BB%23&Refer=top)
+
+1. [新年蜜豆年糕酥](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E8%9C%9C%E8%B1%86%E5%B9%B4%E7%B3%95%E9%85%A5%23&Refer=top)
+
+1. [哈士奇能有什么坏心思呢](https://s.weibo.com//weibo?q=%E5%93%88%E5%A3%AB%E5%A5%87%E8%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%9D%8F%E5%BF%83%E6%80%9D%E5%91%A2&Refer=top)
+
+1. [中国如何走出低生育率陷阱](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%B5%B0%E5%87%BA%E4%BD%8E%E7%94%9F%E8%82%B2%E7%8E%87%E9%99%B7%E9%98%B1%23&Refer=top)
 
