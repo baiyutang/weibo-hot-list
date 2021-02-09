@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-09 16:03:12
+## 微博今日热榜 更新于 2021-02-09 17:02:52
 1. [警方教你春节防诈骗](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%95%99%E4%BD%A0%E6%98%A5%E8%8A%82%E9%98%B2%E8%AF%88%E9%AA%97%23&Refer=new_time)
 
 1. [刘涛晒给老公王珂剃头照](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%99%92%E7%BB%99%E8%80%81%E5%85%AC%E7%8E%8B%E7%8F%82%E5%89%83%E5%A4%B4%E7%85%A7%23&Refer=top)
@@ -350,4 +350,30 @@
 1. [开运爆汁酸辣粉](https://s.weibo.com//weibo?q=%23%E5%BC%80%E8%BF%90%E7%88%86%E6%B1%81%E9%85%B8%E8%BE%A3%E7%B2%89%23&Refer=top)
 
 1. [鼓励实行中西医同病同效同价](https://s.weibo.com//weibo?q=%23%E9%BC%93%E5%8A%B1%E5%AE%9E%E8%A1%8C%E4%B8%AD%E8%A5%BF%E5%8C%BB%E5%90%8C%E7%97%85%E5%90%8C%E6%95%88%E5%90%8C%E4%BB%B7%23&Refer=top)
+
+1. [疫情期间采购年货应该注意什么](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E9%87%87%E8%B4%AD%E5%B9%B4%E8%B4%A7%E5%BA%94%E8%AF%A5%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=new_time)
+
+1. [杨幂说最想在春晚看到一线医护故事](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E6%9C%80%E6%83%B3%E5%9C%A8%E6%98%A5%E6%99%9A%E7%9C%8B%E5%88%B0%E4%B8%80%E7%BA%BF%E5%8C%BB%E6%8A%A4%E6%95%85%E4%BA%8B%23&Refer=top)
+
+1. [土耳其发现神秘金属巨石](https://s.weibo.com//weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E7%8E%B0%E7%A5%9E%E7%A7%98%E9%87%91%E5%B1%9E%E5%B7%A8%E7%9F%B3%23&Refer=top)
+
+1. [李现时代少年团五连拍](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%BA%94%E8%BF%9E%E6%8B%8D%23&Refer=top)
+
+1. [李宇春说PD是炮弹](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%AF%B4PD%E6%98%AF%E7%82%AE%E5%BC%B9%23&Refer=top)
+
+1. [腾讯回应博泰五菱举报](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%8D%9A%E6%B3%B0%E4%BA%94%E8%8F%B1%E4%B8%BE%E6%8A%A5%23&Refer=top)
+
+1. [新版重疾险上架咨询量猛增](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%89%88%E9%87%8D%E7%96%BE%E9%99%A9%E4%B8%8A%E6%9E%B6%E5%92%A8%E8%AF%A2%E9%87%8F%E7%8C%9B%E5%A2%9E%23&Refer=top)
+
+1. [春晚宋朝就有了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%99%9A%E5%AE%8B%E6%9C%9D%E5%B0%B1%E6%9C%89%E4%BA%86%23&Refer=top)
+
+1. [韩剧里的打入冷宫](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%89%A7%E9%87%8C%E7%9A%84%E6%89%93%E5%85%A5%E5%86%B7%E5%AE%AB&Refer=top)
+
+1. [陈坤周迅时尚COSMO同款造型](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%9D%A4%E5%91%A8%E8%BF%85%E6%97%B6%E5%B0%9ACOSMO%E5%90%8C%E6%AC%BE%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [女明星同款复古妆](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E5%90%8C%E6%AC%BE%E5%A4%8D%E5%8F%A4%E5%A6%86%23&Refer=top)
+
+1. [最终幻想14](https://s.weibo.com//weibo?q=%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B314&Refer=top)
+
+1. [情人节A爆男友妆](https://s.weibo.com//weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82A%E7%88%86%E7%94%B7%E5%8F%8B%E5%A6%86%23&Refer=top)
 
