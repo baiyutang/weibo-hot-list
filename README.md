@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-10 02:03:08
+## 微博今日热榜 更新于 2021-02-10 03:02:13
 1. [春节前52颗北斗卫星完成体检](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D52%E9%A2%97%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E5%AE%8C%E6%88%90%E4%BD%93%E6%A3%80%23&Refer=new_time)
 
 1. [蝙蝠所携病毒并非新冠病毒直接祖先](https://s.weibo.com//weibo?q=%23%E8%9D%99%E8%9D%A0%E6%89%80%E6%90%BA%E7%97%85%E6%AF%92%E5%B9%B6%E9%9D%9E%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%9B%B4%E6%8E%A5%E7%A5%96%E5%85%88%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [汪文斌拜托在外同胞加强自身防护](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E6%8B%9C%E6%89%98%E5%9C%A8%E5%A4%96%E5%90%8C%E8%83%9E%E5%8A%A0%E5%BC%BA%E8%87%AA%E8%BA%AB%E9%98%B2%E6%8A%A4%23&Refer=top)
 
 1. [宁王马老师神默契](https://s.weibo.com//weibo?q=%23%E5%AE%81%E7%8E%8B%E9%A9%AC%E8%80%81%E5%B8%88%E7%A5%9E%E9%BB%98%E5%A5%91%23&Refer=top)
+
+1. [王源清唱骄傲](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%B8%85%E5%94%B1%E9%AA%84%E5%82%B2%23&Refer=top)
 
