@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-09 21:03:17
+## 微博今日热榜 更新于 2021-02-09 22:02:48
 1. [警方教你春节防诈骗](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%95%99%E4%BD%A0%E6%98%A5%E8%8A%82%E9%98%B2%E8%AF%88%E9%AA%97%23&Refer=new_time)
 
 1. [刘涛晒给老公王珂剃头照](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%99%92%E7%BB%99%E8%80%81%E5%85%AC%E7%8E%8B%E7%8F%82%E5%89%83%E5%A4%B4%E7%85%A7%23&Refer=top)
@@ -466,4 +466,20 @@
 1. [比特币突破48000美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B448000%E7%BE%8E%E5%85%83&Refer=top)
 
 1. [王一博剧透春晚节目新颖之处](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%89%A7%E9%80%8F%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E6%96%B0%E9%A2%96%E4%B9%8B%E5%A4%84%23&Refer=top)
+
+1. [小苹果醒醒弹钢琴为章子怡庆生](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%86%92%E9%86%92%E5%BC%B9%E9%92%A2%E7%90%B4%E4%B8%BA%E7%AB%A0%E5%AD%90%E6%80%A1%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [官方发布马金瑜相关情况通报](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E9%A9%AC%E9%87%91%E7%91%9C%E7%9B%B8%E5%85%B3%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&Refer=top)
+
+1. [低风险地市要全面取消交通限制措施](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%B8%82%E8%A6%81%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E4%BA%A4%E9%80%9A%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD%23&Refer=top)
+
+1. [男子将核酸报告改为阳性被行拘](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%B0%86%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%91%8A%E6%94%B9%E4%B8%BA%E9%98%B3%E6%80%A7%E8%A2%AB%E8%A1%8C%E6%8B%98&Refer=top)
+
+1. [看晚会时最尴尬的时刻](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E6%99%9A%E4%BC%9A%E6%97%B6%E6%9C%80%E5%B0%B4%E5%B0%AC%E7%9A%84%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [汪文斌拜托在外同胞加强自身防护](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E6%8B%9C%E6%89%98%E5%9C%A8%E5%A4%96%E5%90%8C%E8%83%9E%E5%8A%A0%E5%BC%BA%E8%87%AA%E8%BA%AB%E9%98%B2%E6%8A%A4%23&Refer=top)
+
+1. [正青春](https://s.weibo.com//weibo?q=%E6%AD%A3%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [央视新剧阵容](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E6%96%B0%E5%89%A7%E9%98%B5%E5%AE%B9&Refer=top)
 
