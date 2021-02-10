@@ -93,11 +93,13 @@ func updateReadme() bool {
 func main() {
 	resp, err := http.Get(WEIBO_SUMMARY)
 	if err != nil {
+		fmt.Printf("请求发生错误：%v", err)
 		os.Exit(1)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != 200 {
+		fmt.Printf("响应错误：%d", resp.StatusCode)
 		os.Exit(2)
 	}
 	scanner := bufio.NewScanner(resp.Body)
