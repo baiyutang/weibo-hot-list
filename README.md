@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-11 01:16:58
+## 微博今日热榜 更新于 2021-02-11 02:02:57
 1. [中国驻外使馆已发出数十万份春节包](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A4%96%E4%BD%BF%E9%A6%86%E5%B7%B2%E5%8F%91%E5%87%BA%E6%95%B0%E5%8D%81%E4%B8%87%E4%BB%BD%E6%98%A5%E8%8A%82%E5%8C%85%23&Refer=new_time)
 
 1. [虞书欣魔术穿帮](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%AD%94%E6%9C%AF%E7%A9%BF%E5%B8%AE%23&Refer=top)
@@ -114,4 +114,12 @@
 1. [裴行俭我不是男人](https://s.weibo.com//weibo?q=%23%E8%A3%B4%E8%A1%8C%E4%BF%AD%E6%88%91%E4%B8%8D%E6%98%AF%E7%94%B7%E4%BA%BA%23&Refer=top)
 
 1. [东方卫视新春潮乐会](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E6%96%B0%E6%98%A5%E6%BD%AE%E4%B9%90%E4%BC%9A%23&Refer=top)
+
+1. [丁真等91件商标注册申请被驳回](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E7%AD%8991%E4%BB%B6%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%E7%94%B3%E8%AF%B7%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [喜剧春晚主持人飞起来了](https://s.weibo.com//weibo?q=%E5%96%9C%E5%89%A7%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [陈玺达回应偷鞋事件](https://s.weibo.com//weibo?q=%E9%99%88%E7%8E%BA%E8%BE%BE%E5%9B%9E%E5%BA%94%E5%81%B7%E9%9E%8B%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [明天除夕](https://s.weibo.com//weibo?q=%23%E6%98%8E%E5%A4%A9%E9%99%A4%E5%A4%95%23&Refer=top)
 
