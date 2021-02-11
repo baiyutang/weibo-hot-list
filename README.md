@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-12 06:03:00
+## 微博今日热榜 更新于 2021-02-12 07:02:58
 1. [过年不回家](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [张小斐毛衣](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%AF%9B%E8%A1%A3%23&Refer=top)
