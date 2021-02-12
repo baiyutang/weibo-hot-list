@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-12 09:27:32
+## 微博今日热榜 更新于 2021-02-12 10:08:21
 1. [过年不回家](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [张小斐毛衣](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%AF%9B%E8%A1%A3%23&Refer=top)
@@ -230,4 +230,24 @@
 1. [刺杀小说家](https://s.weibo.com//weibo?q=%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6&Refer=top)
 
 1. [美国得州发生多车连环相撞事故](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E5%8F%91%E7%94%9F%E5%A4%9A%E8%BD%A6%E8%BF%9E%E7%8E%AF%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [陪你过年](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BD%A0%E8%BF%87%E5%B9%B4%23&Refer=new_time)
+
+1. [贾玲又没见到刘德华](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%E5%8F%88%E6%B2%A1%E8%A7%81%E5%88%B0%E5%88%98%E5%BE%B7%E5%8D%8E&Refer=top)
+
+1. [武契奇读诗送给中国朋友](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%BB%E8%AF%97%E9%80%81%E7%BB%99%E4%B8%AD%E5%9B%BD%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [易烊千玺也别想知道我收入](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B9%9F%E5%88%AB%E6%83%B3%E7%9F%A5%E9%81%93%E6%88%91%E6%94%B6%E5%85%A5%23&Refer=top)
+
+1. [詹姆斯NBA全明星第二阶段票王](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AFNBA%E5%85%A8%E6%98%8E%E6%98%9F%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%E7%A5%A8%E7%8E%8B&Refer=top)
+
+1. [张艺兴问五月天喜欢他哪首歌](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%97%AE%E4%BA%94%E6%9C%88%E5%A4%A9%E5%96%9C%E6%AC%A2%E4%BB%96%E5%93%AA%E9%A6%96%E6%AD%8C%23&Refer=top)
+
+1. [丹京受怕](https://s.weibo.com//weibo?q=%E4%B8%B9%E4%BA%AC%E5%8F%97%E6%80%95&Refer=top)
+
+1. [汤圆](https://s.weibo.com//weibo?q=%E6%B1%A4%E5%9C%86&Refer=top)
+
+1. [你好李焕英](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1&Refer=top)
+
+1. [1949年成立的新中国是属牛的](https://s.weibo.com//weibo?q=%231949%E5%B9%B4%E6%88%90%E7%AB%8B%E7%9A%84%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%B1%9E%E7%89%9B%E7%9A%84%23&Refer=top)
 
