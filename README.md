@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-12 16:03:28
+## 微博今日热榜 更新于 2021-02-12 17:02:44
 1. [过年不回家](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [张小斐毛衣](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%AF%9B%E8%A1%A3%23&Refer=top)
@@ -386,4 +386,24 @@
 1. [张文宏锅贴法包饺子](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E9%94%85%E8%B4%B4%E6%B3%95%E5%8C%85%E9%A5%BA%E5%AD%90%23&Refer=top)
 
 1. [31省份1月CPI出炉](https://s.weibo.com//weibo?q=31%E7%9C%81%E4%BB%BD1%E6%9C%88CPI%E5%87%BA%E7%82%89&Refer=top)
+
+1. [张柏芝两次选那英被拒绝](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E4%B8%A4%E6%AC%A1%E9%80%89%E9%82%A3%E8%8B%B1%E8%A2%AB%E6%8B%92%E7%BB%9D&Refer=top)
+
+1. [华为将在英国把汇丰告上法庭](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%9C%A8%E8%8B%B1%E5%9B%BD%E6%8A%8A%E6%B1%87%E4%B8%B0%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD%23&Refer=top)
+
+1. [河南春晚的太极表演](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%98%A5%E6%99%9A%E7%9A%84%E5%A4%AA%E6%9E%81%E8%A1%A8%E6%BC%94%23&Refer=top)
+
+1. [周笔畅吉克隽逸的友谊](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E7%9A%84%E5%8F%8B%E8%B0%8A%23&Refer=top)
+
+1. [王源 墙皆是门](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BA%90%20%E5%A2%99%E7%9A%86%E6%98%AF%E9%97%A8&Refer=top)
+
+1. [那英哭了](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [陈薇院士拜年](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%96%87%E9%99%A2%E5%A3%AB%E6%8B%9C%E5%B9%B4%23&Refer=top)
+
+1. [王一博新春梦幻大片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E6%98%A5%E6%A2%A6%E5%B9%BB%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [发财日记](https://s.weibo.com//weibo?q=%E5%8F%91%E8%B4%A2%E6%97%A5%E8%AE%B0&Refer=top)
+
+1. [校长回应成绩单上有大量广告](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E6%88%90%E7%BB%A9%E5%8D%95%E4%B8%8A%E6%9C%89%E5%A4%A7%E9%87%8F%E5%B9%BF%E5%91%8A%23&Refer=top)
 
