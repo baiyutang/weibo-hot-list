@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-13 06:02:45
+## 微博今日热榜 更新于 2021-02-13 07:02:45
 1. [2021版一封家书](https://s.weibo.com//weibo?q=%232021%E7%89%88%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&Refer=new_time)
 
 1. [武林外传原班人马 爷青回](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%20%E7%88%B7%E9%9D%92%E5%9B%9E&Refer=top)
@@ -132,4 +132,8 @@
 1. [哪吒重生](https://s.weibo.com//weibo?q=%E5%93%AA%E5%90%92%E9%87%8D%E7%94%9F&Refer=top)
 
 1. [兵哥哥的新春Vlog](https://s.weibo.com//weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E7%9A%84%E6%96%B0%E6%98%A5Vlog%23&Refer=top)
+
+1. [晒晒新年第一缕阳光](https://s.weibo.com//weibo?q=%23%E6%99%92%E6%99%92%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%BC%95%E9%98%B3%E5%85%89%23&Refer=new_time)
+
+1. [金玉滚滚酸奶南瓜羹](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%8E%89%E6%BB%9A%E6%BB%9A%E9%85%B8%E5%A5%B6%E5%8D%97%E7%93%9C%E7%BE%B9%23&Refer=top)
 
