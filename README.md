@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-12 11:02:51
+## 微博今日热榜 更新于 2021-02-12 12:03:34
 1. [过年不回家](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [张小斐毛衣](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%AF%9B%E8%A1%A3%23&Refer=top)
@@ -270,4 +270,28 @@
 1. [江苏锦鲤拒领百万年货大奖](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E9%94%A6%E9%B2%A4%E6%8B%92%E9%A2%86%E7%99%BE%E4%B8%87%E5%B9%B4%E8%B4%A7%E5%A4%A7%E5%A5%96&Refer=top)
 
 1. [暗恋橘生淮南](https://s.weibo.com//weibo?q=%E6%9A%97%E6%81%8B%E6%A9%98%E7%94%9F%E6%B7%AE%E5%8D%97&Refer=top)
+
+1. [张雨绮名字终于读对了](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%90%8D%E5%AD%97%E7%BB%88%E4%BA%8E%E8%AF%BB%E5%AF%B9%E4%BA%86&Refer=top)
+
+1. [金晨好有精气神](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E5%A5%BD%E6%9C%89%E7%B2%BE%E6%B0%94%E7%A5%9E%23&Refer=top)
+
+1. [黄子韬的第四个节目](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E7%AC%AC%E5%9B%9B%E4%B8%AA%E8%8A%82%E7%9B%AE%23&Refer=top)
+
+1. [重庆推出一人火锅年夜饭](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%8E%A8%E5%87%BA%E4%B8%80%E4%BA%BA%E7%81%AB%E9%94%85%E5%B9%B4%E5%A4%9C%E9%A5%AD%23&Refer=top)
+
+1. [网吧老板除夕夜发红包给顾客](https://s.weibo.com//weibo?q=%E7%BD%91%E5%90%A7%E8%80%81%E6%9D%BF%E9%99%A4%E5%A4%95%E5%A4%9C%E5%8F%91%E7%BA%A2%E5%8C%85%E7%BB%99%E9%A1%BE%E5%AE%A2&Refer=top)
+
+1. [万茜任嘉伦 梦回大唐荣耀](https://s.weibo.com//weibo?q=%E4%B8%87%E8%8C%9C%E4%BB%BB%E5%98%89%E4%BC%A6%20%E6%A2%A6%E5%9B%9E%E5%A4%A7%E5%94%90%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [张艺兴春晚单人舞台后发长文](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%A5%E6%99%9A%E5%8D%95%E4%BA%BA%E8%88%9E%E5%8F%B0%E5%90%8E%E5%8F%91%E9%95%BF%E6%96%87%23&Refer=top)
+
+1. [创造营首发预告](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [钟南山张伯礼张定宇拜年](https://s.weibo.com//weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%BC%A0%E5%AE%9A%E5%AE%87%E6%8B%9C%E5%B9%B4&Refer=top)
+
+1. [唐探全系列手绘海报](https://s.weibo.com//weibo?q=%23%E5%94%90%E6%8E%A2%E5%85%A8%E7%B3%BB%E5%88%97%E6%89%8B%E7%BB%98%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [电影票](https://s.weibo.com//weibo?q=%E7%94%B5%E5%BD%B1%E7%A5%A8&Refer=top)
+
+1. [北京消费券](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%B6%88%E8%B4%B9%E5%88%B8&Refer=top)
 
