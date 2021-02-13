@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-13 14:02:54
+## 微博今日热榜 更新于 2021-02-13 15:02:43
 1. [2021版一封家书](https://s.weibo.com//weibo?q=%232021%E7%89%88%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&Refer=new_time)
 
 1. [武林外传原班人马 爷青回](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%20%E7%88%B7%E9%9D%92%E5%9B%9E&Refer=top)
@@ -302,4 +302,18 @@
 1. [爆浆芋泥啵啵烤年糕](https://s.weibo.com//weibo?q=%23%E7%88%86%E6%B5%86%E8%8A%8B%E6%B3%A5%E5%95%B5%E5%95%B5%E7%83%A4%E5%B9%B4%E7%B3%95%23&Refer=top)
 
 1. [哪吒重生细节](https://s.weibo.com//weibo?q=%23%E5%93%AA%E5%90%92%E9%87%8D%E7%94%9F%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [宋轶海报上找不到郭麒麟](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%B5%B7%E6%8A%A5%E4%B8%8A%E6%89%BE%E4%B8%8D%E5%88%B0%E9%83%AD%E9%BA%92%E9%BA%9F%23&Refer=top)
+
+1. [抖音诉百度不正当竞争纠纷案撤诉](https://s.weibo.com//weibo?q=%E6%8A%96%E9%9F%B3%E8%AF%89%E7%99%BE%E5%BA%A6%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89%E7%BA%A0%E7%BA%B7%E6%A1%88%E6%92%A4%E8%AF%89&Refer=top)
+
+1. [男子重现14年前拜年场景](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%87%8D%E7%8E%B014%E5%B9%B4%E5%89%8D%E6%8B%9C%E5%B9%B4%E5%9C%BA%E6%99%AF&Refer=top)
+
+1. [金晨首登春晚爆笑幕后全记录](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E9%A6%96%E7%99%BB%E6%98%A5%E6%99%9A%E7%88%86%E7%AC%91%E5%B9%95%E5%90%8E%E5%85%A8%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [刺杀小说家影评](https://s.weibo.com//weibo?q=%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6%E5%BD%B1%E8%AF%84&Refer=top)
+
+1. [陈坤演技](https://s.weibo.com//weibo?q=%E9%99%88%E5%9D%A4%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [汝州回应有学校补课](https://s.weibo.com//weibo?q=%23%E6%B1%9D%E5%B7%9E%E5%9B%9E%E5%BA%94%E6%9C%89%E5%AD%A6%E6%A0%A1%E8%A1%A5%E8%AF%BE%23&Refer=top)
 
