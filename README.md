@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-13 07:02:45
+## 微博今日热榜 更新于 2021-02-13 08:06:18
 1. [2021版一封家书](https://s.weibo.com//weibo?q=%232021%E7%89%88%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&Refer=new_time)
 
 1. [武林外传原班人马 爷青回](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%20%E7%88%B7%E9%9D%92%E5%9B%9E&Refer=top)
@@ -136,4 +136,12 @@
 1. [晒晒新年第一缕阳光](https://s.weibo.com//weibo?q=%23%E6%99%92%E6%99%92%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%BC%95%E9%98%B3%E5%85%89%23&Refer=new_time)
 
 1. [金玉滚滚酸奶南瓜羹](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%8E%89%E6%BB%9A%E6%BB%9A%E9%85%B8%E5%A5%B6%E5%8D%97%E7%93%9C%E7%BE%B9%23&Refer=top)
+
+1. [斗罗大陆](https://s.weibo.com//weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&Refer=top)
+
+1. [马克龙用四国语言拜年](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%94%A8%E5%9B%9B%E5%9B%BD%E8%AF%AD%E8%A8%80%E6%8B%9C%E5%B9%B4&Refer=top)
+
+1. [多地频发儿童燃放烟花爆竹事故](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%A2%91%E5%8F%91%E5%84%BF%E7%AB%A5%E7%87%83%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [杨紫推荐青簪行](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%8E%A8%E8%8D%90%E9%9D%92%E7%B0%AA%E8%A1%8C%23&Refer=top)
 
