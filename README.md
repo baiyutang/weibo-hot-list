@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-15 05:02:47
+## 微博今日热榜 更新于 2021-02-15 06:03:07
 1. [我在岗位上](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9C%A8%E5%B2%97%E4%BD%8D%E4%B8%8A%23&Refer=new_time)
 
 1. [你好李焕英票房破10亿](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23&Refer=top)
@@ -138,4 +138,6 @@
 1. [初三](https://s.weibo.com//weibo?q=%E5%88%9D%E4%B8%89&Refer=top)
 
 1. [侍神令](https://s.weibo.com//weibo?q=%E4%BE%8D%E7%A5%9E%E4%BB%A4&Refer=top)
+
+1. [刺杀小说家隐藏细节](https://s.weibo.com//weibo?q=%23%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82%23&Refer=top)
 
