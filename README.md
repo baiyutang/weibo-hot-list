@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-15 01:16:08
+## 微博今日热榜 更新于 2021-02-15 02:03:05
 1. [我在岗位上](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9C%A8%E5%B2%97%E4%BD%8D%E4%B8%8A%23&Refer=new_time)
 
 1. [你好李焕英票房破10亿](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [另一半向你借钱怎么办](https://s.weibo.com//weibo?q=%23%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%90%91%E4%BD%A0%E5%80%9F%E9%92%B1%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top)
 
 1. [不允许BBC继续在中国境内落地](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%85%81%E8%AE%B8BBC%E7%BB%A7%E7%BB%AD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E8%90%BD%E5%9C%B0%23&Refer=top)
+
+1. [中国冰雪健儿训练场上拜年](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%E5%81%A5%E5%84%BF%E8%AE%AD%E7%BB%83%E5%9C%BA%E4%B8%8A%E6%8B%9C%E5%B9%B4%23&Refer=new_time)
+
+1. [香港电台宣布不再转播BBC世界新闻频道](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E7%94%B5%E5%8F%B0%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E8%BD%AC%E6%92%ADBBC%E4%B8%96%E7%95%8C%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93%23&Refer=top)
 
