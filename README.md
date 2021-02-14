@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-15 03:02:08
+## 微博今日热榜 更新于 2021-02-15 04:02:29
 1. [我在岗位上](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9C%A8%E5%B2%97%E4%BD%8D%E4%B8%8A%23&Refer=new_time)
 
 1. [你好李焕英票房破10亿](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23&Refer=top)
@@ -122,4 +122,12 @@
 1. [翁丁大火](https://s.weibo.com//weibo?q=%E7%BF%81%E4%B8%81%E5%A4%A7%E7%81%AB&Refer=top)
 
 1. [新相亲大会](https://s.weibo.com//weibo?q=%E6%96%B0%E7%9B%B8%E4%BA%B2%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [节日我在岗](https://s.weibo.com//weibo?q=%23%E8%8A%82%E6%97%A5%E6%88%91%E5%9C%A8%E5%B2%97%23&Refer=new_time)
+
+1. [情人节](https://s.weibo.com//weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82&Refer=top)
+
+1. [马克龙用四国语言拜年](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%94%A8%E5%9B%9B%E5%9B%BD%E8%AF%AD%E8%A8%80%E6%8B%9C%E5%B9%B4%23&Refer=top)
+
+1. [人潮汹涌台词](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%BD%AE%E6%B1%B9%E6%B6%8C%E5%8F%B0%E8%AF%8D%23&Refer=top)
 
