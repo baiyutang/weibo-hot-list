@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-16 00:04:28
+## 微博今日热榜 更新于 2021-02-16 01:17:56
 1. [温暖春节的凡人凡心](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E6%9A%96%E6%98%A5%E8%8A%82%E7%9A%84%E5%87%A1%E4%BA%BA%E5%87%A1%E5%BF%83%23&Refer=new_time)
 
 1. [薇娅发长文谈李焕英](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9D%8E%E7%84%95%E8%8B%B1%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [阿联酋探测器发回第一张火星照片](https://s.weibo.com//weibo?q=%E9%98%BF%E8%81%94%E9%85%8B%E6%8E%A2%E6%B5%8B%E5%99%A8%E5%8F%91%E5%9B%9E%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%81%AB%E6%98%9F%E7%85%A7%E7%89%87&Refer=top)
 
 1. [斗罗大陆空间夹层](https://s.weibo.com//weibo?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E7%A9%BA%E9%97%B4%E5%A4%B9%E5%B1%82%23&Refer=top)
+
+1. [火焰蓝守护平安](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%84%B0%E8%93%9D%E5%AE%88%E6%8A%A4%E5%B9%B3%E5%AE%89%23&Refer=new_time)
+
+1. [财神](https://s.weibo.com//weibo?q=%E8%B4%A2%E7%A5%9E&Refer=top)
+
+1. [赤狐书生](https://s.weibo.com//weibo?q=%E8%B5%A4%E7%8B%90%E4%B9%A6%E7%94%9F&Refer=top)
+
+1. [刺杀小说家](https://s.weibo.com//weibo?q=%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6&Refer=top)
 
