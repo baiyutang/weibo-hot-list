@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-16 06:03:01
+## 微博今日热榜 更新于 2021-02-16 07:02:48
 1. [温暖春节的凡人凡心](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E6%9A%96%E6%98%A5%E8%8A%82%E7%9A%84%E5%87%A1%E4%BA%BA%E5%87%A1%E5%BF%83%23&Refer=new_time)
 
 1. [薇娅发长文谈李焕英](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9D%8E%E7%84%95%E8%8B%B1%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [还有两天就要上班了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%89%E4%B8%A4%E5%A4%A9%E5%B0%B1%E8%A6%81%E4%B8%8A%E7%8F%AD%E4%BA%86%23&Refer=top)
 
 1. [快递春节大作战](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E9%80%92%E6%98%A5%E8%8A%82%E5%A4%A7%E4%BD%9C%E6%88%98%23&Refer=new_time)
+
+1. [汪苏泷陈立农说爱你好甜](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%99%88%E7%AB%8B%E5%86%9C%E8%AF%B4%E7%88%B1%E4%BD%A0%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [初五](https://s.weibo.com//weibo?q=%E5%88%9D%E4%BA%94&Refer=top)
 
