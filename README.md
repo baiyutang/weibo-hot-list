@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-16 05:02:27
+## 微博今日热榜 更新于 2021-02-16 06:03:01
 1. [温暖春节的凡人凡心](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E6%9A%96%E6%98%A5%E8%8A%82%E7%9A%84%E5%87%A1%E4%BA%BA%E5%87%A1%E5%BF%83%23&Refer=new_time)
 
 1. [薇娅发长文谈李焕英](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%9D%8E%E7%84%95%E8%8B%B1%23&Refer=top)
