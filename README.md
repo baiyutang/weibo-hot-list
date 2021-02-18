@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-19 03:02:09
+## 微博今日热榜 更新于 2021-02-19 04:02:50
 1. [2020感动中国颁奖词合集](https://s.weibo.com//weibo?q=%232020%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%A2%81%E5%A5%96%E8%AF%8D%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [虞书欣加上了Lisa微信](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8A%A0%E4%B8%8A%E4%BA%86Lisa%E5%BE%AE%E4%BF%A1%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [甜蜜开播](https://s.weibo.com//weibo?q=%23%E7%94%9C%E8%9C%9C%E5%BC%80%E6%92%AD%23&Refer=top)
 
 1. [6种超实用笔记法](https://s.weibo.com//weibo?q=6%E7%A7%8D%E8%B6%85%E5%AE%9E%E7%94%A8%E7%AC%94%E8%AE%B0%E6%B3%95&Refer=top)
+
+1. [春节期间中方仍陆续对外提供疫苗](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E4%B8%AD%E6%96%B9%E4%BB%8D%E9%99%86%E7%BB%AD%E5%AF%B9%E5%A4%96%E6%8F%90%E4%BE%9B%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [刺杀小说家](https://s.weibo.com//weibo?q=%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6&Refer=top)
 
