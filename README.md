@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-19 07:02:49
+## 微博今日热榜 更新于 2021-02-19 08:06:21
 1. [2020感动中国颁奖词合集](https://s.weibo.com//weibo?q=%232020%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%A2%81%E5%A5%96%E8%AF%8D%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [虞书欣加上了Lisa微信](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8A%A0%E4%B8%8A%E4%BA%86Lisa%E5%BE%AE%E4%BF%A1%23&Refer=top)
@@ -130,4 +130,20 @@
 1. [2月有哪些天象值得期待](https://s.weibo.com//weibo?q=%232%E6%9C%88%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A4%A9%E8%B1%A1%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%23&Refer=top)
 
 1. [你好李焕英路演](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E8%B7%AF%E6%BC%94&Refer=top)
+
+1. [王灿主动追求杜淳](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%81%BF%E4%B8%BB%E5%8A%A8%E8%BF%BD%E6%B1%82%E6%9D%9C%E6%B7%B3%23&Refer=top)
+
+1. [日本发现一种新型变异新冠病毒](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E4%B8%80%E7%A7%8D%E6%96%B0%E5%9E%8B%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92&Refer=top)
+
+1. [艾克里里是怎么变白的](https://s.weibo.com//weibo?q=%E8%89%BE%E5%85%8B%E9%87%8C%E9%87%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%98%E7%99%BD%E7%9A%84&Refer=top)
+
+1. [毅力号成功登陆火星](https://s.weibo.com//weibo?q=%23%E6%AF%85%E5%8A%9B%E5%8F%B7%E6%88%90%E5%8A%9F%E7%99%BB%E9%99%86%E7%81%AB%E6%98%9F%23&Refer=top)
+
+1. [以前选秀是怎么投票的](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%89%8D%E9%80%89%E7%A7%80%E6%98%AF%E6%80%8E%E4%B9%88%E6%8A%95%E7%A5%A8%E7%9A%84%23&Refer=top)
+
+1. [孟佳点赞力丸赞多舞台](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%82%B9%E8%B5%9E%E5%8A%9B%E4%B8%B8%E8%B5%9E%E5%A4%9A%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [员工回家过年拒带电脑工作被开除](https://s.weibo.com//weibo?q=%23%E5%91%98%E5%B7%A5%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%8B%92%E5%B8%A6%E7%94%B5%E8%84%91%E5%B7%A5%E4%BD%9C%E8%A2%AB%E5%BC%80%E9%99%A4%23&Refer=top)
+
+1. [4名解放军官兵在中印边境冲突中牺牲](https://s.weibo.com//weibo?q=%234%E5%90%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%98%E5%85%B5%E5%9C%A8%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E5%86%B2%E7%AA%81%E4%B8%AD%E7%89%BA%E7%89%B2%23&Refer=top)
 
