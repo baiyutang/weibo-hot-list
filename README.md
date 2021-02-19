@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-19 11:02:51
+## 微博今日热榜 更新于 2021-02-19 12:03:09
 1. [2020感动中国颁奖词合集](https://s.weibo.com//weibo?q=%232020%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%A2%81%E5%A5%96%E8%AF%8D%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [虞书欣加上了Lisa微信](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8A%A0%E4%B8%8A%E4%BA%86Lisa%E5%BE%AE%E4%BF%A1%23&Refer=top)
@@ -204,4 +204,26 @@
 1. [阿煜说自己跳舞蛮拉胯的](https://s.weibo.com//weibo?q=%23%E9%98%BF%E7%85%9C%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%B7%B3%E8%88%9E%E8%9B%AE%E6%8B%89%E8%83%AF%E7%9A%84%23&Refer=top)
 
 1. [中青年颈椎健身操](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%9D%92%E5%B9%B4%E9%A2%88%E6%A4%8E%E5%81%A5%E8%BA%AB%E6%93%8D%23&Refer=top)
+
+1. [拜登将宣布美国加入全球疫苗计划](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B0%86%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%85%A8%E7%90%83%E7%96%AB%E8%8B%97%E8%AE%A1%E5%88%92%23&Refer=top)
+
+1. [知情人称吴秀波今后将不再从事演员职业](https://s.weibo.com//weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%90%B4%E7%A7%80%E6%B3%A2%E4%BB%8A%E5%90%8E%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BB%8E%E4%BA%8B%E6%BC%94%E5%91%98%E8%81%8C%E4%B8%9A%23&Refer=top)
+
+1. [微博之夜阵容](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [饿了么回应变相降低骑手过年奖励](https://s.weibo.com//weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%9B%9E%E5%BA%94%E5%8F%98%E7%9B%B8%E9%99%8D%E4%BD%8E%E9%AA%91%E6%89%8B%E8%BF%87%E5%B9%B4%E5%A5%96%E5%8A%B1&Refer=top)
+
+1. [李宇春 我不想他们拆开](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%20%E6%88%91%E4%B8%8D%E6%83%B3%E4%BB%96%E4%BB%AC%E6%8B%86%E5%BC%80&Refer=top)
+
+1. [人民日报批BBC刻意妖魔化中国](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9BBC%E5%88%BB%E6%84%8F%E5%A6%96%E9%AD%94%E5%8C%96%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [巴菲特减持苹果和银行股](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%87%8F%E6%8C%81%E8%8B%B9%E6%9E%9C%E5%92%8C%E9%93%B6%E8%A1%8C%E8%82%A1&Refer=top)
+
+1. [山东禹城火灾幸存大儿子要撑起蛋糕房](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%A6%B9%E5%9F%8E%E7%81%AB%E7%81%BE%E5%B9%B8%E5%AD%98%E5%A4%A7%E5%84%BF%E5%AD%90%E8%A6%81%E6%92%91%E8%B5%B7%E8%9B%8B%E7%B3%95%E6%88%BF%23&Refer=top)
+
+1. [骑手质疑饿了么变相降加班奖励](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B4%A8%E7%96%91%E9%A5%BF%E4%BA%86%E4%B9%88%E5%8F%98%E7%9B%B8%E9%99%8D%E5%8A%A0%E7%8F%AD%E5%A5%96%E5%8A%B1%23&Refer=top)
+
+1. [2分钟教你使用AED](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8AED%23&Refer=top)
+
+1. [原来天线宝宝还分性别](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D%E8%BF%98%E5%88%86%E6%80%A7%E5%88%AB%23&Refer=top)
 
