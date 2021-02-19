@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-19 08:06:21
+## 微博今日热榜 更新于 2021-02-19 09:28:18
 1. [2020感动中国颁奖词合集](https://s.weibo.com//weibo?q=%232020%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%A2%81%E5%A5%96%E8%AF%8D%E5%90%88%E9%9B%86%23&Refer=new_time)
 
 1. [虞书欣加上了Lisa微信](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8A%A0%E4%B8%8A%E4%BA%86Lisa%E5%BE%AE%E4%BF%A1%23&Refer=top)
@@ -146,4 +146,28 @@
 1. [员工回家过年拒带电脑工作被开除](https://s.weibo.com//weibo?q=%23%E5%91%98%E5%B7%A5%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%8B%92%E5%B8%A6%E7%94%B5%E8%84%91%E5%B7%A5%E4%BD%9C%E8%A2%AB%E5%BC%80%E9%99%A4%23&Refer=top)
 
 1. [4名解放军官兵在中印边境冲突中牺牲](https://s.weibo.com//weibo?q=%234%E5%90%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%98%E5%85%B5%E5%9C%A8%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E5%86%B2%E7%AA%81%E4%B8%AD%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [NBA全明星首发名单](https://s.weibo.com//weibo?q=%23NBA%E5%85%A8%E6%98%8E%E6%98%9F%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [唐九洲不愧是文化人](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E4%B8%8D%E6%84%A7%E6%98%AF%E6%96%87%E5%8C%96%E4%BA%BA%23&Refer=top)
+
+1. [扬州一11岁女孩坠楼身亡](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E4%B8%8011%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [在日本遇到最恐怖的事](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%97%A5%E6%9C%AC%E9%81%87%E5%88%B0%E6%9C%80%E6%81%90%E6%80%96%E7%9A%84%E4%BA%8B%23&Refer=top)
+
+1. [顶楼第二季开播](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [北京朝霞](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%9C%9E%23&Refer=top)
+
+1. [吴白神仙男友](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%99%BD%E7%A5%9E%E4%BB%99%E7%94%B7%E5%8F%8B%23&Refer=top)
+
+1. [任重求导演AI换脸](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E9%87%8D%E6%B1%82%E5%AF%BC%E6%BC%94AI%E6%8D%A2%E8%84%B8%23&Refer=top)
+
+1. [对亲戚最无语的一次](https://s.weibo.com//weibo?q=%E5%AF%B9%E4%BA%B2%E6%88%9A%E6%9C%80%E6%97%A0%E8%AF%AD%E7%9A%84%E4%B8%80%E6%AC%A1&Refer=top)
+
+1. [上阳赋](https://s.weibo.com//weibo?q=%E4%B8%8A%E9%98%B3%E8%B5%8B&Refer=top)
+
+1. [日本汽车零部件巨头曝大规模造假](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B1%BD%E8%BD%A6%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%B7%A8%E5%A4%B4%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%80%A0%E5%81%87%23&Refer=top)
+
+1. [华春莹批加拿大贼喊捉贼](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E6%89%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B4%BC%E5%96%8A%E6%8D%89%E8%B4%BC%23&Refer=top)
 
