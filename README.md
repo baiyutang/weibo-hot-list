@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-20 02:03:34
+## 微博今日热榜 更新于 2021-02-20 03:02:17
 1. [运输新冠疫苗车辆免收公路通行费](https://s.weibo.com//weibo?q=%23%E8%BF%90%E8%BE%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BD%A6%E8%BE%86%E5%85%8D%E6%94%B6%E5%85%AC%E8%B7%AF%E9%80%9A%E8%A1%8C%E8%B4%B9%23&Refer=new_time)
 
 1. [加勒万河谷冲突现场视频公开](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%8B%92%E4%B8%87%E6%B2%B3%E8%B0%B7%E5%86%B2%E7%AA%81%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [全国大回暖进程地图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%9B%9E%E6%9A%96%E8%BF%9B%E7%A8%8B%E5%9C%B0%E5%9B%BE%23&Refer=top)
 
 1. [北京双星拱月](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%8F%8C%E6%98%9F%E6%8B%B1%E6%9C%88&Refer=top)
+
+1. [最高检部署加强未成年人司法保护](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E9%83%A8%E7%BD%B2%E5%8A%A0%E5%BC%BA%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%8F%B8%E6%B3%95%E4%BF%9D%E6%8A%A4%23&Refer=new_time)
+
+1. [海军陆战队女狙击手](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E5%A5%B3%E7%8B%99%E5%87%BB%E6%89%8B%23&Refer=top)
 
