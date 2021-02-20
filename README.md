@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-21 01:17:38
+## 微博今日热榜 更新于 2021-02-21 02:03:03
 1. [献给边防战士的英雄赞歌](https://s.weibo.com//weibo?q=%23%E7%8C%AE%E7%BB%99%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C%23&Refer=new_time)
 
 1. [你好李焕英位列中国影史票房第六名](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E4%BD%8D%E5%88%97%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E7%AC%AC%E5%85%AD%E5%90%8D%23&Refer=top)
@@ -124,4 +124,16 @@
 1. [王南钧 凡尔赛](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%8D%97%E9%92%A7%20%E5%87%A1%E5%B0%94%E8%B5%9B&Refer=top)
 
 1. [热心观众张思源](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%BF%83%E8%A7%82%E4%BC%97%E5%BC%A0%E6%80%9D%E6%BA%90%23&Refer=top)
+
+1. [一组数字看平安春节](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E5%B9%B3%E5%AE%89%E6%98%A5%E8%8A%82%23&Refer=new_time)
+
+1. [李梦 终于被淘汰了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%A2%A6%20%E7%BB%88%E4%BA%8E%E8%A2%AB%E6%B7%98%E6%B1%B0%E4%BA%86&Refer=top)
+
+1. [周震南 选秀就像找工作](https://s.weibo.com//weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%20%E9%80%89%E7%A7%80%E5%B0%B1%E5%83%8F%E6%89%BE%E5%B7%A5%E4%BD%9C&Refer=top)
+
+1. [张颂文说王霏霏是个职业演员了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%AF%B4%E7%8E%8B%E9%9C%8F%E9%9C%8F%E6%98%AF%E4%B8%AA%E8%81%8C%E4%B8%9A%E6%BC%94%E5%91%98%E4%BA%86%23&Refer=top)
+
+1. [娜扎吐槽琉璃故事会看多了](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E5%90%90%E6%A7%BD%E7%90%89%E7%92%83%E6%95%85%E4%BA%8B%E4%BC%9A%E7%9C%8B%E5%A4%9A%E4%BA%86%23&Refer=top)
+
+1. [你好安怡](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E5%AE%89%E6%80%A1&Refer=top)
 
