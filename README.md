@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-21 02:03:03
+## 微博今日热榜 更新于 2021-02-21 03:02:06
 1. [献给边防战士的英雄赞歌](https://s.weibo.com//weibo?q=%23%E7%8C%AE%E7%BB%99%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C%23&Refer=new_time)
 
 1. [你好李焕英位列中国影史票房第六名](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E4%BD%8D%E5%88%97%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E7%AC%AC%E5%85%AD%E5%90%8D%23&Refer=top)
@@ -136,4 +136,6 @@
 1. [娜扎吐槽琉璃故事会看多了](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E5%90%90%E6%A7%BD%E7%90%89%E7%92%83%E6%95%85%E4%BA%8B%E4%BC%9A%E7%9C%8B%E5%A4%9A%E4%BA%86%23&Refer=top)
 
 1. [你好安怡](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%A5%BD%E5%AE%89%E6%80%A1&Refer=top)
+
+1. [中国疫苗成为许多国家最期盼的春节礼物](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E6%88%90%E4%B8%BA%E8%AE%B8%E5%A4%9A%E5%9B%BD%E5%AE%B6%E6%9C%80%E6%9C%9F%E7%9B%BC%E7%9A%84%E6%98%A5%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=new_time)
 
