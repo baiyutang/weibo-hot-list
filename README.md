@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-20 14:03:01
+## 微博今日热榜 更新于 2021-02-20 15:02:40
 1. [运输新冠疫苗车辆免收公路通行费](https://s.weibo.com//weibo?q=%23%E8%BF%90%E8%BE%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BD%A6%E8%BE%86%E5%85%8D%E6%94%B6%E5%85%AC%E8%B7%AF%E9%80%9A%E8%A1%8C%E8%B4%B9%23&Refer=new_time)
 
 1. [加勒万河谷冲突现场视频公开](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%8B%92%E4%B8%87%E6%B2%B3%E8%B0%B7%E5%86%B2%E7%AA%81%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -288,4 +288,30 @@
 1. [紫薯芝士夹心年糕挞](https://s.weibo.com//weibo?q=%23%E7%B4%AB%E8%96%AF%E8%8A%9D%E5%A3%AB%E5%A4%B9%E5%BF%83%E5%B9%B4%E7%B3%95%E6%8C%9E%23&Refer=top)
 
 1. [我爸写给我妈的信](https://s.weibo.com//weibo?q=%E6%88%91%E7%88%B8%E5%86%99%E7%BB%99%E6%88%91%E5%A6%88%E7%9A%84%E4%BF%A1&Refer=top)
+
+1. [中国疫苗成为许多国家最期盼的春节礼物](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E6%88%90%E4%B8%BA%E8%AE%B8%E5%A4%9A%E5%9B%BD%E5%AE%B6%E6%9C%80%E6%9C%9F%E7%9B%BC%E7%9A%84%E6%98%A5%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=new_time)
+
+1. [该不该要二十岁一夜成名的机会](https://s.weibo.com//weibo?q=%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A6%81%E4%BA%8C%E5%8D%81%E5%B2%81%E4%B8%80%E5%A4%9C%E6%88%90%E5%90%8D%E7%9A%84%E6%9C%BA%E4%BC%9A&Refer=top)
+
+1. [祁发宝半月吃30多包朝天椒抗寒提神](https://s.weibo.com//weibo?q=%23%E7%A5%81%E5%8F%91%E5%AE%9D%E5%8D%8A%E6%9C%88%E5%90%8330%E5%A4%9A%E5%8C%85%E6%9C%9D%E5%A4%A9%E6%A4%92%E6%8A%97%E5%AF%92%E6%8F%90%E7%A5%9E%23&Refer=top)
+
+1. [新冠肺炎可能成为长期流行的传染病](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E9%95%BF%E6%9C%9F%E6%B5%81%E8%A1%8C%E7%9A%84%E4%BC%A0%E6%9F%93%E7%97%85&Refer=top)
+
+1. [GOT7回归](https://s.weibo.com//weibo?q=GOT7%E5%9B%9E%E5%BD%92&Refer=top)
+
+1. [唐人街探案3](https://s.weibo.com//weibo?q=%E5%94%90%E4%BA%BA%E8%A1%97%E6%8E%A2%E6%A1%883&Refer=top)
+
+1. [创4学员反转快乐群像大片](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E5%AD%A6%E5%91%98%E5%8F%8D%E8%BD%AC%E5%BF%AB%E4%B9%90%E7%BE%A4%E5%83%8F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [姜思达 我的改变是原来可以不变](https://s.weibo.com//weibo?q=%E5%A7%9C%E6%80%9D%E8%BE%BE%20%E6%88%91%E7%9A%84%E6%94%B9%E5%8F%98%E6%98%AF%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%8F%98&Refer=top)
+
+1. [花海和列车是绝配吧](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%B5%B7%E5%92%8C%E5%88%97%E8%BD%A6%E6%98%AF%E7%BB%9D%E9%85%8D%E5%90%A7%23&Refer=top)
+
+1. [章子怡拍上阳赋受伤](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%8B%8D%E4%B8%8A%E9%98%B3%E8%B5%8B%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [断水后美居民用铁桶烧雪水洗澡](https://s.weibo.com//weibo?q=%E6%96%AD%E6%B0%B4%E5%90%8E%E7%BE%8E%E5%B1%85%E6%B0%91%E7%94%A8%E9%93%81%E6%A1%B6%E7%83%A7%E9%9B%AA%E6%B0%B4%E6%B4%97%E6%BE%A1&Refer=top)
+
+1. [G7领导人支持今夏举办东京奥运会](https://s.weibo.com//weibo?q=G7%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%94%AF%E6%8C%81%E4%BB%8A%E5%A4%8F%E4%B8%BE%E5%8A%9E%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [唐宫夜宴手绘](https://s.weibo.com//weibo?q=%E5%94%90%E5%AE%AB%E5%A4%9C%E5%AE%B4%E6%89%8B%E7%BB%98&Refer=top)
 
