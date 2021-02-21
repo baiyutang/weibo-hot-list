@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-21 18:02:57
+## 微博今日热榜 更新于 2021-02-21 19:02:37
 1. [献给边防战士的英雄赞歌](https://s.weibo.com//weibo?q=%23%E7%8C%AE%E7%BB%99%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C%23&Refer=new_time)
 
 1. [你好李焕英位列中国影史票房第六名](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E4%BD%8D%E5%88%97%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E7%AC%AC%E5%85%AD%E5%90%8D%23&Refer=top)
@@ -382,4 +382,24 @@
 1. [江西婺源油菜花提前盛开](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%A5%BF%E5%A9%BA%E6%BA%90%E6%B2%B9%E8%8F%9C%E8%8A%B1%E6%8F%90%E5%89%8D%E7%9B%9B%E5%BC%80&Refer=top)
 
 1. [重庆巫溪樱桃花开](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%B7%AB%E6%BA%AA%E6%A8%B1%E6%A1%83%E8%8A%B1%E5%BC%80&Refer=top)
+
+1. [吴孟达](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE&Refer=top)
+
+1. [拍打迪士尼演职人员女子系精神障碍](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E6%89%93%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%BC%94%E8%81%8C%E4%BA%BA%E5%91%98%E5%A5%B3%E5%AD%90%E7%B3%BB%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%23&Refer=top)
+
+1. [边防战士1岁儿子总说爸爸在墙上](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB1%E5%B2%81%E5%84%BF%E5%AD%90%E6%80%BB%E8%AF%B4%E7%88%B8%E7%88%B8%E5%9C%A8%E5%A2%99%E4%B8%8A%23&Refer=top)
+
+1. [台湾20车连环相撞致2死](https://s.weibo.com//weibo?q=%E5%8F%B0%E6%B9%BE20%E8%BD%A6%E8%BF%9E%E7%8E%AF%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB&Refer=top)
+
+1. [班主任忆烈士陈红军时哽咽](https://s.weibo.com//weibo?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%BF%86%E7%83%88%E5%A3%AB%E9%99%88%E7%BA%A2%E5%86%9B%E6%97%B6%E5%93%BD%E5%92%BD&Refer=top)
+
+1. [杜淳最近听到最多的话](https://s.weibo.com//weibo?q=%E6%9D%9C%E6%B7%B3%E6%9C%80%E8%BF%91%E5%90%AC%E5%88%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E8%AF%9D&Refer=top)
+
+1. [绵阳一网友诋毁贬损戍边英雄被行拘](https://s.weibo.com//weibo?q=%E7%BB%B5%E9%98%B3%E4%B8%80%E7%BD%91%E5%8F%8B%E8%AF%8B%E6%AF%81%E8%B4%AC%E6%8D%9F%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84%E8%A2%AB%E8%A1%8C%E6%8B%98&Refer=top)
+
+1. [4AM15杀吃鸡](https://s.weibo.com//weibo?q=4AM15%E6%9D%80%E5%90%83%E9%B8%A1&Refer=top)
+
+1. [德约科维奇澳网九冠王](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%BE%B3%E7%BD%91%E4%B9%9D%E5%86%A0%E7%8E%8B%23&Refer=top)
+
+1. [盐城一过山车故障约28人被困](https://s.weibo.com//weibo?q=%23%E7%9B%90%E5%9F%8E%E4%B8%80%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%95%85%E9%9A%9C%E7%BA%A628%E4%BA%BA%E8%A2%AB%E5%9B%B0%23&Refer=top)
 
