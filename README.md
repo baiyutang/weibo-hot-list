@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-22 06:02:52
+## 微博今日热榜 更新于 2021-02-22 07:02:52
 1. [党史学习教育动员大会](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [吴孟达](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE&Refer=top)
@@ -128,4 +128,8 @@
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
 1. [人潮汹涌](https://s.weibo.com//weibo?q=%E4%BA%BA%E6%BD%AE%E6%B1%B9%E6%B6%8C&Refer=top)
+
+1. [中文成为联合国世界旅游组织官方语言](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%87%E6%88%90%E4%B8%BA%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%96%E7%95%8C%E6%97%85%E6%B8%B8%E7%BB%84%E7%BB%87%E5%AE%98%E6%96%B9%E8%AF%AD%E8%A8%80%23&Refer=new_time)
+
+1. [看赘婿有被爽到](https://s.weibo.com//weibo?q=%E7%9C%8B%E8%B5%98%E5%A9%BF%E6%9C%89%E8%A2%AB%E7%88%BD%E5%88%B0&Refer=top)
 
