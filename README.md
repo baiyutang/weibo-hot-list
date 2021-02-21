@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-22 04:02:42
+## 微博今日热榜 更新于 2021-02-22 05:02:41
 1. [党史学习教育动员大会](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [吴孟达](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE&Refer=top)
@@ -124,4 +124,6 @@
 1. [米兰德比](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%85%B0%E5%BE%B7%E6%AF%94&Refer=top)
 
 1. [马伯骞认为普洱已经申遗成功了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E8%AE%A4%E4%B8%BA%E6%99%AE%E6%B4%B1%E5%B7%B2%E7%BB%8F%E7%94%B3%E9%81%97%E6%88%90%E5%8A%9F%E4%BA%86%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
