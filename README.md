@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-22 15:03:28
+## 微博今日热榜 更新于 2021-02-22 16:02:50
 1. [党史学习教育动员大会](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [吴孟达](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE&Refer=top)
@@ -312,4 +312,22 @@
 1. [上海中小学开学首日](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E5%AD%A6%E9%A6%96%E6%97%A5%23&Refer=top)
 
 1. [贾碧](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%A2%A7&Refer=top)
+
+1. [江疏影用诗句回应韩国网友](https://s.weibo.com//weibo?q=%E6%B1%9F%E7%96%8F%E5%BD%B1%E7%94%A8%E8%AF%97%E5%8F%A5%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B&Refer=top)
+
+1. [广东1男子诋毁戍边英雄被刑拘](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C1%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [美国新冠死亡逼近50万](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E9%80%BC%E8%BF%9150%E4%B8%87&Refer=top)
+
+1. [THE9录制青3](https://s.weibo.com//weibo?q=%23THE9%E5%BD%95%E5%88%B6%E9%9D%923%23&Refer=top)
+
+1. [韩美娟发际线](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BE%8E%E5%A8%9F%E5%8F%91%E9%99%85%E7%BA%BF&Refer=top)
+
+1. [上海小区安装独居老人六件套](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B0%8F%E5%8C%BA%E5%AE%89%E8%A3%85%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E5%85%AD%E4%BB%B6%E5%A5%97&Refer=top)
+
+1. [全国多地明确中小学开学时间](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E5%AD%A6%E6%97%B6%E9%97%B4%23&Refer=top)
+
+1. [原来丹顶鹤是秃头](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%B9%E9%A1%B6%E9%B9%A4%E6%98%AF%E7%A7%83%E5%A4%B4&Refer=top)
+
+1. [锦心似玉大婚花絮](https://s.weibo.com//weibo?q=%23%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89%E5%A4%A7%E5%A9%9A%E8%8A%B1%E7%B5%AE%23&Refer=top)
 
