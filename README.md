@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-23 01:19:17
+## 微博今日热榜 更新于 2021-02-23 02:02:46
 1. [我们能为边防战士做的9件事](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E8%83%BD%E4%B8%BA%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%81%9A%E7%9A%849%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
 
 1. [货拉拉跳窗身亡女孩搬家视频曝光](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%B3%E7%AA%97%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%AE%B6%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&Refer=top)
@@ -116,4 +116,10 @@
 1. [张艺兴工作室捐赠粉丝匿名红包](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8D%90%E8%B5%A0%E7%B2%89%E4%B8%9D%E5%8C%BF%E5%90%8D%E7%BA%A2%E5%8C%85%23&Refer=top)
 
 1. [赘婿](https://s.weibo.com//weibo?q=%E8%B5%98%E5%A9%BF&Refer=top)
+
+1. [几代边防战士的青春脸庞](https://s.weibo.com//weibo?q=%23%E5%87%A0%E4%BB%A3%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E7%9A%84%E9%9D%92%E6%98%A5%E8%84%B8%E5%BA%9E%23&Refer=new_time)
+
+1. [张杰看歌迷们两年前给他的信](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E7%9C%8B%E6%AD%8C%E8%BF%B7%E4%BB%AC%E4%B8%A4%E5%B9%B4%E5%89%8D%E7%BB%99%E4%BB%96%E7%9A%84%E4%BF%A1&Refer=top)
+
+1. [比特币](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%23&Refer=top)
 
