@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-24 05:02:45
+## 微博今日热榜 更新于 2021-02-24 06:02:55
 1. [我国渤海再获亿吨级油气大发现](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B8%A4%E6%B5%B7%E5%86%8D%E8%8E%B7%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%B2%B9%E6%B0%94%E5%A4%A7%E5%8F%91%E7%8E%B0%23&Refer=new_time)
 
 1. [吴尊女儿在文莱国王面前演奏大提琴](https://s.weibo.com//weibo?q=%E5%90%B4%E5%B0%8A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%96%87%E8%8E%B1%E5%9B%BD%E7%8E%8B%E9%9D%A2%E5%89%8D%E6%BC%94%E5%A5%8F%E5%A4%A7%E6%8F%90%E7%90%B4&Refer=top)
@@ -130,4 +130,6 @@
 1. [顶楼周丹泰千瑞珍婚纱照](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC%E5%91%A8%E4%B8%B9%E6%B3%B0%E5%8D%83%E7%91%9E%E7%8F%8D%E5%A9%9A%E7%BA%B1%E7%85%A7&Refer=top)
 
 1. [美股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1&Refer=top)
+
+1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
 
