@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-23 22:10:12
+## 微博今日热榜 更新于 2021-02-23 23:08:26
 1. [我们能为边防战士做的9件事](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E8%83%BD%E4%B8%BA%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E5%81%9A%E7%9A%849%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
 
 1. [货拉拉跳窗身亡女孩搬家视频曝光](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%B3%E7%AA%97%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%AE%B6%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&Refer=top)
@@ -404,4 +404,48 @@
 1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
 
 1. [宁毅误会苏檀儿](https://s.weibo.com//weibo?q=%E5%AE%81%E6%AF%85%E8%AF%AF%E4%BC%9A%E8%8B%8F%E6%AA%80%E5%84%BF&Refer=top)
+
+1. [国家移民管理局出台6项新举措便利老年人](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%E7%AE%A1%E7%90%86%E5%B1%80%E5%87%BA%E5%8F%B06%E9%A1%B9%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%BE%BF%E5%88%A9%E8%80%81%E5%B9%B4%E4%BA%BA%23&Refer=new_time)
+
+1. [成都发放4000万元数字人民币红包](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%8F%91%E6%94%BE4000%E4%B8%87%E5%85%83%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BA%A2%E5%8C%85%23&Refer=top)
+
+1. [杨幂说自己是一个会喷队友的人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BC%9A%E5%96%B7%E9%98%9F%E5%8F%8B%E7%9A%84%E4%BA%BA%23&Refer=top)
+
+1. [新规下首只1元退市股](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%A7%84%E4%B8%8B%E9%A6%96%E5%8F%AA1%E5%85%83%E9%80%80%E5%B8%82%E8%82%A1%23&Refer=top)
+
+1. [教育部要求给家长减负](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%BB%99%E5%AE%B6%E9%95%BF%E5%87%8F%E8%B4%9F%23&Refer=top)
+
+1. [谭松韵胶片感生活照](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%83%B6%E7%89%87%E6%84%9F%E7%94%9F%E6%B4%BB%E7%85%A7%23&Refer=top)
+
+1. [宁毅试探楼舒婉](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%AF%85%E8%AF%95%E6%8E%A2%E6%A5%BC%E8%88%92%E5%A9%89%23&Refer=top)
+
+1. [基金暴跌年轻人为什么躲不过被割](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%E6%9A%B4%E8%B7%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BA%B2%E4%B8%8D%E8%BF%87%E8%A2%AB%E5%89%B2%23&Refer=top)
+
+1. [货拉拉司机家属回应女孩跳窗身亡](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E8%B7%B3%E7%AA%97%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [趵突泉景区近3年打捞出钱币6万余元](https://s.weibo.com//weibo?q=%23%E8%B6%B5%E7%AA%81%E6%B3%89%E6%99%AF%E5%8C%BA%E8%BF%913%E5%B9%B4%E6%89%93%E6%8D%9E%E5%87%BA%E9%92%B1%E5%B8%816%E4%B8%87%E4%BD%99%E5%85%83%23&Refer=top)
+
+1. [芋泥啵啵奶盖蛋糕](https://s.weibo.com//weibo?q=%23%E8%8A%8B%E6%B3%A5%E5%95%B5%E5%95%B5%E5%A5%B6%E7%9B%96%E8%9B%8B%E7%B3%95%23&Refer=top)
+
+1. [货拉拉涉事司机涉嫌过失致人死亡罪](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E6%B6%89%E4%BA%8B%E5%8F%B8%E6%9C%BA%E6%B6%89%E5%AB%8C%E8%BF%87%E5%A4%B1%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%BD%AA%23&Refer=top)
+
+1. [国家卫健委答复为何单身女性不可冻卵](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E7%AD%94%E5%A4%8D%E4%B8%BA%E4%BD%95%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%80%A7%E4%B8%8D%E5%8F%AF%E5%86%BB%E5%8D%B5%23&Refer=top)
+
+1. [爆浆流心蓝莓芝士汤圆](https://s.weibo.com//weibo?q=%23%E7%88%86%E6%B5%86%E6%B5%81%E5%BF%83%E8%93%9D%E8%8E%93%E8%8A%9D%E5%A3%AB%E6%B1%A4%E5%9C%86%23&Refer=top)
+
+1. [唐宫夜宴舞者打卡郑州地标](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AE%AB%E5%A4%9C%E5%AE%B4%E8%88%9E%E8%80%85%E6%89%93%E5%8D%A1%E9%83%91%E5%B7%9E%E5%9C%B0%E6%A0%87%23&Refer=top)
+
+1. [春日脆脆草莓慕斯](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E8%84%86%E8%84%86%E8%8D%89%E8%8E%93%E6%85%95%E6%96%AF%23&Refer=top)
+
+1. [脱贫攻坚总结表彰大会](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=top)
+
+1. [原来孙悟空的仙气是烟雾](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%99%E6%82%9F%E7%A9%BA%E7%9A%84%E4%BB%99%E6%B0%94%E6%98%AF%E7%83%9F%E9%9B%BE&Refer=top)
+
+1. [探月工程首任总指挥用香肠形容挖月壤](https://s.weibo.com//weibo?q=%E6%8E%A2%E6%9C%88%E5%B7%A5%E7%A8%8B%E9%A6%96%E4%BB%BB%E6%80%BB%E6%8C%87%E6%8C%A5%E7%94%A8%E9%A6%99%E8%82%A0%E5%BD%A2%E5%AE%B9%E6%8C%96%E6%9C%88%E5%A3%A4&Refer=top)
+
+1. [日本任命首位孤独大臣应对自杀率上升](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E4%BB%BB%E5%91%BD%E9%A6%96%E4%BD%8D%E5%AD%A4%E7%8B%AC%E5%A4%A7%E8%87%A3%E5%BA%94%E5%AF%B9%E8%87%AA%E6%9D%80%E7%8E%87%E4%B8%8A%E5%8D%87&Refer=top)
+
+1. [风起霓裳](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%9C%93%E8%A3%B3&Refer=top)
+
+1. [科研团队研发猴脸识别系统](https://s.weibo.com//weibo?q=%23%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E7%8C%B4%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F%23&Refer=top)
 
