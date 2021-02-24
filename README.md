@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-25 06:02:49
+## 微博今日热榜 更新于 2021-02-25 07:02:56
 1. [2021全球华侨华人新春云联欢](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E7%90%83%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E6%96%B0%E6%98%A5%E4%BA%91%E8%81%94%E6%AC%A2%23&Refer=new_time)
 
 1. [宁静回应单方面宣布退团](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%A3%E5%B8%83%E9%80%80%E5%9B%A2&Refer=top)
@@ -126,4 +126,6 @@
 1. [牛年以来最大规模雨雪上线](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%A8%E9%9B%AA%E4%B8%8A%E7%BA%BF%23&Refer=top)
 
 1. [全国脱贫攻坚总结表彰大会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
+
+1. [超1800人牺牲在脱贫攻坚一线](https://s.weibo.com//weibo?q=%23%E8%B6%851800%E4%BA%BA%E7%89%BA%E7%89%B2%E5%9C%A8%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E4%B8%80%E7%BA%BF%23&Refer=top)
 
