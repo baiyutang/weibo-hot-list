@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-25 04:02:50
+## 微博今日热榜 更新于 2021-02-25 05:02:35
 1. [2021全球华侨华人新春云联欢](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E7%90%83%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E6%96%B0%E6%98%A5%E4%BA%91%E8%81%94%E6%AC%A2%23&Refer=new_time)
 
 1. [宁静回应单方面宣布退团](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%A3%E5%B8%83%E9%80%80%E5%9B%A2&Refer=top)
