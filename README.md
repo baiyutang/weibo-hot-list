@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-24 21:11:25
+## 微博今日热榜 更新于 2021-02-24 22:07:52
 1. [我国渤海再获亿吨级油气大发现](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B8%A4%E6%B5%B7%E5%86%8D%E8%8E%B7%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%B2%B9%E6%B0%94%E5%A4%A7%E5%8F%91%E7%8E%B0%23&Refer=new_time)
 
 1. [吴尊女儿在文莱国王面前演奏大提琴](https://s.weibo.com//weibo?q=%E5%90%B4%E5%B0%8A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%96%87%E8%8E%B1%E5%9B%BD%E7%8E%8B%E9%9D%A2%E5%89%8D%E6%BC%94%E5%A5%8F%E5%A4%A7%E6%8F%90%E7%90%B4&Refer=top)
@@ -408,4 +408,22 @@
 1. [外交部点名BBC](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%82%B9%E5%90%8DBBC%23&Refer=top)
 
 1. [周震南被问哇唧唧哇成团概率](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E8%A2%AB%E9%97%AE%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E6%88%90%E5%9B%A2%E6%A6%82%E7%8E%87%23&Refer=top)
+
+1. [朴灿烈向粉丝道歉](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E7%81%BF%E7%83%88%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [粉丝告诉庆怜房子塌了](https://s.weibo.com//weibo?q=%23%E7%B2%89%E4%B8%9D%E5%91%8A%E8%AF%89%E5%BA%86%E6%80%9C%E6%88%BF%E5%AD%90%E5%A1%8C%E4%BA%86%23&Refer=top)
+
+1. [吉利和沃尔沃宣布合并](https://s.weibo.com//weibo?q=%E5%90%89%E5%88%A9%E5%92%8C%E6%B2%83%E5%B0%94%E6%B2%83%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6&Refer=top)
+
+1. [青你3一公造型](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E4%B8%80%E5%85%AC%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [故意在父母面前吃外卖](https://s.weibo.com//weibo?q=%E6%95%85%E6%84%8F%E5%9C%A8%E7%88%B6%E6%AF%8D%E9%9D%A2%E5%89%8D%E5%90%83%E5%A4%96%E5%8D%96&Refer=top)
+
+1. [共享汽车座位现4枚钢针扎伤用户](https://s.weibo.com//weibo?q=%E5%85%B1%E4%BA%AB%E6%B1%BD%E8%BD%A6%E5%BA%A7%E4%BD%8D%E7%8E%B04%E6%9E%9A%E9%92%A2%E9%92%88%E6%89%8E%E4%BC%A4%E7%94%A8%E6%88%B7&Refer=top)
+
+1. [MCG](https://s.weibo.com//weibo?q=MCG&Refer=top)
+
+1. [龚俊给粉丝留作业](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%BB%99%E7%B2%89%E4%B8%9D%E7%95%99%E4%BD%9C%E4%B8%9A%23&Refer=top)
+
+1. [郑州下雪](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E4%B8%8B%E9%9B%AA&Refer=top)
 
