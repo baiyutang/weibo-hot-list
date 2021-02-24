@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-25 01:26:27
+## 微博今日热榜 更新于 2021-02-25 02:02:54
 1. [2021全球华侨华人新春云联欢](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E7%90%83%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E6%96%B0%E6%98%A5%E4%BA%91%E8%81%94%E6%AC%A2%23&Refer=new_time)
 
 1. [宁静回应单方面宣布退团](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%A3%E5%B8%83%E9%80%80%E5%9B%A2&Refer=top)
@@ -112,4 +112,8 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [小伙用瓜子壳摆出孙悟空刘德华](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%99%E7%94%A8%E7%93%9C%E5%AD%90%E5%A3%B3%E6%91%86%E5%87%BA%E5%AD%99%E6%82%9F%E7%A9%BA%E5%88%98%E5%BE%B7%E5%8D%8E&Refer=top)
+
+1. [90秒数说中国脱贫路](https://s.weibo.com//weibo?q=%2390%E7%A7%92%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E8%84%B1%E8%B4%AB%E8%B7%AF%23&Refer=new_time)
+
+1. [辣条馅元宵](https://s.weibo.com//weibo?q=%23%E8%BE%A3%E6%9D%A1%E9%A6%85%E5%85%83%E5%AE%B5%23&Refer=top)
 
