@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-24 12:02:55
+## 微博今日热榜 更新于 2021-02-24 13:02:22
 1. [我国渤海再获亿吨级油气大发现](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B8%A4%E6%B5%B7%E5%86%8D%E8%8E%B7%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%B2%B9%E6%B0%94%E5%A4%A7%E5%8F%91%E7%8E%B0%23&Refer=new_time)
 
 1. [吴尊女儿在文莱国王面前演奏大提琴](https://s.weibo.com//weibo?q=%E5%90%B4%E5%B0%8A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%96%87%E8%8E%B1%E5%9B%BD%E7%8E%8B%E9%9D%A2%E5%89%8D%E6%BC%94%E5%A5%8F%E5%A4%A7%E6%8F%90%E7%90%B4&Refer=top)
@@ -230,4 +230,20 @@
 1. [伍兹车祸前一天和韦德打高尔夫](https://s.weibo.com//weibo?q=%E4%BC%8D%E5%85%B9%E8%BD%A6%E7%A5%B8%E5%89%8D%E4%B8%80%E5%A4%A9%E5%92%8C%E9%9F%A6%E5%BE%B7%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB&Refer=top)
 
 1. [重庆市考公告](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%B8%82%E8%80%83%E5%85%AC%E5%91%8A&Refer=top)
+
+1. [央视评女孩跳车身亡货拉拉难辞其咎](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E5%A5%B3%E5%AD%A9%E8%B7%B3%E8%BD%A6%E8%BA%AB%E4%BA%A1%E8%B4%A7%E6%8B%89%E6%8B%89%E9%9A%BE%E8%BE%9E%E5%85%B6%E5%92%8E%23&Refer=top)
+
+1. [张伯礼称年底有望恢复到疫情前状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E7%A7%B0%E5%B9%B4%E5%BA%95%E6%9C%89%E6%9C%9B%E6%81%A2%E5%A4%8D%E5%88%B0%E7%96%AB%E6%83%85%E5%89%8D%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [霍汶希要谢霆锋自动续约20年](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E6%B1%B6%E5%B8%8C%E8%A6%81%E8%B0%A2%E9%9C%86%E9%94%8B%E8%87%AA%E5%8A%A8%E7%BB%AD%E7%BA%A620%E5%B9%B4%23&Refer=top)
+
+1. [放大40倍后的月壤颗粒](https://s.weibo.com//weibo?q=%23%E6%94%BE%E5%A4%A740%E5%80%8D%E5%90%8E%E7%9A%84%E6%9C%88%E5%A3%A4%E9%A2%97%E7%B2%92%23&Refer=top)
+
+1. [思诺为什么推唐仁](https://s.weibo.com//weibo?q=%23%E6%80%9D%E8%AF%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8E%A8%E5%94%90%E4%BB%81%23&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [拜登会见特鲁多把美加说成美中](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E4%BC%9A%E8%A7%81%E7%89%B9%E9%B2%81%E5%A4%9A%E6%8A%8A%E7%BE%8E%E5%8A%A0%E8%AF%B4%E6%88%90%E7%BE%8E%E4%B8%AD%23&Refer=top)
+
+1. [中国隶书金币获世界硬币大奖](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9A%B6%E4%B9%A6%E9%87%91%E5%B8%81%E8%8E%B7%E4%B8%96%E7%95%8C%E7%A1%AC%E5%B8%81%E5%A4%A7%E5%A5%96%23&Refer=top)
 
