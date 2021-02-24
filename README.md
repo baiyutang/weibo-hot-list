@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-25 00:15:02
+## 微博今日热榜 更新于 2021-02-25 01:26:27
 1. [2021全球华侨华人新春云联欢](https://s.weibo.com//weibo?q=%232021%E5%85%A8%E7%90%83%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E6%96%B0%E6%98%A5%E4%BA%91%E8%81%94%E6%AC%A2%23&Refer=new_time)
 
 1. [宁静回应单方面宣布退团](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%E5%9B%9E%E5%BA%94%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%A3%E5%B8%83%E9%80%80%E5%9B%A2&Refer=top)
@@ -104,4 +104,12 @@
 1. [国乒退出WTT中东赛](https://s.weibo.com//weibo?q=%E5%9B%BD%E4%B9%92%E9%80%80%E5%87%BAWTT%E4%B8%AD%E4%B8%9C%E8%B5%9B&Refer=top)
 
 1. [自制消食梅子绿茶](https://s.weibo.com//weibo?q=%E8%87%AA%E5%88%B6%E6%B6%88%E9%A3%9F%E6%A2%85%E5%AD%90%E7%BB%BF%E8%8C%B6&Refer=top)
+
+1. [中国边防军人带来的安全感](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BE%B9%E9%98%B2%E5%86%9B%E4%BA%BA%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23&Refer=new_time)
+
+1. [喻言翻唱Therefore I Am](https://s.weibo.com//weibo?q=%E5%96%BB%E8%A8%80%E7%BF%BB%E5%94%B1Therefore%20I%20Am&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [小伙用瓜子壳摆出孙悟空刘德华](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%99%E7%94%A8%E7%93%9C%E5%AD%90%E5%A3%B3%E6%91%86%E5%87%BA%E5%AD%99%E6%82%9F%E7%A9%BA%E5%88%98%E5%BE%B7%E5%8D%8E&Refer=top)
 
