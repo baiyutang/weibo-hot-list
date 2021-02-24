@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-24 09:30:37
+## 微博今日热榜 更新于 2021-02-24 10:12:18
 1. [我国渤海再获亿吨级油气大发现](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B8%A4%E6%B5%B7%E5%86%8D%E8%8E%B7%E4%BA%BF%E5%90%A8%E7%BA%A7%E6%B2%B9%E6%B0%94%E5%A4%A7%E5%8F%91%E7%8E%B0%23&Refer=new_time)
 
 1. [吴尊女儿在文莱国王面前演奏大提琴](https://s.weibo.com//weibo?q=%E5%90%B4%E5%B0%8A%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%96%87%E8%8E%B1%E5%9B%BD%E7%8E%8B%E9%9D%A2%E5%89%8D%E6%BC%94%E5%A5%8F%E5%A4%A7%E6%8F%90%E7%90%B4&Refer=top)
@@ -184,4 +184,14 @@
 1. [院士直播带货1小时卖25吨土豆](https://s.weibo.com//weibo?q=%23%E9%99%A2%E5%A3%AB%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A71%E5%B0%8F%E6%97%B6%E5%8D%9625%E5%90%A8%E5%9C%9F%E8%B1%86%23&Refer=top)
 
 1. [上海乐高乐园预计年内开建](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B9%90%E9%AB%98%E4%B9%90%E5%9B%AD%E9%A2%84%E8%AE%A1%E5%B9%B4%E5%86%85%E5%BC%80%E5%BB%BA%23&Refer=top)
+
+1. [权志龙JENNIE](https://s.weibo.com//weibo?q=%E6%9D%83%E5%BF%97%E9%BE%99JENNIE&Refer=top)
+
+1. [货拉拉道歉](https://s.weibo.com//weibo?q=%E8%B4%A7%E6%8B%89%E6%8B%89%E9%81%93%E6%AD%89&Refer=top)
+
+1. [福原爱](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%8E%9F%E7%88%B1&Refer=top)
+
+1. [时代少年团为丁程鑫庆生](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%BA%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [天问一号进入火星停泊轨道](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E8%BF%9B%E5%85%A5%E7%81%AB%E6%98%9F%E5%81%9C%E6%B3%8A%E8%BD%A8%E9%81%93%23&Refer=top)
 
