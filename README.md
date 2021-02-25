@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-26 04:03:22
+## 微博今日热榜 更新于 2021-02-26 05:03:00
 1. [全国脱贫攻坚总结表彰大会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [法医称货拉拉跟车女孩跳窗可能性不大](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%8C%BB%E7%A7%B0%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%9F%E8%BD%A6%E5%A5%B3%E5%AD%A9%E8%B7%B3%E7%AA%97%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8D%E5%A4%A7%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [多种蔬菜价格下降](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E7%A7%8D%E8%94%AC%E8%8F%9C%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%23&Refer=top)
 
 1. [风起霓裳](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%9C%93%E8%A3%B3&Refer=top)
+
+1. [表彰大会上5个感人瞬间](https://s.weibo.com//weibo?q=%23%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%E4%B8%8A5%E4%B8%AA%E6%84%9F%E4%BA%BA%E7%9E%AC%E9%97%B4%23&Refer=new_time)
+
+1. [VOGUE中国版新主编章凝仅28岁](https://s.weibo.com//weibo?q=%23VOGUE%E4%B8%AD%E5%9B%BD%E7%89%88%E6%96%B0%E4%B8%BB%E7%BC%96%E7%AB%A0%E5%87%9D%E4%BB%8528%E5%B2%81%23&Refer=top)
 
