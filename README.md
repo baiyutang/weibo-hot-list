@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-26 01:20:11
+## 微博今日热榜 更新于 2021-02-26 02:03:38
 1. [全国脱贫攻坚总结表彰大会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [法医称货拉拉跟车女孩跳窗可能性不大](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%8C%BB%E7%A7%B0%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%9F%E8%BD%A6%E5%A5%B3%E5%AD%A9%E8%B7%B3%E7%AA%97%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8D%E5%A4%A7%23&Refer=top)
@@ -108,4 +108,8 @@
 1. [脱贫攻坚楷模奖章长啥样](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%A5%B7%E6%A8%A1%E5%A5%96%E7%AB%A0%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=new_time)
 
 1. [你真的太棒了收官](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%A4%AA%E6%A3%92%E4%BA%86%E6%94%B6%E5%AE%98&Refer=top)
+
+1. [脱贫攻坚总结表彰大会](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
+
+1. [交通运输部回应货拉拉事件](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%83%A8%E5%9B%9E%E5%BA%94%E8%B4%A7%E6%8B%89%E6%8B%89%E4%BA%8B%E4%BB%B6&Refer=top)
 
