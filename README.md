@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-26 00:08:40
+## 微博今日热榜 更新于 2021-02-26 01:20:11
 1. [全国脱贫攻坚总结表彰大会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [法医称货拉拉跟车女孩跳窗可能性不大](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%8C%BB%E7%A7%B0%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%9F%E8%BD%A6%E5%A5%B3%E5%AD%A9%E8%B7%B3%E7%AA%97%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8D%E5%A4%A7%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [香港计划8月1日起上调股票印花税](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E8%AE%A1%E5%88%928%E6%9C%881%E6%97%A5%E8%B5%B7%E4%B8%8A%E8%B0%83%E8%82%A1%E7%A5%A8%E5%8D%B0%E8%8A%B1%E7%A8%8E&Refer=top)
 
 1. [艺术家用光画山海经神兽](https://s.weibo.com//weibo?q=%23%E8%89%BA%E6%9C%AF%E5%AE%B6%E7%94%A8%E5%85%89%E7%94%BB%E5%B1%B1%E6%B5%B7%E7%BB%8F%E7%A5%9E%E5%85%BD%23&Refer=top)
+
+1. [脱贫攻坚楷模奖章长啥样](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%A5%B7%E6%A8%A1%E5%A5%96%E7%AB%A0%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=new_time)
+
+1. [你真的太棒了收官](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%A4%AA%E6%A3%92%E4%BA%86%E6%94%B6%E5%AE%98&Refer=top)
 
