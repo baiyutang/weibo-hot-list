@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 02:02:51
+## 微博今日热榜 更新于 2021-02-28 03:02:01
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -138,4 +138,10 @@
 1. [肖宇梁工作室声明](https://s.weibo.com//weibo?q=%E8%82%96%E5%AE%87%E6%A2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&Refer=top)
 
 1. [邢菲公主抱李汶翰摔倒](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E5%85%AC%E4%B8%BB%E6%8A%B1%E6%9D%8E%E6%B1%B6%E7%BF%B0%E6%91%94%E5%80%92%23&Refer=top)
+
+1. [卫星俯瞰中国8年脱贫变化](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BF%AF%E7%9E%B0%E4%B8%AD%E5%9B%BD8%E5%B9%B4%E8%84%B1%E8%B4%AB%E5%8F%98%E5%8C%96%23&Refer=new_time)
+
+1. [叶祖新逆袭晋级演员总决赛](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E7%A5%96%E6%96%B0%E9%80%86%E8%A2%AD%E6%99%8B%E7%BA%A7%E6%BC%94%E5%91%98%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
 
