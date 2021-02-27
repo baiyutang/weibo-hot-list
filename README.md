@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 00:04:11
+## 微博今日热榜 更新于 2021-02-28 01:20:43
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -106,4 +106,20 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [FPX RNG](https://s.weibo.com//weibo?q=FPX%20RNG&Refer=top)
+
+1. [被李佳琦金靖笑死](https://s.weibo.com//weibo?q=%E8%A2%AB%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%E7%AC%91%E6%AD%BB&Refer=top)
+
+1. [为什么梁森有单独的紫色沙发](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A2%81%E6%A3%AE%E6%9C%89%E5%8D%95%E7%8B%AC%E7%9A%84%E7%B4%AB%E8%89%B2%E6%B2%99%E5%8F%91&Refer=top)
+
+1. [甘望星一公造型](https://s.weibo.com//weibo?q=%23%E7%94%98%E6%9C%9B%E6%98%9F%E4%B8%80%E5%85%AC%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [王子文吴永恩约会](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%BA%A6%E4%BC%9A%23&Refer=top)
+
+1. [周柯宇 白长了一张会打篮球的脸](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9F%AF%E5%AE%87%20%E7%99%BD%E9%95%BF%E4%BA%86%E4%B8%80%E5%BC%A0%E4%BC%9A%E6%89%93%E7%AF%AE%E7%90%83%E7%9A%84%E8%84%B8&Refer=top)
+
+1. [怦然再心动](https://s.weibo.com//weibo?q=%E6%80%A6%E7%84%B6%E5%86%8D%E5%BF%83%E5%8A%A8&Refer=top)
+
+1. [他想让我感受热情 我只觉得吵闹](https://s.weibo.com//weibo?q=%E4%BB%96%E6%83%B3%E8%AE%A9%E6%88%91%E6%84%9F%E5%8F%97%E7%83%AD%E6%83%85%20%E6%88%91%E5%8F%AA%E8%A7%89%E5%BE%97%E5%90%B5%E9%97%B9&Refer=top)
+
+1. [蔡卓宜陈越好甜](https://s.weibo.com//weibo?q=%E8%94%A1%E5%8D%93%E5%AE%9C%E9%99%88%E8%B6%8A%E5%A5%BD%E7%94%9C&Refer=top)
 
