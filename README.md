@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 06:02:49
+## 微博今日热榜 更新于 2021-02-28 07:02:51
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -152,4 +152,6 @@
 1. [猫和老鼠](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0&Refer=top)
 
 1. [雪后秦岭终南山](https://s.weibo.com//weibo?q=%E9%9B%AA%E5%90%8E%E7%A7%A6%E5%B2%AD%E7%BB%88%E5%8D%97%E5%B1%B1&Refer=top)
+
+1. [2020中国科学十大进展](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%23&Refer=new_time)
 
