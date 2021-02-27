@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-27 17:02:44
+## 微博今日热榜 更新于 2021-02-27 18:03:12
 1. [脱贫攻坚总结表彰大会金句](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%80%BB%E7%BB%93%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [刘浩存年龄](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E5%B9%B4%E9%BE%84%23&Refer=top)
@@ -394,4 +394,22 @@
 1. [娜扎八分半告别风起霓裳](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E5%85%AB%E5%88%86%E5%8D%8A%E5%91%8A%E5%88%AB%E9%A3%8E%E8%B5%B7%E9%9C%93%E8%A3%B3%23&Refer=top)
 
 1. [中国人寿全面自查](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E5%85%A8%E9%9D%A2%E8%87%AA%E6%9F%A5&Refer=top)
+
+1. [2020中国科学十大进展](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%23&Refer=new_time)
+
+1. [吴孟达去世](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AD%9F%E8%BE%BE%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [再也看不到吴孟达周星驰合作了](https://s.weibo.com//weibo?q=%E5%86%8D%E4%B9%9F%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%90%B4%E5%AD%9F%E8%BE%BE%E5%91%A8%E6%98%9F%E9%A9%B0%E5%90%88%E4%BD%9C%E4%BA%86&Refer=top)
+
+1. [达叔一路走好](https://s.weibo.com//weibo?q=%E8%BE%BE%E5%8F%94%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD&Refer=top)
+
+1. [中国影史票房前五全是国产片](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%89%8D%E4%BA%94%E5%85%A8%E6%98%AF%E5%9B%BD%E4%BA%A7%E7%89%87%23&Refer=top)
+
+1. [杨幂许凯合作协议](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E8%AE%B8%E5%87%AF%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE&Refer=top)
+
+1. [美国务卿展示倒挂的墨西哥国旗](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B1%95%E7%A4%BA%E5%80%92%E6%8C%82%E7%9A%84%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9B%BD%E6%97%97&Refer=top)
+
+1. [成体肝脏中新生肝细胞来源被发现](https://s.weibo.com//weibo?q=%23%E6%88%90%E4%BD%93%E8%82%9D%E8%84%8F%E4%B8%AD%E6%96%B0%E7%94%9F%E8%82%9D%E7%BB%86%E8%83%9E%E6%9D%A5%E6%BA%90%E8%A2%AB%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [工信部推进芯片供需对接](https://s.weibo.com//weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8E%A8%E8%BF%9B%E8%8A%AF%E7%89%87%E4%BE%9B%E9%9C%80%E5%AF%B9%E6%8E%A5&Refer=top)
 
