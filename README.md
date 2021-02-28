@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 07:02:51
+## 微博今日热榜 更新于 2021-02-28 08:06:54
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -154,4 +154,20 @@
 1. [雪后秦岭终南山](https://s.weibo.com//weibo?q=%E9%9B%AA%E5%90%8E%E7%A7%A6%E5%B2%AD%E7%BB%88%E5%8D%97%E5%B1%B1&Refer=top)
 
 1. [2020中国科学十大进展](https://s.weibo.com//weibo?q=%232020%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%23&Refer=new_time)
+
+1. [黄晓明发博为angelababy庆生](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E5%8D%9A%E4%B8%BAangelababy%E5%BA%86%E7%94%9F&Refer=top)
+
+1. [四川滚石事件3人受伤1人被埋](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%BB%9A%E7%9F%B3%E4%BA%8B%E4%BB%B63%E4%BA%BA%E5%8F%97%E4%BC%A41%E4%BA%BA%E8%A2%AB%E5%9F%8B&Refer=top)
+
+1. [创4一公分组](https://s.weibo.com//weibo?q=%E5%88%9B4%E4%B8%80%E5%85%AC%E5%88%86%E7%BB%84&Refer=top)
+
+1. [和马的衣服变回绿色了](https://s.weibo.com//weibo?q=%E5%92%8C%E9%A9%AC%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%8F%98%E5%9B%9E%E7%BB%BF%E8%89%B2%E4%BA%86&Refer=top)
+
+1. [巴菲特重仓股名单出炉](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E9%87%8D%E4%BB%93%E8%82%A1%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89&Refer=top)
+
+1. [电视剧斗罗大陆播放量破30亿](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B430%E4%BA%BF%23&Refer=top)
+
+1. [教育惩戒新规3月起实施](https://s.weibo.com//weibo?q=%E6%95%99%E8%82%B2%E6%83%A9%E6%88%92%E6%96%B0%E8%A7%843%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD&Refer=top)
+
+1. [韩美娟经历 励志](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BE%8E%E5%A8%9F%E7%BB%8F%E5%8E%86%20%E5%8A%B1%E5%BF%97&Refer=top)
 
