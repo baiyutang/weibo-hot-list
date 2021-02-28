@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 09:33:30
+## 微博今日热榜 更新于 2021-02-28 10:15:19
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -196,4 +196,16 @@
 1. [人民日报评爱国者达叔永远都是主角](https://s.weibo.com//weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%88%B1%E5%9B%BD%E8%80%85%E8%BE%BE%E5%8F%94%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%98%AF%E4%B8%BB%E8%A7%92&Refer=top)
 
 1. [印度推出牛学考试50万人报名](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%8E%A8%E5%87%BA%E7%89%9B%E5%AD%A6%E8%80%83%E8%AF%9550%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D&Refer=top)
+
+1. [请打不过我吧离开选秀舞台](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E6%89%93%E4%B8%8D%E8%BF%87%E6%88%91%E5%90%A7%E7%A6%BB%E5%BC%80%E9%80%89%E7%A7%80%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [王子文在吴永恩面前没有艺人光环](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%9C%A8%E5%90%B4%E6%B0%B8%E6%81%A9%E9%9D%A2%E5%89%8D%E6%B2%A1%E6%9C%89%E8%89%BA%E4%BA%BA%E5%85%89%E7%8E%AF%23&Refer=top)
+
+1. [AK又要理财了](https://s.weibo.com//weibo?q=%23AK%E5%8F%88%E8%A6%81%E7%90%86%E8%B4%A2%E4%BA%86%23&Refer=top)
+
+1. [论中国人的禁毒决心](https://s.weibo.com//weibo?q=%E8%AE%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%A6%81%E6%AF%92%E5%86%B3%E5%BF%83&Refer=top)
+
+1. [宋妍霏 曾以为我就是演员是噩梦](https://s.weibo.com//weibo?q=%E5%AE%8B%E5%A6%8D%E9%9C%8F%20%E6%9B%BE%E4%BB%A5%E4%B8%BA%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98%E6%98%AF%E5%99%A9%E6%A2%A6&Refer=top)
+
+1. [当工作细胞说东北话](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B7%A5%E4%BD%9C%E7%BB%86%E8%83%9E%E8%AF%B4%E4%B8%9C%E5%8C%97%E8%AF%9D%23&Refer=top)
 
