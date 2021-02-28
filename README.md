@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 06:02:41
+## 微博今日热榜 更新于 2021-03-01 07:03:03
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [中国脱贫攻坚成绩单](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E6%88%90%E7%BB%A9%E5%8D%95%23&Refer=new_time)
 
 1. [李国英任水利部部长](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%9B%BD%E8%8B%B1%E4%BB%BB%E6%B0%B4%E5%88%A9%E9%83%A8%E9%83%A8%E9%95%BF&Refer=top)
+
+1. [3月1日起这些行为触犯刑法](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%BA%E8%A7%A6%E7%8A%AF%E5%88%91%E6%B3%95%23&Refer=new_time)
+
+1. [关晓彤好像来参加奥运会的](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%A5%BD%E5%83%8F%E6%9D%A5%E5%8F%82%E5%8A%A0%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%9A%84&Refer=top)
 
