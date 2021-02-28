@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 11:02:53
+## 微博今日热榜 更新于 2021-02-28 12:03:10
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -222,4 +222,22 @@
 1. [江映蓉 不该哭的](https://s.weibo.com//weibo?q=%E6%B1%9F%E6%98%A0%E8%93%89%20%E4%B8%8D%E8%AF%A5%E5%93%AD%E7%9A%84&Refer=top)
 
 1. [我国五大最高荣誉年内颁齐](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%94%E5%A4%A7%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%E5%B9%B4%E5%86%85%E9%A2%81%E9%BD%90%23&Refer=top)
+
+1. [郭德纲 郭麒麟还是个孩子](https://s.weibo.com//weibo?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E9%83%AD%E9%BA%92%E9%BA%9F%E8%BF%98%E6%98%AF%E4%B8%AA%E5%AD%A9%E5%AD%90&Refer=top)
+
+1. [吉林化纤公司发生安全生产事故](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E5%8C%96%E7%BA%A4%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [里弗斯反对将联盟logo换成科比](https://s.weibo.com//weibo?q=%E9%87%8C%E5%BC%97%E6%96%AF%E5%8F%8D%E5%AF%B9%E5%B0%86%E8%81%94%E7%9B%9Flogo%E6%8D%A2%E6%88%90%E7%A7%91%E6%AF%94&Refer=top)
+
+1. [刘恺威唱歌像开了原唱](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%81%BA%E5%A8%81%E5%94%B1%E6%AD%8C%E5%83%8F%E5%BC%80%E4%BA%86%E5%8E%9F%E5%94%B1%23&Refer=top)
+
+1. [中国女排备战东京奥运](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%87%E6%88%98%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%23&Refer=top)
+
+1. [3月起这些新规将影响你的生活](https://s.weibo.com//weibo?q=%233%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E5%BD%B1%E5%93%8D%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [蔡卓宜 爱情的标准绝不是结婚](https://s.weibo.com//weibo?q=%E8%94%A1%E5%8D%93%E5%AE%9C%20%E7%88%B1%E6%83%85%E7%9A%84%E6%A0%87%E5%87%86%E7%BB%9D%E4%B8%8D%E6%98%AF%E7%BB%93%E5%A9%9A&Refer=top)
+
+1. [龚俊说去给钱多的活动才会用贵面膜](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%AF%B4%E5%8E%BB%E7%BB%99%E9%92%B1%E5%A4%9A%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%89%8D%E4%BC%9A%E7%94%A8%E8%B4%B5%E9%9D%A2%E8%86%9C%23&Refer=top)
+
+1. [骑士战胜76人](https://s.weibo.com//weibo?q=%E9%AA%91%E5%A3%AB%E6%88%98%E8%83%9C76%E4%BA%BA&Refer=top)
 
