@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-02-28 20:03:33
+## 微博今日热榜 更新于 2021-02-28 21:04:14
 1. [以中共中央名义首次颁授七一勋章](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%90%8D%E4%B9%89%E9%A6%96%E6%AC%A1%E9%A2%81%E6%8E%88%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%23&Refer=new_time)
 
 1. [周星驰 我还无法接受](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%20%E6%88%91%E8%BF%98%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97&Refer=top)
@@ -408,4 +408,30 @@
 1. [张艺兴小丑妆唱Joker](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B0%8F%E4%B8%91%E5%A6%86%E5%94%B1Joker&Refer=top)
 
 1. [喻言镜头](https://s.weibo.com//weibo?q=%E5%96%BB%E8%A8%80%E9%95%9C%E5%A4%B4&Refer=top)
+
+1. [肖战提裙子提了个寂寞](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%8F%90%E8%A3%99%E5%AD%90%E6%8F%90%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [杨幂盘发](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%23&Refer=top)
+
+1. [迪丽热巴赫本造型](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%AB%E6%9C%AC%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [石家庄中小学3月1日开学](https://s.weibo.com//weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%AD%E5%B0%8F%E5%AD%A63%E6%9C%881%E6%97%A5%E5%BC%80%E5%AD%A6&Refer=top)
+
+1. [宋茜从你的全世界路过](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%8C%9C%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87&Refer=top)
+
+1. [邓紫棋咋还唱累了](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%92%8B%E8%BF%98%E5%94%B1%E7%B4%AF%E4%BA%86%23&Refer=top)
+
+1. [SN iG](https://s.weibo.com//weibo?q=SN%20iG&Refer=top)
+
+1. [吐槽大会](https://s.weibo.com//weibo?q=%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [张文宏说话格局](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%87%E5%AE%8F%E8%AF%B4%E8%AF%9D%E6%A0%BC%E5%B1%80&Refer=top)
+
+1. [Bin的鳄鱼](https://s.weibo.com//weibo?q=Bin%E7%9A%84%E9%B3%84%E9%B1%BC&Refer=top)
+
+1. [韩红感谢明星志愿者](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BA%A2%E6%84%9F%E8%B0%A2%E6%98%8E%E6%98%9F%E5%BF%97%E6%84%BF%E8%80%85%23&Refer=top)
+
+1. [汪东城 团要长久最好让队友爱上你](https://s.weibo.com//weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%20%E5%9B%A2%E8%A6%81%E9%95%BF%E4%B9%85%E6%9C%80%E5%A5%BD%E8%AE%A9%E9%98%9F%E5%8F%8B%E7%88%B1%E4%B8%8A%E4%BD%A0&Refer=top)
+
+1. [华晨宇邓紫棋同台领奖](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E9%82%93%E7%B4%AB%E6%A3%8B%E5%90%8C%E5%8F%B0%E9%A2%86%E5%A5%96&Refer=top)
 
