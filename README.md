@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 00:04:18
+## 微博今日热榜 更新于 2021-03-01 01:20:37
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [我国手机上网人数达9.86亿](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%BD%91%E4%BA%BA%E6%95%B0%E8%BE%BE9.86%E4%BA%BF%23&Refer=top)
+
+1. [李佳琦李子柒简自豪微博年度热点人物](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%9D%8E%E5%AD%90%E6%9F%92%E7%AE%80%E8%87%AA%E8%B1%AA%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%83%AD%E7%82%B9%E4%BA%BA%E7%89%A9&Refer=top)
+
+1. [李现迪丽热巴微博年度魅力价值人物](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%8E%B0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E9%AD%85%E5%8A%9B%E4%BB%B7%E5%80%BC%E4%BA%BA%E7%89%A9&Refer=top)
+
+1. [江苏足球俱乐部停止运营](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E5%81%9C%E6%AD%A2%E8%BF%90%E8%90%A5&Refer=top)
 
