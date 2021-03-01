@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 18:39:18
+## 微博今日热榜 更新于 2021-03-01 19:12:59
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -362,4 +362,14 @@
 1. [旅游民宿星级将改为甲乙丙三等](https://s.weibo.com//weibo?q=%23%E6%97%85%E6%B8%B8%E6%B0%91%E5%AE%BF%E6%98%9F%E7%BA%A7%E5%B0%86%E6%94%B9%E4%B8%BA%E7%94%B2%E4%B9%99%E4%B8%99%E4%B8%89%E7%AD%89%23&Refer=top)
 
 1. [来一杯蜜桃冰沙妆](https://s.weibo.com//weibo?q=%23%E6%9D%A5%E4%B8%80%E6%9D%AF%E8%9C%9C%E6%A1%83%E5%86%B0%E6%B2%99%E5%A6%86%23&Refer=top)
+
+1. [李洪基退伍](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B4%AA%E5%9F%BA%E9%80%80%E4%BC%8D%23&Refer=top)
+
+1. [谁能不爱温柔姐姐呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E8%83%BD%E4%B8%8D%E7%88%B1%E6%B8%A9%E6%9F%94%E5%A7%90%E5%A7%90%E5%91%A2%23&Refer=top)
+
+1. [自己是个普通人这句话是用来感受的](https://s.weibo.com//weibo?q=%23%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%99%E5%8F%A5%E8%AF%9D%E6%98%AF%E7%94%A8%E6%9D%A5%E6%84%9F%E5%8F%97%E7%9A%84%23&Refer=top)
+
+1. [肖战这场戏哭了很多次](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%BF%99%E5%9C%BA%E6%88%8F%E5%93%AD%E4%BA%86%E5%BE%88%E5%A4%9A%E6%AC%A1%23&Refer=top)
+
+1. [RW EDG](https://s.weibo.com//weibo?q=RW%20EDG&Refer=top)
 
