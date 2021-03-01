@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 13:03:14
+## 微博今日热榜 更新于 2021-03-01 14:03:19
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -240,4 +240,20 @@
 1. [谭松韵锦心似玉插曲MV](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89%E6%8F%92%E6%9B%B2MV%23&Refer=top)
 
 1. [郭昊文首秀](https://s.weibo.com//weibo?q=%E9%83%AD%E6%98%8A%E6%96%87%E9%A6%96%E7%A7%80&Refer=top)
+
+1. [四川新增确诊9例均为境外输入](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A9%E4%BE%8B%E5%9D%87%E4%B8%BA%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5&Refer=top)
+
+1. [张雨绮比赞超自信把杨幂带跑偏](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%AF%94%E8%B5%9E%E8%B6%85%E8%87%AA%E4%BF%A1%E6%8A%8A%E6%9D%A8%E5%B9%82%E5%B8%A6%E8%B7%91%E5%81%8F&Refer=top)
+
+1. [国防部回应外界所谓中国国防政策改变](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A4%96%E7%95%8C%E6%89%80%E8%B0%93%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%98%B2%E6%94%BF%E7%AD%96%E6%94%B9%E5%8F%98%23&Refer=top)
+
+1. [杨紫说能扛剧是荣誉也是压力](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E8%83%BD%E6%89%9B%E5%89%A7%E6%98%AF%E8%8D%A3%E8%AA%89%E4%B9%9F%E6%98%AF%E5%8E%8B%E5%8A%9B%23&Refer=top)
+
+1. [林俊杰看了都无语](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%97%A0%E8%AF%AD%23&Refer=top)
+
+1. [杨洋且试天下路透](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [我国移动宽带用户普及率达到108%](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E7%A7%BB%E5%8A%A8%E5%AE%BD%E5%B8%A6%E7%94%A8%E6%88%B7%E6%99%AE%E5%8F%8A%E7%8E%87%E8%BE%BE%E5%88%B0108%25&Refer=top)
+
+1. [我国新能源汽车产销连续6年世界第1](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E8%BF%9E%E7%BB%AD6%E5%B9%B4%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=top)
 
