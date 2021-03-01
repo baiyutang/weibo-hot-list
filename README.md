@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 19:12:59
+## 微博今日热榜 更新于 2021-03-01 20:03:51
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -372,4 +372,32 @@
 1. [肖战这场戏哭了很多次](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%BF%99%E5%9C%BA%E6%88%8F%E5%93%AD%E4%BA%86%E5%BE%88%E5%A4%9A%E6%AC%A1%23&Refer=top)
 
 1. [RW EDG](https://s.weibo.com//weibo?q=RW%20EDG&Refer=top)
+
+1. [新冠肺炎用药全部纳入医保](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%94%A8%E8%8D%AF%E5%85%A8%E9%83%A8%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&Refer=new_time)
+
+1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
+
+1. [美国一对夫妻感染新冠死在家中](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%BB%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E6%AD%BB%E5%9C%A8%E5%AE%B6%E4%B8%AD%23&Refer=top)
+
+1. [代表建议明星一次吸毒终身禁演](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%98%8E%E6%98%9F%E4%B8%80%E6%AC%A1%E5%90%B8%E6%AF%92%E7%BB%88%E8%BA%AB%E7%A6%81%E6%BC%94%23&Refer=top)
+
+1. [青你3一公直拍](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E4%B8%80%E5%85%AC%E7%9B%B4%E6%8B%8D&Refer=top)
+
+1. [Yamy让经纪人别想跑](https://s.weibo.com//weibo?q=%23Yamy%E8%AE%A9%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%88%AB%E6%83%B3%E8%B7%91%23&Refer=top)
+
+1. [温客行](https://s.weibo.com//weibo?q=%E6%B8%A9%E5%AE%A2%E8%A1%8C&Refer=top)
+
+1. [5G流量单价两年降46%](https://s.weibo.com//weibo?q=5G%E6%B5%81%E9%87%8F%E5%8D%95%E4%BB%B7%E4%B8%A4%E5%B9%B4%E9%99%8D46%25&Refer=top)
+
+1. [代表建议建立名人专家违法代言黑名单](https://s.weibo.com//weibo?q=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%BB%BA%E7%AB%8B%E5%90%8D%E4%BA%BA%E4%B8%93%E5%AE%B6%E8%BF%9D%E6%B3%95%E4%BB%A3%E8%A8%80%E9%BB%91%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [我爱喵星人定档](https://s.weibo.com//weibo?q=%E6%88%91%E7%88%B1%E5%96%B5%E6%98%9F%E4%BA%BA%E5%AE%9A%E6%A1%A3&Refer=top)
+
+1. [辣笔小球忏悔](https://s.weibo.com//weibo?q=%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%E5%BF%8F%E6%82%94&Refer=top)
+
+1. [哥斯拉大战金刚定档](https://s.weibo.com//weibo?q=%23%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [FPX JDG](https://s.weibo.com//weibo?q=FPX%20JDG&Refer=top)
+
+1. [外交部回应中国对澳投资断崖式下降](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%BE%B3%E6%8A%95%E8%B5%84%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E9%99%8D%23&Refer=top)
 
