@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 00:09:31
+## 微博今日热榜 更新于 2021-03-02 01:21:53
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -104,4 +104,18 @@
 1. [内蒙古计划关停所有虚拟币挖矿项目](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E8%AE%A1%E5%88%92%E5%85%B3%E5%81%9C%E6%89%80%E6%9C%89%E8%99%9A%E6%8B%9F%E5%B8%81%E6%8C%96%E7%9F%BF%E9%A1%B9%E7%9B%AE&Refer=top)
 
 1. [暴风眼](https://s.weibo.com//weibo?q=%E6%9A%B4%E9%A3%8E%E7%9C%BC&Refer=top)
+
+1. [我是法治观察员](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E6%B3%95%E6%B2%BB%E8%A7%82%E5%AF%9F%E5%91%98%23&Refer=new_time)
+
+1. [刺杀小说家票房破9亿](https://s.weibo.com//weibo?q=%23%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B6%E7%A5%A8%E6%88%BF%E7%A0%B49%E4%BA%BF%23&Refer=top)
+
+1. [宋轶好嫁风造型](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%BD%B6%E5%A5%BD%E5%AB%81%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [开学第一课](https://s.weibo.com//weibo?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE&Refer=top)
+
+1. [华晨宇移动的点饭人](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%A7%BB%E5%8A%A8%E7%9A%84%E7%82%B9%E9%A5%AD%E4%BA%BA%23&Refer=top)
+
+1. [宋轶演的戴希希](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%BD%B6%E6%BC%94%E7%9A%84%E6%88%B4%E5%B8%8C%E5%B8%8C&Refer=top)
+
+1. [爱的理想生活](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB&Refer=top)
 
