@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 09:34:32
+## 微博今日热榜 更新于 2021-03-01 10:19:32
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -168,4 +168,20 @@
 1. [多地中小学开学](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E5%AD%A6%23&Refer=top)
 
 1. [贝尔梅开二度](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%B0%94%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [辣笔小球被批捕](https://s.weibo.com//weibo?q=%23%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
+
+1. [唐嫣罗晋牵手下班图](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E7%BD%97%E6%99%8B%E7%89%B5%E6%89%8B%E4%B8%8B%E7%8F%AD%E5%9B%BE%23&Refer=top)
+
+1. [金球奖](https://s.weibo.com//weibo?q=%E9%87%91%E7%90%83%E5%A5%96&Refer=top)
+
+1. [冒名顶替他人入学入刑](https://s.weibo.com//weibo?q=%23%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%BB%96%E4%BA%BA%E5%85%A5%E5%AD%A6%E5%85%A5%E5%88%91%23&Refer=top)
+
+1. [边防官兵海拔4200米有了全时暖](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E9%98%B2%E5%AE%98%E5%85%B5%E6%B5%B7%E6%8B%944200%E7%B1%B3%E6%9C%89%E4%BA%86%E5%85%A8%E6%97%B6%E6%9A%96%23&Refer=top)
+
+1. [进击的巨人](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [世间有她预告](https://s.weibo.com//weibo?q=%23%E4%B8%96%E9%97%B4%E6%9C%89%E5%A5%B9%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [全国两会是个什么会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%BC%9A%23&Refer=top)
 
