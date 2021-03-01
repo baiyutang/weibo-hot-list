@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 01:21:53
+## 微博今日热榜 更新于 2021-03-02 02:03:01
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [宋轶演的戴希希](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%BD%B6%E6%BC%94%E7%9A%84%E6%88%B4%E5%B8%8C%E5%B8%8C&Refer=top)
 
 1. [爱的理想生活](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [5G流量单价两年降46%](https://s.weibo.com//weibo?q=5G%E6%B5%81%E9%87%8F%E5%8D%95%E4%BB%B7%E4%B8%A4%E5%B9%B4%E9%99%8D46%25&Refer=top)
+
+1. [开学第一课致敬卫国戍边英雄](https://s.weibo.com//weibo?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E8%87%B4%E6%95%AC%E5%8D%AB%E5%9B%BD%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84&Refer=top)
 
