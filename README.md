@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 12:03:22
+## 微博今日热榜 更新于 2021-03-01 13:03:14
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -218,4 +218,26 @@
 1. [金球奖获奖名单](https://s.weibo.com//weibo?q=%E9%87%91%E7%90%83%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&Refer=top)
 
 1. [李若彤邀请易立竞聊富商的故事](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8B%A5%E5%BD%A4%E9%82%80%E8%AF%B7%E6%98%93%E7%AB%8B%E7%AB%9E%E8%81%8A%E5%AF%8C%E5%95%86%E7%9A%84%E6%95%85%E4%BA%8B&Refer=top)
+
+1. [金晨 微博之夜明年能发个盒饭么](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%A8%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%98%8E%E5%B9%B4%E8%83%BD%E5%8F%91%E4%B8%AA%E7%9B%92%E9%A5%AD%E4%B9%88&Refer=top)
+
+1. [赵婷获金球奖最佳导演](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%A9%B7%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%23&Refer=top)
+
+1. [鹿晗素颜封面](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%B4%A0%E9%A2%9C%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [我的姐姐人物海报](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E4%BA%BA%E7%89%A9%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [火箭11连败](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD11%E8%BF%9E%E8%B4%A5&Refer=top)
+
+1. [开心果的等级划分](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%BF%83%E6%9E%9C%E7%9A%84%E7%AD%89%E7%BA%A7%E5%88%92%E5%88%86%23&Refer=top)
+
+1. [黄子韬 看了第一期我就关电视了](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E7%9C%8B%E4%BA%86%E7%AC%AC%E4%B8%80%E6%9C%9F%E6%88%91%E5%B0%B1%E5%85%B3%E7%94%B5%E8%A7%86%E4%BA%86&Refer=top)
+
+1. [工信部 加大芯片企业减税力度](https://s.weibo.com//weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%20%E5%8A%A0%E5%A4%A7%E8%8A%AF%E7%89%87%E4%BC%81%E4%B8%9A%E5%87%8F%E7%A8%8E%E5%8A%9B%E5%BA%A6&Refer=top)
+
+1. [爱的理想生活开播](https://s.weibo.com//weibo?q=%23%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [谭松韵锦心似玉插曲MV](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89%E6%8F%92%E6%9B%B2MV%23&Refer=top)
+
+1. [郭昊文首秀](https://s.weibo.com//weibo?q=%E9%83%AD%E6%98%8A%E6%96%87%E9%A6%96%E7%A7%80&Refer=top)
 
