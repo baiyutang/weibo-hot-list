@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 02:03:01
+## 微博今日热榜 更新于 2021-03-02 03:02:14
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -122,4 +122,12 @@
 1. [5G流量单价两年降46%](https://s.weibo.com//weibo?q=5G%E6%B5%81%E9%87%8F%E5%8D%95%E4%BB%B7%E4%B8%A4%E5%B9%B4%E9%99%8D46%25&Refer=top)
 
 1. [开学第一课致敬卫国戍边英雄](https://s.weibo.com//weibo?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E8%87%B4%E6%95%AC%E5%8D%AB%E5%9B%BD%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84&Refer=top)
+
+1. [新冠肺炎用药全部纳入医保](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%94%A8%E8%8D%AF%E5%85%A8%E9%83%A8%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&Refer=new_time)
+
+1. [周子舒买醉](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%AD%90%E8%88%92%E4%B9%B0%E9%86%89%23&Refer=top)
+
+1. [岳云鹏辟谣自己拍电影](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%BE%9F%E8%B0%A3%E8%87%AA%E5%B7%B1%E6%8B%8D%E7%94%B5%E5%BD%B1%23&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
