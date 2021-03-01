@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 17:02:50
+## 微博今日热榜 更新于 2021-03-01 18:39:18
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -326,4 +326,40 @@
 1. [芋泥麻薯肉松杯](https://s.weibo.com//weibo?q=%23%E8%8A%8B%E6%B3%A5%E9%BA%BB%E8%96%AF%E8%82%89%E6%9D%BE%E6%9D%AF%23&Refer=top)
 
 1. [2020年全国高等教育毛入学率54.4%](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E6%AF%9B%E5%85%A5%E5%AD%A6%E7%8E%8754.4%25%23&Refer=top)
+
+1. [高校本科专业目录新增37个新专业](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E6%96%B0%E5%A2%9E37%E4%B8%AA%E6%96%B0%E4%B8%93%E4%B8%9A%23&Refer=new_time)
+
+1. [代表建议将幼儿园纳入义务教育](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%23&Refer=top)
+
+1. [唐嫣说紫萱也是她的初心](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E8%AF%B4%E7%B4%AB%E8%90%B1%E4%B9%9F%E6%98%AF%E5%A5%B9%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=top)
+
+1. [老虎伍兹遭遇车祸后首次发声](https://s.weibo.com//weibo?q=%23%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E9%81%AD%E9%81%87%E8%BD%A6%E7%A5%B8%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [北京一女子销售翠鸟制品被刑拘](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%A5%B3%E5%AD%90%E9%94%80%E5%94%AE%E7%BF%A0%E9%B8%9F%E5%88%B6%E5%93%81%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [大连暴雪](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%9A%B4%E9%9B%AA%23&Refer=top)
+
+1. [郭老师 创造营报名表](https://s.weibo.com//weibo?q=%E9%83%AD%E8%80%81%E5%B8%88%20%E5%88%9B%E9%80%A0%E8%90%A5%E6%8A%A5%E5%90%8D%E8%A1%A8&Refer=top)
+
+1. [37个新专业列入本科专业目录](https://s.weibo.com//weibo?q=%2337%E4%B8%AA%E6%96%B0%E4%B8%93%E4%B8%9A%E5%88%97%E5%85%A5%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%23&Refer=top)
+
+1. [张雨绮称姐姐没有严格意义上的成团](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%A7%B0%E5%A7%90%E5%A7%90%E6%B2%A1%E6%9C%89%E4%B8%A5%E6%A0%BC%E6%84%8F%E4%B9%89%E4%B8%8A%E7%9A%84%E6%88%90%E5%9B%A2%23&Refer=top)
+
+1. [佘诗曼黎姿同框](https://s.weibo.com//weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E9%BB%8E%E5%A7%BF%E5%90%8C%E6%A1%86%23&Refer=top)
+
+1. [周柯宇钻石口罩](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E9%92%BB%E7%9F%B3%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [青岛卫健委回应疫苗与榨菜同放冰箱](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E7%96%AB%E8%8B%97%E4%B8%8E%E6%A6%A8%E8%8F%9C%E5%90%8C%E6%94%BE%E5%86%B0%E7%AE%B1%23&Refer=top)
+
+1. [这个团队人员的名字都能对上就离谱](https://s.weibo.com//weibo?q=%E8%BF%99%E4%B8%AA%E5%9B%A2%E9%98%9F%E4%BA%BA%E5%91%98%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%83%BD%E5%AF%B9%E4%B8%8A%E5%B0%B1%E7%A6%BB%E8%B0%B1&Refer=top)
+
+1. [雪后故宫](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E5%90%8E%E6%95%85%E5%AE%AB%23&Refer=top)
+
+1. [氛围名伶赫本妆](https://s.weibo.com//weibo?q=%23%E6%B0%9B%E5%9B%B4%E5%90%8D%E4%BC%B6%E8%B5%AB%E6%9C%AC%E5%A6%86%23&Refer=top)
+
+1. [手语版国歌](https://s.weibo.com//weibo?q=%E6%89%8B%E8%AF%AD%E7%89%88%E5%9B%BD%E6%AD%8C&Refer=top)
+
+1. [旅游民宿星级将改为甲乙丙三等](https://s.weibo.com//weibo?q=%23%E6%97%85%E6%B8%B8%E6%B0%91%E5%AE%BF%E6%98%9F%E7%BA%A7%E5%B0%86%E6%94%B9%E4%B8%BA%E7%94%B2%E4%B9%99%E4%B8%99%E4%B8%89%E7%AD%89%23&Refer=top)
+
+1. [来一杯蜜桃冰沙妆](https://s.weibo.com//weibo?q=%23%E6%9D%A5%E4%B8%80%E6%9D%AF%E8%9C%9C%E6%A1%83%E5%86%B0%E6%B2%99%E5%A6%86%23&Refer=top)
 
