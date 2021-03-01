@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 20:03:51
+## 微博今日热榜 更新于 2021-03-01 21:11:50
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -400,4 +400,42 @@
 1. [FPX JDG](https://s.weibo.com//weibo?q=FPX%20JDG&Refer=top)
 
 1. [外交部回应中国对澳投资断崖式下降](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%BE%B3%E6%8A%95%E8%B5%84%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E9%99%8D%23&Refer=top)
+
+1. [上海凉城路](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%87%89%E5%9F%8E%E8%B7%AF&Refer=top)
+
+1. [龚俊演技](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [关晓彤朋友每天都问她在干嘛](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%9C%8B%E5%8F%8B%E6%AF%8F%E5%A4%A9%E9%83%BD%E9%97%AE%E5%A5%B9%E5%9C%A8%E5%B9%B2%E5%98%9B%23&Refer=top)
+
+1. [付豪首秀](https://s.weibo.com//weibo?q=%23%E4%BB%98%E8%B1%AA%E9%A6%96%E7%A7%80%23&Refer=top)
+
+1. [网友建议民政局3月14日上班](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E6%B0%91%E6%94%BF%E5%B1%803%E6%9C%8814%E6%97%A5%E4%B8%8A%E7%8F%AD%23&Refer=top)
+
+1. [内蒙古计划关停所有虚拟币挖矿项目](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E8%AE%A1%E5%88%92%E5%85%B3%E5%81%9C%E6%89%80%E6%9C%89%E8%99%9A%E6%8B%9F%E5%B8%81%E6%8C%96%E7%9F%BF%E9%A1%B9%E7%9B%AE&Refer=top)
+
+1. [曾少年开机](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E5%B0%91%E5%B9%B4%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [心疼周子舒](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E5%91%A8%E5%AD%90%E8%88%92&Refer=top)
+
+1. [55岁男子回应娶年轻智障女孩](https://s.weibo.com//weibo?q=%2355%E5%B2%81%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%A8%B6%E5%B9%B4%E8%BD%BB%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%AD%A9%23&Refer=top)
+
+1. [温客行黑化](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AE%A2%E8%A1%8C%E9%BB%91%E5%8C%96%23&Refer=top)
+
+1. [刘西瓜叫苏檀儿嫂子](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%A5%BF%E7%93%9C%E5%8F%AB%E8%8B%8F%E6%AA%80%E5%84%BF%E5%AB%82%E5%AD%90%23&Refer=top)
+
+1. [美国医生参加视频听证会时忙着做手术](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8F%82%E5%8A%A0%E8%A7%86%E9%A2%91%E5%90%AC%E8%AF%81%E4%BC%9A%E6%97%B6%E5%BF%99%E7%9D%80%E5%81%9A%E6%89%8B%E6%9C%AF&Refer=top)
+
+1. [FPX战胜JDG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CJDG%23&Refer=top)
+
+1. [开学第一课](https://s.weibo.com//weibo?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE&Refer=top)
+
+1. [张哲瀚演的周子舒](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E6%BC%94%E7%9A%84%E5%91%A8%E5%AD%90%E8%88%92&Refer=top)
+
+1. [巴托梅乌被捕](https://s.weibo.com//weibo?q=%E5%B7%B4%E6%89%98%E6%A2%85%E4%B9%8C%E8%A2%AB%E6%8D%95&Refer=top)
+
+1. [宁夏中学强制学生订早餐奶](https://s.weibo.com//weibo?q=%E5%AE%81%E5%A4%8F%E4%B8%AD%E5%AD%A6%E5%BC%BA%E5%88%B6%E5%AD%A6%E7%94%9F%E8%AE%A2%E6%97%A9%E9%A4%90%E5%A5%B6&Refer=top)
+
+1. [爱的理想生活](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [江西吉安一直升机坠毁民房中](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%A5%BF%E5%90%89%E5%AE%89%E4%B8%80%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%B0%91%E6%88%BF%E4%B8%AD&Refer=top)
 
