@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-01 21:11:50
+## 微博今日热榜 更新于 2021-03-01 22:03:00
 1. [3月1日起最新刑法修正案开始生效](https://s.weibo.com//weibo?q=%233%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9C%80%E6%96%B0%E5%88%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%BC%80%E5%A7%8B%E7%94%9F%E6%95%88%23&Refer=new_time)
 
 1. [贾玲是坐杨紫身上了吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%98%AF%E5%9D%90%E6%9D%A8%E7%B4%AB%E8%BA%AB%E4%B8%8A%E4%BA%86%E5%90%97%23&Refer=top)
@@ -438,4 +438,26 @@
 1. [爱的理想生活](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB&Refer=top)
 
 1. [江西吉安一直升机坠毁民房中](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%A5%BF%E5%90%89%E5%AE%89%E4%B8%80%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E6%AF%81%E6%B0%91%E6%88%BF%E4%B8%AD&Refer=top)
+
+1. [被编号为0001号文物的绞刑架](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%BC%96%E5%8F%B7%E4%B8%BA0001%E5%8F%B7%E6%96%87%E7%89%A9%E7%9A%84%E7%BB%9E%E5%88%91%E6%9E%B6%23&Refer=top)
+
+1. [段星星 生命不可承受之重](https://s.weibo.com//weibo?q=%E6%AE%B5%E6%98%9F%E6%98%9F%20%E7%94%9F%E5%91%BD%E4%B8%8D%E5%8F%AF%E6%89%BF%E5%8F%97%E4%B9%8B%E9%87%8D&Refer=top)
+
+1. [日本计划3月7日全面结束紧急状态](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%923%E6%9C%887%E6%97%A5%E5%85%A8%E9%9D%A2%E7%BB%93%E6%9D%9F%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [王者荣耀露娜皮肤](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%9C%B2%E5%A8%9C%E7%9A%AE%E8%82%A4&Refer=top)
+
+1. [海底捞2020年净利润下降约90%](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%BA%95%E6%8D%9E2020%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D%E7%BA%A690%25&Refer=top)
+
+1. [上海凉城路交通事故已致2死5伤](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%87%89%E5%9F%8E%E8%B7%AF%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E6%AD%BB5%E4%BC%A4%23&Refer=top)
+
+1. [萨科齐被判处有期徒刑3年缓刑2年](https://s.weibo.com//weibo?q=%E8%90%A8%E7%A7%91%E9%BD%90%E8%A2%AB%E5%88%A4%E5%A4%84%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%E7%BC%93%E5%88%912%E5%B9%B4&Refer=top)
+
+1. [赵继伟37分](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%BB%A7%E4%BC%9F37%E5%88%86&Refer=top)
+
+1. [中学配备班级非智能公用手机](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%AD%A6%E9%85%8D%E5%A4%87%E7%8F%AD%E7%BA%A7%E9%9D%9E%E6%99%BA%E8%83%BD%E5%85%AC%E7%94%A8%E6%89%8B%E6%9C%BA&Refer=top)
+
+1. [央视复盘货拉拉事件](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E5%A4%8D%E7%9B%98%E8%B4%A7%E6%8B%89%E6%8B%89%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [开学第一课致敬卫国戍边英雄](https://s.weibo.com//weibo?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E8%87%B4%E6%95%AC%E5%8D%AB%E5%9B%BD%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84&Refer=top)
 
