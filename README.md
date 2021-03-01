@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 05:02:43
+## 微博今日热榜 更新于 2021-03-02 06:04:03
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -136,4 +136,8 @@
 1. [河北省考公告](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8C%97%E7%9C%81%E8%80%83%E5%85%AC%E5%91%8A&Refer=top)
 
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [高校本科专业目录新增37个新专业](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E6%96%B0%E5%A2%9E37%E4%B8%AA%E6%96%B0%E4%B8%93%E4%B8%9A%23&Refer=new_time)
+
+1. [金球奖](https://s.weibo.com//weibo?q=%E9%87%91%E7%90%83%E5%A5%96&Refer=top)
 
