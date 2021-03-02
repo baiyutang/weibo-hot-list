@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-03 00:03:57
+## 微博今日热榜 更新于 2021-03-03 01:24:31
 1. [我国将发射全球首颗主动激光雷达二氧化碳探测卫星](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%8F%91%E5%B0%84%E5%85%A8%E7%90%83%E9%A6%96%E9%A2%97%E4%B8%BB%E5%8A%A8%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E6%8E%A2%E6%B5%8B%E5%8D%AB%E6%98%9F%23&Refer=new_time)
 
 1. [鹿晗一到薇娅直播间就变吃播](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%80%E5%88%B0%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B0%B1%E5%8F%98%E5%90%83%E6%92%AD%23&Refer=top)
@@ -102,4 +102,16 @@
 1. [凤梨](https://s.weibo.com//weibo?q=%E5%87%A4%E6%A2%A8&Refer=top)
 
 1. [刚果金暴发未知疾病已致15人死亡](https://s.weibo.com//weibo?q=%E5%88%9A%E6%9E%9C%E9%87%91%E6%9A%B4%E5%8F%91%E6%9C%AA%E7%9F%A5%E7%96%BE%E7%97%85%E5%B7%B2%E8%87%B415%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [2020年中国成就对账单](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%88%90%E5%B0%B1%E5%AF%B9%E8%B4%A6%E5%8D%95%23&Refer=new_time)
+
+1. [太极乐队唐奕聪去世](https://s.weibo.com//weibo?q=%E5%A4%AA%E6%9E%81%E4%B9%90%E9%98%9F%E5%94%90%E5%A5%95%E8%81%AA%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [代表建议医院增设护工岗位](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8C%BB%E9%99%A2%E5%A2%9E%E8%AE%BE%E6%8A%A4%E5%B7%A5%E5%B2%97%E4%BD%8D%23&Refer=top)
+
+1. [爱的理想生活](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [暴风眼](https://s.weibo.com//weibo?q=%E6%9A%B4%E9%A3%8E%E7%9C%BC&Refer=top)
 
