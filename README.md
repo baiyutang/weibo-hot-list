@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 10:03:07
+## 微博今日热榜 更新于 2021-03-02 11:03:15
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -224,4 +224,26 @@
 1. [父亲带儿子用玩具拍数百集大片](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%B8%A6%E5%84%BF%E5%AD%90%E7%94%A8%E7%8E%A9%E5%85%B7%E6%8B%8D%E6%95%B0%E7%99%BE%E9%9B%86%E5%A4%A7%E7%89%87%23&Refer=top)
 
 1. [浙江3月下雪](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F3%E6%9C%88%E4%B8%8B%E9%9B%AA%23&Refer=top)
+
+1. [黄金](https://s.weibo.com//weibo?q=%E9%BB%84%E9%87%91&Refer=top)
+
+1. [教资面试成绩](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [加拿大所有省份均发现变异新冠病例](https://s.weibo.com//weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%80%E6%9C%89%E7%9C%81%E4%BB%BD%E5%9D%87%E5%8F%91%E7%8E%B0%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [全美270家苹果店全部开业](https://s.weibo.com//weibo?q=%E5%85%A8%E7%BE%8E270%E5%AE%B6%E8%8B%B9%E6%9E%9C%E5%BA%97%E5%85%A8%E9%83%A8%E5%BC%80%E4%B8%9A&Refer=top)
+
+1. [女子解救被困黄麂遭人跟踪](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E9%BB%84%E9%BA%82%E9%81%AD%E4%BA%BA%E8%B7%9F%E8%B8%AA&Refer=top)
+
+1. [两会时间](https://s.weibo.com//weibo?q=%E4%B8%A4%E4%BC%9A%E6%97%B6%E9%97%B4&Refer=top)
+
+1. [推动银行业保险业高质量发展](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%8A%A8%E9%93%B6%E8%A1%8C%E4%B8%9A%E4%BF%9D%E9%99%A9%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&Refer=top)
+
+1. [中驻加使馆发布最新防疫提醒](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%A9%BB%E5%8A%A0%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E9%98%B2%E7%96%AB%E6%8F%90%E9%86%92%23&Refer=top)
+
+1. [王彦霖承认恋情](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%BD%A6%E9%9C%96%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [诺阿宣布退役](https://s.weibo.com//weibo?q=%E8%AF%BA%E9%98%BF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&Refer=top)
 
