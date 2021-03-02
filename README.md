@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-03 05:02:50
+## 微博今日热榜 更新于 2021-03-03 06:02:58
 1. [我国将发射全球首颗主动激光雷达二氧化碳探测卫星](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%8F%91%E5%B0%84%E5%85%A8%E7%90%83%E9%A6%96%E9%A2%97%E4%B8%BB%E5%8A%A8%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E6%8E%A2%E6%B5%8B%E5%8D%AB%E6%98%9F%23&Refer=new_time)
 
 1. [鹿晗一到薇娅直播间就变吃播](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%80%E5%88%B0%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B0%B1%E5%8F%98%E5%90%83%E6%92%AD%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [宇宙音乐之夜艺人禁忌点](https://s.weibo.com//weibo?q=%23%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A4%9C%E8%89%BA%E4%BA%BA%E7%A6%81%E5%BF%8C%E7%82%B9%23&Refer=top)
 
 1. [基金](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%23&Refer=top)
+
+1. [原神胡桃](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E%E8%83%A1%E6%A1%83&Refer=top)
 
