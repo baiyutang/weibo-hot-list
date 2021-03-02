@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 07:02:41
+## 微博今日热榜 更新于 2021-03-02 08:05:49
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -142,4 +142,34 @@
 1. [金球奖](https://s.weibo.com//weibo?q=%E9%87%91%E7%90%83%E5%A5%96&Refer=top)
 
 1. [中欧地理标志协定3月1日正式生效](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%AC%A7%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E5%8D%8F%E5%AE%9A3%E6%9C%881%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88%23&Refer=new_time)
+
+1. [鞠婧祎把水洒到了吴宣仪裙子上](https://s.weibo.com//weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%8A%8A%E6%B0%B4%E6%B4%92%E5%88%B0%E4%BA%86%E5%90%B4%E5%AE%A3%E4%BB%AA%E8%A3%99%E5%AD%90%E4%B8%8A&Refer=top)
+
+1. [吴孟达追思会取消](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE%E8%BF%BD%E6%80%9D%E4%BC%9A%E5%8F%96%E6%B6%88&Refer=top)
+
+1. [教育部撤销518个高校专业](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%92%A4%E9%94%80518%E4%B8%AA%E9%AB%98%E6%A0%A1%E4%B8%93%E4%B8%9A%23&Refer=top)
+
+1. [微博拉黑新功能](https://s.weibo.com//weibo?q=%E5%BE%AE%E5%8D%9A%E6%8B%89%E9%BB%91%E6%96%B0%E5%8A%9F%E8%83%BD&Refer=top)
+
+1. [楼舒婉黑化](https://s.weibo.com//weibo?q=%E6%A5%BC%E8%88%92%E5%A9%89%E9%BB%91%E5%8C%96&Refer=top)
+
+1. [世卫称年底前结束疫情不现实](https://s.weibo.com//weibo?q=%E4%B8%96%E5%8D%AB%E7%A7%B0%E5%B9%B4%E5%BA%95%E5%89%8D%E7%BB%93%E6%9D%9F%E7%96%AB%E6%83%85%E4%B8%8D%E7%8E%B0%E5%AE%9E&Refer=top)
+
+1. [当仿妆博主开挂了](https://s.weibo.com//weibo?q=%E5%BD%93%E4%BB%BF%E5%A6%86%E5%8D%9A%E4%B8%BB%E5%BC%80%E6%8C%82%E4%BA%86&Refer=top)
+
+1. [绿茶和被撩的男友哪个更让人生气](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E8%8C%B6%E5%92%8C%E8%A2%AB%E6%92%A9%E7%9A%84%E7%94%B7%E5%8F%8B%E5%93%AA%E4%B8%AA%E6%9B%B4%E8%AE%A9%E4%BA%BA%E7%94%9F%E6%B0%94%23&Refer=top)
+
+1. [王源的花漏水了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%9A%84%E8%8A%B1%E6%BC%8F%E6%B0%B4%E4%BA%86%23&Refer=top)
+
+1. [白宇发出来的面只是冰山一角](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%87%E5%8F%91%E5%87%BA%E6%9D%A5%E7%9A%84%E9%9D%A2%E5%8F%AA%E6%98%AF%E5%86%B0%E5%B1%B1%E4%B8%80%E8%A7%92%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [9款泡面的神仙吃法](https://s.weibo.com//weibo?q=9%E6%AC%BE%E6%B3%A1%E9%9D%A2%E7%9A%84%E7%A5%9E%E4%BB%99%E5%90%83%E6%B3%95&Refer=top)
+
+1. [19岁女孩持美工刀抢金店](https://s.weibo.com//weibo?q=19%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%81%E7%BE%8E%E5%B7%A5%E5%88%80%E6%8A%A2%E9%87%91%E5%BA%97&Refer=top)
+
+1. [胡宇桐粉丝社死现场](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%AE%87%E6%A1%90%E7%B2%89%E4%B8%9D%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [老人骑三轮5公里为重外孙女买气球](https://s.weibo.com//weibo?q=%E8%80%81%E4%BA%BA%E9%AA%91%E4%B8%89%E8%BD%AE5%E5%85%AC%E9%87%8C%E4%B8%BA%E9%87%8D%E5%A4%96%E5%AD%99%E5%A5%B3%E4%B9%B0%E6%B0%94%E7%90%83&Refer=top)
 
