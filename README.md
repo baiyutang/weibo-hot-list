@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-03 04:03:01
+## 微博今日热榜 更新于 2021-03-03 05:02:50
 1. [我国将发射全球首颗主动激光雷达二氧化碳探测卫星](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%8F%91%E5%B0%84%E5%85%A8%E7%90%83%E9%A6%96%E9%A2%97%E4%B8%BB%E5%8A%A8%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E6%8E%A2%E6%B5%8B%E5%8D%AB%E6%98%9F%23&Refer=new_time)
 
 1. [鹿晗一到薇娅直播间就变吃播](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%80%E5%88%B0%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B0%B1%E5%8F%98%E5%90%83%E6%92%AD%23&Refer=top)
@@ -120,4 +120,10 @@
 1. [云南拍到双角犀鸟封巢影像](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%8B%8D%E5%88%B0%E5%8F%8C%E8%A7%92%E7%8A%80%E9%B8%9F%E5%B0%81%E5%B7%A2%E5%BD%B1%E5%83%8F&Refer=top)
 
 1. [温客行救人](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AE%A2%E8%A1%8C%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [长江保护法正式实施](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B1%9F%E4%BF%9D%E6%8A%A4%E6%B3%95%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD%23&Refer=new_time)
+
+1. [宇宙音乐之夜艺人禁忌点](https://s.weibo.com//weibo?q=%23%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A4%9C%E8%89%BA%E4%BA%BA%E7%A6%81%E5%BF%8C%E7%82%B9%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%23&Refer=top)
 
