@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-02 22:02:37
+## 微博今日热榜 更新于 2021-03-02 23:02:27
 1. [京彩e品](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E5%BD%A9e%E5%93%81%23&Refer=new_time)
 
 1. [嗯哼被送外号小李现](https://s.weibo.com//weibo?q=%23%E5%97%AF%E5%93%BC%E8%A2%AB%E9%80%81%E5%A4%96%E5%8F%B7%E5%B0%8F%E6%9D%8E%E7%8E%B0%23&Refer=top)
@@ -508,4 +508,24 @@
 1. [3种治疗新冠肺炎中药颗粒获批上市](https://s.weibo.com//weibo?q=%233%E7%A7%8D%E6%B2%BB%E7%96%97%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E4%B8%AD%E8%8D%AF%E9%A2%97%E7%B2%92%E8%8E%B7%E6%89%B9%E4%B8%8A%E5%B8%82%23&Refer=top)
 
 1. [李佳琦张韶涵直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [用汉服证件照登记结婚被拒](https://s.weibo.com//weibo?q=%E7%94%A8%E6%B1%89%E6%9C%8D%E8%AF%81%E4%BB%B6%E7%85%A7%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%E8%A2%AB%E6%8B%92&Refer=top)
+
+1. [徐令宜为了圆房有多努力](https://s.weibo.com//weibo?q=%23%E5%BE%90%E4%BB%A4%E5%AE%9C%E4%B8%BA%E4%BA%86%E5%9C%86%E6%88%BF%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top)
+
+1. [沈梓捷绝杀](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%93%E6%8D%B7%E7%BB%9D%E6%9D%80&Refer=top)
+
+1. [徐令宜公主抱十一娘](https://s.weibo.com//weibo?q=%23%E5%BE%90%E4%BB%A4%E5%AE%9C%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%8D%81%E4%B8%80%E5%A8%98%23&Refer=top)
+
+1. [被写入判决书的网络表情](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%86%99%E5%85%A5%E5%88%A4%E5%86%B3%E4%B9%A6%E7%9A%84%E7%BD%91%E7%BB%9C%E8%A1%A8%E6%83%85%23&Refer=top)
+
+1. [离谱说唱](https://s.weibo.com//weibo?q=%E7%A6%BB%E8%B0%B1%E8%AF%B4%E5%94%B1&Refer=top)
+
+1. [我国最大内陆淡水湖推冰奇观](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%86%85%E9%99%86%E6%B7%A1%E6%B0%B4%E6%B9%96%E6%8E%A8%E5%86%B0%E5%A5%87%E8%A7%82&Refer=top)
+
+1. [白岩松专访国药集团中国生物董事长](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E4%B8%93%E8%AE%BF%E5%9B%BD%E8%8D%AF%E9%9B%86%E5%9B%A2%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%89%A9%E8%91%A3%E4%BA%8B%E9%95%BF%23&Refer=top)
+
+1. [宇宙音乐之夜艺人禁忌点](https://s.weibo.com//weibo?q=%23%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A4%9C%E8%89%BA%E4%BA%BA%E7%A6%81%E5%BF%8C%E7%82%B9%23&Refer=top)
+
+1. [云南拍到双角犀鸟封巢影像](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%8B%8D%E5%88%B0%E5%8F%8C%E8%A7%92%E7%8A%80%E9%B8%9F%E5%B0%81%E5%B7%A2%E5%BD%B1%E5%83%8F&Refer=top)
 
