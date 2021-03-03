@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-04 05:02:42
+## 微博今日热榜 更新于 2021-03-04 06:02:58
 1. [中方将提供1000万剂国产疫苗给发展中国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%8F%90%E4%BE%9B1000%E4%B8%87%E5%89%82%E5%9B%BD%E4%BA%A7%E7%96%AB%E8%8B%97%E7%BB%99%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%23&Refer=new_time)
 
 1. [angelababy ins配图](https://s.weibo.com//weibo?q=angelababy%20ins%E9%85%8D%E5%9B%BE&Refer=top)
