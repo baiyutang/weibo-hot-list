@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-04 06:02:58
+## 微博今日热榜 更新于 2021-03-04 07:02:53
 1. [中方将提供1000万剂国产疫苗给发展中国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%8F%90%E4%BE%9B1000%E4%B8%87%E5%89%82%E5%9B%BD%E4%BA%A7%E7%96%AB%E8%8B%97%E7%BB%99%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%23&Refer=new_time)
 
 1. [angelababy ins配图](https://s.weibo.com//weibo?q=angelababy%20ins%E9%85%8D%E5%9B%BE&Refer=top)
@@ -132,4 +132,8 @@
 1. [警方还原货拉拉乘客跳窗案经过](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BF%98%E5%8E%9F%E8%B4%A7%E6%8B%89%E6%8B%89%E4%B9%98%E5%AE%A2%E8%B7%B3%E7%AA%97%E6%A1%88%E7%BB%8F%E8%BF%87%23&Refer=top)
 
 1. [北大获10亿元个人捐赠](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E8%8E%B710%E4%BA%BF%E5%85%83%E4%B8%AA%E4%BA%BA%E6%8D%90%E8%B5%A0%23&Refer=top)
+
+1. [红米k40](https://s.weibo.com//weibo?q=%E7%BA%A2%E7%B1%B3k40&Refer=top)
+
+1. [杨鸣批辽宁队打得臭](https://s.weibo.com//weibo?q=%E6%9D%A8%E9%B8%A3%E6%89%B9%E8%BE%BD%E5%AE%81%E9%98%9F%E6%89%93%E5%BE%97%E8%87%AD&Refer=top)
 
