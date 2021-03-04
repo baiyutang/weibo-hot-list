@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-04 15:02:37
+## 微博今日热榜 更新于 2021-03-04 16:03:09
 1. [中方将提供1000万剂国产疫苗给发展中国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%8F%90%E4%BE%9B1000%E4%B8%87%E5%89%82%E5%9B%BD%E4%BA%A7%E7%96%AB%E8%8B%97%E7%BB%99%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%23&Refer=new_time)
 
 1. [angelababy ins配图](https://s.weibo.com//weibo?q=angelababy%20ins%E9%85%8D%E5%9B%BE&Refer=top)
@@ -356,4 +356,20 @@
 1. [东京奥运会基本排除闭门举行](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%9F%BA%E6%9C%AC%E6%8E%92%E9%99%A4%E9%97%AD%E9%97%A8%E4%B8%BE%E8%A1%8C&Refer=top)
 
 1. [这样的中国你我都有份儿](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BD%A0%E6%88%91%E9%83%BD%E6%9C%89%E4%BB%BD%E5%84%BF%23&Refer=top)
+
+1. [央视评货拉拉事件中似是而非的声音](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E8%B4%A7%E6%8B%89%E6%8B%89%E4%BA%8B%E4%BB%B6%E4%B8%AD%E4%BC%BC%E6%98%AF%E8%80%8C%E9%9D%9E%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top)
+
+1. [井柏然好像偶像剧里下课的少年](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%A5%BD%E5%83%8F%E5%81%B6%E5%83%8F%E5%89%A7%E9%87%8C%E4%B8%8B%E8%AF%BE%E7%9A%84%E5%B0%91%E5%B9%B4%23&Refer=top)
+
+1. [政协委员呼吁120设为国家急救日](https://s.weibo.com//weibo?q=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E5%91%BC%E5%90%81120%E8%AE%BE%E4%B8%BA%E5%9B%BD%E5%AE%B6%E6%80%A5%E6%95%91%E6%97%A5&Refer=top)
+
+1. [南宁地铁站无人书店](https://s.weibo.com//weibo?q=%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E7%AB%99%E6%97%A0%E4%BA%BA%E4%B9%A6%E5%BA%97&Refer=top)
+
+1. [原来银河系这么壮观](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%93%B6%E6%B2%B3%E7%B3%BB%E8%BF%99%E4%B9%88%E5%A3%AE%E8%A7%82%23&Refer=top)
+
+1. [爆浆芝士咸蛋黄烧卖](https://s.weibo.com//weibo?q=%E7%88%86%E6%B5%86%E8%8A%9D%E5%A3%AB%E5%92%B8%E8%9B%8B%E9%BB%84%E7%83%A7%E5%8D%96&Refer=top)
+
+1. [全国妇联建议家暴报警单独列项](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A6%87%E8%81%94%E5%BB%BA%E8%AE%AE%E5%AE%B6%E6%9A%B4%E6%8A%A5%E8%AD%A6%E5%8D%95%E7%8B%AC%E5%88%97%E9%A1%B9%23&Refer=top)
+
+1. [两会vlog](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BC%9Avlog%23&Refer=top)
 
