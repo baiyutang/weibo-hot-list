@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-04 19:02:42
+## 微博今日热榜 更新于 2021-03-04 20:03:33
 1. [中方将提供1000万剂国产疫苗给发展中国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%8F%90%E4%BE%9B1000%E4%B8%87%E5%89%82%E5%9B%BD%E4%BA%A7%E7%96%AB%E8%8B%97%E7%BB%99%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%23&Refer=new_time)
 
 1. [angelababy ins配图](https://s.weibo.com//weibo?q=angelababy%20ins%E9%85%8D%E5%9B%BE&Refer=top)
@@ -446,4 +446,20 @@
 1. [RNG LNG](https://s.weibo.com//weibo?q=RNG%20LNG&Refer=top)
 
 1. [委员建议设立人民英雄纪念日](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E8%AE%BE%E7%AB%8B%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E6%97%A5%23&Refer=top)
+
+1. [菠萝价涨近3倍创历史新高](https://s.weibo.com//weibo?q=%23%E8%8F%A0%E8%90%9D%E4%BB%B7%E6%B6%A8%E8%BF%913%E5%80%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&Refer=top)
+
+1. [永不消逝的爱](https://s.weibo.com//weibo?q=%E6%B0%B8%E4%B8%8D%E6%B6%88%E9%80%9D%E7%9A%84%E7%88%B1&Refer=top)
+
+1. [魏大勋说太感动案子不破了](https://s.weibo.com//weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E5%A4%AA%E6%84%9F%E5%8A%A8%E6%A1%88%E5%AD%90%E4%B8%8D%E7%A0%B4%E4%BA%86%23&Refer=top)
+
+1. [女兵背18公斤导弹筒冲刺300米](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%85%B5%E8%83%8C18%E5%85%AC%E6%96%A4%E5%AF%BC%E5%BC%B9%E7%AD%92%E5%86%B2%E5%88%BA300%E7%B1%B3%23&Refer=top)
+
+1. [党妹澄清抄袭](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%A6%B9%E6%BE%84%E6%B8%85%E6%8A%84%E8%A2%AD%23&Refer=top)
+
+1. [男子西藏发现蓝色古冰川](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E8%A5%BF%E8%97%8F%E5%8F%91%E7%8E%B0%E8%93%9D%E8%89%B2%E5%8F%A4%E5%86%B0%E5%B7%9D&Refer=top)
+
+1. [钟汉良拿着蛋挞自拍](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E6%8B%BF%E7%9D%80%E8%9B%8B%E6%8C%9E%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [邓孝慈表情管理](https://s.weibo.com//weibo?q=%23%E9%82%93%E5%AD%9D%E6%85%88%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23&Refer=top)
 
