@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-05 04:03:17
+## 微博今日热榜 更新于 2021-03-05 05:02:49
 1. [这样的中国你我都有份儿](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BD%A0%E6%88%91%E9%83%BD%E6%9C%89%E4%BB%BD%E5%84%BF%23&Refer=new_time)
 
 1. [院士不建议普通孩子学奥数](https://s.weibo.com//weibo?q=%23%E9%99%A2%E5%A3%AB%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E5%A5%A5%E6%95%B0%23&Refer=top)
