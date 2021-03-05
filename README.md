@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 00:04:19
+## 微博今日热榜 更新于 2021-03-06 01:22:16
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -102,4 +102,16 @@
 1. [胎儿在母亲子宫内感染新冠案例](https://s.weibo.com//weibo?q=%23%E8%83%8E%E5%84%BF%E5%9C%A8%E6%AF%8D%E4%BA%B2%E5%AD%90%E5%AE%AB%E5%86%85%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E6%A1%88%E4%BE%8B%23&Refer=top)
 
 1. [超30位日本名人请辞奥运火炬手](https://s.weibo.com//weibo?q=%E8%B6%8530%E4%BD%8D%E6%97%A5%E6%9C%AC%E5%90%8D%E4%BA%BA%E8%AF%B7%E8%BE%9E%E5%A5%A5%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B&Refer=top)
+
+1. [闺蜜应该被无条件信任吗](https://s.weibo.com//weibo?q=%23%E9%97%BA%E8%9C%9C%E5%BA%94%E8%AF%A5%E8%A2%AB%E6%97%A0%E6%9D%A1%E4%BB%B6%E4%BF%A1%E4%BB%BB%E5%90%97%23&Refer=top)
+
+1. [进击的巨人](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [华晨宇 花峰想知道汪峰老师怎么评价](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%20%E8%8A%B1%E5%B3%B0%E6%83%B3%E7%9F%A5%E9%81%93%E6%B1%AA%E5%B3%B0%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7&Refer=top)
+
+1. [河南博物院复原古乐器演绎清平乐](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%9A%E7%89%A9%E9%99%A2%E5%A4%8D%E5%8E%9F%E5%8F%A4%E4%B9%90%E5%99%A8%E6%BC%94%E7%BB%8E%E6%B8%85%E5%B9%B3%E4%B9%90%23&Refer=top)
+
+1. [建议将近视防控节点前移至0岁](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E8%BF%91%E8%A7%86%E9%98%B2%E6%8E%A7%E8%8A%82%E7%82%B9%E5%89%8D%E7%A7%BB%E8%87%B30%E5%B2%81%23&Refer=top)
+
+1. [春日清甜紫玫瑰妆](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E6%B8%85%E7%94%9C%E7%B4%AB%E7%8E%AB%E7%91%B0%E5%A6%86%23&Refer=top)
 
