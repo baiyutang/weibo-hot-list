@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-05 19:02:55
+## 微博今日热榜 更新于 2021-03-05 20:03:35
 1. [这样的中国你我都有份儿](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BD%A0%E6%88%91%E9%83%BD%E6%9C%89%E4%BB%BD%E5%84%BF%23&Refer=new_time)
 
 1. [院士不建议普通孩子学奥数](https://s.weibo.com//weibo?q=%23%E9%99%A2%E5%A3%AB%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E5%A5%A5%E6%95%B0%23&Refer=top)
@@ -444,4 +444,24 @@
 1. [时代少年团七人连织毛衣送杨迪](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%83%E4%BA%BA%E8%BF%9E%E7%BB%87%E6%AF%9B%E8%A1%A3%E9%80%81%E6%9D%A8%E8%BF%AA%23&Refer=top)
 
 1. [违法带货主播该被市场永久禁入吗](https://s.weibo.com//weibo?q=%23%E8%BF%9D%E6%B3%95%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD%E8%AF%A5%E8%A2%AB%E5%B8%82%E5%9C%BA%E6%B0%B8%E4%B9%85%E7%A6%81%E5%85%A5%E5%90%97%23&Refer=top)
+
+1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
+
+1. [港区全国人大代表发声](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E5%8C%BA%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [王牌对王牌](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&Refer=top)
+
+1. [新闻联播时长](https://s.weibo.com//weibo?q=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%97%B6%E9%95%BF&Refer=top)
+
+1. [摆完摊不收走帐篷的后果](https://s.weibo.com//weibo?q=%23%E6%91%86%E5%AE%8C%E6%91%8A%E4%B8%8D%E6%94%B6%E8%B5%B0%E5%B8%90%E7%AF%B7%E7%9A%84%E5%90%8E%E6%9E%9C%23&Refer=top)
+
+1. [俞敏洪建议将儿童孤独症筛查入医保](https://s.weibo.com//weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%84%BF%E7%AB%A5%E5%AD%A4%E7%8B%AC%E7%97%87%E7%AD%9B%E6%9F%A5%E5%85%A5%E5%8C%BB%E4%BF%9D%23&Refer=top)
+
+1. [建议加强青少年性健康教育](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E9%9D%92%E5%B0%91%E5%B9%B4%E6%80%A7%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%23&Refer=top)
+
+1. [热恋草莓春雪鲜牛乳](https://s.weibo.com//weibo?q=%E7%83%AD%E6%81%8B%E8%8D%89%E8%8E%93%E6%98%A5%E9%9B%AA%E9%B2%9C%E7%89%9B%E4%B9%B3&Refer=top)
+
+1. [瞬间爷青回的游乐场](https://s.weibo.com//weibo?q=%E7%9E%AC%E9%97%B4%E7%88%B7%E9%9D%92%E5%9B%9E%E7%9A%84%E6%B8%B8%E4%B9%90%E5%9C%BA&Refer=top)
+
+1. [代表建议立法保障外卖小哥休息权利](https://s.weibo.com//weibo?q=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%BC%91%E6%81%AF%E6%9D%83%E5%88%A9&Refer=top)
 
