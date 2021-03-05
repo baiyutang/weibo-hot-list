@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 05:02:24
+## 微博今日热榜 更新于 2021-03-06 06:03:14
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [交通部约谈滴滴](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%80%9A%E9%83%A8%E7%BA%A6%E8%B0%88%E6%BB%B4%E6%BB%B4&Refer=top)
 
 1. [旺达幻视大结局](https://s.weibo.com//weibo?q=%23%E6%97%BA%E8%BE%BE%E5%B9%BB%E8%A7%86%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [大叔用蔬菜水果雕刻人像](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%8F%94%E7%94%A8%E8%94%AC%E8%8F%9C%E6%B0%B4%E6%9E%9C%E9%9B%95%E5%88%BB%E4%BA%BA%E5%83%8F&Refer=top)
+
+1. [赘婿](https://s.weibo.com//weibo?q=%E8%B5%98%E5%A9%BF&Refer=top)
 
