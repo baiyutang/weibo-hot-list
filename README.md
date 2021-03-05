@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-05 20:03:35
+## 微博今日热榜 更新于 2021-03-05 21:06:20
 1. [这样的中国你我都有份儿](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BD%A0%E6%88%91%E9%83%BD%E6%9C%89%E4%BB%BD%E5%84%BF%23&Refer=new_time)
 
 1. [院士不建议普通孩子学奥数](https://s.weibo.com//weibo?q=%23%E9%99%A2%E5%A3%AB%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E5%A5%A5%E6%95%B0%23&Refer=top)
@@ -464,4 +464,32 @@
 1. [瞬间爷青回的游乐场](https://s.weibo.com//weibo?q=%E7%9E%AC%E9%97%B4%E7%88%B7%E9%9D%92%E5%9B%9E%E7%9A%84%E6%B8%B8%E4%B9%90%E5%9C%BA&Refer=top)
 
 1. [代表建议立法保障外卖小哥休息权利](https://s.weibo.com//weibo?q=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%BC%91%E6%81%AF%E6%9D%83%E5%88%A9&Refer=top)
+
+1. [十四亿人的十四五](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%9B%9B%E4%BA%BF%E4%BA%BA%E7%9A%84%E5%8D%81%E5%9B%9B%E4%BA%94%23&Refer=new_time)
+
+1. [白敬亭踮脚签名](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B8%AE%E8%84%9A%E7%AD%BE%E5%90%8D%23&Refer=top)
+
+1. [建议新生儿指纹采集为身份登记必备流程](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%96%B0%E7%94%9F%E5%84%BF%E6%8C%87%E7%BA%B9%E9%87%87%E9%9B%86%E4%B8%BA%E8%BA%AB%E4%BB%BD%E7%99%BB%E8%AE%B0%E5%BF%85%E5%A4%87%E6%B5%81%E7%A8%8B%23&Refer=top)
+
+1. [建议制定大学数理化水平等级考试](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%88%B6%E5%AE%9A%E5%A4%A7%E5%AD%A6%E6%95%B0%E7%90%86%E5%8C%96%E6%B0%B4%E5%B9%B3%E7%AD%89%E7%BA%A7%E8%80%83%E8%AF%95%23&Refer=top)
+
+1. [孙俪晒低脂晚餐](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E6%99%92%E4%BD%8E%E8%84%82%E6%99%9A%E9%A4%90%23&Refer=top)
+
+1. [世界首家太空酒店预计2027年营运](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E9%A6%96%E5%AE%B6%E5%A4%AA%E7%A9%BA%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A12027%E5%B9%B4%E8%90%A5%E8%BF%90&Refer=top)
+
+1. [第二名的逆袭](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%BA%8C%E5%90%8D%E7%9A%84%E9%80%86%E8%A2%AD&Refer=top)
+
+1. [马嘉祺说父亲看自己表演落泪](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%AF%B4%E7%88%B6%E4%BA%B2%E7%9C%8B%E8%87%AA%E5%B7%B1%E8%A1%A8%E6%BC%94%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [韩美娟说参加创4少赚了600万](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E8%AF%B4%E5%8F%82%E5%8A%A0%E5%88%9B4%E5%B0%91%E8%B5%9A%E4%BA%86600%E4%B8%87%23&Refer=top)
+
+1. [建议将心肺复苏术培训纳入驾考](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%BA%B3%E5%85%A5%E9%A9%BE%E8%80%83%23&Refer=top)
+
+1. [建议明确自媒体洗稿为侵犯版权](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%98%8E%E7%A1%AE%E8%87%AA%E5%AA%92%E4%BD%93%E6%B4%97%E7%A8%BF%E4%B8%BA%E4%BE%B5%E7%8A%AF%E7%89%88%E6%9D%83%23&Refer=top)
+
+1. [玲珑大结局](https://s.weibo.com//weibo?q=%23%E7%8E%B2%E7%8F%91%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [春日赤茶橘系妆](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E8%B5%A4%E8%8C%B6%E6%A9%98%E7%B3%BB%E5%A6%86%23&Refer=top)
+
+1. [草原上的小卓玛](https://s.weibo.com//weibo?q=%23%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%9A%84%E5%B0%8F%E5%8D%93%E7%8E%9B%23&Refer=top)
 
