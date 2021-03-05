@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 01:22:16
+## 微博今日热榜 更新于 2021-03-06 02:04:06
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [建议将近视防控节点前移至0岁](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E8%BF%91%E8%A7%86%E9%98%B2%E6%8E%A7%E8%8A%82%E7%82%B9%E5%89%8D%E7%A7%BB%E8%87%B30%E5%B2%81%23&Refer=top)
 
 1. [春日清甜紫玫瑰妆](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E6%B8%85%E7%94%9C%E7%B4%AB%E7%8E%AB%E7%91%B0%E5%A6%86%23&Refer=top)
+
+1. [人民是真正的英雄](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%8B%B1%E9%9B%84%23&Refer=new_time)
+
+1. [玲珑大结局](https://s.weibo.com//weibo?q=%23%E7%8E%B2%E7%8F%91%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
 
