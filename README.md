@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 05:02:35
+## 微博今日热榜 更新于 2021-03-07 06:03:00
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [RNG战胜EDG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top)
 
 1. [暴风眼](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%A3%8E%E7%9C%BC%23&Refer=top)
+
+1. [山河令预告](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A&Refer=top)
 
