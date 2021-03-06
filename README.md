@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 07:02:59
+## 微博今日热榜 更新于 2021-03-06 08:06:56
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -134,4 +134,30 @@
 1. [大叔用蔬菜水果雕刻人像](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%8F%94%E7%94%A8%E8%94%AC%E8%8F%9C%E6%B0%B4%E6%9E%9C%E9%9B%95%E5%88%BB%E4%BA%BA%E5%83%8F&Refer=top)
 
 1. [赘婿](https://s.weibo.com//weibo?q=%E8%B5%98%E5%A9%BF&Refer=top)
+
+1. [沈腾 贾玲红了之后把我馋的呀](https://s.weibo.com//weibo?q=%E6%B2%88%E8%85%BE%20%E8%B4%BE%E7%8E%B2%E7%BA%A2%E4%BA%86%E4%B9%8B%E5%90%8E%E6%8A%8A%E6%88%91%E9%A6%8B%E7%9A%84%E5%91%80&Refer=top)
+
+1. [西湖大学最快明年招收本科生](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%80%E5%BF%AB%E6%98%8E%E5%B9%B4%E6%8B%9B%E6%94%B6%E6%9C%AC%E7%A7%91%E7%94%9F%23&Refer=top)
+
+1. [弦子淘汰后点了200多块的炸鸡](https://s.weibo.com//weibo?q=%E5%BC%A6%E5%AD%90%E6%B7%98%E6%B1%B0%E5%90%8E%E7%82%B9%E4%BA%86200%E5%A4%9A%E5%9D%97%E7%9A%84%E7%82%B8%E9%B8%A1&Refer=top)
+
+1. [经纪人问张小斐是不是胖了](https://s.weibo.com//weibo?q=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%97%AE%E5%BC%A0%E5%B0%8F%E6%96%90%E6%98%AF%E4%B8%8D%E6%98%AF%E8%83%96%E4%BA%86&Refer=top)
+
+1. [建议禁止向未成年人销售电子烟](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E5%90%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%94%80%E5%94%AE%E7%94%B5%E5%AD%90%E7%83%9F%23&Refer=top)
+
+1. [东京奥运会不可能再延期](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E5%BB%B6%E6%9C%9F%23&Refer=top)
+
+1. [美股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1&Refer=top)
+
+1. [snkrs](https://s.weibo.com//weibo?q=snkrs&Refer=top)
+
+1. [教体局通报号召学生捐压岁钱](https://s.weibo.com//weibo?q=%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%8F%B7%E5%8F%AC%E5%AD%A6%E7%94%9F%E6%8D%90%E5%8E%8B%E5%B2%81%E9%92%B1&Refer=top)
+
+1. [白敬亭做最强大脑测试题](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%81%9A%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E6%B5%8B%E8%AF%95%E9%A2%98%23&Refer=top)
+
+1. [张伯礼称中国新冠病人后遗症较轻](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%97%85%E4%BA%BA%E5%90%8E%E9%81%97%E7%97%87%E8%BE%83%E8%BD%BB%23&Refer=top)
+
+1. [政府工作报告金句](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%23&Refer=top)
+
+1. [建议加强规范激光笔管理](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E8%A7%84%E8%8C%83%E6%BF%80%E5%85%89%E7%AC%94%E7%AE%A1%E7%90%86%23&Refer=top)
 
