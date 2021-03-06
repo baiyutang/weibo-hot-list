@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 18:03:16
+## 微博今日热榜 更新于 2021-03-06 19:02:34
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -416,4 +416,14 @@
 1. [宇宙音乐之夜红毯](https://s.weibo.com//weibo?q=%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&Refer=top)
 
 1. [全球面临沙子资源枯竭](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E9%9D%A2%E4%B8%B4%E6%B2%99%E5%AD%90%E8%B5%84%E6%BA%90%E6%9E%AF%E7%AB%AD%23&Refer=top)
+
+1. [政府工作报告提到的降费内容](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E6%8F%90%E5%88%B0%E7%9A%84%E9%99%8D%E8%B4%B9%E5%86%85%E5%AE%B9%23&Refer=new_time)
+
+1. [李维嘉晒快乐家族合照](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E6%99%92%E5%BF%AB%E4%B9%90%E5%AE%B6%E6%97%8F%E5%90%88%E7%85%A7&Refer=top)
+
+1. [见过最迷幻的厕所](https://s.weibo.com//weibo?q=%E8%A7%81%E8%BF%87%E6%9C%80%E8%BF%B7%E5%B9%BB%E7%9A%84%E5%8E%95%E6%89%80&Refer=top)
+
+1. [给孩子吃全素食幼儿园老师发声](https://s.weibo.com//weibo?q=%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E5%85%A8%E7%B4%A0%E9%A3%9F%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [热辣火鸡面芝士酥](https://s.weibo.com//weibo?q=%23%E7%83%AD%E8%BE%A3%E7%81%AB%E9%B8%A1%E9%9D%A2%E8%8A%9D%E5%A3%AB%E9%85%A5%23&Refer=top)
 
