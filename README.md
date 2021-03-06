@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 15:02:41
+## 微博今日热榜 更新于 2021-03-06 16:03:10
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -354,4 +354,32 @@
 1. [从理发店出来的心情](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BF%83%E6%83%85%23&Refer=top)
 
 1. [姥爷玩躲猫猫有多拼](https://s.weibo.com//weibo?q=%23%E5%A7%A5%E7%88%B7%E7%8E%A9%E8%BA%B2%E7%8C%AB%E7%8C%AB%E6%9C%89%E5%A4%9A%E6%8B%BC%23&Refer=top)
+
+1. [贾玲 谢谢大家认识了李焕英](https://s.weibo.com//weibo?q=%E8%B4%BE%E7%8E%B2%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E8%AE%A4%E8%AF%86%E4%BA%86%E6%9D%8E%E7%84%95%E8%8B%B1&Refer=top)
+
+1. [建议老师奖励不应与升学率挂钩](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%80%81%E5%B8%88%E5%A5%96%E5%8A%B1%E4%B8%8D%E5%BA%94%E4%B8%8E%E5%8D%87%E5%AD%A6%E7%8E%87%E6%8C%82%E9%92%A9%23&Refer=top)
+
+1. [两年内将有12名中国航天员进入太空](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%9B%E5%85%A5%E5%A4%AA%E7%A9%BA%23&Refer=top)
+
+1. [侯佩岑道歉](https://s.weibo.com//weibo?q=%E4%BE%AF%E4%BD%A9%E5%B2%91%E9%81%93%E6%AD%89&Refer=top)
+
+1. [张小斐 如果天堂有电影院](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%A6%82%E6%9E%9C%E5%A4%A9%E5%A0%82%E6%9C%89%E7%94%B5%E5%BD%B1%E9%99%A2&Refer=top)
+
+1. [靳东作词回应胖了](https://s.weibo.com//weibo?q=%23%E9%9D%B3%E4%B8%9C%E4%BD%9C%E8%AF%8D%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86%23&Refer=top)
+
+1. [建议南方试点供暖](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8D%97%E6%96%B9%E8%AF%95%E7%82%B9%E4%BE%9B%E6%9A%96%23&Refer=top)
+
+1. [袁家军](https://s.weibo.com//weibo?q=%E8%A2%81%E5%AE%B6%E5%86%9B&Refer=top)
+
+1. [关晓彤王牌水袖舞全记录](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E6%B0%B4%E8%A2%96%E8%88%9E%E5%85%A8%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [你好李焕英主题曲萱草花MV](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%90%B1%E8%8D%89%E8%8A%B1MV%23&Refer=top)
+
+1. [人类倒霉瞬间实录](https://s.weibo.com//weibo?q=%E4%BA%BA%E7%B1%BB%E5%80%92%E9%9C%89%E7%9E%AC%E9%97%B4%E5%AE%9E%E5%BD%95&Refer=top)
+
+1. [2分钟神曲get两会民生热点](https://s.weibo.com//weibo?q=%232%E5%88%86%E9%92%9F%E7%A5%9E%E6%9B%B2get%E4%B8%A4%E4%BC%9A%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9%23&Refer=top)
+
+1. [新加坡购买饮料将支付瓶罐押金](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B4%AD%E4%B9%B0%E9%A5%AE%E6%96%99%E5%B0%86%E6%94%AF%E4%BB%98%E7%93%B6%E7%BD%90%E6%8A%BC%E9%87%91%23&Refer=top)
+
+1. [心动奶香抹茶草莓酥](https://s.weibo.com//weibo?q=%23%E5%BF%83%E5%8A%A8%E5%A5%B6%E9%A6%99%E6%8A%B9%E8%8C%B6%E8%8D%89%E8%8E%93%E9%85%A5%23&Refer=top)
 
