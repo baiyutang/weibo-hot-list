@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 20:03:30
+## 微博今日热榜 更新于 2021-03-06 21:05:47
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -446,4 +446,38 @@
 1. [李嘉祥 赞多打击到我们的自信心](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%98%89%E7%A5%A5%20%E8%B5%9E%E5%A4%9A%E6%89%93%E5%87%BB%E5%88%B0%E6%88%91%E4%BB%AC%E7%9A%84%E8%87%AA%E4%BF%A1%E5%BF%83&Refer=top)
 
 1. [山河令预告](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [迪丽热巴李佳琦直播](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [韩美娟当着邵明明面说我想吐](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E5%BD%93%E7%9D%80%E9%82%B5%E6%98%8E%E6%98%8E%E9%9D%A2%E8%AF%B4%E6%88%91%E6%83%B3%E5%90%90%23&Refer=top)
+
+1. [孙滢皓](https://s.weibo.com//weibo?q=%E5%AD%99%E6%BB%A2%E7%9A%93&Refer=top)
+
+1. [西安百年古墓周围280亩桃花盛开](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E7%99%BE%E5%B9%B4%E5%8F%A4%E5%A2%93%E5%91%A8%E5%9B%B4280%E4%BA%A9%E6%A1%83%E8%8A%B1%E7%9B%9B%E5%BC%80&Refer=top)
+
+1. [yummy组输了](https://s.weibo.com//weibo?q=%23yummy%E7%BB%84%E8%BE%93%E4%BA%86%23&Refer=top)
+
+1. [EDG RNG](https://s.weibo.com//weibo?q=EDG%20RNG&Refer=top)
+
+1. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
+
+1. [angelababy路透](https://s.weibo.com//weibo?q=%23angelababy%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [唐三魂技百科](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B8%89%E9%AD%82%E6%8A%80%E7%99%BE%E7%A7%91%23&Refer=top)
+
+1. [建议调整或取消音乐类考级](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%B0%83%E6%95%B4%E6%88%96%E5%8F%96%E6%B6%88%E9%9F%B3%E4%B9%90%E7%B1%BB%E8%80%83%E7%BA%A7%23&Refer=top)
+
+1. [我就是演员总决赛](https://s.weibo.com//weibo?q=%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98%E6%80%BB%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [米卡好像武林高手](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E5%A5%BD%E5%83%8F%E6%AD%A6%E6%9E%97%E9%AB%98%E6%89%8B%23&Refer=top)
+
+1. [小虎的小炮](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%99%8E%E7%9A%84%E5%B0%8F%E7%82%AE&Refer=top)
+
+1. [张云雷直播](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BA%91%E9%9B%B7%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [沸羊羊的散装英语真的很散](https://s.weibo.com//weibo?q=%E6%B2%B8%E7%BE%8A%E7%BE%8A%E7%9A%84%E6%95%A3%E8%A3%85%E8%8B%B1%E8%AF%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E6%95%A3&Refer=top)
+
+1. [Xiaohu小炮](https://s.weibo.com//weibo?q=Xiaohu%E5%B0%8F%E7%82%AE&Refer=top)
 
