@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 19:02:34
+## 微博今日热榜 更新于 2021-03-06 20:03:30
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -426,4 +426,24 @@
 1. [给孩子吃全素食幼儿园老师发声](https://s.weibo.com//weibo?q=%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E5%85%A8%E7%B4%A0%E9%A3%9F%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%8F%91%E5%A3%B0&Refer=top)
 
 1. [热辣火鸡面芝士酥](https://s.weibo.com//weibo?q=%23%E7%83%AD%E8%BE%A3%E7%81%AB%E9%B8%A1%E9%9D%A2%E8%8A%9D%E5%A3%AB%E9%85%A5%23&Refer=top)
+
+1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
+
+1. [创造营一公](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E4%B8%80%E5%85%AC%23&Refer=top)
+
+1. [林孝俊](https://s.weibo.com//weibo?q=%E6%9E%97%E5%AD%9D%E4%BF%8A&Refer=top)
+
+1. [吴宣仪披肩滑下来了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%8A%AB%E8%82%A9%E6%BB%91%E4%B8%8B%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [米卡直播](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [赞多直播](https://s.weibo.com//weibo?q=%E8%B5%9E%E5%A4%9A%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [青你3位置测评排名](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E4%BD%8D%E7%BD%AE%E6%B5%8B%E8%AF%84%E6%8E%92%E5%90%8D%23&Refer=top)
+
+1. [虞书欣 再也不相信姜滨了](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%A7%9C%E6%BB%A8%E4%BA%86&Refer=top)
+
+1. [李嘉祥 赞多打击到我们的自信心](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%98%89%E7%A5%A5%20%E8%B5%9E%E5%A4%9A%E6%89%93%E5%87%BB%E5%88%B0%E6%88%91%E4%BB%AC%E7%9A%84%E8%87%AA%E4%BF%A1%E5%BF%83&Refer=top)
+
+1. [山河令预告](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A&Refer=top)
 
