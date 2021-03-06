@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 21:05:47
+## 微博今日热榜 更新于 2021-03-06 22:03:12
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -480,4 +480,18 @@
 1. [沸羊羊的散装英语真的很散](https://s.weibo.com//weibo?q=%E6%B2%B8%E7%BE%8A%E7%BE%8A%E7%9A%84%E6%95%A3%E8%A3%85%E8%8B%B1%E8%AF%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E6%95%A3&Refer=top)
 
 1. [Xiaohu小炮](https://s.weibo.com//weibo?q=Xiaohu%E5%B0%8F%E7%82%AE&Refer=top)
+
+1. [宋祖儿工作室道歉](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [你好李焕英总票房超越哪吒](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%85%E8%B6%8A%E5%93%AA%E5%90%92%23&Refer=top)
+
+1. [创造营排名](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [利路修 休想下班](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E4%BC%91%E6%83%B3%E4%B8%8B%E7%8F%AD&Refer=top)
+
+1. [周柯宇全场撑腰王](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E5%85%A8%E5%9C%BA%E6%92%91%E8%85%B0%E7%8E%8B%23&Refer=top)
+
+1. [Radio 全场最佳](https://s.weibo.com//weibo?q=Radio%20%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3&Refer=top)
+
+1. [井汲大翔的翻译器](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%B1%B2%E5%A4%A7%E7%BF%94%E7%9A%84%E7%BF%BB%E8%AF%91%E5%99%A8%23&Refer=top)
 
