@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 14:03:08
+## 微博今日热榜 更新于 2021-03-06 15:02:41
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -326,4 +326,32 @@
 1. [特战女兵烦恼自己太瘦了](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E5%A5%B3%E5%85%B5%E7%83%A6%E6%81%BC%E8%87%AA%E5%B7%B1%E5%A4%AA%E7%98%A6%E4%BA%86%23&Refer=top)
 
 1. [旺达幻视](https://s.weibo.com//weibo?q=%E6%97%BA%E8%BE%BE%E5%B9%BB%E8%A7%86&Refer=top)
+
+1. [老人去世前点外卖感谢公交司机](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D%E7%82%B9%E5%A4%96%E5%8D%96%E6%84%9F%E8%B0%A2%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%23&Refer=top)
+
+1. [你好李焕英影史最快破50亿电影](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E5%BD%B1%E5%8F%B2%E6%9C%80%E5%BF%AB%E7%A0%B450%E4%BA%BF%E7%94%B5%E5%BD%B1%23&Refer=top)
+
+1. [王嘉尔回国](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%9B%9E%E5%9B%BD%23&Refer=top)
+
+1. [手机秒表竟开了441天](https://s.weibo.com//weibo?q=%E6%89%8B%E6%9C%BA%E7%A7%92%E8%A1%A8%E7%AB%9F%E5%BC%80%E4%BA%86441%E5%A4%A9&Refer=top)
+
+1. [将小学缩短至5年你支持吗](https://s.weibo.com//weibo?q=%23%E5%B0%86%E5%B0%8F%E5%AD%A6%E7%BC%A9%E7%9F%AD%E8%87%B35%E5%B9%B4%E4%BD%A0%E6%94%AF%E6%8C%81%E5%90%97%23&Refer=top)
+
+1. [虞书欣 我的水平也要好好练习](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E6%88%91%E7%9A%84%E6%B0%B4%E5%B9%B3%E4%B9%9F%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%BB%83%E4%B9%A0&Refer=top)
+
+1. [浙江省委书记英文邀请全世界友人来杭州](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%8B%B1%E6%96%87%E9%82%80%E8%AF%B7%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%8B%E4%BA%BA%E6%9D%A5%E6%9D%AD%E5%B7%9E&Refer=top)
+
+1. [核事故十年后日本福岛局地辐射仍超标](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E4%BA%8B%E6%95%85%E5%8D%81%E5%B9%B4%E5%90%8E%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E5%B1%80%E5%9C%B0%E8%BE%90%E5%B0%84%E4%BB%8D%E8%B6%85%E6%A0%87%23&Refer=top)
+
+1. [交通局回应让出租车打表被赶下车](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%80%9A%E5%B1%80%E5%9B%9E%E5%BA%94%E8%AE%A9%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%89%93%E8%A1%A8%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6&Refer=top)
+
+1. [未来15年中国要实现这些目标](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A515%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%AE%9E%E7%8E%B0%E8%BF%99%E4%BA%9B%E7%9B%AE%E6%A0%87%23&Refer=top)
+
+1. [韩国执政党党首被扔鸡蛋](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%89%A7%E6%94%BF%E5%85%9A%E5%85%9A%E9%A6%96%E8%A2%AB%E6%89%94%E9%B8%A1%E8%9B%8B&Refer=top)
+
+1. [拉面哥回应商标被餐饮公司抢注](https://s.weibo.com//weibo?q=%E6%8B%89%E9%9D%A2%E5%93%A5%E5%9B%9E%E5%BA%94%E5%95%86%E6%A0%87%E8%A2%AB%E9%A4%90%E9%A5%AE%E5%85%AC%E5%8F%B8%E6%8A%A2%E6%B3%A8&Refer=top)
+
+1. [从理发店出来的心情](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BF%83%E6%83%85%23&Refer=top)
+
+1. [姥爷玩躲猫猫有多拼](https://s.weibo.com//weibo?q=%23%E5%A7%A5%E7%88%B7%E7%8E%A9%E8%BA%B2%E7%8C%AB%E7%8C%AB%E6%9C%89%E5%A4%9A%E6%8B%BC%23&Refer=top)
 
