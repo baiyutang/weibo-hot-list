@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 17:02:54
+## 微博今日热榜 更新于 2021-03-06 18:03:16
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -400,4 +400,20 @@
 1. [杨浚瑄打破亚洲纪录](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B5%9A%E7%91%84%E6%89%93%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95&Refer=top)
 
 1. [人潮汹涌](https://s.weibo.com//weibo?q=%E4%BA%BA%E6%BD%AE%E6%B1%B9%E6%B6%8C&Refer=top)
+
+1. [迟尚斌去世](https://s.weibo.com//weibo?q=%23%E8%BF%9F%E5%B0%9A%E6%96%8C%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [代表建议春节假期延长至10天](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%BB%B6%E9%95%BF%E8%87%B310%E5%A4%A9%23&Refer=top)
+
+1. [建议明确离婚抢夺子女行为司法解释](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E6%98%8E%E7%A1%AE%E7%A6%BB%E5%A9%9A%E6%8A%A2%E5%A4%BA%E5%AD%90%E5%A5%B3%E8%A1%8C%E4%B8%BA%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A&Refer=top)
+
+1. [陈薇钟南山团队均部署新型疫苗研发](https://s.weibo.com//weibo?q=%E9%99%88%E8%96%87%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E5%9D%87%E9%83%A8%E7%BD%B2%E6%96%B0%E5%9E%8B%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91&Refer=top)
+
+1. [深圳天气](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23&Refer=top)
+
+1. [倡议彻底取缔校外培训机构](https://s.weibo.com//weibo?q=%E5%80%A1%E8%AE%AE%E5%BD%BB%E5%BA%95%E5%8F%96%E7%BC%94%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84&Refer=top)
+
+1. [宇宙音乐之夜红毯](https://s.weibo.com//weibo?q=%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&Refer=top)
+
+1. [全球面临沙子资源枯竭](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E9%9D%A2%E4%B8%B4%E6%B2%99%E5%AD%90%E8%B5%84%E6%BA%90%E6%9E%AF%E7%AB%AD%23&Refer=top)
 
