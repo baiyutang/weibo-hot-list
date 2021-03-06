@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 10:15:50
+## 微博今日热榜 更新于 2021-03-06 11:02:54
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -218,4 +218,24 @@
 1. [格里芬](https://s.weibo.com//weibo?q=%E6%A0%BC%E9%87%8C%E8%8A%AC&Refer=top)
 
 1. [委员建议助老年群体融入数字时代](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%8A%A9%E8%80%81%E5%B9%B4%E7%BE%A4%E4%BD%93%E8%9E%8D%E5%85%A5%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%23&Refer=top)
+
+1. [未来5年中国要办成这些事](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A55%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%8A%9E%E6%88%90%E8%BF%99%E4%BA%9B%E4%BA%8B%23&Refer=new_time)
+
+1. [教育局回应幼儿园给孩子吃全素食](https://s.weibo.com//weibo?q=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E5%85%A8%E7%B4%A0%E9%A3%9F&Refer=top)
+
+1. [成都一幼儿园给孩子吃全素食](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E5%85%A8%E7%B4%A0%E9%A3%9F&Refer=top)
+
+1. [刘亦菲和自己的广告牌合影](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%92%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%BF%E5%91%8A%E7%89%8C%E5%90%88%E5%BD%B1%23&Refer=top)
+
+1. [张韶涵阿朵 科技古风夜航星](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E9%98%BF%E6%9C%B5%20%E7%A7%91%E6%8A%80%E5%8F%A4%E9%A3%8E%E5%A4%9C%E8%88%AA%E6%98%9F&Refer=top)
+
+1. [主人出国弃养边牧被拴3年后获救](https://s.weibo.com//weibo?q=%E4%B8%BB%E4%BA%BA%E5%87%BA%E5%9B%BD%E5%BC%83%E5%85%BB%E8%BE%B9%E7%89%A7%E8%A2%AB%E6%8B%B43%E5%B9%B4%E5%90%8E%E8%8E%B7%E6%95%91&Refer=top)
+
+1. [委员建议规范网瘾诊断标准](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E8%A7%84%E8%8C%83%E7%BD%91%E7%98%BE%E8%AF%8A%E6%96%AD%E6%A0%87%E5%87%86%23&Refer=top)
+
+1. [雷军建议出台手机等设备适老标准](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%86%9B%E5%BB%BA%E8%AE%AE%E5%87%BA%E5%8F%B0%E6%89%8B%E6%9C%BA%E7%AD%89%E8%AE%BE%E5%A4%87%E9%80%82%E8%80%81%E6%A0%87%E5%87%86%23&Refer=top)
+
+1. [3月6日两会日程](https://s.weibo.com//weibo?q=3%E6%9C%886%E6%97%A5%E4%B8%A4%E4%BC%9A%E6%97%A5%E7%A8%8B&Refer=top)
+
+1. [康利首次入选全明星](https://s.weibo.com//weibo?q=%E5%BA%B7%E5%88%A9%E9%A6%96%E6%AC%A1%E5%85%A5%E9%80%89%E5%85%A8%E6%98%8E%E6%98%9F&Refer=top)
 
