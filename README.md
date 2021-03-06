@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-06 11:02:54
+## 微博今日热榜 更新于 2021-03-06 12:03:31
 1. [我们完全能端牢中国人的饭碗](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E5%AE%8C%E5%85%A8%E8%83%BD%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%A5%AD%E7%A2%97%23&Refer=new_time)
 
 1. [建议把视力纳入学生综合素质考核](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%A7%86%E5%8A%9B%E7%BA%B3%E5%85%A5%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E8%80%83%E6%A0%B8%23&Refer=top)
@@ -238,4 +238,48 @@
 1. [3月6日两会日程](https://s.weibo.com//weibo?q=3%E6%9C%886%E6%97%A5%E4%B8%A4%E4%BC%9A%E6%97%A5%E7%A8%8B&Refer=top)
 
 1. [康利首次入选全明星](https://s.weibo.com//weibo?q=%E5%BA%B7%E5%88%A9%E9%A6%96%E6%AC%A1%E5%85%A5%E9%80%89%E5%85%A8%E6%98%8E%E6%98%9F&Refer=top)
+
+1. [政府工作报告中这些话掷地有声](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E4%B8%AD%E8%BF%99%E4%BA%9B%E8%AF%9D%E6%8E%B7%E5%9C%B0%E6%9C%89%E5%A3%B0%23&Refer=new_time)
+
+1. [武契奇冒雨第3次亲自迎接中国疫苗](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%86%92%E9%9B%A8%E7%AC%AC3%E6%AC%A1%E4%BA%B2%E8%87%AA%E8%BF%8E%E6%8E%A5%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [建议缩短教育学制](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%BC%A9%E7%9F%AD%E6%95%99%E8%82%B2%E5%AD%A6%E5%88%B6%23&Refer=top)
+
+1. [活塞买断格里芬](https://s.weibo.com//weibo?q=%23%E6%B4%BB%E5%A1%9E%E4%B9%B0%E6%96%AD%E6%A0%BC%E9%87%8C%E8%8A%AC%23&Refer=top)
+
+1. [秦岚三亚游客照](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%B8%89%E4%BA%9A%E6%B8%B8%E5%AE%A2%E7%85%A7%23&Refer=top)
+
+1. [周深在电视剧中的存在感](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9C%A8%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%AD%E7%9A%84%E5%AD%98%E5%9C%A8%E6%84%9F%23&Refer=top)
+
+1. [胡海泉Sunnee乃万说得到做得到](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%B5%B7%E6%B3%89Sunnee%E4%B9%83%E4%B8%87%E8%AF%B4%E5%BE%97%E5%88%B0%E5%81%9A%E5%BE%97%E5%88%B0%23&Refer=top)
+
+1. [拉面哥](https://s.weibo.com//weibo?q=%E6%8B%89%E9%9D%A2%E5%93%A5&Refer=top)
+
+1. [巨人](https://s.weibo.com//weibo?q=%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [男子为妻子建了座石桥](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A6%BB%E5%AD%90%E5%BB%BA%E4%BA%86%E5%BA%A7%E7%9F%B3%E6%A1%A5%23&Refer=top)
+
+1. [科学家发现太阳系外超级地球](https://s.weibo.com//weibo?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E9%98%B3%E7%B3%BB%E5%A4%96%E8%B6%85%E7%BA%A7%E5%9C%B0%E7%90%83&Refer=top)
+
+1. [荷兰发明新冠尖叫检测亭](https://s.weibo.com//weibo?q=%E8%8D%B7%E5%85%B0%E5%8F%91%E6%98%8E%E6%96%B0%E5%86%A0%E5%B0%96%E5%8F%AB%E6%A3%80%E6%B5%8B%E4%BA%AD&Refer=top)
+
+1. [3分钟看未来5年生活如何改变](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E7%9C%8B%E6%9C%AA%E6%9D%A55%E5%B9%B4%E7%94%9F%E6%B4%BB%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%23&Refer=top)
+
+1. [尼古拉斯凯奇第五次结婚](https://s.weibo.com//weibo?q=%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%E5%87%AF%E5%A5%87%E7%AC%AC%E4%BA%94%E6%AC%A1%E7%BB%93%E5%A9%9A&Refer=top)
+
+1. [章子怡谈上阳赋被打低分](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E8%B0%88%E4%B8%8A%E9%98%B3%E8%B5%8B%E8%A2%AB%E6%89%93%E4%BD%8E%E5%88%86&Refer=top)
+
+1. [小舞复活](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%9E%E5%A4%8D%E6%B4%BB&Refer=top)
+
+1. [福州冰雹](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%B7%9E%E5%86%B0%E9%9B%B9&Refer=top)
+
+1. [回南天](https://s.weibo.com//weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9&Refer=top)
+
+1. [奥特曼日语和国语的区别](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%97%A5%E8%AF%AD%E5%92%8C%E5%9B%BD%E8%AF%AD%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [日本118岁老妪将传递奥运火炬](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC118%E5%B2%81%E8%80%81%E5%A6%AA%E5%B0%86%E4%BC%A0%E9%80%92%E5%A5%A5%E8%BF%90%E7%81%AB%E7%82%AC&Refer=top)
+
+1. [见过最硬核的厕所](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E5%8E%95%E6%89%80%23&Refer=top)
+
+1. [浙江多地鲜花价格上涨近六成](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E9%B2%9C%E8%8A%B1%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%E8%BF%91%E5%85%AD%E6%88%90&Refer=top)
 
