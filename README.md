@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 07:02:41
+## 微博今日热榜 更新于 2021-03-07 08:07:08
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -130,4 +130,30 @@
 1. [山河令预告](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A&Refer=top)
 
 1. [李易峰想当刘德华造型师](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%98%93%E5%B3%B0%E6%83%B3%E5%BD%93%E5%88%98%E5%BE%B7%E5%8D%8E%E9%80%A0%E5%9E%8B%E5%B8%88&Refer=top)
+
+1. [建议对农村常住人口实施全面体检](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E5%86%9C%E6%9D%91%E5%B8%B8%E4%BD%8F%E4%BA%BA%E5%8F%A3%E5%AE%9E%E6%96%BD%E5%85%A8%E9%9D%A2%E4%BD%93%E6%A3%80%23&Refer=top)
+
+1. [代表建议将肿瘤筛查纳入医保](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%B0%86%E8%82%BF%E7%98%A4%E7%AD%9B%E6%9F%A5%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&Refer=top)
+
+1. [建议设立国家汉服日](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%AE%BE%E7%AB%8B%E5%9B%BD%E5%AE%B6%E6%B1%89%E6%9C%8D%E6%97%A5%23&Refer=top)
+
+1. [锦心似玉](https://s.weibo.com//weibo?q=%23%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89%23&Refer=top)
+
+1. [戍边战士匿名捐出立功奖金](https://s.weibo.com//weibo?q=%23%E6%88%8D%E8%BE%B9%E6%88%98%E5%A3%AB%E5%8C%BF%E5%90%8D%E6%8D%90%E5%87%BA%E7%AB%8B%E5%8A%9F%E5%A5%96%E9%87%91%23&Refer=top)
+
+1. [拜仁连进4球逆转多特](https://s.weibo.com//weibo?q=%E6%8B%9C%E4%BB%81%E8%BF%9E%E8%BF%9B4%E7%90%83%E9%80%86%E8%BD%AC%E5%A4%9A%E7%89%B9&Refer=top)
+
+1. [00后贫富差距特别大吗](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D%E7%89%B9%E5%88%AB%E5%A4%A7%E5%90%97%23&Refer=top)
+
+1. [皓衣行](https://s.weibo.com//weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&Refer=top)
+
+1. [东海航空](https://s.weibo.com//weibo?q=%E4%B8%9C%E6%B5%B7%E8%88%AA%E7%A9%BA&Refer=top)
+
+1. [互联网老人才懂的梗](https://s.weibo.com//weibo?q=%E4%BA%92%E8%81%94%E7%BD%91%E8%80%81%E4%BA%BA%E6%89%8D%E6%87%82%E7%9A%84%E6%A2%97&Refer=top)
+
+1. [女生节](https://s.weibo.com//weibo?q=%E5%A5%B3%E7%94%9F%E8%8A%82&Refer=top)
+
+1. [建议鼓励大中小学开设学农实践](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E5%A4%A7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BE%E5%AD%A6%E5%86%9C%E5%AE%9E%E8%B7%B5%23&Refer=top)
+
+1. [委员称音体美劳和升学压力不矛盾](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E7%A7%B0%E9%9F%B3%E4%BD%93%E7%BE%8E%E5%8A%B3%E5%92%8C%E5%8D%87%E5%AD%A6%E5%8E%8B%E5%8A%9B%E4%B8%8D%E7%9F%9B%E7%9B%BE%23&Refer=top)
 
