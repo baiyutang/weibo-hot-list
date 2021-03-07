@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 08:07:08
+## 微博今日热榜 更新于 2021-03-07 09:36:13
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -156,4 +156,32 @@
 1. [建议鼓励大中小学开设学农实践](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E5%A4%A7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BE%E5%AD%A6%E5%86%9C%E5%AE%9E%E8%B7%B5%23&Refer=top)
 
 1. [委员称音体美劳和升学压力不矛盾](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E7%A7%B0%E9%9F%B3%E4%BD%93%E7%BE%8E%E5%8A%B3%E5%92%8C%E5%8D%87%E5%AD%A6%E5%8E%8B%E5%8A%9B%E4%B8%8D%E7%9F%9B%E7%9B%BE%23&Refer=top)
+
+1. [全国政协十三届四次会议第二次全体会议](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E4%B8%89%E5%B1%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE%23&Refer=top)
+
+1. [米卡的睫毛比头发还长](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E7%9A%84%E7%9D%AB%E6%AF%9B%E6%AF%94%E5%A4%B4%E5%8F%91%E8%BF%98%E9%95%BF%23&Refer=top)
+
+1. [陈飞宇emoji解读](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87emoji%E8%A7%A3%E8%AF%BB%23&Refer=top)
+
+1. [全国政协十三届四次会议委员通道](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E4%B8%89%E5%B1%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%A7%94%E5%91%98%E9%80%9A%E9%81%93%23&Refer=top)
+
+1. [思维导图版十四五主要目标](https://s.weibo.com//weibo?q=%23%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%89%88%E5%8D%81%E5%9B%9B%E4%BA%94%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87%23&Refer=top)
+
+1. [政协委员称分数不是教育的全部](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E7%A7%B0%E5%88%86%E6%95%B0%E4%B8%8D%E6%98%AF%E6%95%99%E8%82%B2%E7%9A%84%E5%85%A8%E9%83%A8%23&Refer=top)
+
+1. [听过最凡尔赛的名字](https://s.weibo.com//weibo?q=%23%E5%90%AC%E8%BF%87%E6%9C%80%E5%87%A1%E5%B0%94%E8%B5%9B%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=top)
+
+1. [李晟一人分饰两角](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%9F%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B0%E4%B8%A4%E8%A7%92%23&Refer=top)
+
+1. [拜登宣布本月起发放1400美元纾困金](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E6%9C%AC%E6%9C%88%E8%B5%B7%E5%8F%91%E6%94%BE1400%E7%BE%8E%E5%85%83%E7%BA%BE%E5%9B%B0%E9%87%91%23&Refer=top)
+
+1. [王子文吴永恩逛街被围观](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E9%80%9B%E8%A1%97%E8%A2%AB%E5%9B%B4%E8%A7%82%23&Refer=top)
+
+1. [家长咆哮式辅导孩子作业违法吗](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E5%92%86%E5%93%AE%E5%BC%8F%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E4%BD%9C%E4%B8%9A%E8%BF%9D%E6%B3%95%E5%90%97%23&Refer=top)
+
+1. [政协委员谈好的教育应该是什么](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B0%88%E5%A5%BD%E7%9A%84%E6%95%99%E8%82%B2%E5%BA%94%E8%AF%A5%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [美参议院通过1.9万亿美元新冠救济法案](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%871.9%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E5%86%A0%E6%95%91%E6%B5%8E%E6%B3%95%E6%A1%88&Refer=top)
+
+1. [顶楼预告](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC%E9%A2%84%E5%91%8A&Refer=top)
 
