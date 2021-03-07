@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 18:03:14
+## 微博今日热榜 更新于 2021-03-07 19:02:38
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -360,4 +360,34 @@
 1. [春日酸梅蒸鱼](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E9%85%B8%E6%A2%85%E8%92%B8%E9%B1%BC%23&Refer=top)
 
 1. [杭州万株郁金香绽放](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%87%E6%A0%AA%E9%83%81%E9%87%91%E9%A6%99%E7%BB%BD%E6%94%BE%23&Refer=top)
+
+1. [总书记回应这些教育热点](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9B%9E%E5%BA%94%E8%BF%99%E4%BA%9B%E6%95%99%E8%82%B2%E7%83%AD%E7%82%B9%23&Refer=new_time)
+
+1. [建议增加独生子女看护假](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E7%9C%8B%E6%8A%A4%E5%81%87%23&Refer=top)
+
+1. [建议清理以罚款为目的的电子抓拍](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B8%85%E7%90%86%E4%BB%A5%E7%BD%9A%E6%AC%BE%E4%B8%BA%E7%9B%AE%E7%9A%84%E7%9A%84%E7%94%B5%E5%AD%90%E6%8A%93%E6%8B%8D%23&Refer=top)
+
+1. [岳云鹏自己P的童年照](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%87%AA%E5%B7%B1P%E7%9A%84%E7%AB%A5%E5%B9%B4%E7%85%A7%23&Refer=top)
+
+1. [时代少年团清唱宠爱](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%B8%85%E5%94%B1%E5%AE%A0%E7%88%B1%23&Refer=top)
+
+1. [赘婿里的意难平](https://s.weibo.com//weibo?q=%23%E8%B5%98%E5%A9%BF%E9%87%8C%E7%9A%84%E6%84%8F%E9%9A%BE%E5%B9%B3%23&Refer=top)
+
+1. [美国抗议现场鼓励孩子烧口罩](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%8A%97%E8%AE%AE%E7%8E%B0%E5%9C%BA%E9%BC%93%E5%8A%B1%E5%AD%A9%E5%AD%90%E7%83%A7%E5%8F%A3%E7%BD%A9&Refer=top)
+
+1. [王毅谈台湾问题](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [清澈的爱只为中国MV](https://s.weibo.com//weibo?q=%E6%B8%85%E6%BE%88%E7%9A%84%E7%88%B1%E5%8F%AA%E4%B8%BA%E4%B8%AD%E5%9B%BDMV&Refer=top)
+
+1. [建议提高网约货车司机准入门槛](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E7%BD%91%E7%BA%A6%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%23&Refer=top)
+
+1. [黄奕说男孩比女孩更需要爸爸](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A5%95%E8%AF%B4%E7%94%B7%E5%AD%A9%E6%AF%94%E5%A5%B3%E5%AD%A9%E6%9B%B4%E9%9C%80%E8%A6%81%E7%88%B8%E7%88%B8%23&Refer=top)
+
+1. [云南彩色油菜花](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%BD%A9%E8%89%B2%E6%B2%B9%E8%8F%9C%E8%8A%B1%23&Refer=top)
+
+1. [王毅说合作应成为中美追求的主要目标](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%AF%85%E8%AF%B4%E5%90%88%E4%BD%9C%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%AD%E7%BE%8E%E8%BF%BD%E6%B1%82%E7%9A%84%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87&Refer=top)
+
+1. [iG TES](https://s.weibo.com//weibo?q=iG%20TES&Refer=top)
+
+1. [清华女生节条幅](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E5%A5%B3%E7%94%9F%E8%8A%82%E6%9D%A1%E5%B9%85&Refer=top)
 
