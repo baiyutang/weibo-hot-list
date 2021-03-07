@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 20:03:45
+## 微博今日热榜 更新于 2021-03-07 21:05:49
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -412,4 +412,24 @@
 1. [全国人大代表的一天](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E7%9A%84%E4%B8%80%E5%A4%A9%23&Refer=top)
 
 1. [蝎王赵敬CP感](https://s.weibo.com//weibo?q=%E8%9D%8E%E7%8E%8B%E8%B5%B5%E6%95%ACCP%E6%84%9F&Refer=top)
+
+1. [王毅称中日关系需要保持定力](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E7%A7%B0%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E9%9C%80%E8%A6%81%E4%BF%9D%E6%8C%81%E5%AE%9A%E5%8A%9B%23&Refer=top)
+
+1. [建议婚恋教育设为大学必修课](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A9%9A%E6%81%8B%E6%95%99%E8%82%B2%E8%AE%BE%E4%B8%BA%E5%A4%A7%E5%AD%A6%E5%BF%85%E4%BF%AE%E8%AF%BE%23&Refer=top)
+
+1. [青鸟](https://s.weibo.com//weibo?q=%E9%9D%92%E9%B8%9F&Refer=top)
+
+1. [谭松韵晒剧照问钟汉良美吗](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%99%92%E5%89%A7%E7%85%A7%E9%97%AE%E9%92%9F%E6%B1%89%E8%89%AF%E7%BE%8E%E5%90%97%23&Refer=top)
+
+1. [吐槽大会](https://s.weibo.com//weibo?q=%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [赘婿结局](https://s.weibo.com//weibo?q=%23%E8%B5%98%E5%A9%BF%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [上阳赋大结局](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E9%98%B3%E8%B5%8B%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [李现打台球写真](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%89%93%E5%8F%B0%E7%90%83%E5%86%99%E7%9C%9F%23&Refer=top)
+
+1. [委员称影视剧选角不能唯流量论](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E7%A7%B0%E5%BD%B1%E8%A7%86%E5%89%A7%E9%80%89%E8%A7%92%E4%B8%8D%E8%83%BD%E5%94%AF%E6%B5%81%E9%87%8F%E8%AE%BA%23&Refer=top)
+
+1. [369杰斯](https://s.weibo.com//weibo?q=369%E6%9D%B0%E6%96%AF&Refer=top)
 
