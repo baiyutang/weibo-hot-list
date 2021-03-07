@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 15:02:37
+## 微博今日热榜 更新于 2021-03-07 16:03:05
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -290,4 +290,32 @@
 1. [分手了彩礼要不要还](https://s.weibo.com//weibo?q=%23%E5%88%86%E6%89%8B%E4%BA%86%E5%BD%A9%E7%A4%BC%E8%A6%81%E4%B8%8D%E8%A6%81%E8%BF%98%23&Refer=top)
 
 1. [这该死的老年魅力](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%AF%A5%E6%AD%BB%E7%9A%84%E8%80%81%E5%B9%B4%E9%AD%85%E5%8A%9B%23&Refer=top)
+
+1. [总书记同代表委员这样共商国是](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%8C%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E8%BF%99%E6%A0%B7%E5%85%B1%E5%95%86%E5%9B%BD%E6%98%AF%23&Refer=new_time)
+
+1. [建议男性陪产假不低于20天](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%94%B7%E6%80%A7%E9%99%AA%E4%BA%A7%E5%81%87%E4%B8%8D%E4%BD%8E%E4%BA%8E20%E5%A4%A9%23&Refer=top)
+
+1. [建议减少学校与教育无关的工作](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%87%8F%E5%B0%91%E5%AD%A6%E6%A0%A1%E4%B8%8E%E6%95%99%E8%82%B2%E6%97%A0%E5%85%B3%E7%9A%84%E5%B7%A5%E4%BD%9C%23&Refer=top)
+
+1. [吴孟达设灵仪式](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE%E8%AE%BE%E7%81%B5%E4%BB%AA%E5%BC%8F&Refer=top)
+
+1. [王毅用5个最总结过去一年中国外交](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E7%94%A85%E4%B8%AA%E6%9C%80%E6%80%BB%E7%BB%93%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%23&Refer=top)
+
+1. [张桂梅谈华坪女高为什么本科率高](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%B0%88%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%AC%E7%A7%91%E7%8E%87%E9%AB%98%23&Refer=top)
+
+1. [建议设夫妻双方带薪育儿假期](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%AE%BE%E5%A4%AB%E5%A6%BB%E5%8F%8C%E6%96%B9%E5%B8%A6%E8%96%AA%E8%82%B2%E5%84%BF%E5%81%87%E6%9C%9F%23&Refer=top)
+
+1. [王毅说如果不爱国谈何爱港](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%AF%85%E8%AF%B4%E5%A6%82%E6%9E%9C%E4%B8%8D%E7%88%B1%E5%9B%BD%E8%B0%88%E4%BD%95%E7%88%B1%E6%B8%AF&Refer=top)
+
+1. [代表建议中小学体育课晒课表](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E8%AF%BE%E6%99%92%E8%AF%BE%E8%A1%A8%23&Refer=top)
+
+1. [芋泥啵啵酸奶布雪蛋糕](https://s.weibo.com//weibo?q=%23%E8%8A%8B%E6%B3%A5%E5%95%B5%E5%95%B5%E9%85%B8%E5%A5%B6%E5%B8%83%E9%9B%AA%E8%9B%8B%E7%B3%95%23&Refer=top)
+
+1. [青你3一公训练室版](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E4%B8%80%E5%85%AC%E8%AE%AD%E7%BB%83%E5%AE%A4%E7%89%88%23&Refer=top)
+
+1. [时代少年团新歌MV](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8CMV%23&Refer=top)
+
+1. [王毅答记者问](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE%23&Refer=top)
+
+1. [RW OMG](https://s.weibo.com//weibo?q=%23RW%20OMG%23&Refer=top)
 
