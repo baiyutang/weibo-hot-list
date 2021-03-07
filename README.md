@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 12:03:23
+## 微博今日热榜 更新于 2021-03-07 13:02:42
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -234,4 +234,22 @@
 1. [跨越种族的友情有多美好](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E8%B6%8A%E7%A7%8D%E6%97%8F%E7%9A%84%E5%8F%8B%E6%83%85%E6%9C%89%E5%A4%9A%E7%BE%8E%E5%A5%BD%23&Refer=top)
 
 1. [成年人幸福的要素](https://s.weibo.com//weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E5%B9%B8%E7%A6%8F%E7%9A%84%E8%A6%81%E7%B4%A0%23&Refer=top)
+
+1. [小朋友对喜欢的解释](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%AF%B9%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A7%A3%E9%87%8A%23&Refer=top)
+
+1. [吴孟达曾带一麻袋现金到汶川救助](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE%E6%9B%BE%E5%B8%A6%E4%B8%80%E9%BA%BB%E8%A2%8B%E7%8E%B0%E9%87%91%E5%88%B0%E6%B1%B6%E5%B7%9D%E6%95%91%E5%8A%A9&Refer=top)
+
+1. [为什么女老板越来越多](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B3%E8%80%81%E6%9D%BF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&Refer=top)
+
+1. [假扮混入马群被识破后](https://s.weibo.com//weibo?q=%23%E5%81%87%E6%89%AE%E6%B7%B7%E5%85%A5%E9%A9%AC%E7%BE%A4%E8%A2%AB%E8%AF%86%E7%A0%B4%E5%90%8E%23&Refer=top)
+
+1. [建议家庭教育立法让父母持证上岗](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E7%AB%8B%E6%B3%95%E8%AE%A9%E7%88%B6%E6%AF%8D%E6%8C%81%E8%AF%81%E4%B8%8A%E5%B2%97%23&Refer=top)
+
+1. [米卡醉拳直拍](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%86%89%E6%8B%B3%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [张桂梅跟学生说走出去就不要回头看](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%B7%9F%E5%AD%A6%E7%94%9F%E8%AF%B4%E8%B5%B0%E5%87%BA%E5%8E%BB%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4%E7%9C%8B%23&Refer=top)
+
+1. [梁振英说要把危害国家利益的人排除出去](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AF%B4%E8%A6%81%E6%8A%8A%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A%E7%9A%84%E4%BA%BA%E6%8E%92%E9%99%A4%E5%87%BA%E5%8E%BB%23&Refer=top)
+
+1. [建议加强医疗美容从业人员管理](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E5%8C%BB%E7%96%97%E7%BE%8E%E5%AE%B9%E4%BB%8E%E4%B8%9A%E4%BA%BA%E5%91%98%E7%AE%A1%E7%90%86%23&Refer=top)
 
