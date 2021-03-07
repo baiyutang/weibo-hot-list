@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 14:03:04
+## 微博今日热榜 更新于 2021-03-07 15:02:37
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -278,4 +278,16 @@
 1. [你家乡最奇葩的美食](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%AE%B6%E4%B9%A1%E6%9C%80%E5%A5%87%E8%91%A9%E7%9A%84%E7%BE%8E%E9%A3%9F%23&Refer=top)
 
 1. [建议出台电子烟行业规范](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%87%BA%E5%8F%B0%E7%94%B5%E5%AD%90%E7%83%9F%E8%A1%8C%E4%B8%9A%E8%A7%84%E8%8C%83%23&Refer=top)
+
+1. [吴孟达发给林子聪的最后一条短信](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE%E5%8F%91%E7%BB%99%E6%9E%97%E5%AD%90%E8%81%AA%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E7%9F%AD%E4%BF%A1&Refer=top)
+
+1. [司藤定档](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E5%AE%9A%E6%A1%A3&Refer=top)
+
+1. [刘亦菲春日紫樱蛋糕裙](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%98%A5%E6%97%A5%E7%B4%AB%E6%A8%B1%E8%9B%8B%E7%B3%95%E8%A3%99%23&Refer=top)
+
+1. [东海航空回应机长与乘务长互殴](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E6%9C%BA%E9%95%BF%E4%B8%8E%E4%B9%98%E5%8A%A1%E9%95%BF%E4%BA%92%E6%AE%B4%23&Refer=top)
+
+1. [分手了彩礼要不要还](https://s.weibo.com//weibo?q=%23%E5%88%86%E6%89%8B%E4%BA%86%E5%BD%A9%E7%A4%BC%E8%A6%81%E4%B8%8D%E8%A6%81%E8%BF%98%23&Refer=top)
+
+1. [这该死的老年魅力](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%AF%A5%E6%AD%BB%E7%9A%84%E8%80%81%E5%B9%B4%E9%AD%85%E5%8A%9B%23&Refer=top)
 
