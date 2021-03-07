@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 17:02:46
+## 微博今日热榜 更新于 2021-03-07 18:03:14
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -346,4 +346,18 @@
 1. [60多个国家授权使用中国疫苗](https://s.weibo.com//weibo?q=%2360%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8E%88%E6%9D%83%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [你说什么是爱情](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AF%B4%E4%BB%80%E4%B9%88%E6%98%AF%E7%88%B1%E6%83%85%23&Refer=top)
+
+1. [外交部将为湖北举行全球特别推介会](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%86%E4%B8%BA%E6%B9%96%E5%8C%97%E4%B8%BE%E8%A1%8C%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E4%BC%9A&Refer=top)
+
+1. [周星驰现身吴孟达设灵仪式](https://s.weibo.com//weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%8E%B0%E8%BA%AB%E5%90%B4%E5%AD%9F%E8%BE%BE%E8%AE%BE%E7%81%B5%E4%BB%AA%E5%BC%8F&Refer=top)
+
+1. [马嘉祺告别我就是演员](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E5%91%8A%E5%88%AB%E6%88%91%E5%B0%B1%E6%98%AF%E6%BC%94%E5%91%98&Refer=top)
+
+1. [王毅给海外同胞带来3个好消息](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E7%BB%99%E6%B5%B7%E5%A4%96%E5%90%8C%E8%83%9E%E5%B8%A6%E6%9D%A53%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF%23&Refer=top)
+
+1. [戚薇我不明白您的意思](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E6%88%91%E4%B8%8D%E6%98%8E%E7%99%BD%E6%82%A8%E7%9A%84%E6%84%8F%E6%80%9D%23&Refer=top)
+
+1. [春日酸梅蒸鱼](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E9%85%B8%E6%A2%85%E8%92%B8%E9%B1%BC%23&Refer=top)
+
+1. [杭州万株郁金香绽放](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%87%E6%A0%AA%E9%83%81%E9%87%91%E9%A6%99%E7%BB%BD%E6%94%BE%23&Refer=top)
 
