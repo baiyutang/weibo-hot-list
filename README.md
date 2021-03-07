@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 09:36:13
+## 微博今日热榜 更新于 2021-03-07 10:18:28
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -184,4 +184,24 @@
 1. [美参议院通过1.9万亿美元新冠救济法案](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%871.9%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E5%86%A0%E6%95%91%E6%B5%8E%E6%B3%95%E6%A1%88&Refer=top)
 
 1. [顶楼预告](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [吴孟达](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE&Refer=top)
+
+1. [NBA总裁拒绝更换联盟Logo](https://s.weibo.com//weibo?q=NBA%E6%80%BB%E8%A3%81%E6%8B%92%E7%BB%9D%E6%9B%B4%E6%8D%A2%E8%81%94%E7%9B%9FLogo&Refer=top)
+
+1. [马嘉祺艺考总分186](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%89%BA%E8%80%83%E6%80%BB%E5%88%86186%23&Refer=top)
+
+1. [医院里最硬核的大爷](https://s.weibo.com//weibo?q=%E5%8C%BB%E9%99%A2%E9%87%8C%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E5%A4%A7%E7%88%B7&Refer=top)
+
+1. [马嘉祺记得给张纪中老师微信](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%AE%B0%E5%BE%97%E7%BB%99%E5%BC%A0%E7%BA%AA%E4%B8%AD%E8%80%81%E5%B8%88%E5%BE%AE%E4%BF%A1%23&Refer=top)
+
+1. [和马第四](https://s.weibo.com//weibo?q=%23%E5%92%8C%E9%A9%AC%E7%AC%AC%E5%9B%9B%23&Refer=top)
+
+1. [第二场委员通道采访直播](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%9C%BA%E5%A7%94%E5%91%98%E9%80%9A%E9%81%93%E9%87%87%E8%AE%BF%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [政协委员回应芯片卡脖子问题](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E5%9B%9E%E5%BA%94%E8%8A%AF%E7%89%87%E5%8D%A1%E8%84%96%E5%AD%90%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [代表建议适当延长节假日拉动消费](https://s.weibo.com//weibo?q=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E5%BB%B6%E9%95%BF%E8%8A%82%E5%81%87%E6%97%A5%E6%8B%89%E5%8A%A8%E6%B6%88%E8%B4%B9&Refer=top)
+
+1. [殷桃看温如雪怼插队被爽到](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E6%A1%83%E7%9C%8B%E6%B8%A9%E5%A6%82%E9%9B%AA%E6%80%BC%E6%8F%92%E9%98%9F%E8%A2%AB%E7%88%BD%E5%88%B0%23&Refer=top)
 
