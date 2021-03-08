@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-08 12:03:28
+## 微博今日热榜 更新于 2021-03-08 13:02:46
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议公务员考试打破35岁门槛](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E6%89%93%E7%A0%B435%E5%B2%81%E9%97%A8%E6%A7%9B%23&Refer=top)
@@ -302,4 +302,40 @@
 1. [中国将为海外同胞推出春苗行动](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%BA%E6%B5%B7%E5%A4%96%E5%90%8C%E8%83%9E%E6%8E%A8%E5%87%BA%E6%98%A5%E8%8B%97%E8%A1%8C%E5%8A%A8&Refer=top)
 
 1. [妇女节起源](https://s.weibo.com//weibo?q=%E5%A6%87%E5%A5%B3%E8%8A%82%E8%B5%B7%E6%BA%90&Refer=top)
+
+1. [法国坠机身亡富豪身价达387亿元](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1%E5%AF%8C%E8%B1%AA%E8%BA%AB%E4%BB%B7%E8%BE%BE387%E4%BA%BF%E5%85%83&Refer=top)
+
+1. [龚俊公主抱张哲瀚下马](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%BC%A0%E5%93%B2%E7%80%9A%E4%B8%8B%E9%A9%AC%23&Refer=top)
+
+1. [詹姆斯队战胜杜兰特队](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%98%9F%E6%88%98%E8%83%9C%E6%9D%9C%E5%85%B0%E7%89%B9%E9%98%9F&Refer=top)
+
+1. [蝉冰雪女](https://s.weibo.com//weibo?q=%23%E8%9D%89%E5%86%B0%E9%9B%AA%E5%A5%B3%23&Refer=top)
+
+1. [我国女性投资赚钱比例高于男性](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E5%A5%B3%E6%80%A7%E6%8A%95%E8%B5%84%E8%B5%9A%E9%92%B1%E6%AF%94%E4%BE%8B%E9%AB%98%E4%BA%8E%E7%94%B7%E6%80%A7&Refer=top)
+
+1. [杭州大姐十年旅拍百万张照片](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%A7%90%E5%8D%81%E5%B9%B4%E6%97%85%E6%8B%8D%E7%99%BE%E4%B8%87%E5%BC%A0%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [刘亦菲 备选高定](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%A4%87%E9%80%89%E9%AB%98%E5%AE%9A&Refer=top)
+
+1. [学粤语的第一天](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%B2%A4%E8%AF%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top)
+
+1. [福州女性夜间乘出租可预约女司机](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%B7%9E%E5%A5%B3%E6%80%A7%E5%A4%9C%E9%97%B4%E4%B9%98%E5%87%BA%E7%A7%9F%E5%8F%AF%E9%A2%84%E7%BA%A6%E5%A5%B3%E5%8F%B8%E6%9C%BA&Refer=top)
+
+1. [小敏家开机](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%95%8F%E5%AE%B6%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [积极应对人口老龄化上升为国家战略](https://s.weibo.com//weibo?q=%23%E7%A7%AF%E6%9E%81%E5%BA%94%E5%AF%B9%E4%BA%BA%E5%8F%A3%E8%80%81%E9%BE%84%E5%8C%96%E4%B8%8A%E5%8D%87%E4%B8%BA%E5%9B%BD%E5%AE%B6%E6%88%98%E7%95%A5%23&Refer=top)
+
+1. [当北体小哥哥接种新冠疫苗](https://s.weibo.com//weibo?q=%E5%BD%93%E5%8C%97%E4%BD%93%E5%B0%8F%E5%93%A5%E5%93%A5%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [十四五时期我国将进入中度老龄化阶段](https://s.weibo.com//weibo?q=%E5%8D%81%E5%9B%9B%E4%BA%94%E6%97%B6%E6%9C%9F%E6%88%91%E5%9B%BD%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%BA%A6%E8%80%81%E9%BE%84%E5%8C%96%E9%98%B6%E6%AE%B5&Refer=top)
+
+1. [建议遗弃宠物行为纳入个人不良征信记录](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%81%97%E5%BC%83%E5%AE%A0%E7%89%A9%E8%A1%8C%E4%B8%BA%E7%BA%B3%E5%85%A5%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%89%AF%E5%BE%81%E4%BF%A1%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [致敬了不起的中国女性](https://s.weibo.com//weibo?q=%E8%87%B4%E6%95%AC%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7&Refer=top)
+
+1. [李银河谈女性年龄焦虑](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%93%B6%E6%B2%B3%E8%B0%88%E5%A5%B3%E6%80%A7%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91&Refer=top)
+
+1. [7人讨薪在食堂吃4个菜被收7万元](https://s.weibo.com//weibo?q=%237%E4%BA%BA%E8%AE%A8%E8%96%AA%E5%9C%A8%E9%A3%9F%E5%A0%82%E5%90%834%E4%B8%AA%E8%8F%9C%E8%A2%AB%E6%94%B67%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [你会用性别判断司机水平吗](https://s.weibo.com//weibo?q=%E4%BD%A0%E4%BC%9A%E7%94%A8%E6%80%A7%E5%88%AB%E5%88%A4%E6%96%AD%E5%8F%B8%E6%9C%BA%E6%B0%B4%E5%B9%B3%E5%90%97&Refer=top)
 
