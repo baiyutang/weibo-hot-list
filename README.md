@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-08 18:03:07
+## 微博今日热榜 更新于 2021-03-08 19:02:45
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议公务员考试打破35岁门槛](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E6%89%93%E7%A0%B435%E5%B2%81%E9%97%A8%E6%A7%9B%23&Refer=top)
@@ -458,4 +458,16 @@
 1. [浓郁芝士烤饭团](https://s.weibo.com//weibo?q=%E6%B5%93%E9%83%81%E8%8A%9D%E5%A3%AB%E7%83%A4%E9%A5%AD%E5%9B%A2&Refer=top)
 
 1. [最高检工作报告](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [总书记提到了谁](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8F%90%E5%88%B0%E4%BA%86%E8%B0%81%23&Refer=new_time)
+
+1. [建议为缩小贫富差距可考虑开征遗产税](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E7%BC%A9%E5%B0%8F%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D%E5%8F%AF%E8%80%83%E8%99%91%E5%BC%80%E5%BE%81%E9%81%97%E4%BA%A7%E7%A8%8E%23&Refer=top)
+
+1. [2020年浙江为企业减负金额达4800亿](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E6%B5%99%E6%B1%9F%E4%B8%BA%E4%BC%81%E4%B8%9A%E5%87%8F%E8%B4%9F%E9%87%91%E9%A2%9D%E8%BE%BE4800%E4%BA%BF&Refer=top)
+
+1. [57岁自驾游阿姨坦言活出真正自己](https://s.weibo.com//weibo?q=%2357%E5%B2%81%E8%87%AA%E9%A9%BE%E6%B8%B8%E9%98%BF%E5%A7%A8%E5%9D%A6%E8%A8%80%E6%B4%BB%E5%87%BA%E7%9C%9F%E6%AD%A3%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [30岁对女性到底意味着什么](https://s.weibo.com//weibo?q=%2330%E5%B2%81%E5%AF%B9%E5%A5%B3%E6%80%A7%E5%88%B0%E5%BA%95%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [张伯礼点赞抗疫中的年轻人](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E7%82%B9%E8%B5%9E%E6%8A%97%E7%96%AB%E4%B8%AD%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top)
 
