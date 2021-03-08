@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-09 04:03:01
+## 微博今日热榜 更新于 2021-03-09 05:02:41
 1. [总书记下团组这些话震撼人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8B%E5%9B%A2%E7%BB%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [最高检报告点名辣笔小球](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%A5%E5%91%8A%E7%82%B9%E5%90%8D%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%23&Refer=top)
@@ -140,4 +140,6 @@
 1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
 
 1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
+
+1. [长沙粉红色灯光秀](https://s.weibo.com//weibo?q=%E9%95%BF%E6%B2%99%E7%B2%89%E7%BA%A2%E8%89%B2%E7%81%AF%E5%85%89%E7%A7%80&Refer=top)
 
