@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-08 09:34:59
+## 微博今日热榜 更新于 2021-03-08 10:18:50
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议公务员考试打破35岁门槛](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E6%89%93%E7%A0%B435%E5%B2%81%E9%97%A8%E6%A7%9B%23&Refer=top)
@@ -226,4 +226,20 @@
 1. [山河令江湖群像](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E6%B1%9F%E6%B9%96%E7%BE%A4%E5%83%8F%23&Refer=top)
 
 1. [两会日程](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BC%9A%E6%97%A5%E7%A8%8B%23&Refer=top)
+
+1. [马思纯首谈患抑郁症](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%A6%96%E8%B0%88%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&Refer=top)
+
+1. [建议将教师节改设于孔子诞辰日](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%95%99%E5%B8%88%E8%8A%82%E6%94%B9%E8%AE%BE%E4%BA%8E%E5%AD%94%E5%AD%90%E8%AF%9E%E8%BE%B0%E6%97%A5&Refer=top)
+
+1. [吴谦严正警告台独分裂分子](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A6%E4%B8%A5%E6%AD%A3%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%E5%88%86%E8%A3%82%E5%88%86%E5%AD%90%23&Refer=top)
+
+1. [香椿最贵卖到200元一公斤](https://s.weibo.com//weibo?q=%E9%A6%99%E6%A4%BF%E6%9C%80%E8%B4%B5%E5%8D%96%E5%88%B0200%E5%85%83%E4%B8%80%E5%85%AC%E6%96%A4&Refer=top)
+
+1. [沙特石油重镇港口遭无人机袭击](https://s.weibo.com//weibo?q=%E6%B2%99%E7%89%B9%E7%9F%B3%E6%B2%B9%E9%87%8D%E9%95%87%E6%B8%AF%E5%8F%A3%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB&Refer=top)
+
+1. [建议隆重纪念郑成功收复台湾360周年](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E9%9A%86%E9%87%8D%E7%BA%AA%E5%BF%B5%E9%83%91%E6%88%90%E5%8A%9F%E6%94%B6%E5%A4%8D%E5%8F%B0%E6%B9%BE360%E5%91%A8%E5%B9%B4&Refer=top)
+
+1. [全国政协十三届四次会议视频会议](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E4%B8%89%E5%B1%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE&Refer=top)
+
+1. [超6成滑雪潜水消费者为女性](https://s.weibo.com//weibo?q=%23%E8%B6%856%E6%88%90%E6%BB%91%E9%9B%AA%E6%BD%9C%E6%B0%B4%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%BA%E5%A5%B3%E6%80%A7%23&Refer=top)
 
