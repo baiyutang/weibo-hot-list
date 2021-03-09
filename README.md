@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-09 22:02:50
+## 微博今日热榜 更新于 2021-03-09 23:02:52
 1. [总书记下团组这些话震撼人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8B%E5%9B%A2%E7%BB%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [最高检报告点名辣笔小球](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%A5%E5%91%8A%E7%82%B9%E5%90%8D%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%23&Refer=top)
@@ -532,4 +532,34 @@
 1. [江苏一高校为教职工提供托幼服务](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%AB%98%E6%A0%A1%E4%B8%BA%E6%95%99%E8%81%8C%E5%B7%A5%E6%8F%90%E4%BE%9B%E6%89%98%E5%B9%BC%E6%9C%8D%E5%8A%A1&Refer=top)
 
 1. [建议适当放宽小学新生入学年龄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E6%94%BE%E5%AE%BD%E5%B0%8F%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%B9%B4%E9%BE%84%23&Refer=top)
+
+1. [建议给单身青年提供租购房优惠](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%8D%95%E8%BA%AB%E9%9D%92%E5%B9%B4%E6%8F%90%E4%BE%9B%E7%A7%9F%E8%B4%AD%E6%88%BF%E4%BC%98%E6%83%A0%23&Refer=top)
+
+1. [日本基本决定奥运不接待海外普通观众](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%9C%AC%E5%86%B3%E5%AE%9A%E5%A5%A5%E8%BF%90%E4%B8%8D%E6%8E%A5%E5%BE%85%E6%B5%B7%E5%A4%96%E6%99%AE%E9%80%9A%E8%A7%82%E4%BC%97&Refer=top)
+
+1. [温客行原名叫甄衍](https://s.weibo.com//weibo?q=%E6%B8%A9%E5%AE%A2%E8%A1%8C%E5%8E%9F%E5%90%8D%E5%8F%AB%E7%94%84%E8%A1%8D&Refer=top)
+
+1. [沈腾瞿颖旧照](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E7%9E%BF%E9%A2%96%E6%97%A7%E7%85%A7%23&Refer=top)
+
+1. [货拉拉司机不充会员每天只能接两单](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%85%85%E4%BC%9A%E5%91%98%E6%AF%8F%E5%A4%A9%E5%8F%AA%E8%83%BD%E6%8E%A5%E4%B8%A4%E5%8D%95%23&Refer=top)
+
+1. [杀破狼](https://s.weibo.com//weibo?q=%E6%9D%80%E7%A0%B4%E7%8B%BC&Refer=top)
+
+1. [徐令宜撒娇](https://s.weibo.com//weibo?q=%E5%BE%90%E4%BB%A4%E5%AE%9C%E6%92%92%E5%A8%87&Refer=top)
+
+1. [唐三社交达人](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B8%89%E7%A4%BE%E4%BA%A4%E8%BE%BE%E4%BA%BA%23&Refer=top)
+
+1. [小鬼肌肉线条](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%AC%BC%E8%82%8C%E8%82%89%E7%BA%BF%E6%9D%A1%23&Refer=top)
+
+1. [成都9.9元共享猫咪店已关门](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD9.9%E5%85%83%E5%85%B1%E4%BA%AB%E7%8C%AB%E5%92%AA%E5%BA%97%E5%B7%B2%E5%85%B3%E9%97%A8&Refer=top)
+
+1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
+
+1. [谈恋爱一定要承诺未来吗](https://s.weibo.com//weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%BF%E8%AF%BA%E6%9C%AA%E6%9D%A5%E5%90%97%23&Refer=top)
+
+1. [美股高开](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80&Refer=top)
+
+1. [梅根](https://s.weibo.com//weibo?q=%E6%A2%85%E6%A0%B9&Refer=top)
+
+1. [周柯宇直播](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9F%AF%E5%AE%87%E7%9B%B4%E6%92%AD&Refer=top)
 
