@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 01:32:32
+## 微博今日热榜 更新于 2021-03-10 02:17:17
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -108,4 +108,10 @@
 1. [习近平下团组特别谈到这件大事](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8B%E5%9B%A2%E7%BB%84%E7%89%B9%E5%88%AB%E8%B0%88%E5%88%B0%E8%BF%99%E4%BB%B6%E5%A4%A7%E4%BA%8B%23&Refer=new_time)
 
 1. [毒花生案报案车行已暂停营业](https://s.weibo.com//weibo?q=%E6%AF%92%E8%8A%B1%E7%94%9F%E6%A1%88%E6%8A%A5%E6%A1%88%E8%BD%A6%E8%A1%8C%E5%B7%B2%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A&Refer=top)
+
+1. [总书记三到团组释放哪些信号](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%89%E5%88%B0%E5%9B%A2%E7%BB%84%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
+
+1. [王源新发色](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E5%8F%91%E8%89%B2%23&Refer=top)
+
+1. [A股](https://s.weibo.com//weibo?q=%23A%E8%82%A1%23&Refer=top)
 
