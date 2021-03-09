@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-09 12:03:14
+## 微博今日热榜 更新于 2021-03-09 13:03:25
 1. [总书记下团组这些话震撼人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8B%E5%9B%A2%E7%BB%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [最高检报告点名辣笔小球](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%A5%E5%91%8A%E7%82%B9%E5%90%8D%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%23&Refer=top)
@@ -286,4 +286,40 @@
 1. [居委会回应视障阿姨因导盲犬排尿被投诉](https://s.weibo.com//weibo?q=%E5%B1%85%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%A7%86%E9%9A%9C%E9%98%BF%E5%A7%A8%E5%9B%A0%E5%AF%BC%E7%9B%B2%E7%8A%AC%E6%8E%92%E5%B0%BF%E8%A2%AB%E6%8A%95%E8%AF%89&Refer=top)
 
 1. [如何让自己的生活有仪式感](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E4%BB%AA%E5%BC%8F%E6%84%9F%23&Refer=top)
+
+1. [总书记这些话语重心长](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E8%AF%AD%E9%87%8D%E5%BF%83%E9%95%BF%23&Refer=new_time)
+
+1. [刘亦菲拍戏的椅子用了18年](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8B%8D%E6%88%8F%E7%9A%84%E6%A4%85%E5%AD%90%E7%94%A8%E4%BA%8618%E5%B9%B4%23&Refer=top)
+
+1. [盒马 这个企鹅没有心](https://s.weibo.com//weibo?q=%E7%9B%92%E9%A9%AC%20%E8%BF%99%E4%B8%AA%E4%BC%81%E9%B9%85%E6%B2%A1%E6%9C%89%E5%BF%83&Refer=top)
+
+1. [井柏然工作室声明](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&Refer=top)
+
+1. [小学生捡26万现金寒风中等失主](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%8D%A126%E4%B8%87%E7%8E%B0%E9%87%91%E5%AF%92%E9%A3%8E%E4%B8%AD%E7%AD%89%E5%A4%B1%E4%B8%BB&Refer=top)
+
+1. [电竞选手劳损高于白领数倍](https://s.weibo.com//weibo?q=%23%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%8A%B3%E6%8D%9F%E9%AB%98%E4%BA%8E%E7%99%BD%E9%A2%86%E6%95%B0%E5%80%8D%23&Refer=top)
+
+1. [青你3主题曲WeRock](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E4%B8%BB%E9%A2%98%E6%9B%B2WeRock&Refer=top)
+
+1. [大雪中被冻成雪雕交警是个帅小伙](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%9B%AA%E4%B8%AD%E8%A2%AB%E5%86%BB%E6%88%90%E9%9B%AA%E9%9B%95%E4%BA%A4%E8%AD%A6%E6%98%AF%E4%B8%AA%E5%B8%85%E5%B0%8F%E4%BC%99%23&Refer=top)
+
+1. [众鑫大厦](https://s.weibo.com//weibo?q=%E4%BC%97%E9%91%AB%E5%A4%A7%E5%8E%A6&Refer=top)
+
+1. [第五人格](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&Refer=top)
+
+1. [和好朋友一起搞事业靠谱吗](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B8%80%E8%B5%B7%E6%90%9E%E4%BA%8B%E4%B8%9A%E9%9D%A0%E8%B0%B1%E5%90%97%23&Refer=top)
+
+1. [2020年是旅游史上最糟糕的一年](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E6%98%AF%E6%97%85%E6%B8%B8%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%B3%9F%E7%B3%95%E7%9A%84%E4%B8%80%E5%B9%B4%23&Refer=top)
+
+1. [今天是香克斯的生日](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E9%A6%99%E5%85%8B%E6%96%AF%E7%9A%84%E7%94%9F%E6%97%A5%23&Refer=top)
+
+1. [去陕西一定要知道的事](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E9%99%95%E8%A5%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%23&Refer=top)
+
+1. [文科老师的浪漫](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%A7%91%E8%80%81%E5%B8%88%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top)
+
+1. [该不该刻意去维系友情](https://s.weibo.com//weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%88%BB%E6%84%8F%E5%8E%BB%E7%BB%B4%E7%B3%BB%E5%8F%8B%E6%83%85%23&Refer=top)
+
+1. [萧亚轩脑压过高挂急诊](https://s.weibo.com//weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%E8%84%91%E5%8E%8B%E8%BF%87%E9%AB%98%E6%8C%82%E6%80%A5%E8%AF%8A&Refer=top)
+
+1. [如果可以定制今晚的梦](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%9E%9C%E5%8F%AF%E4%BB%A5%E5%AE%9A%E5%88%B6%E4%BB%8A%E6%99%9A%E7%9A%84%E6%A2%A6%23&Refer=top)
 
