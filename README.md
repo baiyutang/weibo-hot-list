@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-09 08:06:42
+## 微博今日热榜 更新于 2021-03-09 09:34:12
 1. [总书记下团组这些话震撼人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8B%E5%9B%A2%E7%BB%84%E8%BF%99%E4%BA%9B%E8%AF%9D%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [最高检报告点名辣笔小球](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%A5%E5%91%8A%E7%82%B9%E5%90%8D%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%23&Refer=top)
@@ -182,4 +182,36 @@
 1. [世卫发起全球应对乳腺癌倡议](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E5%8F%91%E8%B5%B7%E5%85%A8%E7%90%83%E5%BA%94%E5%AF%B9%E4%B9%B3%E8%85%BA%E7%99%8C%E5%80%A1%E8%AE%AE%23&Refer=top)
 
 1. [建筑女工每天收工坚持看书2小时](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AD%91%E5%A5%B3%E5%B7%A5%E6%AF%8F%E5%A4%A9%E6%94%B6%E5%B7%A5%E5%9D%9A%E6%8C%81%E7%9C%8B%E4%B9%A62%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [总书记提到了谁](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8F%90%E5%88%B0%E4%BA%86%E8%B0%81%23&Refer=new_time)
+
+1. [黄子韬 为什么不让唱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%AE%A9%E5%94%B1&Refer=top)
+
+1. [建议教师工资免税](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%99%E5%B8%88%E5%B7%A5%E8%B5%84%E5%85%8D%E7%A8%8E%23&Refer=top)
+
+1. [Gap考虑出售中国业务](https://s.weibo.com//weibo?q=Gap%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1&Refer=top)
+
+1. [预计今年消费将呈恢复性快速增长](https://s.weibo.com//weibo?q=%23%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E6%B6%88%E8%B4%B9%E5%B0%86%E5%91%88%E6%81%A2%E5%A4%8D%E6%80%A7%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF%23&Refer=top)
+
+1. [吴孟达遗愿](https://s.weibo.com//weibo?q=%E5%90%B4%E5%AD%9F%E8%BE%BE%E9%81%97%E6%84%BF&Refer=top)
+
+1. [货拉拉](https://s.weibo.com//weibo?q=%E8%B4%A7%E6%8B%89%E6%8B%89&Refer=top)
+
+1. [乃万说郭老师好正常](https://s.weibo.com//weibo?q=%23%E4%B9%83%E4%B8%87%E8%AF%B4%E9%83%AD%E8%80%81%E5%B8%88%E5%A5%BD%E6%AD%A3%E5%B8%B8%23&Refer=top)
+
+1. [魏大勋说段序操碎了心](https://s.weibo.com//weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E6%AE%B5%E5%BA%8F%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83%23&Refer=top)
+
+1. [未来5年中国的路这样走](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A55%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B7%AF%E8%BF%99%E6%A0%B7%E8%B5%B0%23&Refer=top)
+
+1. [建议对家养动物进行芯片登记](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E5%AF%B9%E5%AE%B6%E5%85%BB%E5%8A%A8%E7%89%A9%E8%BF%9B%E8%A1%8C%E8%8A%AF%E7%89%87%E7%99%BB%E8%AE%B0&Refer=top)
+
+1. [学生排成一排动作同步拖地](https://s.weibo.com//weibo?q=%E5%AD%A6%E7%94%9F%E6%8E%92%E6%88%90%E4%B8%80%E6%8E%92%E5%8A%A8%E4%BD%9C%E5%90%8C%E6%AD%A5%E6%8B%96%E5%9C%B0&Refer=top)
+
+1. [建议为女性设立更年期带薪关爱假](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E5%A5%B3%E6%80%A7%E8%AE%BE%E7%AB%8B%E6%9B%B4%E5%B9%B4%E6%9C%9F%E5%B8%A6%E8%96%AA%E5%85%B3%E7%88%B1%E5%81%87%23&Refer=top)
+
+1. [司藤人设](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E4%BA%BA%E8%AE%BE%23&Refer=top)
+
+1. [女性在疫情中受到了更大的冲击](https://s.weibo.com//weibo?q=%E5%A5%B3%E6%80%A7%E5%9C%A8%E7%96%AB%E6%83%85%E4%B8%AD%E5%8F%97%E5%88%B0%E4%BA%86%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%86%B2%E5%87%BB&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
 
