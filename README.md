@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 02:17:17
+## 微博今日热榜 更新于 2021-03-10 03:02:00
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -114,4 +114,10 @@
 1. [王源新发色](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E5%8F%91%E8%89%B2%23&Refer=top)
 
 1. [A股](https://s.weibo.com//weibo?q=%23A%E8%82%A1%23&Refer=top)
+
+1. [总书记这些话语重心长](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E8%AF%AD%E9%87%8D%E5%BF%83%E9%95%BF%23&Refer=new_time)
+
+1. [建议警惕课堂过度使用PPT](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%AD%A6%E6%83%95%E8%AF%BE%E5%A0%82%E8%BF%87%E5%BA%A6%E4%BD%BF%E7%94%A8PPT%23&Refer=top)
+
+1. [大连湾海底隧道沉管安装施工](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E6%B9%BE%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E6%B2%89%E7%AE%A1%E5%AE%89%E8%A3%85%E6%96%BD%E5%B7%A5&Refer=top)
 
