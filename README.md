@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 05:02:50
+## 微博今日热榜 更新于 2021-03-10 06:03:06
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -126,4 +126,8 @@
 1. [锦心似玉预告](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89%E9%A2%84%E5%91%8A&Refer=top)
 
 1. [江苏八省联考成绩](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%85%AB%E7%9C%81%E8%81%94%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [拥有多少资产才算财务自由](https://s.weibo.com//weibo?q=%23%E6%8B%A5%E6%9C%89%E5%A4%9A%E5%B0%91%E8%B5%84%E4%BA%A7%E6%89%8D%E7%AE%97%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%23&Refer=top)
+
+1. [建议高考可以让学生选择性考试](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%89%E6%8B%A9%E6%80%A7%E8%80%83%E8%AF%95%23&Refer=top)
 
