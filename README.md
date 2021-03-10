@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 14:03:17
+## 微博今日热榜 更新于 2021-03-10 15:02:42
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -282,4 +282,30 @@
 1. [英国小哥向世界介绍中国发展](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%B0%8F%E5%93%A5%E5%90%91%E4%B8%96%E7%95%8C%E4%BB%8B%E7%BB%8D%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%23&Refer=top)
 
 1. [应不应该为了孩子维持婚姻](https://s.weibo.com//weibo?q=%23%E5%BA%94%E4%B8%8D%E5%BA%94%E8%AF%A5%E4%B8%BA%E4%BA%86%E5%AD%A9%E5%AD%90%E7%BB%B4%E6%8C%81%E5%A9%9A%E5%A7%BB%23&Refer=top)
+
+1. [青你3主题曲直拍](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E4%B8%BB%E9%A2%98%E6%9B%B2%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [张子枫吴磊盛夏未来杀青](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%B4%E7%A3%8A%E7%9B%9B%E5%A4%8F%E6%9C%AA%E6%9D%A5%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [小米10S发布会](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B310S%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [建议点菜剩太多按双倍付费](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%82%B9%E8%8F%9C%E5%89%A9%E5%A4%AA%E5%A4%9A%E6%8C%89%E5%8F%8C%E5%80%8D%E4%BB%98%E8%B4%B9%23&Refer=top)
+
+1. [春日壁纸](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E5%A3%81%E7%BA%B8%23&Refer=top)
+
+1. [官方通报学生算错题遭老师殴打险失明](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E7%AE%97%E9%94%99%E9%A2%98%E9%81%AD%E8%80%81%E5%B8%88%E6%AE%B4%E6%89%93%E9%99%A9%E5%A4%B1%E6%98%8E%23&Refer=top)
+
+1. [余景天主题曲直拍](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E4%B8%BB%E9%A2%98%E6%9B%B2%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [刘诗诗生日照](https://s.weibo.com//weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E7%94%9F%E6%97%A5%E7%85%A7&Refer=top)
+
+1. [脏车禁止进入成都主城区](https://s.weibo.com//weibo?q=%23%E8%84%8F%E8%BD%A6%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E6%88%90%E9%83%BD%E4%B8%BB%E5%9F%8E%E5%8C%BA%23&Refer=top)
+
+1. [劣迹艺人作品该永久封禁吗](https://s.weibo.com//weibo?q=%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E4%BD%9C%E5%93%81%E8%AF%A5%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E5%90%97&Refer=top)
+
+1. [建议代表发言不能跑题入法](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E4%BB%A3%E8%A1%A8%E5%8F%91%E8%A8%80%E4%B8%8D%E8%83%BD%E8%B7%91%E9%A2%98%E5%85%A5%E6%B3%95&Refer=top)
+
+1. [4S店回应特斯拉刹车失灵致追尾](https://s.weibo.com//weibo?q=4S%E5%BA%97%E5%9B%9E%E5%BA%94%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E8%87%B4%E8%BF%BD%E5%B0%BE&Refer=top)
+
+1. [罗翔深度分析两高报告](https://s.weibo.com//weibo?q=%23%E7%BD%97%E7%BF%94%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E4%B8%A4%E9%AB%98%E6%8A%A5%E5%91%8A%23&Refer=top)
 
