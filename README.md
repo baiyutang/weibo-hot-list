@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 11:02:37
+## 微博今日热榜 更新于 2021-03-10 12:02:56
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -212,4 +212,26 @@
 1. [解读最高人民法院工作报告](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E8%AF%BB%E6%9C%80%E9%AB%98%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&Refer=top)
 
 1. [邓超晒孙俪做的布里修](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E5%AD%99%E4%BF%AA%E5%81%9A%E7%9A%84%E5%B8%83%E9%87%8C%E4%BF%AE%23&Refer=top)
+
+1. [教育不能过于注重分数](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E4%B8%8D%E8%83%BD%E8%BF%87%E4%BA%8E%E6%B3%A8%E9%87%8D%E5%88%86%E6%95%B0%23&Refer=new_time)
+
+1. [建议取消1至3年级家庭作业](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%881%E8%87%B33%E5%B9%B4%E7%BA%A7%E5%AE%B6%E5%BA%AD%E4%BD%9C%E4%B8%9A%23&Refer=top)
+
+1. [飞天小女警真人剧集主演](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6%E7%9C%9F%E4%BA%BA%E5%89%A7%E9%9B%86%E4%B8%BB%E6%BC%94%23&Refer=top)
+
+1. [吴奇隆刘诗诗带儿子出游](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E5%88%98%E8%AF%97%E8%AF%97%E5%B8%A6%E5%84%BF%E5%AD%90%E5%87%BA%E6%B8%B8%23&Refer=top)
+
+1. [张坤刘格菘旗下基金创最大回撤纪录](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%9D%A4%E5%88%98%E6%A0%BC%E8%8F%98%E6%97%97%E4%B8%8B%E5%9F%BA%E9%87%91%E5%88%9B%E6%9C%80%E5%A4%A7%E5%9B%9E%E6%92%A4%E7%BA%AA%E5%BD%95&Refer=top)
+
+1. [减肥辅助器](https://s.weibo.com//weibo?q=%23%E5%87%8F%E8%82%A5%E8%BE%85%E5%8A%A9%E5%99%A8%23&Refer=top)
+
+1. [英国医生称多数咖啡粉中含有蟑螂](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%A4%9A%E6%95%B0%E5%92%96%E5%95%A1%E7%B2%89%E4%B8%AD%E5%90%AB%E6%9C%89%E8%9F%91%E8%9E%82%23&Refer=top)
+
+1. [轮到你了将拍电影](https://s.weibo.com//weibo?q=%23%E8%BD%AE%E5%88%B0%E4%BD%A0%E4%BA%86%E5%B0%86%E6%8B%8D%E7%94%B5%E5%BD%B1%23&Refer=top)
+
+1. [基金段子大赏](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%E6%AE%B5%E5%AD%90%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [昆山成全国首个市场主体破百万县级市](https://s.weibo.com//weibo?q=%E6%98%86%E5%B1%B1%E6%88%90%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%B8%82%E5%9C%BA%E4%B8%BB%E4%BD%93%E7%A0%B4%E7%99%BE%E4%B8%87%E5%8E%BF%E7%BA%A7%E5%B8%82&Refer=top)
+
+1. [重庆刀片天路](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%88%80%E7%89%87%E5%A4%A9%E8%B7%AF%23&Refer=top)
 
