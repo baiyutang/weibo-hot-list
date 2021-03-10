@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 08:06:44
+## 微博今日热榜 更新于 2021-03-10 09:34:24
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -144,4 +144,42 @@
 1. [中国人寿黑龙江分公司被罚51万](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E9%BB%91%E9%BE%99%E6%B1%9F%E5%88%86%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%BD%9A51%E4%B8%87&Refer=top)
 
 1. [多地严查信贷资金挪用至股市楼市](https://s.weibo.com//weibo?q=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E4%BF%A1%E8%B4%B7%E8%B5%84%E9%87%91%E6%8C%AA%E7%94%A8%E8%87%B3%E8%82%A1%E5%B8%82%E6%A5%BC%E5%B8%82&Refer=top)
+
+1. [建议鼓励城市离退休人员告老还乡](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E5%9F%8E%E5%B8%82%E7%A6%BB%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%91%8A%E8%80%81%E8%BF%98%E4%B9%A1%23&Refer=top)
+
+1. [发现未成年人遭受侵害不报告可追刑责](https://s.weibo.com//weibo?q=%E5%8F%91%E7%8E%B0%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%81%AD%E5%8F%97%E4%BE%B5%E5%AE%B3%E4%B8%8D%E6%8A%A5%E5%91%8A%E5%8F%AF%E8%BF%BD%E5%88%91%E8%B4%A3&Refer=top)
+
+1. [赛琳娜将暂别乐坛](https://s.weibo.com//weibo?q=%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%B0%86%E6%9A%82%E5%88%AB%E4%B9%90%E5%9D%9B&Refer=top)
+
+1. [杭州酒店床品抹布装芯片](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%85%92%E5%BA%97%E5%BA%8A%E5%93%81%E6%8A%B9%E5%B8%83%E8%A3%85%E8%8A%AF%E7%89%87%23&Refer=top)
+
+1. [迪丽热巴走着走着鞋掉了](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B0%E7%9D%80%E8%B5%B0%E7%9D%80%E9%9E%8B%E6%8E%89%E4%BA%86%23&Refer=top)
+
+1. [英国首相回应哈里夫妇爆料式访谈](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E5%93%88%E9%87%8C%E5%A4%AB%E5%A6%87%E7%88%86%E6%96%99%E5%BC%8F%E8%AE%BF%E8%B0%88&Refer=top)
+
+1. [建议将虐待动物纳入治安管理处罚法](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E5%B0%86%E8%99%90%E5%BE%85%E5%8A%A8%E7%89%A9%E7%BA%B3%E5%85%A5%E6%B2%BB%E5%AE%89%E7%AE%A1%E7%90%86%E5%A4%84%E7%BD%9A%E6%B3%95&Refer=top)
+
+1. [2021届名人堂最终候选名单](https://s.weibo.com//weibo?q=2021%E5%B1%8A%E5%90%8D%E4%BA%BA%E5%A0%82%E6%9C%80%E7%BB%88%E5%80%99%E9%80%89%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [和马对粉丝说会尽快回来](https://s.weibo.com//weibo?q=%E5%92%8C%E9%A9%AC%E5%AF%B9%E7%B2%89%E4%B8%9D%E8%AF%B4%E4%BC%9A%E5%B0%BD%E5%BF%AB%E5%9B%9E%E6%9D%A5&Refer=top)
+
+1. [王心凌新歌](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [什么是碳中和](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%A2%B3%E4%B8%AD%E5%92%8C%23&Refer=top)
+
+1. [教育应该培养全才还是专才](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%BA%94%E8%AF%A5%E5%9F%B9%E5%85%BB%E5%85%A8%E6%89%8D%E8%BF%98%E6%98%AF%E4%B8%93%E6%89%8D%23&Refer=top)
+
+1. [建议增强心理健康教育师资](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%BC%BA%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E5%B8%88%E8%B5%84%23&Refer=top)
+
+1. [千奇百怪的受伤经历](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%A5%87%E7%99%BE%E6%80%AA%E7%9A%84%E5%8F%97%E4%BC%A4%E7%BB%8F%E5%8E%86%23&Refer=top)
+
+1. [十四五规划纲要草案50题](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%9B%9B%E4%BA%94%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81%E8%8D%89%E6%A1%8850%E9%A2%98%23&Refer=top)
+
+1. [建议明确中学性教育课时安排](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%98%8E%E7%A1%AE%E4%B8%AD%E5%AD%A6%E6%80%A7%E6%95%99%E8%82%B2%E8%AF%BE%E6%97%B6%E5%AE%89%E6%8E%92%23&Refer=top)
+
+1. [店主讲述共享猫咪9块9租一天](https://s.weibo.com//weibo?q=%E5%BA%97%E4%B8%BB%E8%AE%B2%E8%BF%B0%E5%85%B1%E4%BA%AB%E7%8C%AB%E5%92%AA9%E5%9D%979%E7%A7%9F%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [如何看待共享宠物](https://s.weibo.com//weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%85%B1%E4%BA%AB%E5%AE%A0%E7%89%A9&Refer=top)
+
+1. [星援App开发者一审获刑五年](https://s.weibo.com//weibo?q=%E6%98%9F%E6%8F%B4App%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%91%E4%BA%94%E5%B9%B4&Refer=top)
 
