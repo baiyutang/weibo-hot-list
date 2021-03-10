@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 07:03:10
+## 微博今日热榜 更新于 2021-03-10 08:06:44
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -132,4 +132,16 @@
 1. [建议高考可以让学生选择性考试](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%89%E6%8B%A9%E6%80%A7%E8%80%83%E8%AF%95%23&Refer=top)
 
 1. [殷桃说单身想多谈恋爱怎么了](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E6%A1%83%E8%AF%B4%E5%8D%95%E8%BA%AB%E6%83%B3%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%E6%80%8E%E4%B9%88%E4%BA%86%23&Refer=top)
+
+1. [建议推行免费婚检](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%A9%9A%E6%A3%80&Refer=top)
+
+1. [尤文欧冠出局](https://s.weibo.com//weibo?q=%E5%B0%A4%E6%96%87%E6%AC%A7%E5%86%A0%E5%87%BA%E5%B1%80&Refer=top)
+
+1. [基金大跌](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91%E5%A4%A7%E8%B7%8C&Refer=top)
+
+1. [韩商言吴白进错婚房](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%95%86%E8%A8%80%E5%90%B4%E7%99%BD%E8%BF%9B%E9%94%99%E5%A9%9A%E6%88%BF&Refer=top)
+
+1. [中国人寿黑龙江分公司被罚51万](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E9%BB%91%E9%BE%99%E6%B1%9F%E5%88%86%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%BD%9A51%E4%B8%87&Refer=top)
+
+1. [多地严查信贷资金挪用至股市楼市](https://s.weibo.com//weibo?q=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E4%BF%A1%E8%B4%B7%E8%B5%84%E9%87%91%E6%8C%AA%E7%94%A8%E8%87%B3%E8%82%A1%E5%B8%82%E6%A5%BC%E5%B8%82&Refer=top)
 
