@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 18:03:04
+## 微博今日热榜 更新于 2021-03-10 19:02:42
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -406,4 +406,22 @@
 1. [政协大会收到提案5913件](https://s.weibo.com//weibo?q=%23%E6%94%BF%E5%8D%8F%E5%A4%A7%E4%BC%9A%E6%94%B6%E5%88%B0%E6%8F%90%E6%A1%885913%E4%BB%B6%23&Refer=top)
 
 1. [为什么欧美先给老人接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AC%A7%E7%BE%8E%E5%85%88%E7%BB%99%E8%80%81%E4%BA%BA%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [冯远征称流量无关演技](https://s.weibo.com//weibo?q=%23%E5%86%AF%E8%BF%9C%E5%BE%81%E7%A7%B0%E6%B5%81%E9%87%8F%E6%97%A0%E5%85%B3%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [黄明昊用卸妆棉化妆](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E7%94%A8%E5%8D%B8%E5%A6%86%E6%A3%89%E5%8C%96%E5%A6%86%23&Refer=top)
+
+1. [英国网友拍到轮船悬浮](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E8%BD%AE%E8%88%B9%E6%82%AC%E6%B5%AE&Refer=top)
+
+1. [明星大侦探](https://s.weibo.com//weibo?q=%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BE%A6%E6%8E%A2&Refer=top)
+
+1. [泰国总理朝记者喷消毒酒精逃避提问](https://s.weibo.com//weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%9C%9D%E8%AE%B0%E8%80%85%E5%96%B7%E6%B6%88%E6%AF%92%E9%85%92%E7%B2%BE%E9%80%83%E9%81%BF%E6%8F%90%E9%97%AE&Refer=top)
+
+1. [张文宏称新冠疫苗最好今年打](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9C%80%E5%A5%BD%E4%BB%8A%E5%B9%B4%E6%89%93%23&Refer=top)
+
+1. [创造营](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5&Refer=top)
+
+1. [马尚41分](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%B0%9A41%E5%88%86&Refer=top)
+
+1. [广东男篮战胜山东男篮](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E5%B1%B1%E4%B8%9C%E7%94%B7%E7%AF%AE&Refer=top)
 
