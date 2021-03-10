@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-11 06:03:13
+## 微博今日热榜 更新于 2021-03-11 07:02:34
 1. [总书记两会上多次强调这三项任务](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%A4%E4%BC%9A%E4%B8%8A%E5%A4%9A%E6%AC%A1%E5%BC%BA%E8%B0%83%E8%BF%99%E4%B8%89%E9%A1%B9%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [平均不满23岁女兵给导弹做体检](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%9D%87%E4%B8%8D%E6%BB%A123%E5%B2%81%E5%A5%B3%E5%85%B5%E7%BB%99%E5%AF%BC%E5%BC%B9%E5%81%9A%E4%BD%93%E6%A3%80%23&Refer=top)
