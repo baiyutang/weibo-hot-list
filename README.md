@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 09:34:24
+## 微博今日热榜 更新于 2021-03-10 10:19:22
 1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
 
 1. [建议对996工作制进行监管](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9996%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%AE%A1%23&Refer=top)
@@ -182,4 +182,20 @@
 1. [如何看待共享宠物](https://s.weibo.com//weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%85%B1%E4%BA%AB%E5%AE%A0%E7%89%A9&Refer=top)
 
 1. [星援App开发者一审获刑五年](https://s.weibo.com//weibo?q=%E6%98%9F%E6%8F%B4App%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%91%E4%BA%94%E5%B9%B4&Refer=top)
+
+1. [违背祖训神医张文荣被医院免职](https://s.weibo.com//weibo?q=%E8%BF%9D%E8%83%8C%E7%A5%96%E8%AE%AD%E7%A5%9E%E5%8C%BB%E5%BC%A0%E6%96%87%E8%8D%A3%E8%A2%AB%E5%8C%BB%E9%99%A2%E5%85%8D%E8%81%8C&Refer=top)
+
+1. [肖战光点2020全球单曲畅销榜第七](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%85%89%E7%82%B92020%E5%85%A8%E7%90%83%E5%8D%95%E6%9B%B2%E7%95%85%E9%94%80%E6%A6%9C%E7%AC%AC%E4%B8%83%23&Refer=top)
+
+1. [建议整顿无底线追星](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E6%95%B4%E9%A1%BF%E6%97%A0%E5%BA%95%E7%BA%BF%E8%BF%BD%E6%98%9F&Refer=top)
+
+1. [河南安阳97年基层干部用OKR养猪](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%AE%89%E9%98%B397%E5%B9%B4%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%94%A8OKR%E5%85%BB%E7%8C%AA%23&Refer=top)
+
+1. [建议立法解决商品过度包装](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%AB%8B%E6%B3%95%E8%A7%A3%E5%86%B3%E5%95%86%E5%93%81%E8%BF%87%E5%BA%A6%E5%8C%85%E8%A3%85%23&Refer=top)
+
+1. [人类幼崽后脑勺图鉴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E5%90%8E%E8%84%91%E5%8B%BA%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [感觉眼睛被欺骗了](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%A7%89%E7%9C%BC%E7%9D%9B%E8%A2%AB%E6%AC%BA%E9%AA%97%E4%BA%86%23&Refer=top)
+
+1. [美债收益率回落](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%9B%9E%E8%90%BD&Refer=top)
 
