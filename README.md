@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-11 09:35:06
+## 微博今日热榜 更新于 2021-03-11 10:18:00
 1. [总书记两会上多次强调这三项任务](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%A4%E4%BC%9A%E4%B8%8A%E5%A4%9A%E6%AC%A1%E5%BC%BA%E8%B0%83%E8%BF%99%E4%B8%89%E9%A1%B9%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [平均不满23岁女兵给导弹做体检](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%9D%87%E4%B8%8D%E6%BB%A123%E5%B2%81%E5%A5%B3%E5%85%B5%E7%BB%99%E5%AF%BC%E5%BC%B9%E5%81%9A%E4%BD%93%E6%A3%80%23&Refer=top)
@@ -190,4 +190,20 @@
 1. [福岛核电站厂房上方发现严重污染](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E7%94%B5%E7%AB%99%E5%8E%82%E6%88%BF%E4%B8%8A%E6%96%B9%E5%8F%91%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%B1%A1%E6%9F%93%23&Refer=top)
 
 1. [建议严惩恶意欺凌他人的青少年](https://s.weibo.com//weibo?q=%E5%BB%BA%E8%AE%AE%E4%B8%A5%E6%83%A9%E6%81%B6%E6%84%8F%E6%AC%BA%E5%87%8C%E4%BB%96%E4%BA%BA%E7%9A%84%E9%9D%92%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [总书记提到的三千孤儿入内蒙](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8F%90%E5%88%B0%E7%9A%84%E4%B8%89%E5%8D%83%E5%AD%A4%E5%84%BF%E5%85%A5%E5%86%85%E8%92%99%23&Refer=new_time)
+
+1. [你好李焕英进入全球票房榜前100](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E8%BF%9B%E5%85%A5%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D100%23&Refer=top)
+
+1. [比特币市值重回1万亿美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E1%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [捡26万元小学生升旗仪式上获颁奖杯](https://s.weibo.com//weibo?q=%23%E6%8D%A126%E4%B8%87%E5%85%83%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E4%B8%8A%E8%8E%B7%E9%A2%81%E5%A5%96%E6%9D%AF%23&Refer=top)
+
+1. [委员建议提升营销号诽谤成本](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%8F%90%E5%8D%87%E8%90%A5%E9%94%80%E5%8F%B7%E8%AF%BD%E8%B0%A4%E6%88%90%E6%9C%AC%23&Refer=top)
+
+1. [南向晚怼人精](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%90%91%E6%99%9A%E6%80%BC%E4%BA%BA%E7%B2%BE%23&Refer=top)
+
+1. [盒式磁带发明人去世](https://s.weibo.com//weibo?q=%E7%9B%92%E5%BC%8F%E7%A3%81%E5%B8%A6%E5%8F%91%E6%98%8E%E4%BA%BA%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [近三成消费者每月花400元喝新式茶饮](https://s.weibo.com//weibo?q=%23%E8%BF%91%E4%B8%89%E6%88%90%E6%B6%88%E8%B4%B9%E8%80%85%E6%AF%8F%E6%9C%88%E8%8A%B1400%E5%85%83%E5%96%9D%E6%96%B0%E5%BC%8F%E8%8C%B6%E9%A5%AE%23&Refer=top)
 
