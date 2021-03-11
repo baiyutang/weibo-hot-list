@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 00:04:29
+## 微博今日热榜 更新于 2021-03-12 01:24:12
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [三大百亿基金大幅放宽限购](https://s.weibo.com//weibo?q=%E4%B8%89%E5%A4%A7%E7%99%BE%E4%BA%BF%E5%9F%BA%E9%87%91%E5%A4%A7%E5%B9%85%E6%94%BE%E5%AE%BD%E9%99%90%E8%B4%AD&Refer=top)
 
 1. [总理称应推动中美关系向前看](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E7%A7%B0%E5%BA%94%E6%8E%A8%E5%8A%A8%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%90%91%E5%89%8D%E7%9C%8B%23&Refer=top)
+
+1. [坚定不移走高质量发展之路](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%AE%9A%E4%B8%8D%E7%A7%BB%E8%B5%B0%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
+
+1. [林骁然给狗讲戏](https://s.weibo.com//weibo?q=%23%E6%9E%97%E9%AA%81%E7%84%B6%E7%BB%99%E7%8B%97%E8%AE%B2%E6%88%8F%23&Refer=top)
+
+1. [李宇春生日粉丝公益捐款破百万](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E7%94%9F%E6%97%A5%E7%B2%89%E4%B8%9D%E5%85%AC%E7%9B%8A%E6%8D%90%E6%AC%BE%E7%A0%B4%E7%99%BE%E4%B8%87&Refer=top)
 
