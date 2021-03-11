@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 05:02:46
+## 微博今日热榜 更新于 2021-03-12 06:03:09
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [刘宇宁古装造型](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 1. [南京莫愁湖海棠初开](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E8%8E%AB%E6%84%81%E6%B9%96%E6%B5%B7%E6%A3%A0%E5%88%9D%E5%BC%80&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
