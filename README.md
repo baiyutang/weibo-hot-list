@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 20:03:55
+## 微博今日热榜 更新于 2021-03-12 21:07:47
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -470,4 +470,20 @@
 1. [买房需要避开哪些坑](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E6%88%BF%E9%9C%80%E8%A6%81%E9%81%BF%E5%BC%80%E5%93%AA%E4%BA%9B%E5%9D%91%23&Refer=top)
 
 1. [酥软吮指鸡爪煲](https://s.weibo.com//weibo?q=%23%E9%85%A5%E8%BD%AF%E5%90%AE%E6%8C%87%E9%B8%A1%E7%88%AA%E7%85%B2%23&Refer=top)
+
+1. [郑允浩遇警察管制试图逃跑](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%85%81%E6%B5%A9%E9%81%87%E8%AD%A6%E5%AF%9F%E7%AE%A1%E5%88%B6%E8%AF%95%E5%9B%BE%E9%80%83%E8%B7%91%23&Refer=top)
+
+1. [第二名的逆袭](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%BA%8C%E5%90%8D%E7%9A%84%E9%80%86%E8%A2%AD&Refer=top)
+
+1. [余景天如果不是你直拍](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E5%A6%82%E6%9E%9C%E4%B8%8D%E6%98%AF%E4%BD%A0%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [拜登谈美国新冠死亡人数](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%88%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%23&Refer=top)
+
+1. [徐令宜给十一娘写和离书](https://s.weibo.com//weibo?q=%23%E5%BE%90%E4%BB%A4%E5%AE%9C%E7%BB%99%E5%8D%81%E4%B8%80%E5%A8%98%E5%86%99%E5%92%8C%E7%A6%BB%E4%B9%A6%23&Refer=top)
+
+1. [女辅警敲诈案7名公职人员被处分](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%BE%85%E8%AD%A6%E6%95%B2%E8%AF%88%E6%A1%887%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%A4%84%E5%88%86&Refer=top)
+
+1. [3080小时特级飞行员光荣停飞](https://s.weibo.com//weibo?q=%233080%E5%B0%8F%E6%97%B6%E7%89%B9%E7%BA%A7%E9%A3%9E%E8%A1%8C%E5%91%98%E5%85%89%E8%8D%A3%E5%81%9C%E9%A3%9E%23&Refer=top)
+
+1. [中山大学考研复试线](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%E5%A4%8D%E8%AF%95%E7%BA%BF&Refer=top)
 
