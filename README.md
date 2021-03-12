@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 11:04:15
+## 微博今日热榜 更新于 2021-03-12 12:03:23
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -236,4 +236,28 @@
 1. [委员称空巢青年没有好坏之分](https://s.weibo.com//weibo?q=%E5%A7%94%E5%91%98%E7%A7%B0%E7%A9%BA%E5%B7%A2%E9%9D%92%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%A5%BD%E5%9D%8F%E4%B9%8B%E5%88%86&Refer=top)
 
 1. [篮网](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91&Refer=top)
+
+1. [父子放大镜实验烧毁2000平草坪](https://s.weibo.com//weibo?q=%23%E7%88%B6%E5%AD%90%E6%94%BE%E5%A4%A7%E9%95%9C%E5%AE%9E%E9%AA%8C%E7%83%A7%E6%AF%812000%E5%B9%B3%E8%8D%89%E5%9D%AA%23&Refer=top)
+
+1. [江直树](https://s.weibo.com//weibo?q=%E6%B1%9F%E7%9B%B4%E6%A0%91&Refer=top)
+
+1. [刘天池谈Angelababy演技争议](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A9%E6%B1%A0%E8%B0%88Angelababy%E6%BC%94%E6%8A%80%E4%BA%89%E8%AE%AE%23&Refer=top)
+
+1. [邓孝慈站姐](https://s.weibo.com//weibo?q=%23%E9%82%93%E5%AD%9D%E6%85%88%E7%AB%99%E5%A7%90%23&Refer=top)
+
+1. [大叔碎碎念式救被困猫头鹰](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%8F%94%E7%A2%8E%E7%A2%8E%E5%BF%B5%E5%BC%8F%E6%95%91%E8%A2%AB%E5%9B%B0%E7%8C%AB%E5%A4%B4%E9%B9%B0%23&Refer=top)
+
+1. [意大利检方罚款外卖平台7.33亿欧元](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E6%A3%80%E6%96%B9%E7%BD%9A%E6%AC%BE%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B07.33%E4%BA%BF%E6%AC%A7%E5%85%83%23&Refer=top)
+
+1. [植树节该不该放假](https://s.weibo.com//weibo?q=%23%E6%A4%8D%E6%A0%91%E8%8A%82%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%94%BE%E5%81%87%23&Refer=top)
+
+1. [教育部要求确保手机禁入课堂](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E7%A1%AE%E4%BF%9D%E6%89%8B%E6%9C%BA%E7%A6%81%E5%85%A5%E8%AF%BE%E5%A0%82%23&Refer=top)
+
+1. [山河令幕后](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%B9%95%E5%90%8E&Refer=top)
+
+1. [迟尚斌追悼会](https://s.weibo.com//weibo?q=%23%E8%BF%9F%E5%B0%9A%E6%96%8C%E8%BF%BD%E6%82%BC%E4%BC%9A%23&Refer=top)
+
+1. [男子带铁锹到公墓活埋自己](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E9%93%81%E9%94%B9%E5%88%B0%E5%85%AC%E5%A2%93%E6%B4%BB%E5%9F%8B%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [奶茶点单的神仙搭配](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E8%8C%B6%E7%82%B9%E5%8D%95%E7%9A%84%E7%A5%9E%E4%BB%99%E6%90%AD%E9%85%8D%23&Refer=top)
 
