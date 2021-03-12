@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 10:20:32
+## 微博今日热榜 更新于 2021-03-12 11:04:15
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -214,4 +214,26 @@
 1. [60岁以上老人优先出下铺票](https://s.weibo.com//weibo?q=%2360%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E4%BC%98%E5%85%88%E5%87%BA%E4%B8%8B%E9%93%BA%E7%A5%A8%23&Refer=top)
 
 1. [可以用电脑刷朋友圈了](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E4%BB%A5%E7%94%A8%E7%94%B5%E8%84%91%E5%88%B7%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&Refer=top)
+
+1. [习声回响](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E5%A3%B0%E5%9B%9E%E5%93%8D%23&Refer=new_time)
+
+1. [体测不合格不能参加全运会](https://s.weibo.com//weibo?q=%E4%BD%93%E6%B5%8B%E4%B8%8D%E5%90%88%E6%A0%BC%E4%B8%8D%E8%83%BD%E5%8F%82%E5%8A%A0%E5%85%A8%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [315晚会主题发布](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%E4%B8%BB%E9%A2%98%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [上海警方通报地铁站行李箱装孩子](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9C%B0%E9%93%81%E7%AB%99%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A3%85%E5%AD%A9%E5%AD%90&Refer=top)
+
+1. [张哲瀚吐槽站姐这种体力还追星](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%90%90%E6%A7%BD%E7%AB%99%E5%A7%90%E8%BF%99%E7%A7%8D%E4%BD%93%E5%8A%9B%E8%BF%98%E8%BF%BD%E6%98%9F%23&Refer=top)
+
+1. [指环王重映](https://s.weibo.com//weibo?q=%E6%8C%87%E7%8E%AF%E7%8E%8B%E9%87%8D%E6%98%A0&Refer=top)
+
+1. [中国AI虚拟模特取代高价外模](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E8%99%9A%E6%8B%9F%E6%A8%A1%E7%89%B9%E5%8F%96%E4%BB%A3%E9%AB%98%E4%BB%B7%E5%A4%96%E6%A8%A1%23&Refer=top)
+
+1. [阿凡达重映](https://s.weibo.com//weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE%E9%87%8D%E6%98%A0&Refer=top)
+
+1. [球衣销量詹姆斯第一](https://s.weibo.com//weibo?q=%E7%90%83%E8%A1%A3%E9%94%80%E9%87%8F%E8%A9%B9%E5%A7%86%E6%96%AF%E7%AC%AC%E4%B8%80&Refer=top)
+
+1. [委员称空巢青年没有好坏之分](https://s.weibo.com//weibo?q=%E5%A7%94%E5%91%98%E7%A7%B0%E7%A9%BA%E5%B7%A2%E9%9D%92%E5%B9%B4%E6%B2%A1%E6%9C%89%E5%A5%BD%E5%9D%8F%E4%B9%8B%E5%88%86&Refer=top)
+
+1. [篮网](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91&Refer=top)
 
