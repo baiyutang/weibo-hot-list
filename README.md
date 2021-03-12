@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 17:02:40
+## 微博今日热榜 更新于 2021-03-12 18:03:12
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -390,4 +390,22 @@
 1. [全球增绿的四分之一来自中国](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E5%A2%9E%E7%BB%BF%E7%9A%84%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%23&Refer=top)
 
 1. [成都查处12家医美黑诊所](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E6%9F%A5%E5%A4%8412%E5%AE%B6%E5%8C%BB%E7%BE%8E%E9%BB%91%E8%AF%8A%E6%89%80&Refer=top)
+
+1. [如果陈小纭在那英组](https://s.weibo.com//weibo?q=%E5%A6%82%E6%9E%9C%E9%99%88%E5%B0%8F%E7%BA%AD%E5%9C%A8%E9%82%A3%E8%8B%B1%E7%BB%84&Refer=top)
+
+1. [北京吃自助浪费将罚款](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%90%83%E8%87%AA%E5%8A%A9%E6%B5%AA%E8%B4%B9%E5%B0%86%E7%BD%9A%E6%AC%BE&Refer=top)
+
+1. [教育学涨了6分](https://s.weibo.com//weibo?q=%E6%95%99%E8%82%B2%E5%AD%A6%E6%B6%A8%E4%BA%866%E5%88%86&Refer=top)
+
+1. [赵立坚回应中美阿拉斯加会晤议题](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E4%BC%9A%E6%99%A4%E8%AE%AE%E9%A2%98%23&Refer=top)
+
+1. [喜欢的话请响铃](https://s.weibo.com//weibo?q=%E5%96%9C%E6%AC%A2%E7%9A%84%E8%AF%9D%E8%AF%B7%E5%93%8D%E9%93%83&Refer=top)
+
+1. [考研调剂](https://s.weibo.com//weibo?q=%E8%80%83%E7%A0%94%E8%B0%83%E5%89%82&Refer=top)
+
+1. [青你3我想舞台直拍](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E6%88%91%E6%83%B3%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [136款侵害用户权益行为APP](https://s.weibo.com//weibo?q=%23136%E6%AC%BE%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%E8%A1%8C%E4%B8%BAAPP%23&Refer=top)
+
+1. [北京街巷牌匾标识设计不再一刀切](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A1%97%E5%B7%B7%E7%89%8C%E5%8C%BE%E6%A0%87%E8%AF%86%E8%AE%BE%E8%AE%A1%E4%B8%8D%E5%86%8D%E4%B8%80%E5%88%80%E5%88%87%23&Refer=top)
 
