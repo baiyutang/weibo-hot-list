@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 18:03:12
+## 微博今日热榜 更新于 2021-03-12 19:02:45
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -408,4 +408,34 @@
 1. [136款侵害用户权益行为APP](https://s.weibo.com//weibo?q=%23136%E6%AC%BE%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%E8%A1%8C%E4%B8%BAAPP%23&Refer=top)
 
 1. [北京街巷牌匾标识设计不再一刀切](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A1%97%E5%B7%B7%E7%89%8C%E5%8C%BE%E6%A0%87%E8%AF%86%E8%AE%BE%E8%AE%A1%E4%B8%8D%E5%86%8D%E4%B8%80%E5%88%80%E5%88%87%23&Refer=top)
+
+1. [陈小纭 演员和歌手之间是有区分的](https://s.weibo.com//weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%20%E6%BC%94%E5%91%98%E5%92%8C%E6%AD%8C%E6%89%8B%E4%B9%8B%E9%97%B4%E6%98%AF%E6%9C%89%E5%8C%BA%E5%88%86%E7%9A%84&Refer=top)
+
+1. [苏炳添复出首秀夺冠](https://s.weibo.com//weibo?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%A4%8D%E5%87%BA%E9%A6%96%E7%A7%80%E5%A4%BA%E5%86%A0&Refer=top)
+
+1. [上海交通大学复试线](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%A4%8D%E8%AF%95%E7%BA%BF&Refer=top)
+
+1. [薛之谦李雨桐名誉权纠纷案发回重审](https://s.weibo.com//weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%9D%8E%E9%9B%A8%E6%A1%90%E5%90%8D%E8%AA%89%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%8F%91%E5%9B%9E%E9%87%8D%E5%AE%A1&Refer=top)
+
+1. [清华大学复试线](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%A4%8D%E8%AF%95%E7%BA%BF&Refer=top)
+
+1. [喜欢的话请响铃男主不是宋江](https://s.weibo.com//weibo?q=%E5%96%9C%E6%AC%A2%E7%9A%84%E8%AF%9D%E8%AF%B7%E5%93%8D%E9%93%83%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%98%AF%E5%AE%8B%E6%B1%9F&Refer=top)
+
+1. [王霏霏教张柏芝跳舞](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%8F%E9%9C%8F%E6%95%99%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%B7%B3%E8%88%9E%23&Refer=top)
+
+1. [驻香港部队女兵硬核变装](https://s.weibo.com//weibo?q=%E9%A9%BB%E9%A6%99%E6%B8%AF%E9%83%A8%E9%98%9F%E5%A5%B3%E5%85%B5%E7%A1%AC%E6%A0%B8%E5%8F%98%E8%A3%85&Refer=top)
+
+1. [顶楼高定女财阀妆](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC%E9%AB%98%E5%AE%9A%E5%A5%B3%E8%B4%A2%E9%98%80%E5%A6%86%23&Refer=top)
+
+1. [美国多人被接种空气疫苗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%8E%A5%E7%A7%8D%E7%A9%BA%E6%B0%94%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [周五准时下班到底有多难](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%BA%94%E5%87%86%E6%97%B6%E4%B8%8B%E7%8F%AD%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [北京2020年人均可支配收入69434元](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2020%E5%B9%B4%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A569434%E5%85%83%23&Refer=top)
+
+1. [毛乌素沙漠即将从地图上彻底消失](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B9%8C%E7%B4%A0%E6%B2%99%E6%BC%A0%E5%8D%B3%E5%B0%86%E4%BB%8E%E5%9C%B0%E5%9B%BE%E4%B8%8A%E5%BD%BB%E5%BA%95%E6%B6%88%E5%A4%B1&Refer=top)
+
+1. [全球首个人工智能地震监测系统](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%B0%E9%9C%87%E7%9B%91%E6%B5%8B%E7%B3%BB%E7%BB%9F%23&Refer=top)
+
+1. [热依娜 陈芳语](https://s.weibo.com//weibo?q=%E7%83%AD%E4%BE%9D%E5%A8%9C%20%E9%99%88%E8%8A%B3%E8%AF%AD&Refer=top)
 
