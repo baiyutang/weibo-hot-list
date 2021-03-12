@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 13:04:08
+## 微博今日热榜 更新于 2021-03-12 14:03:08
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -284,4 +284,24 @@
 1. [乘风破浪的姐姐](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90&Refer=top)
 
 1. [镜头的角度真的很重要](https://s.weibo.com//weibo?q=%23%E9%95%9C%E5%A4%B4%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [RoseSolo出道](https://s.weibo.com//weibo?q=RoseSolo%E5%87%BA%E9%81%93&Refer=top)
+
+1. [为什么张哲瀚被叫老婆](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%A0%E5%93%B2%E7%80%9A%E8%A2%AB%E5%8F%AB%E8%80%81%E5%A9%86%23&Refer=top)
+
+1. [杭州招赘婿婚介所负责人发声](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%8B%9B%E8%B5%98%E5%A9%BF%E5%A9%9A%E4%BB%8B%E6%89%80%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [那英把孟佳叫成孟霏](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E6%8A%8A%E5%AD%9F%E4%BD%B3%E5%8F%AB%E6%88%90%E5%AD%9F%E9%9C%8F&Refer=top)
+
+1. [6只粉红色中华白海豚现身湛江湾](https://s.weibo.com//weibo?q=%236%E5%8F%AA%E7%B2%89%E7%BA%A2%E8%89%B2%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%8E%B0%E8%BA%AB%E6%B9%9B%E6%B1%9F%E6%B9%BE%23&Refer=top)
+
+1. [小学生靠吨位压住漏水消防栓获奖](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%9D%A0%E5%90%A8%E4%BD%8D%E5%8E%8B%E4%BD%8F%E6%BC%8F%E6%B0%B4%E6%B6%88%E9%98%B2%E6%A0%93%E8%8E%B7%E5%A5%96%23&Refer=top)
+
+1. [陈小纭容祖儿争执](https://s.weibo.com//weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%AE%B9%E7%A5%96%E5%84%BF%E4%BA%89%E6%89%A7&Refer=top)
+
+1. [你结婚时想举办婚礼仪式吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%BB%93%E5%A9%9A%E6%97%B6%E6%83%B3%E4%B8%BE%E5%8A%9E%E5%A9%9A%E7%A4%BC%E4%BB%AA%E5%BC%8F%E5%90%97%23&Refer=top)
+
+1. [实拍乌东地区交火现场](https://s.weibo.com//weibo?q=%E5%AE%9E%E6%8B%8D%E4%B9%8C%E4%B8%9C%E5%9C%B0%E5%8C%BA%E4%BA%A4%E7%81%AB%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [敏感肌急救法](https://s.weibo.com//weibo?q=%23%E6%95%8F%E6%84%9F%E8%82%8C%E6%80%A5%E6%95%91%E6%B3%95%23&Refer=top)
 
