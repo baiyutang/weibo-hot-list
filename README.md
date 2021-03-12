@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 21:07:47
+## 微博今日热榜 更新于 2021-03-12 22:03:04
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -486,4 +486,28 @@
 1. [3080小时特级飞行员光荣停飞](https://s.weibo.com//weibo?q=%233080%E5%B0%8F%E6%97%B6%E7%89%B9%E7%BA%A7%E9%A3%9E%E8%A1%8C%E5%91%98%E5%85%89%E8%8D%A3%E5%81%9C%E9%A3%9E%23&Refer=top)
 
 1. [中山大学考研复试线](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%E5%A4%8D%E8%AF%95%E7%BA%BF&Refer=top)
+
+1. [杜若溪秒删](https://s.weibo.com//weibo?q=%E6%9D%9C%E8%8B%A5%E6%BA%AA%E7%A7%92%E5%88%A0&Refer=top)
+
+1. [当林俊杰吴青峰周深合唱起风了](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%B4%E9%9D%92%E5%B3%B0%E5%91%A8%E6%B7%B1%E5%90%88%E5%94%B1%E8%B5%B7%E9%A3%8E%E4%BA%86%23&Refer=top)
+
+1. [关晓彤小丑女造型](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B0%8F%E4%B8%91%E5%A5%B3%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [温客行吐血](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AE%A2%E8%A1%8C%E5%90%90%E8%A1%80%23&Refer=top)
+
+1. [国务院研究室回应延长小长假](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A0%94%E7%A9%B6%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%BB%B6%E9%95%BF%E5%B0%8F%E9%95%BF%E5%81%87%23&Refer=top)
+
+1. [高校食堂推出减脂餐](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E6%8E%A8%E5%87%BA%E5%87%8F%E8%84%82%E9%A4%90%23&Refer=top)
+
+1. [阿凡达](https://s.weibo.com//weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE&Refer=top)
+
+1. [马思纯让米佧去看眼科](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AE%A9%E7%B1%B3%E4%BD%A7%E5%8E%BB%E7%9C%8B%E7%9C%BC%E7%A7%91%23&Refer=top)
+
+1. [胡晓明辞任蚂蚁金服CEO](https://s.weibo.com//weibo?q=%E8%83%A1%E6%99%93%E6%98%8E%E8%BE%9E%E4%BB%BB%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8DCEO&Refer=top)
+
+1. [沈腾爱德华造型](https://s.weibo.com//weibo?q=%E6%B2%88%E8%85%BE%E7%88%B1%E5%BE%B7%E5%8D%8E%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [女辅警敲诈案判决书被撤回](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%BE%85%E8%AD%A6%E6%95%B2%E8%AF%88%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6%E8%A2%AB%E6%92%A4%E5%9B%9E%23&Refer=top)
+
+1. [严浩翔一刀割破王祖蓝四层气球](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%80%E5%88%80%E5%89%B2%E7%A0%B4%E7%8E%8B%E7%A5%96%E8%93%9D%E5%9B%9B%E5%B1%82%E6%B0%94%E7%90%83%23&Refer=top)
 
