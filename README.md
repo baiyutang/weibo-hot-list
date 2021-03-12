@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 19:02:45
+## 微博今日热榜 更新于 2021-03-12 20:03:55
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -438,4 +438,36 @@
 1. [全球首个人工智能地震监测系统](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%B0%E9%9C%87%E7%9B%91%E6%B5%8B%E7%B3%BB%E7%BB%9F%23&Refer=top)
 
 1. [热依娜 陈芳语](https://s.weibo.com//weibo?q=%E7%83%AD%E4%BE%9D%E5%A8%9C%20%E9%99%88%E8%8A%B3%E8%AF%AD&Refer=top)
+
+1. [习近平谈今年GDP增长目标](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%BB%8A%E5%B9%B4GDP%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87%23&Refer=new_time)
+
+1. [王霏霏 请不要再帮我值机了好么](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%9C%8F%E9%9C%8F%20%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%86%8D%E5%B8%AE%E6%88%91%E5%80%BC%E6%9C%BA%E4%BA%86%E5%A5%BD%E4%B9%88&Refer=top)
+
+1. [每次看到微信功能更新](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E6%AC%A1%E7%9C%8B%E5%88%B0%E5%BE%AE%E4%BF%A1%E5%8A%9F%E8%83%BD%E6%9B%B4%E6%96%B0%23&Refer=top)
+
+1. [美将进一步限制供应商向华为供货](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%90%E5%88%B6%E4%BE%9B%E5%BA%94%E5%95%86%E5%90%91%E5%8D%8E%E4%B8%BA%E4%BE%9B%E8%B4%A7%23&Refer=top)
+
+1. [王牌对王牌](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&Refer=top)
+
+1. [小S问蔡依林以后要怎么请嘉宾](https://s.weibo.com//weibo?q=%23%E5%B0%8FS%E9%97%AE%E8%94%A1%E4%BE%9D%E6%9E%97%E4%BB%A5%E5%90%8E%E8%A6%81%E6%80%8E%E4%B9%88%E8%AF%B7%E5%98%89%E5%AE%BE%23&Refer=top)
+
+1. [原来沸羊羊是灰太狼的卧底](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B2%B8%E7%BE%8A%E7%BE%8A%E6%98%AF%E7%81%B0%E5%A4%AA%E7%8B%BC%E7%9A%84%E5%8D%A7%E5%BA%95%23&Refer=top)
+
+1. [腾讯向日本乐天投资](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AF%E5%90%91%E6%97%A5%E6%9C%AC%E4%B9%90%E5%A4%A9%E6%8A%95%E8%B5%84&Refer=top)
+
+1. [贺峻霖 这是亲妈干的事吗](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%20%E8%BF%99%E6%98%AF%E4%BA%B2%E5%A6%88%E5%B9%B2%E7%9A%84%E4%BA%8B%E5%90%97%23&Refer=top)
+
+1. [华彩少年](https://s.weibo.com//weibo?q=%E5%8D%8E%E5%BD%A9%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [官方通报合肥母子三人坠楼身亡](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%90%88%E8%82%A5%E6%AF%8D%E5%AD%90%E4%B8%89%E4%BA%BA%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [春日港风大小姐妆](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E6%B8%AF%E9%A3%8E%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%A6%86%23&Refer=top)
+
+1. [女子跟踪运狗车3天救600多条狗](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E8%B7%9F%E8%B8%AA%E8%BF%90%E7%8B%97%E8%BD%A63%E5%A4%A9%E6%95%91600%E5%A4%9A%E6%9D%A1%E7%8B%97&Refer=top)
+
+1. [现如今学历真的很重要吗](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%A6%82%E4%BB%8A%E5%AD%A6%E5%8E%86%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%E5%90%97%23&Refer=top)
+
+1. [买房需要避开哪些坑](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E6%88%BF%E9%9C%80%E8%A6%81%E9%81%BF%E5%BC%80%E5%93%AA%E4%BA%9B%E5%9D%91%23&Refer=top)
+
+1. [酥软吮指鸡爪煲](https://s.weibo.com//weibo?q=%23%E9%85%A5%E8%BD%AF%E5%90%AE%E6%8C%87%E9%B8%A1%E7%88%AA%E7%85%B2%23&Refer=top)
 
