@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 15:02:29
+## 微博今日热榜 更新于 2021-03-12 16:03:40
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -340,4 +340,30 @@
 1. [张家界春日云海](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%98%A5%E6%97%A5%E4%BA%91%E6%B5%B7%23&Refer=top)
 
 1. [当幼儿园投票遇上粉圈女孩](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8A%95%E7%A5%A8%E9%81%87%E4%B8%8A%E7%B2%89%E5%9C%88%E5%A5%B3%E5%AD%A9%23&Refer=top)
+
+1. [素媛案罪犯已经三个月没出门](https://s.weibo.com//weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E5%B7%B2%E7%BB%8F%E4%B8%89%E4%B8%AA%E6%9C%88%E6%B2%A1%E5%87%BA%E9%97%A8%23&Refer=top)
+
+1. [郑州报告1例无症状复阳](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%8A%A5%E5%91%8A1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E5%A4%8D%E9%98%B3%23&Refer=top)
+
+1. [威廉王子回应哈里夫妇爆料](https://s.weibo.com//weibo?q=%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E5%9B%9E%E5%BA%94%E5%93%88%E9%87%8C%E5%A4%AB%E5%A6%87%E7%88%86%E6%96%99&Refer=top)
+
+1. [中国射击奥运冠军王义夫退休](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%84%E5%87%BB%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%8E%8B%E4%B9%89%E5%A4%AB%E9%80%80%E4%BC%91&Refer=top)
+
+1. [陈芳语](https://s.weibo.com//weibo?q=%E9%99%88%E8%8A%B3%E8%AF%AD&Refer=top)
+
+1. [女辅警](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%BE%85%E8%AD%A6&Refer=top)
+
+1. [乌克兰东部大规模交火](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%9C%E9%83%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%A4%E7%81%AB&Refer=top)
+
+1. [武大女生做樱花瓶寄校友](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%81%9A%E6%A8%B1%E8%8A%B1%E7%93%B6%E5%AF%84%E6%A0%A1%E5%8F%8B%23&Refer=top)
+
+1. [蚊子终于遇到对手了](https://s.weibo.com//weibo?q=%E8%9A%8A%E5%AD%90%E7%BB%88%E4%BA%8E%E9%81%87%E5%88%B0%E5%AF%B9%E6%89%8B%E4%BA%86&Refer=top)
+
+1. [阿朵告诉容祖儿要学会说no](https://s.weibo.com//weibo?q=%23%E9%98%BF%E6%9C%B5%E5%91%8A%E8%AF%89%E5%AE%B9%E7%A5%96%E5%84%BF%E8%A6%81%E5%AD%A6%E4%BC%9A%E8%AF%B4no%23&Refer=top)
+
+1. [在两会中亮相的两只大猫](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B8%A4%E4%BC%9A%E4%B8%AD%E4%BA%AE%E7%9B%B8%E7%9A%84%E4%B8%A4%E5%8F%AA%E5%A4%A7%E7%8C%AB%23&Refer=top)
+
+1. [塞尔维亚将建厂生产中国疫苗](https://s.weibo.com//weibo?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%B0%86%E5%BB%BA%E5%8E%82%E7%94%9F%E4%BA%A7%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [四名入籍球员入选国足名单](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%90%8D%E5%85%A5%E7%B1%8D%E7%90%83%E5%91%98%E5%85%A5%E9%80%89%E5%9B%BD%E8%B6%B3%E5%90%8D%E5%8D%95&Refer=top)
 
