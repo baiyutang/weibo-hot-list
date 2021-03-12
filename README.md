@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 07:02:55
+## 微博今日热榜 更新于 2021-03-12 08:06:53
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -136,4 +136,22 @@
 1. [高质量发展高在哪儿](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E9%AB%98%E5%9C%A8%E5%93%AA%E5%84%BF%23&Refer=new_time)
 
 1. [马尚真实身份](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%B0%9A%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&Refer=top)
+
+1. [美国新冠肺炎死亡病例超53万例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E8%B6%8553%E4%B8%87%E4%BE%8B&Refer=top)
+
+1. [背母亲上学刘秀祥后续](https://s.weibo.com//weibo?q=%E8%83%8C%E6%AF%8D%E4%BA%B2%E4%B8%8A%E5%AD%A6%E5%88%98%E7%A7%80%E7%A5%A5%E5%90%8E%E7%BB%AD&Refer=top)
+
+1. [拜登签署1.9万亿美元救助法案](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E7%AD%BE%E7%BD%B21.9%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E6%95%91%E5%8A%A9%E6%B3%95%E6%A1%88&Refer=top)
+
+1. [植树节](https://s.weibo.com//weibo?q=%E6%A4%8D%E6%A0%91%E8%8A%82&Refer=top)
+
+1. [长征七号改遥二运载火箭成功发射](https://s.weibo.com//weibo?q=%E9%95%BF%E5%BE%81%E4%B8%83%E5%8F%B7%E6%94%B9%E9%81%A5%E4%BA%8C%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84&Refer=top)
+
+1. [原来是王阳阳](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%8E%8B%E9%98%B3%E9%98%B3%23&Refer=top)
+
+1. [直播平台羽绒服抽检8成不达标](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%8A%BD%E6%A3%808%E6%88%90%E4%B8%8D%E8%BE%BE%E6%A0%87%23&Refer=top)
+
+1. [水果切片饼干](https://s.weibo.com//weibo?q=%E6%B0%B4%E6%9E%9C%E5%88%87%E7%89%87%E9%A5%BC%E5%B9%B2&Refer=top)
+
+1. [爱的理想生活](https://s.weibo.com//weibo?q=%23%E7%88%B1%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB%23&Refer=top)
 
