@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-14 14:03:13
+## 微博今日热榜 更新于 2021-03-14 15:03:04
 1. [今年10个值得期待的生活新变化](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B410%E4%B8%AA%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=new_time)
 
 1. [王子文 我确实有个小孩](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9&Refer=top)
@@ -280,4 +280,24 @@
 1. [猫和老鼠票房破亿](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&Refer=top)
 
 1. [用粤语配台词有多难](https://s.weibo.com//weibo?q=%23%E7%94%A8%E7%B2%A4%E8%AF%AD%E9%85%8D%E5%8F%B0%E8%AF%8D%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [王子文工作室声明](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [吴彤问张哲瀚为什么大家都叫你老婆](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%E9%97%AE%E5%BC%A0%E5%93%B2%E7%80%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%8F%AB%E4%BD%A0%E8%80%81%E5%A9%86&Refer=top)
+
+1. [尼格买提说小尼不是尼格买提了](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E5%B0%8F%E5%B0%BC%E4%B8%8D%E6%98%AF%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E4%BA%86&Refer=top)
+
+1. [警方通报高中生刺伤保安](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%AB%98%E4%B8%AD%E7%94%9F%E5%88%BA%E4%BC%A4%E4%BF%9D%E5%AE%89%23&Refer=top)
+
+1. [张萌光头](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E5%85%89%E5%A4%B4%23&Refer=top)
+
+1. [张哲瀚工作室喊话不要堵酒店](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%96%8A%E8%AF%9D%E4%B8%8D%E8%A6%81%E5%A0%B5%E9%85%92%E5%BA%97%23&Refer=top)
+
+1. [黄明昊樱花粉发色](https://s.weibo.com//weibo?q=%E9%BB%84%E6%98%8E%E6%98%8A%E6%A8%B1%E8%8A%B1%E7%B2%89%E5%8F%91%E8%89%B2&Refer=top)
+
+1. [龚俊说秀腹肌得加钱](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E8%AF%B4%E7%A7%80%E8%85%B9%E8%82%8C%E5%BE%97%E5%8A%A0%E9%92%B1&Refer=top)
+
+1. [26年为6万患者义诊的老医生离世](https://s.weibo.com//weibo?q=26%E5%B9%B4%E4%B8%BA6%E4%B8%87%E6%82%A3%E8%80%85%E4%B9%89%E8%AF%8A%E7%9A%84%E8%80%81%E5%8C%BB%E7%94%9F%E7%A6%BB%E4%B8%96&Refer=top)
+
+1. [央视曝光不文明游客抓海鸥拍照](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%8D%E6%96%87%E6%98%8E%E6%B8%B8%E5%AE%A2%E6%8A%93%E6%B5%B7%E9%B8%A5%E6%8B%8D%E7%85%A7%23&Refer=top)
 
