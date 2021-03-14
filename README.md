@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-14 16:03:17
+## 微博今日热榜 更新于 2021-03-14 17:02:48
 1. [今年10个值得期待的生活新变化](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B410%E4%B8%AA%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=new_time)
 
 1. [王子文 我确实有个小孩](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9&Refer=top)
@@ -314,4 +314,20 @@
 1. [芝士拉丝土豆泥热狗](https://s.weibo.com//weibo?q=%23%E8%8A%9D%E5%A3%AB%E6%8B%89%E4%B8%9D%E5%9C%9F%E8%B1%86%E6%B3%A5%E7%83%AD%E7%8B%97%23&Refer=top)
 
 1. [熔岩芝士泡菜牛牛堡](https://s.weibo.com//weibo?q=%23%E7%86%94%E5%B2%A9%E8%8A%9D%E5%A3%AB%E6%B3%A1%E8%8F%9C%E7%89%9B%E7%89%9B%E5%A0%A1%23&Refer=top)
+
+1. [梅根或准备竞选美国总统](https://s.weibo.com//weibo?q=%E6%A2%85%E6%A0%B9%E6%88%96%E5%87%86%E5%A4%87%E7%AB%9E%E9%80%89%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F&Refer=top)
+
+1. [贾乃亮喊话爱在星空下赶紧播](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%96%8A%E8%AF%9D%E7%88%B1%E5%9C%A8%E6%98%9F%E7%A9%BA%E4%B8%8B%E8%B5%B6%E7%B4%A7%E6%92%AD%23&Refer=top)
+
+1. [你是我的城池营垒片名打假](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92%E7%89%87%E5%90%8D%E6%89%93%E5%81%87%23&Refer=top)
+
+1. [创4学员二创随笔小作文](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E5%AD%A6%E5%91%98%E4%BA%8C%E5%88%9B%E9%9A%8F%E7%AC%94%E5%B0%8F%E4%BD%9C%E6%96%87%23&Refer=top)
+
+1. [人工智能系统1秒内算出震源机制参数](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F1%E7%A7%92%E5%86%85%E7%AE%97%E5%87%BA%E9%9C%87%E6%BA%90%E6%9C%BA%E5%88%B6%E5%8F%82%E6%95%B0%23&Refer=top)
+
+1. [央视揭头盔质量问题](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E5%A4%B4%E7%9B%94%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [袖珍演员创作皮影戏版唐宫夜宴](https://s.weibo.com//weibo?q=%23%E8%A2%96%E7%8F%8D%E6%BC%94%E5%91%98%E5%88%9B%E4%BD%9C%E7%9A%AE%E5%BD%B1%E6%88%8F%E7%89%88%E5%94%90%E5%AE%AB%E5%A4%9C%E5%AE%B4%23&Refer=top)
+
+1. [彭冠英直播](https://s.weibo.com//weibo?q=%E5%BD%AD%E5%86%A0%E8%8B%B1%E7%9B%B4%E6%92%AD&Refer=top)
 
