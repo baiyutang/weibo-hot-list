@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-15 02:03:35
+## 微博今日热榜 更新于 2021-03-15 03:02:15
 1. [未来15年中国要办的事](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A515%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%8A%9E%E7%9A%84%E4%BA%8B%23&Refer=new_time)
 
 1. [马思纯回应自己胖了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E8%83%96%E4%BA%86%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [延迟退休不会一刀切](https://s.weibo.com//weibo?q=%23%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91%E4%B8%8D%E4%BC%9A%E4%B8%80%E5%88%80%E5%88%87%23&Refer=top)
 
 1. [26年为6万患者义诊的老医生离世](https://s.weibo.com//weibo?q=26%E5%B9%B4%E4%B8%BA6%E4%B8%87%E6%82%A3%E8%80%85%E4%B9%89%E8%AF%8A%E7%9A%84%E8%80%81%E5%8C%BB%E7%94%9F%E7%A6%BB%E4%B8%96&Refer=top)
+
+1. [四川全面禁止从省外违规调运生猪](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E4%BB%8E%E7%9C%81%E5%A4%96%E8%BF%9D%E8%A7%84%E8%B0%83%E8%BF%90%E7%94%9F%E7%8C%AA&Refer=top)
 
