@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-14 20:03:41
+## 微博今日热榜 更新于 2021-03-14 21:06:57
 1. [今年10个值得期待的生活新变化](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B410%E4%B8%AA%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=new_time)
 
 1. [王子文 我确实有个小孩](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9&Refer=top)
@@ -384,4 +384,28 @@
 1. [赵丽颖为张碧晨新歌打call](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%BA%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B0%E6%AD%8C%E6%89%93call%23&Refer=top)
 
 1. [二月二河南太昊陵庙会香客如云](https://s.weibo.com//weibo?q=%E4%BA%8C%E6%9C%88%E4%BA%8C%E6%B2%B3%E5%8D%97%E5%A4%AA%E6%98%8A%E9%99%B5%E5%BA%99%E4%BC%9A%E9%A6%99%E5%AE%A2%E5%A6%82%E4%BA%91&Refer=top)
+
+1. [十四五有哪些关键词](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%9B%9B%E4%BA%94%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B3%E9%94%AE%E8%AF%8D%23&Refer=new_time)
+
+1. [日本变异新冠病毒迅猛蔓延](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E8%BF%85%E7%8C%9B%E8%94%93%E5%BB%B6%23&Refer=top)
+
+1. [安怡死了](https://s.weibo.com//weibo?q=%23%E5%AE%89%E6%80%A1%E6%AD%BB%E4%BA%86%23&Refer=top)
+
+1. [景甜好白](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E5%A5%BD%E7%99%BD%23&Refer=top)
+
+1. [什么叫表演用力过猛](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E5%8F%AB%E8%A1%A8%E6%BC%94%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B%23&Refer=top)
+
+1. [广东男篮 广州男篮](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%20%E5%B9%BF%E5%B7%9E%E7%94%B7%E7%AF%AE&Refer=top)
+
+1. [创4主题曲A班花式接力](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E4%B8%BB%E9%A2%98%E6%9B%B2A%E7%8F%AD%E8%8A%B1%E5%BC%8F%E6%8E%A5%E5%8A%9B%23&Refer=top)
+
+1. [广州餐厅违规收茶位费](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E9%A4%90%E5%8E%85%E8%BF%9D%E8%A7%84%E6%94%B6%E8%8C%B6%E4%BD%8D%E8%B4%B9&Refer=top)
+
+1. [你好李焕英即将全球上映](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E5%8D%B3%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%8A%E6%98%A0%23&Refer=top)
+
+1. [JDG战胜RNG](https://s.weibo.com//weibo?q=%23JDG%E6%88%98%E8%83%9CRNG%23&Refer=top)
+
+1. [易立竞问女篮拉拉队为何不是男生](https://s.weibo.com//weibo?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%97%AE%E5%A5%B3%E7%AF%AE%E6%8B%89%E6%8B%89%E9%98%9F%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%98%AF%E7%94%B7%E7%94%9F&Refer=top)
+
+1. [RNGM主教练卸任](https://s.weibo.com//weibo?q=%23RNGM%E4%B8%BB%E6%95%99%E7%BB%83%E5%8D%B8%E4%BB%BB%23&Refer=top)
 
