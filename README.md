@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-14 13:03:43
+## 微博今日热榜 更新于 2021-03-14 14:03:13
 1. [今年10个值得期待的生活新变化](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B410%E4%B8%AA%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=new_time)
 
 1. [王子文 我确实有个小孩](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9&Refer=top)
@@ -260,4 +260,24 @@
 1. [埃及106岁老人新冠肺炎治愈](https://s.weibo.com//weibo?q=%E5%9F%83%E5%8F%8A106%E5%B2%81%E8%80%81%E4%BA%BA%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%B2%BB%E6%84%88&Refer=top)
 
 1. [王牌对王牌山河令直播](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E5%B1%B1%E6%B2%B3%E4%BB%A4%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [韩佩泉训练营出来的主题曲](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E4%BD%A9%E6%B3%89%E8%AE%AD%E7%BB%83%E8%90%A5%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top)
+
+1. [林墨好像在舞台上触电了](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%A2%A8%E5%A5%BD%E5%83%8F%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%A7%A6%E7%94%B5%E4%BA%86%23&Refer=top)
+
+1. [苹果新专利可扩大电池容量](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%B8%93%E5%88%A9%E5%8F%AF%E6%89%A9%E5%A4%A7%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F&Refer=top)
+
+1. [如何看待教资热](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%95%99%E8%B5%84%E7%83%AD%23&Refer=top)
+
+1. [林彦俊眼神](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E7%9C%BC%E7%A5%9E%23&Refer=top)
+
+1. [写中英文失物启事被骂崇洋媚外](https://s.weibo.com//weibo?q=%23%E5%86%99%E4%B8%AD%E8%8B%B1%E6%96%87%E5%A4%B1%E7%89%A9%E5%90%AF%E4%BA%8B%E8%A2%AB%E9%AA%82%E5%B4%87%E6%B4%8B%E5%AA%9A%E5%A4%96%23&Refer=top)
+
+1. [魏晨新歌](https://s.weibo.com//weibo?q=%23%E9%AD%8F%E6%99%A8%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [咖啡店小熊气氛组](https://s.weibo.com//weibo?q=%E5%92%96%E5%95%A1%E5%BA%97%E5%B0%8F%E7%86%8A%E6%B0%94%E6%B0%9B%E7%BB%84&Refer=top)
+
+1. [猫和老鼠票房破亿](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF&Refer=top)
+
+1. [用粤语配台词有多难](https://s.weibo.com//weibo?q=%23%E7%94%A8%E7%B2%A4%E8%AF%AD%E9%85%8D%E5%8F%B0%E8%AF%8D%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
 
