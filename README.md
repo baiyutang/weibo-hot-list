@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-15 06:03:10
+## 微博今日热榜 更新于 2021-03-15 07:02:31
 1. [未来15年中国要办的事](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A515%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%8A%9E%E7%9A%84%E4%BA%8B%23&Refer=new_time)
 
 1. [马思纯回应自己胖了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E8%83%96%E4%BA%86%23&Refer=top)
@@ -138,4 +138,8 @@
 1. [辽宁男篮 福建男篮](https://s.weibo.com//weibo?q=%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%20%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE&Refer=top)
 
 1. [党史故事百校讲述](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%8F%B2%E6%95%85%E4%BA%8B%E7%99%BE%E6%A0%A1%E8%AE%B2%E8%BF%B0%23&Refer=new_time)
+
+1. [司藤秦放男女主拿错剧本](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E7%A7%A6%E6%94%BE%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%8B%BF%E9%94%99%E5%89%A7%E6%9C%AC%23&Refer=top)
+
+1. [小朋友中的王者](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B8%AD%E7%9A%84%E7%8E%8B%E8%80%85%23&Refer=top)
 
