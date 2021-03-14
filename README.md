@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-15 05:02:36
+## 微博今日热榜 更新于 2021-03-15 06:03:10
 1. [未来15年中国要办的事](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A515%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%8A%9E%E7%9A%84%E4%BA%8B%23&Refer=new_time)
 
 1. [马思纯回应自己胖了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E8%83%96%E4%BA%86%23&Refer=top)
