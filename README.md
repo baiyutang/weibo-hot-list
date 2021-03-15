@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 06:13:46
+## 微博今日热榜 更新于 2021-03-16 07:10:37
 1. [监管部门为消费者挽回损失44亿元](https://s.weibo.com//weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E4%B8%BA%E6%B6%88%E8%B4%B9%E8%80%85%E6%8C%BD%E5%9B%9E%E6%8D%9F%E5%A4%B144%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
