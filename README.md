@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 03:06:47
+## 微博今日热榜 更新于 2021-03-16 05:25:17
 1. [监管部门为消费者挽回损失44亿元](https://s.weibo.com//weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E4%B8%BA%E6%B6%88%E8%B4%B9%E8%80%85%E6%8C%BD%E5%9B%9E%E6%8D%9F%E5%A4%B144%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [解放军三大海域练兵大场面](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%89%E5%A4%A7%E6%B5%B7%E5%9F%9F%E7%BB%83%E5%85%B5%E5%A4%A7%E5%9C%BA%E9%9D%A2%23&Refer=new_time)
 
 1. [你遭遇过快递不告而投吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E9%81%AD%E9%81%87%E8%BF%87%E5%BF%AB%E9%80%92%E4%B8%8D%E5%91%8A%E8%80%8C%E6%8A%95%E5%90%97%23&Refer=top)
+
+1. [缅甸仰光部分地区实施军事管制](https://s.weibo.com//weibo?q=%23%E7%BC%85%E7%94%B8%E4%BB%B0%E5%85%89%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%AE%9E%E6%96%BD%E5%86%9B%E4%BA%8B%E7%AE%A1%E5%88%B6%23&Refer=top)
+
+1. [360搜索UC浏览器被多个应用市场下架](https://s.weibo.com//weibo?q=%23360%E6%90%9C%E7%B4%A2UC%E6%B5%8F%E8%A7%88%E5%99%A8%E8%A2%AB%E5%A4%9A%E4%B8%AA%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E4%B8%8B%E6%9E%B6%23&Refer=top)
 
