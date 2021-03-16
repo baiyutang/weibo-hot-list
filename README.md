@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-17 05:02:35
+## 微博今日热榜 更新于 2021-03-17 06:03:20
 1. [中华传统文化有多美](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=new_time)
 
 1. [鹿晗状态](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%8A%B6%E6%80%81%23&Refer=top)
