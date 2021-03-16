@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 18:03:25
+## 微博今日热榜 更新于 2021-03-16 19:02:56
 1. [监管部门为消费者挽回损失44亿元](https://s.weibo.com//weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E4%B8%BA%E6%B6%88%E8%B4%B9%E8%80%85%E6%8C%BD%E5%9B%9E%E6%8D%9F%E5%A4%B144%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
@@ -366,4 +366,12 @@
 1. [缅甸移动通信网络无限期关闭](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B8%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1%E7%BD%91%E7%BB%9C%E6%97%A0%E9%99%90%E6%9C%9F%E5%85%B3%E9%97%AD&Refer=top)
 
 1. [自制咸蛋黄肉松青团](https://s.weibo.com//weibo?q=%23%E8%87%AA%E5%88%B6%E5%92%B8%E8%9B%8B%E9%BB%84%E8%82%89%E6%9D%BE%E9%9D%92%E5%9B%A2%23&Refer=top)
+
+1. [樊博艺称节目结束后没见过华晨宇](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E5%8D%9A%E8%89%BA%E7%A7%B0%E8%8A%82%E7%9B%AE%E7%BB%93%E6%9D%9F%E5%90%8E%E6%B2%A1%E8%A7%81%E8%BF%87%E5%8D%8E%E6%99%A8%E5%AE%87%23&Refer=top)
+
+1. [老人凭道德积分获低息贷款](https://s.weibo.com//weibo?q=%E8%80%81%E4%BA%BA%E5%87%AD%E9%81%93%E5%BE%B7%E7%A7%AF%E5%88%86%E8%8E%B7%E4%BD%8E%E6%81%AF%E8%B4%B7%E6%AC%BE&Refer=top)
+
+1. [中国将向联合国维和人员捐赠新冠疫苗](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E7%BB%B4%E5%92%8C%E4%BA%BA%E5%91%98%E6%8D%90%E8%B5%A0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [日本动画大师大冢康生去世](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%B8%88%E5%A4%A7%E5%86%A2%E5%BA%B7%E7%94%9F%E5%8E%BB%E4%B8%96%23&Refer=top)
 
