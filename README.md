@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-17 01:24:15
+## 微博今日热榜 更新于 2021-03-17 02:05:04
 1. [中华传统文化有多美](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=new_time)
 
 1. [鹿晗状态](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -110,4 +110,10 @@
 1. [马嘉祺中戏复试](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%AD%E6%88%8F%E5%A4%8D%E8%AF%95%23&Refer=top)
 
 1. [赵敬渣男](https://s.weibo.com//weibo?q=%E8%B5%B5%E6%95%AC%E6%B8%A3%E7%94%B7&Refer=top)
+
+1. [教育部就学位法草案征求意见](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%B1%E5%AD%A6%E4%BD%8D%E6%B3%95%E8%8D%89%E6%A1%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%23&Refer=new_time)
+
+1. [张哲瀚战损造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E6%88%98%E6%8D%9F%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [福州曼玲粥店将吃剩排骨再下锅](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E%E6%9B%BC%E7%8E%B2%E7%B2%A5%E5%BA%97%E5%B0%86%E5%90%83%E5%89%A9%E6%8E%92%E9%AA%A8%E5%86%8D%E4%B8%8B%E9%94%85%23&Refer=top)
 
