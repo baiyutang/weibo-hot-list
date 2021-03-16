@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 09:34:35
+## 微博今日热榜 更新于 2021-03-16 10:19:49
 1. [监管部门为消费者挽回损失44亿元](https://s.weibo.com//weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E4%B8%BA%E6%B6%88%E8%B4%B9%E8%80%85%E6%8C%BD%E5%9B%9E%E6%8D%9F%E5%A4%B144%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
@@ -166,4 +166,10 @@
 1. [金融活动要全部纳入金融监管](https://s.weibo.com//weibo?q=%E9%87%91%E8%9E%8D%E6%B4%BB%E5%8A%A8%E8%A6%81%E5%85%A8%E9%83%A8%E7%BA%B3%E5%85%A5%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1&Refer=top)
 
 1. [科勒连夜拆除摄像设备](https://s.weibo.com//weibo?q=%E7%A7%91%E5%8B%92%E8%BF%9E%E5%A4%9C%E6%8B%86%E9%99%A4%E6%91%84%E5%83%8F%E8%AE%BE%E5%A4%87&Refer=top)
+
+1. [广东揭阳连夜查处瘦身钢筋](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E6%8F%AD%E9%98%B3%E8%BF%9E%E5%A4%9C%E6%9F%A5%E5%A4%84%E7%98%A6%E8%BA%AB%E9%92%A2%E7%AD%8B&Refer=top)
+
+1. [LDL将进行停赛整顿](https://s.weibo.com//weibo?q=LDL%E5%B0%86%E8%BF%9B%E8%A1%8C%E5%81%9C%E8%B5%9B%E6%95%B4%E9%A1%BF&Refer=top)
+
+1. [陕西太白雨后云海](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E5%A4%AA%E7%99%BD%E9%9B%A8%E5%90%8E%E4%BA%91%E6%B5%B7&Refer=top)
 
