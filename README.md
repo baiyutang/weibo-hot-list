@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 04:03:13
+## 微博今日热榜 更新于 2021-03-18 05:02:35
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -136,4 +136,8 @@
 1. [英国视中国为系统性竞争对手](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%B8%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%23&Refer=top)
 
 1. [美加州拟禁游客坐过山车尖叫](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%8A%A0%E5%B7%9E%E6%8B%9F%E7%A6%81%E6%B8%B8%E5%AE%A2%E5%9D%90%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%B0%96%E5%8F%AB%23&Refer=top)
+
+1. [俄罗斯美女宇航员成芭比娃娃原型](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%BE%8E%E5%A5%B3%E5%AE%87%E8%88%AA%E5%91%98%E6%88%90%E8%8A%AD%E6%AF%94%E5%A8%83%E5%A8%83%E5%8E%9F%E5%9E%8B%23&Refer=top)
+
+1. [古代的求职自荐信](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BB%A3%E7%9A%84%E6%B1%82%E8%81%8C%E8%87%AA%E8%8D%90%E4%BF%A1%23&Refer=top)
 
