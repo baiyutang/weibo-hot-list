@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 02:04:34
+## 微博今日热榜 更新于 2021-03-18 03:02:20
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -124,4 +124,10 @@
 1. [孙怡对镜自拍图](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E5%AF%B9%E9%95%9C%E8%87%AA%E6%8B%8D%E5%9B%BE%23&Refer=top)
 
 1. [未来40年中国减碳时间表](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A540%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%87%8F%E7%A2%B3%E6%97%B6%E9%97%B4%E8%A1%A8%23&Refer=new_time)
+
+1. [谭松韵哭戏](https://s.weibo.com//weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%93%AD%E6%88%8F&Refer=top)
+
+1. [杭州一小学开设方言课](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BE%E6%96%B9%E8%A8%80%E8%AF%BE%23&Refer=top)
+
+1. [若你安好便是晴天](https://s.weibo.com//weibo?q=%E8%8B%A5%E4%BD%A0%E5%AE%89%E5%A5%BD%E4%BE%BF%E6%98%AF%E6%99%B4%E5%A4%A9&Refer=top)
 
