@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-17 20:03:49
+## 微博今日热榜 更新于 2021-03-17 21:12:35
 1. [中华传统文化有多美](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=new_time)
 
 1. [鹿晗状态](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -398,4 +398,32 @@
 1. [日本首次报告变异新冠病毒死亡病例](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E6%8A%A5%E5%91%8A%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23&Refer=top)
 
 1. [广播电视法拟明确网剧属于电视剧片](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E6%B3%95%E6%8B%9F%E6%98%8E%E7%A1%AE%E7%BD%91%E5%89%A7%E5%B1%9E%E4%BA%8E%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%87%23&Refer=top)
+
+1. [男班长因女班长同意女生上厕所打人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%8F%AD%E9%95%BF%E5%9B%A0%E5%A5%B3%E7%8F%AD%E9%95%BF%E5%90%8C%E6%84%8F%E5%A5%B3%E7%94%9F%E4%B8%8A%E5%8E%95%E6%89%80%E6%89%93%E4%BA%BA%23&Refer=top)
+
+1. [黑龙江女生弑母藏尸案村民发声](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A5%B3%E7%94%9F%E5%BC%91%E6%AF%8D%E8%97%8F%E5%B0%B8%E6%A1%88%E6%9D%91%E6%B0%91%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [韩国网友因中国拌饭植入广告炸锅](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%8B%8C%E9%A5%AD%E6%A4%8D%E5%85%A5%E5%B9%BF%E5%91%8A%E7%82%B8%E9%94%85%23&Refer=top)
+
+1. [宋妍霏 我妈一个人坐飞机走了](https://s.weibo.com//weibo?q=%E5%AE%8B%E5%A6%8D%E9%9C%8F%20%E6%88%91%E5%A6%88%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%B5%B0%E4%BA%86&Refer=top)
+
+1. [段小薇让吴希泽别怂](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%B0%8F%E8%96%87%E8%AE%A9%E5%90%B4%E5%B8%8C%E6%B3%BD%E5%88%AB%E6%80%82%23&Refer=top)
+
+1. [司藤没有更新](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E6%B2%A1%E6%9C%89%E6%9B%B4%E6%96%B0%23&Refer=top)
+
+1. [力丸直播](https://s.weibo.com//weibo?q=%E5%8A%9B%E4%B8%B8%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [拼多多第四季度财报](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E8%B4%A2%E6%8A%A5&Refer=top)
+
+1. [朋友结婚男子随礼千张1元纸币](https://s.weibo.com//weibo?q=%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%E7%94%B7%E5%AD%90%E9%9A%8F%E7%A4%BC%E5%8D%83%E5%BC%A01%E5%85%83%E7%BA%B8%E5%B8%81&Refer=top)
+
+1. [王少杰顶替翟晓川参加全明星](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%B0%91%E6%9D%B0%E9%A1%B6%E6%9B%BF%E7%BF%9F%E6%99%93%E5%B7%9D%E5%8F%82%E5%8A%A0%E5%85%A8%E6%98%8E%E6%98%9F&Refer=top)
+
+1. [河北武安铁矿瞒报6人死亡事故](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%AD%A6%E5%AE%89%E9%93%81%E7%9F%BF%E7%9E%92%E6%8A%A56%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [儿童血液病恶性肿瘤救治新增12个病种](https://s.weibo.com//weibo?q=%23%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E6%96%B0%E5%A2%9E12%E4%B8%AA%E7%97%85%E7%A7%8D%23&Refer=top)
+
+1. [货车司机6个月拍出星辰大海](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA6%E4%B8%AA%E6%9C%88%E6%8B%8D%E5%87%BA%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%23&Refer=top)
+
+1. [姐姐处理家庭矛盾的方式](https://s.weibo.com//weibo?q=%E5%A7%90%E5%A7%90%E5%A4%84%E7%90%86%E5%AE%B6%E5%BA%AD%E7%9F%9B%E7%9B%BE%E7%9A%84%E6%96%B9%E5%BC%8F&Refer=top)
 
