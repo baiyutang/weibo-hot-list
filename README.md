@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 02:05:32
+## 微博今日热榜 更新于 2021-03-19 03:02:24
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -120,4 +120,10 @@
 1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 
 1. [近百年前男孩自信用英文介绍中国](https://s.weibo.com//weibo?q=%23%E8%BF%91%E7%99%BE%E5%B9%B4%E5%89%8D%E7%94%B7%E5%AD%A9%E8%87%AA%E4%BF%A1%E7%94%A8%E8%8B%B1%E6%96%87%E4%BB%8B%E7%BB%8D%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [广州多家银行严查购房首付来源](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%A5%E6%9F%A5%E8%B4%AD%E6%88%BF%E9%A6%96%E4%BB%98%E6%9D%A5%E6%BA%90&Refer=top)
+
+1. [戴希希向段序逼婚](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B8%8C%E5%B8%8C%E5%90%91%E6%AE%B5%E5%BA%8F%E9%80%BC%E5%A9%9A%23&Refer=top)
+
+1. [一诺鲁班四杀](https://s.weibo.com//weibo?q=%E4%B8%80%E8%AF%BA%E9%B2%81%E7%8F%AD%E5%9B%9B%E6%9D%80&Refer=top)
 
