@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 12:03:30
+## 微博今日热榜 更新于 2021-03-18 13:04:32
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -278,4 +278,30 @@
 1. [朱珠结婚](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E7%8F%A0%E7%BB%93%E5%A9%9A%23&Refer=top)
 
 1. [站在不同角度思考问题时](https://s.weibo.com//weibo?q=%23%E7%AB%99%E5%9C%A8%E4%B8%8D%E5%90%8C%E8%A7%92%E5%BA%A6%E6%80%9D%E8%80%83%E9%97%AE%E9%A2%98%E6%97%B6%23&Refer=top)
+
+1. [腾讯阿里字节跳动等11家企业被约谈](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E9%98%BF%E9%87%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%AD%8911%E5%AE%B6%E4%BC%81%E4%B8%9A%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [美国亚裔奶奶反击袭击者](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E5%A5%B6%E5%A5%B6%E5%8F%8D%E5%87%BB%E8%A2%AD%E5%87%BB%E8%80%85&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [一颗小行星3月21日将安全飞掠地球](https://s.weibo.com//weibo?q=%E4%B8%80%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F3%E6%9C%8821%E6%97%A5%E5%B0%86%E5%AE%89%E5%85%A8%E9%A3%9E%E6%8E%A0%E5%9C%B0%E7%90%83&Refer=top)
+
+1. [李亚鹏](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BA%9A%E9%B9%8F&Refer=top)
+
+1. [今天是沸羊羊的生日](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%B2%B8%E7%BE%8A%E7%BE%8A%E7%9A%84%E7%94%9F%E6%97%A5%23&Refer=top)
+
+1. [公司强收离职员工4200元工装费](https://s.weibo.com//weibo?q=%E5%85%AC%E5%8F%B8%E5%BC%BA%E6%94%B6%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A54200%E5%85%83%E5%B7%A5%E8%A3%85%E8%B4%B9&Refer=top)
+
+1. [来都来了预告](https://s.weibo.com//weibo?q=%23%E6%9D%A5%E9%83%BD%E6%9D%A5%E4%BA%86%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [日本鸡蛋价格飙升8成](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%878%E6%88%90&Refer=top)
+
+1. [爸爸有时候也很可爱](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E6%9C%89%E6%97%B6%E5%80%99%E4%B9%9F%E5%BE%88%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [如何防止猫咪捣乱](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E7%8C%AB%E5%92%AA%E6%8D%A3%E4%B9%B1%23&Refer=top)
+
+1. [火箭18连败](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%AE%AD18%E8%BF%9E%E8%B4%A5%23&Refer=top)
 
