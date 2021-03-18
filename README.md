@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 19:07:45
+## 微博今日热榜 更新于 2021-03-18 20:04:04
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -416,4 +416,30 @@
 1. [久酷伽罗四杀](https://s.weibo.com//weibo?q=%E4%B9%85%E9%85%B7%E4%BC%BD%E7%BD%97%E5%9B%9B%E6%9D%80&Refer=top)
 
 1. [新网银行被银保监会通报](https://s.weibo.com//weibo?q=%E6%96%B0%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A2%AB%E9%93%B6%E4%BF%9D%E7%9B%91%E4%BC%9A%E9%80%9A%E6%8A%A5&Refer=top)
+
+1. [2021年5G网络建设目标](https://s.weibo.com//weibo?q=%232021%E5%B9%B45G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87%23&Refer=new_time)
+
+1. [郭美美等销售违禁减肥食品被刑拘](https://s.weibo.com//weibo?q=%23%E9%83%AD%E7%BE%8E%E7%BE%8E%E7%AD%89%E9%94%80%E5%94%AE%E8%BF%9D%E7%A6%81%E5%87%8F%E8%82%A5%E9%A3%9F%E5%93%81%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [李诞黑尾酱合资公司注销](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%AF%9E%E9%BB%91%E5%B0%BE%E9%85%B1%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8%E6%B3%A8%E9%94%80&Refer=top)
+
+1. [青春有你](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0&Refer=top)
+
+1. [杜淳最大的黑粉是王灿](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B7%B3%E6%9C%80%E5%A4%A7%E7%9A%84%E9%BB%91%E7%B2%89%E6%98%AF%E7%8E%8B%E7%81%BF%23&Refer=top)
+
+1. [蓝鲸误入繁殖地被75只虎鲸吃掉](https://s.weibo.com//weibo?q=%E8%93%9D%E9%B2%B8%E8%AF%AF%E5%85%A5%E7%B9%81%E6%AE%96%E5%9C%B0%E8%A2%AB75%E5%8F%AA%E8%99%8E%E9%B2%B8%E5%90%83%E6%8E%89&Refer=top)
+
+1. [力丸说AK日语很好但他不会说敬语](https://s.weibo.com//weibo?q=%23%E5%8A%9B%E4%B8%B8%E8%AF%B4AK%E6%97%A5%E8%AF%AD%E5%BE%88%E5%A5%BD%E4%BD%86%E4%BB%96%E4%B8%8D%E4%BC%9A%E8%AF%B4%E6%95%AC%E8%AF%AD%23&Refer=top)
+
+1. [龚俊空降聊天室](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%A9%BA%E9%99%8D%E8%81%8A%E5%A4%A9%E5%AE%A4%23&Refer=top)
+
+1. [中国翻拍忠犬八公](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BF%BB%E6%8B%8D%E5%BF%A0%E7%8A%AC%E5%85%AB%E5%85%AC%23&Refer=top)
+
+1. [枣庄警车车窗抛物情况通报](https://s.weibo.com//weibo?q=%E6%9E%A3%E5%BA%84%E8%AD%A6%E8%BD%A6%E8%BD%A6%E7%AA%97%E6%8A%9B%E7%89%A9%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [考拉打架打输哭到声音沙哑](https://s.weibo.com//weibo?q=%E8%80%83%E6%8B%89%E6%89%93%E6%9E%B6%E6%89%93%E8%BE%93%E5%93%AD%E5%88%B0%E5%A3%B0%E9%9F%B3%E6%B2%99%E5%93%91&Refer=top)
+
+1. [Doinb](https://s.weibo.com//weibo?q=Doinb&Refer=top)
 
