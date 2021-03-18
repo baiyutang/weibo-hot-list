@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 14:03:27
+## 微博今日热榜 更新于 2021-03-18 15:02:35
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -318,4 +318,36 @@
 1. [四川三星堆新发现6个祭祀坑](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%B0%E5%8F%91%E7%8E%B06%E4%B8%AA%E7%A5%AD%E7%A5%80%E5%9D%91%23&Refer=top)
 
 1. [北京金融法院正式成立](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%87%91%E8%9E%8D%E6%B3%95%E9%99%A2%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B%23&Refer=top)
+
+1. [NASA称火星地壳下可能含有大量水](https://s.weibo.com//weibo?q=%23NASA%E7%A7%B0%E7%81%AB%E6%98%9F%E5%9C%B0%E5%A3%B3%E4%B8%8B%E5%8F%AF%E8%83%BD%E5%90%AB%E6%9C%89%E5%A4%A7%E9%87%8F%E6%B0%B4%23&Refer=top)
+
+1. [聊城禁止校长老师带手机进课堂](https://s.weibo.com//weibo?q=%23%E8%81%8A%E5%9F%8E%E7%A6%81%E6%AD%A2%E6%A0%A1%E9%95%BF%E8%80%81%E5%B8%88%E5%B8%A6%E6%89%8B%E6%9C%BA%E8%BF%9B%E8%AF%BE%E5%A0%82%23&Refer=top)
+
+1. [银行回应推出墓地按揭贷](https://s.weibo.com//weibo?q=%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8E%A8%E5%87%BA%E5%A2%93%E5%9C%B0%E6%8C%89%E6%8F%AD%E8%B4%B7&Refer=top)
+
+1. [福州滴滴司机案发后自述音频曝光](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E%E6%BB%B4%E6%BB%B4%E5%8F%B8%E6%9C%BA%E6%A1%88%E5%8F%91%E5%90%8E%E8%87%AA%E8%BF%B0%E9%9F%B3%E9%A2%91%E6%9B%9D%E5%85%89%23&Refer=top)
+
+1. [中国有超3亿人存在睡眠障碍](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E8%B6%853%E4%BA%BF%E4%BA%BA%E5%AD%98%E5%9C%A8%E7%9D%A1%E7%9C%A0%E9%9A%9C%E7%A2%8D%23&Refer=top)
+
+1. [深圳一幼婴掉进床缝窒息身亡](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B9%BC%E5%A9%B4%E6%8E%89%E8%BF%9B%E5%BA%8A%E7%BC%9D%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [创4学员睡衣趴造型](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E5%AD%A6%E5%91%98%E7%9D%A1%E8%A1%A3%E8%B6%B4%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [近百年前男孩自信用英文介绍中国](https://s.weibo.com//weibo?q=%23%E8%BF%91%E7%99%BE%E5%B9%B4%E5%89%8D%E7%94%B7%E5%AD%A9%E8%87%AA%E4%BF%A1%E7%94%A8%E8%8B%B1%E6%96%87%E4%BB%8B%E7%BB%8D%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [福州撞死乘客司机弟弟鞠躬致歉](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E%E6%92%9E%E6%AD%BB%E4%B9%98%E5%AE%A2%E5%8F%B8%E6%9C%BA%E5%BC%9F%E5%BC%9F%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [中方敦促美国立即停止侵犯人权](https://s.weibo.com//weibo?q=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E7%8A%AF%E4%BA%BA%E6%9D%83&Refer=top)
+
+1. [隐匿23年命案逃犯因检测核酸落网](https://s.weibo.com//weibo?q=%23%E9%9A%90%E5%8C%BF23%E5%B9%B4%E5%91%BD%E6%A1%88%E9%80%83%E7%8A%AF%E5%9B%A0%E6%A3%80%E6%B5%8B%E6%A0%B8%E9%85%B8%E8%90%BD%E7%BD%91%23&Refer=top)
+
+1. [警方通报河北蠡县一家五口遇害案](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8C%97%E8%A0%A1%E5%8E%BF%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88&Refer=top)
+
+1. [默读](https://s.weibo.com//weibo?q=%E9%BB%98%E8%AF%BB&Refer=top)
+
+1. [猪肉价格连续7周回落](https://s.weibo.com//weibo?q=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD7%E5%91%A8%E5%9B%9E%E8%90%BD&Refer=top)
+
+1. [国家空间科学中心论证蓝太阳](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E7%A9%BA%E9%97%B4%E7%A7%91%E5%AD%A6%E4%B8%AD%E5%BF%83%E8%AE%BA%E8%AF%81%E8%93%9D%E5%A4%AA%E9%98%B3&Refer=top)
+
+1. [多地发生纯电动公交车失控事故](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E7%BA%AF%E7%94%B5%E5%8A%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&Refer=top)
 
