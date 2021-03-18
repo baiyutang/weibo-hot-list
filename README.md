@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 09:36:47
+## 微博今日热榜 更新于 2021-03-18 10:21:42
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -212,4 +212,16 @@
 1. [阿里扎被交易到热火](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C%E6%89%8E%E8%A2%AB%E4%BA%A4%E6%98%93%E5%88%B0%E7%83%AD%E7%81%AB&Refer=top)
 
 1. [如何看待彩礼贷](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%A9%E7%A4%BC%E8%B4%B7%23&Refer=top)
+
+1. [张哲瀚粉丝帮吴宇恒打投](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E7%B2%89%E4%B8%9D%E5%B8%AE%E5%90%B4%E5%AE%87%E6%81%92%E6%89%93%E6%8A%95%23&Refer=top)
+
+1. [探访黑龙江弑母女孩居住地](https://s.weibo.com//weibo?q=%E6%8E%A2%E8%AE%BF%E9%BB%91%E9%BE%99%E6%B1%9F%E5%BC%91%E6%AF%8D%E5%A5%B3%E5%AD%A9%E5%B1%85%E4%BD%8F%E5%9C%B0&Refer=top)
+
+1. [詹姆斯为亚裔发声](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BA%9A%E8%A3%94%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [哈登三双](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E4%B8%89%E5%8F%8C&Refer=top)
+
+1. [清明假期将迎跨省游高峰](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%B0%86%E8%BF%8E%E8%B7%A8%E7%9C%81%E6%B8%B8%E9%AB%98%E5%B3%B0%23&Refer=top)
+
+1. [拜登称普京将为干预美国选举付出代价](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%99%AE%E4%BA%AC%E5%B0%86%E4%B8%BA%E5%B9%B2%E9%A2%84%E7%BE%8E%E5%9B%BD%E9%80%89%E4%B8%BE%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7&Refer=top)
 
