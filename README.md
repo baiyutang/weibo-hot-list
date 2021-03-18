@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 18:07:37
+## 微博今日热榜 更新于 2021-03-18 19:07:45
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -402,4 +402,18 @@
 1. [西安新增病例所在医院已停诊](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E6%89%80%E5%9C%A8%E5%8C%BB%E9%99%A2%E5%B7%B2%E5%81%9C%E8%AF%8A%23&Refer=top)
 
 1. [90后炒熊一只最多赚数万元](https://s.weibo.com//weibo?q=90%E5%90%8E%E7%82%92%E7%86%8A%E4%B8%80%E5%8F%AA%E6%9C%80%E5%A4%9A%E8%B5%9A%E6%95%B0%E4%B8%87%E5%85%83&Refer=top)
+
+1. [新冠疫苗选单针还是双针](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%80%89%E5%8D%95%E9%92%88%E8%BF%98%E6%98%AF%E5%8F%8C%E9%92%88%23&Refer=new_time)
+
+1. [胡歌保安造型](https://s.weibo.com//weibo?q=%E8%83%A1%E6%AD%8C%E4%BF%9D%E5%AE%89%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [清华规定申请硕士学位不必发表论文](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E8%A7%84%E5%AE%9A%E7%94%B3%E8%AF%B7%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E4%B8%8D%E5%BF%85%E5%8F%91%E8%A1%A8%E8%AE%BA%E6%96%87%23&Refer=top)
+
+1. [烧饼吐槽栾云平](https://s.weibo.com//weibo?q=%E7%83%A7%E9%A5%BC%E5%90%90%E6%A7%BD%E6%A0%BE%E4%BA%91%E5%B9%B3&Refer=top)
+
+1. [重庆QG赢了](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86QG%E8%B5%A2%E4%BA%86&Refer=top)
+
+1. [久酷伽罗四杀](https://s.weibo.com//weibo?q=%E4%B9%85%E9%85%B7%E4%BC%BD%E7%BD%97%E5%9B%9B%E6%9D%80&Refer=top)
+
+1. [新网银行被银保监会通报](https://s.weibo.com//weibo?q=%E6%96%B0%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A2%AB%E9%93%B6%E4%BF%9D%E7%9B%91%E4%BC%9A%E9%80%9A%E6%8A%A5&Refer=top)
 
