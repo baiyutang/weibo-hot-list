@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 15:02:35
+## 微博今日热榜 更新于 2021-03-18 16:06:19
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -350,4 +350,20 @@
 1. [国家空间科学中心论证蓝太阳](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E7%A9%BA%E9%97%B4%E7%A7%91%E5%AD%A6%E4%B8%AD%E5%BF%83%E8%AE%BA%E8%AF%81%E8%93%9D%E5%A4%AA%E9%98%B3&Refer=top)
 
 1. [多地发生纯电动公交车失控事故](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E7%BA%AF%E7%94%B5%E5%8A%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [西安新增1例本土确诊病例](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [义务教育质量评价指南发布](https://s.weibo.com//weibo?q=%23%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E6%8C%87%E5%8D%97%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [范丞丞湿发朋克封面](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B9%BF%E5%8F%91%E6%9C%8B%E5%85%8B%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [喜茶芝芝四季春](https://s.weibo.com//weibo?q=%E5%96%9C%E8%8C%B6%E8%8A%9D%E8%8A%9D%E5%9B%9B%E5%AD%A3%E6%98%A5&Refer=top)
+
+1. [30秒长镜头拍出重庆人生百态](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E9%95%BF%E9%95%9C%E5%A4%B4%E6%8B%8D%E5%87%BA%E9%87%8D%E5%BA%86%E4%BA%BA%E7%94%9F%E7%99%BE%E6%80%81%23&Refer=top)
+
+1. [马斯克承认特斯拉用摄像头监控车主](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E7%9B%91%E6%8E%A7%E8%BD%A6%E4%B8%BB&Refer=top)
+
+1. [医学生的奇葩操作](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9A%84%E5%A5%87%E8%91%A9%E6%93%8D%E4%BD%9C%23&Refer=top)
+
+1. [亚足联宣布江苏队退出亚冠](https://s.weibo.com//weibo?q=%E4%BA%9A%E8%B6%B3%E8%81%94%E5%AE%A3%E5%B8%83%E6%B1%9F%E8%8B%8F%E9%98%9F%E9%80%80%E5%87%BA%E4%BA%9A%E5%86%A0&Refer=top)
 
