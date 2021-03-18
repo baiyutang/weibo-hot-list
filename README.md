@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 00:05:12
+## 微博今日热榜 更新于 2021-03-19 01:24:16
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [法院认定小猪佩奇商标为驰名商标](https://s.weibo.com//weibo?q=%E6%B3%95%E9%99%A2%E8%AE%A4%E5%AE%9A%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E5%95%86%E6%A0%87%E4%B8%BA%E9%A9%B0%E5%90%8D%E5%95%86%E6%A0%87&Refer=top)
 
 1. [大海的压迫感有多强](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B5%B7%E7%9A%84%E5%8E%8B%E8%BF%AB%E6%84%9F%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [义务教育质量评价指南](https://s.weibo.com//weibo?q=%23%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [周深一秒转18个音](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%80%E7%A7%92%E8%BD%AC18%E4%B8%AA%E9%9F%B3%23&Refer=top)
+
+1. [枣庄警车车窗抛物情况通报](https://s.weibo.com//weibo?q=%E6%9E%A3%E5%BA%84%E8%AD%A6%E8%BD%A6%E8%BD%A6%E7%AA%97%E6%8A%9B%E7%89%A9%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5&Refer=top)
+
+1. [米佧邢克垒被困矿洞](https://s.weibo.com//weibo?q=%E7%B1%B3%E4%BD%A7%E9%82%A2%E5%85%8B%E5%9E%92%E8%A2%AB%E5%9B%B0%E7%9F%BF%E6%B4%9E&Refer=top)
 
