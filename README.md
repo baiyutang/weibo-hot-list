@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 21:12:47
+## 微博今日热榜 更新于 2021-03-19 22:07:26
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -484,4 +484,20 @@
 1. [温柔的人充满善意](https://s.weibo.com//weibo?q=%E6%B8%A9%E6%9F%94%E7%9A%84%E4%BA%BA%E5%85%85%E6%BB%A1%E5%96%84%E6%84%8F&Refer=top)
 
 1. [婴幼儿配方食品新国标来了](https://s.weibo.com//weibo?q=%23%E5%A9%B4%E5%B9%BC%E5%84%BF%E9%85%8D%E6%96%B9%E9%A3%9F%E5%93%81%E6%96%B0%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [加紧制定出台个人信息保护法](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E7%B4%A7%E5%88%B6%E5%AE%9A%E5%87%BA%E5%8F%B0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E6%B3%95%23&Refer=new_time)
+
+1. [张柏芝走秀](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%B5%B0%E7%A7%80&Refer=top)
+
+1. [东京奥运会开闭幕式总导演辞职](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%AD%E5%B9%95%E5%BC%8F%E6%80%BB%E5%AF%BC%E6%BC%94%E8%BE%9E%E8%81%8C&Refer=top)
+
+1. [幼儿园开课教小朋友晒稻谷](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%BC%80%E8%AF%BE%E6%95%99%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%99%92%E7%A8%BB%E8%B0%B7%23&Refer=top)
+
+1. [中国公司研发机器狗超越世界纪录](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E7%A0%94%E5%8F%91%E6%9C%BA%E5%99%A8%E7%8B%97%E8%B6%85%E8%B6%8A%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [港风奶油苏暖妆](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E9%A3%8E%E5%A5%B6%E6%B2%B9%E8%8B%8F%E6%9A%96%E5%A6%86%23&Refer=top)
+
+1. [实验动物的牺牲](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E9%AA%8C%E5%8A%A8%E7%89%A9%E7%9A%84%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [海鸥闯超市偷薯片](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%B8%A5%E9%97%AF%E8%B6%85%E5%B8%82%E5%81%B7%E8%96%AF%E7%89%87%23&Refer=top)
 
