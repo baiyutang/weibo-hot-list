@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-20 06:03:35
+## 微博今日热榜 更新于 2021-03-20 07:02:51
 1. [我国首颗进入日地L1点轨道航天器](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E8%BF%9B%E5%85%A5%E6%97%A5%E5%9C%B0L1%E7%82%B9%E8%BD%A8%E9%81%93%E8%88%AA%E5%A4%A9%E5%99%A8%23&Refer=new_time)
 
 1. [王毅发言时美方代表在传纸条](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%8F%91%E8%A8%80%E6%97%B6%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BC%A0%E7%BA%B8%E6%9D%A1%23&Refer=top)
