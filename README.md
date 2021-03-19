@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 17:02:53
+## 微博今日热榜 更新于 2021-03-19 18:07:32
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -382,4 +382,24 @@
 1. [北京鼓励外卖平台加大补贴力度](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%BC%93%E5%8A%B1%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E5%8A%A0%E5%A4%A7%E8%A1%A5%E8%B4%B4%E5%8A%9B%E5%BA%A6%23&Refer=top)
 
 1. [九岁单板滑雪小将创世界纪录](https://s.weibo.com//weibo?q=%E4%B9%9D%E5%B2%81%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E5%B0%8F%E5%B0%86%E5%88%9B%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&Refer=top)
+
+1. [三部门发布18个新职业](https://s.weibo.com//weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%8318%E4%B8%AA%E6%96%B0%E8%81%8C%E4%B8%9A%23&Refer=new_time)
+
+1. [王毅说会谈气氛谈不上紧张](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E4%BC%9A%E8%B0%88%E6%B0%94%E6%B0%9B%E8%B0%88%E4%B8%8D%E4%B8%8A%E7%B4%A7%E5%BC%A0%23&Refer=top)
+
+1. [人社局一副局长27年前冒用身份中考](https://s.weibo.com//weibo?q=%E4%BA%BA%E7%A4%BE%E5%B1%80%E4%B8%80%E5%89%AF%E5%B1%80%E9%95%BF27%E5%B9%B4%E5%89%8D%E5%86%92%E7%94%A8%E8%BA%AB%E4%BB%BD%E4%B8%AD%E8%80%83&Refer=top)
+
+1. [厦门JK女孩](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8JK%E5%A5%B3%E5%AD%A9&Refer=top)
+
+1. [金韩彬回归](https://s.weibo.com//weibo?q=%E9%87%91%E9%9F%A9%E5%BD%AC%E5%9B%9E%E5%BD%92&Refer=top)
+
+1. [我国又一个新冠病毒疫苗获批紧急使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%88%E4%B8%80%E4%B8%AA%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E7%B4%A7%E6%80%A5%E4%BD%BF%E7%94%A8%23&Refer=top)
+
+1. [下雪](https://s.weibo.com//weibo?q=%E4%B8%8B%E9%9B%AA&Refer=top)
+
+1. [西安发现柳公权书丹石碑](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E5%8F%91%E7%8E%B0%E6%9F%B3%E5%85%AC%E6%9D%83%E4%B9%A6%E4%B8%B9%E7%9F%B3%E7%A2%91&Refer=top)
+
+1. [特斯拉称中国车辆均未开启车内摄像头](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%BE%86%E5%9D%87%E6%9C%AA%E5%BC%80%E5%90%AF%E8%BD%A6%E5%86%85%E6%91%84%E5%83%8F%E5%A4%B4&Refer=top)
+
+1. [哈啰单车回应上海涨价](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%95%B0%E5%8D%95%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E6%B6%A8%E4%BB%B7%23&Refer=top)
 
