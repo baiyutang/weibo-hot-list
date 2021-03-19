@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 09:37:43
+## 微博今日热榜 更新于 2021-03-19 10:22:20
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -210,4 +210,12 @@
 1. [小区居民反映自来水洗衣褪色](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E5%8F%8D%E6%98%A0%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%B4%97%E8%A1%A3%E8%A4%AA%E8%89%B2&Refer=top)
 
 1. [湖北一学校开非遗课间操](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%BC%80%E9%9D%9E%E9%81%97%E8%AF%BE%E9%97%B4%E6%93%8D%23&Refer=top)
+
+1. [花粉过敏防治手册](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E7%B2%89%E8%BF%87%E6%95%8F%E9%98%B2%E6%B2%BB%E6%89%8B%E5%86%8C%23&Refer=top)
+
+1. [奇才战胜爵士](https://s.weibo.com//weibo?q=%E5%A5%87%E6%89%8D%E6%88%98%E8%83%9C%E7%88%B5%E5%A3%AB&Refer=top)
+
+1. [平坝樱花](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%9D%9D%E6%A8%B1%E8%8A%B1&Refer=top)
+
+1. [顾炎沈静雯](https://s.weibo.com//weibo?q=%E9%A1%BE%E7%82%8E%E6%B2%88%E9%9D%99%E9%9B%AF&Refer=top)
 
