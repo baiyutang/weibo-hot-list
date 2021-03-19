@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-20 00:04:34
+## 微博今日热榜 更新于 2021-03-20 01:25:35
 1. [我国首颗进入日地L1点轨道航天器](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E8%BF%9B%E5%85%A5%E6%97%A5%E5%9C%B0L1%E7%82%B9%E8%BD%A8%E9%81%93%E8%88%AA%E5%A4%A9%E5%99%A8%23&Refer=new_time)
 
 1. [王毅发言时美方代表在传纸条](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%8F%91%E8%A8%80%E6%97%B6%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BC%A0%E7%BA%B8%E6%9D%A1%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [杨丞琳发文表白姐姐们](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%8F%91%E6%96%87%E8%A1%A8%E7%99%BD%E5%A7%90%E5%A7%90%E4%BB%AC%23&Refer=top)
 
 1. [厦门一旅游观光直升机坠海](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%80%E6%97%85%E6%B8%B8%E8%A7%82%E5%85%89%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E6%B5%B7%23&Refer=top)
+
+1. [加紧制定出台个人信息保护法](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E7%B4%A7%E5%88%B6%E5%AE%9A%E5%87%BA%E5%8F%B0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E6%B3%95%23&Refer=new_time)
+
+1. [马嘉祺张彬彬反转版无间道](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%8F%8D%E8%BD%AC%E7%89%88%E6%97%A0%E9%97%B4%E9%81%93%23&Refer=top)
+
+1. [怎么看待年轻人立遗嘱](https://s.weibo.com//weibo?q=%23%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%AB%8B%E9%81%97%E5%98%B1%23&Refer=top)
+
+1. [欧冠抽签](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE&Refer=top)
 
