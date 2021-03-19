@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 07:03:04
+## 微博今日热榜 更新于 2021-03-19 08:07:00
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -136,4 +136,34 @@
 1. [亚特兰大枪击案](https://s.weibo.com//weibo?q=%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E6%9E%AA%E5%87%BB%E6%A1%88&Refer=top)
 
 1. [你是我的城池营垒](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92&Refer=top)
+
+1. [31省结婚离婚大数据](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E7%BB%93%E5%A9%9A%E7%A6%BB%E5%A9%9A%E5%A4%A7%E6%95%B0%E6%8D%AE%23&Refer=top)
+
+1. [蔡明录综艺病倒被送医](https://s.weibo.com//weibo?q=%E8%94%A1%E6%98%8E%E5%BD%95%E7%BB%BC%E8%89%BA%E7%97%85%E5%80%92%E8%A2%AB%E9%80%81%E5%8C%BB&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [小马云回家后现状](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%A9%AC%E4%BA%91%E5%9B%9E%E5%AE%B6%E5%90%8E%E7%8E%B0%E7%8A%B6&Refer=top)
+
+1. [火锅调料老板加超标明矾终身禁业](https://s.weibo.com//weibo?q=%23%E7%81%AB%E9%94%85%E8%B0%83%E6%96%99%E8%80%81%E6%9D%BF%E5%8A%A0%E8%B6%85%E6%A0%87%E6%98%8E%E7%9F%BE%E7%BB%88%E8%BA%AB%E7%A6%81%E4%B8%9A%23&Refer=top)
+
+1. [合肥心形公路走一圈13.14公里](https://s.weibo.com//weibo?q=%23%E5%90%88%E8%82%A5%E5%BF%83%E5%BD%A2%E5%85%AC%E8%B7%AF%E8%B5%B0%E4%B8%80%E5%9C%8813.14%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [杭州巨响](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%B7%A8%E5%93%8D&Refer=top)
+
+1. [巴基斯坦总理接种中国新冠疫苗](https://s.weibo.com//weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E6%8E%A5%E7%A7%8D%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [专家解读花呗借呗不得向大学生放款](https://s.weibo.com//weibo?q=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E8%8A%B1%E5%91%97%E5%80%9F%E5%91%97%E4%B8%8D%E5%BE%97%E5%90%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%BE%E6%AC%BE&Refer=top)
+
+1. [很贵但绝对很值的东西](https://s.weibo.com//weibo?q=%23%E5%BE%88%E8%B4%B5%E4%BD%86%E7%BB%9D%E5%AF%B9%E5%BE%88%E5%80%BC%E7%9A%84%E4%B8%9C%E8%A5%BF%23&Refer=top)
+
+1. [多地公务员省考招录规模压缩](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%85%AC%E5%8A%A1%E5%91%98%E7%9C%81%E8%80%83%E6%8B%9B%E5%BD%95%E8%A7%84%E6%A8%A1%E5%8E%8B%E7%BC%A9%23&Refer=top)
+
+1. [东北大学文法学院拟清退9名博士生](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E6%96%87%E6%B3%95%E5%AD%A6%E9%99%A2%E6%8B%9F%E6%B8%85%E9%80%809%E5%90%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%23&Refer=top)
+
+1. [西安已检测3090人结果全部阴性](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E5%B7%B2%E6%A3%80%E6%B5%8B3090%E4%BA%BA%E7%BB%93%E6%9E%9C%E5%85%A8%E9%83%A8%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [mouse](https://s.weibo.com//weibo?q=mouse&Refer=top)
 
