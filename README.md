@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 18:07:32
+## 微博今日热榜 更新于 2021-03-19 19:02:43
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -402,4 +402,28 @@
 1. [特斯拉称中国车辆均未开启车内摄像头](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%BE%86%E5%9D%87%E6%9C%AA%E5%BC%80%E5%90%AF%E8%BD%A6%E5%86%85%E6%91%84%E5%83%8F%E5%A4%B4&Refer=top)
 
 1. [哈啰单车回应上海涨价](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%95%B0%E5%8D%95%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E6%B6%A8%E4%BB%B7%23&Refer=top)
+
+1. [如梦之梦演员阵容](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E6%BC%94%E5%91%98%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [曾舜晞工作室发文道歉](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [江映蓉陈梓童回应人气垫底](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%98%A0%E8%93%89%E9%99%88%E6%A2%93%E7%AB%A5%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%B0%94%E5%9E%AB%E5%BA%95%23&Refer=top)
+
+1. [厦门直升机](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E7%9B%B4%E5%8D%87%E6%9C%BA&Refer=top)
+
+1. [王祖蓝隔着张彬彬拖下了宋亚轩](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E9%9A%94%E7%9D%80%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%8B%96%E4%B8%8B%E4%BA%86%E5%AE%8B%E4%BA%9A%E8%BD%A9%23&Refer=top)
+
+1. [男子懒得下楼从18楼扔下电饭锅](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%87%92%E5%BE%97%E4%B8%8B%E6%A5%BC%E4%BB%8E18%E6%A5%BC%E6%89%94%E4%B8%8B%E7%94%B5%E9%A5%AD%E9%94%85%23&Refer=top)
+
+1. [余景天叫TONY的原因](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E5%8F%ABTONY%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [驾校教练是如何嘲讽你的](https://s.weibo.com//weibo?q=%23%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E6%98%AF%E5%A6%82%E4%BD%95%E5%98%B2%E8%AE%BD%E4%BD%A0%E7%9A%84%23&Refer=top)
+
+1. [董又霖综艺人设](https://s.weibo.com//weibo?q=%E8%91%A3%E5%8F%88%E9%9C%96%E7%BB%BC%E8%89%BA%E4%BA%BA%E8%AE%BE&Refer=top)
+
+1. [孟佳卡点](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E5%8D%A1%E7%82%B9%23&Refer=top)
+
+1. [00后开始立遗嘱了](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%BC%80%E5%A7%8B%E7%AB%8B%E9%81%97%E5%98%B1%E4%BA%86%23&Refer=top)
+
+1. [厦门一旅游观光直升机坠海](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%80%E6%97%85%E6%B8%B8%E8%A7%82%E5%85%89%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E6%B5%B7%23&Refer=top)
 
