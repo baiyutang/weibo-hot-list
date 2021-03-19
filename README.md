@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 13:04:43
+## 微博今日热榜 更新于 2021-03-19 14:03:13
 1. [12病种纳入儿童血液病恶性肿瘤救治范围](https://s.weibo.com//weibo?q=%2312%E7%97%85%E7%A7%8D%E7%BA%B3%E5%85%A5%E5%84%BF%E7%AB%A5%E8%A1%80%E6%B6%B2%E7%97%85%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%E6%95%91%E6%B2%BB%E8%8C%83%E5%9B%B4%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -296,4 +296,26 @@
 1. [正义联盟](https://s.weibo.com//weibo?q=%E6%AD%A3%E4%B9%89%E8%81%94%E7%9B%9F&Refer=top)
 
 1. [沪上银行自查房贷排查出四大问题](https://s.weibo.com//weibo?q=%E6%B2%AA%E4%B8%8A%E9%93%B6%E8%A1%8C%E8%87%AA%E6%9F%A5%E6%88%BF%E8%B4%B7%E6%8E%92%E6%9F%A5%E5%87%BA%E5%9B%9B%E5%A4%A7%E9%97%AE%E9%A2%98&Refer=top)
+
+1. [杨丞琳组全季最高分](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%BB%84%E5%85%A8%E5%AD%A3%E6%9C%80%E9%AB%98%E5%88%86&Refer=top)
+
+1. [美方致开场白严重超时挑起争端](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%96%B9%E8%87%B4%E5%BC%80%E5%9C%BA%E7%99%BD%E4%B8%A5%E9%87%8D%E8%B6%85%E6%97%B6%E6%8C%91%E8%B5%B7%E4%BA%89%E7%AB%AF%23&Refer=top)
+
+1. [王霏霏 仿佛又回到了去年的那个夏天](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%9C%8F%E9%9C%8F%20%E4%BB%BF%E4%BD%9B%E5%8F%88%E5%9B%9E%E5%88%B0%E4%BA%86%E5%8E%BB%E5%B9%B4%E7%9A%84%E9%82%A3%E4%B8%AA%E5%A4%8F%E5%A4%A9&Refer=top)
+
+1. [女子打110点小龙虾要求加辣](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93110%E7%82%B9%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A6%81%E6%B1%82%E5%8A%A0%E8%BE%A3%23&Refer=top)
+
+1. [朱珠老公](https://s.weibo.com//weibo?q=%E6%9C%B1%E7%8F%A0%E8%80%81%E5%85%AC&Refer=top)
+
+1. [除非让爸爸也改名叫鲑鱼](https://s.weibo.com//weibo?q=%E9%99%A4%E9%9D%9E%E8%AE%A9%E7%88%B8%E7%88%B8%E4%B9%9F%E6%94%B9%E5%90%8D%E5%8F%AB%E9%B2%91%E9%B1%BC&Refer=top)
+
+1. [山河令预告31](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A31&Refer=top)
+
+1. [BAZAAR舞台](https://s.weibo.com//weibo?q=BAZAAR%E8%88%9E%E5%8F%B0&Refer=top)
+
+1. [湖人战胜黄蜂](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E9%BB%84%E8%9C%82&Refer=top)
+
+1. [詹姆斯37分](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF37%E5%88%86&Refer=top)
+
+1. [山河令预告温客行下跪](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A%E6%B8%A9%E5%AE%A2%E8%A1%8C%E4%B8%8B%E8%B7%AA&Refer=top)
 
