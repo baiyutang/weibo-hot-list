@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-21 05:02:51
+## 微博今日热榜 更新于 2021-03-21 06:03:14
 1. [我问中国空间站](https://s.weibo.com//weibo?q=%23%E6%88%91%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&Refer=new_time)
 
 1. [露娜没死](https://s.weibo.com//weibo?q=%23%E9%9C%B2%E5%A8%9C%E6%B2%A1%E6%AD%BB%23&Refer=top)
@@ -150,4 +150,6 @@
 1. [2021中国发展高层论坛](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E9%AB%98%E5%B1%82%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [睡眠不足怎样影响日常生活](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E6%80%8E%E6%A0%B7%E5%BD%B1%E5%93%8D%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [普京](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC&Refer=top)
 
