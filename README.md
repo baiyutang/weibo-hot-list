@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-20 11:05:02
+## 微博今日热榜 更新于 2021-03-20 12:03:26
 1. [我国首颗进入日地L1点轨道航天器](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E8%BF%9B%E5%85%A5%E6%97%A5%E5%9C%B0L1%E7%82%B9%E8%BD%A8%E9%81%93%E8%88%AA%E5%A4%A9%E5%99%A8%23&Refer=new_time)
 
 1. [王毅发言时美方代表在传纸条](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%8F%91%E8%A8%80%E6%97%B6%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BC%A0%E7%BA%B8%E6%9D%A1%23&Refer=top)
@@ -240,4 +240,20 @@
 1. [火箭19连败](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD19%E8%BF%9E%E8%B4%A5&Refer=top)
 
 1. [当着父母的面撒谎](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%9D%80%E7%88%B6%E6%AF%8D%E7%9A%84%E9%9D%A2%E6%92%92%E8%B0%8E%23&Refer=top)
+
+1. [三星堆遗址发现绝美黄金面具](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E5%8F%91%E7%8E%B0%E7%BB%9D%E7%BE%8E%E9%BB%84%E9%87%91%E9%9D%A2%E5%85%B7%23&Refer=top)
+
+1. [南派三叔](https://s.weibo.com//weibo?q=%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94&Refer=top)
+
+1. [维金斯40分](https://s.weibo.com//weibo?q=%E7%BB%B4%E9%87%91%E6%96%AF40%E5%88%86&Refer=top)
+
+1. [韩剧窥探](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%89%A7%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [青铜神树](https://s.weibo.com//weibo?q=%E9%9D%92%E9%93%9C%E7%A5%9E%E6%A0%91&Refer=top)
+
+1. [3D还原三星堆全新发掘](https://s.weibo.com//weibo?q=%233D%E8%BF%98%E5%8E%9F%E4%B8%89%E6%98%9F%E5%A0%86%E5%85%A8%E6%96%B0%E5%8F%91%E6%8E%98%23&Refer=top)
+
+1. [张哲瀚龚俊采访像小学生打闹](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E9%BE%9A%E4%BF%8A%E9%87%87%E8%AE%BF%E5%83%8F%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%89%93%E9%97%B9%23&Refer=top)
+
+1. [周子舒扔酒壶扔得好准](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%AD%90%E8%88%92%E6%89%94%E9%85%92%E5%A3%B6%E6%89%94%E5%BE%97%E5%A5%BD%E5%87%86%23&Refer=top)
 
