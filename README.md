@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-20 08:06:54
+## 微博今日热榜 更新于 2021-03-20 09:36:32
 1. [我国首颗进入日地L1点轨道航天器](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E8%BF%9B%E5%85%A5%E6%97%A5%E5%9C%B0L1%E7%82%B9%E8%BD%A8%E9%81%93%E8%88%AA%E5%A4%A9%E5%99%A8%23&Refer=new_time)
 
 1. [王毅发言时美方代表在传纸条](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%8F%91%E8%A8%80%E6%97%B6%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BC%A0%E7%BA%B8%E6%9D%A1%23&Refer=top)
@@ -168,4 +168,36 @@
 1. [刘嘉森](https://s.weibo.com//weibo?q=%E5%88%98%E5%98%89%E6%A3%AE&Refer=top)
 
 1. [法国总理接种阿斯利康新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E7%A7%8D%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [普京](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC&Refer=top)
+
+1. [三星堆遗址考古重大发现](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E8%80%83%E5%8F%A4%E9%87%8D%E5%A4%A7%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [周子舒逼出身上钉子](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%AD%90%E8%88%92%E9%80%BC%E5%87%BA%E8%BA%AB%E4%B8%8A%E9%92%89%E5%AD%90%23&Refer=top)
+
+1. [龚俊想去江西玩](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%83%B3%E5%8E%BB%E6%B1%9F%E8%A5%BF%E7%8E%A9%23&Refer=top)
+
+1. [公安部答复推广身份证电子证照](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AE%89%E9%83%A8%E7%AD%94%E5%A4%8D%E6%8E%A8%E5%B9%BF%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%94%B5%E5%AD%90%E8%AF%81%E7%85%A7%23&Refer=top)
+
+1. [当两个社恐成为了室友](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%B8%A4%E4%B8%AA%E7%A4%BE%E6%81%90%E6%88%90%E4%B8%BA%E4%BA%86%E5%AE%A4%E5%8F%8B%23&Refer=top)
+
+1. [张小斐晒半脸自拍](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E6%99%92%E5%8D%8A%E8%84%B8%E8%87%AA%E6%8B%8D&Refer=top)
+
+1. [山河不足重 重在遇知己](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%B8%8D%E8%B6%B3%E9%87%8D%20%E9%87%8D%E5%9C%A8%E9%81%87%E7%9F%A5%E5%B7%B1&Refer=top)
+
+1. [王俊凯反应能力](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%8D%E5%BA%94%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [包装可以有多好笑](https://s.weibo.com//weibo?q=%E5%8C%85%E8%A3%85%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91&Refer=top)
+
+1. [四川日报微博编辑记录](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A5%E5%BE%AE%E5%8D%9A%E7%BC%96%E8%BE%91%E8%AE%B0%E5%BD%95&Refer=top)
+
+1. [三星堆遗址连拆6个盲盒](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E8%BF%9E%E6%8B%866%E4%B8%AA%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [CBA全明星周末](https://s.weibo.com//weibo?q=%23CBA%E5%85%A8%E6%98%8E%E6%98%9F%E5%91%A8%E6%9C%AB%23&Refer=top)
+
+1. [蔡徐坤看展遇见两年前的自己](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9C%8B%E5%B1%95%E9%81%87%E8%A7%81%E4%B8%A4%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1&Refer=top)
+
+1. [顾某沈某违反生活纪律的查处情况](https://s.weibo.com//weibo?q=%E9%A1%BE%E6%9F%90%E6%B2%88%E6%9F%90%E8%BF%9D%E5%8F%8D%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BE%8B%E7%9A%84%E6%9F%A5%E5%A4%84%E6%83%85%E5%86%B5&Refer=top)
+
+1. [汤普森训练连中12记三分](https://s.weibo.com//weibo?q=%E6%B1%A4%E6%99%AE%E6%A3%AE%E8%AE%AD%E7%BB%83%E8%BF%9E%E4%B8%AD12%E8%AE%B0%E4%B8%89%E5%88%86&Refer=top)
 
