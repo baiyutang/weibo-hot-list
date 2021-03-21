@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 05:02:42
+## 微博今日热榜 更新于 2021-03-22 06:03:32
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [张镇麟扣篮大赛冠军](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%95%87%E9%BA%9F%E6%89%A3%E7%AF%AE%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%23&Refer=top)
 
 1. [沉睡三千年 一醒惊天下](https://s.weibo.com//weibo?q=%23%E6%B2%89%E7%9D%A1%E4%B8%89%E5%8D%83%E5%B9%B4%20%E4%B8%80%E9%86%92%E6%83%8A%E5%A4%A9%E4%B8%8B%23&Refer=new_time)
+
+1. [苹果因不附赠充电头被罚200万美元](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E4%B8%8D%E9%99%84%E8%B5%A0%E5%85%85%E7%94%B5%E5%A4%B4%E8%A2%AB%E7%BD%9A200%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
 
