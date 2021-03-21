@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-21 15:02:47
+## 微博今日热榜 更新于 2021-03-21 16:03:21
 1. [我问中国空间站](https://s.weibo.com//weibo?q=%23%E6%88%91%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&Refer=new_time)
 
 1. [露娜没死](https://s.weibo.com//weibo?q=%23%E9%9C%B2%E5%A8%9C%E6%B2%A1%E6%AD%BB%23&Refer=top)
@@ -326,4 +326,34 @@
 1. [拜登被推友玩坏了](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E8%A2%AB%E6%8E%A8%E5%8F%8B%E7%8E%A9%E5%9D%8F%E4%BA%86&Refer=top)
 
 1. [当代青年熬夜真相](https://s.weibo.com//weibo?q=%E5%BD%93%E4%BB%A3%E9%9D%92%E5%B9%B4%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9B%B8&Refer=top)
+
+1. [新冠疫苗安全性有效性有关情况](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8%E6%80%A7%E6%9C%89%E6%95%88%E6%80%A7%E6%9C%89%E5%85%B3%E6%83%85%E5%86%B5&Refer=top)
+
+1. [90后将游戏账号虚拟财产列为遗产](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%86%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%99%9A%E6%8B%9F%E8%B4%A2%E4%BA%A7%E5%88%97%E4%B8%BA%E9%81%97%E4%BA%A7%23&Refer=top)
+
+1. [全国新冠疫苗已接种7495.6万剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%B7%B2%E6%8E%A5%E7%A7%8D7495.6%E4%B8%87%E5%89%82%E6%AC%A1%23&Refer=top)
+
+1. [余景天 剪辑](https://s.weibo.com//weibo?q=%E4%BD%99%E6%99%AF%E5%A4%A9%20%E5%89%AA%E8%BE%91&Refer=top)
+
+1. [捐遗产被收20万患者发声](https://s.weibo.com//weibo?q=%23%E6%8D%90%E9%81%97%E4%BA%A7%E8%A2%AB%E6%94%B620%E4%B8%87%E6%82%A3%E8%80%85%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [福建连续42年全国最绿省份](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%BF%9E%E7%BB%AD42%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%9C%80%E7%BB%BF%E7%9C%81%E4%BB%BD%23&Refer=top)
+
+1. [香港教育局为学生派发国情读本](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%B4%BE%E5%8F%91%E5%9B%BD%E6%83%85%E8%AF%BB%E6%9C%AC&Refer=top)
+
+1. [张哲瀚微博评论区](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%23&Refer=top)
+
+1. [詹姆斯受伤后发声](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%97%E4%BC%A4%E5%90%8E%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [斯里兰卡一公交坠崖致13死31伤](https://s.weibo.com//weibo?q=%23%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E4%B8%80%E5%85%AC%E4%BA%A4%E5%9D%A0%E5%B4%96%E8%87%B413%E6%AD%BB31%E4%BC%A4%23&Refer=top)
+
+1. [大宋宫词剪辑](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AE%8B%E5%AE%AB%E8%AF%8D%E5%89%AA%E8%BE%91&Refer=top)
+
+1. [大兴南海子公园放猎夹者已被刑拘](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%85%B4%E5%8D%97%E6%B5%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E6%94%BE%E7%8C%8E%E5%A4%B9%E8%80%85%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98&Refer=top)
+
+1. [中美对话女翻译官张京](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D%E5%A5%B3%E7%BF%BB%E8%AF%91%E5%AE%98%E5%BC%A0%E4%BA%AC&Refer=top)
+
+1. [歌曲和MV没有任何关系](https://s.weibo.com//weibo?q=%23%E6%AD%8C%E6%9B%B2%E5%92%8CMV%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [60岁以上老人将大规模开展疫苗接种](https://s.weibo.com//weibo?q=%2360%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%BC%80%E5%B1%95%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
