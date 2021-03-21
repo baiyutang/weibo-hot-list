@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-21 09:40:38
+## 微博今日热榜 更新于 2021-03-21 10:25:48
 1. [我问中国空间站](https://s.weibo.com//weibo?q=%23%E6%88%91%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&Refer=new_time)
 
 1. [露娜没死](https://s.weibo.com//weibo?q=%23%E9%9C%B2%E5%A8%9C%E6%B2%A1%E6%AD%BB%23&Refer=top)
@@ -210,4 +210,12 @@
 1. [湖人致敬隆多](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E8%87%B4%E6%95%AC%E9%9A%86%E5%A4%9A&Refer=top)
 
 1. [宙斯神庙附近发现2500年前铜牛神像](https://s.weibo.com//weibo?q=%E5%AE%99%E6%96%AF%E7%A5%9E%E5%BA%99%E9%99%84%E8%BF%91%E5%8F%91%E7%8E%B02500%E5%B9%B4%E5%89%8D%E9%93%9C%E7%89%9B%E7%A5%9E%E5%83%8F&Refer=top)
+
+1. [中美对话美方紫头发翻译被吐槽](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D%E7%BE%8E%E6%96%B9%E7%B4%AB%E5%A4%B4%E5%8F%91%E7%BF%BB%E8%AF%91%E8%A2%AB%E5%90%90%E6%A7%BD&Refer=top)
+
+1. [利老师休想逃](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%80%81%E5%B8%88%E4%BC%91%E6%83%B3%E9%80%83%23&Refer=top)
+
+1. [王嘉尔登四国时装男士封面](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%99%BB%E5%9B%9B%E5%9B%BD%E6%97%B6%E8%A3%85%E7%94%B7%E5%A3%AB%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [江苏新增1例无症状系境外输入](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E7%B3%BB%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%23&Refer=top)
 
