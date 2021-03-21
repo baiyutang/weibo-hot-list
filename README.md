@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-21 07:02:49
+## 微博今日热榜 更新于 2021-03-21 08:07:25
 1. [我问中国空间站](https://s.weibo.com//weibo?q=%23%E6%88%91%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&Refer=new_time)
 
 1. [露娜没死](https://s.weibo.com//weibo?q=%23%E9%9C%B2%E5%A8%9C%E6%B2%A1%E6%AD%BB%23&Refer=top)
@@ -152,4 +152,30 @@
 1. [睡眠不足怎样影响日常生活](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E6%80%8E%E6%A0%B7%E5%BD%B1%E5%93%8D%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%23&Refer=top)
 
 1. [普京](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC&Refer=top)
+
+1. [设多个闹钟反复惊醒可致慢性疲劳](https://s.weibo.com//weibo?q=%23%E8%AE%BE%E5%A4%9A%E4%B8%AA%E9%97%B9%E9%92%9F%E5%8F%8D%E5%A4%8D%E6%83%8A%E9%86%92%E5%8F%AF%E8%87%B4%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3%23&Refer=top)
+
+1. [詹姆斯受伤](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [米卡曾涵江友谊](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E6%9B%BE%E6%B6%B5%E6%B1%9F%E5%8F%8B%E8%B0%8A%23&Refer=top)
+
+1. [世界睡眠日](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E7%9D%A1%E7%9C%A0%E6%97%A5%23&Refer=top)
+
+1. [张翰名台词](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%90%8D%E5%8F%B0%E8%AF%8D%23&Refer=top)
+
+1. [苹果iPhone生产可能面临中断风险](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9CiPhone%E7%94%9F%E4%BA%A7%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E4%B8%AD%E6%96%AD%E9%A3%8E%E9%99%A9&Refer=top)
+
+1. [祖孙三代的审美差异](https://s.weibo.com//weibo?q=%23%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E7%9A%84%E5%AE%A1%E7%BE%8E%E5%B7%AE%E5%BC%82%23&Refer=top)
+
+1. [戴希希段序订婚](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B8%8C%E5%B8%8C%E6%AE%B5%E5%BA%8F%E8%AE%A2%E5%A9%9A%23&Refer=top)
+
+1. [文森佐](https://s.weibo.com//weibo?q=%E6%96%87%E6%A3%AE%E4%BD%90&Refer=top)
+
+1. [美国新冠肺炎超2977万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852977%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [五月天台南演唱会](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%B0%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [顶楼预告](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
