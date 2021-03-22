@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 01:27:10
+## 微博今日热榜 更新于 2021-03-23 02:07:45
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -116,4 +116,10 @@
 1. [司藤上山挖白英](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E4%B8%8A%E5%B1%B1%E6%8C%96%E7%99%BD%E8%8B%B1%23&Refer=top)
 
 1. [警方通报广州番禺发生刑事案件](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E7%95%AA%E7%A6%BA%E5%8F%91%E7%94%9F%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6&Refer=top)
+
+1. [草原上的萨日朗](https://s.weibo.com//weibo?q=%23%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%9A%84%E8%90%A8%E6%97%A5%E6%9C%97%23&Refer=new_time)
+
+1. [温客行回鬼谷会蝎王](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AE%A2%E8%A1%8C%E5%9B%9E%E9%AC%BC%E8%B0%B7%E4%BC%9A%E8%9D%8E%E7%8E%8B%23&Refer=top)
+
+1. [番禺化龙](https://s.weibo.com//weibo?q=%E7%95%AA%E7%A6%BA%E5%8C%96%E9%BE%99&Refer=top)
 
