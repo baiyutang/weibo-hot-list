@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 02:07:45
+## 微博今日热榜 更新于 2021-03-23 03:03:37
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
