@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 15:07:35
+## 微博今日热榜 更新于 2021-03-22 16:08:33
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -370,4 +370,36 @@
 1. [LPR连续11个月不变](https://s.weibo.com//weibo?q=%23LPR%E8%BF%9E%E7%BB%AD11%E4%B8%AA%E6%9C%88%E4%B8%8D%E5%8F%98%23&Refer=top)
 
 1. [骑手调包外卖平台应该担责吗](https://s.weibo.com//weibo?q=%E9%AA%91%E6%89%8B%E8%B0%83%E5%8C%85%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E5%BA%94%E8%AF%A5%E6%8B%85%E8%B4%A3%E5%90%97&Refer=top)
+
+1. [GAI方否认吸毒](https://s.weibo.com//weibo?q=%23GAI%E6%96%B9%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%23&Refer=top)
+
+1. [杨幂道歉](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E9%81%93%E6%AD%89&Refer=top)
+
+1. [中国成率先批准RCEP国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E7%8E%87%E5%85%88%E6%89%B9%E5%87%86RCEP%E5%9B%BD%E5%AE%B6%23&Refer=top)
+
+1. [我国水管漏水一年漏掉700个西湖](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B0%B4%E7%AE%A1%E6%BC%8F%E6%B0%B4%E4%B8%80%E5%B9%B4%E6%BC%8F%E6%8E%89700%E4%B8%AA%E8%A5%BF%E6%B9%96%23&Refer=top)
+
+1. [邓伦素颜](https://s.weibo.com//weibo?q=%E9%82%93%E4%BC%A6%E7%B4%A0%E9%A2%9C&Refer=top)
+
+1. [李梦62分](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%A2%A662%E5%88%86&Refer=top)
+
+1. [男朋友准备的樱花雨](https://s.weibo.com//weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%87%86%E5%A4%87%E7%9A%84%E6%A8%B1%E8%8A%B1%E9%9B%A8%23&Refer=top)
+
+1. [浪浪钉](https://s.weibo.com//weibo?q=%23%E6%B5%AA%E6%B5%AA%E9%92%89%23&Refer=top)
+
+1. [央视曝光跨境赌博骗局](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%B7%A8%E5%A2%83%E8%B5%8C%E5%8D%9A%E9%AA%97%E5%B1%80&Refer=top)
+
+1. [听姐说阵容](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A7%90%E8%AF%B4%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [我国核潜艇首任总师彭士禄逝世](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%A0%B8%E6%BD%9C%E8%89%87%E9%A6%96%E4%BB%BB%E6%80%BB%E5%B8%88%E5%BD%AD%E5%A3%AB%E7%A6%84%E9%80%9D%E4%B8%96%23&Refer=top)
+
+1. [陆柯燃裸背大片](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E8%A3%B8%E8%83%8C%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [特朗普将用自有平台回归社交媒体](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%94%A8%E8%87%AA%E6%9C%89%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BD%92%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%23&Refer=top)
+
+1. [四川黄龙五彩池雪后宛如翡翠](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%BB%84%E9%BE%99%E4%BA%94%E5%BD%A9%E6%B1%A0%E9%9B%AA%E5%90%8E%E5%AE%9B%E5%A6%82%E7%BF%A1%E7%BF%A0%23&Refer=top)
+
+1. [目前三星堆出土唯一鸟形金饰片](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E5%94%AF%E4%B8%80%E9%B8%9F%E5%BD%A2%E9%87%91%E9%A5%B0%E7%89%87%23&Refer=top)
+
+1. [Doinb糖小幽](https://s.weibo.com//weibo?q=Doinb%E7%B3%96%E5%B0%8F%E5%B9%BD&Refer=top)
 
