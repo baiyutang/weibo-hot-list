@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 05:02:52
+## 微博今日热榜 更新于 2021-03-23 06:03:24
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [俄罗斯外长拉夫罗夫乘船游漓江](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%B9%98%E8%88%B9%E6%B8%B8%E6%BC%93%E6%B1%9F%23&Refer=top)
 
 1. [吉翔告别江苏队](https://s.weibo.com//weibo?q=%E5%90%89%E7%BF%94%E5%91%8A%E5%88%AB%E6%B1%9F%E8%8B%8F%E9%98%9F&Refer=top)
+
+1. [中共中央将召开2021年首场新闻发布会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%B0%86%E5%8F%AC%E5%BC%802021%E5%B9%B4%E9%A6%96%E5%9C%BA%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=new_time)
 
