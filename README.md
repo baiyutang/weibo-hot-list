@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 07:03:02
+## 微博今日热榜 更新于 2021-03-22 08:07:09
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -126,4 +126,30 @@
 1. [苹果因不附赠充电头被罚200万美元](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E4%B8%8D%E9%99%84%E8%B5%A0%E5%85%85%E7%94%B5%E5%A4%B4%E8%A2%AB%E7%BD%9A200%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
 
 1. [黄奕 吐槽是一个自我治愈的过程](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%90%90%E6%A7%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E8%87%AA%E6%88%91%E6%B2%BB%E6%84%88%E7%9A%84%E8%BF%87%E7%A8%8B&Refer=top)
+
+1. [司藤心动会开花](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E5%BF%83%E5%8A%A8%E4%BC%9A%E5%BC%80%E8%8A%B1&Refer=top)
+
+1. [汪涵入学播音班时视频](https://s.weibo.com//weibo?q=%E6%B1%AA%E6%B6%B5%E5%85%A5%E5%AD%A6%E6%92%AD%E9%9F%B3%E7%8F%AD%E6%97%B6%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [考研调剂](https://s.weibo.com//weibo?q=%E8%80%83%E7%A0%94%E8%B0%83%E5%89%82&Refer=top)
+
+1. [张萌说好男人要经得起查手机](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E8%AF%B4%E5%A5%BD%E7%94%B7%E4%BA%BA%E8%A6%81%E7%BB%8F%E5%BE%97%E8%B5%B7%E6%9F%A5%E6%89%8B%E6%9C%BA%23&Refer=top)
+
+1. [徐翔](https://s.weibo.com//weibo?q=%E5%BE%90%E7%BF%94&Refer=top)
+
+1. [墨西哥鸡肉卷](https://s.weibo.com//weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%B8%A1%E8%82%89%E5%8D%B7&Refer=top)
+
+1. [进击的巨人](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [品辣师](https://s.weibo.com//weibo?q=%E5%93%81%E8%BE%A3%E5%B8%88&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [世界每3人有1人无法获得安全饮水](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%AF%8F3%E4%BA%BA%E6%9C%891%E4%BA%BA%E6%97%A0%E6%B3%95%E8%8E%B7%E5%BE%97%E5%AE%89%E5%85%A8%E9%A5%AE%E6%B0%B4&Refer=top)
+
+1. [火箭20连败](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD20%E8%BF%9E%E8%B4%A5&Refer=top)
+
+1. [哈尔滨严查生产经营焚烧冥币](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%A5%E6%9F%A5%E7%94%9F%E4%BA%A7%E7%BB%8F%E8%90%A5%E7%84%9A%E7%83%A7%E5%86%A5%E5%B8%81&Refer=top)
+
+1. [梅西梅开二度](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
 
