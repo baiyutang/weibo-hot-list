@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 11:11:44
+## 微博今日热榜 更新于 2021-03-22 12:08:36
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -242,4 +242,26 @@
 1. [澳新南威尔士州遇50年最严重洪水](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E6%96%B0%E5%8D%97%E5%A8%81%E5%B0%94%E5%A3%AB%E5%B7%9E%E9%81%8750%E5%B9%B4%E6%9C%80%E4%B8%A5%E9%87%8D%E6%B4%AA%E6%B0%B4%23&Refer=top)
 
 1. [中国计算机博士生在美自杀](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E7%BE%8E%E8%87%AA%E6%9D%80&Refer=top)
+
+1. [龚俊 极限挑战](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+
+1. [基金牛蛙](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%E7%89%9B%E8%9B%99%23&Refer=top)
+
+1. [林郑月娥接种第二剂新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%9E%97%E9%83%91%E6%9C%88%E5%A8%A5%E6%8E%A5%E7%A7%8D%E7%AC%AC%E4%BA%8C%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [汶川地震被解放军救下的男孩入伍](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E8%A2%AB%E8%A7%A3%E6%94%BE%E5%86%9B%E6%95%91%E4%B8%8B%E7%9A%84%E7%94%B7%E5%AD%A9%E5%85%A5%E4%BC%8D%23&Refer=top)
+
+1. [露娜是夏允哲亲生女儿](https://s.weibo.com//weibo?q=%E9%9C%B2%E5%A8%9C%E6%98%AF%E5%A4%8F%E5%85%81%E5%93%B2%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF&Refer=top)
+
+1. [国台办称台湾是全中国人民的台湾](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E7%A7%B0%E5%8F%B0%E6%B9%BE%E6%98%AF%E5%85%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E5%8F%B0%E6%B9%BE%23&Refer=top)
+
+1. [白敬亭演技](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [汉服的袖子里可以放多少东西](https://s.weibo.com//weibo?q=%E6%B1%89%E6%9C%8D%E7%9A%84%E8%A2%96%E5%AD%90%E9%87%8C%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%A4%9A%E5%B0%91%E4%B8%9C%E8%A5%BF&Refer=top)
+
+1. [预防猝死从我做起](https://s.weibo.com//weibo?q=%23%E9%A2%84%E9%98%B2%E7%8C%9D%E6%AD%BB%E4%BB%8E%E6%88%91%E5%81%9A%E8%B5%B7%23&Refer=top)
+
+1. [美多地举行反仇视亚裔集会](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%A4%9A%E5%9C%B0%E4%B8%BE%E8%A1%8C%E5%8F%8D%E4%BB%87%E8%A7%86%E4%BA%9A%E8%A3%94%E9%9B%86%E4%BC%9A%23&Refer=top)
+
+1. [威少哈登勾手指](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E5%93%88%E7%99%BB%E5%8B%BE%E6%89%8B%E6%8C%87&Refer=top)
 
