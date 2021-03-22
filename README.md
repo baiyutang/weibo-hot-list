@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 20:03:45
+## 微博今日热榜 更新于 2021-03-22 21:10:12
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -488,4 +488,30 @@
 1. [网约车合规信息查询服务](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%88%E8%A7%84%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2%E6%9C%8D%E5%8A%A1%23&Refer=top)
 
 1. [工人利用大鹅走地下通道](https://s.weibo.com//weibo?q=%E5%B7%A5%E4%BA%BA%E5%88%A9%E7%94%A8%E5%A4%A7%E9%B9%85%E8%B5%B0%E5%9C%B0%E4%B8%8B%E9%80%9A%E9%81%93&Refer=top)
+
+1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
+
+1. [林依晨](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8&Refer=top)
+
+1. [外交部希望美方展现自信和风度](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B8%8C%E6%9C%9B%E7%BE%8E%E6%96%B9%E5%B1%95%E7%8E%B0%E8%87%AA%E4%BF%A1%E5%92%8C%E9%A3%8E%E5%BA%A6%23&Refer=top)
+
+1. [防止政策养懒汉和泛福利化倾向](https://s.weibo.com//weibo?q=%23%E9%98%B2%E6%AD%A2%E6%94%BF%E7%AD%96%E5%85%BB%E6%87%92%E6%B1%89%E5%92%8C%E6%B3%9B%E7%A6%8F%E5%88%A9%E5%8C%96%E5%80%BE%E5%90%91%23&Refer=top)
+
+1. [小Tian](https://s.weibo.com//weibo?q=%E5%B0%8FTian&Refer=top)
+
+1. [赵丽颖告别四个小可爱](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%8A%E5%88%AB%E5%9B%9B%E4%B8%AA%E5%B0%8F%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [多半快递小哥月收入不超过5000元](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%8D%8A%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%85%E8%BF%875000%E5%85%83%23&Refer=top)
+
+1. [段奥娟工作室声明](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%A5%A5%E5%A8%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [如何用一句话证明是中国人](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AF%81%E6%98%8E%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&Refer=top)
+
+1. [俄罗斯外长拉夫罗夫乘船游漓江](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%B9%98%E8%88%B9%E6%B8%B8%E6%BC%93%E6%B1%9F%23&Refer=top)
+
+1. [全国人大常委会会议将审议涉港议案](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E4%BC%9A%E8%AE%AE%E5%B0%86%E5%AE%A1%E8%AE%AE%E6%B6%89%E6%B8%AF%E8%AE%AE%E6%A1%88%23&Refer=top)
+
+1. [景甜直播说陕西话](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E7%9B%B4%E6%92%AD%E8%AF%B4%E9%99%95%E8%A5%BF%E8%AF%9D%23&Refer=top)
+
+1. [难忍新冠后遗症美国一CEO自杀](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E5%BF%8D%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87%E7%BE%8E%E5%9B%BD%E4%B8%80CEO%E8%87%AA%E6%9D%80%23&Refer=top)
 
