@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 21:10:12
+## 微博今日热榜 更新于 2021-03-22 22:04:04
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -514,4 +514,34 @@
 1. [景甜直播说陕西话](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E7%9B%B4%E6%92%AD%E8%AF%B4%E9%99%95%E8%A5%BF%E8%AF%9D%23&Refer=top)
 
 1. [难忍新冠后遗症美国一CEO自杀](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E5%BF%8D%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87%E7%BE%8E%E5%9B%BD%E4%B8%80CEO%E8%87%AA%E6%9D%80%23&Refer=top)
+
+1. [杨幂微博评论](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
+
+1. [中方对欧方10人4实体实施制裁](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%AC%A7%E6%96%B910%E4%BA%BA4%E5%AE%9E%E4%BD%93%E5%AE%9E%E6%96%BD%E5%88%B6%E8%A3%81%23&Refer=top)
+
+1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
+
+1. [成都人房比超3倍楼盘5年限售](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E4%BA%BA%E6%88%BF%E6%AF%94%E8%B6%853%E5%80%8D%E6%A5%BC%E7%9B%985%E5%B9%B4%E9%99%90%E5%94%AE&Refer=top)
+
+1. [林依晨张孝全出演刘若英MV](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BE%9D%E6%99%A8%E5%BC%A0%E5%AD%9D%E5%85%A8%E5%87%BA%E6%BC%94%E5%88%98%E8%8B%A5%E8%8B%B1MV%23&Refer=top)
+
+1. [睡不好可能会变胖](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E4%B8%8D%E5%A5%BD%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%8F%98%E8%83%96%23&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [广州一村委会爆炸致5死5伤](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E6%9D%91%E5%A7%94%E4%BC%9A%E7%88%86%E7%82%B8%E8%87%B45%E6%AD%BB5%E4%BC%A4%23&Refer=top)
+
+1. [王源在雪场蛙了个泳](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%9C%A8%E9%9B%AA%E5%9C%BA%E8%9B%99%E4%BA%86%E4%B8%AA%E6%B3%B3%23&Refer=top)
+
+1. [美国亚裔单亲母亲街头遭枪杀](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E5%8D%95%E4%BA%B2%E6%AF%8D%E4%BA%B2%E8%A1%97%E5%A4%B4%E9%81%AD%E6%9E%AA%E6%9D%80%23&Refer=top)
+
+1. [Puff小炮五杀](https://s.weibo.com//weibo?q=Puff%E5%B0%8F%E7%82%AE%E4%BA%94%E6%9D%80&Refer=top)
+
+1. [专家称长城被刻字后修复难比登天](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%95%BF%E5%9F%8E%E8%A2%AB%E5%88%BB%E5%AD%97%E5%90%8E%E4%BF%AE%E5%A4%8D%E9%9A%BE%E6%AF%94%E7%99%BB%E5%A4%A9%23&Refer=top)
+
+1. [创作老版狮子王时曾找来真狮子](https://s.weibo.com//weibo?q=%E5%88%9B%E4%BD%9C%E8%80%81%E7%89%88%E7%8B%AE%E5%AD%90%E7%8E%8B%E6%97%B6%E6%9B%BE%E6%89%BE%E6%9D%A5%E7%9C%9F%E7%8B%AE%E5%AD%90&Refer=top)
+
+1. [进口芯片涨价20%](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E5%8F%A3%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B720%25%23&Refer=top)
+
+1. [iG战胜V5](https://s.weibo.com//weibo?q=%23iG%E6%88%98%E8%83%9CV5%23&Refer=top)
 
