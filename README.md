@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 17:07:45
+## 微博今日热榜 更新于 2021-03-22 18:07:51
 1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -418,4 +418,34 @@
 1. [假核酸阴性证明在多国泛滥](https://s.weibo.com//weibo?q=%23%E5%81%87%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%E5%9C%A8%E5%A4%9A%E5%9B%BD%E6%B3%9B%E6%BB%A5%23&Refer=top)
 
 1. [晒被子](https://s.weibo.com//weibo?q=%E6%99%92%E8%A2%AB%E5%AD%90&Refer=top)
+
+1. [华春莹称中俄关系坦坦荡荡光明磊落](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E7%A7%B0%E4%B8%AD%E4%BF%84%E5%85%B3%E7%B3%BB%E5%9D%A6%E5%9D%A6%E8%8D%A1%E8%8D%A1%E5%85%89%E6%98%8E%E7%A3%8A%E8%90%BD%23&Refer=top)
+
+1. [段奥娟前工作人员再发文](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%A5%A5%E5%A8%9F%E5%89%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%86%8D%E5%8F%91%E6%96%87%23&Refer=top)
+
+1. [费振刚去世](https://s.weibo.com//weibo?q=%23%E8%B4%B9%E6%8C%AF%E5%88%9A%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [保姆抱摔掌掴40天女婴](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%A7%86%E6%8A%B1%E6%91%94%E6%8E%8C%E6%8E%B440%E5%A4%A9%E5%A5%B3%E5%A9%B4%23&Refer=top)
+
+1. [电子烟将参照卷烟监管](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E7%83%9F%E5%B0%86%E5%8F%82%E7%85%A7%E5%8D%B7%E7%83%9F%E7%9B%91%E7%AE%A1%23&Refer=top)
+
+1. [土耳其里拉暴跌](https://s.weibo.com//weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%87%8C%E6%8B%89%E6%9A%B4%E8%B7%8C&Refer=top)
+
+1. [恶搞版创造营](https://s.weibo.com//weibo?q=%E6%81%B6%E6%90%9E%E7%89%88%E5%88%9B%E9%80%A0%E8%90%A5&Refer=top)
+
+1. [西安老年大学开化妆课](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E8%80%81%E5%B9%B4%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%8C%96%E5%A6%86%E8%AF%BE%23&Refer=top)
+
+1. [像极了你干饭的生物](https://s.weibo.com//weibo?q=%E5%83%8F%E6%9E%81%E4%BA%86%E4%BD%A0%E5%B9%B2%E9%A5%AD%E7%9A%84%E7%94%9F%E7%89%A9&Refer=top)
+
+1. [9个最新新冠疫苗接种要点](https://s.weibo.com//weibo?q=%239%E4%B8%AA%E6%9C%80%E6%96%B0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%A6%81%E7%82%B9%23&Refer=top)
+
+1. [盗版电影牵出特大赌博集团](https://s.weibo.com//weibo?q=%23%E7%9B%97%E7%89%88%E7%94%B5%E5%BD%B1%E7%89%B5%E5%87%BA%E7%89%B9%E5%A4%A7%E8%B5%8C%E5%8D%9A%E9%9B%86%E5%9B%A2%23&Refer=top)
+
+1. [迪丽热巴限定空间霓虹妆大片](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%90%E5%AE%9A%E7%A9%BA%E9%97%B4%E9%9C%93%E8%99%B9%E5%A6%86%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [拖延症患者最需要听的话](https://s.weibo.com//weibo?q=%23%E6%8B%96%E5%BB%B6%E7%97%87%E6%82%A3%E8%80%85%E6%9C%80%E9%9C%80%E8%A6%81%E5%90%AC%E7%9A%84%E8%AF%9D%23&Refer=top)
+
+1. [公安部破获盗掘古塔地宫古墓葬案](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AE%89%E9%83%A8%E7%A0%B4%E8%8E%B7%E7%9B%97%E6%8E%98%E5%8F%A4%E5%A1%94%E5%9C%B0%E5%AE%AB%E5%8F%A4%E5%A2%93%E8%91%AC%E6%A1%88%23&Refer=top)
+
+1. [美甲翻车风险有多大](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E7%94%B2%E7%BF%BB%E8%BD%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
 
