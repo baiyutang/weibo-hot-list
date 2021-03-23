@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 22:07:38
+## 微博今日热榜 更新于 2021-03-23 23:04:47
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -498,4 +498,26 @@
 1. [台官员被问是不是祈雨前没沐浴](https://s.weibo.com//weibo?q=%E5%8F%B0%E5%AE%98%E5%91%98%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A5%88%E9%9B%A8%E5%89%8D%E6%B2%A1%E6%B2%90%E6%B5%B4&Refer=top)
 
 1. [尼日尔至少137位平民被武装分子杀害](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%B0%94%E8%87%B3%E5%B0%91137%E4%BD%8D%E5%B9%B3%E6%B0%91%E8%A2%AB%E6%AD%A6%E8%A3%85%E5%88%86%E5%AD%90%E6%9D%80%E5%AE%B3%23&Refer=top)
+
+1. [姚策生父发声](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%AD%96%E7%94%9F%E7%88%B6%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [李佳琦白敬亭直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [天霸吃鸡](https://s.weibo.com//weibo?q=%E5%A4%A9%E9%9C%B8%E5%90%83%E9%B8%A1&Refer=top)
+
+1. [赵薇状态](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [山河令编剧](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E7%BC%96%E5%89%A7&Refer=top)
+
+1. [李聪](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%81%AA&Refer=top)
+
+1. [张哲瀚卡点发江湖再见](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%8D%A1%E7%82%B9%E5%8F%91%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81%23&Refer=top)
+
+1. [上海居民楼外墙脱落致一人死亡](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E6%A5%BC%E5%A4%96%E5%A2%99%E8%84%B1%E8%90%BD%E8%87%B4%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [十一娘和离专业户](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%80%E5%A8%98%E5%92%8C%E7%A6%BB%E4%B8%93%E4%B8%9A%E6%88%B7%23&Refer=top)
+
+1. [成都郫都区一厂房火灾](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E9%83%AB%E9%83%BD%E5%8C%BA%E4%B8%80%E5%8E%82%E6%88%BF%E7%81%AB%E7%81%BE&Refer=top)
+
+1. [被莫怀阳气死](https://s.weibo.com//weibo?q=%E8%A2%AB%E8%8E%AB%E6%80%80%E9%98%B3%E6%B0%94%E6%AD%BB&Refer=top)
 
