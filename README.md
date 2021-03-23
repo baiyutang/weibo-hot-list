@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 07:02:55
+## 微博今日热榜 更新于 2021-03-23 08:06:58
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -132,4 +132,44 @@
 1. [中共中央将召开2021年首场新闻发布会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%B0%86%E5%8F%AC%E5%BC%802021%E5%B9%B4%E9%A6%96%E5%9C%BA%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=new_time)
 
 1. [专家称长城被刻字后修复难比登天](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%95%BF%E5%9F%8E%E8%A2%AB%E5%88%BB%E5%AD%97%E5%90%8E%E4%BF%AE%E5%A4%8D%E9%9A%BE%E6%AF%94%E7%99%BB%E5%A4%A9%23&Refer=top)
+
+1. [323世界气象日](https://s.weibo.com//weibo?q=%23323%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E6%97%A5%23&Refer=new_time)
+
+1. [廖启智 胃癌](https://s.weibo.com//weibo?q=%E5%BB%96%E5%90%AF%E6%99%BA%20%E8%83%83%E7%99%8C&Refer=top)
+
+1. [华春莹敦促美方保护亚裔合法权益](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E4%BF%9D%E6%8A%A4%E4%BA%9A%E8%A3%94%E5%90%88%E6%B3%95%E6%9D%83%E7%9B%8A%23&Refer=top)
+
+1. [三星堆最大青铜尊被提取](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E6%9C%80%E5%A4%A7%E9%9D%92%E9%93%9C%E5%B0%8A%E8%A2%AB%E6%8F%90%E5%8F%96&Refer=top)
+
+1. [谭松韵红色朝服造型](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%BA%A2%E8%89%B2%E6%9C%9D%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [陕西省考准考证](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E7%9C%81%E8%80%83%E5%87%86%E8%80%83%E8%AF%81&Refer=top)
+
+1. [刘涛 我的身材我做主](https://s.weibo.com//weibo?q=%E5%88%98%E6%B6%9B%20%E6%88%91%E7%9A%84%E8%BA%AB%E6%9D%90%E6%88%91%E5%81%9A%E4%B8%BB&Refer=top)
+
+1. [埃尔金贝勒去世](https://s.weibo.com//weibo?q=%E5%9F%83%E5%B0%94%E9%87%91%E8%B4%9D%E5%8B%92%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [为什么现实中看不到帅哥](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%B8%85%E5%93%A5%23&Refer=top)
+
+1. [李晟说李佳航是极品黑](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%9F%E8%AF%B4%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%98%AF%E6%9E%81%E5%93%81%E9%BB%91%23&Refer=top)
+
+1. [美国新冠肺炎超2985万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852985%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [山河令34](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A434%23&Refer=top)
+
+1. [王毅会见俄罗斯外长拉夫罗夫](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%23&Refer=top)
+
+1. [松露为何如此珍贵](https://s.weibo.com//weibo?q=%E6%9D%BE%E9%9C%B2%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E7%8F%8D%E8%B4%B5&Refer=top)
+
+1. [良品铺子鸡肉肠](https://s.weibo.com//weibo?q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E9%B8%A1%E8%82%89%E8%82%A0&Refer=top)
+
+1. [和猫咪的X光合照](https://s.weibo.com//weibo?q=%23%E5%92%8C%E7%8C%AB%E5%92%AA%E7%9A%84X%E5%85%89%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [张政任河北省委常委](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%94%BF%E4%BB%BB%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E5%B8%B8%E5%A7%94&Refer=top)
+
+1. [航拍夜幕下的樱花](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E5%A4%9C%E5%B9%95%E4%B8%8B%E7%9A%84%E6%A8%B1%E8%8A%B1%23&Refer=top)
+
+1. [歼10战机23岁](https://s.weibo.com//weibo?q=%E6%AD%BC10%E6%88%98%E6%9C%BA23%E5%B2%81&Refer=top)
+
+1. [皓衣行](https://s.weibo.com//weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&Refer=top)
 
