@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 10:23:48
+## 微博今日热榜 更新于 2021-03-23 11:06:44
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -220,4 +220,22 @@
 1. [韩国推出抗日游戏](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%8E%A8%E5%87%BA%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%23&Refer=top)
 
 1. [网约车账号产生异地订单](https://s.weibo.com//weibo?q=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%B4%A6%E5%8F%B7%E4%BA%A7%E7%94%9F%E5%BC%82%E5%9C%B0%E8%AE%A2%E5%8D%95&Refer=top)
+
+1. [中国共产党成立100周年庆祝大会](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [妲己女仆咖啡](https://s.weibo.com//weibo?q=%23%E5%A6%B2%E5%B7%B1%E5%A5%B3%E4%BB%86%E5%92%96%E5%95%A1%23&Refer=top)
+
+1. [新浪完成私有化](https://s.weibo.com//weibo?q=%E6%96%B0%E6%B5%AA%E5%AE%8C%E6%88%90%E7%A7%81%E6%9C%89%E5%8C%96&Refer=top)
+
+1. [三星堆4号坑距今约3200年至3000年](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%864%E5%8F%B7%E5%9D%91%E8%B7%9D%E4%BB%8A%E7%BA%A63200%E5%B9%B4%E8%87%B33000%E5%B9%B4%23&Refer=top)
+
+1. [推特CEO第一条推文拍出290万美元](https://s.weibo.com//weibo?q=%E6%8E%A8%E7%89%B9CEO%E7%AC%AC%E4%B8%80%E6%9D%A1%E6%8E%A8%E6%96%87%E6%8B%8D%E5%87%BA290%E4%B8%87%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [欧文因家事缺席客场比赛](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%87%E5%9B%A0%E5%AE%B6%E4%BA%8B%E7%BC%BA%E5%B8%AD%E5%AE%A2%E5%9C%BA%E6%AF%94%E8%B5%9B&Refer=top)
+
+1. [张艺谋悬崖之上定档](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A%E5%AE%9A%E6%A1%A3&Refer=top)
+
+1. [延续实施应对疫情部分税费优惠政策](https://s.weibo.com//weibo?q=%E5%BB%B6%E7%BB%AD%E5%AE%9E%E6%96%BD%E5%BA%94%E5%AF%B9%E7%96%AB%E6%83%85%E9%83%A8%E5%88%86%E7%A8%8E%E8%B4%B9%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96&Refer=top)
+
+1. [小学生写给春天的诗有多可爱](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%86%99%E7%BB%99%E6%98%A5%E5%A4%A9%E7%9A%84%E8%AF%97%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
 
