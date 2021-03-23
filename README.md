@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 21:15:44
+## 微博今日热榜 更新于 2021-03-23 22:07:38
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -480,4 +480,22 @@
 1. [山西大学回应断电](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%96%AD%E7%94%B5&Refer=top)
 
 1. [马闻远回复龚俊高仿号](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%97%BB%E8%BF%9C%E5%9B%9E%E5%A4%8D%E9%BE%9A%E4%BF%8A%E9%AB%98%E4%BB%BF%E5%8F%B7%23&Refer=top)
+
+1. [韩国检方扣押朴槿惠私宅](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E6%89%A3%E6%8A%BC%E6%9C%B4%E6%A7%BF%E6%83%A0%E7%A7%81%E5%AE%85%23&Refer=top)
+
+1. [浪浪钉花海](https://s.weibo.com//weibo?q=%E6%B5%AA%E6%B5%AA%E9%92%89%E8%8A%B1%E6%B5%B7&Refer=top)
+
+1. [周子舒赴死](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%AD%90%E8%88%92%E8%B5%B4%E6%AD%BB%23&Refer=top)
+
+1. [你是我的城池营垒](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92&Refer=top)
+
+1. [限高男子冒用他人身份坐一等座](https://s.weibo.com//weibo?q=%E9%99%90%E9%AB%98%E7%94%B7%E5%AD%90%E5%86%92%E7%94%A8%E4%BB%96%E4%BA%BA%E8%BA%AB%E4%BB%BD%E5%9D%90%E4%B8%80%E7%AD%89%E5%BA%A7&Refer=top)
+
+1. [文物可以有多可爱](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%89%A9%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [司藤白英水下大战](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E7%99%BD%E8%8B%B1%E6%B0%B4%E4%B8%8B%E5%A4%A7%E6%88%98%23&Refer=top)
+
+1. [台官员被问是不是祈雨前没沐浴](https://s.weibo.com//weibo?q=%E5%8F%B0%E5%AE%98%E5%91%98%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A5%88%E9%9B%A8%E5%89%8D%E6%B2%A1%E6%B2%90%E6%B5%B4&Refer=top)
+
+1. [尼日尔至少137位平民被武装分子杀害](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%B0%94%E8%87%B3%E5%B0%91137%E4%BD%8D%E5%B9%B3%E6%B0%91%E8%A2%AB%E6%AD%A6%E8%A3%85%E5%88%86%E5%AD%90%E6%9D%80%E5%AE%B3%23&Refer=top)
 
