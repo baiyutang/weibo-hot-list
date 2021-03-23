@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 14:05:35
+## 微博今日热榜 更新于 2021-03-23 15:03:17
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -312,4 +312,22 @@
 1. [37次考古只发掘三星堆的千分之二](https://s.weibo.com//weibo?q=37%E6%AC%A1%E8%80%83%E5%8F%A4%E5%8F%AA%E5%8F%91%E6%8E%98%E4%B8%89%E6%98%9F%E5%A0%86%E7%9A%84%E5%8D%83%E5%88%86%E4%B9%8B%E4%BA%8C&Refer=top)
 
 1. [在长城刻字3人被列入旅游黑名单](https://s.weibo.com//weibo?q=%E5%9C%A8%E9%95%BF%E5%9F%8E%E5%88%BB%E5%AD%973%E4%BA%BA%E8%A2%AB%E5%88%97%E5%85%A5%E6%97%85%E6%B8%B8%E9%BB%91%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [马思纯眼光](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%9C%BC%E5%85%89&Refer=top)
+
+1. [全国基本实现一码通行](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0%E4%B8%80%E7%A0%81%E9%80%9A%E8%A1%8C%23&Refer=top)
+
+1. [加拿大跟随英美制裁中国](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B7%9F%E9%9A%8F%E8%8B%B1%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [N2](https://s.weibo.com//weibo?q=N2&Refer=top)
+
+1. [高校称学生吐槽内容大部分系谣言](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E7%A7%B0%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E5%86%85%E5%AE%B9%E5%A4%A7%E9%83%A8%E5%88%86%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top)
+
+1. [哈尔滨要求清明祭扫无纸可烧](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E8%A6%81%E6%B1%82%E6%B8%85%E6%98%8E%E7%A5%AD%E6%89%AB%E6%97%A0%E7%BA%B8%E5%8F%AF%E7%83%A7%23&Refer=top)
+
+1. [宋雨琦回国](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%9B%BD%23&Refer=top)
+
+1. [马斯克称中国将成为新能源汽车最大市场](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%88%90%E4%B8%BA%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%80%E5%A4%A7%E5%B8%82%E5%9C%BA&Refer=top)
+
+1. [三星堆5号坑提取出椭圆形玉器](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%865%E5%8F%B7%E5%9D%91%E6%8F%90%E5%8F%96%E5%87%BA%E6%A4%AD%E5%9C%86%E5%BD%A2%E7%8E%89%E5%99%A8%23&Refer=top)
 
