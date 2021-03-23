@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 15:03:17
+## 微博今日热榜 更新于 2021-03-23 16:03:23
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -330,4 +330,34 @@
 1. [马斯克称中国将成为新能源汽车最大市场](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%88%90%E4%B8%BA%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%80%E5%A4%A7%E5%B8%82%E5%9C%BA&Refer=top)
 
 1. [三星堆5号坑提取出椭圆形玉器](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%865%E5%8F%B7%E5%9D%91%E6%8F%90%E5%8F%96%E5%87%BA%E6%A4%AD%E5%9C%86%E5%BD%A2%E7%8E%89%E5%99%A8%23&Refer=top)
+
+1. [错换人生当事人姚策去世](https://s.weibo.com//weibo?q=%23%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%A7%9A%E7%AD%96%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [亚裔奶奶捐出网友捐款帮助亚裔群体](https://s.weibo.com//weibo?q=%E4%BA%9A%E8%A3%94%E5%A5%B6%E5%A5%B6%E6%8D%90%E5%87%BA%E7%BD%91%E5%8F%8B%E6%8D%90%E6%AC%BE%E5%B8%AE%E5%8A%A9%E4%BA%9A%E8%A3%94%E7%BE%A4%E4%BD%93&Refer=top)
+
+1. [子健 祝贺小乐](https://s.weibo.com//weibo?q=%E5%AD%90%E5%81%A5%20%E7%A5%9D%E8%B4%BA%E5%B0%8F%E4%B9%90&Refer=top)
+
+1. [司藤民国大小姐仿妆](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E6%B0%91%E5%9B%BD%E5%A4%A7%E5%B0%8F%E5%A7%90%E4%BB%BF%E5%A6%86%23&Refer=top)
+
+1. [天气预报是怎么做出来的](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top)
+
+1. [双一流建设评价摒弃数论文数帽子](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E4%B8%80%E6%B5%81%E5%BB%BA%E8%AE%BE%E8%AF%84%E4%BB%B7%E6%91%92%E5%BC%83%E6%95%B0%E8%AE%BA%E6%96%87%E6%95%B0%E5%B8%BD%E5%AD%90%23&Refer=top)
+
+1. [武警直招高校应届生公告](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E8%AD%A6%E7%9B%B4%E6%8B%9B%E9%AB%98%E6%A0%A1%E5%BA%94%E5%B1%8A%E7%94%9F%E5%85%AC%E5%91%8A%23&Refer=top)
+
+1. [王毅回应中国搞疫苗外交](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%90%9E%E7%96%AB%E8%8B%97%E5%A4%96%E4%BA%A4&Refer=top)
+
+1. [三星堆出土的那些小动物](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E7%9A%84%E9%82%A3%E4%BA%9B%E5%B0%8F%E5%8A%A8%E7%89%A9&Refer=top)
+
+1. [女孩遇到危险如何自救](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%87%E5%88%B0%E5%8D%B1%E9%99%A9%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%23&Refer=top)
+
+1. [使用加湿器不当可致肺炎](https://s.weibo.com//weibo?q=%23%E4%BD%BF%E7%94%A8%E5%8A%A0%E6%B9%BF%E5%99%A8%E4%B8%8D%E5%BD%93%E5%8F%AF%E8%87%B4%E8%82%BA%E7%82%8E%23&Refer=top)
+
+1. [耗时4个月用石头拼出沁园春](https://s.weibo.com//weibo?q=%E8%80%97%E6%97%B64%E4%B8%AA%E6%9C%88%E7%94%A8%E7%9F%B3%E5%A4%B4%E6%8B%BC%E5%87%BA%E6%B2%81%E5%9B%AD%E6%98%A5&Refer=top)
+
+1. [证券从业资格证报名](https://s.weibo.com//weibo?q=%E8%AF%81%E5%88%B8%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E6%8A%A5%E5%90%8D&Refer=top)
+
+1. [三星堆最大青铜尊浮土清理露真容](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E6%9C%80%E5%A4%A7%E9%9D%92%E9%93%9C%E5%B0%8A%E6%B5%AE%E5%9C%9F%E6%B8%85%E7%90%86%E9%9C%B2%E7%9C%9F%E5%AE%B9%23&Refer=top)
+
+1. [第一视角体验家暴](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E4%BD%93%E9%AA%8C%E5%AE%B6%E6%9A%B4&Refer=top)
 
