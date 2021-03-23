@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 08:06:58
+## 微博今日热榜 更新于 2021-03-23 09:38:54
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -172,4 +172,34 @@
 1. [歼10战机23岁](https://s.weibo.com//weibo?q=%E6%AD%BC10%E6%88%98%E6%9C%BA23%E5%B2%81&Refer=top)
 
 1. [皓衣行](https://s.weibo.com//weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&Refer=top)
+
+1. [习近平福建考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%8F%E5%BB%BA%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
+
+1. [央视曝剑桥英语考试天价考位黑幕](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%89%91%E6%A1%A5%E8%8B%B1%E8%AF%AD%E8%80%83%E8%AF%95%E5%A4%A9%E4%BB%B7%E8%80%83%E4%BD%8D%E9%BB%91%E5%B9%95%23&Refer=top)
+
+1. [西藏冒险王遗体确认](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E5%86%92%E9%99%A9%E7%8E%8B%E9%81%97%E4%BD%93%E7%A1%AE%E8%AE%A4%23&Refer=top)
+
+1. [张京临场翻译高能时刻](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%AC%E4%B8%B4%E5%9C%BA%E7%BF%BB%E8%AF%91%E9%AB%98%E8%83%BD%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [专家说三星堆绝不可能是外星文明](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E4%B8%89%E6%98%9F%E5%A0%86%E7%BB%9D%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%98%AF%E5%A4%96%E6%98%9F%E6%96%87%E6%98%8E%23&Refer=top)
+
+1. [吉林发现巨型黑曜岩石叶石核](https://s.weibo.com//weibo?q=%E5%90%89%E6%9E%97%E5%8F%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E9%BB%91%E6%9B%9C%E5%B2%A9%E7%9F%B3%E5%8F%B6%E7%9F%B3%E6%A0%B8&Refer=top)
+
+1. [网吧一年倒闭超12000家](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%90%A7%E4%B8%80%E5%B9%B4%E5%80%92%E9%97%AD%E8%B6%8512000%E5%AE%B6%23&Refer=top)
+
+1. [链家上海下架万套二手房源](https://s.weibo.com//weibo?q=%23%E9%93%BE%E5%AE%B6%E4%B8%8A%E6%B5%B7%E4%B8%8B%E6%9E%B6%E4%B8%87%E5%A5%97%E4%BA%8C%E6%89%8B%E6%88%BF%E6%BA%90%23&Refer=top)
+
+1. [山东58岁高龄产妇生双胞胎](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C58%E5%B2%81%E9%AB%98%E9%BE%84%E4%BA%A7%E5%A6%87%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%23&Refer=top)
+
+1. [名创优品回应装万店掌摄像头](https://s.weibo.com//weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E5%9B%9E%E5%BA%94%E8%A3%85%E4%B8%87%E5%BA%97%E6%8E%8C%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
+
+1. [狗子专属的电视频道](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E4%B8%93%E5%B1%9E%E7%9A%84%E7%94%B5%E8%A7%86%E9%A2%91%E9%81%93%23&Refer=top)
+
+1. [深圳地铁坪洲](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%9D%AA%E6%B4%B2&Refer=top)
+
+1. [郑云龙德龄与慈禧](https://s.weibo.com//weibo?q=%E9%83%91%E4%BA%91%E9%BE%99%E5%BE%B7%E9%BE%84%E4%B8%8E%E6%85%88%E7%A6%A7&Refer=top)
+
+1. [深圳二手房网签量近乎腰斩](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%8C%E6%89%8B%E6%88%BF%E7%BD%91%E7%AD%BE%E9%87%8F%E8%BF%91%E4%B9%8E%E8%85%B0%E6%96%A9%23&Refer=top)
+
+1. [2025年乡村振兴全面推进](https://s.weibo.com//weibo?q=%232025%E5%B9%B4%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%23&Refer=top)
 
