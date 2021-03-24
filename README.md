@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 07:03:06
+## 微博今日热榜 更新于 2021-03-24 08:07:09
 1. [习近平福建考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%8F%E5%BB%BA%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -130,4 +130,34 @@
 1. [FIFAonline3关服](https://s.weibo.com//weibo?q=%23FIFAonline3%E5%85%B3%E6%9C%8D%23&Refer=top)
 
 1. [加拿大跟随英美制裁中国](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B7%9F%E9%9A%8F%E8%8B%B1%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [中国共产党成立100周年庆祝活动标识](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%B4%BB%E5%8A%A8%E6%A0%87%E8%AF%86%23&Refer=top)
+
+1. [赵薇聊当初选中张哲瀚原因](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E8%81%8A%E5%BD%93%E5%88%9D%E9%80%89%E4%B8%AD%E5%BC%A0%E5%93%B2%E7%80%9A%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [白敬亭 拜托拜托啾咪](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E6%8B%9C%E6%89%98%E6%8B%9C%E6%89%98%E5%95%BE%E5%92%AA&Refer=top)
+
+1. [多种新冠病毒变异株在全美快速传播](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E7%A7%8D%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%8F%98%E5%BC%82%E6%A0%AA%E5%9C%A8%E5%85%A8%E7%BE%8E%E5%BF%AB%E9%80%9F%E4%BC%A0%E6%92%AD%23&Refer=top)
+
+1. [山河令结局打戏前后呼应](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E7%BB%93%E5%B1%80%E6%89%93%E6%88%8F%E5%89%8D%E5%90%8E%E5%91%BC%E5%BA%94%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [金莎 愿意变胖十斤回到2007](https://s.weibo.com//weibo?q=%E9%87%91%E8%8E%8E%20%E6%84%BF%E6%84%8F%E5%8F%98%E8%83%96%E5%8D%81%E6%96%A4%E5%9B%9E%E5%88%B02007&Refer=top)
+
+1. [戴希希发现孩子不是段序的](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B8%8C%E5%B8%8C%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E6%AE%B5%E5%BA%8F%E7%9A%84%23&Refer=top)
+
+1. [马王堆曾发现中国最早结核菌](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E7%8E%8B%E5%A0%86%E6%9B%BE%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%97%A9%E7%BB%93%E6%A0%B8%E8%8F%8C%23&Refer=top)
+
+1. [村民花16年把荒山变花谷](https://s.weibo.com//weibo?q=%23%E6%9D%91%E6%B0%91%E8%8A%B116%E5%B9%B4%E6%8A%8A%E8%8D%92%E5%B1%B1%E5%8F%98%E8%8A%B1%E8%B0%B7%23&Refer=top)
+
+1. [林俊杰隔离vlog](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9A%94%E7%A6%BBvlog&Refer=top)
+
+1. [锦心似玉](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top)
+
+1. [美国新冠肺炎超2990万例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852990%E4%B8%87%E4%BE%8B&Refer=top)
+
+1. [张哲瀚灵气](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E7%81%B5%E6%B0%94&Refer=top)
+
+1. [普京接种俄罗斯产新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8E%A5%E7%A7%8D%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%A7%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
 
