@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 20:06:55
+## 微博今日热榜 更新于 2021-03-24 21:08:45
 1. [习近平福建考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%8F%E5%BB%BA%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -520,4 +520,32 @@
 1. [多家电商平台下架HM](https://s.weibo.com//weibo?q=%E5%A4%9A%E5%AE%B6%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6HM&Refer=top)
 
 1. [小米第四季度财报](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E8%B4%A2%E6%8A%A5&Refer=top)
+
+1. [央视评HM抵制新疆棉花](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84HM%E6%8A%B5%E5%88%B6%E6%96%B0%E7%96%86%E6%A3%89%E8%8A%B1%23&Refer=top)
+
+1. [肖宇梁](https://s.weibo.com//weibo?q=%E8%82%96%E5%AE%87%E6%A2%81&Refer=top)
+
+1. [华春莹回应美方称人不是谈判的筹码](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E7%A7%B0%E4%BA%BA%E4%B8%8D%E6%98%AF%E8%B0%88%E5%88%A4%E7%9A%84%E7%AD%B9%E7%A0%81%23&Refer=top)
+
+1. [员工接到通知休假回来发现被开除](https://s.weibo.com//weibo?q=%E5%91%98%E5%B7%A5%E6%8E%A5%E5%88%B0%E9%80%9A%E7%9F%A5%E4%BC%91%E5%81%87%E5%9B%9E%E6%9D%A5%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%BC%80%E9%99%A4&Refer=top)
+
+1. [景甜张彬彬上班图](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%B8%8A%E7%8F%AD%E5%9B%BE%23&Refer=top)
+
+1. [甘孜文旅局长称自己颜值太普通](https://s.weibo.com//weibo?q=%23%E7%94%98%E5%AD%9C%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E7%A7%B0%E8%87%AA%E5%B7%B1%E9%A2%9C%E5%80%BC%E5%A4%AA%E6%99%AE%E9%80%9A%23&Refer=top)
+
+1. [哈尔滨风华小学6名学生感染诺如病毒](https://s.weibo.com//weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%A3%8E%E5%8D%8E%E5%B0%8F%E5%AD%A66%E5%90%8D%E5%AD%A6%E7%94%9F%E6%84%9F%E6%9F%93%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92&Refer=top)
+
+1. [东京奥运会第一棒火炬手请辞](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%E8%AF%B7%E8%BE%9E&Refer=top)
+
+1. [京粤大战](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top)
+
+1. [张哲瀚工作室微博评论](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%23&Refer=top)
+
+1. [华春莹5个不字回应无礼的欧洲国家](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B95%E4%B8%AA%E4%B8%8D%E5%AD%97%E5%9B%9E%E5%BA%94%E6%97%A0%E7%A4%BC%E7%9A%84%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%23&Refer=top)
+
+1. [张文宏谈新冠疫苗接种率](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%8E%87%23&Refer=top)
+
+1. [张艺兴直播](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [三星堆上新文物多地有同款](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E4%B8%8A%E6%96%B0%E6%96%87%E7%89%A9%E5%A4%9A%E5%9C%B0%E6%9C%89%E5%90%8C%E6%AC%BE%23&Refer=top)
 
