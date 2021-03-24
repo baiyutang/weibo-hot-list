@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 17:07:53
+## 微博今日热榜 更新于 2021-03-24 18:07:58
 1. [习近平福建考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%8F%E5%BB%BA%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -448,4 +448,28 @@
 1. [去年美国平均每天110多人死于枪击](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9110%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%8E%E6%9E%AA%E5%87%BB%23&Refer=top)
 
 1. [初恋酸奶山楂精灵球](https://s.weibo.com//weibo?q=%23%E5%88%9D%E6%81%8B%E9%85%B8%E5%A5%B6%E5%B1%B1%E6%A5%82%E7%B2%BE%E7%81%B5%E7%90%83%23&Refer=top)
+
+1. [姚明明道歉](https://s.weibo.com//weibo?q=%E5%A7%9A%E6%98%8E%E6%98%8E%E9%81%93%E6%AD%89&Refer=top)
+
+1. [宋茜终止与HM合作](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%BB%88%E6%AD%A2%E4%B8%8EHM%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [彭于晏 单身的请举手](https://s.weibo.com//weibo?q=%E5%BD%AD%E4%BA%8E%E6%99%8F%20%E5%8D%95%E8%BA%AB%E7%9A%84%E8%AF%B7%E4%B8%BE%E6%89%8B&Refer=top)
+
+1. [美国25%亚裔年轻人成种族欺凌目标](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD25%25%E4%BA%9A%E8%A3%94%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%88%90%E7%A7%8D%E6%97%8F%E6%AC%BA%E5%87%8C%E7%9B%AE%E6%A0%87%23&Refer=top)
+
+1. [马斯克点赞中国碳达峰目标](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E7%A2%B3%E8%BE%BE%E5%B3%B0%E7%9B%AE%E6%A0%87%23&Refer=top)
+
+1. [男子离婚330万元房产仅得2.8万元](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A330%E4%B8%87%E5%85%83%E6%88%BF%E4%BA%A7%E4%BB%85%E5%BE%972.8%E4%B8%87%E5%85%83&Refer=top)
+
+1. [南宁警方调查女子疑遭多人暴力侵害](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%AE%81%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E5%A5%B3%E5%AD%90%E7%96%91%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%9A%B4%E5%8A%9B%E4%BE%B5%E5%AE%B3%23&Refer=top)
+
+1. [听姐说](https://s.weibo.com//weibo?q=%E5%90%AC%E5%A7%90%E8%AF%B4&Refer=top)
+
+1. [2020美国警察只有18天没有杀人](https://s.weibo.com//weibo?q=%232020%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%8F%AA%E6%9C%8918%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%9D%80%E4%BA%BA%23&Refer=top)
+
+1. [风吹麦浪能有多治愈](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E5%90%B9%E9%BA%A6%E6%B5%AA%E8%83%BD%E6%9C%89%E5%A4%9A%E6%B2%BB%E6%84%88%23&Refer=top)
+
+1. [原来富士山是私人财产](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%98%AF%E7%A7%81%E4%BA%BA%E8%B4%A2%E4%BA%A7%23&Refer=top)
+
+1. [特斯拉回应支持比特币付款](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E6%94%AF%E6%8C%81%E6%AF%94%E7%89%B9%E5%B8%81%E4%BB%98%E6%AC%BE&Refer=top)
 
