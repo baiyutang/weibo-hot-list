@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 22:01:26
+## 微博今日热榜 更新于 2021-03-24 23:01:25
 1. [习近平福建考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%8F%E5%BB%BA%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -566,4 +566,28 @@
 1. [圆明园擅自施工被责令恢复文物原状](https://s.weibo.com//weibo?q=%23%E5%9C%86%E6%98%8E%E5%9B%AD%E6%93%85%E8%87%AA%E6%96%BD%E5%B7%A5%E8%A2%AB%E8%B4%A3%E4%BB%A4%E6%81%A2%E5%A4%8D%E6%96%87%E7%89%A9%E5%8E%9F%E7%8A%B6%23&Refer=top)
 
 1. [蔡徐坤加盟冬梦之约](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8A%A0%E7%9B%9F%E5%86%AC%E6%A2%A6%E4%B9%8B%E7%BA%A6%23&Refer=top)
+
+1. [共青团中央点名HM](https://s.weibo.com//weibo?q=%23%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E7%82%B9%E5%90%8DHM%23&Refer=top)
+
+1. [听完日媒记者的提问华春莹笑了](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%AE%8C%E6%97%A5%E5%AA%92%E8%AE%B0%E8%80%85%E7%9A%84%E6%8F%90%E9%97%AE%E5%8D%8E%E6%98%A5%E8%8E%B9%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [我支持新疆棉花](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%94%AF%E6%8C%81%E6%96%B0%E7%96%86%E6%A3%89%E8%8A%B1%23&Refer=top)
+
+1. [刘雨昕金发](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E9%87%91%E5%8F%91%23&Refer=top)
+
+1. [听新疆棉农讲真实采棉](https://s.weibo.com//weibo?q=%23%E5%90%AC%E6%96%B0%E7%96%86%E6%A3%89%E5%86%9C%E8%AE%B2%E7%9C%9F%E5%AE%9E%E9%87%87%E6%A3%89%23&Refer=top)
+
+1. [韩国1月新生儿数量创新低](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD1%E6%9C%88%E6%96%B0%E7%94%9F%E5%84%BF%E6%95%B0%E9%87%8F%E5%88%9B%E6%96%B0%E4%BD%8E%23&Refer=top)
+
+1. [黄子韬直播](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [高清黑洞照片](https://s.weibo.com//weibo?q=%E9%AB%98%E6%B8%85%E9%BB%91%E6%B4%9E%E7%85%A7%E7%89%87&Refer=top)
+
+1. [福建一协会出台奶茶标准](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%8D%8F%E4%BC%9A%E5%87%BA%E5%8F%B0%E5%A5%B6%E8%8C%B6%E6%A0%87%E5%87%86&Refer=top)
+
+1. [陈盈骏王旭冲突](https://s.weibo.com//weibo?q=%E9%99%88%E7%9B%88%E9%AA%8F%E7%8E%8B%E6%97%AD%E5%86%B2%E7%AA%81&Refer=top)
+
+1. [全国文物大battle](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%87%E7%89%A9%E5%A4%A7battle%23&Refer=top)
+
+1. [戴希希段序重逢](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B8%8C%E5%B8%8C%E6%AE%B5%E5%BA%8F%E9%87%8D%E9%80%A2%23&Refer=top)
 
