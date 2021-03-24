@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 12:01:27
+## 微博今日热榜 更新于 2021-03-24 13:03:40
 1. [习近平福建考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%8F%E5%BB%BA%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -282,4 +282,36 @@
 1. [小朋友拉肚子的经历](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%8B%89%E8%82%9A%E5%AD%90%E7%9A%84%E7%BB%8F%E5%8E%86%23&Refer=top)
 
 1. [国产樱桃身价碾压进口车厘子](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%A8%B1%E6%A1%83%E8%BA%AB%E4%BB%B7%E7%A2%BE%E5%8E%8B%E8%BF%9B%E5%8F%A3%E8%BD%A6%E5%8E%98%E5%AD%90%23&Refer=top)
+
+1. [彭昱畅什么时候能有吻戏](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E6%9C%89%E5%90%BB%E6%88%8F%23&Refer=top)
+
+1. [海底捞人均消费超110元](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%BA%BA%E5%9D%87%E6%B6%88%E8%B4%B9%E8%B6%85110%E5%85%83%23&Refer=top)
+
+1. [郑州财经学院一男生在公寓死亡](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E8%B4%A2%E7%BB%8F%E5%AD%A6%E9%99%A2%E4%B8%80%E7%94%B7%E7%94%9F%E5%9C%A8%E5%85%AC%E5%AF%93%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [永和豆浆自称国饮被罚30万元](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E5%92%8C%E8%B1%86%E6%B5%86%E8%87%AA%E7%A7%B0%E5%9B%BD%E9%A5%AE%E8%A2%AB%E7%BD%9A30%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [张彬彬说长得帅不代表没有实力](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E8%AF%B4%E9%95%BF%E5%BE%97%E5%B8%85%E4%B8%8D%E4%BB%A3%E8%A1%A8%E6%B2%A1%E6%9C%89%E5%AE%9E%E5%8A%9B%23&Refer=top)
+
+1. [万达商业撤回A股上市申请](https://s.weibo.com//weibo?q=%23%E4%B8%87%E8%BE%BE%E5%95%86%E4%B8%9A%E6%92%A4%E5%9B%9EA%E8%82%A1%E4%B8%8A%E5%B8%82%E7%94%B3%E8%AF%B7%23&Refer=top)
+
+1. [当消防员洗澡时遇上出警](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%B6%88%E9%98%B2%E5%91%98%E6%B4%97%E6%BE%A1%E6%97%B6%E9%81%87%E4%B8%8A%E5%87%BA%E8%AD%A6%23&Refer=top)
+
+1. [5杯水如何分给6个领导](https://s.weibo.com//weibo?q=%235%E6%9D%AF%E6%B0%B4%E5%A6%82%E4%BD%95%E5%88%86%E7%BB%996%E4%B8%AA%E9%A2%86%E5%AF%BC%23&Refer=top)
+
+1. [艾回](https://s.weibo.com//weibo?q=%E8%89%BE%E5%9B%9E&Refer=top)
+
+1. [甘孜文旅局长回应](https://s.weibo.com//weibo?q=%E7%94%98%E5%AD%9C%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [时速160公里地铁计划年内开通](https://s.weibo.com//weibo?q=%23%E6%97%B6%E9%80%9F160%E5%85%AC%E9%87%8C%E5%9C%B0%E9%93%81%E8%AE%A1%E5%88%92%E5%B9%B4%E5%86%85%E5%BC%80%E9%80%9A%23&Refer=top)
+
+1. [姚策告别仪式](https://s.weibo.com//weibo?q=%E5%A7%9A%E7%AD%96%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F&Refer=top)
+
+1. [操场埋尸案校长狱中忏悔](https://s.weibo.com//weibo?q=%23%E6%93%8D%E5%9C%BA%E5%9F%8B%E5%B0%B8%E6%A1%88%E6%A0%A1%E9%95%BF%E7%8B%B1%E4%B8%AD%E5%BF%8F%E6%82%94%23&Refer=top)
+
+1. [篮网战胜开拓者](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%E6%88%98%E8%83%9C%E5%BC%80%E6%8B%93%E8%80%85&Refer=top)
+
+1. [哈登暴扣](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E6%9A%B4%E6%89%A3&Refer=top)
+
+1. [全校小学生一起跳hiphop](https://s.weibo.com//weibo?q=%23%E5%85%A8%E6%A0%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%80%E8%B5%B7%E8%B7%B3hiphop%23&Refer=top)
 
