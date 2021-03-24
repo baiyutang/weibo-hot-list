@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-25 05:01:14
+## 微博今日热榜 更新于 2021-03-25 06:01:15
 1. [9张图带你看懂这个重要标识](https://s.weibo.com//weibo?q=%239%E5%BC%A0%E5%9B%BE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E6%87%82%E8%BF%99%E4%B8%AA%E9%87%8D%E8%A6%81%E6%A0%87%E8%AF%86%23&Refer=new_time)
 
 1. [耐克](https://s.weibo.com//weibo?q=%E8%80%90%E5%85%8B&Refer=top)
