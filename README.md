@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-26 03:10:43
+## 微博今日热榜 更新于 2021-03-26 04:01:09
 1. [希望有福之州更好造福于民](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9C%9B%E6%9C%89%E7%A6%8F%E4%B9%8B%E5%B7%9E%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%8E%E6%B0%91%23&Refer=new_time)
 
 1. [FILA中国退出BCI](https://s.weibo.com//weibo?q=%23FILA%E4%B8%AD%E5%9B%BD%E9%80%80%E5%87%BABCI%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [费加罗风尚盛典](https://s.weibo.com//weibo?q=%23%E8%B4%B9%E5%8A%A0%E7%BD%97%E9%A3%8E%E5%B0%9A%E7%9B%9B%E5%85%B8%23&Refer=top)
 
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [一起深呼吸是悬疑剧吧](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E6%B7%B1%E5%91%BC%E5%90%B8%E6%98%AF%E6%82%AC%E7%96%91%E5%89%A7%E5%90%A7%23&Refer=top)
+
+1. [新冠疫苗](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
 
