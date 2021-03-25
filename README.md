@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-25 14:01:22
+## 微博今日热榜 更新于 2021-03-25 15:02:50
 1. [9张图带你看懂这个重要标识](https://s.weibo.com//weibo?q=%239%E5%BC%A0%E5%9B%BE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E6%87%82%E8%BF%99%E4%B8%AA%E9%87%8D%E8%A6%81%E6%A0%87%E8%AF%86%23&Refer=new_time)
 
 1. [耐克](https://s.weibo.com//weibo?q=%E8%80%90%E5%85%8B&Refer=top)
@@ -260,4 +260,18 @@
 1. [会为了娃对自己消费降级吗](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E4%B8%BA%E4%BA%86%E5%A8%83%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E5%90%97%23&Refer=top)
 
 1. [新疆值得买的好物](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%80%BC%E5%BE%97%E4%B9%B0%E7%9A%84%E5%A5%BD%E7%89%A9%23&Refer=top)
+
+1. [张少华去世](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B0%91%E5%8D%8E%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [原来波士顿龙虾这么励志](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B3%A2%E5%A3%AB%E9%A1%BF%E9%BE%99%E8%99%BE%E8%BF%99%E4%B9%88%E5%8A%B1%E5%BF%97%23&Refer=top)
+
+1. [美军用300辆油罐车从叙利亚偷油](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%86%9B%E7%94%A8300%E8%BE%86%E6%B2%B9%E7%BD%90%E8%BD%A6%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E5%81%B7%E6%B2%B9%23&Refer=top)
+
+1. [不要为难打工人](https://s.weibo.com//weibo?q=%E4%B8%8D%E8%A6%81%E4%B8%BA%E9%9A%BE%E6%89%93%E5%B7%A5%E4%BA%BA&Refer=top)
+
+1. [申聪父亲向人贩子索赔480万](https://s.weibo.com//weibo?q=%23%E7%94%B3%E8%81%AA%E7%88%B6%E4%BA%B2%E5%90%91%E4%BA%BA%E8%B4%A9%E5%AD%90%E7%B4%A2%E8%B5%94480%E4%B8%87%23&Refer=top)
+
+1. [没有三巨头的篮网](https://s.weibo.com//weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%89%E5%B7%A8%E5%A4%B4%E7%9A%84%E7%AF%AE%E7%BD%91&Refer=top)
+
+1. [警方通报郑州财经学院一学生自杀](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%83%91%E5%B7%9E%E8%B4%A2%E7%BB%8F%E5%AD%A6%E9%99%A2%E4%B8%80%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80&Refer=top)
 
