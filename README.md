@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-25 18:01:35
+## 微博今日热榜 更新于 2021-03-25 19:02:12
 1. [9张图带你看懂这个重要标识](https://s.weibo.com//weibo?q=%239%E5%BC%A0%E5%9B%BE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E6%87%82%E8%BF%99%E4%B8%AA%E9%87%8D%E8%A6%81%E6%A0%87%E8%AF%86%23&Refer=new_time)
 
 1. [耐克](https://s.weibo.com//weibo?q=%E8%80%90%E5%85%8B&Refer=top)
@@ -358,4 +358,32 @@
 1. [苹果更新安全指南防泄密](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%96%B0%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%E9%98%B2%E6%B3%84%E5%AF%86&Refer=top)
 
 1. [外交部回应美方涉南海言论](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%B6%89%E5%8D%97%E6%B5%B7%E8%A8%80%E8%AE%BA%23&Refer=top)
+
+1. [李现杨洋刘昊然终止与彪马合作](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%9D%A8%E6%B4%8B%E5%88%98%E6%98%8A%E7%84%B6%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%BD%AA%E9%A9%AC%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [王嘉尔终止与阿迪达斯合作](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%BB%88%E6%AD%A2%E4%B8%8E%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [电视开机广告不能一键关闭被判侵权](https://s.weibo.com//weibo?q=%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E4%B8%8D%E8%83%BD%E4%B8%80%E9%94%AE%E5%85%B3%E9%97%AD%E8%A2%AB%E5%88%A4%E4%BE%B5%E6%9D%83&Refer=top)
+
+1. [杨颖终止与阿迪达斯合作](https://s.weibo.com//weibo?q=%E6%9D%A8%E9%A2%96%E7%BB%88%E6%AD%A2%E4%B8%8E%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%90%88%E4%BD%9C&Refer=top)
+
+1. [彭于晏终止与阿迪达斯合作](https://s.weibo.com//weibo?q=%E5%BD%AD%E4%BA%8E%E6%99%8F%E7%BB%88%E6%AD%A2%E4%B8%8E%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%90%88%E4%BD%9C&Refer=top)
+
+1. [中国棉花协会发文](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E6%A3%89%E8%8A%B1%E5%8D%8F%E4%BC%9A%E5%8F%91%E6%96%87&Refer=top)
+
+1. [中国人造太阳1亿摄氏度燃烧100秒](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B31%E4%BA%BF%E6%91%84%E6%B0%8F%E5%BA%A6%E7%87%83%E7%83%A7100%E7%A7%92%23&Refer=top)
+
+1. [重庆女孩养羊驼爱吃辣椒面](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%A9%E5%85%BB%E7%BE%8A%E9%A9%BC%E7%88%B1%E5%90%83%E8%BE%A3%E6%A4%92%E9%9D%A2%23&Refer=top)
+
+1. [邓伦终止与阿迪达斯合作](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E7%BB%88%E6%AD%A2%E4%B8%8E%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [为什么美国控枪那么难](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E6%8E%A7%E6%9E%AA%E9%82%A3%E4%B9%88%E9%9A%BE%23&Refer=top)
+
+1. [新疆的服饰能有多绝](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E7%9A%84%E6%9C%8D%E9%A5%B0%E8%83%BD%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+
+1. [上海延安东路隧道车辆发生火灾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%BB%B6%E5%AE%89%E4%B8%9C%E8%B7%AF%E9%9A%A7%E9%81%93%E8%BD%A6%E8%BE%86%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&Refer=top)
+
+1. [4AM吃鸡](https://s.weibo.com//weibo?q=4AM%E5%90%83%E9%B8%A1&Refer=top)
+
+1. [新疆棉花的前世今生](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E6%A3%89%E8%8A%B1%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F&Refer=top)
 
