@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-26 20:01:32
+## 微博今日热榜 更新于 2021-03-26 21:07:39
 1. [希望有福之州更好造福于民](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9C%9B%E6%9C%89%E7%A6%8F%E4%B9%8B%E5%B7%9E%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%8E%E6%B0%91%23&Refer=new_time)
 
 1. [FILA中国退出BCI](https://s.weibo.com//weibo?q=%23FILA%E4%B8%AD%E5%9B%BD%E9%80%80%E5%87%BABCI%23&Refer=top)
@@ -440,4 +440,34 @@
 1. [中国风水墨美甲](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%B0%B4%E5%A2%A8%E7%BE%8E%E7%94%B2%23&Refer=top)
 
 1. [琥珀落日妆](https://s.weibo.com//weibo?q=%23%E7%90%A5%E7%8F%80%E8%90%BD%E6%97%A5%E5%A6%86%23&Refer=top)
+
+1. [今年快递业务量已突破200亿件](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%BF%AB%E9%80%92%E4%B8%9A%E5%8A%A1%E9%87%8F%E5%B7%B2%E7%AA%81%E7%A0%B4200%E4%BA%BF%E4%BB%B6%23&Refer=new_time)
+
+1. [斯凯奇声明中国供应商没有强制劳工](https://s.weibo.com//weibo?q=%23%E6%96%AF%E5%87%AF%E5%A5%87%E5%A3%B0%E6%98%8E%E4%B8%AD%E5%9B%BD%E4%BE%9B%E5%BA%94%E5%95%86%E6%B2%A1%E6%9C%89%E5%BC%BA%E5%88%B6%E5%8A%B3%E5%B7%A5%23&Refer=top)
+
+1. [王牌对王牌](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&Refer=top)
+
+1. [THE9演唱会](https://s.weibo.com//weibo?q=THE9%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [外交部回应拜登称不会让中国超越](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%B6%85%E8%B6%8A%23&Refer=top)
+
+1. [白敬亭让大家别担心邢克垒](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AE%A9%E5%A4%A7%E5%AE%B6%E5%88%AB%E6%8B%85%E5%BF%83%E9%82%A2%E5%85%8B%E5%9E%92%23&Refer=top)
+
+1. [第二名的逆袭](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%BA%8C%E5%90%8D%E7%9A%84%E9%80%86%E8%A2%AD&Refer=top)
+
+1. [警方通报老人坐轮椅进隧道被撞身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%80%81%E4%BA%BA%E5%9D%90%E8%BD%AE%E6%A4%85%E8%BF%9B%E9%9A%A7%E9%81%93%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [蔚来汽车缺芯停产5天](https://s.weibo.com//weibo?q=%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E7%BC%BA%E8%8A%AF%E5%81%9C%E4%BA%A75%E5%A4%A9&Refer=top)
+
+1. [原作者马寒松回应青海美协主席抄袭](https://s.weibo.com//weibo?q=%E5%8E%9F%E4%BD%9C%E8%80%85%E9%A9%AC%E5%AF%92%E6%9D%BE%E5%9B%9E%E5%BA%94%E9%9D%92%E6%B5%B7%E7%BE%8E%E5%8D%8F%E4%B8%BB%E5%B8%AD%E6%8A%84%E8%A2%AD&Refer=top)
+
+1. [埃及火车相撞致32死66伤](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B432%E6%AD%BB66%E4%BC%A4%23&Refer=top)
+
+1. [罗一舟看自己破音直拍](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E7%9C%8B%E8%87%AA%E5%B7%B1%E7%A0%B4%E9%9F%B3%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [相亲对象自信发言大赏](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E8%87%AA%E4%BF%A1%E5%8F%91%E8%A8%80%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [男子制造2次车祸杀妻骗保](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%88%B6%E9%80%A02%E6%AC%A1%E8%BD%A6%E7%A5%B8%E6%9D%80%E5%A6%BB%E9%AA%97%E4%BF%9D&Refer=top)
+
+1. [司藤民国复古风仿妆](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E6%B0%91%E5%9B%BD%E5%A4%8D%E5%8F%A4%E9%A3%8E%E4%BB%BF%E5%A6%86%23&Refer=top)
 
