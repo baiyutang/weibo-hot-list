@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 00:02:02
+## 微博今日热榜 更新于 2021-03-28 01:18:21
 1. [清明节假期高速公路免费通行](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -104,4 +104,22 @@
 1. [北京销毁1569辆违规电动三四轮车](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%94%80%E6%AF%811569%E8%BE%86%E8%BF%9D%E8%A7%84%E7%94%B5%E5%8A%A8%E4%B8%89%E5%9B%9B%E8%BD%AE%E8%BD%A6%23&Refer=top)
 
 1. [段序向戴希希求婚](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%BA%8F%E5%90%91%E6%88%B4%E5%B8%8C%E5%B8%8C%E6%B1%82%E5%A9%9A%23&Refer=top)
+
+1. [2020年中国考古新发现都是啥](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%80%83%E5%8F%A4%E6%96%B0%E5%8F%91%E7%8E%B0%E9%83%BD%E6%98%AF%E5%95%A5%23&Refer=new_time)
+
+1. [白冰 李元韬](https://s.weibo.com//weibo?q=%E7%99%BD%E5%86%B0%20%E6%9D%8E%E5%85%83%E9%9F%AC&Refer=top)
+
+1. [山河令全员告别](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%85%A8%E5%91%98%E5%91%8A%E5%88%AB%23&Refer=top)
+
+1. [央视揭新疆白棉花为何上了黑名单](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%96%B0%E7%96%86%E7%99%BD%E6%A3%89%E8%8A%B1%E4%B8%BA%E4%BD%95%E4%B8%8A%E4%BA%86%E9%BB%91%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [秦岚再演绿萍](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%86%8D%E6%BC%94%E7%BB%BF%E8%90%8D%23&Refer=top)
+
+1. [米卡第六](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8D%A1%E7%AC%AC%E5%85%AD&Refer=top)
+
+1. [十二谭特效](https://s.weibo.com//weibo?q=%E5%8D%81%E4%BA%8C%E8%B0%AD%E7%89%B9%E6%95%88&Refer=top)
+
+1. [撒贝宁比赛谁骑车慢](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E6%AF%94%E8%B5%9B%E8%B0%81%E9%AA%91%E8%BD%A6%E6%85%A2%23&Refer=top)
+
+1. [俄三艘核潜艇在北冰洋同时破冰出水](https://s.weibo.com//weibo?q=%23%E4%BF%84%E4%B8%89%E8%89%98%E6%A0%B8%E6%BD%9C%E8%89%87%E5%9C%A8%E5%8C%97%E5%86%B0%E6%B4%8B%E5%90%8C%E6%97%B6%E7%A0%B4%E5%86%B0%E5%87%BA%E6%B0%B4%23&Refer=top)
 
