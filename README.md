@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 22:01:05
+## 微博今日热榜 更新于 2021-03-28 23:01:10
 1. [清明节假期高速公路免费通行](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -518,4 +518,28 @@
 1. [F1](https://s.weibo.com//weibo?q=F1&Refer=top)
 
 1. [李玉说王俊凯对表演很有自己的看法](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%89%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AF%B9%E8%A1%A8%E6%BC%94%E5%BE%88%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9C%8B%E6%B3%95%23&Refer=top)
+
+1. [廖启智去世](https://s.weibo.com//weibo?q=%23%E5%BB%96%E5%90%AF%E6%99%BA%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [秦放是树](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%94%BE%E6%98%AF%E6%A0%91%23&Refer=top)
+
+1. [新疆棉农种了100亩地不好意思说](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E6%A3%89%E5%86%9C%E7%A7%8D%E4%BA%86100%E4%BA%A9%E5%9C%B0%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E8%AF%B4%23&Refer=top)
+
+1. [余景天第一](https://s.weibo.com//weibo?q=%E4%BD%99%E6%99%AF%E5%A4%A9%E7%AC%AC%E4%B8%80&Refer=top)
+
+1. [台湾缺水日月潭干涸画面](https://s.weibo.com//weibo?q=%E5%8F%B0%E6%B9%BE%E7%BC%BA%E6%B0%B4%E6%97%A5%E6%9C%88%E6%BD%AD%E5%B9%B2%E6%B6%B8%E7%94%BB%E9%9D%A2&Refer=top)
+
+1. [罗翔 理解本是稀缺的例外](https://s.weibo.com//weibo?q=%E7%BD%97%E7%BF%94%20%E7%90%86%E8%A7%A3%E6%9C%AC%E6%98%AF%E7%A8%80%E7%BC%BA%E7%9A%84%E4%BE%8B%E5%A4%96&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [近距离爱上你](https://s.weibo.com//weibo?q=%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%88%B1%E4%B8%8A%E4%BD%A0&Refer=top)
+
+1. [三任公安局长在黑金诱惑下沦为黑伞](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BB%BB%E5%85%AC%E5%AE%89%E5%B1%80%E9%95%BF%E5%9C%A8%E9%BB%91%E9%87%91%E8%AF%B1%E6%83%91%E4%B8%8B%E6%B2%A6%E4%B8%BA%E9%BB%91%E4%BC%9E%23&Refer=top)
+
+1. [欢乐喜剧人](https://s.weibo.com//weibo?q=%E6%AC%A2%E4%B9%90%E5%96%9C%E5%89%A7%E4%BA%BA&Refer=top)
+
+1. [大司马 吐槽大会](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%8F%B8%E9%A9%AC%20%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [4AM15杀二连鸡](https://s.weibo.com//weibo?q=%234AM15%E6%9D%80%E4%BA%8C%E8%BF%9E%E9%B8%A1%23&Refer=top)
 
