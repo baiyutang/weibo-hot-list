@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 08:03:51
+## 微博今日热榜 更新于 2021-03-28 09:23:54
 1. [清明节假期高速公路免费通行](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -176,4 +176,36 @@
 1. [小朋友的爱情观有多可爱](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
 
 1. [苏伊士运河321艘船只等待通航](https://s.weibo.com//weibo?q=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3321%E8%89%98%E8%88%B9%E5%8F%AA%E7%AD%89%E5%BE%85%E9%80%9A%E8%88%AA&Refer=top)
+
+1. [林依轮 爱情鸟一点也不土](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E8%BD%AE%20%E7%88%B1%E6%83%85%E9%B8%9F%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E5%9C%9F&Refer=top)
+
+1. [利路修 能不动就不动](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E8%83%BD%E4%B8%8D%E5%8A%A8%E5%B0%B1%E4%B8%8D%E5%8A%A8&Refer=top)
+
+1. [西安地铁拟禁止使用移动充电物品](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9C%B0%E9%93%81%E6%8B%9F%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E7%89%A9%E5%93%81%23&Refer=top)
+
+1. [美国总统12年来首次参加欧盟峰会](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F12%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%8F%82%E5%8A%A0%E6%AC%A7%E7%9B%9F%E5%B3%B0%E4%BC%9A%23&Refer=top)
+
+1. [椰树集团回应争议招生广告](https://s.weibo.com//weibo?q=%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%E6%8B%9B%E7%94%9F%E5%B9%BF%E5%91%8A&Refer=top)
+
+1. [新冠疫苗全人群免费接种](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%85%A8%E4%BA%BA%E7%BE%A4%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [妈妈说出李焕英同款台词](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B4%E5%87%BA%E6%9D%8E%E7%84%95%E8%8B%B1%E5%90%8C%E6%AC%BE%E5%8F%B0%E8%AF%8D%23&Refer=top)
+
+1. [THE9纯白造型](https://s.weibo.com//weibo?q=%23THE9%E7%BA%AF%E7%99%BD%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [MMAQL喊话肖宇梁](https://s.weibo.com//weibo?q=MMAQL%E5%96%8A%E8%AF%9D%E8%82%96%E5%AE%87%E6%A2%81&Refer=top)
+
+1. [河南信阳政府回应耕地建别墅](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%BF%A1%E9%98%B3%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E8%80%95%E5%9C%B0%E5%BB%BA%E5%88%AB%E5%A2%85%23&Refer=top)
+
+1. [埃及列车相撞32死因前车拉紧急制动](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E32%E6%AD%BB%E5%9B%A0%E5%89%8D%E8%BD%A6%E6%8B%89%E7%B4%A7%E6%80%A5%E5%88%B6%E5%8A%A8%23&Refer=top)
+
+1. [法国将为法棍申遗](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E5%B0%86%E4%B8%BA%E6%B3%95%E6%A3%8D%E7%94%B3%E9%81%97&Refer=top)
+
+1. [北京正阳门考古发掘将启动](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%AD%A3%E9%98%B3%E9%97%A8%E8%80%83%E5%8F%A4%E5%8F%91%E6%8E%98%E5%B0%86%E5%90%AF%E5%8A%A8&Refer=top)
+
+1. [计算机二级](https://s.weibo.com//weibo?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7&Refer=top)
+
+1. [国际奥委会减少东京奥运会注册人员](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E5%87%8F%E5%B0%91%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%B3%A8%E5%86%8C%E4%BA%BA%E5%91%98%23&Refer=top)
+
+1. [周丹泰的真爱是罗爱乔吗](https://s.weibo.com//weibo?q=%E5%91%A8%E4%B8%B9%E6%B3%B0%E7%9A%84%E7%9C%9F%E7%88%B1%E6%98%AF%E7%BD%97%E7%88%B1%E4%B9%94%E5%90%97&Refer=top)
 
