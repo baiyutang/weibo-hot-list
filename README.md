@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 12:02:52
+## 微博今日热榜 更新于 2021-03-28 13:06:07
 1. [清明节假期高速公路免费通行](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -274,4 +274,40 @@
 1. [共享充电宝又集体涨价了](https://s.weibo.com//weibo?q=%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E5%8F%88%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E4%BA%86&Refer=top)
 
 1. [男子嫌闷热打开应急舱门被行拘](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%AB%8C%E9%97%B7%E7%83%AD%E6%89%93%E5%BC%80%E5%BA%94%E6%80%A5%E8%88%B1%E9%97%A8%E8%A2%AB%E8%A1%8C%E6%8B%98&Refer=top)
+
+1. [百变大咖秀上的李维嘉](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E4%B8%8A%E7%9A%84%E6%9D%8E%E7%BB%B4%E5%98%89%23&Refer=top)
+
+1. [美国爆发亚裔反歧视大游行](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%88%86%E5%8F%91%E4%BA%9A%E8%A3%94%E5%8F%8D%E6%AD%A7%E8%A7%86%E5%A4%A7%E6%B8%B8%E8%A1%8C%23&Refer=top)
+
+1. [创4二公直拍](https://s.weibo.com//weibo?q=%E5%88%9B4%E4%BA%8C%E5%85%AC%E7%9B%B4%E6%8B%8D&Refer=top)
+
+1. [中国刑警赴美欧追逃红通逃犯](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%91%E8%AD%A6%E8%B5%B4%E7%BE%8E%E6%AC%A7%E8%BF%BD%E9%80%83%E7%BA%A2%E9%80%9A%E9%80%83%E7%8A%AF%23&Refer=top)
+
+1. [新疆博士研究报告拆穿涉疆谎言](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E5%8D%9A%E5%A3%AB%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%E6%8B%86%E7%A9%BF%E6%B6%89%E7%96%86%E8%B0%8E%E8%A8%80&Refer=top)
+
+1. [山东发现1例南非变异株无症状感染者](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%8F%91%E7%8E%B01%E4%BE%8B%E5%8D%97%E9%9D%9E%E5%8F%98%E5%BC%82%E6%A0%AA%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [UFC](https://s.weibo.com//weibo?q=UFC&Refer=top)
+
+1. [喻言下意识站军姿](https://s.weibo.com//weibo?q=%23%E5%96%BB%E8%A8%80%E4%B8%8B%E6%84%8F%E8%AF%86%E7%AB%99%E5%86%9B%E5%A7%BF%23&Refer=top)
+
+1. [我才不要和你做兄弟开机](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%89%8D%E4%B8%8D%E8%A6%81%E5%92%8C%E4%BD%A0%E5%81%9A%E5%85%84%E5%BC%9F%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [撒贝宁说有底气当总裁](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E8%AF%B4%E6%9C%89%E5%BA%95%E6%B0%94%E5%BD%93%E6%80%BB%E8%A3%81%23&Refer=top)
+
+1. [陪你一起长大开播](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BD%A0%E4%B8%80%E8%B5%B7%E9%95%BF%E5%A4%A7%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [左权给妻子的最后一封家书](https://s.weibo.com//weibo?q=%23%E5%B7%A6%E6%9D%83%E7%BB%99%E5%A6%BB%E5%AD%90%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&Refer=top)
+
+1. [柿柿如意番茄火腿烩饭](https://s.weibo.com//weibo?q=%23%E6%9F%BF%E6%9F%BF%E5%A6%82%E6%84%8F%E7%95%AA%E8%8C%84%E7%81%AB%E8%85%BF%E7%83%A9%E9%A5%AD%23&Refer=top)
+
+1. [VAR有多重要](https://s.weibo.com//weibo?q=%23VAR%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [春季过敏怎么治](https://s.weibo.com//weibo?q=%23%E6%98%A5%E5%AD%A3%E8%BF%87%E6%95%8F%E6%80%8E%E4%B9%88%E6%B2%BB%23&Refer=top)
+
+1. [应采儿说努力方向是妈圈顶流](https://s.weibo.com//weibo?q=%E5%BA%94%E9%87%87%E5%84%BF%E8%AF%B4%E5%8A%AA%E5%8A%9B%E6%96%B9%E5%90%91%E6%98%AF%E5%A6%88%E5%9C%88%E9%A1%B6%E6%B5%81&Refer=top)
+
+1. [北京沙尘何时结束](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B2%99%E5%B0%98%E4%BD%95%E6%97%B6%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [霍华德连续两场比赛被驱逐](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%8D%8E%E5%BE%B7%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E6%AF%94%E8%B5%9B%E8%A2%AB%E9%A9%B1%E9%80%90&Refer=top)
 
