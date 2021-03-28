@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-29 06:01:02
+## 微博今日热榜 更新于 2021-03-29 07:01:10
 1. [灭活疫苗接种48小时后可献血](https://s.weibo.com//weibo?q=%23%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D48%E5%B0%8F%E6%97%B6%E5%90%8E%E5%8F%AF%E7%8C%AE%E8%A1%80%23&Refer=new_time)
 
 1. [廖启智去世](https://s.weibo.com//weibo?q=%23%E5%BB%96%E5%90%AF%E6%99%BA%E5%8E%BB%E4%B8%96%23&Refer=top)
@@ -128,4 +128,10 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [拦阻337名涉赌涉诈嫌疑人员出境](https://s.weibo.com//weibo?q=%23%E6%8B%A6%E9%98%BB337%E5%90%8D%E6%B6%89%E8%B5%8C%E6%B6%89%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%91%98%E5%87%BA%E5%A2%83%23&Refer=top)
+
+1. [全国新冠病毒疫苗接种情况](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%83%85%E5%86%B5%23&Refer=new_time)
+
+1. [井胧高音冲破天灵盖](https://s.weibo.com//weibo?q=%23%E4%BA%95%E8%83%A7%E9%AB%98%E9%9F%B3%E5%86%B2%E7%A0%B4%E5%A4%A9%E7%81%B5%E7%9B%96%23&Refer=top)
+
+1. [张哲瀚感谢粉丝](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D&Refer=top)
 
