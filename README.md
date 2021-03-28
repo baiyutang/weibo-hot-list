@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 15:03:20
+## 微博今日热榜 更新于 2021-03-28 16:01:23
 1. [清明节假期高速公路免费通行](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -342,4 +342,32 @@
 1. [男子翻越黄山迎客松围栏被拽回](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%BF%BB%E8%B6%8A%E9%BB%84%E5%B1%B1%E8%BF%8E%E5%AE%A2%E6%9D%BE%E5%9B%B4%E6%A0%8F%E8%A2%AB%E6%8B%BD%E5%9B%9E%23&Refer=top)
 
 1. [吴冠希赛季报销](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%86%A0%E5%B8%8C%E8%B5%9B%E5%AD%A3%E6%8A%A5%E9%94%80%23&Refer=top)
+
+1. [张绍刚说龚俊很能吃苦](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%BB%8D%E5%88%9A%E8%AF%B4%E9%BE%9A%E4%BF%8A%E5%BE%88%E8%83%BD%E5%90%83%E8%8B%A6&Refer=top)
+
+1. [肖战玉骨遥路透](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E7%8E%89%E9%AA%A8%E9%81%A5%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [全国累计接种新冠疫苗超1亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%851%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=top)
+
+1. [已设计新冠疫苗加强针](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E8%AE%BE%E8%AE%A1%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%8A%A0%E5%BC%BA%E9%92%88%23&Refer=top)
+
+1. [任嘉伦叫颖儿原名刘颖](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%8F%AB%E9%A2%96%E5%84%BF%E5%8E%9F%E5%90%8D%E5%88%98%E9%A2%96%23&Refer=top)
+
+1. [华为拿下支付牌照](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E6%8B%BF%E4%B8%8B%E6%94%AF%E4%BB%98%E7%89%8C%E7%85%A7&Refer=top)
+
+1. [周也古装撑伞](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E5%8F%A4%E8%A3%85%E6%92%91%E4%BC%9E%23&Refer=top)
+
+1. [王一博穿的像养蜂人](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9A%84%E5%83%8F%E5%85%BB%E8%9C%82%E4%BA%BA%23&Refer=top)
+
+1. [恋与制作人](https://s.weibo.com//weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA&Refer=top)
+
+1. [官方回应城管威胁店员清理贴纸](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9F%8E%E7%AE%A1%E5%A8%81%E8%83%81%E5%BA%97%E5%91%98%E6%B8%85%E7%90%86%E8%B4%B4%E7%BA%B8&Refer=top)
+
+1. [张艺兴军装造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%86%9B%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [王嘉尔金属质感发色](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E9%87%91%E5%B1%9E%E8%B4%A8%E6%84%9F%E5%8F%91%E8%89%B2%23&Refer=top)
+
+1. [景甜南宁](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E5%8D%97%E5%AE%81%23&Refer=top)
+
+1. [中国新冠疫苗已在50个国家和地区使用](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%B7%B2%E5%9C%A850%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E4%BD%BF%E7%94%A8%23&Refer=top)
 
