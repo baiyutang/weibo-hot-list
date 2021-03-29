@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-30 00:08:51
+## 微博今日热榜 更新于 2021-03-30 01:18:01
 1. [社保将迎来6大新变化](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%B0%86%E8%BF%8E%E6%9D%A56%E5%A4%A7%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=new_time)
 
 1. [南大碎尸案家属正式起诉学校](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%AE%B6%E5%B1%9E%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%23&Refer=top)
@@ -102,4 +102,14 @@
 1. [动物园回应金毛入住非洲狮狮笼](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E9%87%91%E6%AF%9B%E5%85%A5%E4%BD%8F%E9%9D%9E%E6%B4%B2%E7%8B%AE%E7%8B%AE%E7%AC%BC%23&Refer=top)
 
 1. [夜明沪上白玫瑰](https://s.weibo.com//weibo?q=%23%E5%A4%9C%E6%98%8E%E6%B2%AA%E4%B8%8A%E7%99%BD%E7%8E%AB%E7%91%B0%23&Refer=top)
+
+1. [10个最新新冠疫苗接种要点](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E6%9C%80%E6%96%B0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%A6%81%E7%82%B9%23&Refer=new_time)
+
+1. [陆柯燃Believer舞蹈练习室](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83Believer%E8%88%9E%E8%B9%88%E7%BB%83%E4%B9%A0%E5%AE%A4%23&Refer=top)
+
+1. [徐令宜十一娘哭红了眼](https://s.weibo.com//weibo?q=%E5%BE%90%E4%BB%A4%E5%AE%9C%E5%8D%81%E4%B8%80%E5%A8%98%E5%93%AD%E7%BA%A2%E4%BA%86%E7%9C%BC&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [小米发布会](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
 
