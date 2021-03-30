@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 05:01:00
+## 微博今日热榜 更新于 2021-03-31 06:01:02
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
