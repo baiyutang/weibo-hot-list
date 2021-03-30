@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 01:19:12
+## 微博今日热榜 更新于 2021-03-31 02:11:15
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -108,4 +108,8 @@
 1. [延迟退休改革不会一步到位](https://s.weibo.com//weibo?q=%23%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91%E6%94%B9%E9%9D%A9%E4%B8%8D%E4%BC%9A%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%23&Refer=new_time)
 
 1. [制糖夫妇互吻表白](https://s.weibo.com//weibo?q=%23%E5%88%B6%E7%B3%96%E5%A4%AB%E5%A6%87%E4%BA%92%E5%90%BB%E8%A1%A8%E7%99%BD%23&Refer=top)
+
+1. [首版新冠病毒疫苗接种技术指南](https://s.weibo.com//weibo?q=%23%E9%A6%96%E7%89%88%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [张艺上演的端木翠](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E4%B8%8A%E6%BC%94%E7%9A%84%E7%AB%AF%E6%9C%A8%E7%BF%A0%23&Refer=top)
 
