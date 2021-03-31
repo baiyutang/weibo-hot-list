@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 03:05:24
+## 微博今日热榜 更新于 2021-04-01 04:01:25
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -116,4 +116,6 @@
 1. [何穗的腰](https://s.weibo.com//weibo?q=%E4%BD%95%E7%A9%97%E7%9A%84%E8%85%B0&Refer=top)
 
 1. [深交所合并主板与中小板](https://s.weibo.com//weibo?q=%E6%B7%B1%E4%BA%A4%E6%89%80%E5%90%88%E5%B9%B6%E4%B8%BB%E6%9D%BF%E4%B8%8E%E4%B8%AD%E5%B0%8F%E6%9D%BF&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
 
