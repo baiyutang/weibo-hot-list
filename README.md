@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 05:01:30
+## 微博今日热榜 更新于 2021-04-01 06:01:25
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -124,4 +124,8 @@
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
 1. [中国是首个和世卫联合溯源的国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%A6%96%E4%B8%AA%E5%92%8C%E4%B8%96%E5%8D%AB%E8%81%94%E5%90%88%E6%BA%AF%E6%BA%90%E7%9A%84%E5%9B%BD%E5%AE%B6%23&Refer=top)
+
+1. [北约战机一天升空10次伴飞俄战机](https://s.weibo.com//weibo?q=%E5%8C%97%E7%BA%A6%E6%88%98%E6%9C%BA%E4%B8%80%E5%A4%A9%E5%8D%87%E7%A9%BA10%E6%AC%A1%E4%BC%B4%E9%A3%9E%E4%BF%84%E6%88%98%E6%9C%BA&Refer=top)
+
+1. [4月天象时间表](https://s.weibo.com//weibo?q=%234%E6%9C%88%E5%A4%A9%E8%B1%A1%E6%97%B6%E9%97%B4%E8%A1%A8%23&Refer=top)
 
