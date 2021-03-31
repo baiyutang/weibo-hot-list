@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 10:18:26
+## 微博今日热榜 更新于 2021-03-31 11:05:19
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -206,4 +206,32 @@
 1. [3月14日后离开瑞丽人员请主动报告](https://s.weibo.com//weibo?q=%233%E6%9C%8814%E6%97%A5%E5%90%8E%E7%A6%BB%E5%BC%80%E7%91%9E%E4%B8%BD%E4%BA%BA%E5%91%98%E8%AF%B7%E4%B8%BB%E5%8A%A8%E6%8A%A5%E5%91%8A%23&Refer=top)
 
 1. [威少隔扣比永博](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E9%9A%94%E6%89%A3%E6%AF%94%E6%B0%B8%E5%8D%9A&Refer=top)
+
+1. [高分十二号02星成功发射](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%88%86%E5%8D%81%E4%BA%8C%E5%8F%B702%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23&Refer=new_time)
+
+1. [山西发现中国现存规模最大战国水井](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%AD%98%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E6%88%98%E5%9B%BD%E6%B0%B4%E4%BA%95&Refer=top)
+
+1. [迪丽热巴长歌行单人cut](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%95%BF%E6%AD%8C%E8%A1%8C%E5%8D%95%E4%BA%BAcut%23&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [皓衣行](https://s.weibo.com//weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&Refer=top)
+
+1. [耳朵进水后引发的社死现场](https://s.weibo.com//weibo?q=%23%E8%80%B3%E6%9C%B5%E8%BF%9B%E6%B0%B4%E5%90%8E%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [假如让你带薪休假一年](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E8%AE%A9%E4%BD%A0%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%E4%B8%80%E5%B9%B4%23&Refer=top)
+
+1. [神奈川冲浪里有多出圈](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%86%B2%E6%B5%AA%E9%87%8C%E6%9C%89%E5%A4%9A%E5%87%BA%E5%9C%88%23&Refer=top)
+
+1. [智利签署中国康希诺新冠疫苗采购协议](https://s.weibo.com//weibo?q=%23%E6%99%BA%E5%88%A9%E7%AD%BE%E7%BD%B2%E4%B8%AD%E5%9B%BD%E5%BA%B7%E5%B8%8C%E8%AF%BA%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE%23&Refer=top)
+
+1. [这是滑单板的下海了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%BB%91%E5%8D%95%E6%9D%BF%E7%9A%84%E4%B8%8B%E6%B5%B7%E4%BA%86%E5%90%A7%23&Refer=top)
+
+1. [豆瓣用户差评书籍后被举报至学校](https://s.weibo.com//weibo?q=%E8%B1%86%E7%93%A3%E7%94%A8%E6%88%B7%E5%B7%AE%E8%AF%84%E4%B9%A6%E7%B1%8D%E5%90%8E%E8%A2%AB%E4%B8%BE%E6%8A%A5%E8%87%B3%E5%AD%A6%E6%A0%A1&Refer=top)
+
+1. [英雄王伟曾在信中给自己画下墓碑](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E7%8E%8B%E4%BC%9F%E6%9B%BE%E5%9C%A8%E4%BF%A1%E4%B8%AD%E7%BB%99%E8%87%AA%E5%B7%B1%E7%94%BB%E4%B8%8B%E5%A2%93%E7%A2%91&Refer=top)
+
+1. [瑞丽初步排查密接次密接317人](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%88%9D%E6%AD%A5%E6%8E%92%E6%9F%A5%E5%AF%86%E6%8E%A5%E6%AC%A1%E5%AF%86%E6%8E%A5317%E4%BA%BA%23&Refer=top)
+
+1. [SpaceX原型机降落时坠毁](https://s.weibo.com//weibo?q=%23SpaceX%E5%8E%9F%E5%9E%8B%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E5%9D%A0%E6%AF%81%23&Refer=top)
 
