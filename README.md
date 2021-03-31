@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 17:01:21
+## 微博今日热榜 更新于 2021-03-31 18:01:20
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -374,4 +374,44 @@
 1. [RNG](https://s.weibo.com//weibo?q=RNG&Refer=top)
 
 1. [英雄联盟](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&Refer=top)
+
+1. [杨紫 沉香如屑定妆](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E5%AE%9A%E5%A6%86&Refer=top)
+
+1. [HM最新声明全文没提新疆](https://s.weibo.com//weibo?q=%23HM%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%E5%85%A8%E6%96%87%E6%B2%A1%E6%8F%90%E6%96%B0%E7%96%86%23&Refer=top)
+
+1. [中国是首个和世卫联合溯源的国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%A6%96%E4%B8%AA%E5%92%8C%E4%B8%96%E5%8D%AB%E8%81%94%E5%90%88%E6%BA%AF%E6%BA%90%E7%9A%84%E5%9B%BD%E5%AE%B6%23&Refer=top)
+
+1. [与福原爱约会男子否认恋情](https://s.weibo.com//weibo?q=%E4%B8%8E%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%BA%A6%E4%BC%9A%E7%94%B7%E5%AD%90%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85&Refer=top)
+
+1. [HM最新财季税前亏超10亿](https://s.weibo.com//weibo?q=%23HM%E6%9C%80%E6%96%B0%E8%B4%A2%E5%AD%A3%E7%A8%8E%E5%89%8D%E4%BA%8F%E8%B6%8510%E4%BA%BF%23&Refer=top)
+
+1. [心外无物 肖战](https://s.weibo.com//weibo?q=%E5%BF%83%E5%A4%96%E6%97%A0%E7%89%A9%20%E8%82%96%E6%88%98&Refer=top)
+
+1. [敖子逸](https://s.weibo.com//weibo?q=%E6%95%96%E5%AD%90%E9%80%B8&Refer=top)
+
+1. [外交部回应BBC记者非正常离任](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94BBC%E8%AE%B0%E8%80%85%E9%9D%9E%E6%AD%A3%E5%B8%B8%E7%A6%BB%E4%BB%BB%23&Refer=top)
+
+1. [揭穿抹黑新疆的9大谎言](https://s.weibo.com//weibo?q=%23%E6%8F%AD%E7%A9%BF%E6%8A%B9%E9%BB%91%E6%96%B0%E7%96%86%E7%9A%849%E5%A4%A7%E8%B0%8E%E8%A8%80%23&Refer=top)
+
+1. [张国荣去世18周年](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3%E5%8E%BB%E4%B8%9618%E5%91%A8%E5%B9%B4&Refer=top)
+
+1. [景甜司藤拍摄全纪录](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E5%8F%B8%E8%97%A4%E6%8B%8D%E6%91%84%E5%85%A8%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [校方回应暴雨冲塌教室天花板](https://s.weibo.com//weibo?q=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9A%B4%E9%9B%A8%E5%86%B2%E5%A1%8C%E6%95%99%E5%AE%A4%E5%A4%A9%E8%8A%B1%E6%9D%BF&Refer=top)
+
+1. [湖南永顺对全县公职人员进行毛发验毒](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E6%B0%B8%E9%A1%BA%E5%AF%B9%E5%85%A8%E5%8E%BF%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%BF%9B%E8%A1%8C%E6%AF%9B%E5%8F%91%E9%AA%8C%E6%AF%92%23&Refer=top)
+
+1. [尹弘同志任甘肃省委书记](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E5%BC%98%E5%90%8C%E5%BF%97%E4%BB%BB%E7%94%98%E8%82%83%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%23&Refer=top)
+
+1. [全国器官捐献志愿登记超315万人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%99%A8%E5%AE%98%E6%8D%90%E7%8C%AE%E5%BF%97%E6%84%BF%E7%99%BB%E8%AE%B0%E8%B6%85315%E4%B8%87%E4%BA%BA%23&Refer=top)
+
+1. [2021年全球性别差距报告](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E5%85%A8%E7%90%83%E6%80%A7%E5%88%AB%E5%B7%AE%E8%B7%9D%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [油价九连涨后首次下调](https://s.weibo.com//weibo?q=%E6%B2%B9%E4%BB%B7%E4%B9%9D%E8%BF%9E%E6%B6%A8%E5%90%8E%E9%A6%96%E6%AC%A1%E4%B8%8B%E8%B0%83&Refer=top)
+
+1. [经历过最尴尬的社死瞬间](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%8E%86%E8%BF%87%E6%9C%80%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [英雄联盟黯晶皮肤](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%AF%E6%99%B6%E7%9A%AE%E8%82%A4&Refer=top)
+
+1. [秦岚王鹤棣看自己吻戏](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9C%8B%E8%87%AA%E5%B7%B1%E5%90%BB%E6%88%8F%23&Refer=top)
 
