@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 12:02:03
+## 微博今日热榜 更新于 2021-03-31 13:03:42
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -254,4 +254,18 @@
 1. [英雄联盟手游国服](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8%E5%9B%BD%E6%9C%8D%23&Refer=top)
 
 1. [2021苹果WWDC](https://s.weibo.com//weibo?q=2021%E8%8B%B9%E6%9E%9CWWDC&Refer=top)
+
+1. [科比女儿被南加大录取](https://s.weibo.com//weibo?q=%E7%A7%91%E6%AF%94%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96&Refer=top)
+
+1. [剧本杀线下门店已突破3万家](https://s.weibo.com//weibo?q=%23%E5%89%A7%E6%9C%AC%E6%9D%80%E7%BA%BF%E4%B8%8B%E9%97%A8%E5%BA%97%E5%B7%B2%E7%AA%81%E7%A0%B43%E4%B8%87%E5%AE%B6%23&Refer=top)
+
+1. [赵露思 长歌行](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [张家界天坑心湖被放养鱼网箱](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%A9%E5%9D%91%E5%BF%83%E6%B9%96%E8%A2%AB%E6%94%BE%E5%85%BB%E9%B1%BC%E7%BD%91%E7%AE%B1&Refer=top)
+
+1. [边伯贤模仿顶楼周锡京](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%A8%A1%E4%BB%BF%E9%A1%B6%E6%A5%BC%E5%91%A8%E9%94%A1%E4%BA%AC%23&Refer=top)
+
+1. [爵士包机遭飞鸟撞击](https://s.weibo.com//weibo?q=%E7%88%B5%E5%A3%AB%E5%8C%85%E6%9C%BA%E9%81%AD%E9%A3%9E%E9%B8%9F%E6%92%9E%E5%87%BB&Refer=top)
+
+1. [橘子海巡演](https://s.weibo.com//weibo?q=%E6%A9%98%E5%AD%90%E6%B5%B7%E5%B7%A1%E6%BC%94&Refer=top)
 
