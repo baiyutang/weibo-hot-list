@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 19:01:09
+## 微博今日热榜 更新于 2021-03-31 20:01:28
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -454,4 +454,28 @@
 1. [法院回应南大碎尸案家属起诉学校](https://s.weibo.com//weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%AE%B6%E5%B1%9E%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%23&Refer=top)
 
 1. [年度最佳经理杜兰特](https://s.weibo.com//weibo?q=%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%BB%8F%E7%90%86%E6%9D%9C%E5%85%B0%E7%89%B9&Refer=top)
+
+1. [易烊千玺申请冻结侵权公司财产](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%B3%E8%AF%B7%E5%86%BB%E7%BB%93%E4%BE%B5%E6%9D%83%E5%85%AC%E5%8F%B8%E8%B4%A2%E4%BA%A7%23&Refer=top)
+
+1. [焦恩俊称与林千钰和平分开](https://s.weibo.com//weibo?q=%23%E7%84%A6%E6%81%A9%E4%BF%8A%E7%A7%B0%E4%B8%8E%E6%9E%97%E5%8D%83%E9%92%B0%E5%92%8C%E5%B9%B3%E5%88%86%E5%BC%80%23&Refer=top)
+
+1. [李现对李雪琴说我不是吴亦凡](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%AF%B9%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%AF%B4%E6%88%91%E4%B8%8D%E6%98%AF%E5%90%B4%E4%BA%A6%E5%87%A1%23&Refer=top)
+
+1. [王嘉尔乌云灰渐变西装](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B9%8C%E4%BA%91%E7%81%B0%E6%B8%90%E5%8F%98%E8%A5%BF%E8%A3%85%23&Refer=top)
+
+1. [张哲瀚ELLE电子刊封面预告](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9AELLE%E7%94%B5%E5%AD%90%E5%88%8A%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [官方通报高溜整形失败鼻尖坏死](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%AB%98%E6%BA%9C%E6%95%B4%E5%BD%A2%E5%A4%B1%E8%B4%A5%E9%BC%BB%E5%B0%96%E5%9D%8F%E6%AD%BB%23&Refer=top)
+
+1. [你被哪些玩笑伤害过](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%A2%AB%E5%93%AA%E4%BA%9B%E7%8E%A9%E7%AC%91%E4%BC%A4%E5%AE%B3%E8%BF%87%23&Refer=top)
+
+1. [动漫男主收过的奇怪礼物](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E6%BC%AB%E7%94%B7%E4%B8%BB%E6%94%B6%E8%BF%87%E7%9A%84%E5%A5%87%E6%80%AA%E7%A4%BC%E7%89%A9%23&Refer=top)
+
+1. [Viper获常规赛MVP及最佳新秀](https://s.weibo.com//weibo?q=%23Viper%E8%8E%B7%E5%B8%B8%E8%A7%84%E8%B5%9BMVP%E5%8F%8A%E6%9C%80%E4%BD%B3%E6%96%B0%E7%A7%80%23&Refer=top)
+
+1. [南大碎尸案被害人家属喊话凶手](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%AE%B6%E5%B1%9E%E5%96%8A%E8%AF%9D%E5%87%B6%E6%89%8B%23&Refer=top)
+
+1. [高颜值紫薯山药酸奶蛋糕](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%A2%9C%E5%80%BC%E7%B4%AB%E8%96%AF%E5%B1%B1%E8%8D%AF%E9%85%B8%E5%A5%B6%E8%9B%8B%E7%B3%95%23&Refer=top)
 
