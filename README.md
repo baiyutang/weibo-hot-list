@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 11:05:19
+## 微博今日热榜 更新于 2021-03-31 12:02:03
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -234,4 +234,24 @@
 1. [瑞丽初步排查密接次密接317人](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%88%9D%E6%AD%A5%E6%8E%92%E6%9F%A5%E5%AF%86%E6%8E%A5%E6%AC%A1%E5%AF%86%E6%8E%A5317%E4%BA%BA%23&Refer=top)
 
 1. [SpaceX原型机降落时坠毁](https://s.weibo.com//weibo?q=%23SpaceX%E5%8E%9F%E5%9E%8B%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E5%9D%A0%E6%AF%81%23&Refer=top)
+
+1. [我国可再生能源开发利用规模稳居世界第一](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E5%BC%80%E5%8F%91%E5%88%A9%E7%94%A8%E8%A7%84%E6%A8%A1%E7%A8%B3%E5%B1%85%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&Refer=new_time)
+
+1. [潘玮柏](https://s.weibo.com//weibo?q=%E6%BD%98%E7%8E%AE%E6%9F%8F&Refer=top)
+
+1. [事业单位科研人员奖金可不受限](https://s.weibo.com//weibo?q=%23%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E7%A7%91%E7%A0%94%E4%BA%BA%E5%91%98%E5%A5%96%E9%87%91%E5%8F%AF%E4%B8%8D%E5%8F%97%E9%99%90%23&Refer=top)
+
+1. [南京女孩开网店卖人生故事](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A5%B3%E5%AD%A9%E5%BC%80%E7%BD%91%E5%BA%97%E5%8D%96%E4%BA%BA%E7%94%9F%E6%95%85%E4%BA%8B%23&Refer=top)
+
+1. [教育部回应校外培训过热现象](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E8%BF%87%E7%83%AD%E7%8E%B0%E8%B1%A1%23&Refer=top)
+
+1. [长歌行唐卷海报](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E5%94%90%E5%8D%B7%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [现实中的二次元地名](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%85%83%E5%9C%B0%E5%90%8D%23&Refer=top)
+
+1. [严禁中小学招生与任何竞赛挂钩](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E7%A6%81%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%8B%9B%E7%94%9F%E4%B8%8E%E4%BB%BB%E4%BD%95%E7%AB%9E%E8%B5%9B%E6%8C%82%E9%92%A9%23&Refer=top)
+
+1. [英雄联盟手游国服](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8%E5%9B%BD%E6%9C%8D%23&Refer=top)
+
+1. [2021苹果WWDC](https://s.weibo.com//weibo?q=2021%E8%8B%B9%E6%9E%9CWWDC&Refer=top)
 
