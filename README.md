@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 00:02:40
+## 微博今日热榜 更新于 2021-04-01 01:18:42
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -104,4 +104,10 @@
 1. [钟南山说不抓紧打疫苗有危险](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E4%B8%8D%E6%8A%93%E7%B4%A7%E6%89%93%E7%96%AB%E8%8B%97%E6%9C%89%E5%8D%B1%E9%99%A9%23&Refer=top)
 
 1. [沉香如屑服化道](https://s.weibo.com//weibo?q=%23%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E6%9C%8D%E5%8C%96%E9%81%93%23&Refer=top)
+
+1. [中国天眼向全世界开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%90%91%E5%85%A8%E4%B8%96%E7%95%8C%E5%BC%80%E6%94%BE%23&Refer=new_time)
+
+1. [张国荣](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%9B%BD%E8%8D%A3&Refer=top)
+
+1. [沈若歆被社死式求婚](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%8B%A5%E6%AD%86%E8%A2%AB%E7%A4%BE%E6%AD%BB%E5%BC%8F%E6%B1%82%E5%A9%9A%23&Refer=top)
 
