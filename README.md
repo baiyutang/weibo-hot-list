@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 09:22:43
+## 微博今日热榜 更新于 2021-03-31 10:18:26
 1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -192,4 +192,18 @@
 1. [拜登将宣布3万亿美元基建计划](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B0%86%E5%AE%A3%E5%B8%833%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9F%BA%E5%BB%BA%E8%AE%A1%E5%88%92%23&Refer=top)
 
 1. [云南新增3例无症状均为缅甸籍](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E5%9D%87%E4%B8%BA%E7%BC%85%E7%94%B8%E7%B1%8D%23&Refer=top)
+
+1. [华安基金终止与不当言论员工劳动关系](https://s.weibo.com//weibo?q=%E5%8D%8E%E5%AE%89%E5%9F%BA%E9%87%91%E7%BB%88%E6%AD%A2%E4%B8%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E5%91%98%E5%B7%A5%E5%8A%B3%E5%8A%A8%E5%85%B3%E7%B3%BB&Refer=top)
+
+1. [陈德容方回应曾说演妈妈是奇耻大辱](https://s.weibo.com//weibo?q=%E9%99%88%E5%BE%B7%E5%AE%B9%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9B%BE%E8%AF%B4%E6%BC%94%E5%A6%88%E5%A6%88%E6%98%AF%E5%A5%87%E8%80%BB%E5%A4%A7%E8%BE%B1&Refer=top)
+
+1. [网红小伙加入海军陆战队](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E4%BC%99%E5%8A%A0%E5%85%A5%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%23&Refer=top)
+
+1. [邢菲春漾泡沫长裙](https://s.weibo.com//weibo?q=%E9%82%A2%E8%8F%B2%E6%98%A5%E6%BC%BE%E6%B3%A1%E6%B2%AB%E9%95%BF%E8%A3%99&Refer=top)
+
+1. [瑞丽市市区全员核酸检测](https://s.weibo.com//weibo?q=%E7%91%9E%E4%B8%BD%E5%B8%82%E5%B8%82%E5%8C%BA%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B&Refer=top)
+
+1. [3月14日后离开瑞丽人员请主动报告](https://s.weibo.com//weibo?q=%233%E6%9C%8814%E6%97%A5%E5%90%8E%E7%A6%BB%E5%BC%80%E7%91%9E%E4%B8%BD%E4%BA%BA%E5%91%98%E8%AF%B7%E4%B8%BB%E5%8A%A8%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [威少隔扣比永博](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E9%9A%94%E6%89%A3%E6%AF%94%E6%B0%B8%E5%8D%9A&Refer=top)
 
