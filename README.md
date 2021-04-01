@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 20:01:31
+## 微博今日热榜 更新于 2021-04-01 21:08:28
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -432,4 +432,34 @@
 1. [沈梦辰说自己越来越像尹正](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%B0%B9%E6%AD%A3%23&Refer=top)
 
 1. [素人如何成为明星](https://s.weibo.com//weibo?q=%23%E7%B4%A0%E4%BA%BA%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E6%98%8E%E6%98%9F%23&Refer=top)
+
+1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
+
+1. [浙江黑老大虞关荣4年涉案40亿元](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E9%BB%91%E8%80%81%E5%A4%A7%E8%99%9E%E5%85%B3%E8%8D%A34%E5%B9%B4%E6%B6%89%E6%A1%8840%E4%BA%BF%E5%85%83&Refer=top)
+
+1. [薇娅龚俊直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E9%BE%9A%E4%BF%8A%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [椰树集团涉嫌违法广告仍未撤下](https://s.weibo.com//weibo?q=%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E5%B9%BF%E5%91%8A%E4%BB%8D%E6%9C%AA%E6%92%A4%E4%B8%8B&Refer=top)
+
+1. [周悦被绑架](https://s.weibo.com//weibo?q=%E5%91%A8%E6%82%A6%E8%A2%AB%E7%BB%91%E6%9E%B6&Refer=top)
+
+1. [中芯国际全线涨价](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%85%A8%E7%BA%BF%E6%B6%A8%E4%BB%B7%23&Refer=top)
+
+1. [主人含泪为退役导盲犬找领养家庭](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E4%B8%BA%E9%80%80%E5%BD%B9%E5%AF%BC%E7%9B%B2%E7%8A%AC%E6%89%BE%E9%A2%86%E5%85%BB%E5%AE%B6%E5%BA%AD%23&Refer=top)
+
+1. [警方称将查处20万自制停车掉头系统](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%B0%86%E6%9F%A5%E5%A4%8420%E4%B8%87%E8%87%AA%E5%88%B6%E5%81%9C%E8%BD%A6%E6%8E%89%E5%A4%B4%E7%B3%BB%E7%BB%9F%23&Refer=top)
+
+1. [首尔提交朝韩合办奥运会建议书](https://s.weibo.com//weibo?q=%E9%A6%96%E5%B0%94%E6%8F%90%E4%BA%A4%E6%9C%9D%E9%9F%A9%E5%90%88%E5%8A%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BB%BA%E8%AE%AE%E4%B9%A6&Refer=top)
+
+1. [你是我的城池营垒](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92&Refer=top)
+
+1. [锦心似玉](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top)
+
+1. [真人版pop子和pipi美](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E4%BA%BA%E7%89%88pop%E5%AD%90%E5%92%8Cpipi%E7%BE%8E%23&Refer=top)
+
+1. [LPL](https://s.weibo.com//weibo?q=LPL&Refer=top)
+
+1. [心疼长歌](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E9%95%BF%E6%AD%8C&Refer=top)
+
+1. [赵露思演的李乐嫣](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E7%9A%84%E6%9D%8E%E4%B9%90%E5%AB%A3&Refer=top)
 
