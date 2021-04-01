@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 09:25:13
+## 微博今日热榜 更新于 2021-04-01 10:23:03
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -190,4 +190,28 @@
 1. [王伟的夙愿实现了](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BC%9F%E7%9A%84%E5%A4%99%E6%84%BF%E5%AE%9E%E7%8E%B0%E4%BA%86&Refer=top)
 
 1. [31省区市新增确诊病例16例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B16%E4%BE%8B%23&Refer=top)
+
+1. [汪东城晒接吻照表白](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%99%92%E6%8E%A5%E5%90%BB%E7%85%A7%E8%A1%A8%E7%99%BD%23&Refer=top)
+
+1. [奚梦瑶](https://s.weibo.com//weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6&Refer=top)
+
+1. [成年人的世界没有愚人节 只有Q2](https://s.weibo.com//weibo?q=%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E6%B2%A1%E6%9C%89%E6%84%9A%E4%BA%BA%E8%8A%82%20%E5%8F%AA%E6%9C%89Q2&Refer=top)
+
+1. [iOS14.5不再默认为女性语音](https://s.weibo.com//weibo?q=iOS14.5%E4%B8%8D%E5%86%8D%E9%BB%98%E8%AE%A4%E4%B8%BA%E5%A5%B3%E6%80%A7%E8%AF%AD%E9%9F%B3&Refer=top)
+
+1. [法国本土全境封禁4周](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%A8%E5%A2%83%E5%B0%81%E7%A6%814%E5%91%A8&Refer=top)
+
+1. [五百万够普通家庭用多久](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%99%BE%E4%B8%87%E5%A4%9F%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E7%94%A8%E5%A4%9A%E4%B9%85%23&Refer=top)
+
+1. [哈登伤退](https://s.weibo.com//weibo?q=%23%E5%93%88%E7%99%BB%E4%BC%A4%E9%80%80%23&Refer=top)
+
+1. [深圳大南山山火系人为纵火](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%8D%97%E5%B1%B1%E5%B1%B1%E7%81%AB%E7%B3%BB%E4%BA%BA%E4%B8%BA%E7%BA%B5%E7%81%AB&Refer=top)
+
+1. [愚人节写敲诈信获刑3年6个月](https://s.weibo.com//weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82%E5%86%99%E6%95%B2%E8%AF%88%E4%BF%A1%E8%8E%B7%E5%88%913%E5%B9%B46%E4%B8%AA%E6%9C%88&Refer=top)
+
+1. [劝邻桌勿吸烟女子已获道歉赔偿](https://s.weibo.com//weibo?q=%E5%8A%9D%E9%82%BB%E6%A1%8C%E5%8B%BF%E5%90%B8%E7%83%9F%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%8E%B7%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF&Refer=top)
+
+1. [华为回应智能汽车业务](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%8A%A1&Refer=top)
+
+1. [西安大寨路一日化厂着火](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E5%A4%A7%E5%AF%A8%E8%B7%AF%E4%B8%80%E6%97%A5%E5%8C%96%E5%8E%82%E7%9D%80%E7%81%AB&Refer=top)
 
