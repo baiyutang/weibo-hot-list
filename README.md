@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 18:01:46
+## 微博今日热榜 更新于 2021-04-01 19:01:11
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -394,4 +394,18 @@
 1. [超显白橘子少女妆](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%98%BE%E7%99%BD%E6%A9%98%E5%AD%90%E5%B0%91%E5%A5%B3%E5%A6%86%23&Refer=top)
 
 1. [神还原游戏人物仿妆](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%BF%98%E5%8E%9F%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%89%A9%E4%BB%BF%E5%A6%86%23&Refer=top)
+
+1. [新冠病毒疫苗接种问答](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%97%AE%E7%AD%94%23&Refer=top)
+
+1. [苏伊士运河堵船是否影响中国外贸](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E5%A0%B5%E8%88%B9%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%23&Refer=top)
+
+1. [杨洋18宫格自拍是同一张](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B18%E5%AE%AB%E6%A0%BC%E8%87%AA%E6%8B%8D%E6%98%AF%E5%90%8C%E4%B8%80%E5%BC%A0%23&Refer=top)
+
+1. [警方通报男子勒死妻女自杀](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8B%92%E6%AD%BB%E5%A6%BB%E5%A5%B3%E8%87%AA%E6%9D%80%23&Refer=top)
+
+1. [Aster输了](https://s.weibo.com//weibo?q=%23Aster%E8%BE%93%E4%BA%86%23&Refer=top)
+
+1. [60岁及以上老人建议接种新冠疫苗](https://s.weibo.com//weibo?q=%2360%E5%B2%81%E5%8F%8A%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%BB%BA%E8%AE%AE%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [RA大龙处团灭iG](https://s.weibo.com//weibo?q=RA%E5%A4%A7%E9%BE%99%E5%A4%84%E5%9B%A2%E7%81%ADiG&Refer=top)
 
