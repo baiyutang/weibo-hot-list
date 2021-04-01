@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 00:02:52
+## 微博今日热榜 更新于 2021-04-02 01:19:15
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -102,4 +102,14 @@
 1. [主人含泪为退役导盲犬找领养家庭](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%90%AB%E6%B3%AA%E4%B8%BA%E9%80%80%E5%BD%B9%E5%AF%BC%E7%9B%B2%E7%8A%AC%E6%89%BE%E9%A2%86%E5%85%BB%E5%AE%B6%E5%BA%AD%23&Refer=top)
 
 1. [夫妻家庭地位由经济决定吗](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AE%B6%E5%BA%AD%E5%9C%B0%E4%BD%8D%E7%94%B1%E7%BB%8F%E6%B5%8E%E5%86%B3%E5%AE%9A%E5%90%97%23&Refer=top)
+
+1. [为什么应尽快接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E5%B0%BD%E5%BF%AB%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [龚俊跟薇娅说女儿取名龚得起](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%B7%9F%E8%96%87%E5%A8%85%E8%AF%B4%E5%A5%B3%E5%84%BF%E5%8F%96%E5%90%8D%E9%BE%9A%E5%BE%97%E8%B5%B7%23&Refer=top)
+
+1. [BTS新歌](https://s.weibo.com//weibo?q=BTS%E6%96%B0%E6%AD%8C&Refer=top)
+
+1. [心疼长歌](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E9%95%BF%E6%AD%8C&Refer=top)
+
+1. [LPL](https://s.weibo.com//weibo?q=LPL&Refer=top)
 
