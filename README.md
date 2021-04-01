@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 13:06:36
+## 微博今日热榜 更新于 2021-04-01 14:01:16
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -280,4 +280,28 @@
 1. [布克45分](https://s.weibo.com//weibo?q=%E5%B8%83%E5%85%8B45%E5%88%86&Refer=top)
 
 1. [姑娘坚持590天每天画一朵云](https://s.weibo.com//weibo?q=%E5%A7%91%E5%A8%98%E5%9D%9A%E6%8C%81590%E5%A4%A9%E6%AF%8F%E5%A4%A9%E7%94%BB%E4%B8%80%E6%9C%B5%E4%BA%91&Refer=top)
+
+1. [白敬亭说马思纯咬了他一口](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%92%AC%E4%BA%86%E4%BB%96%E4%B8%80%E5%8F%A3%23&Refer=top)
+
+1. [在沪停留超24小时需强制登记系误读](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%B2%AA%E5%81%9C%E7%95%99%E8%B6%8524%E5%B0%8F%E6%97%B6%E9%9C%80%E5%BC%BA%E5%88%B6%E7%99%BB%E8%AE%B0%E7%B3%BB%E8%AF%AF%E8%AF%BB%23&Refer=top)
+
+1. [男子同时交20多名女朋友诈骗900多万](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E4%BA%A420%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%88%E9%AA%97900%E5%A4%9A%E4%B8%87&Refer=top)
+
+1. [陈伟霆出演邓紫棋超能力MV](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%87%BA%E6%BC%94%E9%82%93%E7%B4%AB%E6%A3%8B%E8%B6%85%E8%83%BD%E5%8A%9BMV%23&Refer=top)
+
+1. [扫黑纪录片看傻了](https://s.weibo.com//weibo?q=%23%E6%89%AB%E9%BB%91%E7%BA%AA%E5%BD%95%E7%89%87%E7%9C%8B%E5%82%BB%E4%BA%86%23&Refer=top)
+
+1. [为了省电在厨房装声控灯](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E7%94%B5%E5%9C%A8%E5%8E%A8%E6%88%BF%E8%A3%85%E5%A3%B0%E6%8E%A7%E7%81%AF%23&Refer=top)
+
+1. [中科院化学所发生爆炸](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8C%96%E5%AD%A6%E6%89%80%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&Refer=top)
+
+1. [利刃出鞘将拍两部续集](https://s.weibo.com//weibo?q=%E5%88%A9%E5%88%83%E5%87%BA%E9%9E%98%E5%B0%86%E6%8B%8D%E4%B8%A4%E9%83%A8%E7%BB%AD%E9%9B%86&Refer=top)
+
+1. [普通人的财富自由门槛多少钱算合理](https://s.weibo.com//weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E9%97%A8%E6%A7%9B%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%90%88%E7%90%86&Refer=top)
+
+1. [可口可乐将推出纸壳包装](https://s.weibo.com//weibo?q=%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%B0%86%E6%8E%A8%E5%87%BA%E7%BA%B8%E5%A3%B3%E5%8C%85%E8%A3%85&Refer=top)
+
+1. [瑞丽完成全员核酸采样](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%AE%8C%E6%88%90%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%23&Refer=top)
+
+1. [美边境人口走私画面](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%BE%B9%E5%A2%83%E4%BA%BA%E5%8F%A3%E8%B5%B0%E7%A7%81%E7%94%BB%E9%9D%A2&Refer=top)
 
