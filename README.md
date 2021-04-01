@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 02:11:42
+## 微博今日热榜 更新于 2021-04-02 03:08:07
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -116,4 +116,8 @@
 1. [我国器官捐献10余年成功挽救10万人](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%99%A8%E5%AE%98%E6%8D%90%E7%8C%AE10%E4%BD%99%E5%B9%B4%E6%88%90%E5%8A%9F%E6%8C%BD%E6%95%9110%E4%B8%87%E4%BA%BA%23&Refer=new_time)
 
 1. [严浩翔挑染蓝发造型](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%8C%91%E6%9F%93%E8%93%9D%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [清明节假期交通运输保障工作部署来了](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E4%BF%9D%E9%9A%9C%E5%B7%A5%E4%BD%9C%E9%83%A8%E7%BD%B2%E6%9D%A5%E4%BA%86%23&Refer=new_time)
+
+1. [椰树集团涉嫌违法广告仍未撤下](https://s.weibo.com//weibo?q=%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E5%B9%BF%E5%91%8A%E4%BB%8D%E6%9C%AA%E6%92%A4%E4%B8%8B&Refer=top)
 
