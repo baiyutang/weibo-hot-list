@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 21:08:28
+## 微博今日热榜 更新于 2021-04-01 22:01:25
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -462,4 +462,38 @@
 1. [心疼长歌](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E9%95%BF%E6%AD%8C&Refer=top)
 
 1. [赵露思演的李乐嫣](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E7%9A%84%E6%9D%8E%E4%B9%90%E5%AB%A3&Refer=top)
+
+1. [86岁的院士打疫苗](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E7%9A%84%E9%99%A2%E5%A3%AB%E6%89%93%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [RA战胜iG](https://s.weibo.com//weibo?q=%23RA%E6%88%98%E8%83%9CiG%23&Refer=top)
+
+1. [首尔江南区房价降10%](https://s.weibo.com//weibo?q=%23%E9%A6%96%E5%B0%94%E6%B1%9F%E5%8D%97%E5%8C%BA%E6%88%BF%E4%BB%B7%E9%99%8D10%25%23&Refer=top)
+
+1. [成毅工作室声明](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [我的姐姐](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90&Refer=top)
+
+1. [龚俊用成都话唱芜湖](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%94%A8%E6%88%90%E9%83%BD%E8%AF%9D%E5%94%B1%E8%8A%9C%E6%B9%96%23&Refer=top)
+
+1. [部分热点城市房价上涨压力仍然较大](https://s.weibo.com//weibo?q=%E9%83%A8%E5%88%86%E7%83%AD%E7%82%B9%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%8B%E5%8A%9B%E4%BB%8D%E7%84%B6%E8%BE%83%E5%A4%A7&Refer=top)
+
+1. [苏醒和奚彬吵架](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%92%8C%E5%A5%9A%E5%BD%AC%E5%90%B5%E6%9E%B6%23&Refer=top)
+
+1. [张智霖歌声](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%99%BA%E9%9C%96%E6%AD%8C%E5%A3%B0&Refer=top)
+
+1. [米佧把邢克垒吻懵了](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E4%BD%A7%E6%8A%8A%E9%82%A2%E5%85%8B%E5%9E%92%E5%90%BB%E6%87%B5%E4%BA%86%23&Refer=top)
+
+1. [爆汁金汤佛跳墙青团](https://s.weibo.com//weibo?q=%23%E7%88%86%E6%B1%81%E9%87%91%E6%B1%A4%E4%BD%9B%E8%B7%B3%E5%A2%99%E9%9D%92%E5%9B%A2%23&Refer=top)
+
+1. [iBoy的霞](https://s.weibo.com//weibo?q=iBoy%E7%9A%84%E9%9C%9E&Refer=top)
+
+1. [吴磊安利角色名字](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%AE%89%E5%88%A9%E8%A7%92%E8%89%B2%E5%90%8D%E5%AD%97%23&Refer=top)
+
+1. [五十公里桃花坞路透](https://s.weibo.com//weibo?q=%23%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [周琦CBA篮板数追平姚明](https://s.weibo.com//weibo?q=%E5%91%A8%E7%90%A6CBA%E7%AF%AE%E6%9D%BF%E6%95%B0%E8%BF%BD%E5%B9%B3%E5%A7%9A%E6%98%8E&Refer=top)
+
+1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top)
+
+1. [好友合唱送你一朵小红花告别赵英俊](https://s.weibo.com//weibo?q=%E5%A5%BD%E5%8F%8B%E5%90%88%E5%94%B1%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%91%8A%E5%88%AB%E8%B5%B5%E8%8B%B1%E4%BF%8A&Refer=top)
 
