@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 07:01:19
+## 微博今日热榜 更新于 2021-04-01 08:03:54
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -130,4 +130,34 @@
 1. [4月天象时间表](https://s.weibo.com//weibo?q=%234%E6%9C%88%E5%A4%A9%E8%B1%A1%E6%97%B6%E9%97%B4%E8%A1%A8%23&Refer=top)
 
 1. [制糖夫妇醉酒](https://s.weibo.com//weibo?q=%23%E5%88%B6%E7%B3%96%E5%A4%AB%E5%A6%87%E9%86%89%E9%85%92%23&Refer=top)
+
+1. [张小斐 美女不要总扯肩带](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E7%BE%8E%E5%A5%B3%E4%B8%8D%E8%A6%81%E6%80%BB%E6%89%AF%E8%82%A9%E5%B8%A6&Refer=top)
+
+1. [云南新增23例无症状感染者](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E23%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [李现看到杨紫穿马丁靴比了个赞](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9C%8B%E5%88%B0%E6%9D%A8%E7%B4%AB%E7%A9%BF%E9%A9%AC%E4%B8%81%E9%9D%B4%E6%AF%94%E4%BA%86%E4%B8%AA%E8%B5%9E%23&Refer=top)
+
+1. [愚人节文案](https://s.weibo.com//weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88&Refer=top)
+
+1. [龚俊口型 才不是花蝴蝶](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%8F%A3%E5%9E%8B%20%E6%89%8D%E4%B8%8D%E6%98%AF%E8%8A%B1%E8%9D%B4%E8%9D%B6&Refer=top)
+
+1. [王伟牺牲20周年](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BC%9F%E7%89%BA%E7%89%B220%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [中化集团与中国化工实施联合重组](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%8C%96%E9%9B%86%E5%9B%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%B7%A5%E5%AE%9E%E6%96%BD%E8%81%94%E5%90%88%E9%87%8D%E7%BB%84&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [求白敬亭交出王嘉尔的直拍](https://s.weibo.com//weibo?q=%23%E6%B1%82%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%A4%E5%87%BA%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E7%9B%B4%E6%8B%8D%23&Refer=top)
+
+1. [四月文案](https://s.weibo.com//weibo?q=%E5%9B%9B%E6%9C%88%E6%96%87%E6%A1%88&Refer=top)
+
+1. [唐鹤德晒照缅怀张国荣](https://s.weibo.com//weibo?q=%E5%94%90%E9%B9%A4%E5%BE%B7%E6%99%92%E7%85%A7%E7%BC%85%E6%80%80%E5%BC%A0%E5%9B%BD%E8%8D%A3&Refer=top)
+
+1. [四月你好](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E6%9C%88%E4%BD%A0%E5%A5%BD%23&Refer=top)
+
+1. [杨笠想跟女保镖交朋友](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0%E6%83%B3%E8%B7%9F%E5%A5%B3%E4%BF%9D%E9%95%96%E4%BA%A4%E6%9C%8B%E5%8F%8B&Refer=top)
+
+1. [冰岛火山喷发游客在旁淡定打球](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%81%E6%B7%A1%E5%AE%9A%E6%89%93%E7%90%83%23&Refer=top)
+
+1. [德暂停60岁以下人群接种阿斯利康疫苗](https://s.weibo.com//weibo?q=%E5%BE%B7%E6%9A%82%E5%81%9C60%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E6%8E%A5%E7%A7%8D%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97&Refer=top)
 
