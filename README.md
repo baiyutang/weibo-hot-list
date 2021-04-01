@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 06:07:14
+## 微博今日热榜 更新于 2021-04-02 07:10:46
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -130,4 +130,14 @@
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
 
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [朱一龙焦俊艳玩魔方](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%84%A6%E4%BF%8A%E8%89%B3%E7%8E%A9%E9%AD%94%E6%96%B9%23&Refer=top)
+
+1. [浓颜明星的视觉冲击](https://s.weibo.com//weibo?q=%23%E6%B5%93%E9%A2%9C%E6%98%8E%E6%98%9F%E7%9A%84%E8%A7%86%E8%A7%89%E5%86%B2%E5%87%BB%23&Refer=top)
+
+1. [广东河源3.7级地震](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E6%B2%B3%E6%BA%903.7%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [瑞丽5地调为中风险](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD5%E5%9C%B0%E8%B0%83%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [华春莹请BBC记者向同事转达一句话](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%AF%B7BBC%E8%AE%B0%E8%80%85%E5%90%91%E5%90%8C%E4%BA%8B%E8%BD%AC%E8%BE%BE%E4%B8%80%E5%8F%A5%E8%AF%9D%23&Refer=top)
 
