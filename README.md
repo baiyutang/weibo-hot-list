@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 15:03:27
+## 微博今日热榜 更新于 2021-04-01 16:01:34
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -324,4 +324,28 @@
 1. [竟然一时不知道谁被整蛊了](https://s.weibo.com//weibo?q=%E7%AB%9F%E7%84%B6%E4%B8%80%E6%97%B6%E4%B8%8D%E7%9F%A5%E9%81%93%E8%B0%81%E8%A2%AB%E6%95%B4%E8%9B%8A%E4%BA%86&Refer=top)
 
 1. [全球粮价上涨是否影响中国人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E7%B2%AE%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&Refer=top)
+
+1. [清明节假期交通运输保障工作部署来了](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E4%BF%9D%E9%9A%9C%E5%B7%A5%E4%BD%9C%E9%83%A8%E7%BD%B2%E6%9D%A5%E4%BA%86%23&Refer=new_time)
+
+1. [蛇头将孩子扔过美墨边境墙](https://s.weibo.com//weibo?q=%23%E8%9B%87%E5%A4%B4%E5%B0%86%E5%AD%A9%E5%AD%90%E6%89%94%E8%BF%87%E7%BE%8E%E5%A2%A8%E8%BE%B9%E5%A2%83%E5%A2%99%23&Refer=top)
+
+1. [蒋勤勤收到建斌诗集](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8B%A4%E5%8B%A4%E6%94%B6%E5%88%B0%E5%BB%BA%E6%96%8C%E8%AF%97%E9%9B%86%23&Refer=top)
+
+1. [迪丽热巴古装 挑造型](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%A4%E8%A3%85%20%E6%8C%91%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [宁夏中卫北山铁矿遭疯狂超采](https://s.weibo.com//weibo?q=%23%E5%AE%81%E5%A4%8F%E4%B8%AD%E5%8D%AB%E5%8C%97%E5%B1%B1%E9%93%81%E7%9F%BF%E9%81%AD%E7%96%AF%E7%8B%82%E8%B6%85%E9%87%87%23&Refer=top)
+
+1. [你的婚礼人物海报](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC%E4%BA%BA%E7%89%A9%E6%B5%B7%E6%8A%A5&Refer=top)
+
+1. [和喜欢的人去看樱花](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E5%8E%BB%E7%9C%8B%E6%A8%B1%E8%8A%B1%23&Refer=top)
+
+1. [胡文煊 在爱豆生涯中不会谈恋爱](https://s.weibo.com//weibo?q=%E8%83%A1%E6%96%87%E7%85%8A%20%E5%9C%A8%E7%88%B1%E8%B1%86%E7%94%9F%E6%B6%AF%E4%B8%AD%E4%B8%8D%E4%BC%9A%E8%B0%88%E6%81%8B%E7%88%B1&Refer=top)
+
+1. [东京奥运会火炬大阪传递可能取消](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E5%A4%A7%E9%98%AA%E4%BC%A0%E9%80%92%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88&Refer=top)
+
+1. [北京公积金个人贷款新增告知承诺制](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%AC%E7%A7%AF%E9%87%91%E4%B8%AA%E4%BA%BA%E8%B4%B7%E6%AC%BE%E6%96%B0%E5%A2%9E%E5%91%8A%E7%9F%A5%E6%89%BF%E8%AF%BA%E5%88%B6%23&Refer=top)
+
+1. [蔡文静的碎碎念](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5%23&Refer=top)
+
+1. [王伟墓前的照片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BC%9F%E5%A2%93%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top)
 
