@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 22:01:25
+## 微博今日热榜 更新于 2021-04-01 23:08:21
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -496,4 +496,40 @@
 1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top)
 
 1. [好友合唱送你一朵小红花告别赵英俊](https://s.weibo.com//weibo?q=%E5%A5%BD%E5%8F%8B%E5%90%88%E5%94%B1%E9%80%81%E4%BD%A0%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%91%8A%E5%88%AB%E8%B5%B5%E8%8B%B1%E4%BF%8A&Refer=top)
+
+1. [数字人民币可以实现跨境交易](https://s.weibo.com//weibo?q=%23%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%A2%83%E4%BA%A4%E6%98%93%23&Refer=new_time)
+
+1. [30秒了解女性打新冠疫苗要点](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E4%BA%86%E8%A7%A3%E5%A5%B3%E6%80%A7%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A6%81%E7%82%B9%23&Refer=top)
+
+1. [李荣浩说同事给他拍的照片像村痞](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%AF%B4%E5%90%8C%E4%BA%8B%E7%BB%99%E4%BB%96%E6%8B%8D%E7%9A%84%E7%85%A7%E7%89%87%E5%83%8F%E6%9D%91%E7%97%9E%23&Refer=top)
+
+1. [胡文煊](https://s.weibo.com//weibo?q=%E8%83%A1%E6%96%87%E7%85%8A&Refer=top)
+
+1. [95岁一等功老兵深藏功名72年](https://s.weibo.com//weibo?q=%2395%E5%B2%81%E4%B8%80%E7%AD%89%E5%8A%9F%E8%80%81%E5%85%B5%E6%B7%B1%E8%97%8F%E5%8A%9F%E5%90%8D72%E5%B9%B4%23&Refer=top)
+
+1. [江疏影愚人节强行挽尊](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BC%BA%E8%A1%8C%E6%8C%BD%E5%B0%8A%23&Refer=top)
+
+1. [杨子当黄圣依站哥跑到裤子掉](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%AD%90%E5%BD%93%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%AB%99%E5%93%A5%E8%B7%91%E5%88%B0%E8%A3%A4%E5%AD%90%E6%8E%89%23&Refer=top)
+
+1. [如何看待1300斤蔬菜卖15元](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%851300%E6%96%A4%E8%94%AC%E8%8F%9C%E5%8D%9615%E5%85%83%23&Refer=top)
+
+1. [TheShy](https://s.weibo.com//weibo?q=TheShy&Refer=top)
+
+1. [刘宇宁演技](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [银行取款进入刷脸时代](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%8F%96%E6%AC%BE%E8%BF%9B%E5%85%A5%E5%88%B7%E8%84%B8%E6%97%B6%E4%BB%A3%23&Refer=top)
+
+1. [iKON舞台](https://s.weibo.com//weibo?q=%23iKON%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [王源唱骄傲送别赵英俊](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%94%B1%E9%AA%84%E5%82%B2%E9%80%81%E5%88%AB%E8%B5%B5%E8%8B%B1%E4%BF%8A%23&Refer=top)
+
+1. [林芸芸装病](https://s.weibo.com//weibo?q=%23%E6%9E%97%E8%8A%B8%E8%8A%B8%E8%A3%85%E7%97%85%23&Refer=top)
+
+1. [瑞丽疫情防控现状如何](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95%23&Refer=top)
+
+1. [华西院感专家第7次出征](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E8%A5%BF%E9%99%A2%E6%84%9F%E4%B8%93%E5%AE%B6%E7%AC%AC7%E6%AC%A1%E5%87%BA%E5%BE%81%23&Refer=top)
+
+1. [街电搜电宣布合并](https://s.weibo.com//weibo?q=%E8%A1%97%E7%94%B5%E6%90%9C%E7%94%B5%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6&Refer=top)
+
+1. [菲律宾拳王为亚裔发声](https://s.weibo.com//weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8B%B3%E7%8E%8B%E4%B8%BA%E4%BA%9A%E8%A3%94%E5%8F%91%E5%A3%B0&Refer=top)
 
