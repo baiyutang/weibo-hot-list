@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 16:01:34
+## 微博今日热榜 更新于 2021-04-01 17:01:53
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -348,4 +348,24 @@
 1. [蔡文静的碎碎念](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5%23&Refer=top)
 
 1. [王伟墓前的照片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BC%9F%E5%A2%93%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [吴青峰 15年最后换来一场虚幻吗](https://s.weibo.com//weibo?q=%E5%90%B4%E9%9D%92%E5%B3%B0%2015%E5%B9%B4%E6%9C%80%E5%90%8E%E6%8D%A2%E6%9D%A5%E4%B8%80%E5%9C%BA%E8%99%9A%E5%B9%BB%E5%90%97&Refer=top)
+
+1. [民警父子相继牺牲禁毒一线纪录片](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%88%B6%E5%AD%90%E7%9B%B8%E7%BB%A7%E7%89%BA%E7%89%B2%E7%A6%81%E6%AF%92%E4%B8%80%E7%BA%BF%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top)
+
+1. [北京健身房设七天冷静期](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%81%A5%E8%BA%AB%E6%88%BF%E8%AE%BE%E4%B8%83%E5%A4%A9%E5%86%B7%E9%9D%99%E6%9C%9F&Refer=top)
+
+1. [华春莹说香港发展不靠外国恩赐施舍](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%AF%B4%E9%A6%99%E6%B8%AF%E5%8F%91%E5%B1%95%E4%B8%8D%E9%9D%A0%E5%A4%96%E5%9B%BD%E6%81%A9%E8%B5%90%E6%96%BD%E8%88%8D%23&Refer=top)
+
+1. [黄圣依冲浪翻车现场](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%86%B2%E6%B5%AA%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [广东有望免费接种HPV疫苗](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%89%E6%9C%9B%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [乐拼恶意模仿乐高被判赔3000万](https://s.weibo.com//weibo?q=%E4%B9%90%E6%8B%BC%E6%81%B6%E6%84%8F%E6%A8%A1%E4%BB%BF%E4%B9%90%E9%AB%98%E8%A2%AB%E5%88%A4%E8%B5%943000%E4%B8%87&Refer=top)
+
+1. [我们为何难忘张国荣](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%95%E9%9A%BE%E5%BF%98%E5%BC%A0%E5%9B%BD%E8%8D%A3%23&Refer=top)
+
+1. [美国小伙实拍疫后中美差距](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%AE%9E%E6%8B%8D%E7%96%AB%E5%90%8E%E4%B8%AD%E7%BE%8E%E5%B7%AE%E8%B7%9D&Refer=top)
+
+1. [金沙流心芋泥青团](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%B2%99%E6%B5%81%E5%BF%83%E8%8A%8B%E6%B3%A5%E9%9D%92%E5%9B%A2%23&Refer=top)
 
