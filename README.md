@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 08:03:54
+## 微博今日热榜 更新于 2021-04-01 09:25:13
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -160,4 +160,34 @@
 1. [冰岛火山喷发游客在旁淡定打球](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%81%E6%B7%A1%E5%AE%9A%E6%89%93%E7%90%83%23&Refer=top)
 
 1. [德暂停60岁以下人群接种阿斯利康疫苗](https://s.weibo.com//weibo?q=%E5%BE%B7%E6%9A%82%E5%81%9C60%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E6%8E%A5%E7%A7%8D%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [雄安新区设立4周年](https://s.weibo.com//weibo?q=%23%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E8%AE%BE%E7%AB%8B4%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [见过最朴素的机场](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E6%9C%B4%E7%B4%A0%E7%9A%84%E6%9C%BA%E5%9C%BA%23&Refer=top)
+
+1. [迪丽热巴哭戏](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%93%AD%E6%88%8F%23&Refer=top)
+
+1. [医院引进自动麻将机助患者康复](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E5%BC%95%E8%BF%9B%E8%87%AA%E5%8A%A8%E9%BA%BB%E5%B0%86%E6%9C%BA%E5%8A%A9%E6%82%A3%E8%80%85%E5%BA%B7%E5%A4%8D%23&Refer=top)
+
+1. [为什么应尽快接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E5%B0%BD%E5%BF%AB%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [刘宇宁原声](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8E%9F%E5%A3%B0%23&Refer=top)
+
+1. [愚人节最真情话](https://s.weibo.com//weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E6%9C%80%E7%9C%9F%E6%83%85%E8%AF%9D%23&Refer=top)
+
+1. [人被逼急了能干出什么事](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E8%A2%AB%E9%80%BC%E6%80%A5%E4%BA%86%E8%83%BD%E5%B9%B2%E5%87%BA%E4%BB%80%E4%B9%88%E4%BA%8B%23&Refer=top)
+
+1. [林芸芸被顾家伟数落](https://s.weibo.com//weibo?q=%23%E6%9E%97%E8%8A%B8%E8%8A%B8%E8%A2%AB%E9%A1%BE%E5%AE%B6%E4%BC%9F%E6%95%B0%E8%90%BD%23&Refer=top)
+
+1. [今天是乌索普的生日](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B9%8C%E7%B4%A2%E6%99%AE%E7%9A%84%E7%94%9F%E6%97%A5%23&Refer=top)
+
+1. [海空卫士王伟入党申请书首次公开](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E7%A9%BA%E5%8D%AB%E5%A3%AB%E7%8E%8B%E4%BC%9F%E5%85%A5%E5%85%9A%E7%94%B3%E8%AF%B7%E4%B9%A6%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%23&Refer=top)
+
+1. [德国主场爆冷输球](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD%E4%B8%BB%E5%9C%BA%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83&Refer=top)
+
+1. [王伟的夙愿实现了](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BC%9F%E7%9A%84%E5%A4%99%E6%84%BF%E5%AE%9E%E7%8E%B0%E4%BA%86&Refer=top)
+
+1. [31省区市新增确诊病例16例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B16%E4%BE%8B%23&Refer=top)
 
