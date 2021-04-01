@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 05:01:35
+## 微博今日热榜 更新于 2021-04-02 06:07:14
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -128,4 +128,6 @@
 1. [RA战胜iG](https://s.weibo.com//weibo?q=%23RA%E6%88%98%E8%83%9CiG%23&Refer=top)
 
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
