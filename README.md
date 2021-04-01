@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 11:07:28
+## 微博今日热榜 更新于 2021-04-01 12:01:33
 1. [在党史学习教育动员大会上的讲话](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -236,4 +236,18 @@
 1. [雄鹿 湖人](https://s.weibo.com//weibo?q=%E9%9B%84%E9%B9%BF%20%E6%B9%96%E4%BA%BA&Refer=top)
 
 1. [看完眼科后的社死瞬间](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E5%AE%8C%E7%9C%BC%E7%A7%91%E5%90%8E%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [吴磊荷尔蒙](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E8%8D%B7%E5%B0%94%E8%92%99%23&Refer=top)
+
+1. [幼儿园男童呕吐后趴桌身亡](https://s.weibo.com//weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%94%B7%E7%AB%A5%E5%91%95%E5%90%90%E5%90%8E%E8%B6%B4%E6%A1%8C%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [袁咏仪缅怀张国荣](https://s.weibo.com//weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%E7%BC%85%E6%80%80%E5%BC%A0%E5%9B%BD%E8%8D%A3&Refer=top)
+
+1. [吴青峰著作权案二审胜诉](https://s.weibo.com//weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E8%91%97%E4%BD%9C%E6%9D%83%E6%A1%88%E4%BA%8C%E5%AE%A1%E8%83%9C%E8%AF%89%23&Refer=top)
+
+1. [真实的扶贫有多困难](https://s.weibo.com//weibo?q=%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%89%B6%E8%B4%AB%E6%9C%89%E5%A4%9A%E5%9B%B0%E9%9A%BE&Refer=top)
+
+1. [多地樱花大道惊艳开放](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%A8%B1%E8%8A%B1%E5%A4%A7%E9%81%93%E6%83%8A%E8%89%B3%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [夏达 长歌行](https://s.weibo.com//weibo?q=%E5%A4%8F%E8%BE%BE%20%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
