@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 10:24:55
+## 微博今日热榜 更新于 2021-04-02 11:07:53
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -216,4 +216,28 @@
 1. [篮网大胜黄蜂](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%E5%A4%A7%E8%83%9C%E9%BB%84%E8%9C%82&Refer=top)
 
 1. [康辉说缅怀烈士还应保持一份痛感](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E8%BE%89%E8%AF%B4%E7%BC%85%E6%80%80%E7%83%88%E5%A3%AB%E8%BF%98%E5%BA%94%E4%BF%9D%E6%8C%81%E4%B8%80%E4%BB%BD%E7%97%9B%E6%84%9F%23&Refer=top)
+
+1. [变形计尚成苍爷爷去世](https://s.weibo.com//weibo?q=%23%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%B0%9A%E6%88%90%E8%8B%8D%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [山东婚姻登记照相全省免费](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E7%85%A7%E7%9B%B8%E5%85%A8%E7%9C%81%E5%85%8D%E8%B4%B9%23&Refer=top)
+
+1. [教育部明确3个重要时间保睡眠](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE3%E4%B8%AA%E9%87%8D%E8%A6%81%E6%97%B6%E9%97%B4%E4%BF%9D%E7%9D%A1%E7%9C%A0%23&Refer=top)
+
+1. [网游22点后不得为未成年人服务](https://s.weibo.com//weibo?q=%E7%BD%91%E6%B8%B822%E7%82%B9%E5%90%8E%E4%B8%8D%E5%BE%97%E4%B8%BA%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%8D%E5%8A%A1&Refer=top)
+
+1. [等等让孙俪去医院看看头脑](https://s.weibo.com//weibo?q=%23%E7%AD%89%E7%AD%89%E8%AE%A9%E5%AD%99%E4%BF%AA%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%9C%8B%E5%A4%B4%E8%84%91%23&Refer=top)
+
+1. [十年一品温如言定档](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%B9%B4%E4%B8%80%E5%93%81%E6%B8%A9%E5%A6%82%E8%A8%80%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [诺安涨势](https://s.weibo.com//weibo?q=%E8%AF%BA%E5%AE%89%E6%B6%A8%E5%8A%BF&Refer=top)
+
+1. [4月底前浙江完成2340万人第一剂接种](https://s.weibo.com//weibo?q=4%E6%9C%88%E5%BA%95%E5%89%8D%E6%B5%99%E6%B1%9F%E5%AE%8C%E6%88%902340%E4%B8%87%E4%BA%BA%E7%AC%AC%E4%B8%80%E5%89%82%E6%8E%A5%E7%A7%8D&Refer=top)
+
+1. [浙江完成新冠疫苗接种678.15万剂次](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%AE%8C%E6%88%90%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D678.15%E4%B8%87%E5%89%82%E6%AC%A1%23&Refer=top)
+
+1. [基金从业资格考试](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&Refer=top)
+
+1. [缅甸军方要求关闭全国无线互联网](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E8%A6%81%E6%B1%82%E5%85%B3%E9%97%AD%E5%85%A8%E5%9B%BD%E6%97%A0%E7%BA%BF%E4%BA%92%E8%81%94%E7%BD%91&Refer=top)
+
+1. [在浙就业旅居均可免费接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%B5%99%E5%B0%B1%E4%B8%9A%E6%97%85%E5%B1%85%E5%9D%87%E5%8F%AF%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
 
