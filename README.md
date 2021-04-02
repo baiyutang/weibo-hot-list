@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 11:07:53
+## 微博今日热榜 更新于 2021-04-02 12:04:35
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -240,4 +240,40 @@
 1. [缅甸军方要求关闭全国无线互联网](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B8%E5%86%9B%E6%96%B9%E8%A6%81%E6%B1%82%E5%85%B3%E9%97%AD%E5%85%A8%E5%9B%BD%E6%97%A0%E7%BA%BF%E4%BA%92%E8%81%94%E7%BD%91&Refer=top)
 
 1. [在浙就业旅居均可免费接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%B5%99%E5%B0%B1%E4%B8%9A%E6%97%85%E5%B1%85%E5%9D%87%E5%8F%AF%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
+
+1. [十年一品温如言选角](https://s.weibo.com//weibo?q=%E5%8D%81%E5%B9%B4%E4%B8%80%E5%93%81%E6%B8%A9%E5%A6%82%E8%A8%80%E9%80%89%E8%A7%92&Refer=top)
+
+1. [Schoolgirlbyebye成员自曝学术造假](https://s.weibo.com//weibo?q=%23Schoolgirlbyebye%E6%88%90%E5%91%98%E8%87%AA%E6%9B%9D%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%23&Refer=top)
+
+1. [刘芸把起飞时间记成了起床时间](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8A%B8%E6%8A%8A%E8%B5%B7%E9%A3%9E%E6%97%B6%E9%97%B4%E8%AE%B0%E6%88%90%E4%BA%86%E8%B5%B7%E5%BA%8A%E6%97%B6%E9%97%B4%23&Refer=top)
+
+1. [男子微信群聊中辱骂烈士被刑拘](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E4%B8%AD%E8%BE%B1%E9%AA%82%E7%83%88%E5%A3%AB%E8%A2%AB%E5%88%91%E6%8B%98&Refer=top)
+
+1. [印尼少年为拍视频拦卡车被撞身亡](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%BC%E5%B0%91%E5%B9%B4%E4%B8%BA%E6%8B%8D%E8%A7%86%E9%A2%91%E6%8B%A6%E5%8D%A1%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [虞书欣为赵小棠庆生](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%BA%E8%B5%B5%E5%B0%8F%E6%A3%A0%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [极端分子脑中的天堂什么样](https://s.weibo.com//weibo?q=%23%E6%9E%81%E7%AB%AF%E5%88%86%E5%AD%90%E8%84%91%E4%B8%AD%E7%9A%84%E5%A4%A9%E5%A0%82%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
+
+1. [papi酱新电影台词](https://s.weibo.com//weibo?q=papi%E9%85%B1%E6%96%B0%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D&Refer=top)
+
+1. [蒋勤勤 建斌诗集随手一翻好多错字](https://s.weibo.com//weibo?q=%E8%92%8B%E5%8B%A4%E5%8B%A4%20%E5%BB%BA%E6%96%8C%E8%AF%97%E9%9B%86%E9%9A%8F%E6%89%8B%E4%B8%80%E7%BF%BB%E5%A5%BD%E5%A4%9A%E9%94%99%E5%AD%97&Refer=top)
+
+1. [画云姑娘回应连续590天画云](https://s.weibo.com//weibo?q=%23%E7%94%BB%E4%BA%91%E5%A7%91%E5%A8%98%E5%9B%9E%E5%BA%94%E8%BF%9E%E7%BB%AD590%E5%A4%A9%E7%94%BB%E4%BA%91%23&Refer=top)
+
+1. [台铁列车脱轨](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8&Refer=top)
+
+1. [比特币再度突破60000美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%86%8D%E5%BA%A6%E7%AA%81%E7%A0%B460000%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [新疆问题教材使用长达13年](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98%E6%95%99%E6%9D%90%E4%BD%BF%E7%94%A8%E9%95%BF%E8%BE%BE13%E5%B9%B4%23&Refer=top)
+
+1. [汪东城 希望我明年是真的公开了](https://s.weibo.com//weibo?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%20%E5%B8%8C%E6%9C%9B%E6%88%91%E6%98%8E%E5%B9%B4%E6%98%AF%E7%9C%9F%E7%9A%84%E5%85%AC%E5%BC%80%E4%BA%86&Refer=top)
+
+1. [自闭症男孩学钢琴登上国际舞台](https://s.weibo.com//weibo?q=%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E5%AD%A6%E9%92%A2%E7%90%B4%E7%99%BB%E4%B8%8A%E5%9B%BD%E9%99%85%E8%88%9E%E5%8F%B0&Refer=top)
+
+1. [自闭症早期五不行为](https://s.weibo.com//weibo?q=%23%E8%87%AA%E9%97%AD%E7%97%87%E6%97%A9%E6%9C%9F%E4%BA%94%E4%B8%8D%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [ATM机一年减少8万台](https://s.weibo.com//weibo?q=ATM%E6%9C%BA%E4%B8%80%E5%B9%B4%E5%87%8F%E5%B0%918%E4%B8%87%E5%8F%B0&Refer=top)
 
