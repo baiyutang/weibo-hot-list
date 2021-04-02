@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 09:26:18
+## 微博今日热榜 更新于 2021-04-02 10:24:55
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -198,4 +198,22 @@
 1. [31省区市新增9例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E9%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
 1. [德云社封箱节目单](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B0%81%E7%AE%B1%E8%8A%82%E7%9B%AE%E5%8D%95&Refer=top)
+
+1. [脸书将删除所有带特朗普声音的内容](https://s.weibo.com//weibo?q=%23%E8%84%B8%E4%B9%A6%E5%B0%86%E5%88%A0%E9%99%A4%E6%89%80%E6%9C%89%E5%B8%A6%E7%89%B9%E6%9C%97%E6%99%AE%E5%A3%B0%E9%9F%B3%E7%9A%84%E5%86%85%E5%AE%B9%23&Refer=top)
+
+1. [杨丞琳说心疼吴青峰](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E8%AF%B4%E5%BF%83%E7%96%BC%E5%90%B4%E9%9D%92%E5%B3%B0&Refer=top)
+
+1. [黑龙江9万平黑土遭盗挖](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F9%E4%B8%87%E5%B9%B3%E9%BB%91%E5%9C%9F%E9%81%AD%E7%9B%97%E6%8C%96%23&Refer=top)
+
+1. [沾老寿星猫猫的福气](https://s.weibo.com//weibo?q=%E6%B2%BE%E8%80%81%E5%AF%BF%E6%98%9F%E7%8C%AB%E7%8C%AB%E7%9A%84%E7%A6%8F%E6%B0%94&Refer=top)
+
+1. [绿色樱花绽放南京玄武湖](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E8%89%B2%E6%A8%B1%E8%8A%B1%E7%BB%BD%E6%94%BE%E5%8D%97%E4%BA%AC%E7%8E%84%E6%AD%A6%E6%B9%96%23&Refer=top)
+
+1. [当你不想听别人说话时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%AB%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%97%B6%23&Refer=top)
+
+1. [快乐大本营预告](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [篮网大胜黄蜂](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%E5%A4%A7%E8%83%9C%E9%BB%84%E8%9C%82&Refer=top)
+
+1. [康辉说缅怀烈士还应保持一份痛感](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E8%BE%89%E8%AF%B4%E7%BC%85%E6%80%80%E7%83%88%E5%A3%AB%E8%BF%98%E5%BA%94%E4%BF%9D%E6%8C%81%E4%B8%80%E4%BB%BD%E7%97%9B%E6%84%9F%23&Refer=top)
 
