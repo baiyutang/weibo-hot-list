@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 22:01:18
+## 微博今日热榜 更新于 2021-04-02 23:01:17
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -538,4 +538,30 @@
 1. [王子文还记得曲筱绡的台词](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E8%BF%98%E8%AE%B0%E5%BE%97%E6%9B%B2%E7%AD%B1%E7%BB%A1%E7%9A%84%E5%8F%B0%E8%AF%8D%23&Refer=top)
 
 1. [初恋草莓爆浆雪胖子](https://s.weibo.com//weibo?q=%23%E5%88%9D%E6%81%8B%E8%8D%89%E8%8E%93%E7%88%86%E6%B5%86%E9%9B%AA%E8%83%96%E5%AD%90%23&Refer=top)
+
+1. [吴彤把霍思燕P进七仙女合影](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%8A%8A%E9%9C%8D%E6%80%9D%E7%87%95P%E8%BF%9B%E4%B8%83%E4%BB%99%E5%A5%B3%E5%90%88%E5%BD%B1%23&Refer=top)
+
+1. [欢天喜地七仙女重聚 爷青回](https://s.weibo.com//weibo?q=%E6%AC%A2%E5%A4%A9%E5%96%9C%E5%9C%B0%E4%B8%83%E4%BB%99%E5%A5%B3%E9%87%8D%E8%81%9A%20%E7%88%B7%E9%9D%92%E5%9B%9E&Refer=top)
+
+1. [台铁脱轨事故仍有200人等待救援](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E8%84%B1%E8%BD%A8%E4%BA%8B%E6%95%85%E4%BB%8D%E6%9C%89200%E4%BA%BA%E7%AD%89%E5%BE%85%E6%95%91%E6%8F%B4&Refer=top)
+
+1. [黄子韬 我宁愿用十年寿命换我爸一年](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E5%AE%81%E6%84%BF%E7%94%A8%E5%8D%81%E5%B9%B4%E5%AF%BF%E5%91%BD%E6%8D%A2%E6%88%91%E7%88%B8%E4%B8%80%E5%B9%B4&Refer=top)
+
+1. [范丞丞穿女装比薇娅好看](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%AF%94%E8%96%87%E5%A8%85%E5%A5%BD%E7%9C%8B%23&Refer=top)
+
+1. [刘惜君大风吹](https://s.weibo.com//weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E5%A4%A7%E9%A3%8E%E5%90%B9&Refer=top)
+
+1. [徐新驰三次落选](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%96%B0%E9%A9%B0%E4%B8%89%E6%AC%A1%E8%90%BD%E9%80%89%23&Refer=top)
+
+1. [关晓彤模仿顶楼夏恩星](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E6%A8%A1%E4%BB%BF%E9%A1%B6%E6%A5%BC%E5%A4%8F%E6%81%A9%E6%98%9F&Refer=top)
+
+1. [我的姐姐北京首映礼](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E5%8C%97%E4%BA%AC%E9%A6%96%E6%98%A0%E7%A4%BC&Refer=top)
+
+1. [见过最草率的名字](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E8%8D%89%E7%8E%87%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=top)
+
+1. [男子水下闭气24分33秒破纪录](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E6%B0%B4%E4%B8%8B%E9%97%AD%E6%B0%9424%E5%88%8633%E7%A7%92%E7%A0%B4%E7%BA%AA%E5%BD%95&Refer=top)
+
+1. [最强大脑](https://s.weibo.com//weibo?q=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&Refer=top)
+
+1. [徐子未全场第一](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%AD%90%E6%9C%AA%E5%85%A8%E5%9C%BA%E7%AC%AC%E4%B8%80%23&Refer=top)
 
