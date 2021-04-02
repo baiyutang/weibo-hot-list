@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 14:01:11
+## 微博今日热榜 更新于 2021-04-02 15:04:18
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -322,4 +322,28 @@
 1. [互联网大厂的黑话困局](https://s.weibo.com//weibo?q=%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E5%8E%82%E7%9A%84%E9%BB%91%E8%AF%9D%E5%9B%B0%E5%B1%80&Refer=top)
 
 1. [王者荣耀艾琳重塑](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%89%BE%E7%90%B3%E9%87%8D%E5%A1%91&Refer=top)
+
+1. [陈小纭 讨论抨击我都接受](https://s.weibo.com//weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%20%E8%AE%A8%E8%AE%BA%E6%8A%A8%E5%87%BB%E6%88%91%E9%83%BD%E6%8E%A5%E5%8F%97&Refer=top)
+
+1. [多名证人称弗洛伊德在案发现场已死亡](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%90%8D%E8%AF%81%E4%BA%BA%E7%A7%B0%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E5%9C%A8%E6%A1%88%E5%8F%91%E7%8E%B0%E5%9C%BA%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [清明假期全国天气预报地图](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%85%A8%E5%9B%BD%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E5%9C%B0%E5%9B%BE%23&Refer=top)
+
+1. [追星星的人官宣](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E6%98%9F%E7%9A%84%E4%BA%BA%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [那英组达尔文全季最高分](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E7%BB%84%E8%BE%BE%E5%B0%94%E6%96%87%E5%85%A8%E5%AD%A3%E6%9C%80%E9%AB%98%E5%88%86&Refer=top)
+
+1. [恰好是少年发布会](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [刘涛 我不端水我举缸](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%20%E6%88%91%E4%B8%8D%E7%AB%AF%E6%B0%B4%E6%88%91%E4%B8%BE%E7%BC%B8%23&Refer=top)
+
+1. [台铁脱轨列车司机确认殉职](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%93%81%E8%84%B1%E8%BD%A8%E5%88%97%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%A1%AE%E8%AE%A4%E6%AE%89%E8%81%8C%23&Refer=top)
+
+1. [国际泳联取消跳水世界杯](https://s.weibo.com//weibo?q=%E5%9B%BD%E9%99%85%E6%B3%B3%E8%81%94%E5%8F%96%E6%B6%88%E8%B7%B3%E6%B0%B4%E4%B8%96%E7%95%8C%E6%9D%AF&Refer=top)
+
+1. [马来西亚外长用中文称呼王毅大哥](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%96%E9%95%BF%E7%94%A8%E4%B8%AD%E6%96%87%E7%A7%B0%E5%91%BC%E7%8E%8B%E6%AF%85%E5%A4%A7%E5%93%A5%23&Refer=top)
+
+1. [周笔畅被杨钰莹杨丞琳亲](https://s.weibo.com//weibo?q=%E5%91%A8%E7%AC%94%E7%95%85%E8%A2%AB%E6%9D%A8%E9%92%B0%E8%8E%B9%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%BA%B2&Refer=top)
+
+1. [温孤好惨](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AD%A4%E5%A5%BD%E6%83%A8%23&Refer=top)
 
