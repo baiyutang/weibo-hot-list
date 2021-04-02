@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 17:02:24
+## 微博今日热榜 更新于 2021-04-02 18:01:13
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -398,4 +398,32 @@
 1. [芹菜青椒降价30%](https://s.weibo.com//weibo?q=%23%E8%8A%B9%E8%8F%9C%E9%9D%92%E6%A4%92%E9%99%8D%E4%BB%B730%25%23&Refer=top)
 
 1. [沈铁部分火车允许农民摆摊](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%93%81%E9%83%A8%E5%88%86%E7%81%AB%E8%BD%A6%E5%85%81%E8%AE%B8%E5%86%9C%E6%B0%91%E6%91%86%E6%91%8A%23&Refer=top)
+
+1. [第四部新疆反恐纪录片](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E5%9B%9B%E9%83%A8%E6%96%B0%E7%96%86%E5%8F%8D%E6%81%90%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
+
+1. [宋妍霏科目一考了两次都没过](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%83%E4%BA%86%E4%B8%A4%E6%AC%A1%E9%83%BD%E6%B2%A1%E8%BF%87%23&Refer=top)
+
+1. [王俊凯因高反错过看流星](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%A0%E9%AB%98%E5%8F%8D%E9%94%99%E8%BF%87%E7%9C%8B%E6%B5%81%E6%98%9F%23&Refer=top)
+
+1. [娜扎侧颜](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E4%BE%A7%E9%A2%9C%23&Refer=top)
+
+1. [平板支撑有点费脚趾头](https://s.weibo.com//weibo?q=%E5%B9%B3%E6%9D%BF%E6%94%AF%E6%92%91%E6%9C%89%E7%82%B9%E8%B4%B9%E8%84%9A%E8%B6%BE%E5%A4%B4&Refer=top)
+
+1. [李长歌狠强惨](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E7%8B%A0%E5%BC%BA%E6%83%A8%23&Refer=top)
+
+1. [秦岚醉酒演技](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E9%86%89%E9%85%92%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [华春莹希望国外各界人士到新疆看一看](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%B8%8C%E6%9C%9B%E5%9B%BD%E5%A4%96%E5%90%84%E7%95%8C%E4%BA%BA%E5%A3%AB%E5%88%B0%E6%96%B0%E7%96%86%E7%9C%8B%E4%B8%80%E7%9C%8B%23&Refer=top)
+
+1. [杨紫欢瑞优酷三方联合声明](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%AC%A2%E7%91%9E%E4%BC%98%E9%85%B7%E4%B8%89%E6%96%B9%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [哥斯拉大战金刚细节](https://s.weibo.com//weibo?q=%23%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [吴磊台词 攻或不攻我自有考量](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%E5%8F%B0%E8%AF%8D%20%E6%94%BB%E6%88%96%E4%B8%8D%E6%94%BB%E6%88%91%E8%87%AA%E6%9C%89%E8%80%83%E9%87%8F&Refer=top)
+
+1. [沉香如屑](https://s.weibo.com//weibo?q=%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91&Refer=top)
+
+1. [云中君纤云弄巧仿妆](https://s.weibo.com//weibo?q=%23%E4%BA%91%E4%B8%AD%E5%90%9B%E7%BA%A4%E4%BA%91%E5%BC%84%E5%B7%A7%E4%BB%BF%E5%A6%86%23&Refer=top)
+
+1. [最爱的广式茶点](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%88%B1%E7%9A%84%E5%B9%BF%E5%BC%8F%E8%8C%B6%E7%82%B9%23&Refer=top)
 
