@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 13:06:34
+## 微博今日热榜 更新于 2021-04-02 14:01:11
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -302,4 +302,24 @@
 1. [教育部列出12种问题课外读物清单](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%88%97%E5%87%BA12%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%BE%E5%A4%96%E8%AF%BB%E7%89%A9%E6%B8%85%E5%8D%95%23&Refer=top)
 
 1. [第十一回](https://s.weibo.com//weibo?q=%E7%AC%AC%E5%8D%81%E4%B8%80%E5%9B%9E&Refer=top)
+
+1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
+
+1. [林依轮两个儿子同台走秀](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E8%BD%AE%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E5%90%8C%E5%8F%B0%E8%B5%B0%E7%A7%80&Refer=top)
+
+1. [那英容祖儿陈梓童 达尔文](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E5%AE%B9%E7%A5%96%E5%84%BF%E9%99%88%E6%A2%93%E7%AB%A5%20%E8%BE%BE%E5%B0%94%E6%96%87&Refer=top)
+
+1. [乘风破浪的姐姐五公](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E4%BA%94%E5%85%AC&Refer=top)
+
+1. [创造营预告](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [张柏芝粤语独白](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%B2%A4%E8%AF%AD%E7%8B%AC%E7%99%BD%23&Refer=top)
+
+1. [戏说党史国史军史读物不能进校园](https://s.weibo.com//weibo?q=%23%E6%88%8F%E8%AF%B4%E5%85%9A%E5%8F%B2%E5%9B%BD%E5%8F%B2%E5%86%9B%E5%8F%B2%E8%AF%BB%E7%89%A9%E4%B8%8D%E8%83%BD%E8%BF%9B%E6%A0%A1%E5%9B%AD%23&Refer=top)
+
+1. [南京禄口机场候机厅浓烟弥漫](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E7%A6%84%E5%8F%A3%E6%9C%BA%E5%9C%BA%E5%80%99%E6%9C%BA%E5%8E%85%E6%B5%93%E7%83%9F%E5%BC%A5%E6%BC%AB&Refer=top)
+
+1. [互联网大厂的黑话困局](https://s.weibo.com//weibo?q=%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E5%8E%82%E7%9A%84%E9%BB%91%E8%AF%9D%E5%9B%B0%E5%B1%80&Refer=top)
+
+1. [王者荣耀艾琳重塑](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%89%BE%E7%90%B3%E9%87%8D%E5%A1%91&Refer=top)
 
