@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 01:19:16
+## 微博今日热榜 更新于 2021-04-03 02:10:58
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -110,4 +110,10 @@
 1. [百变大咖秀](https://s.weibo.com//weibo?q=%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80&Refer=top)
 
 1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [第四部新疆反恐纪录片](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E5%9B%9B%E9%83%A8%E6%96%B0%E7%96%86%E5%8F%8D%E6%81%90%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
+
+1. [毛不易年会想要哇唧股份](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%B9%B4%E4%BC%9A%E6%83%B3%E8%A6%81%E5%93%87%E5%94%A7%E8%82%A1%E4%BB%BD&Refer=top)
+
+1. [大风吹](https://s.weibo.com//weibo?q=%E5%A4%A7%E9%A3%8E%E5%90%B9&Refer=top)
 
