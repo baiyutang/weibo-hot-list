@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 07:10:46
+## 微博今日热榜 更新于 2021-04-02 08:09:07
 1. [数据带你看雄安之变](https://s.weibo.com//weibo?q=%23%E6%95%B0%E6%8D%AE%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%9B%84%E5%AE%89%E4%B9%8B%E5%8F%98%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -140,4 +140,32 @@
 1. [瑞丽5地调为中风险](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD5%E5%9C%B0%E8%B0%83%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
 
 1. [华春莹请BBC记者向同事转达一句话](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%AF%B7BBC%E8%AE%B0%E8%80%85%E5%90%91%E5%90%8C%E4%BA%8B%E8%BD%AC%E8%BE%BE%E4%B8%80%E5%8F%A5%E8%AF%9D%23&Refer=top)
+
+1. [我国每68名孩子中约有1名患自闭症](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%AF%8F68%E5%90%8D%E5%AD%A9%E5%AD%90%E4%B8%AD%E7%BA%A6%E6%9C%891%E5%90%8D%E6%82%A3%E8%87%AA%E9%97%AD%E7%97%87%23&Refer=top)
+
+1. [张杰晒昔日视频送别赵英俊](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E6%99%92%E6%98%94%E6%97%A5%E8%A7%86%E9%A2%91%E9%80%81%E5%88%AB%E8%B5%B5%E8%8B%B1%E4%BF%8A&Refer=top)
+
+1. [龚俊说李荣浩很有气质](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%AF%B4%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%BE%88%E6%9C%89%E6%B0%94%E8%B4%A8%23&Refer=top)
+
+1. [西班牙诞生世界首个带新冠抗体婴儿](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%9E%E7%94%9F%E4%B8%96%E7%95%8C%E9%A6%96%E4%B8%AA%E5%B8%A6%E6%96%B0%E5%86%A0%E6%8A%97%E4%BD%93%E5%A9%B4%E5%84%BF&Refer=top)
+
+1. [瑞丽计划5天内全员接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E8%AE%A1%E5%88%925%E5%A4%A9%E5%86%85%E5%85%A8%E5%91%98%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [毒品被混入饼干身体乳试图入境](https://s.weibo.com//weibo?q=%23%E6%AF%92%E5%93%81%E8%A2%AB%E6%B7%B7%E5%85%A5%E9%A5%BC%E5%B9%B2%E8%BA%AB%E4%BD%93%E4%B9%B3%E8%AF%95%E5%9B%BE%E5%85%A5%E5%A2%83%23&Refer=top)
+
+1. [朱正廷张含韵合唱我们都是追梦人](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E5%BC%A0%E5%90%AB%E9%9F%B5%E5%90%88%E5%94%B1%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E8%BF%BD%E6%A2%A6%E4%BA%BA%23&Refer=top)
+
+1. [周琦37分26篮板](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A637%E5%88%8626%E7%AF%AE%E6%9D%BF%23&Refer=top)
+
+1. [孙杨案重审听证会5月下旬举行](https://s.weibo.com//weibo?q=%E5%AD%99%E6%9D%A8%E6%A1%88%E9%87%8D%E5%AE%A1%E5%90%AC%E8%AF%81%E4%BC%9A5%E6%9C%88%E4%B8%8B%E6%97%AC%E4%B8%BE%E8%A1%8C&Refer=top)
+
+1. [瑞丽设置边境封控点506个](https://s.weibo.com//weibo?q=%E7%91%9E%E4%B8%BD%E8%AE%BE%E7%BD%AE%E8%BE%B9%E5%A2%83%E5%B0%81%E6%8E%A7%E7%82%B9506%E4%B8%AA&Refer=top)
+
+1. [世界自闭症日](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E8%87%AA%E9%97%AD%E7%97%87%E6%97%A5&Refer=top)
+
+1. [哈登连续当选月最佳](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E8%BF%9E%E7%BB%AD%E5%BD%93%E9%80%89%E6%9C%88%E6%9C%80%E4%BD%B3&Refer=top)
+
+1. [标普500指数突破4000点](https://s.weibo.com//weibo?q=%23%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E7%AA%81%E7%A0%B44000%E7%82%B9%23&Refer=top)
 
