@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 02:10:58
+## 微博今日热榜 更新于 2021-04-03 03:07:08
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -116,4 +116,10 @@
 1. [毛不易年会想要哇唧股份](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%B9%B4%E4%BC%9A%E6%83%B3%E8%A6%81%E5%93%87%E5%94%A7%E8%82%A1%E4%BB%BD&Refer=top)
 
 1. [大风吹](https://s.weibo.com//weibo?q=%E5%A4%A7%E9%A3%8E%E5%90%B9&Refer=top)
+
+1. [新冠疫苗要扩大产能增加产量](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%A6%81%E6%89%A9%E5%A4%A7%E4%BA%A7%E8%83%BD%E5%A2%9E%E5%8A%A0%E4%BA%A7%E9%87%8F%23&Refer=new_time)
+
+1. [青你3二公排名](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E4%BA%8C%E5%85%AC%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [关睿怡淘汰](https://s.weibo.com//weibo?q=%23%E5%85%B3%E7%9D%BF%E6%80%A1%E6%B7%98%E6%B1%B0%23&Refer=top)
 
