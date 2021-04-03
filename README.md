@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 00:02:13
+## 微博今日热榜 更新于 2021-04-04 01:19:06
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -104,4 +104,16 @@
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
 1. [甘孜官兵集体为牺牲战友答到](https://s.weibo.com//weibo?q=%23%E7%94%98%E5%AD%9C%E5%AE%98%E5%85%B5%E9%9B%86%E4%BD%93%E4%B8%BA%E7%89%BA%E7%89%B2%E6%88%98%E5%8F%8B%E7%AD%94%E5%88%B0%23&Refer=top)
+
+1. [清明档票房破3亿创新高](https://s.weibo.com//weibo?q=%E6%B8%85%E6%98%8E%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF%E5%88%9B%E6%96%B0%E9%AB%98&Refer=top)
+
+1. [胡烨韬 我已经没有底气说能了](https://s.weibo.com//weibo?q=%E8%83%A1%E7%83%A8%E9%9F%AC%20%E6%88%91%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%BA%95%E6%B0%94%E8%AF%B4%E8%83%BD%E4%BA%86&Refer=top)
+
+1. [文森佐](https://s.weibo.com//weibo?q=%E6%96%87%E6%A3%AE%E4%BD%90&Refer=top)
+
+1. [金曲青春像张艺兴的考研班](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5%E5%83%8F%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9A%84%E8%80%83%E7%A0%94%E7%8F%AD%23&Refer=top)
+
+1. [长歌行陷进去了](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%99%B7%E8%BF%9B%E5%8E%BB%E4%BA%86%23&Refer=top)
+
+1. [林芸芸对顾家伟发飙](https://s.weibo.com//weibo?q=%23%E6%9E%97%E8%8A%B8%E8%8A%B8%E5%AF%B9%E9%A1%BE%E5%AE%B6%E4%BC%9F%E5%8F%91%E9%A3%99%23&Refer=top)
 
