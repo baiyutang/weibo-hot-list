@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 08:03:43
+## 微博今日热榜 更新于 2021-04-03 09:23:41
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -154,4 +154,34 @@
 1. [小托马斯与鹈鹕签10天短合同](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%89%98%E9%A9%AC%E6%96%AF%E4%B8%8E%E9%B9%88%E9%B9%95%E7%AD%BE10%E5%A4%A9%E7%9F%AD%E5%90%88%E5%90%8C&Refer=top)
 
 1. [广州人才房限售年限延至3年](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E4%BA%BA%E6%89%8D%E6%88%BF%E9%99%90%E5%94%AE%E5%B9%B4%E9%99%90%E5%BB%B6%E8%87%B33%E5%B9%B4&Refer=top)
+
+1. [王子文不让贾玲跑](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E4%B8%8D%E8%AE%A9%E8%B4%BE%E7%8E%B2%E8%B7%91&Refer=top)
+
+1. [云南新增本土确诊7例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A7%E4%BE%8B%23&Refer=top)
+
+1. [他们牺牲时如此年轻](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E7%89%BA%E7%89%B2%E6%97%B6%E5%A6%82%E6%AD%A4%E5%B9%B4%E8%BD%BB%23&Refer=top)
+
+1. [我国有约2000万名烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%9C%89%E7%BA%A62000%E4%B8%87%E5%90%8D%E7%83%88%E5%A3%AB%23&Refer=top)
+
+1. [新疆牧民北斗卫星放牧](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E7%89%A7%E6%B0%91%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E6%94%BE%E7%89%A7&Refer=top)
+
+1. [叶青 定妆照](https://s.weibo.com//weibo?q=%E5%8F%B6%E9%9D%92%20%E5%AE%9A%E5%A6%86%E7%85%A7&Refer=top)
+
+1. [勇士 猛龙](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%20%E7%8C%9B%E9%BE%99&Refer=top)
+
+1. [如果全面禁止加班会怎么样](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%9E%9C%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%8A%A0%E7%8F%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%23&Refer=top)
+
+1. [男子回家扫墓见孤单父亲大哭](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%AE%B6%E6%89%AB%E5%A2%93%E8%A7%81%E5%AD%A4%E5%8D%95%E7%88%B6%E4%BA%B2%E5%A4%A7%E5%93%AD&Refer=top)
+
+1. [大张伟模仿黄晓明](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E6%A8%A1%E4%BB%BF%E9%BB%84%E6%99%93%E6%98%8E%23&Refer=top)
+
+1. [苏伊士运河排队船只已接近全部通过](https://s.weibo.com//weibo?q=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E6%8E%92%E9%98%9F%E8%88%B9%E5%8F%AA%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%85%A8%E9%83%A8%E9%80%9A%E8%BF%87&Refer=top)
+
+1. [戍边英雄牺牲后的第一个清明节](https://s.weibo.com//weibo?q=%23%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84%E7%89%BA%E7%89%B2%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B8%85%E6%98%8E%E8%8A%82%23&Refer=top)
+
+1. [美国国会附近发生袭警致2死1伤](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E8%A2%AD%E8%AD%A6%E8%87%B42%E6%AD%BB1%E4%BC%A4%23&Refer=top)
+
+1. [31省区市新增确诊26例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A26%E4%BE%8B%23&Refer=top)
+
+1. [勇士三节落后52分](https://s.weibo.com//weibo?q=%23%E5%8B%87%E5%A3%AB%E4%B8%89%E8%8A%82%E8%90%BD%E5%90%8E52%E5%88%86%23&Refer=top)
 
