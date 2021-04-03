@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 05:00:57
+## 微博今日热榜 更新于 2021-04-04 06:01:10
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -130,4 +130,10 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [金刚小女孩真是聋哑人](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%88%9A%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%9C%9F%E6%98%AF%E8%81%8B%E5%93%91%E4%BA%BA%23&Refer=top)
+
+1. [薛八一想要只属于自己的特写](https://s.weibo.com//weibo?q=%E8%96%9B%E5%85%AB%E4%B8%80%E6%83%B3%E8%A6%81%E5%8F%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%B9%E5%86%99&Refer=top)
+
+1. [哥斯拉大战金刚](https://s.weibo.com//weibo?q=%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A&Refer=top)
 
