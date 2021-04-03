@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 20:01:24
+## 微博今日热榜 更新于 2021-04-03 21:10:55
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -428,4 +428,46 @@
 1. [杨天真童年照](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E7%AB%A5%E5%B9%B4%E7%85%A7&Refer=top)
 
 1. [你身边的表演型人格](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%BA%AB%E8%BE%B9%E7%9A%84%E8%A1%A8%E6%BC%94%E5%9E%8B%E4%BA%BA%E6%A0%BC%23&Refer=top)
+
+1. [永远记住你](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23&Refer=new_time)
+
+1. [韩美娟被淘汰](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E8%A2%AB%E6%B7%98%E6%B1%B0%23&Refer=top)
+
+1. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
+
+1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
+
+1. [80后90后立遗嘱4年翻近6倍](https://s.weibo.com//weibo?q=%2380%E5%90%8E90%E5%90%8E%E7%AB%8B%E9%81%97%E5%98%B14%E5%B9%B4%E7%BF%BB%E8%BF%916%E5%80%8D%23&Refer=top)
+
+1. [米卡 不喜欢battle但我为你们而战](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8D%A1%20%E4%B8%8D%E5%96%9C%E6%AC%A2battle%E4%BD%86%E6%88%91%E4%B8%BA%E4%BD%A0%E4%BB%AC%E8%80%8C%E6%88%98&Refer=top)
+
+1. [母子祭祖引发山火被刑拘](https://s.weibo.com//weibo?q=%E6%AF%8D%E5%AD%90%E7%A5%AD%E7%A5%96%E5%BC%95%E5%8F%91%E5%B1%B1%E7%81%AB%E8%A2%AB%E5%88%91%E6%8B%98&Refer=top)
+
+1. [甘孜官兵集体为牺牲战友答到](https://s.weibo.com//weibo?q=%23%E7%94%98%E5%AD%9C%E5%AE%98%E5%85%B5%E9%9B%86%E4%BD%93%E4%B8%BA%E7%89%BA%E7%89%B2%E6%88%98%E5%8F%8B%E7%AD%94%E5%88%B0%23&Refer=top)
+
+1. [雨中陵园浙江8岁男孩感动所有人](https://s.weibo.com//weibo?q=%23%E9%9B%A8%E4%B8%AD%E9%99%B5%E5%9B%AD%E6%B5%99%E6%B1%9F8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%84%9F%E5%8A%A8%E6%89%80%E6%9C%89%E4%BA%BA%23&Refer=top)
+
+1. [iBoy失误](https://s.weibo.com//weibo?q=iBoy%E5%A4%B1%E8%AF%AF&Refer=top)
+
+1. [伯远 没想到这么多人帮我把南墙推倒](https://s.weibo.com//weibo?q=%E4%BC%AF%E8%BF%9C%20%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%BA%E5%B8%AE%E6%88%91%E6%8A%8A%E5%8D%97%E5%A2%99%E6%8E%A8%E5%80%92&Refer=top)
+
+1. [魔兽世界服务器](https://s.weibo.com//weibo?q=%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8&Refer=top)
+
+1. [雪豹潜入羊圈吃饱喝足赖着不走](https://s.weibo.com//weibo?q=%E9%9B%AA%E8%B1%B9%E6%BD%9C%E5%85%A5%E7%BE%8A%E5%9C%88%E5%90%83%E9%A5%B1%E5%96%9D%E8%B6%B3%E8%B5%96%E7%9D%80%E4%B8%8D%E8%B5%B0&Refer=top)
+
+1. [苏伊士堵船索赔金额高达10亿美元](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E4%BC%8A%E5%A3%AB%E5%A0%B5%E8%88%B9%E7%B4%A2%E8%B5%94%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE10%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [英国30人接种阿斯利康疫苗后出现血栓](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD30%E4%BA%BA%E6%8E%A5%E7%A7%8D%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97%E5%90%8E%E5%87%BA%E7%8E%B0%E8%A1%80%E6%A0%93%23&Refer=top)
+
+1. [于洋 温柔](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%B4%8B%20%E6%B8%A9%E6%9F%94&Refer=top)
+
+1. [四川一高校开设宜宾燃面学院](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%AB%98%E6%A0%A1%E5%BC%80%E8%AE%BE%E5%AE%9C%E5%AE%BE%E7%87%83%E9%9D%A2%E5%AD%A6%E9%99%A2%23&Refer=top)
+
+1. [FPX战胜RA](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CRA%23&Refer=top)
+
+1. [王焯冉妈妈抚摸儿子雕像](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%84%AF%E5%86%89%E5%A6%88%E5%A6%88%E6%8A%9A%E6%91%B8%E5%84%BF%E5%AD%90%E9%9B%95%E5%83%8F%23&Refer=top)
+
+1. [龚俊唱天问](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%94%B1%E5%A4%A9%E9%97%AE&Refer=top)
+
+1. [美国男子与亚裔结婚被说背离传统](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%9A%E8%A3%94%E7%BB%93%E5%A9%9A%E8%A2%AB%E8%AF%B4%E8%83%8C%E7%A6%BB%E4%BC%A0%E7%BB%9F%23&Refer=top)
 
