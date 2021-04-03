@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 14:01:17
+## 微博今日热榜 更新于 2021-04-03 15:04:04
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -292,4 +292,20 @@
 1. [网友委托快递员给陈红军烈士献花](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%A7%94%E6%89%98%E5%BF%AB%E9%80%92%E5%91%98%E7%BB%99%E9%99%88%E7%BA%A2%E5%86%9B%E7%83%88%E5%A3%AB%E7%8C%AE%E8%8A%B1%23&Refer=top)
 
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [吴磊把粉丝送的笋吃了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E6%8A%8A%E7%B2%89%E4%B8%9D%E9%80%81%E7%9A%84%E7%AC%8B%E5%90%83%E4%BA%86%23&Refer=top)
+
+1. [独居女生坐电梯的小心机](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E5%9D%90%E7%94%B5%E6%A2%AF%E7%9A%84%E5%B0%8F%E5%BF%83%E6%9C%BA%23&Refer=top)
+
+1. [妻子的浪漫旅行5定档](https://s.weibo.com//weibo?q=%23%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C5%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [印度人大壶节跳入恒河沐浴](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%A4%A7%E5%A3%B6%E8%8A%82%E8%B7%B3%E5%85%A5%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4&Refer=top)
+
+1. [人类发现银河系超高能宇宙线源存在证据](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E9%93%B6%E6%B2%B3%E7%B3%BB%E8%B6%85%E9%AB%98%E8%83%BD%E5%AE%87%E5%AE%99%E7%BA%BF%E6%BA%90%E5%AD%98%E5%9C%A8%E8%AF%81%E6%8D%AE%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [男子月薪5万征婚被骂过于自信](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E6%9C%88%E8%96%AA5%E4%B8%87%E5%BE%81%E5%A9%9A%E8%A2%AB%E9%AA%82%E8%BF%87%E4%BA%8E%E8%87%AA%E4%BF%A1&Refer=top)
+
+1. [如何看待没有时间观念的朋友](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B2%A1%E6%9C%89%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5%E7%9A%84%E6%9C%8B%E5%8F%8B%23&Refer=top)
 
