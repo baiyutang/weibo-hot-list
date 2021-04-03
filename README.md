@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 21:10:55
+## 微博今日热榜 更新于 2021-04-03 22:01:15
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -470,4 +470,40 @@
 1. [龚俊唱天问](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%94%B1%E5%A4%A9%E9%97%AE&Refer=top)
 
 1. [美国男子与亚裔结婚被说背离传统](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BA%9A%E8%A3%94%E7%BB%93%E5%A9%9A%E8%A2%AB%E8%AF%B4%E8%83%8C%E7%A6%BB%E4%BC%A0%E7%BB%9F%23&Refer=top)
+
+1. [边伯贤患甲状腺功能低下症](https://s.weibo.com//weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%82%A3%E7%94%B2%E7%8A%B6%E8%85%BA%E5%8A%9F%E8%83%BD%E4%BD%8E%E4%B8%8B%E7%97%87&Refer=top)
+
+1. [张哲瀚粉色头发](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E7%B2%89%E8%89%B2%E5%A4%B4%E5%8F%91%23&Refer=top)
+
+1. [烈士的告白你听见了吗](https://s.weibo.com//weibo?q=%23%E7%83%88%E5%A3%AB%E7%9A%84%E5%91%8A%E7%99%BD%E4%BD%A0%E5%90%AC%E8%A7%81%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [大二女生回到曾祖父牺牲地求学](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%88%B0%E6%9B%BE%E7%A5%96%E7%88%B6%E7%89%BA%E7%89%B2%E5%9C%B0%E6%B1%82%E5%AD%A6&Refer=top)
+
+1. [毛不易评价龚俊唱歌](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E8%AF%84%E4%BB%B7%E9%BE%9A%E4%BF%8A%E5%94%B1%E6%AD%8C%23&Refer=top)
+
+1. [米卡以为曾涵江要离开嚎啕大哭](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E4%BB%A5%E4%B8%BA%E6%9B%BE%E6%B6%B5%E6%B1%9F%E8%A6%81%E7%A6%BB%E5%BC%80%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23&Refer=top)
+
+1. [浪浪钉](https://s.weibo.com//weibo?q=%E6%B5%AA%E6%B5%AA%E9%92%89&Refer=top)
+
+1. [邵明明 我在这里显得大家更加的优秀](https://s.weibo.com//weibo?q=%E9%82%B5%E6%98%8E%E6%98%8E%20%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E6%98%BE%E5%BE%97%E5%A4%A7%E5%AE%B6%E6%9B%B4%E5%8A%A0%E7%9A%84%E4%BC%98%E7%A7%80&Refer=top)
+
+1. [赞多因为于洋学习了温柔的中文](https://s.weibo.com//weibo?q=%E8%B5%9E%E5%A4%9A%E5%9B%A0%E4%B8%BA%E4%BA%8E%E6%B4%8B%E5%AD%A6%E4%B9%A0%E4%BA%86%E6%B8%A9%E6%9F%94%E7%9A%84%E4%B8%AD%E6%96%87&Refer=top)
+
+1. [金曲青春](https://s.weibo.com//weibo?q=%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [苏醒人间清醒](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%23&Refer=top)
+
+1. [台湾列车脱轨最新进展](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&Refer=top)
+
+1. [刘宇分享三国演义里最喜欢的话](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%88%86%E4%BA%AB%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E9%87%8C%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%AF%9D%23&Refer=top)
+
+1. [厦门蓝眼泪](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E8%93%9D%E7%9C%BC%E6%B3%AA&Refer=top)
+
+1. [井胧卡位晋级](https://s.weibo.com//weibo?q=%E4%BA%95%E8%83%A7%E5%8D%A1%E4%BD%8D%E6%99%8B%E7%BA%A7&Refer=top)
+
+1. [红军墓碑党徽倒悬有特殊含义](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E5%86%9B%E5%A2%93%E7%A2%91%E5%85%9A%E5%BE%BD%E5%80%92%E6%82%AC%E6%9C%89%E7%89%B9%E6%AE%8A%E5%90%AB%E4%B9%89%23&Refer=top)
+
+1. [小学生设计出智能分类垃圾箱](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%AE%BE%E8%AE%A1%E5%87%BA%E6%99%BA%E8%83%BD%E5%88%86%E7%B1%BB%E5%9E%83%E5%9C%BE%E7%AE%B1%23&Refer=top)
+
+1. [林墨 祝福富翁](https://s.weibo.com//weibo?q=%E6%9E%97%E5%A2%A8%20%E7%A5%9D%E7%A6%8F%E5%AF%8C%E7%BF%81&Refer=top)
 
