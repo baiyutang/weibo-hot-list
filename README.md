@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 06:01:10
+## 微博今日热榜 更新于 2021-04-04 07:01:47
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
