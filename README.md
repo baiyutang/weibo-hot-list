@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 02:10:22
+## 微博今日热榜 更新于 2021-04-04 03:06:04
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [AK 把时间调回去我会求节目让我来](https://s.weibo.com//weibo?q=AK%20%E6%8A%8A%E6%97%B6%E9%97%B4%E8%B0%83%E5%9B%9E%E5%8E%BB%E6%88%91%E4%BC%9A%E6%B1%82%E8%8A%82%E7%9B%AE%E8%AE%A9%E6%88%91%E6%9D%A5&Refer=top)
 
 1. [心疼林芸芸](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E6%9E%97%E8%8A%B8%E8%8A%B8%23&Refer=top)
+
+1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
 
