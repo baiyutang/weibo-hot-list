@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 15:04:04
+## 微博今日热榜 更新于 2021-04-03 16:01:32
 1. [生物安全法将自4月15日起施行](https://s.weibo.com//weibo?q=%23%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%E5%B0%86%E8%87%AA4%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -308,4 +308,36 @@
 1. [男子月薪5万征婚被骂过于自信](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E6%9C%88%E8%96%AA5%E4%B8%87%E5%BE%81%E5%A9%9A%E8%A2%AB%E9%AA%82%E8%BF%87%E4%BA%8E%E8%87%AA%E4%BF%A1&Refer=top)
 
 1. [如何看待没有时间观念的朋友](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B2%A1%E6%9C%89%E6%97%B6%E9%97%B4%E8%A7%82%E5%BF%B5%E7%9A%84%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [他们从未离去](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E4%BB%8E%E6%9C%AA%E7%A6%BB%E5%8E%BB%23&Refer=new_time)
+
+1. [向台湾列车出轨事故遇难同胞表示哀悼](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%8F%B0%E6%B9%BE%E5%88%97%E8%BD%A6%E5%87%BA%E8%BD%A8%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23&Refer=top)
+
+1. [黄英儿子给Lucky写信](https://s.weibo.com//weibo?q=%E9%BB%84%E8%8B%B1%E5%84%BF%E5%AD%90%E7%BB%99Lucky%E5%86%99%E4%BF%A1&Refer=top)
+
+1. [迪丽热巴吴磊屋顶抱](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%E5%B1%8B%E9%A1%B6%E6%8A%B1%23&Refer=top)
+
+1. [中国新冠疫苗首次获得欧盟GMP认证](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%A6%96%E6%AC%A1%E8%8E%B7%E5%BE%97%E6%AC%A7%E7%9B%9FGMP%E8%AE%A4%E8%AF%81&Refer=top)
+
+1. [酒泉一班主任被曝对学生罚款数万](https://s.weibo.com//weibo?q=%23%E9%85%92%E6%B3%89%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9B%9D%E5%AF%B9%E5%AD%A6%E7%94%9F%E7%BD%9A%E6%AC%BE%E6%95%B0%E4%B8%87%23&Refer=top)
+
+1. [杜兰特因不当言论被罚款5万](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%9B%A0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E7%BD%9A%E6%AC%BE5%E4%B8%87&Refer=top)
+
+1. [抗疫英烈女儿说爸爸能不能来梦里看我](https://s.weibo.com//weibo?q=%23%E6%8A%97%E7%96%AB%E8%8B%B1%E7%83%88%E5%A5%B3%E5%84%BF%E8%AF%B4%E7%88%B8%E7%88%B8%E8%83%BD%E4%B8%8D%E8%83%BD%E6%9D%A5%E6%A2%A6%E9%87%8C%E7%9C%8B%E6%88%91%23&Refer=top)
+
+1. [喻言蔷薇之巅练习室版](https://s.weibo.com//weibo?q=%23%E5%96%BB%E8%A8%80%E8%94%B7%E8%96%87%E4%B9%8B%E5%B7%85%E7%BB%83%E4%B9%A0%E5%AE%A4%E7%89%88%23&Refer=top)
+
+1. [狗勾走路翻车现场](https://s.weibo.com//weibo?q=%E7%8B%97%E5%8B%BE%E8%B5%B0%E8%B7%AF%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [我国已接种新冠疫苗13380.1万剂次](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E5%B7%B2%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%9713380.1%E4%B8%87%E5%89%82%E6%AC%A1&Refer=top)
+
+1. [福建一小车坠溪致3人死亡](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%B0%8F%E8%BD%A6%E5%9D%A0%E6%BA%AA%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [2021年全军面向社会公开招考文职](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E5%85%A8%E5%86%9B%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%80%83%E6%96%87%E8%81%8C&Refer=top)
+
+1. [杨幂 姐姐就是嘴甜](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E5%A7%90%E5%A7%90%E5%B0%B1%E6%98%AF%E5%98%B4%E7%94%9C&Refer=top)
+
+1. [马修斯受伤](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%BF%AE%E6%96%AF%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [此次云南瑞丽疫情病毒由缅甸输入](https://s.weibo.com//weibo?q=%23%E6%AD%A4%E6%AC%A1%E4%BA%91%E5%8D%97%E7%91%9E%E4%B8%BD%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E7%94%B1%E7%BC%85%E7%94%B8%E8%BE%93%E5%85%A5%23&Refer=top)
 
