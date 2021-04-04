@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 12:02:50
+## 微博今日热榜 更新于 2021-04-04 13:05:55
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -256,4 +256,18 @@
 1. [沈海高速四车相撞致11人死亡](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%B5%B7%E9%AB%98%E9%80%9F%E5%9B%9B%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B411%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
 
 1. [驻塞使馆凭吊北约轰炸中牺牲的烈士](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E5%A1%9E%E4%BD%BF%E9%A6%86%E5%87%AD%E5%90%8A%E5%8C%97%E7%BA%A6%E8%BD%B0%E7%82%B8%E4%B8%AD%E7%89%BA%E7%89%B2%E7%9A%84%E7%83%88%E5%A3%AB%23&Refer=top)
+
+1. [中国驻朝鲜大使馆祭奠志愿军先烈](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%9C%9D%E9%B2%9C%E5%A4%A7%E4%BD%BF%E9%A6%86%E7%A5%AD%E5%A5%A0%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%23&Refer=top)
+
+1. [张艺兴黄磊黄渤合开公司](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%BB%84%E7%A3%8A%E9%BB%84%E6%B8%A4%E5%90%88%E5%BC%80%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [在乡下造一栋罗马风的房子](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B9%A1%E4%B8%8B%E9%80%A0%E4%B8%80%E6%A0%8B%E7%BD%97%E9%A9%AC%E9%A3%8E%E7%9A%84%E6%88%BF%E5%AD%90%23&Refer=top)
+
+1. [我的姐姐泪点](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E6%B3%AA%E7%82%B9&Refer=top)
+
+1. [黄奕前夫曾在家里装二十几个摄像头](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A5%95%E5%89%8D%E5%A4%AB%E6%9B%BE%E5%9C%A8%E5%AE%B6%E9%87%8C%E8%A3%85%E4%BA%8C%E5%8D%81%E5%87%A0%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
+
+1. [专家称考古实证三星堆是华夏文明](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%80%83%E5%8F%A4%E5%AE%9E%E8%AF%81%E4%B8%89%E6%98%9F%E5%A0%86%E6%98%AF%E5%8D%8E%E5%A4%8F%E6%96%87%E6%98%8E%23&Refer=top)
+
+1. [魅族清明文案](https://s.weibo.com//weibo?q=%E9%AD%85%E6%97%8F%E6%B8%85%E6%98%8E%E6%96%87%E6%A1%88&Refer=top)
 
