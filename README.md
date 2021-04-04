@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 17:01:08
+## 微博今日热榜 更新于 2021-04-04 18:01:05
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -342,4 +342,22 @@
 1. [故宫花雨](https://s.weibo.com//weibo?q=%E6%95%85%E5%AE%AB%E8%8A%B1%E9%9B%A8&Refer=top)
 
 1. [Hero TES](https://s.weibo.com//weibo?q=Hero%20TES&Refer=top)
+
+1. [舒淇穿西装配拖鞋录综艺](https://s.weibo.com//weibo?q=%23%E8%88%92%E6%B7%87%E7%A9%BF%E8%A5%BF%E8%A3%85%E9%85%8D%E6%8B%96%E9%9E%8B%E5%BD%95%E7%BB%BC%E8%89%BA%23&Refer=top)
+
+1. [高铁晚点](https://s.weibo.com//weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&Refer=top)
+
+1. [青团馒头](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%9B%A2%E9%A6%92%E5%A4%B4%23&Refer=top)
+
+1. [如何看待炒鞋热蔓延至国货](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%82%92%E9%9E%8B%E7%83%AD%E8%94%93%E5%BB%B6%E8%87%B3%E5%9B%BD%E8%B4%A7%23&Refer=top)
+
+1. [张哲瀚被粉丝送民法典](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E8%A2%AB%E7%B2%89%E4%B8%9D%E9%80%81%E6%B0%91%E6%B3%95%E5%85%B8&Refer=top)
+
+1. [烈士21岁牺牲葬在离家400公里处72年](https://s.weibo.com//weibo?q=%23%E7%83%88%E5%A3%AB21%E5%B2%81%E7%89%BA%E7%89%B2%E8%91%AC%E5%9C%A8%E7%A6%BB%E5%AE%B6400%E5%85%AC%E9%87%8C%E5%A4%8472%E5%B9%B4%23&Refer=top)
+
+1. [GEN T1](https://s.weibo.com//weibo?q=GEN%20T1&Refer=top)
+
+1. [我的姐姐票房破3亿](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF&Refer=top)
+
+1. [低卡红薯鸡胸肉饼](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E5%8D%A1%E7%BA%A2%E8%96%AF%E9%B8%A1%E8%83%B8%E8%82%89%E9%A5%BC%23&Refer=top)
 
