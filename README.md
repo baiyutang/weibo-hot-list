@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 18:01:05
+## 微博今日热榜 更新于 2021-04-04 19:00:59
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -360,4 +360,30 @@
 1. [我的姐姐票房破3亿](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF&Refer=top)
 
 1. [低卡红薯鸡胸肉饼](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E5%8D%A1%E7%BA%A2%E8%96%AF%E9%B8%A1%E8%83%B8%E8%82%89%E9%A5%BC%23&Refer=top)
+
+1. [刘些宁创4三公路透](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%9B%E5%AE%81%E5%88%9B4%E4%B8%89%E5%85%AC%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [15岁男生网络发布不良信息被抓](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E7%94%B7%E7%94%9F%E7%BD%91%E7%BB%9C%E5%8F%91%E5%B8%83%E4%B8%8D%E8%89%AF%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%8A%93%23&Refer=top)
+
+1. [魅族就清明争议文案道歉](https://s.weibo.com//weibo?q=%23%E9%AD%85%E6%97%8F%E5%B0%B1%E6%B8%85%E6%98%8E%E4%BA%89%E8%AE%AE%E6%96%87%E6%A1%88%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [女性展示身材有错吗](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%80%A7%E5%B1%95%E7%A4%BA%E8%BA%AB%E6%9D%90%E6%9C%89%E9%94%99%E5%90%97%23&Refer=top)
+
+1. [新冠疫苗接种犹豫普遍存在原因](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%8A%B9%E8%B1%AB%E6%99%AE%E9%81%8D%E5%AD%98%E5%9C%A8%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [泰山酒店价高游客挤厕所过夜](https://s.weibo.com//weibo?q=%E6%B3%B0%E5%B1%B1%E9%85%92%E5%BA%97%E4%BB%B7%E9%AB%98%E6%B8%B8%E5%AE%A2%E6%8C%A4%E5%8E%95%E6%89%80%E8%BF%87%E5%A4%9C&Refer=top)
+
+1. [成年人的累是看不见的](https://s.weibo.com//weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%B4%AF%E6%98%AF%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%23&Refer=top)
+
+1. [西安曲江新区一公厕安装淋浴房](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E6%9B%B2%E6%B1%9F%E6%96%B0%E5%8C%BA%E4%B8%80%E5%85%AC%E5%8E%95%E5%AE%89%E8%A3%85%E6%B7%8B%E6%B5%B4%E6%88%BF&Refer=top)
+
+1. [董璇带女儿种树](https://s.weibo.com//weibo?q=%23%E8%91%A3%E7%92%87%E5%B8%A6%E5%A5%B3%E5%84%BF%E7%A7%8D%E6%A0%91%23&Refer=top)
+
+1. [王菊徐冬冬鼓励女性展示身材](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%8F%8A%E5%BE%90%E5%86%AC%E5%86%AC%E9%BC%93%E5%8A%B1%E5%A5%B3%E6%80%A7%E5%B1%95%E7%A4%BA%E8%BA%AB%E6%9D%90&Refer=top)
+
+1. [台铁脱轨涉事企业负责人道歉](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E8%84%B1%E8%BD%A8%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%81%93%E6%AD%89&Refer=top)
+
+1. [第十一回](https://s.weibo.com//weibo?q=%E7%AC%AC%E5%8D%81%E4%B8%80%E5%9B%9E&Refer=top)
+
+1. [陈祥榕奶奶至今还不知孙子已牺牲](https://s.weibo.com//weibo?q=%E9%99%88%E7%A5%A5%E6%A6%95%E5%A5%B6%E5%A5%B6%E8%87%B3%E4%BB%8A%E8%BF%98%E4%B8%8D%E7%9F%A5%E5%AD%99%E5%AD%90%E5%B7%B2%E7%89%BA%E7%89%B2&Refer=top)
 
