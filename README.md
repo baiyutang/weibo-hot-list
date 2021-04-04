@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 09:24:46
+## 微博今日热榜 更新于 2021-04-04 10:21:47
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -186,4 +186,22 @@
 1. [云南现有确诊病例36例](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B36%E4%BE%8B&Refer=top)
 
 1. [31省区市新增确诊病例21例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B21%E4%BE%8B%23&Refer=top)
+
+1. [浙江舟山海域一渔船沉没](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B1%E6%B5%B7%E5%9F%9F%E4%B8%80%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1%23&Refer=top)
+
+1. [女生特有的奇妙交流方式](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E7%89%B9%E6%9C%89%E7%9A%84%E5%A5%87%E5%A6%99%E4%BA%A4%E6%B5%81%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [李元韬](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%85%83%E9%9F%AC&Refer=top)
+
+1. [医学生第一次给人打针](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E4%BA%BA%E6%89%93%E9%92%88%23&Refer=top)
+
+1. [不是丑美甲不要晒](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%98%AF%E4%B8%91%E7%BE%8E%E7%94%B2%E4%B8%8D%E8%A6%81%E6%99%92%23&Refer=top)
+
+1. [古代状元真的有水平吗](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BB%A3%E7%8A%B6%E5%85%83%E7%9C%9F%E7%9A%84%E6%9C%89%E6%B0%B4%E5%B9%B3%E5%90%97%23&Refer=top)
+
+1. [驻塞尔维亚大使馆凭吊邵云环等烈士](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%87%AD%E5%90%8A%E9%82%B5%E4%BA%91%E7%8E%AF%E7%AD%89%E7%83%88%E5%A3%AB%23&Refer=top)
+
+1. [黄奕崔伟双人瑜伽](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%E5%B4%94%E4%BC%9F%E5%8F%8C%E4%BA%BA%E7%91%9C%E4%BC%BD&Refer=top)
+
+1. [公祭轩辕黄帝直播](https://s.weibo.com//weibo?q=%E5%85%AC%E7%A5%AD%E8%BD%A9%E8%BE%95%E9%BB%84%E5%B8%9D%E7%9B%B4%E6%92%AD&Refer=top)
 
