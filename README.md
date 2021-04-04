@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 15:04:12
+## 微博今日热榜 更新于 2021-04-04 16:01:07
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -308,4 +308,22 @@
 1. [商品标价与实付价不同可得3倍赔偿](https://s.weibo.com//weibo?q=%23%E5%95%86%E5%93%81%E6%A0%87%E4%BB%B7%E4%B8%8E%E5%AE%9E%E4%BB%98%E4%BB%B7%E4%B8%8D%E5%90%8C%E5%8F%AF%E5%BE%973%E5%80%8D%E8%B5%94%E5%81%BF%23&Refer=top)
 
 1. [重庆一景区清明推出麻将造型青团](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B8%85%E6%98%8E%E6%8E%A8%E5%87%BA%E9%BA%BB%E5%B0%86%E9%80%A0%E5%9E%8B%E9%9D%92%E5%9B%A2&Refer=top)
+
+1. [央视曝随心飞机票并不随心](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E9%9A%8F%E5%BF%83%E9%A3%9E%E6%9C%BA%E7%A5%A8%E5%B9%B6%E4%B8%8D%E9%9A%8F%E5%BF%83&Refer=top)
+
+1. [倪虹洁因父母避谈内衣广告而自卑](https://s.weibo.com//weibo?q=%23%E5%80%AA%E8%99%B9%E6%B4%81%E5%9B%A0%E7%88%B6%E6%AF%8D%E9%81%BF%E8%B0%88%E5%86%85%E8%A1%A3%E5%B9%BF%E5%91%8A%E8%80%8C%E8%87%AA%E5%8D%91%23&Refer=top)
+
+1. [江苏大学4名留学生偷15瓶酒被遣返](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%A7%E5%AD%A64%E5%90%8D%E7%95%99%E5%AD%A6%E7%94%9F%E5%81%B715%E7%93%B6%E9%85%92%E8%A2%AB%E9%81%A3%E8%BF%94%23&Refer=top)
+
+1. [岳云鹏滑轮胎快到飞起](https://s.weibo.com//weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%BB%91%E8%BD%AE%E8%83%8E%E5%BF%AB%E5%88%B0%E9%A3%9E%E8%B5%B7&Refer=top)
+
+1. [台铁脱轨事故一家4口3人遇难](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E8%84%B1%E8%BD%A8%E4%BA%8B%E6%95%85%E4%B8%80%E5%AE%B64%E5%8F%A33%E4%BA%BA%E9%81%87%E9%9A%BE&Refer=top)
+
+1. [埃及举办法老金色游行](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%BE%E5%8A%9E%E6%B3%95%E8%80%81%E9%87%91%E8%89%B2%E6%B8%B8%E8%A1%8C%23&Refer=top)
+
+1. [父母回避型沟通对孩子的影响有多大](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E5%9B%9E%E9%81%BF%E5%9E%8B%E6%B2%9F%E9%80%9A%E5%AF%B9%E5%AD%A9%E5%AD%90%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [舟山海域渔船沉没已致12人遇难](https://s.weibo.com//weibo?q=%23%E8%88%9F%E5%B1%B1%E6%B5%B7%E5%9F%9F%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1%E5%B7%B2%E8%87%B412%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top)
+
+1. [清明时节各地都吃什么](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E6%97%B6%E8%8A%82%E5%90%84%E5%9C%B0%E9%83%BD%E5%90%83%E4%BB%80%E4%B9%88%23&Refer=top)
 
