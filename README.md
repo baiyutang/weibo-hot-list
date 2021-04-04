@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 19:00:59
+## 微博今日热榜 更新于 2021-04-04 20:01:13
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -386,4 +386,28 @@
 1. [第十一回](https://s.weibo.com//weibo?q=%E7%AC%AC%E5%8D%81%E4%B8%80%E5%9B%9E&Refer=top)
 
 1. [陈祥榕奶奶至今还不知孙子已牺牲](https://s.weibo.com//weibo?q=%E9%99%88%E7%A5%A5%E6%A6%95%E5%A5%B6%E5%A5%B6%E8%87%B3%E4%BB%8A%E8%BF%98%E4%B8%8D%E7%9F%A5%E5%AD%99%E5%AD%90%E5%B7%B2%E7%89%BA%E7%89%B2&Refer=top)
+
+1. [12306回应高铁晚点](https://s.weibo.com//weibo?q=12306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&Refer=top)
+
+1. [肖战玉骨遥定妆路透](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%8E%89%E9%AA%A8%E9%81%A5%E5%AE%9A%E5%A6%86%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [韩安冉 小猪先生](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%AE%89%E5%86%89%20%E5%B0%8F%E7%8C%AA%E5%85%88%E7%94%9F&Refer=top)
+
+1. [北京八达岭长城发布客流黄色预警](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%85%AB%E8%BE%BE%E5%B2%AD%E9%95%BF%E5%9F%8E%E5%8F%91%E5%B8%83%E5%AE%A2%E6%B5%81%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [马嘉祺私生](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E7%A7%81%E7%94%9F&Refer=top)
+
+1. [美国亚裔一商店遭打砸](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E4%B8%80%E5%95%86%E5%BA%97%E9%81%AD%E6%89%93%E7%A0%B8&Refer=top)
+
+1. [欧洲多国疫情出现反弹](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E7%96%AB%E6%83%85%E5%87%BA%E7%8E%B0%E5%8F%8D%E5%BC%B9%23&Refer=top)
+
+1. [刘宇宁直播](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [米佧邢克垒订婚](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E4%BD%A7%E9%82%A2%E5%85%8B%E5%9E%92%E8%AE%A2%E5%A9%9A%23&Refer=top)
+
+1. [SN战胜WE](https://s.weibo.com//weibo?q=%23SN%E6%88%98%E8%83%9CWE%23&Refer=top)
+
+1. [安徽农业大学学生拒服兵役被处罚](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=top)
+
+1. [eStar DYG](https://s.weibo.com//weibo?q=eStar%20DYG&Refer=top)
 
