@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 07:01:47
+## 微博今日热榜 更新于 2021-04-04 08:04:50
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -136,4 +136,32 @@
 1. [薛八一想要只属于自己的特写](https://s.weibo.com//weibo?q=%E8%96%9B%E5%85%AB%E4%B8%80%E6%83%B3%E8%A6%81%E5%8F%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%B9%E5%86%99&Refer=top)
 
 1. [哥斯拉大战金刚](https://s.weibo.com//weibo?q=%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A&Refer=top)
+
+1. [清明](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%23&Refer=top)
+
+1. [春天很好只是很想你](https://s.weibo.com//weibo?q=%23%E6%98%A5%E5%A4%A9%E5%BE%88%E5%A5%BD%E5%8F%AA%E6%98%AF%E5%BE%88%E6%83%B3%E4%BD%A0%23&Refer=top)
+
+1. [何老师是当代叶白衣吧](https://s.weibo.com//weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%E6%98%AF%E5%BD%93%E4%BB%A3%E5%8F%B6%E7%99%BD%E8%A1%A3%E5%90%A7&Refer=top)
+
+1. [被领导夸奖该如何回应](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%A2%86%E5%AF%BC%E5%A4%B8%E5%A5%96%E8%AF%A5%E5%A6%82%E4%BD%95%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [黑寡妇新预告](https://s.weibo.com//weibo?q=%E9%BB%91%E5%AF%A1%E5%A6%87%E6%96%B0%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [邓紫棋带男友和窦骁何超莲聚餐](https://s.weibo.com//weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B8%A6%E7%94%B7%E5%8F%8B%E5%92%8C%E7%AA%A6%E9%AA%81%E4%BD%95%E8%B6%85%E8%8E%B2%E8%81%9A%E9%A4%90&Refer=top)
+
+1. [郭德纲给郭麒麟粉丝安排工作](https://s.weibo.com//weibo?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%BB%99%E9%83%AD%E9%BA%92%E9%BA%9F%E7%B2%89%E4%B8%9D%E5%AE%89%E6%8E%92%E5%B7%A5%E4%BD%9C&Refer=top)
+
+1. [当兵三年儿子首次回家妈妈哭成泪人](https://s.weibo.com//weibo?q=%E5%BD%93%E5%85%B5%E4%B8%89%E5%B9%B4%E5%84%BF%E5%AD%90%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%AE%B6%E5%A6%88%E5%A6%88%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA&Refer=top)
+
+1. [青春有你](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0&Refer=top)
+
+1. [口误引起的尴尬瞬间](https://s.weibo.com//weibo?q=%23%E5%8F%A3%E8%AF%AF%E5%BC%95%E8%B5%B7%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [掉队红军一家三代为烈士守陵86年](https://s.weibo.com//weibo?q=%E6%8E%89%E9%98%9F%E7%BA%A2%E5%86%9B%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AE%88%E9%99%B586%E5%B9%B4&Refer=top)
+
+1. [诺言淘汰](https://s.weibo.com//weibo?q=%E8%AF%BA%E8%A8%80%E6%B7%98%E6%B1%B0&Refer=top)
+
+1. [对清澈的爱最真诚的回应](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%B8%85%E6%BE%88%E7%9A%84%E7%88%B1%E6%9C%80%E7%9C%9F%E8%AF%9A%E7%9A%84%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [英国7人接种阿斯利康疫苗后死于血栓](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD7%E4%BA%BA%E6%8E%A5%E7%A7%8D%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97%E5%90%8E%E6%AD%BB%E4%BA%8E%E8%A1%80%E6%A0%93&Refer=top)
 
