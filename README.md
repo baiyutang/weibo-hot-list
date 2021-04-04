@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 08:04:50
+## 微博今日热榜 更新于 2021-04-04 09:24:46
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -164,4 +164,26 @@
 1. [对清澈的爱最真诚的回应](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%B8%85%E6%BE%88%E7%9A%84%E7%88%B1%E6%9C%80%E7%9C%9F%E8%AF%9A%E7%9A%84%E5%9B%9E%E5%BA%94%23&Refer=top)
 
 1. [英国7人接种阿斯利康疫苗后死于血栓](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD7%E4%BA%BA%E6%8E%A5%E7%A7%8D%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97%E5%90%8E%E6%AD%BB%E4%BA%8E%E8%A1%80%E6%A0%93&Refer=top)
+
+1. [台铁出轨瞬间丈夫用身体护住妻子](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E5%87%BA%E8%BD%A8%E7%9E%AC%E9%97%B4%E4%B8%88%E5%A4%AB%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E5%A6%BB%E5%AD%90&Refer=top)
+
+1. [王大陆劝王琳方磊做朋友](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%A4%A7%E9%99%86%E5%8A%9D%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E5%81%9A%E6%9C%8B%E5%8F%8B&Refer=top)
+
+1. [人民英雄永垂不朽](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%B0%B8%E5%9E%82%E4%B8%8D%E6%9C%BD%23&Refer=top)
+
+1. [利路修参加选秀现状](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%8F%82%E5%8A%A0%E9%80%89%E7%A7%80%E7%8E%B0%E7%8A%B6%23&Refer=top)
+
+1. [张萌 被王子文吴永恩甜晕过去了](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E8%A2%AB%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%94%9C%E6%99%95%E8%BF%87%E5%8E%BB%E4%BA%86&Refer=top)
+
+1. [云南新增本土确诊10例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A10%E4%BE%8B%23&Refer=top)
+
+1. [微信外挂软件主犯获刑10年](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E5%A4%96%E6%8C%82%E8%BD%AF%E4%BB%B6%E4%B8%BB%E7%8A%AF%E8%8E%B7%E5%88%9110%E5%B9%B4&Refer=top)
+
+1. [小托马斯穿24号致敬科比](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%89%98%E9%A9%AC%E6%96%AF%E7%A9%BF24%E5%8F%B7%E8%87%B4%E6%95%AC%E7%A7%91%E6%AF%94&Refer=top)
+
+1. [从中央电视塔俯瞰玉渊潭](https://s.weibo.com//weibo?q=%E4%BB%8E%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%A1%94%E4%BF%AF%E7%9E%B0%E7%8E%89%E6%B8%8A%E6%BD%AD&Refer=top)
+
+1. [云南现有确诊病例36例](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B36%E4%BE%8B&Refer=top)
+
+1. [31省区市新增确诊病例21例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B21%E4%BE%8B%23&Refer=top)
 
