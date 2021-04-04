@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 21:08:08
+## 微博今日热榜 更新于 2021-04-04 22:01:09
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -428,4 +428,28 @@
 1. [专家回应别人打了疫苗我就不用打](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%88%AB%E4%BA%BA%E6%89%93%E4%BA%86%E7%96%AB%E8%8B%97%E6%88%91%E5%B0%B1%E4%B8%8D%E7%94%A8%E6%89%93%23&Refer=top)
 
 1. [魏宏宇排名](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%AE%8F%E5%AE%87%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [VaVa说丁太昇吃了文化有限的亏](https://s.weibo.com//weibo?q=VaVa%E8%AF%B4%E4%B8%81%E5%A4%AA%E6%98%87%E5%90%83%E4%BA%86%E6%96%87%E5%8C%96%E6%9C%89%E9%99%90%E7%9A%84%E4%BA%8F&Refer=top)
+
+1. [易立竞 提词器是在限制我只能这么吐](https://s.weibo.com//weibo?q=%E6%98%93%E7%AB%8B%E7%AB%9E%20%E6%8F%90%E8%AF%8D%E5%99%A8%E6%98%AF%E5%9C%A8%E9%99%90%E5%88%B6%E6%88%91%E5%8F%AA%E8%83%BD%E8%BF%99%E4%B9%88%E5%90%90&Refer=top)
+
+1. [李菲儿为假唱道歉](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8F%B2%E5%84%BF%E4%B8%BA%E5%81%87%E5%94%B1%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [沈海高速交通事故4人仍在ICU抢救](https://s.weibo.com//weibo?q=%E6%B2%88%E6%B5%B7%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%854%E4%BA%BA%E4%BB%8D%E5%9C%A8ICU%E6%8A%A2%E6%95%91&Refer=top)
+
+1. [汤普森加盟广东男篮](https://s.weibo.com//weibo?q=%E6%B1%A4%E6%99%AE%E6%A3%AE%E5%8A%A0%E7%9B%9F%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE&Refer=top)
+
+1. [Yuno](https://s.weibo.com//weibo?q=Yuno&Refer=top)
+
+1. [那兔清明特别版](https://s.weibo.com//weibo?q=%23%E9%82%A3%E5%85%94%E6%B8%85%E6%98%8E%E7%89%B9%E5%88%AB%E7%89%88%23&Refer=top)
+
+1. [HIStory4近距离爱上你](https://s.weibo.com//weibo?q=HIStory4%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%88%B1%E4%B8%8A%E4%BD%A0&Refer=top)
+
+1. [黄明昊我想有个家](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%88%91%E6%83%B3%E6%9C%89%E4%B8%AA%E5%AE%B6%23&Refer=top)
+
+1. [黄明昊泼贾乃亮的水泼到自己身上](https://s.weibo.com//weibo?q=%E9%BB%84%E6%98%8E%E6%98%8A%E6%B3%BC%E8%B4%BE%E4%B9%83%E4%BA%AE%E7%9A%84%E6%B0%B4%E6%B3%BC%E5%88%B0%E8%87%AA%E5%B7%B1%E8%BA%AB%E4%B8%8A&Refer=top)
+
+1. [美海军罗斯福号航母进入南海](https://s.weibo.com//weibo?q=%E7%BE%8E%E6%B5%B7%E5%86%9B%E7%BD%97%E6%96%AF%E7%A6%8F%E5%8F%B7%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%97%E6%B5%B7&Refer=top)
+
+1. [kaka](https://s.weibo.com//weibo?q=kaka&Refer=top)
 
