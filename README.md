@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 10:21:47
+## 微博今日热榜 更新于 2021-04-04 11:07:02
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -204,4 +204,30 @@
 1. [黄奕崔伟双人瑜伽](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%E5%B4%94%E4%BC%9F%E5%8F%8C%E4%BA%BA%E7%91%9C%E4%BC%BD&Refer=top)
 
 1. [公祭轩辕黄帝直播](https://s.weibo.com//weibo?q=%E5%85%AC%E7%A5%AD%E8%BD%A9%E8%BE%95%E9%BB%84%E5%B8%9D%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [张文宏称疫苗不接种成功就不能彻底开放](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E7%96%AB%E8%8B%97%E4%B8%8D%E6%8E%A5%E7%A7%8D%E6%88%90%E5%8A%9F%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%BD%BB%E5%BA%95%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [沈海高速重大交通事故](https://s.weibo.com//weibo?q=%E6%B2%88%E6%B5%B7%E9%AB%98%E9%80%9F%E9%87%8D%E5%A4%A7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85&Refer=top)
+
+1. [为什么女生总觉得没衣服穿](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B3%E7%94%9F%E6%80%BB%E8%A7%89%E5%BE%97%E6%B2%A1%E8%A1%A3%E6%9C%8D%E7%A9%BF%23&Refer=top)
+
+1. [唐斯隔扣恩比德](https://s.weibo.com//weibo?q=%E5%94%90%E6%96%AF%E9%9A%94%E6%89%A3%E6%81%A9%E6%AF%94%E5%BE%B7&Refer=top)
+
+1. [密室大逃脱第三季](https://s.weibo.com//weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E7%AC%AC%E4%B8%89%E5%AD%A3%23&Refer=top)
+
+1. [公安部工作组赶赴沈海高速事故现场](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AE%89%E9%83%A8%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B6%E8%B5%B4%E6%B2%88%E6%B5%B7%E9%AB%98%E9%80%9F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [张欣尧想带着粉丝的力量走到成团位](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%AC%A3%E5%B0%A7%E6%83%B3%E5%B8%A6%E7%9D%80%E7%B2%89%E4%B8%9D%E7%9A%84%E5%8A%9B%E9%87%8F%E8%B5%B0%E5%88%B0%E6%88%90%E5%9B%A2%E4%BD%8D%23&Refer=top)
+
+1. [景甜张彬彬快本预告](https://s.weibo.com//weibo?q=%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%BF%AB%E6%9C%AC%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [生命最后一刻他们的选择](https://s.weibo.com//weibo?q=%23%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E4%BB%96%E4%BB%AC%E7%9A%84%E9%80%89%E6%8B%A9%23&Refer=top)
+
+1. [隔代亲能有多催泪](https://s.weibo.com//weibo?q=%23%E9%9A%94%E4%BB%A3%E4%BA%B2%E8%83%BD%E6%9C%89%E5%A4%9A%E5%82%AC%E6%B3%AA%23&Refer=top)
+
+1. [卡车横停路上保护扫墓学生](https://s.weibo.com//weibo?q=%E5%8D%A1%E8%BD%A6%E6%A8%AA%E5%81%9C%E8%B7%AF%E4%B8%8A%E4%BF%9D%E6%8A%A4%E6%89%AB%E5%A2%93%E5%AD%A6%E7%94%9F&Refer=top)
+
+1. [全国安葬红军烈士最多的陵园](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%AE%89%E8%91%AC%E7%BA%A2%E5%86%9B%E7%83%88%E5%A3%AB%E6%9C%80%E5%A4%9A%E7%9A%84%E9%99%B5%E5%9B%AD%23&Refer=top)
+
+1. [猫咪打工行为大赏](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E6%89%93%E5%B7%A5%E8%A1%8C%E4%B8%BA%E5%A4%A7%E8%B5%8F%23&Refer=top)
 
