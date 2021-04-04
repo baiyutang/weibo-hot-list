@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 16:01:07
+## 微博今日热榜 更新于 2021-04-04 17:01:08
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -326,4 +326,20 @@
 1. [舟山海域渔船沉没已致12人遇难](https://s.weibo.com//weibo?q=%23%E8%88%9F%E5%B1%B1%E6%B5%B7%E5%9F%9F%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1%E5%B7%B2%E8%87%B412%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top)
 
 1. [清明时节各地都吃什么](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E6%97%B6%E8%8A%82%E5%90%84%E5%9C%B0%E9%83%BD%E5%90%83%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [撒贝宁起立背诵人民英雄纪念碑碑文](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E8%B5%B7%E7%AB%8B%E8%83%8C%E8%AF%B5%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E7%A2%91%E6%96%87%23&Refer=top)
+
+1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8&Refer=top)
+
+1. [司藤延播](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E5%BB%B6%E6%92%AD%23&Refer=top)
+
+1. [日本已婚女性超四分之一遭家暴](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%A9%9A%E5%A5%B3%E6%80%A7%E8%B6%85%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E9%81%AD%E5%AE%B6%E6%9A%B4%23&Refer=top)
+
+1. [鞠婧祎创4路透](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%88%9B4%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [吴磊给工作人员画眉](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%BB%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%94%BB%E7%9C%89%23&Refer=top)
+
+1. [故宫花雨](https://s.weibo.com//weibo?q=%E6%95%85%E5%AE%AB%E8%8A%B1%E9%9B%A8&Refer=top)
+
+1. [Hero TES](https://s.weibo.com//weibo?q=Hero%20TES&Refer=top)
 
