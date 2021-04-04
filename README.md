@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 00:02:00
+## 微博今日热榜 更新于 2021-04-05 01:18:50
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -104,4 +104,14 @@
 1. [高铁晚点](https://s.weibo.com//weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&Refer=top)
 
 1. [如何看待炒鞋热蔓延至国货](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%82%92%E9%9E%8B%E7%83%AD%E8%94%93%E5%BB%B6%E8%87%B3%E5%9B%BD%E8%B4%A7%23&Refer=top)
+
+1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
+
+1. [迪丽热巴吴磊 般配式演技](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%20%E8%88%AC%E9%85%8D%E5%BC%8F%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [吴海 三公撑腰王](https://s.weibo.com//weibo?q=%E5%90%B4%E6%B5%B7%20%E4%B8%89%E5%85%AC%E6%92%91%E8%85%B0%E7%8E%8B&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [永远记住你](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23&Refer=top)
 
