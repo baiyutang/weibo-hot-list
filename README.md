@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 20:01:13
+## 微博今日热榜 更新于 2021-04-04 21:08:08
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -410,4 +410,22 @@
 1. [安徽农业大学学生拒服兵役被处罚](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=top)
 
 1. [eStar DYG](https://s.weibo.com//weibo?q=eStar%20DYG&Refer=top)
+
+1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+
+1. [印度安全部队遭袭已致22人死亡](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F%E9%81%AD%E8%A2%AD%E5%B7%B2%E8%87%B422%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [吐槽大会](https://s.weibo.com//weibo?q=%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [iG战胜EG](https://s.weibo.com//weibo?q=iG%E6%88%98%E8%83%9CEG&Refer=top)
+
+1. [亡命毒贩冲撞民警被开枪击中](https://s.weibo.com//weibo?q=%E4%BA%A1%E5%91%BD%E6%AF%92%E8%B4%A9%E5%86%B2%E6%92%9E%E6%B0%91%E8%AD%A6%E8%A2%AB%E5%BC%80%E6%9E%AA%E5%87%BB%E4%B8%AD&Refer=top)
+
+1. [我国接种新冠疫苗为何先年轻人再老人](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%B8%BA%E4%BD%95%E5%85%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%86%8D%E8%80%81%E4%BA%BA%23&Refer=top)
+
+1. [最让人舒服的角落](https://s.weibo.com//weibo?q=%23%E6%9C%80%E8%AE%A9%E4%BA%BA%E8%88%92%E6%9C%8D%E7%9A%84%E8%A7%92%E8%90%BD%23&Refer=top)
+
+1. [专家回应别人打了疫苗我就不用打](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%88%AB%E4%BA%BA%E6%89%93%E4%BA%86%E7%96%AB%E8%8B%97%E6%88%91%E5%B0%B1%E4%B8%8D%E7%94%A8%E6%89%93%23&Refer=top)
+
+1. [魏宏宇排名](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%AE%8F%E5%AE%87%E6%8E%92%E5%90%8D&Refer=top)
 
