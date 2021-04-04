@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 22:01:09
+## 微博今日热榜 更新于 2021-04-04 23:01:07
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -452,4 +452,16 @@
 1. [美海军罗斯福号航母进入南海](https://s.weibo.com//weibo?q=%E7%BE%8E%E6%B5%B7%E5%86%9B%E7%BD%97%E6%96%AF%E7%A6%8F%E5%8F%B7%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%97%E6%B5%B7&Refer=top)
 
 1. [kaka](https://s.weibo.com//weibo?q=kaka&Refer=top)
+
+1. [蔡明潘长江熟悉的打开方式](https://s.weibo.com//weibo?q=%E8%94%A1%E6%98%8E%E6%BD%98%E9%95%BF%E6%B1%9F%E7%86%9F%E6%82%89%E7%9A%84%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F&Refer=top)
+
+1. [赵露思领养需要特殊照顾的流浪狗](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%A2%86%E5%85%BB%E9%9C%80%E8%A6%81%E7%89%B9%E6%AE%8A%E7%85%A7%E9%A1%BE%E7%9A%84%E6%B5%81%E6%B5%AA%E7%8B%97%23&Refer=top)
+
+1. [龚俊大喇叭应援创4学员](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%A4%A7%E5%96%87%E5%8F%AD%E5%BA%94%E6%8F%B4%E5%88%9B4%E5%AD%A6%E5%91%98%23&Refer=top)
+
+1. [陈乔恩艾伦接吻庆生照](https://s.weibo.com//weibo?q=%E9%99%88%E4%B9%94%E6%81%A9%E8%89%BE%E4%BC%A6%E6%8E%A5%E5%90%BB%E5%BA%86%E7%94%9F%E7%85%A7&Refer=top)
+
+1. [米佧邢克垒沙发吻](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E4%BD%A7%E9%82%A2%E5%85%8B%E5%9E%92%E6%B2%99%E5%8F%91%E5%90%BB%23&Refer=top)
+
+1. [5家上市银行个人房贷占比超标](https://s.weibo.com//weibo?q=%235%E5%AE%B6%E4%B8%8A%E5%B8%82%E9%93%B6%E8%A1%8C%E4%B8%AA%E4%BA%BA%E6%88%BF%E8%B4%B7%E5%8D%A0%E6%AF%94%E8%B6%85%E6%A0%87%23&Refer=top)
 
