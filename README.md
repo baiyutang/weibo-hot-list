@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 14:01:18
+## 微博今日热榜 更新于 2021-04-04 15:04:12
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -290,4 +290,22 @@
 1. [训导员带军犬祭奠无言战友](https://s.weibo.com//weibo?q=%23%E8%AE%AD%E5%AF%BC%E5%91%98%E5%B8%A6%E5%86%9B%E7%8A%AC%E7%A5%AD%E5%A5%A0%E6%97%A0%E8%A8%80%E6%88%98%E5%8F%8B%23&Refer=top)
 
 1. [货车超载900%被交警查获](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%B6%85%E8%BD%BD900%25%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%9F%A5%E8%8E%B7%23&Refer=top)
+
+1. [永远记住你](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23&Refer=top)
+
+1. [药水哥 最近要减肥了](https://s.weibo.com//weibo?q=%E8%8D%AF%E6%B0%B4%E5%93%A5%20%E6%9C%80%E8%BF%91%E8%A6%81%E5%87%8F%E8%82%A5%E4%BA%86&Refer=top)
+
+1. [恰好是少年定档](https://s.weibo.com//weibo?q=%23%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [狗狗的求生欲有多强烈](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E7%9A%84%E6%B1%82%E7%94%9F%E6%AC%B2%E6%9C%89%E5%A4%9A%E5%BC%BA%E7%83%88%23&Refer=top)
+
+1. [摆件狗狗被晒成腰片](https://s.weibo.com//weibo?q=%23%E6%91%86%E4%BB%B6%E7%8B%97%E7%8B%97%E8%A2%AB%E6%99%92%E6%88%90%E8%85%B0%E7%89%87%23&Refer=top)
+
+1. [三星堆博物馆成新晋网红打卡地](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8D%9A%E7%89%A9%E9%A6%86%E6%88%90%E6%96%B0%E6%99%8B%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E5%9C%B0%23&Refer=top)
+
+1. [肖思远父母准备了儿子最爱吃的果冻](https://s.weibo.com//weibo?q=%E8%82%96%E6%80%9D%E8%BF%9C%E7%88%B6%E6%AF%8D%E5%87%86%E5%A4%87%E4%BA%86%E5%84%BF%E5%AD%90%E6%9C%80%E7%88%B1%E5%90%83%E7%9A%84%E6%9E%9C%E5%86%BB&Refer=top)
+
+1. [商品标价与实付价不同可得3倍赔偿](https://s.weibo.com//weibo?q=%23%E5%95%86%E5%93%81%E6%A0%87%E4%BB%B7%E4%B8%8E%E5%AE%9E%E4%BB%98%E4%BB%B7%E4%B8%8D%E5%90%8C%E5%8F%AF%E5%BE%973%E5%80%8D%E8%B5%94%E5%81%BF%23&Refer=top)
+
+1. [重庆一景区清明推出麻将造型青团](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B8%85%E6%98%8E%E6%8E%A8%E5%87%BA%E9%BA%BB%E5%B0%86%E9%80%A0%E5%9E%8B%E9%9D%92%E5%9B%A2&Refer=top)
 
