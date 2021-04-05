@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 20:01:30
+## 微博今日热榜 更新于 2021-04-05 21:08:53
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -452,4 +452,32 @@
 1. [Lwx小炮](https://s.weibo.com//weibo?q=Lwx%E5%B0%8F%E7%82%AE&Refer=top)
 
 1. [赵睿19分](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%9D%BF19%E5%88%86&Refer=top)
+
+1. [丁太昇 人和作品要分开](https://s.weibo.com//weibo?q=%E4%B8%81%E5%A4%AA%E6%98%87%20%E4%BA%BA%E5%92%8C%E4%BD%9C%E5%93%81%E8%A6%81%E5%88%86%E5%BC%80&Refer=top)
+
+1. [重庆女子12楼高空抛物获刑半年](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%A5%B3%E5%AD%9012%E6%A5%BC%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%89%A9%E8%8E%B7%E5%88%91%E5%8D%8A%E5%B9%B4%23&Refer=top)
+
+1. [cp可以冷门但不可以邪门](https://s.weibo.com//weibo?q=%23cp%E5%8F%AF%E4%BB%A5%E5%86%B7%E9%97%A8%E4%BD%86%E4%B8%8D%E5%8F%AF%E4%BB%A5%E9%82%AA%E9%97%A8%23&Refer=top)
+
+1. [吐槽大会第五季冠军大张伟](https://s.weibo.com//weibo?q=%23%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%86%A0%E5%86%9B%E5%A4%A7%E5%BC%A0%E4%BC%9F%23&Refer=top)
+
+1. [蓝盈莹做青团翻车现场](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%81%9A%E9%9D%92%E5%9B%A2%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [龚俊创造营repo](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%88%9B%E9%80%A0%E8%90%A5repo%23&Refer=top)
+
+1. [国宝级郁金樱在秦始皇兵马俑盛开](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%9D%E7%BA%A7%E9%83%81%E9%87%91%E6%A8%B1%E5%9C%A8%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%85%B5%E9%A9%AC%E4%BF%91%E7%9B%9B%E5%BC%80&Refer=top)
+
+1. [印度单日新增确诊超10万例](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E8%B6%8510%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [清明假期旅游收入271.68亿元](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5271.68%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [各大城市都在听什么歌](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%A4%A7%E5%9F%8E%E5%B8%82%E9%83%BD%E5%9C%A8%E5%90%AC%E4%BB%80%E4%B9%88%E6%AD%8C%23&Refer=top)
+
+1. [小西竹好可爱](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%A5%BF%E7%AB%B9%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [FPX战胜JDG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CJDG%23&Refer=top)
+
+1. [小天](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%A4%A9&Refer=top)
+
+1. [Doinb五杀](https://s.weibo.com//weibo?q=Doinb%E4%BA%94%E6%9D%80&Refer=top)
 
