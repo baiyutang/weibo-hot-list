@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 07:02:00
+## 微博今日热榜 更新于 2021-04-05 08:03:43
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -126,4 +126,36 @@
 1. [八旬烈士母亲跨越千里墓前痛哭](https://s.weibo.com//weibo?q=%E5%85%AB%E6%97%AC%E7%83%88%E5%A3%AB%E6%AF%8D%E4%BA%B2%E8%B7%A8%E8%B6%8A%E5%8D%83%E9%87%8C%E5%A2%93%E5%89%8D%E7%97%9B%E5%93%AD&Refer=top)
 
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [意大利全国升为红色疫情防疫区](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%85%A8%E5%9B%BD%E5%8D%87%E4%B8%BA%E7%BA%A2%E8%89%B2%E7%96%AB%E6%83%85%E9%98%B2%E7%96%AB%E5%8C%BA%23&Refer=top)
+
+1. [地球上仅存2只北部白犀牛](https://s.weibo.com//weibo?q=%E5%9C%B0%E7%90%83%E4%B8%8A%E4%BB%85%E5%AD%982%E5%8F%AA%E5%8C%97%E9%83%A8%E7%99%BD%E7%8A%80%E7%89%9B&Refer=top)
+
+1. [云南新增15例确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E15%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [网友网上下单为戍边烈士肖思远送花](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E7%BD%91%E4%B8%8A%E4%B8%8B%E5%8D%95%E4%B8%BA%E6%88%8D%E8%BE%B9%E7%83%88%E5%A3%AB%E8%82%96%E6%80%9D%E8%BF%9C%E9%80%81%E8%8A%B1%23&Refer=top)
+
+1. [女孩为600多位烈士找到家人](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%BA600%E5%A4%9A%E4%BD%8D%E7%83%88%E5%A3%AB%E6%89%BE%E5%88%B0%E5%AE%B6%E4%BA%BA%23&Refer=top)
+
+1. [美国佛州227万吨有毒废水泄露](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E227%E4%B8%87%E5%90%A8%E6%9C%89%E6%AF%92%E5%BA%9F%E6%B0%B4%E6%B3%84%E9%9C%B2&Refer=top)
+
+1. [学生徒步108里为烈士扫墓](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E5%BE%92%E6%AD%A5108%E9%87%8C%E4%B8%BA%E7%83%88%E5%A3%AB%E6%89%AB%E5%A2%93%23&Refer=top)
+
+1. [霍勒迪顶薪续约雄鹿](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%8B%92%E8%BF%AA%E9%A1%B6%E8%96%AA%E7%BB%AD%E7%BA%A6%E9%9B%84%E9%B9%BF&Refer=top)
+
+1. [龚俊极限挑战预告](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [三星堆博物馆单日游客量近2万](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8D%95%E6%97%A5%E6%B8%B8%E5%AE%A2%E9%87%8F%E8%BF%912%E4%B8%87%23&Refer=top)
+
+1. [山东东营偷排危废事件致2死](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%E5%81%B7%E6%8E%92%E5%8D%B1%E5%BA%9F%E4%BA%8B%E4%BB%B6%E8%87%B42%E6%AD%BB&Refer=top)
+
+1. [戍边英烈肖思远16岁表妹想当兵](https://s.weibo.com//weibo?q=%E6%88%8D%E8%BE%B9%E8%8B%B1%E7%83%88%E8%82%96%E6%80%9D%E8%BF%9C16%E5%B2%81%E8%A1%A8%E5%A6%B9%E6%83%B3%E5%BD%93%E5%85%B5&Refer=top)
+
+1. [5家银行将合并成山西银行](https://s.weibo.com//weibo?q=%235%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%B0%86%E5%90%88%E5%B9%B6%E6%88%90%E5%B1%B1%E8%A5%BF%E9%93%B6%E8%A1%8C%23&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [快船战胜湖人](https://s.weibo.com//weibo?q=%E5%BF%AB%E8%88%B9%E6%88%98%E8%83%9C%E6%B9%96%E4%BA%BA&Refer=top)
+
+1. [自拍大熊猫雕塑亮相都江堰](https://s.weibo.com//weibo?q=%E8%87%AA%E6%8B%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%9B%95%E5%A1%91%E4%BA%AE%E7%9B%B8%E9%83%BD%E6%B1%9F%E5%A0%B0&Refer=top)
 
