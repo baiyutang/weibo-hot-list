@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 22:01:08
+## 微博今日热榜 更新于 2021-04-05 23:01:13
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -500,4 +500,18 @@
 1. [新华社评国产品牌球鞋遭炒作](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E5%9B%BD%E4%BA%A7%E5%93%81%E7%89%8C%E7%90%83%E9%9E%8B%E9%81%AD%E7%82%92%E4%BD%9C%23&Refer=top)
 
 1. [JDG FPX](https://s.weibo.com//weibo?q=JDG%20FPX&Refer=top)
+
+1. [妲己总喂纣王吃葡萄的原因](https://s.weibo.com//weibo?q=%23%E5%A6%B2%E5%B7%B1%E6%80%BB%E5%96%82%E7%BA%A3%E7%8E%8B%E5%90%83%E8%91%A1%E8%90%84%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [景甜张彬彬 千秋令](https://s.weibo.com//weibo?q=%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%20%E5%8D%83%E7%A7%8B%E4%BB%A4&Refer=top)
+
+1. [洛基预告](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E5%9F%BA%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [一寸光阴一寸金下句是什么](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AF%B8%E5%85%89%E9%98%B4%E4%B8%80%E5%AF%B8%E9%87%91%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [刘宇清唱化身孤岛的鲸](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E6%B8%85%E5%94%B1%E5%8C%96%E8%BA%AB%E5%AD%A4%E5%B2%9B%E7%9A%84%E9%B2%B8%23&Refer=top)
+
+1. [清明档票房破8亿](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B48%E4%BA%BF%23&Refer=top)
+
+1. [英雄联盟](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&Refer=top)
 
