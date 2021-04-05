@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 19:01:02
+## 微博今日热榜 更新于 2021-04-05 20:01:30
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -426,4 +426,30 @@
 1. [张彬彬 甜甜你别动我来找你](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%20%E7%94%9C%E7%94%9C%E4%BD%A0%E5%88%AB%E5%8A%A8%E6%88%91%E6%9D%A5%E6%89%BE%E4%BD%A0&Refer=top)
 
 1. [俄新型隐身轰炸机或2027年前列装](https://s.weibo.com//weibo?q=%23%E4%BF%84%E6%96%B0%E5%9E%8B%E9%9A%90%E8%BA%AB%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%88%962027%E5%B9%B4%E5%89%8D%E5%88%97%E8%A3%85%23&Refer=top)
+
+1. [乃万以后都想给孙滢皓写歌](https://s.weibo.com//weibo?q=%23%E4%B9%83%E4%B8%87%E4%BB%A5%E5%90%8E%E9%83%BD%E6%83%B3%E7%BB%99%E5%AD%99%E6%BB%A2%E7%9A%93%E5%86%99%E6%AD%8C%23&Refer=top)
+
+1. [希望甘望星教我如何钓男人](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9C%9B%E7%94%98%E6%9C%9B%E6%98%9F%E6%95%99%E6%88%91%E5%A6%82%E4%BD%95%E9%92%93%E7%94%B7%E4%BA%BA%23&Refer=top)
+
+1. [清明当天全国现场祭扫群众3527万人次](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E5%BD%93%E5%A4%A9%E5%85%A8%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%A5%AD%E6%89%AB%E7%BE%A4%E4%BC%973527%E4%B8%87%E4%BA%BA%E6%AC%A1%23&Refer=top)
+
+1. [千瑞珍坐过山车](https://s.weibo.com//weibo?q=%23%E5%8D%83%E7%91%9E%E7%8F%8D%E5%9D%90%E8%BF%87%E5%B1%B1%E8%BD%A6%23&Refer=top)
+
+1. [陪你一起长大妈妈哭戏](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BD%A0%E4%B8%80%E8%B5%B7%E9%95%BF%E5%A4%A7%E5%A6%88%E5%A6%88%E5%93%AD%E6%88%8F%23&Refer=top)
+
+1. [苏醒发现林芸芸秘密](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%8F%91%E7%8E%B0%E6%9E%97%E8%8A%B8%E8%8A%B8%E7%A7%98%E5%AF%86%23&Refer=top)
+
+1. [三国演义与真实的三国差别](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E4%B8%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%89%E5%9B%BD%E5%B7%AE%E5%88%AB%23&Refer=top)
+
+1. [瑞丽3地升为高风险](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD3%E5%9C%B0%E5%8D%87%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [吐槽大会](https://s.weibo.com//weibo?q=%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [单针和双针新冠疫苗怎么选](https://s.weibo.com//weibo?q=%23%E5%8D%95%E9%92%88%E5%92%8C%E5%8F%8C%E9%92%88%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%80%8E%E4%B9%88%E9%80%89%23&Refer=top)
+
+1. [Kanavi男枪](https://s.weibo.com//weibo?q=Kanavi%E7%94%B7%E6%9E%AA&Refer=top)
+
+1. [Lwx小炮](https://s.weibo.com//weibo?q=Lwx%E5%B0%8F%E7%82%AE&Refer=top)
+
+1. [赵睿19分](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%9D%BF19%E5%88%86&Refer=top)
 
