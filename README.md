@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 11:07:06
+## 微博今日热榜 更新于 2021-04-05 12:02:35
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -228,4 +228,24 @@
 1. [张家界雨后云海云瀑](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%9B%A8%E5%90%8E%E4%BA%91%E6%B5%B7%E4%BA%91%E7%80%91&Refer=top)
 
 1. [欧文15助攻](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%8715%E5%8A%A9%E6%94%BB&Refer=top)
+
+1. [老人患阿尔兹海默症却记得烈士哥哥](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E6%82%A3%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87%E5%8D%B4%E8%AE%B0%E5%BE%97%E7%83%88%E5%A3%AB%E5%93%A5%E5%93%A5%23&Refer=top)
+
+1. [酒泉通报班主任对学生罚款数万](https://s.weibo.com//weibo?q=%23%E9%85%92%E6%B3%89%E9%80%9A%E6%8A%A5%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%AF%B9%E5%AD%A6%E7%94%9F%E7%BD%9A%E6%AC%BE%E6%95%B0%E4%B8%87%23&Refer=top)
+
+1. [芒果降价了](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9C%E9%99%8D%E4%BB%B7%E4%BA%86%23&Refer=top)
+
+1. [原来镜子戏是这样拍的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%95%9C%E5%AD%90%E6%88%8F%E6%98%AF%E8%BF%99%E6%A0%B7%E6%8B%8D%E7%9A%84%23&Refer=top)
+
+1. [广西一棵三角梅开出三色花](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%A3%B5%E4%B8%89%E8%A7%92%E6%A2%85%E5%BC%80%E5%87%BA%E4%B8%89%E8%89%B2%E8%8A%B1%23&Refer=top)
+
+1. [不要一次性拔掉四颗智齿](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E4%B8%80%E6%AC%A1%E6%80%A7%E6%8B%94%E6%8E%89%E5%9B%9B%E9%A2%97%E6%99%BA%E9%BD%BF%23&Refer=top)
+
+1. [木材涨价家具厂被迫关门](https://s.weibo.com//weibo?q=%23%E6%9C%A8%E6%9D%90%E6%B6%A8%E4%BB%B7%E5%AE%B6%E5%85%B7%E5%8E%82%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%A8%23&Refer=top)
+
+1. [埃及文明博物馆正式向公众开放](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E6%96%87%E6%98%8E%E5%8D%9A%E7%89%A9%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%90%91%E5%85%AC%E4%BC%97%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [台铁脱轨肇事工程车负责人山坡观望](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E8%84%B1%E8%BD%A8%E8%82%87%E4%BA%8B%E5%B7%A5%E7%A8%8B%E8%BD%A6%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B1%B1%E5%9D%A1%E8%A7%82%E6%9C%9B&Refer=top)
+
+1. [西湖鸳鸯进入繁殖期](https://s.weibo.com//weibo?q=%E8%A5%BF%E6%B9%96%E9%B8%B3%E9%B8%AF%E8%BF%9B%E5%85%A5%E7%B9%81%E6%AE%96%E6%9C%9F&Refer=top)
 
