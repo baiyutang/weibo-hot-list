@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 15:04:43
+## 微博今日热榜 更新于 2021-04-05 16:01:24
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -310,4 +310,30 @@
 1. [有自己想法的影子](https://s.weibo.com//weibo?q=%23%E6%9C%89%E8%87%AA%E5%B7%B1%E6%83%B3%E6%B3%95%E7%9A%84%E5%BD%B1%E5%AD%90%23&Refer=top)
 
 1. [93岁抗美援朝老兵演示匍匐前进](https://s.weibo.com//weibo?q=%2393%E5%B2%81%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E6%BC%94%E7%A4%BA%E5%8C%8D%E5%8C%90%E5%89%8D%E8%BF%9B%23&Refer=top)
+
+1. [专家回应过敏体质能否打新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E8%BF%87%E6%95%8F%E4%BD%93%E8%B4%A8%E8%83%BD%E5%90%A6%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [黄俊捷道歉](https://s.weibo.com//weibo?q=%E9%BB%84%E4%BF%8A%E6%8D%B7%E9%81%93%E6%AD%89&Refer=top)
+
+1. [越来越多美国人假装疫情结束](https://s.weibo.com//weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%81%87%E8%A3%85%E7%96%AB%E6%83%85%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [密室大逃脱路透](https://s.weibo.com//weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [万人迷 两性博主](https://s.weibo.com//weibo?q=%E4%B8%87%E4%BA%BA%E8%BF%B7%20%E4%B8%A4%E6%80%A7%E5%8D%9A%E4%B8%BB&Refer=top)
+
+1. [清明档总票房超7亿](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E6%A1%A3%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%857%E4%BA%BF%23&Refer=top)
+
+1. [北京动物园清明游客爆满](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%B8%85%E6%98%8E%E6%B8%B8%E5%AE%A2%E7%88%86%E6%BB%A1&Refer=top)
+
+1. [男朋友礼物图鉴](https://s.weibo.com//weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%A4%BC%E7%89%A9%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [怎么暗示领导这礼物很贵](https://s.weibo.com//weibo?q=%23%E6%80%8E%E4%B9%88%E6%9A%97%E7%A4%BA%E9%A2%86%E5%AF%BC%E8%BF%99%E7%A4%BC%E7%89%A9%E5%BE%88%E8%B4%B5%23&Refer=top)
+
+1. [苏伊士运河肇事货轮面临10亿美元索赔](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E8%82%87%E4%BA%8B%E8%B4%A7%E8%BD%AE%E9%9D%A2%E4%B8%B410%E4%BA%BF%E7%BE%8E%E5%85%83%E7%B4%A2%E8%B5%94%23&Refer=top)
+
+1. [听姐说](https://s.weibo.com//weibo?q=%E5%90%AC%E5%A7%90%E8%AF%B4&Refer=top)
+
+1. [边防战士给喀喇昆仑烈士送112朵玫瑰](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E7%BB%99%E5%96%80%E5%96%87%E6%98%86%E4%BB%91%E7%83%88%E5%A3%AB%E9%80%81112%E6%9C%B5%E7%8E%AB%E7%91%B0%23&Refer=top)
+
+1. [徐杰受伤](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%9D%B0%E5%8F%97%E4%BC%A4%23&Refer=top)
 
