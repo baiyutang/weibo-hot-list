@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 00:02:44
+## 微博今日热榜 更新于 2021-04-06 01:19:13
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -104,4 +104,12 @@
 1. [越来越多美国人假装疫情结束](https://s.weibo.com//weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%81%87%E8%A3%85%E7%96%AB%E6%83%85%E7%BB%93%E6%9D%9F%23&Refer=top)
 
 1. [芒果降价了](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9C%E9%99%8D%E4%BB%B7%E4%BA%86%23&Refer=top)
+
+1. [张彬彬 这部戏之前是游戏重要](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%20%E8%BF%99%E9%83%A8%E6%88%8F%E4%B9%8B%E5%89%8D%E6%98%AF%E6%B8%B8%E6%88%8F%E9%87%8D%E8%A6%81&Refer=top)
+
+1. [官鸿 小弟姓陈不姓上官](https://s.weibo.com//weibo?q=%E5%AE%98%E9%B8%BF%20%E5%B0%8F%E5%BC%9F%E5%A7%93%E9%99%88%E4%B8%8D%E5%A7%93%E4%B8%8A%E5%AE%98&Refer=top)
+
+1. [清明假期旅游收入271.68亿元](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5271.68%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [瑞丽3地升为高风险](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD3%E5%9C%B0%E5%8D%87%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top)
 
