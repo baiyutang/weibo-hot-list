@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 17:02:22
+## 微博今日热榜 更新于 2021-04-05 18:01:05
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -360,4 +360,36 @@
 1. [刘晓宇踢杜润旺膝盖](https://s.weibo.com//weibo?q=%E5%88%98%E6%99%93%E5%AE%87%E8%B8%A2%E6%9D%9C%E6%B6%A6%E6%97%BA%E8%86%9D%E7%9B%96&Refer=top)
 
 1. [广汽菲克3年亏50亿](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E6%B1%BD%E8%8F%B2%E5%85%8B3%E5%B9%B4%E4%BA%8F50%E4%BA%BF%23&Refer=top)
+
+1. [律师表示炒鞋可能涉嫌多项违法](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A1%A8%E7%A4%BA%E7%82%92%E9%9E%8B%E5%8F%AF%E8%83%BD%E6%B6%89%E5%AB%8C%E5%A4%9A%E9%A1%B9%E8%BF%9D%E6%B3%95%23&Refer=top)
+
+1. [司藤直播](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [肖战朗诵杨靖宇25岁写的诗](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E6%9C%97%E8%AF%B5%E6%9D%A8%E9%9D%96%E5%AE%8725%E5%B2%81%E5%86%99%E7%9A%84%E8%AF%97&Refer=top)
+
+1. [安然姑妈对着套娃说俄语](https://s.weibo.com//weibo?q=%23%E5%AE%89%E7%84%B6%E5%A7%91%E5%A6%88%E5%AF%B9%E7%9D%80%E5%A5%97%E5%A8%83%E8%AF%B4%E4%BF%84%E8%AF%AD%23&Refer=top)
+
+1. [王霏霏沈梦辰刘维朋友聚会范本](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%8F%E9%9C%8F%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%88%98%E7%BB%B4%E6%9C%8B%E5%8F%8B%E8%81%9A%E4%BC%9A%E8%8C%83%E6%9C%AC%23&Refer=top)
+
+1. [郭德纲解说曹操身世之谜](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A7%A3%E8%AF%B4%E6%9B%B9%E6%93%8D%E8%BA%AB%E4%B8%96%E4%B9%8B%E8%B0%9C%23&Refer=top)
+
+1. [京粤大战](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top)
+
+1. [长歌行鹦鹉吻替](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%B9%A6%E9%B9%89%E5%90%BB%E6%9B%BF%23&Refer=top)
+
+1. [网约车不合规竟超9成](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E4%B8%8D%E5%90%88%E8%A7%84%E7%AB%9F%E8%B6%859%E6%88%90%23&Refer=top)
+
+1. [Wendy新歌](https://s.weibo.com//weibo?q=%23Wendy%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [安然在天台上唱歌](https://s.weibo.com//weibo?q=%E5%AE%89%E7%84%B6%E5%9C%A8%E5%A4%A9%E5%8F%B0%E4%B8%8A%E5%94%B1%E6%AD%8C&Refer=top)
+
+1. [假期最后一天](https://s.weibo.com//weibo?q=%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [张镇麟给妈妈送水](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F%E7%BB%99%E5%A6%88%E5%A6%88%E9%80%81%E6%B0%B4&Refer=top)
+
+1. [盗墓笔记动画还原度](https://s.weibo.com//weibo?q=%23%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E5%8A%A8%E7%94%BB%E8%BF%98%E5%8E%9F%E5%BA%A6%23&Refer=top)
+
+1. [王焯冉曾写如能上场杀敌我愿站排头](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%84%AF%E5%86%89%E6%9B%BE%E5%86%99%E5%A6%82%E8%83%BD%E4%B8%8A%E5%9C%BA%E6%9D%80%E6%95%8C%E6%88%91%E6%84%BF%E7%AB%99%E6%8E%92%E5%A4%B4%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
 
