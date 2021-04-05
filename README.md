@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 09:25:03
+## 微博今日热榜 更新于 2021-04-05 10:20:53
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -188,4 +188,20 @@
 1. [我国已有五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E6%9C%89%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=top)
 
 1. [18岁女生立遗嘱留2万元给朋友](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AB%8B%E9%81%97%E5%98%B1%E7%95%992%E4%B8%87%E5%85%83%E7%BB%99%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [纪委回应干部被外甥实名举报](https://s.weibo.com//weibo?q=%E7%BA%AA%E5%A7%94%E5%9B%9E%E5%BA%94%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%A4%96%E7%94%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5&Refer=top)
+
+1. [主人脚臭对猫的伤害](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E4%BA%BA%E8%84%9A%E8%87%AD%E5%AF%B9%E7%8C%AB%E7%9A%84%E4%BC%A4%E5%AE%B3%23&Refer=top)
+
+1. [Rose新歌](https://s.weibo.com//weibo?q=%23Rose%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [景区回应酒店价高游客挤厕所](https://s.weibo.com//weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E9%85%92%E5%BA%97%E4%BB%B7%E9%AB%98%E6%B8%B8%E5%AE%A2%E6%8C%A4%E5%8E%95%E6%89%80%23&Refer=top)
+
+1. [勇士 老鹰](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%20%E8%80%81%E9%B9%B0&Refer=top)
+
+1. [老挝旅游区翻船8人死亡](https://s.weibo.com//weibo?q=%23%E8%80%81%E6%8C%9D%E6%97%85%E6%B8%B8%E5%8C%BA%E7%BF%BB%E8%88%B98%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [清明返程高峰](https://s.weibo.com//weibo?q=%E6%B8%85%E6%98%8E%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0&Refer=top)
+
+1. [中国女足出征韩国](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%87%BA%E5%BE%81%E9%9F%A9%E5%9B%BD&Refer=top)
 
