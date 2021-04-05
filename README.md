@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 18:01:05
+## 微博今日热榜 更新于 2021-04-05 19:01:02
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -392,4 +392,38 @@
 1. [王焯冉曾写如能上场杀敌我愿站排头](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%84%AF%E5%86%89%E6%9B%BE%E5%86%99%E5%A6%82%E8%83%BD%E4%B8%8A%E5%9C%BA%E6%9D%80%E6%95%8C%E6%88%91%E6%84%BF%E7%AB%99%E6%8E%92%E5%A4%B4%23&Refer=top)
 
 1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [张彬彬看景甜的眼神](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9C%8B%E6%99%AF%E7%94%9C%E7%9A%84%E7%9C%BC%E7%A5%9E&Refer=top)
+
+1. [章泽天身材](https://s.weibo.com//weibo?q=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E8%BA%AB%E6%9D%90&Refer=top)
+
+1. [尾鱼](https://s.weibo.com//weibo?q=%E5%B0%BE%E9%B1%BC&Refer=top)
+
+1. [上合组织秘书长说新疆百闻不如一见](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AF%B4%E6%96%B0%E7%96%86%E7%99%BE%E9%97%BB%E4%B8%8D%E5%A6%82%E4%B8%80%E8%A7%81%23&Refer=top)
+
+1. [司藤大结局](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [奥斯卡原名王政熊](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%8E%9F%E5%90%8D%E7%8E%8B%E6%94%BF%E7%86%8A%23&Refer=top)
+
+1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top)
+
+1. [夏达40岁状态](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E8%BE%BE40%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [牡蛎居然可以这么励志](https://s.weibo.com//weibo?q=%23%E7%89%A1%E8%9B%8E%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E5%8A%B1%E5%BF%97%23&Refer=top)
+
+1. [你会如何跟孩子讲述死亡](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%A6%82%E4%BD%95%E8%B7%9F%E5%AD%A9%E5%AD%90%E8%AE%B2%E8%BF%B0%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [街边商铺黑白招牌被吐槽像公墓](https://s.weibo.com//weibo?q=%E8%A1%97%E8%BE%B9%E5%95%86%E9%93%BA%E9%BB%91%E7%99%BD%E6%8B%9B%E7%89%8C%E8%A2%AB%E5%90%90%E6%A7%BD%E5%83%8F%E5%85%AC%E5%A2%93&Refer=top)
+
+1. [村民被红火蚁咬后休克](https://s.weibo.com//weibo?q=%23%E6%9D%91%E6%B0%91%E8%A2%AB%E7%BA%A2%E7%81%AB%E8%9A%81%E5%92%AC%E5%90%8E%E4%BC%91%E5%85%8B%23&Refer=top)
+
+1. [华山清明时节雪纷纷](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%B1%B1%E6%B8%85%E6%98%8E%E6%97%B6%E8%8A%82%E9%9B%AA%E7%BA%B7%E7%BA%B7%23&Refer=top)
+
+1. [四川洪雅山体崩塌致3人失联](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E6%B4%AA%E9%9B%85%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E8%87%B43%E4%BA%BA%E5%A4%B1%E8%81%94&Refer=top)
+
+1. [复原游戏人物仿妆](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E5%8E%9F%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%89%A9%E4%BB%BF%E5%A6%86%23&Refer=top)
+
+1. [张彬彬 甜甜你别动我来找你](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%20%E7%94%9C%E7%94%9C%E4%BD%A0%E5%88%AB%E5%8A%A8%E6%88%91%E6%9D%A5%E6%89%BE%E4%BD%A0&Refer=top)
+
+1. [俄新型隐身轰炸机或2027年前列装](https://s.weibo.com//weibo?q=%23%E4%BF%84%E6%96%B0%E5%9E%8B%E9%9A%90%E8%BA%AB%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%88%962027%E5%B9%B4%E5%89%8D%E5%88%97%E8%A3%85%23&Refer=top)
 
