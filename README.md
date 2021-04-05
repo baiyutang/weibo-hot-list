@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 21:08:53
+## 微博今日热榜 更新于 2021-04-05 22:01:08
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -480,4 +480,24 @@
 1. [小天](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%A4%A9&Refer=top)
 
 1. [Doinb五杀](https://s.weibo.com//weibo?q=Doinb%E4%BA%94%E6%9D%80&Refer=top)
+
+1. [丁太昇对李菲儿说假唱是卑鄙的](https://s.weibo.com//weibo?q=%E4%B8%81%E5%A4%AA%E6%98%87%E5%AF%B9%E6%9D%8E%E8%8F%B2%E5%84%BF%E8%AF%B4%E5%81%87%E5%94%B1%E6%98%AF%E5%8D%91%E9%84%99%E7%9A%84&Refer=top)
+
+1. [第一次坐飞机有多激动](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top)
+
+1. [辽宁舰航母编队在台湾周边海域训练](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%88%B0%E8%88%AA%E6%AF%8D%E7%BC%96%E9%98%9F%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%91%A8%E8%BE%B9%E6%B5%B7%E5%9F%9F%E8%AE%AD%E7%BB%83%23&Refer=top)
+
+1. [刘宇直播](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [迪丽热巴哭戏](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%93%AD%E6%88%8F&Refer=top)
+
+1. [星空下的西藏林芝南迦巴瓦峰](https://s.weibo.com//weibo?q=%23%E6%98%9F%E7%A9%BA%E4%B8%8B%E7%9A%84%E8%A5%BF%E8%97%8F%E6%9E%97%E8%8A%9D%E5%8D%97%E8%BF%A6%E5%B7%B4%E7%93%A6%E5%B3%B0%23&Refer=top)
+
+1. [Tian人马](https://s.weibo.com//weibo?q=Tian%E4%BA%BA%E9%A9%AC&Refer=top)
+
+1. [LokeN金克丝](https://s.weibo.com//weibo?q=LokeN%E9%87%91%E5%85%8B%E4%B8%9D&Refer=top)
+
+1. [新华社评国产品牌球鞋遭炒作](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E5%9B%BD%E4%BA%A7%E5%93%81%E7%89%8C%E7%90%83%E9%9E%8B%E9%81%AD%E7%82%92%E4%BD%9C%23&Refer=top)
+
+1. [JDG FPX](https://s.weibo.com//weibo?q=JDG%20FPX&Refer=top)
 
