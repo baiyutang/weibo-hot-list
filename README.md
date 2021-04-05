@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 13:06:11
+## 微博今日热榜 更新于 2021-04-05 14:01:16
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -266,4 +266,24 @@
 1. [良辰美景好时光海报](https://s.weibo.com//weibo?q=%23%E8%89%AF%E8%BE%B0%E7%BE%8E%E6%99%AF%E5%A5%BD%E6%97%B6%E5%85%89%E6%B5%B7%E6%8A%A5%23&Refer=top)
 
 1. [新冠疫苗保护期只管半年是误读](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BF%9D%E6%8A%A4%E6%9C%9F%E5%8F%AA%E7%AE%A1%E5%8D%8A%E5%B9%B4%E6%98%AF%E8%AF%AF%E8%AF%BB%23&Refer=top)
+
+1. [张子枫 我做不到不真诚拍每一条](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AD%90%E6%9E%AB%20%E6%88%91%E5%81%9A%E4%B8%8D%E5%88%B0%E4%B8%8D%E7%9C%9F%E8%AF%9A%E6%8B%8D%E6%AF%8F%E4%B8%80%E6%9D%A1&Refer=top)
+
+1. [虞书欣还原顶火锅事件](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%BF%98%E5%8E%9F%E9%A1%B6%E7%81%AB%E9%94%85%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [如梦之梦彩排照](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E5%BD%A9%E6%8E%92%E7%85%A7%23&Refer=top)
+
+1. [14名伊拉克妇女前往当地雷区排雷](https://s.weibo.com//weibo?q=14%E5%90%8D%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A6%87%E5%A5%B3%E5%89%8D%E5%BE%80%E5%BD%93%E5%9C%B0%E9%9B%B7%E5%8C%BA%E6%8E%92%E9%9B%B7&Refer=top)
+
+1. [沙僧被贬下界真的不冤](https://s.weibo.com//weibo?q=%23%E6%B2%99%E5%83%A7%E8%A2%AB%E8%B4%AC%E4%B8%8B%E7%95%8C%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%86%A4%23&Refer=top)
+
+1. [米佧邢克垒沙发吻花絮](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E4%BD%A7%E9%82%A2%E5%85%8B%E5%9E%92%E6%B2%99%E5%8F%91%E5%90%BB%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [林俊德院士生命的最后一天](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BF%8A%E5%BE%B7%E9%99%A2%E5%A3%AB%E7%94%9F%E5%91%BD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [闪闪发光的你发布会](https://s.weibo.com//weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%BD%A0%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [库里37分](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C37%E5%88%86%23&Refer=top)
+
+1. [于洋发长文](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%B4%8B%E5%8F%91%E9%95%BF%E6%96%87&Refer=top)
 
