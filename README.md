@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 08:03:47
+## 微博今日热榜 更新于 2021-04-06 09:24:53
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -154,4 +154,34 @@
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
 
 1. [这是刺绣能做到的吗](https://s.weibo.com//weibo?q=%E8%BF%99%E6%98%AF%E5%88%BA%E7%BB%A3%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E5%90%97&Refer=top)
+
+1. [陈坤儿子晒与女生合照](https://s.weibo.com//weibo?q=%E9%99%88%E5%9D%A4%E5%84%BF%E5%AD%90%E6%99%92%E4%B8%8E%E5%A5%B3%E7%94%9F%E5%90%88%E7%85%A7&Refer=top)
+
+1. [朝鲜不参加东京奥运会](https://s.weibo.com//weibo?q=%23%E6%9C%9D%E9%B2%9C%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
+
+1. [NINEPERCENT出道三周年](https://s.weibo.com//weibo?q=NINEPERCENT%E5%87%BA%E9%81%93%E4%B8%89%E5%91%A8%E5%B9%B4&Refer=top)
+
+1. [小欢喜编剧 南京爱情故事在炼成中](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C%E7%BC%96%E5%89%A7%20%E5%8D%97%E4%BA%AC%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B%E5%9C%A8%E7%82%BC%E6%88%90%E4%B8%AD&Refer=top)
+
+1. [live house全场在蹦好日子](https://s.weibo.com//weibo?q=live%20house%E5%85%A8%E5%9C%BA%E5%9C%A8%E8%B9%A6%E5%A5%BD%E6%97%A5%E5%AD%90&Refer=top)
+
+1. [普京签署总统任期法案](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%80%BB%E7%BB%9F%E4%BB%BB%E6%9C%9F%E6%B3%95%E6%A1%88&Refer=top)
+
+1. [女生与父亲发生争执负气跳江](https://s.weibo.com//weibo?q=%E5%A5%B3%E7%94%9F%E4%B8%8E%E7%88%B6%E4%BA%B2%E5%8F%91%E7%94%9F%E4%BA%89%E6%89%A7%E8%B4%9F%E6%B0%94%E8%B7%B3%E6%B1%9F&Refer=top)
+
+1. [库克称10年内可能卸任苹果CEO](https://s.weibo.com//weibo?q=%E5%BA%93%E5%85%8B%E7%A7%B010%E5%B9%B4%E5%86%85%E5%8F%AF%E8%83%BD%E5%8D%B8%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO&Refer=top)
+
+1. [哈登伤退](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E4%BC%A4%E9%80%80&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [尾鱼在嗑真人CP](https://s.weibo.com//weibo?q=%23%E5%B0%BE%E9%B1%BC%E5%9C%A8%E5%97%91%E7%9C%9F%E4%BA%BACP%23&Refer=top)
+
+1. [王鸥中古探店vlog](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B8%A5%E4%B8%AD%E5%8F%A4%E6%8E%A2%E5%BA%97vlog%23&Refer=top)
+
+1. [云南新增15例确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E15%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [饭圈集资量力而行](https://s.weibo.com//weibo?q=%E9%A5%AD%E5%9C%88%E9%9B%86%E8%B5%84%E9%87%8F%E5%8A%9B%E8%80%8C%E8%A1%8C&Refer=top)
+
+1. [节后开工第一天](https://s.weibo.com//weibo?q=%E8%8A%82%E5%90%8E%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top)
 
