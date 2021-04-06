@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 22:01:15
+## 微博今日热榜 更新于 2021-04-06 23:01:09
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -548,4 +548,34 @@
 1. [库克回应苹果应用商店佣金高](https://s.weibo.com//weibo?q=%E5%BA%93%E5%85%8B%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%BD%A3%E9%87%91%E9%AB%98&Refer=top)
 
 1. [Facebook测试二维码付款功能](https://s.weibo.com//weibo?q=Facebook%E6%B5%8B%E8%AF%95%E4%BA%8C%E7%BB%B4%E7%A0%81%E4%BB%98%E6%AC%BE%E5%8A%9F%E8%83%BD&Refer=top)
+
+1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
+
+1. [龚俊 叫我高冷男神](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E5%8F%AB%E6%88%91%E9%AB%98%E5%86%B7%E7%94%B7%E7%A5%9E&Refer=top)
+
+1. [李荣浩鞋底真厚](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%9E%8B%E5%BA%95%E7%9C%9F%E5%8E%9A&Refer=top)
+
+1. [明星社死现场](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [丁程鑫张雨绮快本路透](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%BF%AB%E6%9C%AC%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [利路修对粉丝说我喜欢你](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%AF%B9%E7%B2%89%E4%B8%9D%E8%AF%B4%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%23&Refer=top)
+
+1. [撒贝宁尼格买提雨天跳水坑](https://s.weibo.com//weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%9B%A8%E5%A4%A9%E8%B7%B3%E6%B0%B4%E5%9D%91&Refer=top)
+
+1. [DC推出新超级英雄猴王子](https://s.weibo.com//weibo?q=DC%E6%8E%A8%E5%87%BA%E6%96%B0%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E7%8C%B4%E7%8E%8B%E5%AD%90&Refer=top)
+
+1. [宇宙少女一位](https://s.weibo.com//weibo?q=%E5%AE%87%E5%AE%99%E5%B0%91%E5%A5%B3%E4%B8%80%E4%BD%8D&Refer=top)
+
+1. [谭松韵告别十一娘](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%91%8A%E5%88%AB%E5%8D%81%E4%B8%80%E5%A8%98%23&Refer=top)
+
+1. [邓孝慈回应被叫老婆](https://s.weibo.com//weibo?q=%23%E9%82%93%E5%AD%9D%E6%85%88%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8F%AB%E8%80%81%E5%A9%86%23&Refer=top)
+
+1. [长歌行预告](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [三星堆商标被抢注](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E5%95%86%E6%A0%87%E8%A2%AB%E6%8A%A2%E6%B3%A8&Refer=top)
+
+1. [7只狍子乘冰排过乌苏里江](https://s.weibo.com//weibo?q=%237%E5%8F%AA%E7%8B%8D%E5%AD%90%E4%B9%98%E5%86%B0%E6%8E%92%E8%BF%87%E4%B9%8C%E8%8B%8F%E9%87%8C%E6%B1%9F%23&Refer=top)
+
+1. [邓紫棋看了想报警](https://s.weibo.com//weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E7%9C%8B%E4%BA%86%E6%83%B3%E6%8A%A5%E8%AD%A6&Refer=top)
 
