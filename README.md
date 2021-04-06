@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 18:01:22
+## 微博今日热榜 更新于 2021-04-06 19:01:08
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -434,4 +434,30 @@
 1. [迪丽热巴看阿窦下线流泪](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%8B%E9%98%BF%E7%AA%A6%E4%B8%8B%E7%BA%BF%E6%B5%81%E6%B3%AA%23&Refer=top)
 
 1. [SN TES](https://s.weibo.com//weibo?q=%23SN%20TES%23&Refer=top)
+
+1. [喻言把谢谢老板打成谢谢老爸](https://s.weibo.com//weibo?q=%23%E5%96%BB%E8%A8%80%E6%8A%8A%E8%B0%A2%E8%B0%A2%E8%80%81%E6%9D%BF%E6%89%93%E6%88%90%E8%B0%A2%E8%B0%A2%E8%80%81%E7%88%B8%23&Refer=top)
+
+1. [迪丽热巴蝴蝶背](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E8%83%8C%23&Refer=top)
+
+1. [吴磊买到自己假签名照](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%E4%B9%B0%E5%88%B0%E8%87%AA%E5%B7%B1%E5%81%87%E7%AD%BE%E5%90%8D%E7%85%A7&Refer=top)
+
+1. [韩美娟后悔说糖果齁咸](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E5%90%8E%E6%82%94%E8%AF%B4%E7%B3%96%E6%9E%9C%E9%BD%81%E5%92%B8%23&Refer=top)
+
+1. [浪浪钉被申请注册商标](https://s.weibo.com//weibo?q=%23%E6%B5%AA%E6%B5%AA%E9%92%89%E8%A2%AB%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%23&Refer=top)
+
+1. [椰树集团申请国宴饮料相关商标被驳回](https://s.weibo.com//weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%AE%B4%E9%A5%AE%E6%96%99%E7%9B%B8%E5%85%B3%E5%95%86%E6%A0%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [苏伊士运河](https://s.weibo.com//weibo?q=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3&Refer=top)
+
+1. [蒋敦豪火锅店跳创4主题曲](https://s.weibo.com//weibo?q=%23%E8%92%8B%E6%95%A6%E8%B1%AA%E7%81%AB%E9%94%85%E5%BA%97%E8%B7%B3%E5%88%9B4%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top)
+
+1. [大熊猫骑摇摇马的样子](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%AA%91%E6%91%87%E6%91%87%E9%A9%AC%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top)
+
+1. [外交部称牛轭礁是中国南沙群岛的一部分](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%89%9B%E8%BD%AD%E7%A4%81%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%B2%99%E7%BE%A4%E5%B2%9B%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86&Refer=top)
+
+1. [乔欣春日绿茶大片](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%AC%A3%E6%98%A5%E6%97%A5%E7%BB%BF%E8%8C%B6%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [迪士尼茉莉公主妆](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%8C%89%E8%8E%89%E5%85%AC%E4%B8%BB%E5%A6%86%23&Refer=top)
+
+1. [迪丽热巴吴磊CP感](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8ACP%E6%84%9F&Refer=top)
 
