@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 07:02:26
+## 微博今日热榜 更新于 2021-04-06 08:03:47
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -122,4 +122,36 @@
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
 1. [Tian人马](https://s.weibo.com//weibo?q=Tian%E4%BA%BA%E9%A9%AC&Refer=top)
+
+1. [云南现有确诊病例66例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B66%E4%BE%8B%23&Refer=top)
+
+1. [女子购买南航快乐飞后遇14次航变](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E8%B4%AD%E4%B9%B0%E5%8D%97%E8%88%AA%E5%BF%AB%E4%B9%90%E9%A3%9E%E5%90%8E%E9%81%8714%E6%AC%A1%E8%88%AA%E5%8F%98&Refer=top)
+
+1. [陈卓璇点评丁太昇](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E7%82%B9%E8%AF%84%E4%B8%81%E5%A4%AA%E6%98%87%23&Refer=top)
+
+1. [年下不喊姐](https://s.weibo.com//weibo?q=%E5%B9%B4%E4%B8%8B%E4%B8%8D%E5%96%8A%E5%A7%90&Refer=top)
+
+1. [106岁奶奶陵园看望长眠边疆独子](https://s.weibo.com//weibo?q=%23106%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%99%B5%E5%9B%AD%E7%9C%8B%E6%9C%9B%E9%95%BF%E7%9C%A0%E8%BE%B9%E7%96%86%E7%8B%AC%E5%AD%90%23&Refer=top)
+
+1. [王毅奉劝日方不要把手伸得太长了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%A5%89%E5%8A%9D%E6%97%A5%E6%96%B9%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%BE%97%E5%A4%AA%E9%95%BF%E4%BA%86%23&Refer=top)
+
+1. [前NBA球员谈美国种族问题](https://s.weibo.com//weibo?q=%23%E5%89%8DNBA%E7%90%83%E5%91%98%E8%B0%88%E7%BE%8E%E5%9B%BD%E7%A7%8D%E6%97%8F%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [美颜滤镜下的景甜张彬彬](https://s.weibo.com//weibo?q=%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%E4%B8%8B%E7%9A%84%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC&Refer=top)
+
+1. [贾士凯](https://s.weibo.com//weibo?q=%E8%B4%BE%E5%A3%AB%E5%87%AF&Refer=top)
+
+1. [美国财长呼吁实行全球最低企业税](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%91%BC%E5%90%81%E5%AE%9E%E8%A1%8C%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E4%BC%81%E4%B8%9A%E7%A8%8E&Refer=top)
+
+1. [歌隼](https://s.weibo.com//weibo?q=%E6%AD%8C%E9%9A%BC&Refer=top)
+
+1. [娄滋博](https://s.weibo.com//weibo?q=%E5%A8%84%E6%BB%8B%E5%8D%9A&Refer=top)
+
+1. [于少白绿茶男](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%B0%91%E7%99%BD%E7%BB%BF%E8%8C%B6%E7%94%B7%23&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [这是刺绣能做到的吗](https://s.weibo.com//weibo?q=%E8%BF%99%E6%98%AF%E5%88%BA%E7%BB%A3%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E5%90%97&Refer=top)
 
