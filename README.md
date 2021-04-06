@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 12:02:47
+## 微博今日热榜 更新于 2021-04-06 13:06:06
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -272,4 +272,30 @@
 1. [沉香如屑](https://s.weibo.com//weibo?q=%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91&Refer=top)
 
 1. [哪个瞬间你感觉青春结束了](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E6%84%9F%E8%A7%89%E9%9D%92%E6%98%A5%E7%BB%93%E6%9D%9F%E4%BA%86%23&Refer=top)
+
+1. [偶遇杜江霍思燕一家](https://s.weibo.com//weibo?q=%E5%81%B6%E9%81%87%E6%9D%9C%E6%B1%9F%E9%9C%8D%E6%80%9D%E7%87%95%E4%B8%80%E5%AE%B6&Refer=top)
+
+1. [男子因高铁停运晚点说哭乘务员](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%9B%A0%E9%AB%98%E9%93%81%E5%81%9C%E8%BF%90%E6%99%9A%E7%82%B9%E8%AF%B4%E5%93%AD%E4%B9%98%E5%8A%A1%E5%91%98&Refer=top)
+
+1. [唐晓天恋情](https://s.weibo.com//weibo?q=%E5%94%90%E6%99%93%E5%A4%A9%E6%81%8B%E6%83%85&Refer=top)
+
+1. [如梦之梦 抢票](https://s.weibo.com//weibo?q=%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%20%E6%8A%A2%E7%A5%A8&Refer=top)
+
+1. [刘昊然黄发](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E9%BB%84%E5%8F%91%23&Refer=top)
+
+1. [吴磊端水大师](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&Refer=top)
+
+1. [皮尔斯](https://s.weibo.com//weibo?q=%E7%9A%AE%E5%B0%94%E6%96%AF&Refer=top)
+
+1. [李国庆谈35岁职场危机](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%9B%BD%E5%BA%86%E8%B0%8835%E5%B2%81%E8%81%8C%E5%9C%BA%E5%8D%B1%E6%9C%BA&Refer=top)
+
+1. [如何看待理智的人谈恋爱](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%90%86%E6%99%BA%E7%9A%84%E4%BA%BA%E8%B0%88%E6%81%8B%E7%88%B1%23&Refer=top)
+
+1. [美国3月个人申请破产数量激增41%](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD3%E6%9C%88%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E41%25&Refer=top)
+
+1. [三亚海滩网红扎堆直播](https://s.weibo.com//weibo?q=%E4%B8%89%E4%BA%9A%E6%B5%B7%E6%BB%A9%E7%BD%91%E7%BA%A2%E6%89%8E%E5%A0%86%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [爆汁螺蛳粉饺子](https://s.weibo.com//weibo?q=%23%E7%88%86%E6%B1%81%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%A5%BA%E5%AD%90%23&Refer=top)
+
+1. [张玮在吉克隽逸微博下的评论](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%8E%AE%E5%9C%A8%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%BE%AE%E5%8D%9A%E4%B8%8B%E7%9A%84%E8%AF%84%E8%AE%BA&Refer=top)
 
