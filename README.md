@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 19:01:08
+## 微博今日热榜 更新于 2021-04-06 20:01:25
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -460,4 +460,34 @@
 1. [迪士尼茉莉公主妆](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%8C%89%E8%8E%89%E5%85%AC%E4%B8%BB%E5%A6%86%23&Refer=top)
 
 1. [迪丽热巴吴磊CP感](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8ACP%E6%84%9F&Refer=top)
+
+1. [塞尔维亚总统接种中国新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%8E%A5%E7%A7%8D%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [吴磊闭眼给迪丽热巴系蝴蝶结](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E9%97%AD%E7%9C%BC%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B3%BB%E8%9D%B4%E8%9D%B6%E7%BB%93%23&Refer=top)
+
+1. [苏伊士运河再次停航](https://s.weibo.com//weibo?q=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E5%86%8D%E6%AC%A1%E5%81%9C%E8%88%AA&Refer=top)
+
+1. [薇娅李响连麦疫情亲历者](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E6%9D%8E%E5%93%8D%E8%BF%9E%E9%BA%A6%E7%96%AB%E6%83%85%E4%BA%B2%E5%8E%86%E8%80%85%23&Refer=top)
+
+1. [肖战斗罗大陆韩国开播VCR](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E9%9F%A9%E5%9B%BD%E5%BC%80%E6%92%ADVCR%23&Refer=top)
+
+1. [张哲瀚男团版自我介绍](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E7%94%B7%E5%9B%A2%E7%89%88%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%23&Refer=top)
+
+1. [龚俊感谢维基对唱功的肯定](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%84%9F%E8%B0%A2%E7%BB%B4%E5%9F%BA%E5%AF%B9%E5%94%B1%E5%8A%9F%E7%9A%84%E8%82%AF%E5%AE%9A%23&Refer=top)
+
+1. [CUBA球员恶意踩裆被取消参赛资格](https://s.weibo.com//weibo?q=%23CUBA%E7%90%83%E5%91%98%E6%81%B6%E6%84%8F%E8%B8%A9%E8%A3%86%E8%A2%AB%E5%8F%96%E6%B6%88%E5%8F%82%E8%B5%9B%E8%B5%84%E6%A0%BC%23&Refer=top)
+
+1. [王俊凯病号服路透](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%97%85%E5%8F%B7%E6%9C%8D%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [工作中老板有必要在乎员工的情绪吗](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%B8%AD%E8%80%81%E6%9D%BF%E6%9C%89%E5%BF%85%E8%A6%81%E5%9C%A8%E4%B9%8E%E5%91%98%E5%B7%A5%E7%9A%84%E6%83%85%E7%BB%AA%E5%90%97%23&Refer=top)
+
+1. [吴磊热巴掰手腕好甜](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%83%AD%E5%B7%B4%E6%8E%B0%E6%89%8B%E8%85%95%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [吴磊给热巴拍照拍了个寂寞](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%BB%99%E7%83%AD%E5%B7%B4%E6%8B%8D%E7%85%A7%E6%8B%8D%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [中韩协商建立健康码互认机制](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%9F%A9%E5%8D%8F%E5%95%86%E5%BB%BA%E7%AB%8B%E5%81%A5%E5%BA%B7%E7%A0%81%E4%BA%92%E8%AE%A4%E6%9C%BA%E5%88%B6%23&Refer=top)
+
+1. [滴滴开始启动造车项目](https://s.weibo.com//weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%BC%80%E5%A7%8B%E5%90%AF%E5%8A%A8%E9%80%A0%E8%BD%A6%E9%A1%B9%E7%9B%AE%23&Refer=top)
+
+1. [你的狗有多想你](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84%E7%8B%97%E6%9C%89%E5%A4%9A%E6%83%B3%E4%BD%A0%23&Refer=top)
 
