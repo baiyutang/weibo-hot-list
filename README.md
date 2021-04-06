@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 17:01:12
+## 微博今日热榜 更新于 2021-04-06 18:01:22
 1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -416,4 +416,22 @@
 1. [南大碎尸案家属称未得到经济补偿](https://s.weibo.com//weibo?q=%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%9C%AA%E5%BE%97%E5%88%B0%E7%BB%8F%E6%B5%8E%E8%A1%A5%E5%81%BF&Refer=top)
 
 1. [肖思远父亲说军装上有他的汗舍不得动](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%80%9D%E8%BF%9C%E7%88%B6%E4%BA%B2%E8%AF%B4%E5%86%9B%E8%A3%85%E4%B8%8A%E6%9C%89%E4%BB%96%E7%9A%84%E6%B1%97%E8%88%8D%E4%B8%8D%E5%BE%97%E5%8A%A8%23&Refer=top)
+
+1. [沿着高速看中国](https://s.weibo.com//weibo?q=%23%E6%B2%BF%E7%9D%80%E9%AB%98%E9%80%9F%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
+
+1. [外交部回应美国针对亚裔仇恨犯罪激增](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E9%92%88%E5%AF%B9%E4%BA%9A%E8%A3%94%E4%BB%87%E6%81%A8%E7%8A%AF%E7%BD%AA%E6%BF%80%E5%A2%9E%23&Refer=top)
+
+1. [拉妻子跳河妻溺亡男子获刑5年](https://s.weibo.com//weibo?q=%23%E6%8B%89%E5%A6%BB%E5%AD%90%E8%B7%B3%E6%B2%B3%E5%A6%BB%E6%BA%BA%E4%BA%A1%E7%94%B7%E5%AD%90%E8%8E%B7%E5%88%915%E5%B9%B4%23&Refer=top)
+
+1. [浙江玉环发现世界极危鸟种勺嘴鹬](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E6%9E%81%E5%8D%B1%E9%B8%9F%E7%A7%8D%E5%8B%BA%E5%98%B4%E9%B9%AC%23&Refer=top)
+
+1. [周深谈网络戾气](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E8%B0%88%E7%BD%91%E7%BB%9C%E6%88%BE%E6%B0%94%23&Refer=top)
+
+1. [跟狗狗也要讲究平等](https://s.weibo.com//weibo?q=%E8%B7%9F%E7%8B%97%E7%8B%97%E4%B9%9F%E8%A6%81%E8%AE%B2%E7%A9%B6%E5%B9%B3%E7%AD%89&Refer=top)
+
+1. [尼日利亚近2000囚犯越狱](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%BF%912000%E5%9B%9A%E7%8A%AF%E8%B6%8A%E7%8B%B1&Refer=top)
+
+1. [迪丽热巴看阿窦下线流泪](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%8B%E9%98%BF%E7%AA%A6%E4%B8%8B%E7%BA%BF%E6%B5%81%E6%B3%AA%23&Refer=top)
+
+1. [SN TES](https://s.weibo.com//weibo?q=%23SN%20TES%23&Refer=top)
 
