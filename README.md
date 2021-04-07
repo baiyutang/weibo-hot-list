@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 06:01:08
+## 微博今日热榜 更新于 2021-04-08 07:02:34
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=top)
 
 1. [嫦娥四号进入第29月昼工作期](https://s.weibo.com//weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%9B%9B%E5%8F%B7%E8%BF%9B%E5%85%A5%E7%AC%AC29%E6%9C%88%E6%98%BC%E5%B7%A5%E4%BD%9C%E6%9C%9F%23&Refer=new_time)
+
+1. [英国蜘蛛人徒手攀爬122米高楼](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E8%9C%98%E8%9B%9B%E4%BA%BA%E5%BE%92%E6%89%8B%E6%94%80%E7%88%AC122%E7%B1%B3%E9%AB%98%E6%A5%BC&Refer=top)
+
+1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
 
