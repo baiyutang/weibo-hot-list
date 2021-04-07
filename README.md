@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 09:24:35
+## 微博今日热榜 更新于 2021-04-07 10:23:08
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -202,4 +202,30 @@
 1. [专家回应民众接种新冠疫苗犹豫原因](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B0%91%E4%BC%97%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%8A%B9%E8%B1%AB%E5%8E%9F%E5%9B%A0%23&Refer=top)
 
 1. [家政行业就业火爆招生冷清](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E6%94%BF%E8%A1%8C%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%81%AB%E7%88%86%E6%8B%9B%E7%94%9F%E5%86%B7%E6%B8%85%23&Refer=top)
+
+1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=top)
+
+1. [警方回应女子户籍被冒用贷款数百万](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%88%B7%E7%B1%8D%E8%A2%AB%E5%86%92%E7%94%A8%E8%B4%B7%E6%AC%BE%E6%95%B0%E7%99%BE%E4%B8%87&Refer=top)
+
+1. [10个富裕国家拥有全球近80%新冠疫苗](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E5%AF%8C%E8%A3%95%E5%9B%BD%E5%AE%B6%E6%8B%A5%E6%9C%89%E5%85%A8%E7%90%83%E8%BF%9180%25%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [厦门六中合唱团为厦大百年校庆献歌](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E5%85%AD%E4%B8%AD%E5%90%88%E5%94%B1%E5%9B%A2%E4%B8%BA%E5%8E%A6%E5%A4%A7%E7%99%BE%E5%B9%B4%E6%A0%A1%E5%BA%86%E7%8C%AE%E6%AD%8C%23&Refer=top)
+
+1. [杭州一村千年前排水系统沿用至今](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E6%9D%91%E5%8D%83%E5%B9%B4%E5%89%8D%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F%E6%B2%BF%E7%94%A8%E8%87%B3%E4%BB%8A&Refer=top)
+
+1. [白琴](https://s.weibo.com//weibo?q=%E7%99%BD%E7%90%B4&Refer=top)
+
+1. [公孙夫妇下线](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AD%99%E5%A4%AB%E5%A6%87%E4%B8%8B%E7%BA%BF%23&Refer=top)
+
+1. [贝索斯连续4年全球首富](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E7%B4%A2%E6%96%AF%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E5%85%A8%E7%90%83%E9%A6%96%E5%AF%8C%23&Refer=top)
+
+1. [年内431家银行网点关门](https://s.weibo.com//weibo?q=%E5%B9%B4%E5%86%85431%E5%AE%B6%E9%93%B6%E8%A1%8C%E7%BD%91%E7%82%B9%E5%85%B3%E9%97%A8&Refer=top)
+
+1. [国际奥委会未接到朝鲜退出正式申请](https://s.weibo.com//weibo?q=%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%9C%AA%E6%8E%A5%E5%88%B0%E6%9C%9D%E9%B2%9C%E9%80%80%E5%87%BA%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7&Refer=top)
+
+1. [误入桃花源的那一刻](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E5%85%A5%E6%A1%83%E8%8A%B1%E6%BA%90%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%23&Refer=top)
+
+1. [农业生态园变身公墓](https://s.weibo.com//weibo?q=%23%E5%86%9C%E4%B8%9A%E7%94%9F%E6%80%81%E5%9B%AD%E5%8F%98%E8%BA%AB%E5%85%AC%E5%A2%93%23&Refer=top)
+
+1. [27个省会中11城GDP超万亿](https://s.weibo.com//weibo?q=%2327%E4%B8%AA%E7%9C%81%E4%BC%9A%E4%B8%AD11%E5%9F%8EGDP%E8%B6%85%E4%B8%87%E4%BA%BF%23&Refer=top)
 
