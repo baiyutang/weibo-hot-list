@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 11:08:16
+## 微博今日热榜 更新于 2021-04-07 12:03:37
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -246,4 +246,26 @@
 1. [军队文职考试报名](https://s.weibo.com//weibo?q=%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%E8%80%83%E8%AF%95%E6%8A%A5%E5%90%8D&Refer=top)
 
 1. [香港教材对鸦片战争部分做较大修改](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E6%95%99%E6%9D%90%E5%AF%B9%E9%B8%A6%E7%89%87%E6%88%98%E4%BA%89%E9%83%A8%E5%88%86%E5%81%9A%E8%BE%83%E5%A4%A7%E4%BF%AE%E6%94%B9%23&Refer=top)
+
+1. [黎智英认罪](https://s.weibo.com//weibo?q=%23%E9%BB%8E%E6%99%BA%E8%8B%B1%E8%AE%A4%E7%BD%AA%23&Refer=top)
+
+1. [日月潭潭底龟裂成块状](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%88%E6%BD%AD%E6%BD%AD%E5%BA%95%E9%BE%9F%E8%A3%82%E6%88%90%E5%9D%97%E7%8A%B6&Refer=top)
+
+1. [迪丽热巴吴磊陈伟霆张彬彬电梯照对比](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%E9%99%88%E4%BC%9F%E9%9C%86%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%94%B5%E6%A2%AF%E7%85%A7%E5%AF%B9%E6%AF%94%23&Refer=top)
+
+1. [司藤换装集合](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E6%8D%A2%E8%A3%85%E9%9B%86%E5%90%88&Refer=top)
+
+1. [双胞胎学生过斑马线被撞一死一伤](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%AD%A6%E7%94%9F%E8%BF%87%E6%96%91%E9%A9%AC%E7%BA%BF%E8%A2%AB%E6%92%9E%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%23&Refer=top)
+
+1. [柯南新剧场版内地定档](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E5%8D%97%E6%96%B0%E5%89%A7%E5%9C%BA%E7%89%88%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [白鲸和金毛的微笑](https://s.weibo.com//weibo?q=%E7%99%BD%E9%B2%B8%E5%92%8C%E9%87%91%E6%AF%9B%E7%9A%84%E5%BE%AE%E7%AC%91&Refer=top)
+
+1. [钟南山对同学们说有志气还要争气](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E5%AF%B9%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%AF%B4%E6%9C%89%E5%BF%97%E6%B0%94%E8%BF%98%E8%A6%81%E4%BA%89%E6%B0%94%23&Refer=top)
+
+1. [春天来的很慢 春天才有浪漫](https://s.weibo.com//weibo?q=%E6%98%A5%E5%A4%A9%E6%9D%A5%E7%9A%84%E5%BE%88%E6%85%A2%20%E6%98%A5%E5%A4%A9%E6%89%8D%E6%9C%89%E6%B5%AA%E6%BC%AB&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [0首付贷款买车骗局](https://s.weibo.com//weibo?q=%230%E9%A6%96%E4%BB%98%E8%B4%B7%E6%AC%BE%E4%B9%B0%E8%BD%A6%E9%AA%97%E5%B1%80%23&Refer=top)
 
