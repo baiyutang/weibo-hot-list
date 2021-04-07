@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 21:09:07
+## 微博今日热榜 更新于 2021-04-07 23:01:06
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -494,4 +494,46 @@
 1. [苏醒替林芸芸擦车](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E6%9B%BF%E6%9E%97%E8%8A%B8%E8%8A%B8%E6%93%A6%E8%BD%A6%23&Refer=top)
 
 1. [中尼边境哨所守夜人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E5%93%A8%E6%89%80%E5%AE%88%E5%A4%9C%E4%BA%BA%23&Refer=top)
+
+1. [肖战走秀](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B0%E7%A7%80%23&Refer=top)
+
+1. [从妈妈改口到妈的岁数](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%A6%88%E5%A6%88%E6%94%B9%E5%8F%A3%E5%88%B0%E5%A6%88%E7%9A%84%E5%B2%81%E6%95%B0%23&Refer=top)
+
+1. [甘望星没完成青年大学习](https://s.weibo.com//weibo?q=%23%E7%94%98%E6%9C%9B%E6%98%9F%E6%B2%A1%E5%AE%8C%E6%88%90%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%23&Refer=top)
+
+1. [张萌说好男人是夸出来的](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E8%AF%B4%E5%A5%BD%E7%94%B7%E4%BA%BA%E6%98%AF%E5%A4%B8%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top)
+
+1. [iOS14.5上线反追踪用户隐私功能](https://s.weibo.com//weibo?q=%23iOS14.5%E4%B8%8A%E7%BA%BF%E5%8F%8D%E8%BF%BD%E8%B8%AA%E7%94%A8%E6%88%B7%E9%9A%90%E7%A7%81%E5%8A%9F%E8%83%BD%23&Refer=top)
+
+1. [薇娅问欧阳娜娜选男友标准](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E9%97%AE%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E9%80%89%E7%94%B7%E5%8F%8B%E6%A0%87%E5%87%86%23&Refer=top)
+
+1. [江疏影 没有那个她哪有这个我](https://s.weibo.com//weibo?q=%E6%B1%9F%E7%96%8F%E5%BD%B1%20%E6%B2%A1%E6%9C%89%E9%82%A3%E4%B8%AA%E5%A5%B9%E5%93%AA%E6%9C%89%E8%BF%99%E4%B8%AA%E6%88%91&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [阿花花酱](https://s.weibo.com//weibo?q=%E9%98%BF%E8%8A%B1%E8%8A%B1%E9%85%B1&Refer=top)
+
+1. [上海已有百岁老人3080人](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B7%B2%E6%9C%89%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA3080%E4%BA%BA%23&Refer=top)
+
+1. [李长歌英雄救美弥弥古丽](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E8%8B%B1%E9%9B%84%E6%95%91%E7%BE%8E%E5%BC%A5%E5%BC%A5%E5%8F%A4%E4%B8%BD%23&Refer=top)
+
+1. [人脸识别真的安全吗](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%9C%9F%E7%9A%84%E5%AE%89%E5%85%A8%E5%90%97%23&Refer=top)
+
+1. [外国人吐槽外媒根本不聊真实的新疆](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%90%E6%A7%BD%E5%A4%96%E5%AA%92%E6%A0%B9%E6%9C%AC%E4%B8%8D%E8%81%8A%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%96%B0%E7%96%86%23&Refer=top)
+
+1. [李长歌爱情骗子](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E7%88%B1%E6%83%85%E9%AA%97%E5%AD%90%23&Refer=top)
+
+1. [我的姐姐票房破5亿](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E7%A5%A8%E6%88%BF%E7%A0%B45%E4%BA%BF&Refer=top)
+
+1. [林更新偶遇神似岳云鹏乐高](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%81%B6%E9%81%87%E7%A5%9E%E4%BC%BC%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%B9%90%E9%AB%98%23&Refer=top)
+
+1. [千万别轻易尝试高颅顶发型](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E8%BD%BB%E6%98%93%E5%B0%9D%E8%AF%95%E9%AB%98%E9%A2%85%E9%A1%B6%E5%8F%91%E5%9E%8B%23&Refer=top)
+
+1. [CSGO](https://s.weibo.com//weibo?q=CSGO&Refer=top)
+
+1. [王者荣耀新赛季](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3&Refer=top)
+
+1. [好利来发文](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%88%A9%E6%9D%A5%E5%8F%91%E6%96%87%23&Refer=top)
+
+1. [小朱配琦合体唱Rap](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%B1%E9%85%8D%E7%90%A6%E5%90%88%E4%BD%93%E5%94%B1Rap%23&Refer=top)
 
