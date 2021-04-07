@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 08:03:34
+## 微博今日热榜 更新于 2021-04-07 09:24:35
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -164,4 +164,42 @@
 1. [网购一定要看清楚尺寸](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9C%8B%E6%B8%85%E6%A5%9A%E5%B0%BA%E5%AF%B8%23&Refer=top)
 
 1. [麦克勒莫加盟湖人](https://s.weibo.com//weibo?q=%E9%BA%A6%E5%85%8B%E5%8B%92%E8%8E%AB%E5%8A%A0%E7%9B%9F%E6%B9%96%E4%BA%BA&Refer=top)
+
+1. [清华北大30名学霸参军入伍](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A730%E5%90%8D%E5%AD%A6%E9%9C%B8%E5%8F%82%E5%86%9B%E5%85%A5%E4%BC%8D&Refer=top)
+
+1. [BBC新疆报道的解说词跟画面完全相反](https://s.weibo.com//weibo?q=%23BBC%E6%96%B0%E7%96%86%E6%8A%A5%E9%81%93%E7%9A%84%E8%A7%A3%E8%AF%B4%E8%AF%8D%E8%B7%9F%E7%94%BB%E9%9D%A2%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%8F%8D%23&Refer=top)
+
+1. [13岁女孩花70万约稿](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8A%B170%E4%B8%87%E7%BA%A6%E7%A8%BF%23&Refer=top)
+
+1. [发现学生遭受侵害强制报告](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%8E%B0%E5%AD%A6%E7%94%9F%E9%81%AD%E5%8F%97%E4%BE%B5%E5%AE%B3%E5%BC%BA%E5%88%B6%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [中国为全球抗疫做了哪些贡献](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E5%85%A8%E7%90%83%E6%8A%97%E7%96%AB%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E8%B4%A1%E7%8C%AE%23&Refer=top)
+
+1. [湖人猛龙冲突](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E7%8C%9B%E9%BE%99%E5%86%B2%E7%AA%81&Refer=top)
+
+1. [亲友称江宏杰没有说不离婚](https://s.weibo.com//weibo?q=%E4%BA%B2%E5%8F%8B%E7%A7%B0%E6%B1%9F%E5%AE%8F%E6%9D%B0%E6%B2%A1%E6%9C%89%E8%AF%B4%E4%B8%8D%E7%A6%BB%E5%A9%9A&Refer=top)
+
+1. [乐嫣什么时候被救出来](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%AB%A3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%A2%AB%E6%95%91%E5%87%BA%E6%9D%A5%23&Refer=top)
+
+1. [张艺兴方律师声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [龚俊 少套路我](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E5%B0%91%E5%A5%97%E8%B7%AF%E6%88%91&Refer=top)
+
+1. [74岁大爷14年跑192个马拉松](https://s.weibo.com//weibo?q=%2374%E5%B2%81%E5%A4%A7%E7%88%B714%E5%B9%B4%E8%B7%91192%E4%B8%AA%E9%A9%AC%E6%8B%89%E6%9D%BE%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [纽交所决定将蛋壳公寓ADS摘牌](https://s.weibo.com//weibo?q=%E7%BA%BD%E4%BA%A4%E6%89%80%E5%86%B3%E5%AE%9A%E5%B0%86%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93ADS%E6%91%98%E7%89%8C&Refer=top)
+
+1. [岳云鹏老婆没找到合影错过卡点庆生](https://s.weibo.com//weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%80%81%E5%A9%86%E6%B2%A1%E6%89%BE%E5%88%B0%E5%90%88%E5%BD%B1%E9%94%99%E8%BF%87%E5%8D%A1%E7%82%B9%E5%BA%86%E7%94%9F&Refer=top)
+
+1. [泰国考虑为外国游客提供免费机票](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%80%83%E8%99%91%E4%B8%BA%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B4%B9%E6%9C%BA%E7%A5%A8%23&Refer=top)
+
+1. [温州多辆执法车被安装GPS跟踪器](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%A4%9A%E8%BE%86%E6%89%A7%E6%B3%95%E8%BD%A6%E8%A2%AB%E5%AE%89%E8%A3%85GPS%E8%B7%9F%E8%B8%AA%E5%99%A8%23&Refer=top)
+
+1. [31省区市新增12例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E12%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [专家回应民众接种新冠疫苗犹豫原因](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%B0%91%E4%BC%97%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%8A%B9%E8%B1%AB%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [家政行业就业火爆招生冷清](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E6%94%BF%E8%A1%8C%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%81%AB%E7%88%86%E6%8B%9B%E7%94%9F%E5%86%B7%E6%B8%85%23&Refer=top)
 
