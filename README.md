@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 19:01:12
+## 微博今日热榜 更新于 2021-04-07 20:01:21
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -448,4 +448,32 @@
 1. [离家出走包包](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0%E5%8C%85%E5%8C%85%23&Refer=top)
 
 1. [张艺兴生图](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [RNG状态](https://s.weibo.com//weibo?q=RNG%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [陈祥榕奶奶录视频发给孙子](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%A5%A5%E6%A6%95%E5%A5%B6%E5%A5%B6%E5%BD%95%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99%E5%AD%99%E5%AD%90%23&Refer=top)
+
+1. [吴磊贴了四次手机膜才成功](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B4%B4%E4%BA%86%E5%9B%9B%E6%AC%A1%E6%89%8B%E6%9C%BA%E8%86%9C%E6%89%8D%E6%88%90%E5%8A%9F%23&Refer=top)
+
+1. [皓嫣](https://s.weibo.com//weibo?q=%E7%9A%93%E5%AB%A3&Refer=top)
+
+1. [中国李宁21秋冬潮流发布](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E6%9D%8E%E5%AE%8121%E7%A7%8B%E5%86%AC%E6%BD%AE%E6%B5%81%E5%8F%91%E5%B8%83&Refer=top)
+
+1. [被罚后自尽货车司机家属发声](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%BD%9A%E5%90%8E%E8%87%AA%E5%B0%BD%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [朱婷带领河南女排逆转辽宁女排](https://s.weibo.com//weibo?q=%E6%9C%B1%E5%A9%B7%E5%B8%A6%E9%A2%86%E6%B2%B3%E5%8D%97%E5%A5%B3%E6%8E%92%E9%80%86%E8%BD%AC%E8%BE%BD%E5%AE%81%E5%A5%B3%E6%8E%92&Refer=top)
+
+1. [二十多岁的我们在焦虑什么](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B2%81%E7%9A%84%E6%88%91%E4%BB%AC%E5%9C%A8%E7%84%A6%E8%99%91%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [极限挑战南京录制](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%8D%97%E4%BA%AC%E5%BD%95%E5%88%B6&Refer=top)
+
+1. [FPX战胜RNG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CRNG%23&Refer=top)
+
+1. [小伙复刻山河令经典打戏](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%99%E5%A4%8D%E5%88%BB%E5%B1%B1%E6%B2%B3%E4%BB%A4%E7%BB%8F%E5%85%B8%E6%89%93%E6%88%8F&Refer=top)
+
+1. [吉濑美智子离婚](https://s.weibo.com//weibo?q=%E5%90%89%E6%BF%91%E7%BE%8E%E6%99%BA%E5%AD%90%E7%A6%BB%E5%A9%9A&Refer=top)
+
+1. [校园表白墙有多好笑](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%9B%AD%E8%A1%A8%E7%99%BD%E5%A2%99%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [抗艾滋病病毒药物免征进口关税](https://s.weibo.com//weibo?q=%23%E6%8A%97%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9%E5%85%8D%E5%BE%81%E8%BF%9B%E5%8F%A3%E5%85%B3%E7%A8%8E%23&Refer=top)
 
