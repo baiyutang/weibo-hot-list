@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 02:10:57
+## 微博今日热榜 更新于 2021-04-08 03:07:38
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [歌隼月下拥抱](https://s.weibo.com//weibo?q=%23%E6%AD%8C%E9%9A%BC%E6%9C%88%E4%B8%8B%E6%8B%A5%E6%8A%B1%23&Refer=top)
 
 1. [好利来](https://s.weibo.com//weibo?q=%E5%A5%BD%E5%88%A9%E6%9D%A5&Refer=top)
+
+1. [制糖夫妇蜜月吻](https://s.weibo.com//weibo?q=%23%E5%88%B6%E7%B3%96%E5%A4%AB%E5%A6%87%E8%9C%9C%E6%9C%88%E5%90%BB%23&Refer=top)
+
+1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=top)
 
