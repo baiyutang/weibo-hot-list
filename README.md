@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 20:01:21
+## 微博今日热榜 更新于 2021-04-07 21:09:07
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -476,4 +476,22 @@
 1. [校园表白墙有多好笑](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%9B%AD%E8%A1%A8%E7%99%BD%E5%A2%99%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
 
 1. [抗艾滋病病毒药物免征进口关税](https://s.weibo.com//weibo?q=%23%E6%8A%97%E8%89%BE%E6%BB%8B%E7%97%85%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9%E5%85%8D%E5%BE%81%E8%BF%9B%E5%8F%A3%E5%85%B3%E7%A8%8E%23&Refer=top)
+
+1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
+
+1. [北京叫停八达岭古长城沉浸式实景游览](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%AB%E5%81%9C%E5%85%AB%E8%BE%BE%E5%B2%AD%E5%8F%A4%E9%95%BF%E5%9F%8E%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AE%9E%E6%99%AF%E6%B8%B8%E8%A7%88%23&Refer=top)
+
+1. [送女友的巨型玫瑰心碎一地](https://s.weibo.com//weibo?q=%23%E9%80%81%E5%A5%B3%E5%8F%8B%E7%9A%84%E5%B7%A8%E5%9E%8B%E7%8E%AB%E7%91%B0%E5%BF%83%E7%A2%8E%E4%B8%80%E5%9C%B0%23&Refer=top)
+
+1. [安徽商场失火致4死原因](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E5%95%86%E5%9C%BA%E5%A4%B1%E7%81%AB%E8%87%B44%E6%AD%BB%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [陈卓璇 娱乐至上可以别吹娱乐歪风](https://s.weibo.com//weibo?q=%E9%99%88%E5%8D%93%E7%92%87%20%E5%A8%B1%E4%B9%90%E8%87%B3%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%88%AB%E5%90%B9%E5%A8%B1%E4%B9%90%E6%AD%AA%E9%A3%8E&Refer=top)
+
+1. [21部动画片含1465处易被模仿危险点](https://s.weibo.com//weibo?q=%2321%E9%83%A8%E5%8A%A8%E7%94%BB%E7%89%87%E5%90%AB1465%E5%A4%84%E6%98%93%E8%A2%AB%E6%A8%A1%E4%BB%BF%E5%8D%B1%E9%99%A9%E7%82%B9%23&Refer=top)
+
+1. [让老师最想放弃事业的字](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E8%80%81%E5%B8%88%E6%9C%80%E6%83%B3%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E7%9A%84%E5%AD%97%23&Refer=top)
+
+1. [苏醒替林芸芸擦车](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E6%9B%BF%E6%9E%97%E8%8A%B8%E8%8A%B8%E6%93%A6%E8%BD%A6%23&Refer=top)
+
+1. [中尼边境哨所守夜人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E5%93%A8%E6%89%80%E5%AE%88%E5%A4%9C%E4%BA%BA%23&Refer=top)
 
