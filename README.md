@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 00:03:11
+## 微博今日热榜 更新于 2021-04-08 01:19:29
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [被罚后自尽货车司机家属发声](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%BD%9A%E5%90%8E%E8%87%AA%E5%B0%BD%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&Refer=top)
 
 1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [张柏芝生图](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%94%9F%E5%9B%BE&Refer=top)
+
+1. [建立完善个人收入和财产信息系统](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E5%AE%8C%E5%96%84%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E5%92%8C%E8%B4%A2%E4%BA%A7%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%23&Refer=top)
+
+1. [玉昭令好虐](https://s.weibo.com//weibo?q=%23%E7%8E%89%E6%98%AD%E4%BB%A4%E5%A5%BD%E8%99%90%23&Refer=top)
 
