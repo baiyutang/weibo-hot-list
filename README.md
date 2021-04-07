@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 13:06:24
+## 微博今日热榜 更新于 2021-04-07 14:01:17
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -296,4 +296,30 @@
 1. [勇士绝杀雄鹿](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E7%BB%9D%E6%9D%80%E9%9B%84%E9%B9%BF&Refer=top)
 
 1. [泰国猕猴胖成球被强制减肥](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%8C%95%E7%8C%B4%E8%83%96%E6%88%90%E7%90%83%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%87%8F%E8%82%A5%23&Refer=top)
+
+1. [妻子的浪漫旅行5开播](https://s.weibo.com//weibo?q=%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C5%E5%BC%80%E6%92%AD&Refer=top)
+
+1. [好利来](https://s.weibo.com//weibo?q=%E5%A5%BD%E5%88%A9%E6%9D%A5&Refer=top)
+
+1. [王一博连续六年为汪涵庆生](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B9%B4%E4%B8%BA%E6%B1%AA%E6%B6%B5%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [刘涛 第一次当电灯泡瓦数不高](https://s.weibo.com//weibo?q=%E5%88%98%E6%B6%9B%20%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BD%93%E7%94%B5%E7%81%AF%E6%B3%A1%E7%93%A6%E6%95%B0%E4%B8%8D%E9%AB%98&Refer=top)
+
+1. [大岛日记](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B2%9B%E6%97%A5%E8%AE%B0&Refer=top)
+
+1. [每个人的身上都有苗苗](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%B8%8A%E9%83%BD%E6%9C%89%E8%8B%97%E8%8B%97%23&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [我的小尾巴](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%B0%8F%E5%B0%BE%E5%B7%B4&Refer=top)
+
+1. [利路修 从喜欢到恨只有一步](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E4%BB%8E%E5%96%9C%E6%AC%A2%E5%88%B0%E6%81%A8%E5%8F%AA%E6%9C%89%E4%B8%80%E6%AD%A5&Refer=top)
+
+1. [朴春嘴唇](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%98%A5%E5%98%B4%E5%94%87%23&Refer=top)
+
+1. [印度16名囚犯向狱警泼辣椒粉后成功越狱](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A616%E5%90%8D%E5%9B%9A%E7%8A%AF%E5%90%91%E7%8B%B1%E8%AD%A6%E6%B3%BC%E8%BE%A3%E6%A4%92%E7%B2%89%E5%90%8E%E6%88%90%E5%8A%9F%E8%B6%8A%E7%8B%B1&Refer=top)
+
+1. [星巴克试用可重复使用杯子](https://s.weibo.com//weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%AF%95%E7%94%A8%E5%8F%AF%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E6%9D%AF%E5%AD%90&Refer=top)
+
+1. [同一屋檐下收官](https://s.weibo.com//weibo?q=%E5%90%8C%E4%B8%80%E5%B1%8B%E6%AA%90%E4%B8%8B%E6%94%B6%E5%AE%98&Refer=top)
 
