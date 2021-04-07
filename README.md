@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 12:03:37
+## 微博今日热榜 更新于 2021-04-07 13:06:24
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -268,4 +268,32 @@
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
 1. [0首付贷款买车骗局](https://s.weibo.com//weibo?q=%230%E9%A6%96%E4%BB%98%E8%B4%B7%E6%AC%BE%E4%B9%B0%E8%BD%A6%E9%AA%97%E5%B1%80%23&Refer=top)
+
+1. [三星堆3号神树神秘造型初露真颜](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%863%E5%8F%B7%E7%A5%9E%E6%A0%91%E7%A5%9E%E7%A7%98%E9%80%A0%E5%9E%8B%E5%88%9D%E9%9C%B2%E7%9C%9F%E9%A2%9C&Refer=top)
+
+1. [陈小纭回应怼网友](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E5%9B%9E%E5%BA%94%E6%80%BC%E7%BD%91%E5%8F%8B%23&Refer=top)
+
+1. [别轻易尝试黄瓜减肥](https://s.weibo.com//weibo?q=%23%E5%88%AB%E8%BD%BB%E6%98%93%E5%B0%9D%E8%AF%95%E9%BB%84%E7%93%9C%E5%87%8F%E8%82%A5%23&Refer=top)
+
+1. [赵丽颖自然之灵大片](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%87%AA%E7%84%B6%E4%B9%8B%E7%81%B5%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [黄明昊探班范丞丞](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%8E%A2%E7%8F%AD%E8%8C%83%E4%B8%9E%E4%B8%9E%23&Refer=top)
+
+1. [故宫海棠](https://s.weibo.com//weibo?q=%E6%95%85%E5%AE%AB%E6%B5%B7%E6%A3%A0&Refer=top)
+
+1. [Angelababy短发](https://s.weibo.com//weibo?q=Angelababy%E7%9F%AD%E5%8F%91&Refer=top)
+
+1. [中国北极村冰面爆破](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8C%97%E6%9E%81%E6%9D%91%E5%86%B0%E9%9D%A2%E7%88%86%E7%A0%B4%23&Refer=top)
+
+1. [库里41分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C41%E5%88%86&Refer=top)
+
+1. [斯里兰卡选美皇后皇冠遭前冠军抢夺](https://s.weibo.com//weibo?q=%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E9%80%89%E7%BE%8E%E7%9A%87%E5%90%8E%E7%9A%87%E5%86%A0%E9%81%AD%E5%89%8D%E5%86%A0%E5%86%9B%E6%8A%A2%E5%A4%BA&Refer=top)
+
+1. [北京一小学到校先上体育课再上文化课](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%88%B0%E6%A0%A1%E5%85%88%E4%B8%8A%E4%BD%93%E8%82%B2%E8%AF%BE%E5%86%8D%E4%B8%8A%E6%96%87%E5%8C%96%E8%AF%BE%23&Refer=top)
+
+1. [小托马斯复出](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%89%98%E9%A9%AC%E6%96%AF%E5%A4%8D%E5%87%BA&Refer=top)
+
+1. [勇士绝杀雄鹿](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E7%BB%9D%E6%9D%80%E9%9B%84%E9%B9%BF&Refer=top)
+
+1. [泰国猕猴胖成球被强制减肥](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%8C%95%E7%8C%B4%E8%83%96%E6%88%90%E7%90%83%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%87%8F%E8%82%A5%23&Refer=top)
 
