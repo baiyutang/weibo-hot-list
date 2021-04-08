@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 22:01:18
+## 微博今日热榜 更新于 2021-04-08 23:01:25
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -518,4 +518,20 @@
 1. [你拍过最有电影质感的照片](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%8B%8D%E8%BF%87%E6%9C%80%E6%9C%89%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top)
 
 1. [梦幻啵啵毛巾卷](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%B9%BB%E5%95%B5%E5%95%B5%E6%AF%9B%E5%B7%BE%E5%8D%B7%23&Refer=top)
+
+1. [医保个人账户将允许家庭成员共济](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%B0%86%E5%85%81%E8%AE%B8%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98%E5%85%B1%E6%B5%8E%23&Refer=top)
+
+1. [路人扶摔倒男子反被讹](https://s.weibo.com//weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%89%B6%E6%91%94%E5%80%92%E7%94%B7%E5%AD%90%E5%8F%8D%E8%A2%AB%E8%AE%B9%23&Refer=top)
+
+1. [邢克垒救米佧](https://s.weibo.com//weibo?q=%23%E9%82%A2%E5%85%8B%E5%9E%92%E6%95%91%E7%B1%B3%E4%BD%A7%23&Refer=top)
+
+1. [苏醒沈晓燕喝酒吐苦水](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E6%B2%88%E6%99%93%E7%87%95%E5%96%9D%E9%85%92%E5%90%90%E8%8B%A6%E6%B0%B4%23&Refer=top)
+
+1. [刘隽保姆级舞蹈教学](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9A%BD%E4%BF%9D%E5%A7%86%E7%BA%A7%E8%88%9E%E8%B9%88%E6%95%99%E5%AD%A6%23&Refer=top)
+
+1. [啤酒肚还能这样用](https://s.weibo.com//weibo?q=%23%E5%95%A4%E9%85%92%E8%82%9A%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E7%94%A8%23&Refer=top)
+
+1. [阿的江女儿观战新疆男篮比赛](https://s.weibo.com//weibo?q=%E9%98%BF%E7%9A%84%E6%B1%9F%E5%A5%B3%E5%84%BF%E8%A7%82%E6%88%98%E6%96%B0%E7%96%86%E7%94%B7%E7%AF%AE%E6%AF%94%E8%B5%9B&Refer=top)
+
+1. [良辰美景好时光](https://s.weibo.com//weibo?q=%E8%89%AF%E8%BE%B0%E7%BE%8E%E6%99%AF%E5%A5%BD%E6%97%B6%E5%85%89&Refer=top)
 
