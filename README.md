@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 13:05:53
+## 微博今日热榜 更新于 2021-04-08 14:01:18
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -302,4 +302,20 @@
 1. [中国国家电竞足球队开始选拔](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%AB%9E%E8%B6%B3%E7%90%83%E9%98%9F%E5%BC%80%E5%A7%8B%E9%80%89%E6%8B%94%23&Refer=top)
 
 1. [美国番茄酱告急](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E7%95%AA%E8%8C%84%E9%85%B1%E5%91%8A%E6%80%A5&Refer=top)
+
+1. [德国18岁少年成最年轻亿万富豪](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD18%E5%B2%81%E5%B0%91%E5%B9%B4%E6%88%90%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA&Refer=top)
+
+1. [最适合打疫苗的着装](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E6%89%93%E7%96%AB%E8%8B%97%E7%9A%84%E7%9D%80%E8%A3%85%23&Refer=top)
+
+1. [自杀货车司机妻子盼有赔偿金](https://s.weibo.com//weibo?q=%23%E8%87%AA%E6%9D%80%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%A6%BB%E5%AD%90%E7%9B%BC%E6%9C%89%E8%B5%94%E5%81%BF%E9%87%91%23&Refer=top)
+
+1. [小米申请铁蛋商标](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E7%94%B3%E8%AF%B7%E9%93%81%E8%9B%8B%E5%95%86%E6%A0%87&Refer=top)
+
+1. [蔡卓宜按呀按呀MV](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%8D%93%E5%AE%9C%E6%8C%89%E5%91%80%E6%8C%89%E5%91%80MV%23&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [N号房创建人获刑34年](https://s.weibo.com//weibo?q=N%E5%8F%B7%E6%88%BF%E5%88%9B%E5%BB%BA%E4%BA%BA%E8%8E%B7%E5%88%9134%E5%B9%B4&Refer=top)
+
+1. [河南函谷关一直升机迫降坠落](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E5%87%BD%E8%B0%B7%E5%85%B3%E4%B8%80%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BF%AB%E9%99%8D%E5%9D%A0%E8%90%BD&Refer=top)
 
