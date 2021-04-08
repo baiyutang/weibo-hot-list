@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 00:02:34
+## 微博今日热榜 更新于 2021-04-09 01:19:23
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -104,4 +104,16 @@
 1. [12367服务平台上线](https://s.weibo.com//weibo?q=%2312367%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%BA%BF%23&Refer=top)
 
 1. [疆辽大战](https://s.weibo.com//weibo?q=%23%E7%96%86%E8%BE%BD%E5%A4%A7%E6%88%98%23&Refer=top)
+
+1. [英雄湖北浴火重生](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E6%B9%96%E5%8C%97%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&Refer=new_time)
+
+1. [张凌赫 天官赐福](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [宋妍霏选衣服](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E9%80%89%E8%A1%A3%E6%9C%8D%23&Refer=top)
+
+1. [徐璐 陆景总是从梁辰的全世界路过](https://s.weibo.com//weibo?q=%E5%BE%90%E7%92%90%20%E9%99%86%E6%99%AF%E6%80%BB%E6%98%AF%E4%BB%8E%E6%A2%81%E8%BE%B0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87&Refer=top)
+
+1. [你是我的城池营垒全员抱别](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92%E5%85%A8%E5%91%98%E6%8A%B1%E5%88%AB%23&Refer=top)
+
+1. [吹陶笛的自闭症少年](https://s.weibo.com//weibo?q=%23%E5%90%B9%E9%99%B6%E7%AC%9B%E7%9A%84%E8%87%AA%E9%97%AD%E7%97%87%E5%B0%91%E5%B9%B4%23&Refer=top)
 
