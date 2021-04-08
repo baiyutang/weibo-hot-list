@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 11:08:33
+## 微博今日热榜 更新于 2021-04-08 12:03:37
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -250,4 +250,26 @@
 1. [职业寻宠人](https://s.weibo.com//weibo?q=%E8%81%8C%E4%B8%9A%E5%AF%BB%E5%AE%A0%E4%BA%BA&Refer=top)
 
 1. [见过最奇葩的无线网密码](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E5%A5%87%E8%91%A9%E7%9A%84%E6%97%A0%E7%BA%BF%E7%BD%91%E5%AF%86%E7%A0%81%23&Refer=top)
+
+1. [英雄湖北浴火重生](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E6%B9%96%E5%8C%97%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&Refer=new_time)
+
+1. [丁程鑫方否认定妆天官赐福](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E6%96%B9%E5%90%A6%E8%AE%A4%E5%AE%9A%E5%A6%86%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [北斗掉线](https://s.weibo.com//weibo?q=%E5%8C%97%E6%96%97%E6%8E%89%E7%BA%BF&Refer=top)
+
+1. [欧扎克](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%89%8E%E5%85%8B&Refer=top)
+
+1. [创造营预告](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [D社曝金正贤徐智慧约会照](https://s.weibo.com//weibo?q=D%E7%A4%BE%E6%9B%9D%E9%87%91%E6%AD%A3%E8%B4%A4%E5%BE%90%E6%99%BA%E6%85%A7%E7%BA%A6%E4%BC%9A%E7%85%A7&Refer=top)
+
+1. [钱掌柜是初代军艺校草](https://s.weibo.com//weibo?q=%23%E9%92%B1%E6%8E%8C%E6%9F%9C%E6%98%AF%E5%88%9D%E4%BB%A3%E5%86%9B%E8%89%BA%E6%A0%A1%E8%8D%89%23&Refer=top)
+
+1. [酒店回应游客堵房间地漏蓄水玩](https://s.weibo.com//weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%A0%B5%E6%88%BF%E9%97%B4%E5%9C%B0%E6%BC%8F%E8%93%84%E6%B0%B4%E7%8E%A9%23&Refer=top)
+
+1. [大学生网购被骗寻反诈专线又被骗](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E8%A2%AB%E9%AA%97%E5%AF%BB%E5%8F%8D%E8%AF%88%E4%B8%93%E7%BA%BF%E5%8F%88%E8%A2%AB%E9%AA%97%23&Refer=top)
+
+1. [以色列深夜空袭叙利亚](https://s.weibo.com//weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E6%B7%B1%E5%A4%9C%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A&Refer=top)
+
+1. [80岁大爷打破5000米亚洲纪录](https://s.weibo.com//weibo?q=%2380%E5%B2%81%E5%A4%A7%E7%88%B7%E6%89%93%E7%A0%B45000%E7%B1%B3%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23&Refer=top)
 
