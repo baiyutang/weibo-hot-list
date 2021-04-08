@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 07:02:34
+## 微博今日热榜 更新于 2021-04-08 08:04:42
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -126,4 +126,34 @@
 1. [英国蜘蛛人徒手攀爬122米高楼](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E8%9C%98%E8%9B%9B%E4%BA%BA%E5%BE%92%E6%89%8B%E6%94%80%E7%88%AC122%E7%B1%B3%E9%AB%98%E6%A5%BC&Refer=top)
 
 1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
+
+1. [张一山把南艺烤肠吃涨价](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%8A%8A%E5%8D%97%E8%89%BA%E7%83%A4%E8%82%A0%E5%90%83%E6%B6%A8%E4%BB%B7&Refer=top)
+
+1. [东部战区回应麦凯恩号穿航台湾海峡](https://s.weibo.com//weibo?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E9%BA%A6%E5%87%AF%E6%81%A9%E5%8F%B7%E7%A9%BF%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1&Refer=top)
+
+1. [开饭了老妈](https://s.weibo.com//weibo?q=%23%E5%BC%80%E9%A5%AD%E4%BA%86%E8%80%81%E5%A6%88%23&Refer=top)
+
+1. [1元学理财被骗近万元](https://s.weibo.com//weibo?q=1%E5%85%83%E5%AD%A6%E7%90%86%E8%B4%A2%E8%A2%AB%E9%AA%97%E8%BF%91%E4%B8%87%E5%85%83&Refer=top)
+
+1. [武汉重启一周年](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E9%87%8D%E5%90%AF%E4%B8%80%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [云南新增11例确诊](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E11%E4%BE%8B%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [李宗翰机场被送马桶刷](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%97%E7%BF%B0%E6%9C%BA%E5%9C%BA%E8%A2%AB%E9%80%81%E9%A9%AC%E6%A1%B6%E5%88%B7%23&Refer=top)
+
+1. [玉米价格创历史新高](https://s.weibo.com//weibo?q=%E7%8E%89%E7%B1%B3%E4%BB%B7%E6%A0%BC%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98&Refer=top)
+
+1. [EXO庆祝出道九周年](https://s.weibo.com//weibo?q=%23EXO%E5%BA%86%E7%A5%9D%E5%87%BA%E9%81%93%E4%B9%9D%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [林妙可探班关晓彤](https://s.weibo.com//weibo?q=%E6%9E%97%E5%A6%99%E5%8F%AF%E6%8E%A2%E7%8F%AD%E5%85%B3%E6%99%93%E5%BD%A4&Refer=top)
+
+1. [巴黎战胜拜仁](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%BB%8E%E6%88%98%E8%83%9C%E6%8B%9C%E4%BB%81&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [明清两代状元写的字](https://s.weibo.com//weibo?q=%E6%98%8E%E6%B8%85%E4%B8%A4%E4%BB%A3%E7%8A%B6%E5%85%83%E5%86%99%E7%9A%84%E5%AD%97&Refer=top)
+
+1. [腾讯第一大股东宣布减持](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AF%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%82%A1%E4%B8%9C%E5%AE%A3%E5%B8%83%E5%87%8F%E6%8C%81&Refer=top)
+
+1. [杜兰特复出](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%A4%8D%E5%87%BA&Refer=top)
 
