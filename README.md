@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 19:01:18
+## 微博今日热榜 更新于 2021-04-08 20:01:26
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -444,4 +444,24 @@
 1. [尹浩宇螃蟹舞](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%B5%A9%E5%AE%87%E8%9E%83%E8%9F%B9%E8%88%9E%23&Refer=top)
 
 1. [黑心养老金融骗局围猎老人](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%BF%83%E5%85%BB%E8%80%81%E9%87%91%E8%9E%8D%E9%AA%97%E5%B1%80%E5%9B%B4%E7%8C%8E%E8%80%81%E4%BA%BA%23&Refer=top)
+
+1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
+
+1. [你是我的城池营垒直播](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [迪丽热巴工作室维权声明](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [青春有你](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0&Refer=top)
+
+1. [369的酒桶](https://s.weibo.com//weibo?q=369%E7%9A%84%E9%85%92%E6%A1%B6&Refer=top)
+
+1. [马思纯让白敬亭把帽子摘了](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AE%A9%E7%99%BD%E6%95%AC%E4%BA%AD%E6%8A%8A%E5%B8%BD%E5%AD%90%E6%91%98%E4%BA%86&Refer=top)
+
+1. [你是我的城池营垒大结局](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [谢可寅模仿杜淳跳舞](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E6%A8%A1%E4%BB%BF%E6%9D%9C%E6%B7%B3%E8%B7%B3%E8%88%9E%23&Refer=top)
+
+1. [良辰美景吻戏花絮](https://s.weibo.com//weibo?q=%23%E8%89%AF%E8%BE%B0%E7%BE%8E%E6%99%AF%E5%90%BB%E6%88%8F%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [西双版纳现大规模毁林种茶](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%8E%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%AF%81%E6%9E%97%E7%A7%8D%E8%8C%B6%23&Refer=top)
 
