@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 02:10:32
+## 微博今日热榜 更新于 2021-04-09 03:07:00
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [唱给武汉的英雄赞歌](https://s.weibo.com//weibo?q=%23%E5%94%B1%E7%BB%99%E6%AD%A6%E6%B1%89%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C%23&Refer=new_time)
 
 1. [巨人](https://s.weibo.com//weibo?q=%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [河北迁安两名男子暴力伤医被刑拘](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E8%BF%81%E5%AE%89%E4%B8%A4%E5%90%8D%E7%94%B7%E5%AD%90%E6%9A%B4%E5%8A%9B%E4%BC%A4%E5%8C%BB%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [中国女足 韩国女足](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%20%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
 
