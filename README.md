@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 16:06:52
+## 微博今日热榜 更新于 2021-04-08 17:02:06
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -366,4 +366,26 @@
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top)
 
 1. [杨洋丰兰息](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%B0%E5%85%B0%E6%81%AF%23&Refer=top)
+
+1. [程莉莎曾认为好的婚姻需要婆婆退出](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E6%9B%BE%E8%AE%A4%E4%B8%BA%E5%A5%BD%E7%9A%84%E5%A9%9A%E5%A7%BB%E9%9C%80%E8%A6%81%E5%A9%86%E5%A9%86%E9%80%80%E5%87%BA%23&Refer=top)
+
+1. [12367服务平台上线](https://s.weibo.com//weibo?q=%2312367%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [赵立坚说欢迎大家打卡武汉吃热干面](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6%E6%89%93%E5%8D%A1%E6%AD%A6%E6%B1%89%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%23&Refer=top)
+
+1. [张馨破门](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A6%A8%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [刘宇宁 迪士尼乐园](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD&Refer=top)
+
+1. [杀破狼](https://s.weibo.com//weibo?q=%E6%9D%80%E7%A0%B4%E7%8B%BC&Refer=top)
+
+1. [央视曝农村改造厕所轻轻一踩就碎了](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%86%9C%E6%9D%91%E6%94%B9%E9%80%A0%E5%8E%95%E6%89%80%E8%BD%BB%E8%BD%BB%E4%B8%80%E8%B8%A9%E5%B0%B1%E7%A2%8E%E4%BA%86%23&Refer=top)
+
+1. [长沙一棵珙桐16年来首次开花](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E6%A3%B5%E7%8F%99%E6%A1%9016%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%BC%80%E8%8A%B1%23&Refer=top)
+
+1. [江苏专转本成绩](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E4%B8%93%E8%BD%AC%E6%9C%AC%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [广州侦破涉案10亿元奶粉走私案](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BE%A6%E7%A0%B4%E6%B6%89%E6%A1%8810%E4%BA%BF%E5%85%83%E5%A5%B6%E7%B2%89%E8%B5%B0%E7%A7%81%E6%A1%88%23&Refer=top)
+
+1. [婆婆和妈妈](https://s.weibo.com//weibo?q=%E5%A9%86%E5%A9%86%E5%92%8C%E5%A6%88%E5%A6%88&Refer=top)
 
