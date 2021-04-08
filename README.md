@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 21:08:31
+## 微博今日热榜 更新于 2021-04-08 22:01:18
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -486,4 +486,36 @@
 1. [住建部约谈广州合肥等五市](https://s.weibo.com//weibo?q=%E4%BD%8F%E5%BB%BA%E9%83%A8%E7%BA%A6%E8%B0%88%E5%B9%BF%E5%B7%9E%E5%90%88%E8%82%A5%E7%AD%89%E4%BA%94%E5%B8%82&Refer=top)
 
 1. [如何看待女足中韩战](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A5%B3%E8%B6%B3%E4%B8%AD%E9%9F%A9%E6%88%98%23&Refer=top)
+
+1. [侯佩岑对黄柏俊说谢谢你娶我](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E5%AF%B9%E9%BB%84%E6%9F%8F%E4%BF%8A%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%A8%B6%E6%88%91%23&Refer=top)
+
+1. [李荣浩 找队友跟找对象是一样的](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%20%E6%89%BE%E9%98%9F%E5%8F%8B%E8%B7%9F%E6%89%BE%E5%AF%B9%E8%B1%A1%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84&Refer=top)
+
+1. [北大保安第一人已回乡从教20年](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E4%BF%9D%E5%AE%89%E7%AC%AC%E4%B8%80%E4%BA%BA%E5%B7%B2%E5%9B%9E%E4%B9%A1%E4%BB%8E%E6%95%9920%E5%B9%B4%23&Refer=top)
+
+1. [人大法硕复试30余人成绩0分](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%A4%A7%E6%B3%95%E7%A1%95%E5%A4%8D%E8%AF%9530%E4%BD%99%E4%BA%BA%E6%88%90%E7%BB%A90%E5%88%86%23&Refer=top)
+
+1. [网友拍到朱鹮吃娃娃鱼](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E6%9C%B1%E9%B9%AE%E5%90%83%E5%A8%83%E5%A8%83%E9%B1%BC%23&Refer=top)
+
+1. [辣条螺蛳粉](https://s.weibo.com//weibo?q=%23%E8%BE%A3%E6%9D%A1%E8%9E%BA%E8%9B%B3%E7%B2%89%23&Refer=top)
+
+1. [华为全屋智能](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E5%85%A8%E5%B1%8B%E6%99%BA%E8%83%BD&Refer=top)
+
+1. [荣耀乒乓大结局](https://s.weibo.com//weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%92%E4%B9%93%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [你的婚礼提档430](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%8F%90%E6%A1%A3430%23&Refer=top)
+
+1. [吹陶笛的自闭症少年](https://s.weibo.com//weibo?q=%23%E5%90%B9%E9%99%B6%E7%AC%9B%E7%9A%84%E8%87%AA%E9%97%AD%E7%97%87%E5%B0%91%E5%B9%B4%23&Refer=top)
+
+1. [河北迁安两名男子暴力伤医被刑拘](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E8%BF%81%E5%AE%89%E4%B8%A4%E5%90%8D%E7%94%B7%E5%AD%90%E6%9A%B4%E5%8A%9B%E4%BC%A4%E5%8C%BB%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [疆辽大战](https://s.weibo.com//weibo?q=%23%E7%96%86%E8%BE%BD%E5%A4%A7%E6%88%98%23&Refer=top)
+
+1. [吴前复出](https://s.weibo.com//weibo?q=%E5%90%B4%E5%89%8D%E5%A4%8D%E5%87%BA&Refer=top)
+
+1. [尹正焖菜](https://s.weibo.com//weibo?q=%E5%B0%B9%E6%AD%A3%E7%84%96%E8%8F%9C&Refer=top)
+
+1. [你拍过最有电影质感的照片](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%8B%8D%E8%BF%87%E6%9C%80%E6%9C%89%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [梦幻啵啵毛巾卷](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%B9%BB%E5%95%B5%E5%95%B5%E6%AF%9B%E5%B7%BE%E5%8D%B7%23&Refer=top)
 
