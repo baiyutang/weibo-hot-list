@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 15:04:59
+## 微博今日热榜 更新于 2021-04-08 16:06:52
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -340,4 +340,30 @@
 1. [谏山创](https://s.weibo.com//weibo?q=%E8%B0%8F%E5%B1%B1%E5%88%9B&Refer=top)
 
 1. [你所遭受的招聘暴力](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%89%80%E9%81%AD%E5%8F%97%E7%9A%84%E6%8B%9B%E8%81%98%E6%9A%B4%E5%8A%9B%23&Refer=top)
+
+1. [警方回应乘客喊飞机上有炸弹](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E5%96%8A%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%9C%89%E7%82%B8%E5%BC%B9%23&Refer=top)
+
+1. [娜扎 口嫌体直是女王行为](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%20%E5%8F%A3%E5%AB%8C%E4%BD%93%E7%9B%B4%E6%98%AF%E5%A5%B3%E7%8E%8B%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [学校的招生信息有多好笑](https://s.weibo.com//weibo?q=%E5%AD%A6%E6%A0%A1%E7%9A%84%E6%8B%9B%E7%94%9F%E4%BF%A1%E6%81%AF%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91&Refer=top)
+
+1. [苹果推迟MacBook和iPad生产](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E8%BF%9FMacBook%E5%92%8CiPad%E7%94%9F%E4%BA%A7%23&Refer=top)
+
+1. [杨洋戏服衣领是印刷的吗](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%88%8F%E6%9C%8D%E8%A1%A3%E9%A2%86%E6%98%AF%E5%8D%B0%E5%88%B7%E7%9A%84%E5%90%97%23&Refer=top)
+
+1. [林依晨起床时间](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%B5%B7%E5%BA%8A%E6%97%B6%E9%97%B4&Refer=top)
+
+1. [陈祥榕与妈妈的最后一通电话](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%A5%A5%E6%A6%95%E4%B8%8E%E5%A6%88%E5%A6%88%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%23&Refer=top)
+
+1. [粉丝送胡静干饭王锦旗](https://s.weibo.com//weibo?q=%23%E7%B2%89%E4%B8%9D%E9%80%81%E8%83%A1%E9%9D%99%E5%B9%B2%E9%A5%AD%E7%8E%8B%E9%94%A6%E6%97%97%23&Refer=top)
+
+1. [力丸为粉丝唱小星星](https://s.weibo.com//weibo?q=%23%E5%8A%9B%E4%B8%B8%E4%B8%BA%E7%B2%89%E4%B8%9D%E5%94%B1%E5%B0%8F%E6%98%9F%E6%98%9F%23&Refer=top)
+
+1. [金雕抓着野猪天上飞](https://s.weibo.com//weibo?q=%E9%87%91%E9%9B%95%E6%8A%93%E7%9D%80%E9%87%8E%E7%8C%AA%E5%A4%A9%E4%B8%8A%E9%A3%9E&Refer=top)
+
+1. [中国女足 韩国女足](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%20%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
+
+1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [杨洋丰兰息](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%B0%E5%85%B0%E6%81%AF%23&Refer=top)
 
