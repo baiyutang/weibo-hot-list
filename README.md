@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 18:01:15
+## 微博今日热榜 更新于 2021-04-08 19:01:18
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -414,4 +414,34 @@
 1. [王嘉尔盗梦空间大片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4%E5%A4%A7%E7%89%87%23&Refer=top)
 
 1. [小朋友的逻辑有多强](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E9%80%BB%E8%BE%91%E6%9C%89%E5%A4%9A%E5%BC%BA&Refer=top)
+
+1. [唱给武汉的英雄赞歌](https://s.weibo.com//weibo?q=%23%E5%94%B1%E7%BB%99%E6%AD%A6%E6%B1%89%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C%23&Refer=new_time)
+
+1. [杨幂工作室维权声明](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [70万剂新冠疫苗到货广东](https://s.weibo.com//weibo?q=%2370%E4%B8%87%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%88%B0%E8%B4%A7%E5%B9%BF%E4%B8%9C%23&Refer=top)
+
+1. [吴磊台词 我好歹也是个血气方刚的男人](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%E5%8F%B0%E8%AF%8D%20%E6%88%91%E5%A5%BD%E6%AD%B9%E4%B9%9F%E6%98%AF%E4%B8%AA%E8%A1%80%E6%B0%94%E6%96%B9%E5%88%9A%E7%9A%84%E7%94%B7%E4%BA%BA&Refer=top)
+
+1. [男子在一根头发丝上刻赤壁怀古](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%9C%A8%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%E4%B8%9D%E4%B8%8A%E5%88%BB%E8%B5%A4%E5%A3%81%E6%80%80%E5%8F%A4&Refer=top)
+
+1. [林一太会亲了](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B8%80%E5%A4%AA%E4%BC%9A%E4%BA%B2%E4%BA%86%23&Refer=top)
+
+1. [龚俊生图](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [青你3先导ALLIN的勇气](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E5%85%88%E5%AF%BCALLIN%E7%9A%84%E5%8B%87%E6%B0%94&Refer=top)
+
+1. [超千万人抢购98元机票盲盒](https://s.weibo.com//weibo?q=%23%E8%B6%85%E5%8D%83%E4%B8%87%E4%BA%BA%E6%8A%A2%E8%B4%AD98%E5%85%83%E6%9C%BA%E7%A5%A8%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [TES EDG](https://s.weibo.com//weibo?q=TES%20EDG&Refer=top)
+
+1. [范臻尔发长文回应MMAQL](https://s.weibo.com//weibo?q=%23%E8%8C%83%E8%87%BB%E5%B0%94%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94MMAQL%23&Refer=top)
+
+1. [利路修回复粉丝评论](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA&Refer=top)
+
+1. [深房理涉嫌非法集资行为](https://s.weibo.com//weibo?q=%E6%B7%B1%E6%88%BF%E7%90%86%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84%E8%A1%8C%E4%B8%BA&Refer=top)
+
+1. [尹浩宇螃蟹舞](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%B5%A9%E5%AE%87%E8%9E%83%E8%9F%B9%E8%88%9E%23&Refer=top)
+
+1. [黑心养老金融骗局围猎老人](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%BF%83%E5%85%BB%E8%80%81%E9%87%91%E8%9E%8D%E9%AA%97%E5%B1%80%E5%9B%B4%E7%8C%8E%E8%80%81%E4%BA%BA%23&Refer=top)
 
