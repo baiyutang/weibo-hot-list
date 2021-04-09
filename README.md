@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 09:23:45
+## 微博今日热榜 更新于 2021-04-09 10:19:16
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -192,4 +192,34 @@
 1. [美图已累计净购买约1亿美元加密货币](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BE%E5%B7%B2%E7%B4%AF%E8%AE%A1%E5%87%80%E8%B4%AD%E4%B9%B0%E7%BA%A61%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81&Refer=top)
 
 1. [韩媒吐槽中国球迷加油声太大](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AA%92%E5%90%90%E6%A7%BD%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%8A%A0%E6%B2%B9%E5%A3%B0%E5%A4%AA%E5%A4%A7%23&Refer=top)
+
+1. [林依晨送公公上班图](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E9%80%81%E5%85%AC%E5%85%AC%E4%B8%8A%E7%8F%AD%E5%9B%BE&Refer=top)
+
+1. [广东河源一水库库底疑现古代建筑](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E6%B2%B3%E6%BA%90%E4%B8%80%E6%B0%B4%E5%BA%93%E5%BA%93%E5%BA%95%E7%96%91%E7%8E%B0%E5%8F%A4%E4%BB%A3%E5%BB%BA%E7%AD%91&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [凉风](https://s.weibo.com//weibo?q=%E5%87%89%E9%A3%8E&Refer=top)
+
+1. [在清华大学读书有哪些烦恼](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B9%A6%E6%9C%89%E5%93%AA%E4%BA%9B%E7%83%A6%E6%81%BC%23&Refer=top)
+
+1. [景甜张彬彬同款跑步姿势](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%90%8C%E6%AC%BE%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%23&Refer=top)
+
+1. [浙江新增一印度尼西亚输入无症状感染者](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%96%B0%E5%A2%9E%E4%B8%80%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%93%E5%85%A5%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [杭州部分行政区划优化调整](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%83%A8%E5%88%86%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BC%98%E5%8C%96%E8%B0%83%E6%95%B4%23&Refer=top)
+
+1. [警方通报女孩酒店内遭3人殴打](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E9%85%92%E5%BA%97%E5%86%85%E9%81%AD3%E4%BA%BA%E6%AE%B4%E6%89%93%23&Refer=top)
+
+1. [顺丰跌停](https://s.weibo.com//weibo?q=%E9%A1%BA%E4%B8%B0%E8%B7%8C%E5%81%9C&Refer=top)
+
+1. [不要轻易模仿的原因](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E6%A8%A1%E4%BB%BF%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [31省区市新增21例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E21%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [拜登称枪支暴力在美国是种流行病](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%9E%AA%E6%94%AF%E6%9A%B4%E5%8A%9B%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%98%AF%E7%A7%8D%E6%B5%81%E8%A1%8C%E7%97%85%23&Refer=top)
+
+1. [江西200亩紫云英盛开](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF200%E4%BA%A9%E7%B4%AB%E4%BA%91%E8%8B%B1%E7%9B%9B%E5%BC%80%23&Refer=top)
+
+1. [一个字形容当兵有多酷](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AD%97%E5%BD%A2%E5%AE%B9%E5%BD%93%E5%85%B5%E6%9C%89%E5%A4%9A%E9%85%B7%23&Refer=top)
 
