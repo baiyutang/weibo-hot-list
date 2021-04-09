@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 21:07:40
+## 微博今日热榜 更新于 2021-04-09 22:01:29
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -510,4 +510,18 @@
 1. [男子拔活翠鸟羽毛制作饰品被刑拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%94%E6%B4%BB%E7%BF%A0%E9%B8%9F%E7%BE%BD%E6%AF%9B%E5%88%B6%E4%BD%9C%E9%A5%B0%E5%93%81%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
 
 1. [人类幼崽社死名场面](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%A4%BE%E6%AD%BB%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [美华裔老太反杀袭击者视频](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%8D%8E%E8%A3%94%E8%80%81%E5%A4%AA%E5%8F%8D%E6%9D%80%E8%A2%AD%E5%87%BB%E8%80%85%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [好多宇](https://s.weibo.com//weibo?q=%E5%A5%BD%E5%A4%9A%E5%AE%87&Refer=top)
+
+1. [米卡高卿尘合唱你就不要想起我](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%AB%98%E5%8D%BF%E5%B0%98%E5%90%88%E5%94%B1%E4%BD%A0%E5%B0%B1%E4%B8%8D%E8%A6%81%E6%83%B3%E8%B5%B7%E6%88%91%23&Refer=top)
+
+1. [赞多力丸再现初舞台](https://s.weibo.com//weibo?q=%23%E8%B5%9E%E5%A4%9A%E5%8A%9B%E4%B8%B8%E5%86%8D%E7%8E%B0%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [创造营粉丝见面会 难听](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%20%E9%9A%BE%E5%90%AC&Refer=top)
+
+1. [瑞丽市第二轮全员核酸检测阳性18份](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%B8%82%E7%AC%AC%E4%BA%8C%E8%BD%AE%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A718%E4%BB%BD%23&Refer=top)
+
+1. [华晨宇关晓彤唱跳护花使者](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%85%B3%E6%99%93%E5%BD%A4%E5%94%B1%E8%B7%B3%E6%8A%A4%E8%8A%B1%E4%BD%BF%E8%80%85%23&Refer=top)
 
