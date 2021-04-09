@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 15:04:49
+## 微博今日热榜 更新于 2021-04-09 16:01:28
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -358,4 +358,30 @@
 1. [微笑的力量有多大](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E7%AC%91%E7%9A%84%E5%8A%9B%E9%87%8F%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
 
 1. [巨型粉色兔子消失了](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E5%9E%8B%E7%B2%89%E8%89%B2%E5%85%94%E5%AD%90%E6%B6%88%E5%A4%B1%E4%BA%86%23&Refer=top)
+
+1. [视听零距离2021](https://s.weibo.com//weibo?q=%23%E8%A7%86%E5%90%AC%E9%9B%B6%E8%B7%9D%E7%A6%BB2021%23&Refer=new_time)
+
+1. [邓超说跟孙俪旅行是锻炼铁人三项](https://s.weibo.com//weibo?q=%E9%82%93%E8%B6%85%E8%AF%B4%E8%B7%9F%E5%AD%99%E4%BF%AA%E6%97%85%E8%A1%8C%E6%98%AF%E9%94%BB%E7%82%BC%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9&Refer=top)
+
+1. [母牛产下罕见四胞胎](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E7%89%9B%E4%BA%A7%E4%B8%8B%E7%BD%95%E8%A7%81%E5%9B%9B%E8%83%9E%E8%83%8E%23&Refer=top)
+
+1. [LPL](https://s.weibo.com//weibo?q=LPL&Refer=top)
+
+1. [吉克隽逸 姐实至名归](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%20%E5%A7%90%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92&Refer=top)
+
+1. [农民砍伐700棵自种杨树获刑2年](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%B0%91%E7%A0%8D%E4%BC%90700%E6%A3%B5%E8%87%AA%E7%A7%8D%E6%9D%A8%E6%A0%91%E8%8E%B7%E5%88%912%E5%B9%B4%23&Refer=top)
+
+1. [李现民国风长褂造型](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%B0%91%E5%9B%BD%E9%A3%8E%E9%95%BF%E8%A4%82%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [见过最硬气的撒娇方式](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A1%AC%E6%B0%94%E7%9A%84%E6%92%92%E5%A8%87%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [外交部回应日本将核污水排入大海](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%86%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E5%85%A5%E5%A4%A7%E6%B5%B7%23&Refer=top)
+
+1. [爆汁橙香曲奇](https://s.weibo.com//weibo?q=%23%E7%88%86%E6%B1%81%E6%A9%99%E9%A6%99%E6%9B%B2%E5%A5%87%23&Refer=top)
+
+1. [德云社封箱手绘群像](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B0%81%E7%AE%B1%E6%89%8B%E7%BB%98%E7%BE%A4%E5%83%8F%23&Refer=top)
+
+1. [人类意外图鉴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E6%84%8F%E5%A4%96%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [外交部回应美方打压中国超级计算机实体](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%9E%E4%BD%93&Refer=top)
 
