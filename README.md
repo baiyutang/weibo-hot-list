@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 05:01:15
+## 微博今日热榜 更新于 2021-04-10 06:01:02
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -128,4 +128,8 @@
 1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
 1. [武汉解封首飞航班一年前后广播对比](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E8%A7%A3%E5%B0%81%E9%A6%96%E9%A3%9E%E8%88%AA%E7%8F%AD%E4%B8%80%E5%B9%B4%E5%89%8D%E5%90%8E%E5%B9%BF%E6%92%AD%E5%AF%B9%E6%AF%94&Refer=top)
+
+1. [海南蜜蜂清明节蜇人致1死26伤](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%8D%97%E8%9C%9C%E8%9C%82%E6%B8%85%E6%98%8E%E8%8A%82%E8%9C%87%E4%BA%BA%E8%87%B41%E6%AD%BB26%E4%BC%A4&Refer=top)
+
+1. [三星堆3号青铜神树或为扶桑树](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%863%E5%8F%B7%E9%9D%92%E9%93%9C%E7%A5%9E%E6%A0%91%E6%88%96%E4%B8%BA%E6%89%B6%E6%A1%91%E6%A0%91&Refer=top)
 
