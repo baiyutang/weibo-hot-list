@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 16:01:28
+## 微博今日热榜 更新于 2021-04-09 17:02:56
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -384,4 +384,28 @@
 1. [人类意外图鉴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E6%84%8F%E5%A4%96%E5%9B%BE%E9%89%B4%23&Refer=top)
 
 1. [外交部回应美方打压中国超级计算机实体](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%9E%E4%BD%93&Refer=top)
+
+1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
+
+1. [陈小纭人鱼公主造型](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [校外培训机构不得对学前儿童违规培训](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E4%B8%8D%E5%BE%97%E5%AF%B9%E5%AD%A6%E5%89%8D%E5%84%BF%E7%AB%A5%E8%BF%9D%E8%A7%84%E5%9F%B9%E8%AE%AD%23&Refer=top)
+
+1. [辛巴团队称遭职业打假人电话敲诈](https://s.weibo.com//weibo?q=%23%E8%BE%9B%E5%B7%B4%E5%9B%A2%E9%98%9F%E7%A7%B0%E9%81%AD%E8%81%8C%E4%B8%9A%E6%89%93%E5%81%87%E4%BA%BA%E7%94%B5%E8%AF%9D%E6%95%B2%E8%AF%88%23&Refer=top)
+
+1. [水果蘸了辣椒后](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E6%9E%9C%E8%98%B8%E4%BA%86%E8%BE%A3%E6%A4%92%E5%90%8E%23&Refer=top)
+
+1. [极限挑战路透](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [武汉夕阳爷爷再拉小提琴](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%95%E9%98%B3%E7%88%B7%E7%88%B7%E5%86%8D%E6%8B%89%E5%B0%8F%E6%8F%90%E7%90%B4%23&Refer=top)
+
+1. [峨眉山金顶首次拍到小熊猫](https://s.weibo.com//weibo?q=%23%E5%B3%A8%E7%9C%89%E5%B1%B1%E9%87%91%E9%A1%B6%E9%A6%96%E6%AC%A1%E6%8B%8D%E5%88%B0%E5%B0%8F%E7%86%8A%E7%8C%AB%23&Refer=top)
+
+1. [遭遇大数据杀熟怎么取证](https://s.weibo.com//weibo?q=%23%E9%81%AD%E9%81%87%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%E6%80%8E%E4%B9%88%E5%8F%96%E8%AF%81%23&Refer=top)
+
+1. [公开人肉他人信息是否违法](https://s.weibo.com//weibo?q=%E5%85%AC%E5%BC%80%E4%BA%BA%E8%82%89%E4%BB%96%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%98%AF%E5%90%A6%E8%BF%9D%E6%B3%95&Refer=top)
+
+1. [医学专家称弗洛伊德死于缺氧](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E6%AD%BB%E4%BA%8E%E7%BC%BA%E6%B0%A7%23&Refer=top)
+
+1. [贵州金沙一煤矿发生煤与瓦斯突出事故](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E9%87%91%E6%B2%99%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E7%85%A4%E4%B8%8E%E7%93%A6%E6%96%AF%E7%AA%81%E5%87%BA%E4%BA%8B%E6%95%85&Refer=top)
 
