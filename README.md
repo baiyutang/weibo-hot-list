@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 13:05:13
+## 微博今日热榜 更新于 2021-04-09 14:01:31
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -294,4 +294,38 @@
 1. [贝弗利二级恶意犯规](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%BC%97%E5%88%A9%E4%BA%8C%E7%BA%A7%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84&Refer=top)
 
 1. [伦纳德隔扣艾顿](https://s.weibo.com//weibo?q=%23%E4%BC%A6%E7%BA%B3%E5%BE%B7%E9%9A%94%E6%89%A3%E8%89%BE%E9%A1%BF%23&Refer=top)
+
+1. [刘涛喊易烊千玺女婿](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E5%96%8A%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%B3%E5%A9%BF%23&Refer=top)
+
+1. [哈里斯承认美国为石油发动战争](https://s.weibo.com//weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E4%B8%BA%E7%9F%B3%E6%B2%B9%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89%23&Refer=top)
+
+1. [那英组日不落空中瑜伽](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E7%BB%84%E6%97%A5%E4%B8%8D%E8%90%BD%E7%A9%BA%E4%B8%AD%E7%91%9C%E4%BC%BD&Refer=top)
+
+1. [马斯克公布猴子用意念打游戏视频](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%B8%83%E7%8C%B4%E5%AD%90%E7%94%A8%E6%84%8F%E5%BF%B5%E6%89%93%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [刘涛扫楼](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%89%AB%E6%A5%BC%23&Refer=top)
+
+1. [拐卖妇女儿童乞丐哥获刑13年半](https://s.weibo.com//weibo?q=%23%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E4%B9%9E%E4%B8%90%E5%93%A5%E8%8E%B7%E5%88%9113%E5%B9%B4%E5%8D%8A%23&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [所谓涉疆数据库是造假库谣言库伪证库](https://s.weibo.com//weibo?q=%23%E6%89%80%E8%B0%93%E6%B6%89%E7%96%86%E6%95%B0%E6%8D%AE%E5%BA%93%E6%98%AF%E9%80%A0%E5%81%87%E5%BA%93%E8%B0%A3%E8%A8%80%E5%BA%93%E4%BC%AA%E8%AF%81%E5%BA%93%23&Refer=top)
+
+1. [顺丰控股一季度预亏约10亿元](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E6%8E%A7%E8%82%A1%E4%B8%80%E5%AD%A3%E5%BA%A6%E9%A2%84%E4%BA%8F%E7%BA%A610%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [一年级课程主要采取游戏化等方式](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%AF%BE%E7%A8%8B%E4%B8%BB%E8%A6%81%E9%87%87%E5%8F%96%E6%B8%B8%E6%88%8F%E5%8C%96%E7%AD%89%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [小朋友的话有多治愈](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E8%AF%9D%E6%9C%89%E5%A4%9A%E6%B2%BB%E6%84%88%23&Refer=top)
+
+1. [幼儿连续用电子产品不宜超过15分钟](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E8%BF%9E%E7%BB%AD%E7%94%A8%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E4%B8%8D%E5%AE%9C%E8%B6%85%E8%BF%8715%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [CNN记者摊牌就是要抹黑中国](https://s.weibo.com//weibo?q=%23CNN%E8%AE%B0%E8%80%85%E6%91%8A%E7%89%8C%E5%B0%B1%E6%98%AF%E8%A6%81%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [日本政府基本决定将福岛核污水排入大海](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%9F%BA%E6%9C%AC%E5%86%B3%E5%AE%9A%E5%B0%86%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E5%85%A5%E5%A4%A7%E6%B5%B7&Refer=top)
+
+1. [作为女性所遭受的语言暴力](https://s.weibo.com//weibo?q=%23%E4%BD%9C%E4%B8%BA%E5%A5%B3%E6%80%A7%E6%89%80%E9%81%AD%E5%8F%97%E7%9A%84%E8%AF%AD%E8%A8%80%E6%9A%B4%E5%8A%9B%23&Refer=top)
+
+1. [云南发现3个萤火虫新种](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B03%E4%B8%AA%E8%90%A4%E7%81%AB%E8%99%AB%E6%96%B0%E7%A7%8D%23&Refer=top)
+
+1. [隋文静韩聪牵手十四周年](https://s.weibo.com//weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E7%89%B5%E6%89%8B%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4%23&Refer=top)
 
