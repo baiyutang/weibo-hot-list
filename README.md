@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 00:01:56
+## 微博今日热榜 更新于 2021-04-10 01:10:44
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [男子拔活翠鸟羽毛制作饰品被刑拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%94%E6%B4%BB%E7%BF%A0%E9%B8%9F%E7%BE%BD%E6%AF%9B%E5%88%B6%E4%BD%9C%E9%A5%B0%E5%93%81%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
 
 1. [拥有了整个春天的鸭子](https://s.weibo.com//weibo?q=%23%E6%8B%A5%E6%9C%89%E4%BA%86%E6%95%B4%E4%B8%AA%E6%98%A5%E5%A4%A9%E7%9A%84%E9%B8%AD%E5%AD%90%23&Refer=top)
+
+1. [周柯宇哭了](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [沈腾的散装英语](https://s.weibo.com//weibo?q=%E6%B2%88%E8%85%BE%E7%9A%84%E6%95%A3%E8%A3%85%E8%8B%B1%E8%AF%AD&Refer=top)
+
+1. [医生一铁锹拍翻持刀施暴男子](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E9%93%81%E9%94%B9%E6%8B%8D%E7%BF%BB%E6%8C%81%E5%88%80%E6%96%BD%E6%9A%B4%E7%94%B7%E5%AD%90%23&Refer=top)
+
+1. [各大视频平台影视公司联合声明](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%A4%A7%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top)
 
