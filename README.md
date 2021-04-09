@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 10:19:16
+## 微博今日热榜 更新于 2021-04-09 11:03:16
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -222,4 +222,16 @@
 1. [江西200亩紫云英盛开](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF200%E4%BA%A9%E7%B4%AB%E4%BA%91%E8%8B%B1%E7%9B%9B%E5%BC%80%23&Refer=top)
 
 1. [一个字形容当兵有多酷](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AD%97%E5%BD%A2%E5%AE%B9%E5%BD%93%E5%85%B5%E6%9C%89%E5%A4%9A%E9%85%B7%23&Refer=top)
+
+1. [2021高燃征兵海报](https://s.weibo.com//weibo?q=%232021%E9%AB%98%E7%87%83%E5%BE%81%E5%85%B5%E6%B5%B7%E6%8A%A5%23&Refer=new_time)
+
+1. [刘诗诗短发](https://s.weibo.com//weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E7%9F%AD%E5%8F%91&Refer=top)
+
+1. [新疆网红怼外媒](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E7%BD%91%E7%BA%A2%E6%80%BC%E5%A4%96%E5%AA%92&Refer=top)
+
+1. [欧扎克](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%89%8E%E5%85%8B&Refer=top)
+
+1. [杭州区划调整后原则上学区不作调整](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8C%BA%E5%88%92%E8%B0%83%E6%95%B4%E5%90%8E%E5%8E%9F%E5%88%99%E4%B8%8A%E5%AD%A6%E5%8C%BA%E4%B8%8D%E4%BD%9C%E8%B0%83%E6%95%B4%23&Refer=top)
+
+1. [国际护胃日](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%8A%A4%E8%83%83%E6%97%A5%23&Refer=top)
 
