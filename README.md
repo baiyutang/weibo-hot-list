@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 11:03:16
+## 微博今日热榜 更新于 2021-04-09 12:01:13
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -234,4 +234,26 @@
 1. [杭州区划调整后原则上学区不作调整](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8C%BA%E5%88%92%E8%B0%83%E6%95%B4%E5%90%8E%E5%8E%9F%E5%88%99%E4%B8%8A%E5%AD%A6%E5%8C%BA%E4%B8%8D%E4%BD%9C%E8%B0%83%E6%95%B4%23&Refer=top)
 
 1. [国际护胃日](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%8A%A4%E8%83%83%E6%97%A5%23&Refer=top)
+
+1. [林依晨发长文回应](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [湖南高院女法官遇害案一审开庭](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E9%AB%98%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E9%81%87%E5%AE%B3%E6%A1%88%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD%23&Refer=top)
+
+1. [当小学老师也太快乐了](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E4%B9%9F%E5%A4%AA%E5%BF%AB%E4%B9%90%E4%BA%86%23&Refer=top)
+
+1. [向往的生活第五季定档](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [洛阳部分红绿灯变成牡丹形状](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E9%98%B3%E9%83%A8%E5%88%86%E7%BA%A2%E7%BB%BF%E7%81%AF%E5%8F%98%E6%88%90%E7%89%A1%E4%B8%B9%E5%BD%A2%E7%8A%B6%23&Refer=top)
+
+1. [杭州临平区](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%B4%E5%B9%B3%E5%8C%BA&Refer=top)
+
+1. [龚俊费加罗封面](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E8%B4%B9%E5%8A%A0%E7%BD%97%E5%B0%81%E9%9D%A2&Refer=top)
+
+1. [蔡徐坤自己导演MV](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%87%AA%E5%B7%B1%E5%AF%BC%E6%BC%94MV%23&Refer=top)
+
+1. [陕科大与西安工大因地铁站命名起争端](https://s.weibo.com//weibo?q=%23%E9%99%95%E7%A7%91%E5%A4%A7%E4%B8%8E%E8%A5%BF%E5%AE%89%E5%B7%A5%E5%A4%A7%E5%9B%A0%E5%9C%B0%E9%93%81%E7%AB%99%E5%91%BD%E5%90%8D%E8%B5%B7%E4%BA%89%E7%AB%AF%23&Refer=top)
+
+1. [保胃八个关键时间](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%83%83%E5%85%AB%E4%B8%AA%E5%85%B3%E9%94%AE%E6%97%B6%E9%97%B4%23&Refer=top)
+
+1. [热火战胜湖人](https://s.weibo.com//weibo?q=%23%E7%83%AD%E7%81%AB%E6%88%98%E8%83%9C%E6%B9%96%E4%BA%BA%23&Refer=top)
 
