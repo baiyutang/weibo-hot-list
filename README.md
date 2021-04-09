@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 19:01:03
+## 微博今日热榜 更新于 2021-04-09 20:01:23
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
 
 1. [陈松伶张铎结完婚把证撕了](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9D%BE%E4%BC%B6%E5%BC%A0%E9%93%8E%E7%BB%93%E5%AE%8C%E5%A9%9A%E6%8A%8A%E8%AF%81%E6%92%95%E4%BA%86%23&Refer=top)
@@ -454,4 +454,28 @@
 1. [原来宠物也会争宠](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%AE%A0%E7%89%A9%E4%B9%9F%E4%BC%9A%E4%BA%89%E5%AE%A0&Refer=top)
 
 1. [猪肉价格连降十周](https://s.weibo.com//weibo?q=%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9E%E9%99%8D%E5%8D%81%E5%91%A8&Refer=top)
+
+1. [白金汉宫宣布菲利普亲王去世](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E5%AE%A3%E5%B8%83%E8%8F%B2%E5%88%A9%E6%99%AE%E4%BA%B2%E7%8E%8B%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [张馨予隔空表白老公](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E9%9A%94%E7%A9%BA%E8%A1%A8%E7%99%BD%E8%80%81%E5%85%AC%23&Refer=top)
+
+1. [警方回应辛巴报案称遭打假人敲诈](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BE%9B%E5%B7%B4%E6%8A%A5%E6%A1%88%E7%A7%B0%E9%81%AD%E6%89%93%E5%81%87%E4%BA%BA%E6%95%B2%E8%AF%88&Refer=top)
+
+1. [创造营粉丝见面会](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top)
+
+1. [龚俊乔欣 沉睡花园](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%B9%94%E6%AC%A3%20%E6%B2%89%E7%9D%A1%E8%8A%B1%E5%9B%AD&Refer=top)
+
+1. [皓嫣](https://s.weibo.com//weibo?q=%E7%9A%93%E5%AB%A3&Refer=top)
+
+1. [那英被迫甜美营业](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E8%A2%AB%E8%BF%AB%E7%94%9C%E7%BE%8E%E8%90%A5%E4%B8%9A&Refer=top)
+
+1. [人脸识别第一案终审宣判](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%AC%AC%E4%B8%80%E6%A1%88%E7%BB%88%E5%AE%A1%E5%AE%A3%E5%88%A4%23&Refer=top)
+
+1. [各大视频平台影视公司联合声明](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%A4%A7%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E5%BD%B1%E8%A7%86%E5%85%AC%E5%8F%B8%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [长歌行李乐嫣仿妆](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E6%9D%8E%E4%B9%90%E5%AB%A3%E4%BB%BF%E5%A6%86%23&Refer=top)
+
+1. [长辈安排的相亲有多难](https://s.weibo.com//weibo?q=%23%E9%95%BF%E8%BE%88%E5%AE%89%E6%8E%92%E7%9A%84%E7%9B%B8%E4%BA%B2%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [影视版权收紧对公众账号影响多大](https://s.weibo.com//weibo?q=%E5%BD%B1%E8%A7%86%E7%89%88%E6%9D%83%E6%94%B6%E7%B4%A7%E5%AF%B9%E5%85%AC%E4%BC%97%E8%B4%A6%E5%8F%B7%E5%BD%B1%E5%93%8D%E5%A4%9A%E5%A4%A7&Refer=top)
 
