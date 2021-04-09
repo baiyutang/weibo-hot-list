@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 03:04:26
+## 微博今日热榜 更新于 2021-04-10 04:01:23
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [梁辰陆景双箭头爱情](https://s.weibo.com//weibo?q=%E6%A2%81%E8%BE%B0%E9%99%86%E6%99%AF%E5%8F%8C%E7%AE%AD%E5%A4%B4%E7%88%B1%E6%83%85&Refer=top)
 
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [张伯礼回武汉江夏方舱泪洒现场](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%9B%9E%E6%AD%A6%E6%B1%89%E6%B1%9F%E5%A4%8F%E6%96%B9%E8%88%B1%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
