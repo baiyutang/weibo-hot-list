@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 02:03:29
+## 微博今日热榜 更新于 2021-04-10 03:04:26
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [王祖蓝模仿廖昌永](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E6%A8%A1%E4%BB%BF%E5%BB%96%E6%98%8C%E6%B0%B8%23&Refer=top)
 
 1. [允许非居民在海南自由贸易港内买房](https://s.weibo.com//weibo?q=%E5%85%81%E8%AE%B8%E9%9D%9E%E5%B1%85%E6%B0%91%E5%9C%A8%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF%E5%86%85%E4%B9%B0%E6%88%BF&Refer=top)
+
+1. [梁辰陆景双箭头爱情](https://s.weibo.com//weibo?q=%E6%A2%81%E8%BE%B0%E9%99%86%E6%99%AF%E5%8F%8C%E7%AE%AD%E5%A4%B4%E7%88%B1%E6%83%85&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
 
