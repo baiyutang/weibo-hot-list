@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 09:24:16
+## 微博今日热榜 更新于 2021-04-10 10:18:19
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -194,4 +194,20 @@
 1. [化妆品功效宣称评价规范](https://s.weibo.com//weibo?q=%E5%8C%96%E5%A6%86%E5%93%81%E5%8A%9F%E6%95%88%E5%AE%A3%E7%A7%B0%E8%AF%84%E4%BB%B7%E8%A7%84%E8%8C%83&Refer=top)
 
 1. [拉文半场39分](https://s.weibo.com//weibo?q=%E6%8B%89%E6%96%87%E5%8D%8A%E5%9C%BA39%E5%88%86&Refer=top)
+
+1. [推动平台经济规范健康持续发展](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%8A%A8%E5%B9%B3%E5%8F%B0%E7%BB%8F%E6%B5%8E%E8%A7%84%E8%8C%83%E5%81%A5%E5%BA%B7%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%23&Refer=new_time)
+
+1. [主播都是怎么种草怎么卖衣服的](https://s.weibo.com//weibo?q=%E4%B8%BB%E6%92%AD%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E7%A7%8D%E8%8D%89%E6%80%8E%E4%B9%88%E5%8D%96%E8%A1%A3%E6%9C%8D%E7%9A%84&Refer=top)
+
+1. [阿里巴巴回应被行政处罚](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A&Refer=top)
+
+1. [北京取代纽约成全球亿万富翁最多城市](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%96%E4%BB%A3%E7%BA%BD%E7%BA%A6%E6%88%90%E5%85%A8%E7%90%83%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%9C%80%E5%A4%9A%E5%9F%8E%E5%B8%82%23&Refer=top)
+
+1. [欧阳娜娜运动vlog](https://s.weibo.com//weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%BF%90%E5%8A%A8vlog&Refer=top)
+
+1. [长歌行细节](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [孙燕姿的推特画风](https://s.weibo.com//weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%E7%9A%84%E6%8E%A8%E7%89%B9%E7%94%BB%E9%A3%8E&Refer=top)
+
+1. [DOTA2新英雄](https://s.weibo.com//weibo?q=DOTA2%E6%96%B0%E8%8B%B1%E9%9B%84&Refer=top)
 
