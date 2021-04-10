@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 08:03:50
+## 微博今日热榜 更新于 2021-04-10 09:24:16
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -162,4 +162,36 @@
 1. [张彬彬已推钟汉良微信给景甜](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%B7%B2%E6%8E%A8%E9%92%9F%E6%B1%89%E8%89%AF%E5%BE%AE%E4%BF%A1%E7%BB%99%E6%99%AF%E7%94%9C&Refer=top)
 
 1. [职工医保将迎四大新变化](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E5%B0%86%E8%BF%8E%E5%9B%9B%E5%A4%A7%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=top)
+
+1. [英国将不为菲利普亲王举行国葬](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%B0%86%E4%B8%8D%E4%B8%BA%E8%8F%B2%E5%88%A9%E6%99%AE%E4%BA%B2%E7%8E%8B%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC%23&Refer=top)
+
+1. [司藤拍摄期间的景甜](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E6%8B%8D%E6%91%84%E6%9C%9F%E9%97%B4%E7%9A%84%E6%99%AF%E7%94%9C%23&Refer=top)
+
+1. [全国猪肉价格连降10周](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9E%E9%99%8D10%E5%91%A8%23&Refer=top)
+
+1. [商务部回应美方打压7家中国超算实体](https://s.weibo.com//weibo?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%89%93%E5%8E%8B7%E5%AE%B6%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%AE%97%E5%AE%9E%E4%BD%93&Refer=top)
+
+1. [吴昕模仿泰勒斯威夫特](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%98%95%E6%A8%A1%E4%BB%BF%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%23&Refer=top)
+
+1. [互联网把明星逼成什么样了](https://s.weibo.com//weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E6%8A%8A%E6%98%8E%E6%98%9F%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top)
+
+1. [杭州钱塘新区发现濒危动物黑脸琵鹭](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E9%92%B1%E5%A1%98%E6%96%B0%E5%8C%BA%E5%8F%91%E7%8E%B0%E6%BF%92%E5%8D%B1%E5%8A%A8%E7%89%A9%E9%BB%91%E8%84%B8%E7%90%B5%E9%B9%AD&Refer=top)
+
+1. [抗生素使用将纳入公立医院绩效考核](https://s.weibo.com//weibo?q=%E6%8A%97%E7%94%9F%E7%B4%A0%E4%BD%BF%E7%94%A8%E5%B0%86%E7%BA%B3%E5%85%A5%E5%85%AC%E7%AB%8B%E5%8C%BB%E9%99%A2%E7%BB%A9%E6%95%88%E8%80%83%E6%A0%B8&Refer=top)
+
+1. [医生一锹拍翻歹徒被认定见义勇为](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E9%94%B9%E6%8B%8D%E7%BF%BB%E6%AD%B9%E5%BE%92%E8%A2%AB%E8%AE%A4%E5%AE%9A%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23&Refer=top)
+
+1. [人大通报22名法硕考生复试0分](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%A4%A7%E9%80%9A%E6%8A%A522%E5%90%8D%E6%B3%95%E7%A1%95%E8%80%83%E7%94%9F%E5%A4%8D%E8%AF%950%E5%88%86%23&Refer=top)
+
+1. [贝弗利左手骨折](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%BC%97%E5%88%A9%E5%B7%A6%E6%89%8B%E9%AA%A8%E6%8A%98&Refer=top)
+
+1. [新疆草原灿烂星空](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E8%8D%89%E5%8E%9F%E7%81%BF%E7%83%82%E6%98%9F%E7%A9%BA%23&Refer=top)
+
+1. [阿里巴巴集团被罚182.28亿元](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A182.28%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [美股再创历史新高](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98&Refer=top)
+
+1. [化妆品功效宣称评价规范](https://s.weibo.com//weibo?q=%E5%8C%96%E5%A6%86%E5%93%81%E5%8A%9F%E6%95%88%E5%AE%A3%E7%A7%B0%E8%AF%84%E4%BB%B7%E8%A7%84%E8%8C%83&Refer=top)
+
+1. [拉文半场39分](https://s.weibo.com//weibo?q=%E6%8B%89%E6%96%87%E5%8D%8A%E5%9C%BA39%E5%88%86&Refer=top)
 
