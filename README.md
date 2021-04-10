@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 20:01:16
+## 微博今日热榜 更新于 2021-04-10 21:06:47
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -486,4 +486,34 @@
 1. [邓伦和制服的适配度](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%92%8C%E5%88%B6%E6%9C%8D%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23&Refer=top)
 
 1. [我的姐姐票房破6亿](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF&Refer=top)
+
+1. [米卡鞠婧祎 牵手壁咚下跪](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8D%A1%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E7%89%B5%E6%89%8B%E5%A3%81%E5%92%9A%E4%B8%8B%E8%B7%AA&Refer=top)
+
+1. [张哲瀚发红包让龚俊给吴宇恒打call](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%8F%91%E7%BA%A2%E5%8C%85%E8%AE%A9%E9%BE%9A%E4%BF%8A%E7%BB%99%E5%90%B4%E5%AE%87%E6%81%92%E6%89%93call%23&Refer=top)
+
+1. [27年前自考北大保安如今已是校长](https://s.weibo.com//weibo?q=%2327%E5%B9%B4%E5%89%8D%E8%87%AA%E8%80%83%E5%8C%97%E5%A4%A7%E4%BF%9D%E5%AE%89%E5%A6%82%E4%BB%8A%E5%B7%B2%E6%98%AF%E6%A0%A1%E9%95%BF%23&Refer=top)
+
+1. [毛晓彤 元气甜妹](https://s.weibo.com//weibo?q=%E6%AF%9B%E6%99%93%E5%BD%A4%20%E5%85%83%E6%B0%94%E7%94%9C%E5%A6%B9&Refer=top)
+
+1. [青春有你排名](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [JKL小炮](https://s.weibo.com//weibo?q=JKL%E5%B0%8F%E7%82%AE&Refer=top)
+
+1. [老师的朋友圈有多好玩](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%8E%A9%23&Refer=top)
+
+1. [赞多毛晓彤双人舞好搭](https://s.weibo.com//weibo?q=%23%E8%B5%9E%E5%A4%9A%E6%AF%9B%E6%99%93%E5%BD%A4%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%A5%BD%E6%90%AD%23&Refer=top)
+
+1. [南京大屠杀幸存者仅剩68位](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E4%BB%85%E5%89%A968%E4%BD%8D&Refer=top)
+
+1. [因近视而引发的社死瞬间](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E8%BF%91%E8%A7%86%E8%80%8C%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [我是女演员先导片](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E5%A5%B3%E6%BC%94%E5%91%98%E5%85%88%E5%AF%BC%E7%89%87%23&Refer=top)
+
+1. [刘宇孟美岐双人舞 神仙打架](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%8F%8C%E4%BA%BA%E8%88%9E%20%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6&Refer=top)
+
+1. [南京大屠杀幸存者生前哭诉家人遭遇](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E7%94%9F%E5%89%8D%E5%93%AD%E8%AF%89%E5%AE%B6%E4%BA%BA%E9%81%AD%E9%81%87%23&Refer=top)
+
+1. [南京大屠杀幸存者陈文英逝世](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E9%99%88%E6%96%87%E8%8B%B1%E9%80%9D%E4%B8%96%23&Refer=top)
+
+1. [苏醒奚彬带娃看病](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%A5%9A%E5%BD%AC%E5%B8%A6%E5%A8%83%E7%9C%8B%E7%97%85%23&Refer=top)
 
