@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 12:02:40
+## 微博今日热榜 更新于 2021-04-10 13:05:17
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -268,4 +268,32 @@
 1. [拉文50分](https://s.weibo.com//weibo?q=%E6%8B%89%E6%96%8750%E5%88%86&Refer=top)
 
 1. [绝美水上公路](https://s.weibo.com//weibo?q=%E7%BB%9D%E7%BE%8E%E6%B0%B4%E4%B8%8A%E5%85%AC%E8%B7%AF&Refer=top)
+
+1. [DMX去世](https://s.weibo.com//weibo?q=DMX%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [阿里巴巴公开信](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%85%AC%E5%BC%80%E4%BF%A1&Refer=top)
+
+1. [王祖蓝西装里穿泳衣](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E8%A5%BF%E8%A3%85%E9%87%8C%E7%A9%BF%E6%B3%B3%E8%A1%A3%23&Refer=top)
+
+1. [刘雯加盟妈妈你真好看](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%E5%8A%A0%E7%9B%9F%E5%A6%88%E5%A6%88%E4%BD%A0%E7%9C%9F%E5%A5%BD%E7%9C%8B&Refer=top)
+
+1. [王俊凯用卫衣带子模仿甩面](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E5%8D%AB%E8%A1%A3%E5%B8%A6%E5%AD%90%E6%A8%A1%E4%BB%BF%E7%94%A9%E9%9D%A2%23&Refer=top)
+
+1. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [库里生涯总得分超越约翰逊](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E7%94%9F%E6%B6%AF%E6%80%BB%E5%BE%97%E5%88%86%E8%B6%85%E8%B6%8A%E7%BA%A6%E7%BF%B0%E9%80%8A&Refer=top)
+
+1. [17亿元特大跨境网络赌博案告破](https://s.weibo.com//weibo?q=%2317%E4%BA%BF%E5%85%83%E7%89%B9%E5%A4%A7%E8%B7%A8%E5%A2%83%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E6%A1%88%E5%91%8A%E7%A0%B4%23&Refer=top)
+
+1. [全军海拔最高的水上部队](https://s.weibo.com//weibo?q=%E5%85%A8%E5%86%9B%E6%B5%B7%E6%8B%94%E6%9C%80%E9%AB%98%E7%9A%84%E6%B0%B4%E4%B8%8A%E9%83%A8%E9%98%9F&Refer=top)
+
+1. [龚俊张哲瀚加盟我是女演员](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%BC%A0%E5%93%B2%E7%80%9A%E5%8A%A0%E7%9B%9F%E6%88%91%E6%98%AF%E5%A5%B3%E6%BC%94%E5%91%98&Refer=top)
+
+1. [菲利普亲王与英国女王74年婚姻路](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%88%A9%E6%99%AE%E4%BA%B2%E7%8E%8B%E4%B8%8E%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B74%E5%B9%B4%E5%A9%9A%E5%A7%BB%E8%B7%AF%23&Refer=top)
+
+1. [央视曝光手机号改运骗局](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%94%B9%E8%BF%90%E9%AA%97%E5%B1%80%23&Refer=top)
+
+1. [创4三公ELLE心动预警大片](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E4%B8%89%E5%85%ACELLE%E5%BF%83%E5%8A%A8%E9%A2%84%E8%AD%A6%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [雅思](https://s.weibo.com//weibo?q=%E9%9B%85%E6%80%9D&Refer=top)
 
