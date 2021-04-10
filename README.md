@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 10:18:19
+## 微博今日热榜 更新于 2021-04-10 11:05:53
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -210,4 +210,30 @@
 1. [孙燕姿的推特画风](https://s.weibo.com//weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%E7%9A%84%E6%8E%A8%E7%89%B9%E7%94%BB%E9%A3%8E&Refer=top)
 
 1. [DOTA2新英雄](https://s.weibo.com//weibo?q=DOTA2%E6%96%B0%E8%8B%B1%E9%9B%84&Refer=top)
+
+1. [人民日报评监管部门处罚阿里巴巴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&Refer=new_time)
+
+1. [95岁老人追随妻子捐献遗体](https://s.weibo.com//weibo?q=%2395%E5%B2%81%E8%80%81%E4%BA%BA%E8%BF%BD%E9%9A%8F%E5%A6%BB%E5%AD%90%E6%8D%90%E7%8C%AE%E9%81%97%E4%BD%93%23&Refer=top)
+
+1. [人间世张丽君](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E9%97%B4%E4%B8%96%E5%BC%A0%E4%B8%BD%E5%90%9B%23&Refer=top)
+
+1. [王智是白云本云吧](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%99%BA%E6%98%AF%E7%99%BD%E4%BA%91%E6%9C%AC%E4%BA%91%E5%90%A7%23&Refer=top)
+
+1. [4人接种强生疫苗后出现血栓](https://s.weibo.com//weibo?q=%234%E4%BA%BA%E6%8E%A5%E7%A7%8D%E5%BC%BA%E7%94%9F%E7%96%AB%E8%8B%97%E5%90%8E%E5%87%BA%E7%8E%B0%E8%A1%80%E6%A0%93%23&Refer=top)
+
+1. [创造营排名](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [每朵花都封印了一只猴子](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E6%9C%B5%E8%8A%B1%E9%83%BD%E5%B0%81%E5%8D%B0%E4%BA%86%E4%B8%80%E5%8F%AA%E7%8C%B4%E5%AD%90%23&Refer=top)
+
+1. [全球食品价格10连涨](https://s.weibo.com//weibo?q=%E5%85%A8%E7%90%83%E9%A3%9F%E5%93%81%E4%BB%B7%E6%A0%BC10%E8%BF%9E%E6%B6%A8&Refer=top)
+
+1. [新冠病毒疫苗保护期多长](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E4%BF%9D%E6%8A%A4%E6%9C%9F%E5%A4%9A%E9%95%BF%23&Refer=top)
+
+1. [塔图姆53分](https://s.weibo.com//weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8653%E5%88%86&Refer=top)
+
+1. [护师考试](https://s.weibo.com//weibo?q=%E6%8A%A4%E5%B8%88%E8%80%83%E8%AF%95&Refer=top)
+
+1. [朱辉宇脑王](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E8%BE%89%E5%AE%87%E8%84%91%E7%8E%8B%23&Refer=top)
+
+1. [范志毅后悔吐槽男篮](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E5%90%8E%E6%82%94%E5%90%90%E6%A7%BD%E7%94%B7%E7%AF%AE&Refer=top)
 
