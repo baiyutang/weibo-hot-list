@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 13:05:17
+## 微博今日热榜 更新于 2021-04-10 14:01:26
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -296,4 +296,24 @@
 1. [创4三公ELLE心动预警大片](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E4%B8%89%E5%85%ACELLE%E5%BF%83%E5%8A%A8%E9%A2%84%E8%AD%A6%E5%A4%A7%E7%89%87%23&Refer=top)
 
 1. [雅思](https://s.weibo.com//weibo?q=%E9%9B%85%E6%80%9D&Refer=top)
+
+1. [三甲医院医生自曝收回扣50多万](https://s.weibo.com//weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E8%87%AA%E6%9B%9D%E6%94%B6%E5%9B%9E%E6%89%A350%E5%A4%9A%E4%B8%87&Refer=top)
+
+1. [黄树棠去世](https://s.weibo.com//weibo?q=%E9%BB%84%E6%A0%91%E6%A3%A0%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [库里祝贺朱婷](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E7%A5%9D%E8%B4%BA%E6%9C%B1%E5%A9%B7&Refer=top)
+
+1. [当陷入抑郁情绪的时候](https://s.weibo.com//weibo?q=%23%E5%BD%93%E9%99%B7%E5%85%A5%E6%8A%91%E9%83%81%E6%83%85%E7%BB%AA%E7%9A%84%E6%97%B6%E5%80%99%23&Refer=top)
+
+1. [植发仍头秃男子状告植发机构败诉](https://s.weibo.com//weibo?q=%23%E6%A4%8D%E5%8F%91%E4%BB%8D%E5%A4%B4%E7%A7%83%E7%94%B7%E5%AD%90%E7%8A%B6%E5%91%8A%E6%A4%8D%E5%8F%91%E6%9C%BA%E6%9E%84%E8%B4%A5%E8%AF%89%23&Refer=top)
+
+1. [阴阳师帝释天](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E5%B8%9D%E9%87%8A%E5%A4%A9&Refer=top)
+
+1. [德云社封箱字谜](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B0%81%E7%AE%B1%E5%AD%97%E8%B0%9C%23&Refer=top)
+
+1. [上海一男子高空抛垃圾袋获刑8个月](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E6%8A%9B%E5%9E%83%E5%9C%BE%E8%A2%8B%E8%8E%B7%E5%88%918%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [比特币上涨](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%8A%E6%B6%A8&Refer=top)
+
+1. [大张伟最想模仿的人是窦唯](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E6%9C%80%E6%83%B3%E6%A8%A1%E4%BB%BF%E7%9A%84%E4%BA%BA%E6%98%AF%E7%AA%A6%E5%94%AF%23&Refer=top)
 
