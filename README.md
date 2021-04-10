@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 15:04:09
+## 微博今日热榜 更新于 2021-04-10 16:01:20
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -342,4 +342,28 @@
 1. [可爱汪先生和他的魔力小单车](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E7%88%B1%E6%B1%AA%E5%85%88%E7%94%9F%E5%92%8C%E4%BB%96%E7%9A%84%E9%AD%94%E5%8A%9B%E5%B0%8F%E5%8D%95%E8%BD%A6%23&Refer=top)
 
 1. [爆浆豆乳白玉蛋挞](https://s.weibo.com//weibo?q=%23%E7%88%86%E6%B5%86%E8%B1%86%E4%B9%B3%E7%99%BD%E7%8E%89%E8%9B%8B%E6%8C%9E%23&Refer=top)
+
+1. [龚俊 赚钱为什么不快乐呢](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E8%B5%9A%E9%92%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BF%AB%E4%B9%90%E5%91%A2&Refer=top)
+
+1. [Angelababy黑玫瑰波边裙](https://s.weibo.com//weibo?q=%23Angelababy%E9%BB%91%E7%8E%AB%E7%91%B0%E6%B3%A2%E8%BE%B9%E8%A3%99%23&Refer=top)
+
+1. [专家建议每天保证1.5升以上饮水量](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%AF%8F%E5%A4%A9%E4%BF%9D%E8%AF%811.5%E5%8D%87%E4%BB%A5%E4%B8%8A%E9%A5%AE%E6%B0%B4%E9%87%8F%23&Refer=top)
+
+1. [韩国总理时隔44年将再次访问伊朗](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%90%86%E6%97%B6%E9%9A%9444%E5%B9%B4%E5%B0%86%E5%86%8D%E6%AC%A1%E8%AE%BF%E9%97%AE%E4%BC%8A%E6%9C%97&Refer=top)
+
+1. [张伯礼呼吁尽快注射疫苗](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%91%BC%E5%90%81%E5%B0%BD%E5%BF%AB%E6%B3%A8%E5%B0%84%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [我国已接种新冠疫苗16112.1万剂次](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E5%B7%B2%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%9716112.1%E4%B8%87%E5%89%82%E6%AC%A1&Refer=top)
+
+1. [泰式酸辣青柠虾](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%BC%8F%E9%85%B8%E8%BE%A3%E9%9D%92%E6%9F%A0%E8%99%BE%23&Refer=top)
+
+1. [奶香炼乳蛋糕奶茶啵啵杯](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E9%A6%99%E7%82%BC%E4%B9%B3%E8%9B%8B%E7%B3%95%E5%A5%B6%E8%8C%B6%E5%95%B5%E5%95%B5%E6%9D%AF%23&Refer=top)
+
+1. [张伯礼说重回武汉情绪有点抑制不住](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E8%AF%B4%E9%87%8D%E5%9B%9E%E6%AD%A6%E6%B1%89%E6%83%85%E7%BB%AA%E6%9C%89%E7%82%B9%E6%8A%91%E5%88%B6%E4%B8%8D%E4%BD%8F%23&Refer=top)
+
+1. [空军飞行学员完成夜航单飞训练](https://s.weibo.com//weibo?q=%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%AD%A6%E5%91%98%E5%AE%8C%E6%88%90%E5%A4%9C%E8%88%AA%E5%8D%95%E9%A3%9E%E8%AE%AD%E7%BB%83&Refer=top)
+
+1. [青海湖迎来全面开湖](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E6%B9%96%E8%BF%8E%E6%9D%A5%E5%85%A8%E9%9D%A2%E5%BC%80%E6%B9%96%23&Refer=top)
+
+1. [四川省九龙县森林火灾](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B9%9D%E9%BE%99%E5%8E%BF%E6%A3%AE%E6%9E%97%E7%81%AB%E7%81%BE&Refer=top)
 
