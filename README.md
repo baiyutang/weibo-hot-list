@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 00:02:16
+## 微博今日热榜 更新于 2021-04-11 01:16:20
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -106,4 +106,22 @@
 1. [苏醒奚彬带娃看病](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%A5%9A%E5%BD%AC%E5%B8%A6%E5%A8%83%E7%9C%8B%E7%97%85%23&Refer=top)
 
 1. [荷包蛋酸奶溶豆](https://s.weibo.com//weibo?q=%23%E8%8D%B7%E5%8C%85%E8%9B%8B%E9%85%B8%E5%A5%B6%E6%BA%B6%E8%B1%86%23&Refer=top)
+
+1. [恋综天花板](https://s.weibo.com//weibo?q=%E6%81%8B%E7%BB%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF&Refer=top)
+
+1. [王琳 方磊](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%20%E6%96%B9%E7%A3%8A&Refer=top)
+
+1. [李现自己和自己玩石头剪刀布](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%87%AA%E5%B7%B1%E5%92%8C%E8%87%AA%E5%B7%B1%E7%8E%A9%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83%23&Refer=top)
+
+1. [文森佐](https://s.weibo.com//weibo?q=%E6%96%87%E6%A3%AE%E4%BD%90&Refer=top)
+
+1. [小学严格执行免试就近入学](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%B8%A5%E6%A0%BC%E6%89%A7%E8%A1%8C%E5%85%8D%E8%AF%95%E5%B0%B1%E8%BF%91%E5%85%A5%E5%AD%A6%23&Refer=top)
+
+1. [流言究竟有多可怕](https://s.weibo.com//weibo?q=%23%E6%B5%81%E8%A8%80%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&Refer=top)
+
+1. [杨九郎即兴捧哏能力](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%9D%E9%83%8E%E5%8D%B3%E5%85%B4%E6%8D%A7%E5%93%8F%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [利物浦 维拉](https://s.weibo.com//weibo?q=%E5%88%A9%E7%89%A9%E6%B5%A6%20%E7%BB%B4%E6%8B%89&Refer=top)
 
