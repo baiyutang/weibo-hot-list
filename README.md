@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 11:05:53
+## 微博今日热榜 更新于 2021-04-10 12:02:40
 1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -236,4 +236,36 @@
 1. [朱辉宇脑王](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E8%BE%89%E5%AE%87%E8%84%91%E7%8E%8B%23&Refer=top)
 
 1. [范志毅后悔吐槽男篮](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E5%90%8E%E6%82%94%E5%90%90%E6%A7%BD%E7%94%B7%E7%AF%AE&Refer=top)
+
+1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
+
+1. [张馨予 这几天馒头主食吃的太多了](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E8%BF%99%E5%87%A0%E5%A4%A9%E9%A6%92%E5%A4%B4%E4%B8%BB%E9%A3%9F%E5%90%83%E7%9A%84%E5%A4%AA%E5%A4%9A%E4%BA%86&Refer=top)
+
+1. [丑得刚刚好的鸭子](https://s.weibo.com//weibo?q=%23%E4%B8%91%E5%BE%97%E5%88%9A%E5%88%9A%E5%A5%BD%E7%9A%84%E9%B8%AD%E5%AD%90%23&Refer=top)
+
+1. [利路修第十二名](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%90%8D%23&Refer=top)
+
+1. [山河令周子舒戏服流拍](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%91%A8%E5%AD%90%E8%88%92%E6%88%8F%E6%9C%8D%E6%B5%81%E6%8B%8D%23&Refer=top)
+
+1. [原来密室npc也有教学](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AF%86%E5%AE%A4npc%E4%B9%9F%E6%9C%89%E6%95%99%E5%AD%A6%23&Refer=top)
+
+1. [全国婚俗改革实验区](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A9%9A%E4%BF%97%E6%94%B9%E9%9D%A9%E5%AE%9E%E9%AA%8C%E5%8C%BA%23&Refer=top)
+
+1. [每天激情发微博的你](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E5%A4%A9%E6%BF%80%E6%83%85%E5%8F%91%E5%BE%AE%E5%8D%9A%E7%9A%84%E4%BD%A0%23&Refer=top)
+
+1. [乒乓外交五十年](https://s.weibo.com//weibo?q=%23%E4%B9%92%E4%B9%93%E5%A4%96%E4%BA%A4%E4%BA%94%E5%8D%81%E5%B9%B4%23&Refer=top)
+
+1. [官方通报货车司机服用农药死亡](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9C%8D%E7%94%A8%E5%86%9C%E8%8D%AF%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [武警特战女兵的训练日常](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E8%AD%A6%E7%89%B9%E6%88%98%E5%A5%B3%E5%85%B5%E7%9A%84%E8%AE%AD%E7%BB%83%E6%97%A5%E5%B8%B8%23&Refer=top)
+
+1. [男子驾共享汽车将学生撞成重伤](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%A9%BE%E5%85%B1%E4%BA%AB%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%AD%A6%E7%94%9F%E6%92%9E%E6%88%90%E9%87%8D%E4%BC%A4&Refer=top)
+
+1. [自考](https://s.weibo.com//weibo?q=%E8%87%AA%E8%80%83&Refer=top)
+
+1. [故宫角楼春花盛开](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E8%A7%92%E6%A5%BC%E6%98%A5%E8%8A%B1%E7%9B%9B%E5%BC%80%23&Refer=top)
+
+1. [拉文50分](https://s.weibo.com//weibo?q=%E6%8B%89%E6%96%8750%E5%88%86&Refer=top)
+
+1. [绝美水上公路](https://s.weibo.com//weibo?q=%E7%BB%9D%E7%BE%8E%E6%B0%B4%E4%B8%8A%E5%85%AC%E8%B7%AF&Refer=top)
 
