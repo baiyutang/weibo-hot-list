@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 17:01:07
+## 微博今日热榜 更新于 2021-04-11 18:01:09
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -370,4 +370,26 @@
 1. [松花江佳木斯段开江](https://s.weibo.com//weibo?q=%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E6%AE%B5%E5%BC%80%E6%B1%9F&Refer=top)
 
 1. [雅虎问答将永久关闭](https://s.weibo.com//weibo?q=%E9%9B%85%E8%99%8E%E9%97%AE%E7%AD%94%E5%B0%86%E6%B0%B8%E4%B9%85%E5%85%B3%E9%97%AD&Refer=top)
+
+1. [沈梦辰想吴亦凡王一博易烊千玺做伴郎](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E6%83%B3%E5%90%B4%E4%BA%A6%E5%87%A1%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%81%9A%E4%BC%B4%E9%83%8E%23&Refer=top)
+
+1. [陈赫火锅店](https://s.weibo.com//weibo?q=%E9%99%88%E8%B5%AB%E7%81%AB%E9%94%85%E5%BA%97&Refer=top)
+
+1. [吴昕 我妈是我家最适合出道的](https://s.weibo.com//weibo?q=%E5%90%B4%E6%98%95%20%E6%88%91%E5%A6%88%E6%98%AF%E6%88%91%E5%AE%B6%E6%9C%80%E9%80%82%E5%90%88%E5%87%BA%E9%81%93%E7%9A%84&Refer=top)
+
+1. [苹果拒绝参加反垄断听证会](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E6%8B%92%E7%BB%9D%E5%8F%82%E5%8A%A0%E5%8F%8D%E5%9E%84%E6%96%AD%E5%90%AC%E8%AF%81%E4%BC%9A&Refer=top)
+
+1. [丁真 上海时装周](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8&Refer=top)
+
+1. [宋妍霏和妈妈合拍双人舞](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%88%E6%8B%8D%E5%8F%8C%E4%BA%BA%E8%88%9E%23&Refer=top)
+
+1. [体育差生名场面](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E5%B7%AE%E7%94%9F%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [世界上最客气的爸爸](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%A2%E6%B0%94%E7%9A%84%E7%88%B8%E7%88%B8%23&Refer=top)
+
+1. [警方回应豪车隧道内狂飙致车祸](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%B1%AA%E8%BD%A6%E9%9A%A7%E9%81%93%E5%86%85%E7%8B%82%E9%A3%99%E8%87%B4%E8%BD%A6%E7%A5%B8&Refer=top)
+
+1. [FPX EDG](https://s.weibo.com//weibo?q=%23FPX%20EDG%23&Refer=top)
+
+1. [元气森林因宣传0蔗糖致歉](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97%E5%9B%A0%E5%AE%A3%E4%BC%A00%E8%94%97%E7%B3%96%E8%87%B4%E6%AD%89%23&Refer=top)
 
