@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 07:01:58
+## 微博今日热榜 更新于 2021-04-11 08:03:42
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -146,4 +146,22 @@
 1. [三星堆考古90后挑大梁](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A490%E5%90%8E%E6%8C%91%E5%A4%A7%E6%A2%81%23&Refer=new_time)
 
 1. [美国黑市假新冠疫苗接种卡泛滥](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E5%B8%82%E5%81%87%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%8D%A1%E6%B3%9B%E6%BB%A5%23&Refer=top)
+
+1. [外交天团为武汉代言合集](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%9B%A2%E4%B8%BA%E6%AD%A6%E6%B1%89%E4%BB%A3%E8%A8%80%E5%90%88%E9%9B%86%23&Refer=new_time)
+
+1. [新疆一煤矿发生透水事故21人被困](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%8521%E4%BA%BA%E8%A2%AB%E5%9B%B0&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [浪浪钉](https://s.weibo.com//weibo?q=%23%E6%B5%AA%E6%B5%AA%E9%92%89%23&Refer=top)
+
+1. [皇马战胜巴萨](https://s.weibo.com//weibo?q=%E7%9A%87%E9%A9%AC%E6%88%98%E8%83%9C%E5%B7%B4%E8%90%A8&Refer=top)
+
+1. [喻言浅橘色孤岛](https://s.weibo.com//weibo?q=%23%E5%96%BB%E8%A8%80%E6%B5%85%E6%A9%98%E8%89%B2%E5%AD%A4%E5%B2%9B%23&Refer=top)
+
+1. [张九龄德云九队队长](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%B9%9D%E9%BE%84%E5%BE%B7%E4%BA%91%E4%B9%9D%E9%98%9F%E9%98%9F%E9%95%BF%23&Refer=top)
+
+1. [多国房价再创新高](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%88%BF%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=top)
+
+1. [瑞丽4月11日起第3轮全员核酸检测](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD4%E6%9C%8811%E6%97%A5%E8%B5%B7%E7%AC%AC3%E8%BD%AE%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
 
