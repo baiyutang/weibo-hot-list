@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 20:01:36
+## 微博今日热榜 更新于 2021-04-11 21:06:44
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -432,4 +432,34 @@
 1. [郭艾伦复出](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E5%A4%8D%E5%87%BA&Refer=top)
 
 1. [吴磊少年感 生命力](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%E5%B0%91%E5%B9%B4%E6%84%9F%20%E7%94%9F%E5%91%BD%E5%8A%9B&Refer=top)
+
+1. [青岛急寻核酸阳性者同车厢密接](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E6%80%A5%E5%AF%BB%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E8%80%85%E5%90%8C%E8%BD%A6%E5%8E%A2%E5%AF%86%E6%8E%A5%23&Refer=top)
+
+1. [蓝盈莹妈妈身材](https://s.weibo.com//weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E5%A6%88%E5%A6%88%E8%BA%AB%E6%9D%90&Refer=top)
+
+1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+
+1. [同一位演员扮演的不同角色](https://s.weibo.com//weibo?q=%23%E5%90%8C%E4%B8%80%E4%BD%8D%E6%BC%94%E5%91%98%E6%89%AE%E6%BC%94%E7%9A%84%E4%B8%8D%E5%90%8C%E8%A7%92%E8%89%B2%23&Refer=top)
+
+1. [创4三公顺位录制现场](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E4%B8%89%E5%85%AC%E9%A1%BA%E4%BD%8D%E5%BD%95%E5%88%B6%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [阚清子 谁的副驾驶还没个人啊](https://s.weibo.com//weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%20%E8%B0%81%E7%9A%84%E5%89%AF%E9%A9%BE%E9%A9%B6%E8%BF%98%E6%B2%A1%E4%B8%AA%E4%BA%BA%E5%95%8A&Refer=top)
+
+1. [徐老师 航仔](https://s.weibo.com//weibo?q=%E5%BE%90%E8%80%81%E5%B8%88%20%E8%88%AA%E4%BB%94&Refer=top)
+
+1. [苏醒警告林芸芸](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E8%AD%A6%E5%91%8A%E6%9E%97%E8%8A%B8%E8%8A%B8%23&Refer=top)
+
+1. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [刘宇宁赵露思直播](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [泰国征兵现场](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%BE%81%E5%85%B5%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [自曝收50万回扣医生再发声](https://s.weibo.com//weibo?q=%E8%87%AA%E6%9B%9D%E6%94%B650%E4%B8%87%E5%9B%9E%E6%89%A3%E5%8C%BB%E7%94%9F%E5%86%8D%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [南俪田雨岚家宴攀比](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BF%AA%E7%94%B0%E9%9B%A8%E5%B2%9A%E5%AE%B6%E5%AE%B4%E6%94%80%E6%AF%94&Refer=top)
+
+1. [周代女性化妆盒](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%BB%A3%E5%A5%B3%E6%80%A7%E5%8C%96%E5%A6%86%E7%9B%92%23&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
