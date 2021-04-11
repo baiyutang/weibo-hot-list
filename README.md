@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 10:20:41
+## 微博今日热榜 更新于 2021-04-11 11:07:15
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -220,4 +220,14 @@
 1. [男子冰壶世锦赛出现新冠病例暂停](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%96%E9%94%A6%E8%B5%9B%E5%87%BA%E7%8E%B0%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E6%9A%82%E5%81%9C%23&Refer=top)
 
 1. [无锡马拉松](https://s.weibo.com//weibo?q=%E6%97%A0%E9%94%A1%E9%A9%AC%E6%8B%89%E6%9D%BE&Refer=top)
+
+1. [欧文施罗德被驱逐](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%87%E6%96%BD%E7%BD%97%E5%BE%B7%E8%A2%AB%E9%A9%B1%E9%80%90&Refer=top)
+
+1. [教育局长跳霹雳舞为学生解压](https://s.weibo.com//weibo?q=%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E8%B7%B3%E9%9C%B9%E9%9B%B3%E8%88%9E%E4%B8%BA%E5%AD%A6%E7%94%9F%E8%A7%A3%E5%8E%8B&Refer=top)
+
+1. [秦岚吴谨言谭卓合影](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%9A%E5%90%B4%E8%B0%A8%E8%A8%80%E8%B0%AD%E5%8D%93%E5%90%88%E5%BD%B1&Refer=top)
+
+1. [被蜱虫叮咬严重时或致瘫痪](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%8F%AE%E5%92%AC%E4%B8%A5%E9%87%8D%E6%97%B6%E6%88%96%E8%87%B4%E7%98%AB%E7%97%AA%23&Refer=top)
+
+1. [护师考试](https://s.weibo.com//weibo?q=%E6%8A%A4%E5%B8%88%E8%80%83%E8%AF%95&Refer=top)
 
