@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 09:25:56
+## 微博今日热榜 更新于 2021-04-11 10:20:41
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -196,4 +196,28 @@
 1. [扬州百米高风力发电机倒塌](https://s.weibo.com//weibo?q=%E6%89%AC%E5%B7%9E%E7%99%BE%E7%B1%B3%E9%AB%98%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E5%80%92%E5%A1%8C&Refer=top)
 
 1. [世界帕金森病日](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E5%B8%95%E9%87%91%E6%A3%AE%E7%97%85%E6%97%A5&Refer=top)
+
+1. [只有10％被蜱虫叮咬的人会发病](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%8910%EF%BC%85%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%8F%AE%E5%92%AC%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%8F%91%E7%97%85%23&Refer=top)
+
+1. [菲利普亲王葬礼将于17日举行](https://s.weibo.com//weibo?q=%E8%8F%B2%E5%88%A9%E6%99%AE%E4%BA%B2%E7%8E%8B%E8%91%AC%E7%A4%BC%E5%B0%86%E4%BA%8E17%E6%97%A5%E4%B8%BE%E8%A1%8C&Refer=top)
+
+1. [湖人 篮网](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%20%E7%AF%AE%E7%BD%91&Refer=top)
+
+1. [演唱会社死现场](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [大同卫健委回应医生自曝收50万回扣](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%90%8C%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E8%87%AA%E6%9B%9D%E6%94%B650%E4%B8%87%E5%9B%9E%E6%89%A3%23&Refer=top)
+
+1. [两百多天能掉多少头发](https://s.weibo.com//weibo?q=%E4%B8%A4%E7%99%BE%E5%A4%9A%E5%A4%A9%E8%83%BD%E6%8E%89%E5%A4%9A%E5%B0%91%E5%A4%B4%E5%8F%91&Refer=top)
+
+1. [毛不易 沙发都被我坐出坑了](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E6%B2%99%E5%8F%91%E9%83%BD%E8%A2%AB%E6%88%91%E5%9D%90%E5%87%BA%E5%9D%91%E4%BA%86&Refer=top)
+
+1. [伊能静儿子 我爱岚妹岚妹爱我](https://s.weibo.com//weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E5%84%BF%E5%AD%90%20%E6%88%91%E7%88%B1%E5%B2%9A%E5%A6%B9%E5%B2%9A%E5%A6%B9%E7%88%B1%E6%88%91&Refer=top)
+
+1. [欧文极限拉杆](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%96%87%E6%9E%81%E9%99%90%E6%8B%89%E6%9D%86%23&Refer=top)
+
+1. [杜兰特飞身暴扣](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E9%A3%9E%E8%BA%AB%E6%9A%B4%E6%89%A3%23&Refer=top)
+
+1. [男子冰壶世锦赛出现新冠病例暂停](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%96%E9%94%A6%E8%B5%9B%E5%87%BA%E7%8E%B0%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E6%9A%82%E5%81%9C%23&Refer=top)
+
+1. [无锡马拉松](https://s.weibo.com//weibo?q=%E6%97%A0%E9%94%A1%E9%A9%AC%E6%8B%89%E6%9D%BE&Refer=top)
 
