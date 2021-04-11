@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 18:01:09
+## 微博今日热榜 更新于 2021-04-11 19:01:01
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -392,4 +392,22 @@
 1. [FPX EDG](https://s.weibo.com//weibo?q=%23FPX%20EDG%23&Refer=top)
 
 1. [元气森林因宣传0蔗糖致歉](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97%E5%9B%A0%E5%AE%A3%E4%BC%A00%E8%94%97%E7%B3%96%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [新冠疫苗不得强制要求全员接种](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%B8%8D%E5%BE%97%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%85%A8%E5%91%98%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [张恒带子女出游](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%81%92%E5%B8%A6%E5%AD%90%E5%A5%B3%E5%87%BA%E6%B8%B8%23&Refer=top)
+
+1. [为什么有人迷信塔罗牌占卜](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E8%BF%B7%E4%BF%A1%E5%A1%94%E7%BD%97%E7%89%8C%E5%8D%A0%E5%8D%9C%23&Refer=top)
+
+1. [孙怡晒妈妈年轻照片](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E6%99%92%E5%A6%88%E5%A6%88%E5%B9%B4%E8%BD%BB%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [黄小蕾 女人有时候不能太软弱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%B0%8F%E8%95%BE%20%E5%A5%B3%E4%BA%BA%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E8%83%BD%E5%A4%AA%E8%BD%AF%E5%BC%B1&Refer=top)
+
+1. [福岛核电站4000个废弃物集装箱信息不明](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E7%94%B5%E7%AB%994000%E4%B8%AA%E5%BA%9F%E5%BC%83%E7%89%A9%E9%9B%86%E8%A3%85%E7%AE%B1%E4%BF%A1%E6%81%AF%E4%B8%8D%E6%98%8E%23&Refer=top)
+
+1. [美总统气候问题特使克里下周访华](https://s.weibo.com//weibo?q=%E7%BE%8E%E6%80%BB%E7%BB%9F%E6%B0%94%E5%80%99%E9%97%AE%E9%A2%98%E7%89%B9%E4%BD%BF%E5%85%8B%E9%87%8C%E4%B8%8B%E5%91%A8%E8%AE%BF%E5%8D%8E&Refer=top)
+
+1. [ana回归OG](https://s.weibo.com//weibo?q=ana%E5%9B%9E%E5%BD%92OG&Refer=top)
+
+1. [Viper小炮](https://s.weibo.com//weibo?q=Viper%E5%B0%8F%E7%82%AE&Refer=top)
 
