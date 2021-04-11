@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 00:02:14
+## 微博今日热榜 更新于 2021-04-12 01:16:20
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -102,4 +102,14 @@
 1. [林加德破门](https://s.weibo.com//weibo?q=%E6%9E%97%E5%8A%A0%E5%BE%B7%E7%A0%B4%E9%97%A8&Refer=top)
 
 1. [日本核污水57天将污染半个太平洋](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B457%E5%A4%A9%E5%B0%86%E6%B1%A1%E6%9F%93%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
+
+1. [那时他们的爱情](https://s.weibo.com//weibo?q=%23%E9%82%A3%E6%97%B6%E4%BB%96%E4%BB%AC%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=new_time)
+
+1. [余景天方声明](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E6%96%B9%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [唐宫小姐姐遇见书院小哥哥](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AE%AB%E5%B0%8F%E5%A7%90%E5%A7%90%E9%81%87%E8%A7%81%E4%B9%A6%E9%99%A2%E5%B0%8F%E5%93%A5%E5%93%A5%23&Refer=top)
+
+1. [王一博训缉私犬](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%AD%E7%BC%89%E7%A7%81%E7%8A%AC%23&Refer=top)
+
+1. [德云社封箱](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B0%81%E7%AE%B1&Refer=top)
 
