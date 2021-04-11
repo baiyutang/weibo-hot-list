@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 22:01:07
+## 微博今日热榜 更新于 2021-04-11 23:01:16
 1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -490,4 +490,32 @@
 1. [父母相册里的我](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9B%B8%E5%86%8C%E9%87%8C%E7%9A%84%E6%88%91%23&Refer=top)
 
 1. [韩德君受伤](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%BE%B7%E5%90%9B%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [龚俊不愧演过消防员](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%B8%8D%E6%84%A7%E6%BC%94%E8%BF%87%E6%B6%88%E9%98%B2%E5%91%98&Refer=top)
+
+1. [刘宇宁赵露思韩语版长歌行](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9F%A9%E8%AF%AD%E7%89%88%E9%95%BF%E6%AD%8C%E8%A1%8C%23&Refer=top)
+
+1. [女子西湖边放生数十只甲鱼](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E8%A5%BF%E6%B9%96%E8%BE%B9%E6%94%BE%E7%94%9F%E6%95%B0%E5%8D%81%E5%8F%AA%E7%94%B2%E9%B1%BC&Refer=top)
+
+1. [杜甫的诗被尤长靖唱成了歌](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E7%94%AB%E7%9A%84%E8%AF%97%E8%A2%AB%E5%B0%A4%E9%95%BF%E9%9D%96%E5%94%B1%E6%88%90%E4%BA%86%E6%AD%8C%23&Refer=top)
+
+1. [赵睿受伤](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%9D%BF%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [许嵩昨夜书](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9%E6%98%A8%E5%A4%9C%E4%B9%A6&Refer=top)
+
+1. [开发商强制清明节交房](https://s.weibo.com//weibo?q=%E5%BC%80%E5%8F%91%E5%95%86%E5%BC%BA%E5%88%B6%E6%B8%85%E6%98%8E%E8%8A%82%E4%BA%A4%E6%88%BF&Refer=top)
+
+1. [台铁自强号列车起火](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E8%87%AA%E5%BC%BA%E5%8F%B7%E5%88%97%E8%BD%A6%E8%B5%B7%E7%81%AB&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [王俊凯模仿腾格尔唱丑八怪](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%A8%A1%E4%BB%BF%E8%85%BE%E6%A0%BC%E5%B0%94%E5%94%B1%E4%B8%91%E5%85%AB%E6%80%AA%23&Refer=top)
+
+1. [邓伦从九楼高空索降](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E4%BB%8E%E4%B9%9D%E6%A5%BC%E9%AB%98%E7%A9%BA%E7%B4%A2%E9%99%8D%23&Refer=top)
+
+1. [瑞丽疫情提醒境外输入压力未减轻](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E7%96%AB%E6%83%85%E6%8F%90%E9%86%92%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E5%8E%8B%E5%8A%9B%E6%9C%AA%E5%87%8F%E8%BD%BB%23&Refer=top)
+
+1. [林加德破门](https://s.weibo.com//weibo?q=%E6%9E%97%E5%8A%A0%E5%BE%B7%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [女生为什么害怕生孩子](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B3%E6%80%95%E7%94%9F%E5%AD%A9%E5%AD%90%23&Refer=top)
 
