@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 18:01:31
+## 微博今日热榜 更新于 2021-04-12 19:01:14
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -440,4 +440,36 @@
 1. [如何说服长辈打疫苗](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%B4%E6%9C%8D%E9%95%BF%E8%BE%88%E6%89%93%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [春日爆汁杨枝甘露杯](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E7%88%86%E6%B1%81%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%E6%9D%AF%23&Refer=top)
+
+1. [上海市原市长杨雄逝世](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9D%A8%E9%9B%84%E9%80%9D%E4%B8%96&Refer=top)
+
+1. [萧亚轩晒被狗咬伤疤痕](https://s.weibo.com//weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%E6%99%92%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%96%A4%E7%97%95&Refer=top)
+
+1. [鞠婧祎 备忘录](https://s.weibo.com//weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%A4%87%E5%BF%98%E5%BD%95&Refer=top)
+
+1. [张柏芝 肿是什么螺蛳粉真的告诉我](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E8%82%BF%E6%98%AF%E4%BB%80%E4%B9%88%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9C%9F%E7%9A%84%E5%91%8A%E8%AF%89%E6%88%91&Refer=top)
+
+1. [甘望星回应初舞台撩腹肌](https://s.weibo.com//weibo?q=%23%E7%94%98%E6%9C%9B%E6%98%9F%E5%9B%9E%E5%BA%94%E5%88%9D%E8%88%9E%E5%8F%B0%E6%92%A9%E8%85%B9%E8%82%8C%23&Refer=top)
+
+1. [从小帅到大是什么体验](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%B8%85%E5%88%B0%E5%A4%A7%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [娜扎和弹幕聊起来了](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E5%92%8C%E5%BC%B9%E5%B9%95%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [猫咪当拍摄背景有多高级](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E5%BD%93%E6%8B%8D%E6%91%84%E8%83%8C%E6%99%AF%E6%9C%89%E5%A4%9A%E9%AB%98%E7%BA%A7%23&Refer=top)
+
+1. [瑞士厕所的灯光有多瘆人](https://s.weibo.com//weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8E%95%E6%89%80%E7%9A%84%E7%81%AF%E5%85%89%E6%9C%89%E5%A4%9A%E7%98%86%E4%BA%BA%23&Refer=top)
+
+1. [网课被迫旷课现场](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%AF%BE%E8%A2%AB%E8%BF%AB%E6%97%B7%E8%AF%BE%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [金融管理部门再约谈蚂蚁集团](https://s.weibo.com//weibo?q=%23%E9%87%91%E8%9E%8D%E7%AE%A1%E7%90%86%E9%83%A8%E9%97%A8%E5%86%8D%E7%BA%A6%E8%B0%88%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%23&Refer=top)
+
+1. [康辉英文采访首秀](https://s.weibo.com//weibo?q=%E5%BA%B7%E8%BE%89%E8%8B%B1%E6%96%87%E9%87%87%E8%AE%BF%E9%A6%96%E7%A7%80&Refer=top)
+
+1. [日本民众反对政府将核废水排海](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%8F%8D%E5%AF%B9%E6%94%BF%E5%BA%9C%E5%B0%86%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%23&Refer=top)
+
+1. [北京欢乐谷回应儿童倒挂空中](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%AC%A2%E4%B9%90%E8%B0%B7%E5%9B%9E%E5%BA%94%E5%84%BF%E7%AB%A5%E5%80%92%E6%8C%82%E7%A9%BA%E4%B8%AD%23&Refer=top)
+
+1. [财政部对19家医药企业作出行政处罚](https://s.weibo.com//weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%AF%B919%E5%AE%B6%E5%8C%BB%E8%8D%AF%E4%BC%81%E4%B8%9A%E4%BD%9C%E5%87%BA%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23&Refer=top)
+
+1. [大气东方美人妆](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B0%94%E4%B8%9C%E6%96%B9%E7%BE%8E%E4%BA%BA%E5%A6%86%23&Refer=top)
 
