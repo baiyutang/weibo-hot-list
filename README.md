@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 11:08:21
+## 微博今日热榜 更新于 2021-04-12 12:03:23
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -228,4 +228,18 @@
 1. [猫咪滞留动物园遭猴子撕咬](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%AA%E6%BB%9E%E7%95%99%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%81%AD%E7%8C%B4%E5%AD%90%E6%92%95%E5%92%AC&Refer=top)
 
 1. [老人把保健品当药吃延误病情去世](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E6%8A%8A%E4%BF%9D%E5%81%A5%E5%93%81%E5%BD%93%E8%8D%AF%E5%90%83%E5%BB%B6%E8%AF%AF%E7%97%85%E6%83%85%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [汪小菲连麦女主播](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E9%BA%A6%E5%A5%B3%E4%B8%BB%E6%92%AD&Refer=top)
+
+1. [拼多多发声明处罚极兔](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%91%E5%A3%B0%E6%98%8E%E5%A4%84%E7%BD%9A%E6%9E%81%E5%85%94&Refer=top)
+
+1. [山东城市的名字有多诗意](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9F%8E%E5%B8%82%E7%9A%84%E5%90%8D%E5%AD%97%E6%9C%89%E5%A4%9A%E8%AF%97%E6%84%8F%23&Refer=top)
+
+1. [退休人员养老金将迎来17连涨](https://s.weibo.com//weibo?q=%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%85%BB%E8%80%81%E9%87%91%E5%B0%86%E8%BF%8E%E6%9D%A517%E8%BF%9E%E6%B6%A8&Refer=top)
+
+1. [路人经过广场时头发会竖起](https://s.weibo.com//weibo?q=%E8%B7%AF%E4%BA%BA%E7%BB%8F%E8%BF%87%E5%B9%BF%E5%9C%BA%E6%97%B6%E5%A4%B4%E5%8F%91%E4%BC%9A%E7%AB%96%E8%B5%B7&Refer=top)
+
+1. [五一多条热门航线机票价格上涨](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%A4%9A%E6%9D%A1%E7%83%AD%E9%97%A8%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top)
+
+1. [2.5亿年前地球生命大灭绝或因镍雾霾](https://s.weibo.com//weibo?q=%232.5%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%A4%A7%E7%81%AD%E7%BB%9D%E6%88%96%E5%9B%A0%E9%95%8D%E9%9B%BE%E9%9C%BE%23&Refer=top)
 
