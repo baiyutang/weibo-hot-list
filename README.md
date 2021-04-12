@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 13:05:49
+## 微博今日热榜 更新于 2021-04-12 14:01:25
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -276,4 +276,34 @@
 1. [如何判断自己是否柳絮过敏](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E6%9F%B3%E7%B5%AE%E8%BF%87%E6%95%8F%23&Refer=top)
 
 1. [食派士涉嫌垄断被罚116.86万元](https://s.weibo.com//weibo?q=%23%E9%A3%9F%E6%B4%BE%E5%A3%AB%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E7%BD%9A116.86%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [疫后重振看湖北](https://s.weibo.com//weibo?q=%23%E7%96%AB%E5%90%8E%E9%87%8D%E6%8C%AF%E7%9C%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
+
+1. [小S吐槽女儿晒照是想炫耀腰细](https://s.weibo.com//weibo?q=%E5%B0%8FS%E5%90%90%E6%A7%BD%E5%A5%B3%E5%84%BF%E6%99%92%E7%85%A7%E6%98%AF%E6%83%B3%E7%82%AB%E8%80%80%E8%85%B0%E7%BB%86&Refer=top)
+
+1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=top)
+
+1. [方磊](https://s.weibo.com//weibo?q=%E6%96%B9%E7%A3%8A&Refer=top)
+
+1. [世界最大蘑菇长了2800多年](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E8%98%91%E8%8F%87%E9%95%BF%E4%BA%862800%E5%A4%9A%E5%B9%B4%23&Refer=top)
+
+1. [敖子逸 啥时候能让我演人类](https://s.weibo.com//weibo?q=%E6%95%96%E5%AD%90%E9%80%B8%20%E5%95%A5%E6%97%B6%E5%80%99%E8%83%BD%E8%AE%A9%E6%88%91%E6%BC%94%E4%BA%BA%E7%B1%BB&Refer=top)
+
+1. [舒淇文艺复兴油画封面](https://s.weibo.com//weibo?q=%23%E8%88%92%E6%B7%87%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4%E6%B2%B9%E7%94%BB%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [游伟](https://s.weibo.com//weibo?q=%E6%B8%B8%E4%BC%9F&Refer=top)
+
+1. [朴槿惠闺蜜崔顺实称在看守所被性骚扰](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%A7%BF%E6%83%A0%E9%97%BA%E8%9C%9C%E5%B4%94%E9%A1%BA%E5%AE%9E%E7%A7%B0%E5%9C%A8%E7%9C%8B%E5%AE%88%E6%89%80%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0%23&Refer=top)
+
+1. [科学家用一辈子为枇杷改名](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%94%A8%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%BA%E6%9E%87%E6%9D%B7%E6%94%B9%E5%90%8D%23&Refer=top)
+
+1. [民警劝离蹭96岁摆摊奶奶流量主播](https://s.weibo.com//weibo?q=%E6%B0%91%E8%AD%A6%E5%8A%9D%E7%A6%BB%E8%B9%AD96%E5%B2%81%E6%91%86%E6%91%8A%E5%A5%B6%E5%A5%B6%E6%B5%81%E9%87%8F%E4%B8%BB%E6%92%AD&Refer=top)
+
+1. [李洛尔写给刘宇的信](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B4%9B%E5%B0%94%E5%86%99%E7%BB%99%E5%88%98%E5%AE%87%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [生活区被遗弃的小熊](https://s.weibo.com//weibo?q=%23%E7%94%9F%E6%B4%BB%E5%8C%BA%E8%A2%AB%E9%81%97%E5%BC%83%E7%9A%84%E5%B0%8F%E7%86%8A%23&Refer=top)
+
+1. [如何看待侵犯式蹭流量行为](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BE%B5%E7%8A%AF%E5%BC%8F%E8%B9%AD%E6%B5%81%E9%87%8F%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [被小朋友给上了一课](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%BB%99%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23&Refer=top)
 
