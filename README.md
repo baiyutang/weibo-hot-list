@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 08:03:36
+## 微博今日热榜 更新于 2021-04-12 09:25:24
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -156,4 +156,30 @@
 1. [小舍得](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97&Refer=top)
 
 1. [女子种睫毛引起眼部螨虫感染](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%8D%E7%9D%AB%E6%AF%9B%E5%BC%95%E8%B5%B7%E7%9C%BC%E9%83%A8%E8%9E%A8%E8%99%AB%E6%84%9F%E6%9F%93%23&Refer=top)
+
+1. [警方摧毁特大杀猪盘诈骗团伙](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E6%91%A7%E6%AF%81%E7%89%B9%E5%A4%A7%E6%9D%80%E7%8C%AA%E7%9B%98%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99%23&Refer=top)
+
+1. [欧文因个人原因缺席比赛](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%87%E5%9B%A0%E4%B8%AA%E4%BA%BA%E5%8E%9F%E5%9B%A0%E7%BC%BA%E5%B8%AD%E6%AF%94%E8%B5%9B&Refer=top)
+
+1. [埃及列车相撞当天多名涉案人员吸毒](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%BD%93%E5%A4%A9%E5%A4%9A%E5%90%8D%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%23&Refer=top)
+
+1. [三星堆考古超过四分之三是90后](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E8%B6%85%E8%BF%87%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89%E6%98%AF90%E5%90%8E&Refer=top)
+
+1. [张哲瀚开工自拍](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%BC%80%E5%B7%A5%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [夫妇在戈壁沙漠种梭梭树近20年](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%87%E5%9C%A8%E6%88%88%E5%A3%81%E6%B2%99%E6%BC%A0%E7%A7%8D%E6%A2%AD%E6%A2%AD%E6%A0%91%E8%BF%9120%E5%B9%B4%23&Refer=top)
+
+1. [那些衣服上的有趣印花](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E8%A1%A3%E6%9C%8D%E4%B8%8A%E7%9A%84%E6%9C%89%E8%B6%A3%E5%8D%B0%E8%8A%B1%23&Refer=top)
+
+1. [佛山一高速路口3分钟违章27人](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E4%B8%80%E9%AB%98%E9%80%9F%E8%B7%AF%E5%8F%A33%E5%88%86%E9%92%9F%E8%BF%9D%E7%AB%A027%E4%BA%BA%23&Refer=top)
+
+1. [红火蚁位列全球百种最危险入侵物种](https://s.weibo.com//weibo?q=%E7%BA%A2%E7%81%AB%E8%9A%81%E4%BD%8D%E5%88%97%E5%85%A8%E7%90%83%E7%99%BE%E7%A7%8D%E6%9C%80%E5%8D%B1%E9%99%A9%E5%85%A5%E4%BE%B5%E7%89%A9%E7%A7%8D&Refer=top)
+
+1. [漫游费取消套餐仍收费43个月](https://s.weibo.com//weibo?q=%23%E6%BC%AB%E6%B8%B8%E8%B4%B9%E5%8F%96%E6%B6%88%E5%A5%97%E9%A4%90%E4%BB%8D%E6%94%B6%E8%B4%B943%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [微软史上第二大规模收购](https://s.weibo.com//weibo?q=%E5%BE%AE%E8%BD%AF%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD&Refer=top)
+
+1. [山西平定漫山开遍野桃花](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%B9%B3%E5%AE%9A%E6%BC%AB%E5%B1%B1%E5%BC%80%E9%81%8D%E9%87%8E%E6%A1%83%E8%8A%B1%23&Refer=top)
 
