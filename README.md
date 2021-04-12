@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 12:03:23
+## 微博今日热榜 更新于 2021-04-12 13:05:49
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -242,4 +242,38 @@
 1. [五一多条热门航线机票价格上涨](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%A4%9A%E6%9D%A1%E7%83%AD%E9%97%A8%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top)
 
 1. [2.5亿年前地球生命大灭绝或因镍雾霾](https://s.weibo.com//weibo?q=%232.5%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%A4%A7%E7%81%AD%E7%BB%9D%E6%88%96%E5%9B%A0%E9%95%8D%E9%9B%BE%E9%9C%BE%23&Refer=top)
+
+1. [汪小菲道歉](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E9%81%93%E6%AD%89&Refer=top)
+
+1. [海南省长回应三亚海胆事件](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E7%9C%81%E9%95%BF%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E6%B5%B7%E8%83%86%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [王源易烊千玺让王俊凯注意身体](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AE%A9%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%B3%A8%E6%84%8F%E8%BA%AB%E4%BD%93%23&Refer=top)
+
+1. [何洛洛道歉](https://s.weibo.com//weibo?q=%E4%BD%95%E6%B4%9B%E6%B4%9B%E9%81%93%E6%AD%89&Refer=top)
+
+1. [王俊凯回应高反](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E5%BA%94%E9%AB%98%E5%8F%8D%23&Refer=top)
+
+1. [当年金正贤不让徐贤挽胳膊的原因](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B9%B4%E9%87%91%E6%AD%A3%E8%B4%A4%E4%B8%8D%E8%AE%A9%E5%BE%90%E8%B4%A4%E6%8C%BD%E8%83%B3%E8%86%8A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [商家为高价销售有货不发需三倍赔偿](https://s.weibo.com//weibo?q=%E5%95%86%E5%AE%B6%E4%B8%BA%E9%AB%98%E4%BB%B7%E9%94%80%E5%94%AE%E6%9C%89%E8%B4%A7%E4%B8%8D%E5%8F%91%E9%9C%80%E4%B8%89%E5%80%8D%E8%B5%94%E5%81%BF&Refer=top)
+
+1. [深圳交警回应佛山高速口频现违章](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E4%BD%9B%E5%B1%B1%E9%AB%98%E9%80%9F%E5%8F%A3%E9%A2%91%E7%8E%B0%E8%BF%9D%E7%AB%A0&Refer=top)
+
+1. [骚扰下属遭殴打男子已被撤职](https://s.weibo.com//weibo?q=%E9%AA%9A%E6%89%B0%E4%B8%8B%E5%B1%9E%E9%81%AD%E6%AE%B4%E6%89%93%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%92%A4%E8%81%8C&Refer=top)
+
+1. [陶昕然回应沈晓燕人设](https://s.weibo.com//weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%9B%9E%E5%BA%94%E6%B2%88%E6%99%93%E7%87%95%E4%BA%BA%E8%AE%BE%23&Refer=top)
+
+1. [我的姐姐真实图鉴](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E7%9C%9F%E5%AE%9E%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [创4三公练习室版](https://s.weibo.com//weibo?q=%E5%88%9B4%E4%B8%89%E5%85%AC%E7%BB%83%E4%B9%A0%E5%AE%A4%E7%89%88&Refer=top)
+
+1. [女生夏季的天敌](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%8F%E5%AD%A3%E7%9A%84%E5%A4%A9%E6%95%8C%23&Refer=top)
+
+1. [102岁老战士交10万元特殊党费](https://s.weibo.com//weibo?q=102%E5%B2%81%E8%80%81%E6%88%98%E5%A3%AB%E4%BA%A410%E4%B8%87%E5%85%83%E7%89%B9%E6%AE%8A%E5%85%9A%E8%B4%B9&Refer=top)
+
+1. [长赐号仍停留在苏伊士运河](https://s.weibo.com//weibo?q=%23%E9%95%BF%E8%B5%90%E5%8F%B7%E4%BB%8D%E5%81%9C%E7%95%99%E5%9C%A8%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%23&Refer=top)
+
+1. [如何判断自己是否柳絮过敏](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E6%9F%B3%E7%B5%AE%E8%BF%87%E6%95%8F%23&Refer=top)
+
+1. [食派士涉嫌垄断被罚116.86万元](https://s.weibo.com//weibo?q=%23%E9%A3%9F%E6%B4%BE%E5%A3%AB%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E7%BD%9A116.86%E4%B8%87%E5%85%83%23&Refer=top)
 
