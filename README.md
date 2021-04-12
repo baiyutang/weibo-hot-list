@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 10:21:03
+## 微博今日热榜 更新于 2021-04-12 11:08:21
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -198,4 +198,34 @@
 1. [00后武术高手带十八般武艺参军](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E6%AD%A6%E6%9C%AF%E9%AB%98%E6%89%8B%E5%B8%A6%E5%8D%81%E5%85%AB%E8%88%AC%E6%AD%A6%E8%89%BA%E5%8F%82%E5%86%9B%23&Refer=top)
 
 1. [中国男足为女足加油](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%B8%BA%E5%A5%B3%E8%B6%B3%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [北京疾控发布接种新冠疫苗提示](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%BE%E6%8E%A7%E5%8F%91%E5%B8%83%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8F%90%E7%A4%BA%23&Refer=new_time)
+
+1. [何洛洛驾车等红灯时玩手机](https://s.weibo.com//weibo?q=%23%E4%BD%95%E6%B4%9B%E6%B4%9B%E9%A9%BE%E8%BD%A6%E7%AD%89%E7%BA%A2%E7%81%AF%E6%97%B6%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top)
+
+1. [徐睿知不让金正贤和女演员身体接触](https://s.weibo.com//weibo?q=%23%E5%BE%90%E7%9D%BF%E7%9F%A5%E4%B8%8D%E8%AE%A9%E9%87%91%E6%AD%A3%E8%B4%A4%E5%92%8C%E5%A5%B3%E6%BC%94%E5%91%98%E8%BA%AB%E4%BD%93%E6%8E%A5%E8%A7%A6%23&Refer=top)
+
+1. [郭美美等人售有毒减肥药案侦破](https://s.weibo.com//weibo?q=%E9%83%AD%E7%BE%8E%E7%BE%8E%E7%AD%89%E4%BA%BA%E5%94%AE%E6%9C%89%E6%AF%92%E5%87%8F%E8%82%A5%E8%8D%AF%E6%A1%88%E4%BE%A6%E7%A0%B4&Refer=top)
+
+1. [奔跑吧无锡路透](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%97%A0%E9%94%A1%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [骊歌行定档](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C%E5%AE%9A%E6%A1%A3&Refer=top)
+
+1. [蔡徐坤白衣古装造型](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%99%BD%E8%A1%A3%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B&Refer=top)
+
+1. [骑行大哥只想要吴磊的车子](https://s.weibo.com//weibo?q=%23%E9%AA%91%E8%A1%8C%E5%A4%A7%E5%93%A5%E5%8F%AA%E6%83%B3%E8%A6%81%E5%90%B4%E7%A3%8A%E7%9A%84%E8%BD%A6%E5%AD%90%23&Refer=top)
+
+1. [瑞丽大妈为医护做红糖糯米饭](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%A4%A7%E5%A6%88%E4%B8%BA%E5%8C%BB%E6%8A%A4%E5%81%9A%E7%BA%A2%E7%B3%96%E7%B3%AF%E7%B1%B3%E9%A5%AD%23&Refer=top)
+
+1. [55岁女子火车上霸座被行拘](https://s.weibo.com//weibo?q=%2355%E5%B2%81%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E4%B8%8A%E9%9C%B8%E5%BA%A7%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [张杰新歌MV](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E6%96%B0%E6%AD%8CMV&Refer=top)
+
+1. [四川选调生考试](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E9%80%89%E8%B0%83%E7%94%9F%E8%80%83%E8%AF%95&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [猫咪滞留动物园遭猴子撕咬](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%AA%E6%BB%9E%E7%95%99%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%81%AD%E7%8C%B4%E5%AD%90%E6%92%95%E5%92%AC&Refer=top)
+
+1. [老人把保健品当药吃延误病情去世](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E6%8A%8A%E4%BF%9D%E5%81%A5%E5%93%81%E5%BD%93%E8%8D%AF%E5%90%83%E5%BB%B6%E8%AF%AF%E7%97%85%E6%83%85%E5%8E%BB%E4%B8%96%23&Refer=top)
 
