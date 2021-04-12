@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 01:16:56
+## 微博今日热榜 更新于 2021-04-13 02:09:48
 1. [两年内将有12名中国航天员飞天](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
@@ -112,4 +112,8 @@
 1. [如何看待俞长栋王少杰技犯申诉成功](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BF%9E%E9%95%BF%E6%A0%8B%E7%8E%8B%E5%B0%91%E6%9D%B0%E6%8A%80%E7%8A%AF%E7%94%B3%E8%AF%89%E6%88%90%E5%8A%9F%23&Refer=top)
 
 1. [恰好是少年加字游戏](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4%E5%8A%A0%E5%AD%97%E6%B8%B8%E6%88%8F&Refer=top)
+
+1. [疫后重振看湖北](https://s.weibo.com//weibo?q=%23%E7%96%AB%E5%90%8E%E9%87%8D%E6%8C%AF%E7%9C%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
