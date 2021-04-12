@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 05:01:15
+## 微博今日热榜 更新于 2021-04-13 06:01:08
 1. [两年内将有12名中国航天员飞天](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [秦岚晒王鹤棣点的外卖](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%9A%E6%99%92%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%82%B9%E7%9A%84%E5%A4%96%E5%8D%96&Refer=top)
 
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=top)
+
+1. [上海市原市长杨雄逝世](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9D%A8%E9%9B%84%E9%80%9D%E4%B8%96&Refer=top)
 
