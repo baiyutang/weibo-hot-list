@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 22:01:20
+## 微博今日热榜 更新于 2021-04-12 23:01:18
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -544,4 +544,26 @@
 1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
 
 1. [张宁关键中投](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AE%81%E5%85%B3%E9%94%AE%E4%B8%AD%E6%8A%95&Refer=top)
+
+1. [白敬亭每一根头发都有自己的想法](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%AF%8F%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%B3%E6%B3%95%23&Refer=top)
+
+1. [扎克伯格1年安保费2300万美元](https://s.weibo.com//weibo?q=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC1%E5%B9%B4%E5%AE%89%E4%BF%9D%E8%B4%B92300%E4%B8%87%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [当寝室有个山东室友时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%AF%9D%E5%AE%A4%E6%9C%89%E4%B8%AA%E5%B1%B1%E4%B8%9C%E5%AE%A4%E5%8F%8B%E6%97%B6%23&Refer=top)
+
+1. [李长歌到底有几个好妹妹](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E5%88%B0%E5%BA%95%E6%9C%89%E5%87%A0%E4%B8%AA%E5%A5%BD%E5%A6%B9%E5%A6%B9%23&Refer=top)
+
+1. [莫言用方言读晚熟的人](https://s.weibo.com//weibo?q=%E8%8E%AB%E8%A8%80%E7%94%A8%E6%96%B9%E8%A8%80%E8%AF%BB%E6%99%9A%E7%86%9F%E7%9A%84%E4%BA%BA&Refer=top)
+
+1. [长歌行预告](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [蔡徐坤一个镜头拍了十六遍](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%80%E4%B8%AA%E9%95%9C%E5%A4%B4%E6%8B%8D%E4%BA%86%E5%8D%81%E5%85%AD%E9%81%8D%23&Refer=top)
+
+1. [福建恐龙舞池发现200多枚恐龙足迹](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%81%90%E9%BE%99%E8%88%9E%E6%B1%A0%E5%8F%91%E7%8E%B0200%E5%A4%9A%E6%9E%9A%E6%81%90%E9%BE%99%E8%B6%B3%E8%BF%B9%23&Refer=top)
+
+1. [林芸芸跪求顾家伟](https://s.weibo.com//weibo?q=%23%E6%9E%97%E8%8A%B8%E8%8A%B8%E8%B7%AA%E6%B1%82%E9%A1%BE%E5%AE%B6%E4%BC%9F%23&Refer=top)
+
+1. [沈阳野禽H5N6亚型高致病性禽流感疫情](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E9%87%8E%E7%A6%BDH5N6%E4%BA%9A%E5%9E%8B%E9%AB%98%E8%87%B4%E7%97%85%E6%80%A7%E7%A6%BD%E6%B5%81%E6%84%9F%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [猫头鹰立交桥](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%A4%B4%E9%B9%B0%E7%AB%8B%E4%BA%A4%E6%A1%A5%23&Refer=top)
 
