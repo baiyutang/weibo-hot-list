@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 21:11:13
+## 微博今日热榜 更新于 2021-04-12 22:01:20
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -528,4 +528,20 @@
 1. [广州增城出土古人类遗骸30具](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A2%9E%E5%9F%8E%E5%87%BA%E5%9C%9F%E5%8F%A4%E4%BA%BA%E7%B1%BB%E9%81%97%E9%AA%B830%E5%85%B7%23&Refer=top)
 
 1. [如何看待大城市打拼小城市安家](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%89%93%E6%8B%BC%E5%B0%8F%E5%9F%8E%E5%B8%82%E5%AE%89%E5%AE%B6%23&Refer=top)
+
+1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
+
+1. [菅义伟回应福岛核污水排入大海](https://s.weibo.com//weibo?q=%23%E8%8F%85%E4%B9%89%E4%BC%9F%E5%9B%9E%E5%BA%94%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E5%85%A5%E5%A4%A7%E6%B5%B7%23&Refer=top)
+
+1. [董宏被开除党籍](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AE%8F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&Refer=top)
+
+1. [张彬彬腿长106](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E8%85%BF%E9%95%BF106&Refer=top)
+
+1. [景甜黑纱百花刺绣礼服](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%BB%91%E7%BA%B1%E7%99%BE%E8%8A%B1%E5%88%BA%E7%BB%A3%E7%A4%BC%E6%9C%8D%23&Refer=top)
+
+1. [龚俊 我当然像边牧啦](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E6%88%91%E5%BD%93%E7%84%B6%E5%83%8F%E8%BE%B9%E7%89%A7%E5%95%A6&Refer=top)
+
+1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [张宁关键中投](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AE%81%E5%85%B3%E9%94%AE%E4%B8%AD%E6%8A%95&Refer=top)
 
