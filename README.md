@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 17:01:43
+## 微博今日热榜 更新于 2021-04-12 18:01:31
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -408,4 +408,36 @@
 1. [你的婚礼少年敢MV](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC%E5%B0%91%E5%B9%B4%E6%95%A2MV%23&Refer=top)
 
 1. [警察叔叔太不容易了](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E5%A4%AA%E4%B8%8D%E5%AE%B9%E6%98%93%E4%BA%86%23&Refer=top)
+
+1. [国新办介绍海南自由贸易港建设进展](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%BB%8B%E7%BB%8D%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF%E5%BB%BA%E8%AE%BE%E8%BF%9B%E5%B1%95%23&Refer=new_time)
+
+1. [外交部湖北全球推介会](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%B9%96%E5%8C%97%E5%85%A8%E7%90%83%E6%8E%A8%E4%BB%8B%E4%BC%9A%23&Refer=top)
+
+1. [日本核废水可致癌致畸致突变](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E5%8F%AF%E8%87%B4%E7%99%8C%E8%87%B4%E7%95%B8%E8%87%B4%E7%AA%81%E5%8F%98%23&Refer=top)
+
+1. [孙怡妈妈征集女儿表情包](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E5%A6%88%E5%A6%88%E5%BE%81%E9%9B%86%E5%A5%B3%E5%84%BF%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [刘若英心疼王源](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E5%BF%83%E7%96%BC%E7%8E%8B%E6%BA%90%23&Refer=top)
+
+1. [迪士尼早就想好了](https://s.weibo.com//weibo?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%97%A9%E5%B0%B1%E6%83%B3%E5%A5%BD%E4%BA%86&Refer=top)
+
+1. [龚俊万一粉丝三千万会出唱片](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%B8%87%E4%B8%80%E7%B2%89%E4%B8%9D%E4%B8%89%E5%8D%83%E4%B8%87%E4%BC%9A%E5%87%BA%E5%94%B1%E7%89%87&Refer=top)
+
+1. [外卖员被救护车二次碾压](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E6%95%91%E6%8A%A4%E8%BD%A6%E4%BA%8C%E6%AC%A1%E7%A2%BE%E5%8E%8B%23&Refer=top)
+
+1. [美国波特兰爆发抗议](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B3%A2%E7%89%B9%E5%85%B0%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%23&Refer=top)
+
+1. [货拉拉强制司机贴车身广告](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E5%BC%BA%E5%88%B6%E5%8F%B8%E6%9C%BA%E8%B4%B4%E8%BD%A6%E8%BA%AB%E5%B9%BF%E5%91%8A%23&Refer=top)
+
+1. [看完恰好是少年后想去旅游](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E5%AE%8C%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4%E5%90%8E%E6%83%B3%E5%8E%BB%E6%97%85%E6%B8%B8%23&Refer=top)
+
+1. [二手书上遇到的有趣文字](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E6%89%8B%E4%B9%A6%E4%B8%8A%E9%81%87%E5%88%B0%E7%9A%84%E6%9C%89%E8%B6%A3%E6%96%87%E5%AD%97%23&Refer=top)
+
+1. [黑猫警长的真名](https://s.weibo.com//weibo?q=%E9%BB%91%E7%8C%AB%E8%AD%A6%E9%95%BF%E7%9A%84%E7%9C%9F%E5%90%8D&Refer=top)
+
+1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=top)
+
+1. [如何说服长辈打疫苗](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%B4%E6%9C%8D%E9%95%BF%E8%BE%88%E6%89%93%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [春日爆汁杨枝甘露杯](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E7%88%86%E6%B1%81%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%E6%9D%AF%23&Refer=top)
 
