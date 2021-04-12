@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 07:02:16
+## 微博今日热榜 更新于 2021-04-12 08:03:36
 1. [多地启用Z字形斑马线](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%90%AF%E7%94%A8Z%E5%AD%97%E5%BD%A2%E6%96%91%E9%A9%AC%E7%BA%BF%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -120,4 +120,40 @@
 1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [妈妈你真好看阵容](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E4%BD%A0%E7%9C%9F%E5%A5%BD%E7%9C%8B%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [景区充电宝1小时10元](https://s.weibo.com//weibo?q=%23%E6%99%AF%E5%8C%BA%E5%85%85%E7%94%B5%E5%AE%9D1%E5%B0%8F%E6%97%B610%E5%85%83%23&Refer=top)
+
+1. [马丽曾患抑郁症](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%B8%BD%E6%9B%BE%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87&Refer=top)
+
+1. [30岁没结婚你会考虑将就吗](https://s.weibo.com//weibo?q=%2330%E5%B2%81%E6%B2%A1%E7%BB%93%E5%A9%9A%E4%BD%A0%E4%BC%9A%E8%80%83%E8%99%91%E5%B0%86%E5%B0%B1%E5%90%97%23&Refer=top)
+
+1. [利路修手链上挂着挖耳勺](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E6%89%8B%E9%93%BE%E4%B8%8A%E6%8C%82%E7%9D%80%E6%8C%96%E8%80%B3%E5%8B%BA%23&Refer=top)
+
+1. [专家回应打疫苗可不可以再等等](https://s.weibo.com//weibo?q=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%89%93%E7%96%AB%E8%8B%97%E5%8F%AF%E4%B8%8D%E5%8F%AF%E4%BB%A5%E5%86%8D%E7%AD%89%E7%AD%89&Refer=top)
+
+1. [美政府将召集芯片峰会](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%B0%86%E5%8F%AC%E9%9B%86%E8%8A%AF%E7%89%87%E5%B3%B0%E4%BC%9A%23&Refer=top)
+
+1. [怀斯曼半月板撕裂](https://s.weibo.com//weibo?q=%E6%80%80%E6%96%AF%E6%9B%BC%E5%8D%8A%E6%9C%88%E6%9D%BF%E6%92%95%E8%A3%82&Refer=top)
+
+1. [云南现有确诊90例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A90%E4%BE%8B%23&Refer=top)
+
+1. [法国葡萄酒行业预计损失50%产量](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E8%91%A1%E8%90%84%E9%85%92%E8%A1%8C%E4%B8%9A%E9%A2%84%E8%AE%A1%E6%8D%9F%E5%A4%B150%25%E4%BA%A7%E9%87%8F&Refer=top)
+
+1. [11名中国航天员飞天名场面](https://s.weibo.com//weibo?q=%2311%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [日本小伙用鼻子吃面](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E4%BC%99%E7%94%A8%E9%BC%BB%E5%AD%90%E5%90%83%E9%9D%A2%23&Refer=top)
+
+1. [上海地铁](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81&Refer=top)
+
+1. [吴世勋帮粉丝买单](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%B8%AE%E7%B2%89%E4%B8%9D%E4%B9%B0%E5%8D%95%23&Refer=top)
+
+1. [福岛民众集会反对政府排核污水入海](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%B2%9B%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%94%BF%E5%BA%9C%E6%8E%92%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%85%A5%E6%B5%B7&Refer=top)
+
+1. [取下眼镜后的你](https://s.weibo.com//weibo?q=%23%E5%8F%96%E4%B8%8B%E7%9C%BC%E9%95%9C%E5%90%8E%E7%9A%84%E4%BD%A0%23&Refer=top)
+
+1. [胡杏儿三胎儿子正脸照](https://s.weibo.com//weibo?q=%E8%83%A1%E6%9D%8F%E5%84%BF%E4%B8%89%E8%83%8E%E5%84%BF%E5%AD%90%E6%AD%A3%E8%84%B8%E7%85%A7&Refer=top)
+
+1. [小舍得](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97&Refer=top)
+
+1. [女子种睫毛引起眼部螨虫感染](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%8D%E7%9D%AB%E6%AF%9B%E5%BC%95%E8%B5%B7%E7%9C%BC%E9%83%A8%E8%9E%A8%E8%99%AB%E6%84%9F%E6%9F%93%23&Refer=top)
 
