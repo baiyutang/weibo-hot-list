@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 02:10:37
+## 微博今日热榜 更新于 2021-04-14 03:06:05
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [王霜说落后时想冲也要冲垮韩国队](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%9C%E8%AF%B4%E8%90%BD%E5%90%8E%E6%97%B6%E6%83%B3%E5%86%B2%E4%B9%9F%E8%A6%81%E5%86%B2%E5%9E%AE%E9%9F%A9%E5%9B%BD%E9%98%9F%23&Refer=top)
 
 1. [高中学生军训教学大纲](https://s.weibo.com//weibo?q=%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%86%9B%E8%AE%AD%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2&Refer=top)
+
+1. [城区常住人口300万以下城市取消落户限制](https://s.weibo.com//weibo?q=%23%E5%9F%8E%E5%8C%BA%E5%B8%B8%E4%BD%8F%E4%BA%BA%E5%8F%A3300%E4%B8%87%E4%BB%A5%E4%B8%8B%E5%9F%8E%E5%B8%82%E5%8F%96%E6%B6%88%E8%90%BD%E6%88%B7%E9%99%90%E5%88%B6%23&Refer=new_time)
+
+1. [你有多久没有静下心看书了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E4%B9%85%E6%B2%A1%E6%9C%89%E9%9D%99%E4%B8%8B%E5%BF%83%E7%9C%8B%E4%B9%A6%E4%BA%86%23&Refer=top)
 
