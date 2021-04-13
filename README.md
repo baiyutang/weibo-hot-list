@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 08:04:04
+## 微博今日热榜 更新于 2021-04-13 09:25:24
 1. [两年内将有12名中国航天员飞天](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
@@ -150,4 +150,26 @@
 1. [20万吨退役电池大量流入黑市](https://s.weibo.com//weibo?q=20%E4%B8%87%E5%90%A8%E9%80%80%E5%BD%B9%E7%94%B5%E6%B1%A0%E5%A4%A7%E9%87%8F%E6%B5%81%E5%85%A5%E9%BB%91%E5%B8%82&Refer=top)
 
 1. [三亚海胆事件店家称将起诉消费者](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BA%9A%E6%B5%B7%E8%83%86%E4%BA%8B%E4%BB%B6%E5%BA%97%E5%AE%B6%E7%A7%B0%E5%B0%86%E8%B5%B7%E8%AF%89%E6%B6%88%E8%B4%B9%E8%80%85%23&Refer=top)
+
+1. [日本政府要求2年后能开始核废水排海](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%822%E5%B9%B4%E5%90%8E%E8%83%BD%E5%BC%80%E5%A7%8B%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%23&Refer=top)
+
+1. [焦作女教师诉教育局案一审被驳回](https://s.weibo.com//weibo?q=%23%E7%84%A6%E4%BD%9C%E5%A5%B3%E6%95%99%E5%B8%88%E8%AF%89%E6%95%99%E8%82%B2%E5%B1%80%E6%A1%88%E4%B8%80%E5%AE%A1%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [佛山已优化天量罚单高速岔口](https://s.weibo.com//weibo?q=%E4%BD%9B%E5%B1%B1%E5%B7%B2%E4%BC%98%E5%8C%96%E5%A4%A9%E9%87%8F%E7%BD%9A%E5%8D%95%E9%AB%98%E9%80%9F%E5%B2%94%E5%8F%A3&Refer=top)
+
+1. [义乌JK女孩](https://s.weibo.com//weibo?q=%E4%B9%89%E4%B9%8CJK%E5%A5%B3%E5%AD%A9&Refer=top)
+
+1. [男子打110要求加微信接警员秒懂](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93110%E8%A6%81%E6%B1%82%E5%8A%A0%E5%BE%AE%E4%BF%A1%E6%8E%A5%E8%AD%A6%E5%91%98%E7%A7%92%E6%87%82%23&Refer=top)
+
+1. [篮网森林狼比赛延期](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%E6%A3%AE%E6%9E%97%E7%8B%BC%E6%AF%94%E8%B5%9B%E5%BB%B6%E6%9C%9F&Refer=top)
+
+1. [婚礼社死现场](https://s.weibo.com//weibo?q=%E5%A9%9A%E7%A4%BC%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [31省区市新增9例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E9%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [美国小伙扎根武当山学武11年](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E6%89%8E%E6%A0%B9%E6%AD%A6%E5%BD%93%E5%B1%B1%E5%AD%A6%E6%AD%A611%E5%B9%B4&Refer=top)
+
+1. [羊肉涨价近30%](https://s.weibo.com//weibo?q=%23%E7%BE%8A%E8%82%89%E6%B6%A8%E4%BB%B7%E8%BF%9130%25%23&Refer=top)
+
+1. [广州地铁3号线](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF&Refer=top)
 
