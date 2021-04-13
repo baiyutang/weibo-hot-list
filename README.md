@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 12:03:39
+## 微博今日热榜 更新于 2021-04-13 13:05:30
 1. [两年内将有12名中国航天员飞天](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
@@ -234,4 +234,38 @@
 1. [2020年度全国考古十大新发现](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E8%80%83%E5%8F%A4%E5%8D%81%E5%A4%A7%E6%96%B0%E5%8F%91%E7%8E%B0&Refer=top)
 
 1. [剑网3七秀](https://s.weibo.com//weibo?q=%E5%89%91%E7%BD%913%E4%B8%83%E7%A7%80&Refer=top)
+
+1. [刘嘉玲回应删Angelababy好友](https://s.weibo.com//weibo?q=%E5%88%98%E5%98%89%E7%8E%B2%E5%9B%9E%E5%BA%94%E5%88%A0Angelababy%E5%A5%BD%E5%8F%8B&Refer=top)
+
+1. [力丸好像被吸尘器吸走了](https://s.weibo.com//weibo?q=%23%E5%8A%9B%E4%B8%B8%E5%A5%BD%E5%83%8F%E8%A2%AB%E5%90%B8%E5%B0%98%E5%99%A8%E5%90%B8%E8%B5%B0%E4%BA%86%23&Refer=top)
+
+1. [那英 成团出道我是认真的](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%20%E6%88%90%E5%9B%A2%E5%87%BA%E9%81%93%E6%88%91%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84&Refer=top)
+
+1. [汪小菲秒删](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E7%A7%92%E5%88%A0&Refer=top)
+
+1. [张艺兴彭昱畅张子枫春日写真](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BD%AD%E6%98%B1%E7%95%85%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%98%A5%E6%97%A5%E5%86%99%E7%9C%9F%23&Refer=top)
+
+1. [2021胡润40岁以下白手起家富豪榜](https://s.weibo.com//weibo?q=2021%E8%83%A1%E6%B6%A640%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%99%BD%E6%89%8B%E8%B5%B7%E5%AE%B6%E5%AF%8C%E8%B1%AA%E6%A6%9C&Refer=top)
+
+1. [2哥来了怎么办定档](https://s.weibo.com//weibo?q=%232%E5%93%A5%E6%9D%A5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [徐睿知缺席新片发布会](https://s.weibo.com//weibo?q=%E5%BE%90%E7%9D%BF%E7%9F%A5%E7%BC%BA%E5%B8%AD%E6%96%B0%E7%89%87%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [女子闲置5年房屋被前户主出租](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E9%97%B2%E7%BD%AE5%E5%B9%B4%E6%88%BF%E5%B1%8B%E8%A2%AB%E5%89%8D%E6%88%B7%E4%B8%BB%E5%87%BA%E7%A7%9F&Refer=top)
+
+1. [创4COSMO治愈系大片](https://s.weibo.com//weibo?q=%23%E5%88%9B4COSMO%E6%B2%BB%E6%84%88%E7%B3%BB%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [美在全球设有超200个生物实验室](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9C%A8%E5%85%A8%E7%90%83%E8%AE%BE%E6%9C%89%E8%B6%85200%E4%B8%AA%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%23&Refer=top)
+
+1. [猫咪为了配合幼崽有多拼](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BA%86%E9%85%8D%E5%90%88%E5%B9%BC%E5%B4%BD%E6%9C%89%E5%A4%9A%E6%8B%BC%23&Refer=top)
+
+1. [360搜索发布虚假违法广告被罚200万](https://s.weibo.com//weibo?q=%23360%E6%90%9C%E7%B4%A2%E5%8F%91%E5%B8%83%E8%99%9A%E5%81%87%E8%BF%9D%E6%B3%95%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A200%E4%B8%87%23&Refer=top)
+
+1. [慢节奏的生活有多幸福](https://s.weibo.com//weibo?q=%23%E6%85%A2%E8%8A%82%E5%A5%8F%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E5%B9%B8%E7%A6%8F%23&Refer=top)
+
+1. [专家称核废水恐损害人类DNA](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%81%90%E6%8D%9F%E5%AE%B3%E4%BA%BA%E7%B1%BBDNA%23&Refer=top)
+
+1. [八月未央终极预告](https://s.weibo.com//weibo?q=%23%E5%85%AB%E6%9C%88%E6%9C%AA%E5%A4%AE%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [超水嫩减龄蜜桃妆](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%B0%B4%E5%AB%A9%E5%87%8F%E9%BE%84%E8%9C%9C%E6%A1%83%E5%A6%86%23&Refer=top)
 
