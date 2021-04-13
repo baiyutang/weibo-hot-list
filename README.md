@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 20:01:21
+## 微博今日热榜 更新于 2021-04-13 21:08:02
 1. [两年内将有12名中国航天员飞天](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
@@ -490,4 +490,34 @@
 1. [徐睿知经纪公司回应](https://s.weibo.com//weibo?q=%E5%BE%90%E7%9D%BF%E7%9F%A5%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94&Refer=top)
 
 1. [严禁建设丑陋建筑](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E7%A6%81%E5%BB%BA%E8%AE%BE%E4%B8%91%E9%99%8B%E5%BB%BA%E7%AD%91%23&Refer=top)
+
+1. [王嘉尔发现自己没戴口罩后的反应](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [兼职骑手猝死索赔无门妻子发声](https://s.weibo.com//weibo?q=%E5%85%BC%E8%81%8C%E9%AA%91%E6%89%8B%E7%8C%9D%E6%AD%BB%E7%B4%A2%E8%B5%94%E6%97%A0%E9%97%A8%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [李易峰给东风快递点火](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E7%BB%99%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E7%82%B9%E7%81%AB%23&Refer=top)
+
+1. [王霜哭了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%9C%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [多地楼盘烂尾](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%A5%BC%E7%9B%98%E7%83%82%E5%B0%BE%23&Refer=top)
+
+1. [丁辉人新歌MV](https://s.weibo.com//weibo?q=%E4%B8%81%E8%BE%89%E4%BA%BA%E6%96%B0%E6%AD%8CMV&Refer=top)
+
+1. [号手就位](https://s.weibo.com//weibo?q=%E5%8F%B7%E6%89%8B%E5%B0%B1%E4%BD%8D&Refer=top)
+
+1. [高中学生军训教学大纲](https://s.weibo.com//weibo?q=%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%86%9B%E8%AE%AD%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [王霜说落后时想冲也要冲垮韩国队](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%9C%E8%AF%B4%E8%90%BD%E5%90%8E%E6%97%B6%E6%83%B3%E5%86%B2%E4%B9%9F%E8%A6%81%E5%86%B2%E5%9E%AE%E9%9F%A9%E5%9B%BD%E9%98%9F%23&Refer=top)
+
+1. [老师那些让人清醒的话](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BA%BA%E6%B8%85%E9%86%92%E7%9A%84%E8%AF%9D%23&Refer=top)
+
+1. [当爸妈问我怎么不爱说话了](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%88%B8%E5%A6%88%E9%97%AE%E6%88%91%E6%80%8E%E4%B9%88%E4%B8%8D%E7%88%B1%E8%AF%B4%E8%AF%9D%E4%BA%86%23&Refer=top)
+
+1. [CFA成绩](https://s.weibo.com//weibo?q=CFA%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [皓嫣细节](https://s.weibo.com//weibo?q=%23%E7%9A%93%E5%AB%A3%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [心肺复苏列入高中军训教学内容](https://s.weibo.com//weibo?q=%23%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E5%88%97%E5%85%A5%E9%AB%98%E4%B8%AD%E5%86%9B%E8%AE%AD%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9%23&Refer=top)
 
