@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 07:02:02
+## 微博今日热榜 更新于 2021-04-14 08:03:11
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -136,4 +136,44 @@
 1. [新冠疫苗接种你问我答](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E4%BD%A0%E9%97%AE%E6%88%91%E7%AD%94%23&Refer=new_time)
 
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [刘若英 我不想变老但更不想变怪](https://s.weibo.com//weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%20%E6%88%91%E4%B8%8D%E6%83%B3%E5%8F%98%E8%80%81%E4%BD%86%E6%9B%B4%E4%B8%8D%E6%83%B3%E5%8F%98%E6%80%AA&Refer=top)
+
+1. [那英疯狂回关打call团](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E7%96%AF%E7%8B%82%E5%9B%9E%E5%85%B3%E6%89%93call%E5%9B%A2&Refer=top)
+
+1. [日本政府制作放射性氚吉祥物](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%88%B6%E4%BD%9C%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%9A%E5%90%89%E7%A5%A5%E7%89%A9&Refer=top)
+
+1. [私生进时代少年团成员住过酒店房间](https://s.weibo.com//weibo?q=%23%E7%A7%81%E7%94%9F%E8%BF%9B%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%88%90%E5%91%98%E4%BD%8F%E8%BF%87%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%23&Refer=top)
+
+1. [美国叫停强生新冠疫苗接种](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%AB%E5%81%9C%E5%BC%BA%E7%94%9F%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [巴黎淘汰拜仁晋级欧冠四强](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%BB%8E%E6%B7%98%E6%B1%B0%E6%8B%9C%E4%BB%81%E6%99%8B%E7%BA%A7%E6%AC%A7%E5%86%A0%E5%9B%9B%E5%BC%BA&Refer=top)
+
+1. [苹果发布会时间](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4&Refer=top)
+
+1. [五岳散人](https://s.weibo.com//weibo?q=%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA&Refer=top)
+
+1. [理想照耀中国首曝全阵容](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9B%9D%E5%85%A8%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [父母掌控欲强对孩子影响有多大](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E6%8E%8C%E6%8E%A7%E6%AC%B2%E5%BC%BA%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [11年后看玉树](https://s.weibo.com//weibo?q=%2311%E5%B9%B4%E5%90%8E%E7%9C%8B%E7%8E%89%E6%A0%91%23&Refer=top)
+
+1. [福岛核废水放射性同位素可在人体积累](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E7%B4%A0%E5%8F%AF%E5%9C%A8%E4%BA%BA%E4%BD%93%E7%A7%AF%E7%B4%AF%23&Refer=top)
+
+1. [教练骂人的原因找到了](https://s.weibo.com//weibo?q=%23%E6%95%99%E7%BB%83%E9%AA%82%E4%BA%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [玉树地震11周年祭](https://s.weibo.com//weibo?q=%23%E7%8E%89%E6%A0%91%E5%9C%B0%E9%9C%8711%E5%91%A8%E5%B9%B4%E7%A5%AD%23&Refer=top)
+
+1. [小伙陷泥坑报警狂笑逗乐接警员](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E9%99%B7%E6%B3%A5%E5%9D%91%E6%8A%A5%E8%AD%A6%E7%8B%82%E7%AC%91%E9%80%97%E4%B9%90%E6%8E%A5%E8%AD%A6%E5%91%98%23&Refer=top)
+
+1. [高校师生历时一年还原唐墓壁画](https://s.weibo.com//weibo?q=%E9%AB%98%E6%A0%A1%E5%B8%88%E7%94%9F%E5%8E%86%E6%97%B6%E4%B8%80%E5%B9%B4%E8%BF%98%E5%8E%9F%E5%94%90%E5%A2%93%E5%A3%81%E7%94%BB&Refer=top)
+
+1. [多方表态反对日本核废水入海](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E6%96%B9%E8%A1%A8%E6%80%81%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E5%85%A5%E6%B5%B7%23&Refer=top)
+
+1. [瑞金通报红黄蓝幼儿园事件调查处理情况](https://s.weibo.com//weibo?q=%23%E7%91%9E%E9%87%91%E9%80%9A%E6%8A%A5%E7%BA%A2%E9%BB%84%E8%93%9D%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [现实版的活着](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E6%B4%BB%E7%9D%80&Refer=top)
+
+1. [科比退役五周年](https://s.weibo.com//weibo?q=%23%E7%A7%91%E6%AF%94%E9%80%80%E5%BD%B9%E4%BA%94%E5%91%A8%E5%B9%B4%23&Refer=top)
 
