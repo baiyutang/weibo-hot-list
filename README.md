@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 00:02:02
+## 微博今日热榜 更新于 2021-04-15 01:15:37
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [预备特战女兵闯鬼屋喊biubiubiu](https://s.weibo.com//weibo?q=%23%E9%A2%84%E5%A4%87%E7%89%B9%E6%88%98%E5%A5%B3%E5%85%B5%E9%97%AF%E9%AC%BC%E5%B1%8B%E5%96%8Abiubiubiu%23&Refer=top)
 
 1. [白玉丸子豆乳抱抱卷](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%89%E4%B8%B8%E5%AD%90%E8%B1%86%E4%B9%B3%E6%8A%B1%E6%8A%B1%E5%8D%B7%23&Refer=top)
+
+1. [我们是地球生命共同体](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E6%98%AF%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93%23&Refer=new_time)
+
+1. [吴磊哭戏代入感](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%93%AD%E6%88%8F%E4%BB%A3%E5%85%A5%E6%84%9F%23&Refer=top)
+
+1. [长歌行超前点播](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD&Refer=top)
 
