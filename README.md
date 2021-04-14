@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 09:23:38
+## 微博今日热榜 更新于 2021-04-14 10:18:11
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -206,4 +206,20 @@
 1. [长歌行运镜仰拍迪丽热巴](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E8%BF%90%E9%95%9C%E4%BB%B0%E6%8B%8D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&Refer=top)
 
 1. [40城人均收入排行](https://s.weibo.com//weibo?q=%2340%E5%9F%8E%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E6%8E%92%E8%A1%8C%23&Refer=top)
+
+1. [张雨绮李柄熹街头手牵手](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%9D%8E%E6%9F%84%E7%86%B9%E8%A1%97%E5%A4%B4%E6%89%8B%E7%89%B5%E6%89%8B&Refer=top)
+
+1. [52岁失主为20岁小偷求情](https://s.weibo.com//weibo?q=%2352%E5%B2%81%E5%A4%B1%E4%B8%BB%E4%B8%BA20%E5%B2%81%E5%B0%8F%E5%81%B7%E6%B1%82%E6%83%85%23&Refer=top)
+
+1. [河北一00后拒服兵役被罚3.8万](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%8000%E5%90%8E%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A3.8%E4%B8%87%23&Refer=top)
+
+1. [张哲瀚 爱就在这片天地中](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E7%88%B1%E5%B0%B1%E5%9C%A8%E8%BF%99%E7%89%87%E5%A4%A9%E5%9C%B0%E4%B8%AD&Refer=top)
+
+1. [印度超两百万人聚集恒河沐浴](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E8%B6%85%E4%B8%A4%E7%99%BE%E4%B8%87%E4%BA%BA%E8%81%9A%E9%9B%86%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4&Refer=top)
+
+1. [日本船东拒付苏伊士运河60亿赔偿](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E8%88%B9%E4%B8%9C%E6%8B%92%E4%BB%98%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B360%E4%BA%BF%E8%B5%94%E5%81%BF&Refer=top)
+
+1. [视频揭美国大型双标现场](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E6%8F%AD%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E5%8F%8C%E6%A0%87%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [华为智能汽车部件已全面推向市场](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E9%83%A8%E4%BB%B6%E5%B7%B2%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%90%91%E5%B8%82%E5%9C%BA&Refer=top)
 
