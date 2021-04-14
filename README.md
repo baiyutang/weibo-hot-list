@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 19:01:02
+## 微博今日热榜 更新于 2021-04-14 20:01:13
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -430,4 +430,18 @@
 1. [刘诗诗宝蓝色露肩蓬蓬裙](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%AE%9D%E8%93%9D%E8%89%B2%E9%9C%B2%E8%82%A9%E8%93%AC%E8%93%AC%E8%A3%99%23&Refer=top)
 
 1. [南京石臼湖枯水期仿若龙猫草原](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%9F%B3%E8%87%BC%E6%B9%96%E6%9E%AF%E6%B0%B4%E6%9C%9F%E4%BB%BF%E8%8B%A5%E9%BE%99%E7%8C%AB%E8%8D%89%E5%8E%9F%23&Refer=top)
+
+1. [任豪回应](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [原来电视剧取名也有套路](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%94%B5%E8%A7%86%E5%89%A7%E5%8F%96%E5%90%8D%E4%B9%9F%E6%9C%89%E5%A5%97%E8%B7%AF%23&Refer=top)
+
+1. [吉野家2020年净亏75亿日元](https://s.weibo.com//weibo?q=%23%E5%90%89%E9%87%8E%E5%AE%B62020%E5%B9%B4%E5%87%80%E4%BA%8F75%E4%BA%BF%E6%97%A5%E5%85%83%23&Refer=top)
+
+1. [日本番茄酱大王停止进口新疆番茄](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%95%AA%E8%8C%84%E9%85%B1%E5%A4%A7%E7%8E%8B%E5%81%9C%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%96%B0%E7%96%86%E7%95%AA%E8%8C%84%23&Refer=top)
+
+1. [更大的罩子](https://s.weibo.com//weibo?q=%E6%9B%B4%E5%A4%A7%E7%9A%84%E7%BD%A9%E5%AD%90&Refer=top)
+
+1. [当闺蜜问我能追你男朋友吗](https://s.weibo.com//weibo?q=%23%E5%BD%93%E9%97%BA%E8%9C%9C%E9%97%AE%E6%88%91%E8%83%BD%E8%BF%BD%E4%BD%A0%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%90%97%23&Refer=top)
+
+1. [文在寅欲起诉日本核污水入海](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%9C%A8%E5%AF%85%E6%AC%B2%E8%B5%B7%E8%AF%89%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%85%A5%E6%B5%B7%23&Refer=top)
 
