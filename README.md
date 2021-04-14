@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 08:03:11
+## 微博今日热榜 更新于 2021-04-14 09:23:38
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -176,4 +176,34 @@
 1. [现实版的活着](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E6%B4%BB%E7%9D%80&Refer=top)
 
 1. [科比退役五周年](https://s.weibo.com//weibo?q=%23%E7%A7%91%E6%AF%94%E9%80%80%E5%BD%B9%E4%BA%94%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [日本副首相称喝处理核废水没事](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%AF%E9%A6%96%E7%9B%B8%E7%A7%B0%E5%96%9D%E5%A4%84%E7%90%86%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%B2%A1%E4%BA%8B%23&Refer=top)
+
+1. [丁真客串出演电影](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%AE%A2%E4%B8%B2%E5%87%BA%E6%BC%94%E7%94%B5%E5%BD%B1%23&Refer=top)
+
+1. [强森有意向竞选美国总统](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E6%A3%AE%E6%9C%89%E6%84%8F%E5%90%91%E7%AB%9E%E9%80%89%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23&Refer=top)
+
+1. [龚俊 展示一下刚安装的四肢](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E5%B1%95%E7%A4%BA%E4%B8%80%E4%B8%8B%E5%88%9A%E5%AE%89%E8%A3%85%E7%9A%84%E5%9B%9B%E8%82%A2&Refer=top)
+
+1. [白岩松下场打脸白岩松高仿号](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E4%B8%8B%E5%9C%BA%E6%89%93%E8%84%B8%E7%99%BD%E5%B2%A9%E6%9D%BE%E9%AB%98%E4%BB%BF%E5%8F%B7%23&Refer=top)
+
+1. [郭艾伦无缘常规赛MVP候选名单](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E6%97%A0%E7%BC%98%E5%B8%B8%E8%A7%84%E8%B5%9BMVP%E5%80%99%E9%80%89%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [蒋欣让田雨岚快闭嘴](https://s.weibo.com//weibo?q=%E8%92%8B%E6%AC%A3%E8%AE%A9%E7%94%B0%E9%9B%A8%E5%B2%9A%E5%BF%AB%E9%97%AD%E5%98%B4&Refer=top)
+
+1. [云南新增确诊病例1例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B1%E4%BE%8B%23&Refer=top)
+
+1. [狗狗币](https://s.weibo.com//weibo?q=%E7%8B%97%E7%8B%97%E5%B8%81&Refer=top)
+
+1. [龚俊打架子鼓](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%89%93%E6%9E%B6%E5%AD%90%E9%BC%93%23&Refer=top)
+
+1. [项思醒](https://s.weibo.com//weibo?q=%E9%A1%B9%E6%80%9D%E9%86%92&Refer=top)
+
+1. [张哲瀚跳舞 制服空气歹徒](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E8%B7%B3%E8%88%9E%20%E5%88%B6%E6%9C%8D%E7%A9%BA%E6%B0%94%E6%AD%B9%E5%BE%92&Refer=top)
+
+1. [2000多年西汉铜镜仍光可鉴人](https://s.weibo.com//weibo?q=%232000%E5%A4%9A%E5%B9%B4%E8%A5%BF%E6%B1%89%E9%93%9C%E9%95%9C%E4%BB%8D%E5%85%89%E5%8F%AF%E9%89%B4%E4%BA%BA%23&Refer=top)
+
+1. [长歌行运镜仰拍迪丽热巴](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E8%BF%90%E9%95%9C%E4%BB%B0%E6%8B%8D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&Refer=top)
+
+1. [40城人均收入排行](https://s.weibo.com//weibo?q=%2340%E5%9F%8E%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E6%8E%92%E8%A1%8C%23&Refer=top)
 
