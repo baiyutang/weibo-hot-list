@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 10:18:11
+## 微博今日热榜 更新于 2021-04-14 11:05:23
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -222,4 +222,24 @@
 1. [视频揭美国大型双标现场](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E6%8F%AD%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E5%8F%8C%E6%A0%87%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
 1. [华为智能汽车部件已全面推向市场](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E9%83%A8%E4%BB%B6%E5%B7%B2%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%90%91%E5%B8%82%E5%9C%BA&Refer=top)
+
+1. [吊带背心秒变短裙](https://s.weibo.com//weibo?q=%E5%90%8A%E5%B8%A6%E8%83%8C%E5%BF%83%E7%A7%92%E5%8F%98%E7%9F%AD%E8%A3%99&Refer=top)
+
+1. [北京城区共享单车不得超80万辆](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%9F%8E%E5%8C%BA%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E4%B8%8D%E5%BE%97%E8%B6%8580%E4%B8%87%E8%BE%86&Refer=top)
+
+1. [和平精英](https://s.weibo.com//weibo?q=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1&Refer=top)
+
+1. [罗永浩再被强制执行](https://s.weibo.com//weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%86%8D%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&Refer=top)
+
+1. [酒店回应私生进时代少年团房间打卡](https://s.weibo.com//weibo?q=%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E7%A7%81%E7%94%9F%E8%BF%9B%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%88%BF%E9%97%B4%E6%89%93%E5%8D%A1&Refer=top)
+
+1. [猫咪生气图鉴](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%AA%E7%94%9F%E6%B0%94%E5%9B%BE%E9%89%B4&Refer=top)
+
+1. [埃及扣押长赐号索赔9亿美元](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E6%89%A3%E6%8A%BC%E9%95%BF%E8%B5%90%E5%8F%B7%E7%B4%A2%E8%B5%949%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [谭谈交通](https://s.weibo.com//weibo?q=%E8%B0%AD%E8%B0%88%E4%BA%A4%E9%80%9A&Refer=top)
+
+1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top)
+
+1. [库兹马隔扣](https://s.weibo.com//weibo?q=%23%E5%BA%93%E5%85%B9%E9%A9%AC%E9%9A%94%E6%89%A3%23&Refer=top)
 
