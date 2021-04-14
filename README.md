@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 14:01:45
+## 微博今日热榜 更新于 2021-04-14 15:03:54
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -304,4 +304,30 @@
 1. [81岁老人坚持20年跑400米](https://s.weibo.com//weibo?q=%2381%E5%B2%81%E8%80%81%E4%BA%BA%E5%9D%9A%E6%8C%8120%E5%B9%B4%E8%B7%91400%E7%B1%B3%23&Refer=top)
 
 1. [生活中的期待感有多重要](https://s.weibo.com//weibo?q=%23%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E6%9C%9F%E5%BE%85%E6%84%9F%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [杨洋 yyds什么意思](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B4%8B%20yyds%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D&Refer=top)
+
+1. [董明珠 不用性别差异解决问题](https://s.weibo.com//weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E4%B8%8D%E7%94%A8%E6%80%A7%E5%88%AB%E5%B7%AE%E5%BC%82%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98&Refer=top)
+
+1. [徐贤 愿所有人都只有好事发生](https://s.weibo.com//weibo?q=%E5%BE%90%E8%B4%A4%20%E6%84%BF%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%8F%AA%E6%9C%89%E5%A5%BD%E4%BA%8B%E5%8F%91%E7%94%9F&Refer=top)
+
+1. [罗一舟 可以不给我的脚特写吗](https://s.weibo.com//weibo?q=%E7%BD%97%E4%B8%80%E8%88%9F%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%99%E6%88%91%E7%9A%84%E8%84%9A%E7%89%B9%E5%86%99%E5%90%97&Refer=top)
+
+1. [美国禁止日本食品进入](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E8%BF%9B%E5%85%A5%23&Refer=top)
+
+1. [警方妇联介入5年4次起诉离婚被驳事件](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%A6%87%E8%81%94%E4%BB%8B%E5%85%A55%E5%B9%B44%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [郭艾伦回应落选MVP候选人](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%9B%9E%E5%BA%94%E8%90%BD%E9%80%89MVP%E5%80%99%E9%80%89%E4%BA%BA%23&Refer=top)
+
+1. [韩寒 我属于初代流量](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%AF%92%20%E6%88%91%E5%B1%9E%E4%BA%8E%E5%88%9D%E4%BB%A3%E6%B5%81%E9%87%8F&Refer=top)
+
+1. [给你一天时间变成异性你会](https://s.weibo.com//weibo?q=%23%E7%BB%99%E4%BD%A0%E4%B8%80%E5%A4%A9%E6%97%B6%E9%97%B4%E5%8F%98%E6%88%90%E5%BC%82%E6%80%A7%E4%BD%A0%E4%BC%9A%23&Refer=top)
+
+1. [我看不懂但是我大受震撼](https://s.weibo.com//weibo?q=%E6%88%91%E7%9C%8B%E4%B8%8D%E6%87%82%E4%BD%86%E6%98%AF%E6%88%91%E5%A4%A7%E5%8F%97%E9%9C%87%E6%92%BC&Refer=top)
+
+1. [龚俊为王鸥打call](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%B8%BA%E7%8E%8B%E9%B8%A5%E6%89%93call&Refer=top)
+
+1. [陈建斌蒋勤勤吵架又好笑又好气](https://s.weibo.com//weibo?q=%E9%99%88%E5%BB%BA%E6%96%8C%E8%92%8B%E5%8B%A4%E5%8B%A4%E5%90%B5%E6%9E%B6%E5%8F%88%E5%A5%BD%E7%AC%91%E5%8F%88%E5%A5%BD%E6%B0%94&Refer=top)
+
+1. [和喜欢的人去看夕阳](https://s.weibo.com//weibo?q=%E5%92%8C%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E5%8E%BB%E7%9C%8B%E5%A4%95%E9%98%B3&Refer=top)
 
