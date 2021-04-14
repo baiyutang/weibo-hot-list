@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 18:01:18
+## 微博今日热榜 更新于 2021-04-14 19:01:02
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -406,4 +406,28 @@
 1. [便当必备肥牛芦笋卷](https://s.weibo.com//weibo?q=%23%E4%BE%BF%E5%BD%93%E5%BF%85%E5%A4%87%E8%82%A5%E7%89%9B%E8%8A%A6%E7%AC%8B%E5%8D%B7%23&Refer=top)
 
 1. [柱子上的青你3训练生](https://s.weibo.com//weibo?q=%E6%9F%B1%E5%AD%90%E4%B8%8A%E7%9A%84%E9%9D%92%E4%BD%A03%E8%AE%AD%E7%BB%83%E7%94%9F&Refer=top)
+
+1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
+
+1. [任豪](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA&Refer=top)
+
+1. [任豪这是在干什么](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%E8%BF%99%E6%98%AF%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88&Refer=top)
+
+1. [教资笔试成绩](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%84%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [三月三](https://s.weibo.com//weibo?q=%E4%B8%89%E6%9C%88%E4%B8%89&Refer=top)
+
+1. [核废水中放射性物质危害有多大](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%E4%B8%AD%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [陈伟霆橙色头发](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%A9%99%E8%89%B2%E5%A4%B4%E5%8F%91%23&Refer=top)
+
+1. [装逼撞到你擅长的领域](https://s.weibo.com//weibo?q=%23%E8%A3%85%E9%80%BC%E6%92%9E%E5%88%B0%E4%BD%A0%E6%93%85%E9%95%BF%E7%9A%84%E9%A2%86%E5%9F%9F%23&Refer=top)
+
+1. [这就是小说女主的婚纱吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%B0%8F%E8%AF%B4%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%A9%9A%E7%BA%B1%E5%90%A7%23&Refer=top)
+
+1. [百变焖菜公式](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%8F%98%E7%84%96%E8%8F%9C%E5%85%AC%E5%BC%8F%23&Refer=top)
+
+1. [刘诗诗宝蓝色露肩蓬蓬裙](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%AE%9D%E8%93%9D%E8%89%B2%E9%9C%B2%E8%82%A9%E8%93%AC%E8%93%AC%E8%A3%99%23&Refer=top)
+
+1. [南京石臼湖枯水期仿若龙猫草原](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%9F%B3%E8%87%BC%E6%B9%96%E6%9E%AF%E6%B0%B4%E6%9C%9F%E4%BB%BF%E8%8B%A5%E9%BE%99%E7%8C%AB%E8%8D%89%E5%8E%9F%23&Refer=top)
 
