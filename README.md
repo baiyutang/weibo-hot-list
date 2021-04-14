@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 06:01:17
+## 微博今日热榜 更新于 2021-04-15 07:01:36
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [张馨予力挺部队心理医生](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%8A%9B%E6%8C%BA%E9%83%A8%E9%98%9F%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F%23&Refer=top)
 
 1. [美国禁止日本食品进入](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E9%A3%9F%E5%93%81%E8%BF%9B%E5%85%A5%23&Refer=top)
+
+1. [中国足额缴纳2021年联合国会费](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E9%A2%9D%E7%BC%B4%E7%BA%B32021%E5%B9%B4%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%B4%B9%23&Refer=top)
 
