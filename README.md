@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 11:05:23
+## 微博今日热榜 更新于 2021-04-14 12:01:13
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -242,4 +242,24 @@
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top)
 
 1. [库兹马隔扣](https://s.weibo.com//weibo?q=%23%E5%BA%93%E5%85%B9%E9%A9%AC%E9%9A%94%E6%89%A3%23&Refer=top)
+
+1. [杨紫眼神](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E7%9C%BC%E7%A5%9E&Refer=top)
+
+1. [瑞典环保少女态度含糊回应日本事件](https://s.weibo.com//weibo?q=%23%E7%91%9E%E5%85%B8%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E6%80%81%E5%BA%A6%E5%90%AB%E7%B3%8A%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [小舍得 焦虑](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97%20%E7%84%A6%E8%99%91&Refer=top)
+
+1. [女心理师全员面部特写](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88%E5%85%A8%E5%91%98%E9%9D%A2%E9%83%A8%E7%89%B9%E5%86%99%23&Refer=top)
+
+1. [大一男生橄榄核雕西游记](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%B8%80%E7%94%B7%E7%94%9F%E6%A9%84%E6%A6%84%E6%A0%B8%E9%9B%95%E8%A5%BF%E6%B8%B8%E8%AE%B0&Refer=top)
+
+1. [公交车上的尴尬经历](https://s.weibo.com//weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%23&Refer=top)
+
+1. [交个朋友回应罗永浩再被强制执行](https://s.weibo.com//weibo?q=%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%86%8D%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&Refer=top)
+
+1. [上海一公司为诈骗分子制作专用App](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%85%AC%E5%8F%B8%E4%B8%BA%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E5%88%B6%E4%BD%9C%E4%B8%93%E7%94%A8App&Refer=top)
+
+1. [江苏一中巴与货车相撞致5死10伤](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E4%B8%AD%E5%B7%B4%E4%B8%8E%E8%B4%A7%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B45%E6%AD%BB10%E4%BC%A4%23&Refer=top)
+
+1. [剑网3校服](https://s.weibo.com//weibo?q=%E5%89%91%E7%BD%913%E6%A0%A1%E6%9C%8D&Refer=top)
 
