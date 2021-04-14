@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 21:06:27
+## 微博今日热榜 更新于 2021-04-14 22:01:08
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -468,4 +468,30 @@
 1. [肖战晒武汉长江大桥夜景照](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E6%99%92%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%A4%9C%E6%99%AF%E7%85%A7&Refer=top)
 
 1. [壮族小朋友的节日装扮](https://s.weibo.com//weibo?q=%23%E5%A3%AE%E6%97%8F%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E8%8A%82%E6%97%A5%E8%A3%85%E6%89%AE%23&Refer=top)
+
+1. [李长歌终于穿女装了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E7%BB%88%E4%BA%8E%E7%A9%BF%E5%A5%B3%E8%A3%85%E4%BA%86%23&Refer=top)
+
+1. [赵立坚播放FBI前翻译涉疆采访视频](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%AB%8B%E5%9D%9A%E6%92%AD%E6%94%BEFBI%E5%89%8D%E7%BF%BB%E8%AF%91%E6%B6%89%E7%96%86%E9%87%87%E8%AE%BF%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [江歌妈妈起诉刘鑫案明日开庭](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E5%88%98%E9%91%AB%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD%23&Refer=top)
+
+1. [多地渔民捞到境外间谍装置](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%B8%94%E6%B0%91%E6%8D%9E%E5%88%B0%E5%A2%83%E5%A4%96%E9%97%B4%E8%B0%8D%E8%A3%85%E7%BD%AE%23&Refer=top)
+
+1. [张柏芝 这一次我想为自己拼](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E8%BF%99%E4%B8%80%E6%AC%A1%E6%88%91%E6%83%B3%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8B%BC&Refer=top)
+
+1. [王志文力挺任豪](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%BF%97%E6%96%87%E5%8A%9B%E6%8C%BA%E4%BB%BB%E8%B1%AA&Refer=top)
+
+1. [直男是怎么切蛋糕的](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E7%94%B7%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%87%E8%9B%8B%E7%B3%95%E7%9A%84%23&Refer=top)
+
+1. [日本大叔讲核废水排海危害](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%8F%94%E8%AE%B2%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%8D%B1%E5%AE%B3%23&Refer=top)
+
+1. [张柏芝打call团](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%89%93call%E5%9B%A2%23&Refer=top)
+
+1. [微信群调侃领导彩旗飘飘被开除](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%B0%83%E4%BE%83%E9%A2%86%E5%AF%BC%E5%BD%A9%E6%97%97%E9%A3%98%E9%A3%98%E8%A2%AB%E5%BC%80%E9%99%A4%23&Refer=top)
+
+1. [央行工作论文称应全面放开和鼓励生育](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%B7%A5%E4%BD%9C%E8%AE%BA%E6%96%87%E7%A7%B0%E5%BA%94%E5%85%A8%E9%9D%A2%E6%94%BE%E5%BC%80%E5%92%8C%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2%23&Refer=top)
+
+1. [商场擅用钟南山形象做广告被罚20万](https://s.weibo.com//weibo?q=%23%E5%95%86%E5%9C%BA%E6%93%85%E7%94%A8%E9%92%9F%E5%8D%97%E5%B1%B1%E5%BD%A2%E8%B1%A1%E5%81%9A%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A20%E4%B8%87%23&Refer=top)
+
+1. [纸巾盒可以有多沙雕](https://s.weibo.com//weibo?q=%23%E7%BA%B8%E5%B7%BE%E7%9B%92%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%B2%99%E9%9B%95%23&Refer=top)
 
