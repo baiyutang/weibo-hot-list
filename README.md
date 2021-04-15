@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 17:01:22
+## 微博今日热榜 更新于 2021-04-15 18:01:32
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -390,4 +390,50 @@
 1. [将图案印在头发上](https://s.weibo.com//weibo?q=%23%E5%B0%86%E5%9B%BE%E6%A1%88%E5%8D%B0%E5%9C%A8%E5%A4%B4%E5%8F%91%E4%B8%8A%23&Refer=top)
 
 1. [油价或迎年内首次搁浅](https://s.weibo.com//weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%88%96%E8%BF%8E%E5%B9%B4%E5%86%85%E9%A6%96%E6%AC%A1%E6%90%81%E6%B5%85%23&Refer=top)
+
+1. [平安中国成绩单](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%AE%89%E4%B8%AD%E5%9B%BD%E6%88%90%E7%BB%A9%E5%8D%95%23&Refer=new_time)
+
+1. [赵立坚说拿锤子的人看什么都像钉子](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E6%8B%BF%E9%94%A4%E5%AD%90%E7%9A%84%E4%BA%BA%E7%9C%8B%E4%BB%80%E4%B9%88%E9%83%BD%E5%83%8F%E9%92%89%E5%AD%90%23&Refer=top)
+
+1. [龚俊张慧雯吻戏](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%90%BB%E6%88%8F%23&Refer=top)
+
+1. [丁真西装路透](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%E8%A5%BF%E8%A3%85%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [岳云鹏 这不是货运分鹏是本鹏](https://s.weibo.com//weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E8%BF%99%E4%B8%8D%E6%98%AF%E8%B4%A7%E8%BF%90%E5%88%86%E9%B9%8F%E6%98%AF%E6%9C%AC%E9%B9%8F&Refer=top)
+
+1. [小米申请注册米车商标](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%E7%B1%B3%E8%BD%A6%E5%95%86%E6%A0%87&Refer=top)
+
+1. [男子5次减刑出狱后又杀人](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%905%E6%AC%A1%E5%87%8F%E5%88%91%E5%87%BA%E7%8B%B1%E5%90%8E%E5%8F%88%E6%9D%80%E4%BA%BA&Refer=top)
+
+1. [江歌母亲不同意调解](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E4%B8%8D%E5%90%8C%E6%84%8F%E8%B0%83%E8%A7%A3%23&Refer=top)
+
+1. [你好火焰蓝片花](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E7%81%AB%E7%84%B0%E8%93%9D%E7%89%87%E8%8A%B1%23&Refer=top)
+
+1. [外交部回应日本催中国实现碳中和](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%82%AC%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%A2%B3%E4%B8%AD%E5%92%8C%23&Refer=top)
+
+1. [利路修直播](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [校方回应小卖部租赁拍出320万天价](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%8D%96%E9%83%A8%E7%A7%9F%E8%B5%81%E6%8B%8D%E5%87%BA320%E4%B8%87%E5%A4%A9%E4%BB%B7%23&Refer=top)
+
+1. [北京不仅沙尘还有雨水](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8D%E4%BB%85%E6%B2%99%E5%B0%98%E8%BF%98%E6%9C%89%E9%9B%A8%E6%B0%B4%23&Refer=top)
+
+1. [张根硕瘦好多](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A0%B9%E7%A1%95%E7%98%A6%E5%A5%BD%E5%A4%9A%23&Refer=top)
+
+1. [出版社回应小猪唏哩呼噜内容引争议](https://s.weibo.com//weibo?q=%23%E5%87%BA%E7%89%88%E7%A4%BE%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%8C%AA%E5%94%8F%E5%93%A9%E5%91%BC%E5%99%9C%E5%86%85%E5%AE%B9%E5%BC%95%E4%BA%89%E8%AE%AE%23&Refer=top)
+
+1. [lukebaby](https://s.weibo.com//weibo?q=lukebaby&Refer=top)
+
+1. [天津沙尘暴](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E6%B2%99%E5%B0%98%E6%9A%B4&Refer=top)
+
+1. [吴尊友说提高接种率才能优先打开国门](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E8%AF%B4%E6%8F%90%E9%AB%98%E6%8E%A5%E7%A7%8D%E7%8E%87%E6%89%8D%E8%83%BD%E4%BC%98%E5%85%88%E6%89%93%E5%BC%80%E5%9B%BD%E9%97%A8%23&Refer=top)
+
+1. [我国首艘有破冰功能大型航标船下水](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E6%9C%89%E7%A0%B4%E5%86%B0%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%9E%8B%E8%88%AA%E6%A0%87%E8%88%B9%E4%B8%8B%E6%B0%B4%23&Refer=top)
+
+1. [名侦探学院第四季开播](https://s.weibo.com//weibo?q=%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%AD%A6%E9%99%A2%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BC%80%E6%92%AD&Refer=top)
+
+1. [佳木斯现串状不明飞行物](https://s.weibo.com//weibo?q=%E4%BD%B3%E6%9C%A8%E6%96%AF%E7%8E%B0%E4%B8%B2%E7%8A%B6%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
+
+1. [澳大利亚将从阿富汗撤军](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%B0%86%E4%BB%8E%E9%98%BF%E5%AF%8C%E6%B1%97%E6%92%A4%E5%86%9B%23&Refer=top)
 
