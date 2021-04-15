@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 22:01:15
+## 微博今日热榜 更新于 2021-04-15 23:01:20
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -536,4 +536,32 @@
 1. [马克龙重申2024年完成巴黎圣母院重建](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E9%87%8D%E7%94%B32024%E5%B9%B4%E5%AE%8C%E6%88%90%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E9%87%8D%E5%BB%BA%23&Refer=top)
 
 1. [报警电话录下江歌最后一声惨叫](https://s.weibo.com//weibo?q=%23%E6%8A%A5%E8%AD%A6%E7%94%B5%E8%AF%9D%E5%BD%95%E4%B8%8B%E6%B1%9F%E6%AD%8C%E6%9C%80%E5%90%8E%E4%B8%80%E5%A3%B0%E6%83%A8%E5%8F%AB%23&Refer=top)
+
+1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
+
+1. [小舍得 气死](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97%20%E6%B0%94%E6%AD%BB&Refer=top)
+
+1. [外交部召见日本驻华大使提出严正交涉](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%23&Refer=top)
+
+1. [96岁摆摊奶奶停止出摊](https://s.weibo.com//weibo?q=%2396%E5%B2%81%E6%91%86%E6%91%8A%E5%A5%B6%E5%A5%B6%E5%81%9C%E6%AD%A2%E5%87%BA%E6%91%8A%23&Refer=top)
+
+1. [孙俪12天写出第二遍史晨碑](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA12%E5%A4%A9%E5%86%99%E5%87%BA%E7%AC%AC%E4%BA%8C%E9%81%8D%E5%8F%B2%E6%99%A8%E7%A2%91%23&Refer=top)
+
+1. [我一女的都心动了](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%B8%80%E5%A5%B3%E7%9A%84%E9%83%BD%E5%BF%83%E5%8A%A8%E4%BA%86%23&Refer=top)
+
+1. [2025年中石化充换电站达到5000座](https://s.weibo.com//weibo?q=%232025%E5%B9%B4%E4%B8%AD%E7%9F%B3%E5%8C%96%E5%85%85%E6%8D%A2%E7%94%B5%E7%AB%99%E8%BE%BE%E5%88%B05000%E5%BA%A7%23&Refer=top)
+
+1. [滴滴回应司机不帮拿行李订单被取消](https://s.weibo.com//weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%9B%9E%E5%BA%94%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%B8%AE%E6%8B%BF%E8%A1%8C%E6%9D%8E%E8%AE%A2%E5%8D%95%E8%A2%AB%E5%8F%96%E6%B6%88%23&Refer=top)
+
+1. [罗一舟抬眼](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E6%8A%AC%E7%9C%BC%23&Refer=top)
+
+1. [阿尔德里奇退役](https://s.weibo.com//weibo?q=%E9%98%BF%E5%B0%94%E5%BE%B7%E9%87%8C%E5%A5%87%E9%80%80%E5%BD%B9&Refer=top)
+
+1. [网恋奔现可以有多甜](https://s.weibo.com//weibo?q=%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%94%9C&Refer=top)
+
+1. [杭州进入汛期持续6个月](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%BF%9B%E5%85%A5%E6%B1%9B%E6%9C%9F%E6%8C%81%E7%BB%AD6%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [沈梓捷等7人首轮被禁赛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%93%E6%8D%B7%E7%AD%897%E4%BA%BA%E9%A6%96%E8%BD%AE%E8%A2%AB%E7%A6%81%E8%B5%9B&Refer=top)
+
+1. [他在逆光中告白开播](https://s.weibo.com//weibo?q=%23%E4%BB%96%E5%9C%A8%E9%80%86%E5%85%89%E4%B8%AD%E5%91%8A%E7%99%BD%E5%BC%80%E6%92%AD%23&Refer=top)
 
