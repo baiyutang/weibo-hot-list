@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 00:03:06
+## 微博今日热榜 更新于 2021-04-16 01:17:26
 1. [一图读懂生物安全法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [赵立坚说拿锤子的人看什么都像钉子](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E6%8B%BF%E9%94%A4%E5%AD%90%E7%9A%84%E4%BA%BA%E7%9C%8B%E4%BB%80%E4%B9%88%E9%83%BD%E5%83%8F%E9%92%89%E5%AD%90%23&Refer=top)
 
 1. [骊歌行](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [黄圣依杨子的暗号是狗叫](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9A%84%E6%9A%97%E5%8F%B7%E6%98%AF%E7%8B%97%E5%8F%AB%23&Refer=top)
+
+1. [河南宁陵县规定彩礼不超3万元](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%AE%81%E9%99%B5%E5%8E%BF%E8%A7%84%E5%AE%9A%E5%BD%A9%E7%A4%BC%E4%B8%8D%E8%B6%853%E4%B8%87%E5%85%83%23&Refer=top)
 
