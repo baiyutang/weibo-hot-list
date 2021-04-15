@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 18:01:32
+## 微博今日热榜 更新于 2021-04-15 19:01:01
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -436,4 +436,34 @@
 1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
 1. [澳大利亚将从阿富汗撤军](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%B0%86%E4%BB%8E%E9%98%BF%E5%AF%8C%E6%B1%97%E6%92%A4%E5%86%9B%23&Refer=top)
+
+1. [普通人接受男艺人造型后的变化](https://s.weibo.com//weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E6%8E%A5%E5%8F%97%E7%94%B7%E8%89%BA%E4%BA%BA%E9%80%A0%E5%9E%8B%E5%90%8E%E7%9A%84%E5%8F%98%E5%8C%96%23&Refer=top)
+
+1. [利路修 节目结束我可以多点笑](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E8%8A%82%E7%9B%AE%E7%BB%93%E6%9D%9F%E6%88%91%E5%8F%AF%E4%BB%A5%E5%A4%9A%E7%82%B9%E7%AC%91&Refer=top)
+
+1. [吕一集结仙剑家族打call](https://s.weibo.com//weibo?q=%23%E5%90%95%E4%B8%80%E9%9B%86%E7%BB%93%E4%BB%99%E5%89%91%E5%AE%B6%E6%97%8F%E6%89%93call%23&Refer=top)
+
+1. [娜扎演的貂蝉](https://s.weibo.com//weibo?q=%E5%A8%9C%E6%89%8E%E6%BC%94%E7%9A%84%E8%B2%82%E8%9D%89&Refer=top)
+
+1. [60后北大教授的作息表](https://s.weibo.com//weibo?q=%2360%E5%90%8E%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%9A%84%E4%BD%9C%E6%81%AF%E8%A1%A8%23&Refer=top)
+
+1. [美国得州电价再度飙涨100倍](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E7%94%B5%E4%BB%B7%E5%86%8D%E5%BA%A6%E9%A3%99%E6%B6%A8100%E5%80%8D%23&Refer=top)
+
+1. [张慧雯原声台词](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%23&Refer=top)
+
+1. [南风知我意治愈版片花](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E6%B2%BB%E6%84%88%E7%89%88%E7%89%87%E8%8A%B1%23&Refer=top)
+
+1. [女足让看台上的爷们儿哭了](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%B6%B3%E8%AE%A9%E7%9C%8B%E5%8F%B0%E4%B8%8A%E7%9A%84%E7%88%B7%E4%BB%AC%E5%84%BF%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [迪丽热巴任嘉伦摸头杀](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%BB%E5%98%89%E4%BC%A6%E6%91%B8%E5%A4%B4%E6%9D%80%23&Refer=top)
+
+1. [你反感家里来客人吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%8D%E6%84%9F%E5%AE%B6%E9%87%8C%E6%9D%A5%E5%AE%A2%E4%BA%BA%E5%90%97%23&Refer=top)
+
+1. [没说过话的小说作家](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E8%AF%B4%E8%BF%87%E8%AF%9D%E7%9A%84%E5%B0%8F%E8%AF%B4%E4%BD%9C%E5%AE%B6%23&Refer=top)
+
+1. [手被卡在吊环拉手上](https://s.weibo.com//weibo?q=%23%E6%89%8B%E8%A2%AB%E5%8D%A1%E5%9C%A8%E5%90%8A%E7%8E%AF%E6%8B%89%E6%89%8B%E4%B8%8A%23&Refer=top)
+
+1. [胡明轩最佳第六人](https://s.weibo.com//weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%E6%9C%80%E4%BD%B3%E7%AC%AC%E5%85%AD%E4%BA%BA&Refer=top)
+
+1. [网约车司机没帮乘客拿行李被取消订单](https://s.weibo.com//weibo?q=%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%B2%A1%E5%B8%AE%E4%B9%98%E5%AE%A2%E6%8B%BF%E8%A1%8C%E6%9D%8E%E8%A2%AB%E5%8F%96%E6%B6%88%E8%AE%A2%E5%8D%95&Refer=top)
 
