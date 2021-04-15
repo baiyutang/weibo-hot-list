@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 21:07:06
+## 微博今日热榜 更新于 2021-04-15 22:01:15
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -512,4 +512,28 @@
 1. [男足球迷和女足球迷的差别](https://s.weibo.com//weibo?q=%23%E7%94%B7%E8%B6%B3%E7%90%83%E8%BF%B7%E5%92%8C%E5%A5%B3%E8%B6%B3%E7%90%83%E8%BF%B7%E7%9A%84%E5%B7%AE%E5%88%AB%23&Refer=top)
 
 1. [游客投喂大象塑料袋](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E5%A4%A7%E8%B1%A1%E5%A1%91%E6%96%99%E8%A2%8B%23&Refer=top)
+
+1. [梁森戴假发](https://s.weibo.com//weibo?q=%E6%A2%81%E6%A3%AE%E6%88%B4%E5%81%87%E5%8F%91&Refer=top)
+
+1. [美国将驱逐10名俄罗斯外交官](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%A9%B1%E9%80%9010%E5%90%8D%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E4%BA%A4%E5%AE%98%23&Refer=top)
+
+1. [遇到推销化妆品香水的要小心](https://s.weibo.com//weibo?q=%23%E9%81%87%E5%88%B0%E6%8E%A8%E9%94%80%E5%8C%96%E5%A6%86%E5%93%81%E9%A6%99%E6%B0%B4%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%23&Refer=top)
+
+1. [十七哭了](https://s.weibo.com//weibo?q=%E5%8D%81%E4%B8%83%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [巴黎圣母院火灾2周年](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E7%81%AB%E7%81%BE2%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [拜登对俄罗斯实施新制裁](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81%23&Refer=top)
+
+1. [玩密室逃脱的社死现场](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [王鸥为姐姐们做应援扇打call](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B8%A5%E4%B8%BA%E5%A7%90%E5%A7%90%E4%BB%AC%E5%81%9A%E5%BA%94%E6%8F%B4%E6%89%87%E6%89%93call%23&Refer=top)
+
+1. [日本70年前排废致水俣病灾害持续存在](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC70%E5%B9%B4%E5%89%8D%E6%8E%92%E5%BA%9F%E8%87%B4%E6%B0%B4%E4%BF%A3%E7%97%85%E7%81%BE%E5%AE%B3%E6%8C%81%E7%BB%AD%E5%AD%98%E5%9C%A8%23&Refer=top)
+
+1. [55岁大妈练倒车练出表情包](https://s.weibo.com//weibo?q=%2355%E5%B2%81%E5%A4%A7%E5%A6%88%E7%BB%83%E5%80%92%E8%BD%A6%E7%BB%83%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [马克龙重申2024年完成巴黎圣母院重建](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E9%87%8D%E7%94%B32024%E5%B9%B4%E5%AE%8C%E6%88%90%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E9%87%8D%E5%BB%BA%23&Refer=top)
+
+1. [报警电话录下江歌最后一声惨叫](https://s.weibo.com//weibo?q=%23%E6%8A%A5%E8%AD%A6%E7%94%B5%E8%AF%9D%E5%BD%95%E4%B8%8B%E6%B1%9F%E6%AD%8C%E6%9C%80%E5%90%8E%E4%B8%80%E5%A3%B0%E6%83%A8%E5%8F%AB%23&Refer=top)
 
