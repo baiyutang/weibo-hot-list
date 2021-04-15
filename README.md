@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 14:01:18
+## 微博今日热榜 更新于 2021-04-15 15:04:26
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -290,4 +290,34 @@
 1. [皇马大巴被利物浦球迷袭击](https://s.weibo.com//weibo?q=%E7%9A%87%E9%A9%AC%E5%A4%A7%E5%B7%B4%E8%A2%AB%E5%88%A9%E7%89%A9%E6%B5%A6%E7%90%83%E8%BF%B7%E8%A2%AD%E5%87%BB&Refer=top)
 
 1. [80后白发校长被学生叫校长爷爷](https://s.weibo.com//weibo?q=%2380%E5%90%8E%E7%99%BD%E5%8F%91%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%8F%AB%E6%A0%A1%E9%95%BF%E7%88%B7%E7%88%B7%23&Refer=top)
+
+1. [姜素拉产女](https://s.weibo.com//weibo?q=%E5%A7%9C%E7%B4%A0%E6%8B%89%E4%BA%A7%E5%A5%B3&Refer=top)
+
+1. [任豪道歉](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%E9%81%93%E6%AD%89&Refer=top)
+
+1. [我国连续4年多未发生暴恐案事件](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E5%A4%9A%E6%9C%AA%E5%8F%91%E7%94%9F%E6%9A%B4%E6%81%90%E6%A1%88%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [刘鑫方称对江歌遇害不担责](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%91%AB%E6%96%B9%E7%A7%B0%E5%AF%B9%E6%B1%9F%E6%AD%8C%E9%81%87%E5%AE%B3%E4%B8%8D%E6%8B%85%E8%B4%A3%23&Refer=top)
+
+1. [刘以豪被娜扎亲出口红印](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BB%A5%E8%B1%AA%E8%A2%AB%E5%A8%9C%E6%89%8E%E4%BA%B2%E5%87%BA%E5%8F%A3%E7%BA%A2%E5%8D%B0%23&Refer=top)
+
+1. [科学家成功捕获黑洞多波段指纹](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E6%8D%95%E8%8E%B7%E9%BB%91%E6%B4%9E%E5%A4%9A%E6%B3%A2%E6%AE%B5%E6%8C%87%E7%BA%B9%23&Refer=top)
+
+1. [中学小卖部承包3年拍出320万](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%AD%A6%E5%B0%8F%E5%8D%96%E9%83%A8%E6%89%BF%E5%8C%853%E5%B9%B4%E6%8B%8D%E5%87%BA320%E4%B8%87&Refer=top)
+
+1. [王霜说在巴黎不被尊重](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%9C%9C%E8%AF%B4%E5%9C%A8%E5%B7%B4%E9%BB%8E%E4%B8%8D%E8%A2%AB%E5%B0%8A%E9%87%8D&Refer=top)
+
+1. [娜扎护士装造型](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E6%8A%A4%E5%A3%AB%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [创造营预告](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [蜘蛛侠3中文片名](https://s.weibo.com//weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A03%E4%B8%AD%E6%96%87%E7%89%87%E5%90%8D&Refer=top)
+
+1. [如何看待美国将从阿富汗撤军](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E9%98%BF%E5%AF%8C%E6%B1%97%E6%92%A4%E5%86%9B%23&Refer=top)
+
+1. [重紫概念海报](https://s.weibo.com//weibo?q=%23%E9%87%8D%E7%B4%AB%E6%A6%82%E5%BF%B5%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [在营P2P网贷机构全部停业](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E8%90%A5P2P%E7%BD%91%E8%B4%B7%E6%9C%BA%E6%9E%84%E5%85%A8%E9%83%A8%E5%81%9C%E4%B8%9A%23&Refer=top)
+
+1. [美脱口秀演员抖包袱式讽刺美国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%8A%96%E5%8C%85%E8%A2%B1%E5%BC%8F%E8%AE%BD%E5%88%BA%E7%BE%8E%E5%9B%BD%23&Refer=top)
 
