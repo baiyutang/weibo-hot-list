@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 03:06:21
+## 微博今日热榜 更新于 2021-04-16 04:01:03
 1. [一图读懂生物安全法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [马克龙重申2024年完成巴黎圣母院重建](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E9%87%8D%E7%94%B32024%E5%B9%B4%E5%AE%8C%E6%88%90%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E9%87%8D%E5%BB%BA%23&Refer=top)
 
 1. [游客投喂大象塑料袋](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E5%A4%A7%E8%B1%A1%E5%A1%91%E6%96%99%E8%A2%8B%23&Refer=top)
+
+1. [龚俊张哲瀚演唱会要合唱天问](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%BC%A0%E5%93%B2%E7%80%9A%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A6%81%E5%90%88%E5%94%B1%E5%A4%A9%E9%97%AE&Refer=top)
+
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 
