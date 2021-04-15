@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 20:01:29
+## 微博今日热榜 更新于 2021-04-15 21:07:06
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -494,4 +494,22 @@
 1. [吴前常规赛MVP](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%89%8D%E5%B8%B8%E8%A7%84%E8%B5%9BMVP%23&Refer=top)
 
 1. [胃癌大爷化疗回家路上救落水儿童](https://s.weibo.com//weibo?q=%E8%83%83%E7%99%8C%E5%A4%A7%E7%88%B7%E5%8C%96%E7%96%97%E5%9B%9E%E5%AE%B6%E8%B7%AF%E4%B8%8A%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5&Refer=top)
+
+1. [上海幼儿园招生不得测试家长和孩子](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%9B%E7%94%9F%E4%B8%8D%E5%BE%97%E6%B5%8B%E8%AF%95%E5%AE%B6%E9%95%BF%E5%92%8C%E5%AD%A9%E5%AD%90%23&Refer=top)
+
+1. [赵薇秦昊演夫妻](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E7%A7%A6%E6%98%8A%E6%BC%94%E5%A4%AB%E5%A6%BB%23&Refer=top)
+
+1. [张一山膝盖摔伤](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%86%9D%E7%9B%96%E6%91%94%E4%BC%A4%23&Refer=top)
+
+1. [女子回应5年4次起诉离婚被驳回](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%945%E5%B9%B44%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [骊歌行](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [段星星眼神杀](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E6%98%9F%E6%98%9F%E7%9C%BC%E7%A5%9E%E6%9D%80%23&Refer=top)
+
+1. [罗一舟舞台表现力](https://s.weibo.com//weibo?q=%E7%BD%97%E4%B8%80%E8%88%9F%E8%88%9E%E5%8F%B0%E8%A1%A8%E7%8E%B0%E5%8A%9B&Refer=top)
+
+1. [男足球迷和女足球迷的差别](https://s.weibo.com//weibo?q=%23%E7%94%B7%E8%B6%B3%E7%90%83%E8%BF%B7%E5%92%8C%E5%A5%B3%E8%B6%B3%E7%90%83%E8%BF%B7%E7%9A%84%E5%B7%AE%E5%88%AB%23&Refer=top)
+
+1. [游客投喂大象塑料袋](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E5%A4%A7%E8%B1%A1%E5%A1%91%E6%96%99%E8%A2%8B%23&Refer=top)
 
