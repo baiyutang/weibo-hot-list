@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-15 11:04:27
+## 微博今日热榜 更新于 2021-04-15 12:01:45
 1. [黄河保护立法提速](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E7%AB%8B%E6%B3%95%E6%8F%90%E9%80%9F%23&Refer=new_time)
 
 1. [邓紫棋 我得先结婚再生小孩](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%88%91%E5%BE%97%E5%85%88%E7%BB%93%E5%A9%9A%E5%86%8D%E7%94%9F%E5%B0%8F%E5%AD%A9%23&Refer=top)
@@ -208,4 +208,32 @@
 1. [BCI官网下架抵制新疆棉花声明](https://s.weibo.com//weibo?q=BCI%E5%AE%98%E7%BD%91%E4%B8%8B%E6%9E%B6%E6%8A%B5%E5%88%B6%E6%96%B0%E7%96%86%E6%A3%89%E8%8A%B1%E5%A3%B0%E6%98%8E&Refer=top)
 
 1. [央视曝光点赞骗局](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%82%B9%E8%B5%9E%E9%AA%97%E5%B1%80%23&Refer=top)
+
+1. [国门生物安全一起守护](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%97%A8%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E4%B8%80%E8%B5%B7%E5%AE%88%E6%8A%A4%23&Refer=new_time)
+
+1. [那英 我只配给沈腾杨洋伴唱](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%20%E6%88%91%E5%8F%AA%E9%85%8D%E7%BB%99%E6%B2%88%E8%85%BE%E6%9D%A8%E6%B4%8B%E4%BC%B4%E5%94%B1&Refer=top)
+
+1. [迪丽热巴吴磊回应眼神拉丝](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%E5%9B%9E%E5%BA%94%E7%9C%BC%E7%A5%9E%E6%8B%89%E4%B8%9D%23&Refer=top)
+
+1. [刘鑫未出庭](https://s.weibo.com//weibo?q=%E5%88%98%E9%91%AB%E6%9C%AA%E5%87%BA%E5%BA%AD&Refer=top)
+
+1. [罗永浩再回应被强制执行](https://s.weibo.com//weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%86%8D%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&Refer=top)
+
+1. [库里11记三分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C11%E8%AE%B0%E4%B8%89%E5%88%86&Refer=top)
+
+1. [赵丽颖夏日繁花大片](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A4%8F%E6%97%A5%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [为什么迟迟不肯睡觉](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%9F%E8%BF%9F%E4%B8%8D%E8%82%AF%E7%9D%A1%E8%A7%89%23&Refer=top)
+
+1. [苍兰诀角色照](https://s.weibo.com//weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E8%A7%92%E8%89%B2%E7%85%A7%23&Refer=top)
+
+1. [沙尘暴](https://s.weibo.com//weibo?q=%E6%B2%99%E5%B0%98%E6%9A%B4&Refer=top)
+
+1. [TFBOYS庆祝415七周年](https://s.weibo.com//weibo?q=%23TFBOYS%E5%BA%86%E7%A5%9D415%E4%B8%83%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [王佑硕鼻子](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BD%91%E7%A1%95%E9%BC%BB%E5%AD%90&Refer=top)
+
+1. [腾讯PCG组织调整](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AFPCG%E7%BB%84%E7%BB%87%E8%B0%83%E6%95%B4&Refer=top)
+
+1. [电器能有什么坏心思](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%99%A8%E8%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%9D%8F%E5%BF%83%E6%80%9D%23&Refer=top)
 
