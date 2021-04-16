@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 11:07:57
+## 微博今日热榜 更新于 2021-04-16 12:03:17
 1. [一图读懂生物安全法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -216,4 +216,30 @@
 1. [奔跑吧9定档](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A79%E5%AE%9A%E6%A1%A3%23&Refer=top)
 
 1. [彭斯安装心脏起搏器](https://s.weibo.com//weibo?q=%E5%BD%AD%E6%96%AF%E5%AE%89%E8%A3%85%E5%BF%83%E8%84%8F%E8%B5%B7%E6%90%8F%E5%99%A8&Refer=top)
+
+1. [最新沙尘防护指南](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E6%B2%99%E5%B0%98%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [可以社死但浪漫不死](https://s.weibo.com//weibo?q=%E5%8F%AF%E4%BB%A5%E7%A4%BE%E6%AD%BB%E4%BD%86%E6%B5%AA%E6%BC%AB%E4%B8%8D%E6%AD%BB&Refer=top)
+
+1. [韩媒称徐睿知曾操控郑允浩](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%AA%92%E7%A7%B0%E5%BE%90%E7%9D%BF%E7%9F%A5%E6%9B%BE%E6%93%8D%E6%8E%A7%E9%83%91%E5%85%81%E6%B5%A9&Refer=top)
+
+1. [德云社演出节目单](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E6%BC%94%E5%87%BA%E8%8A%82%E7%9B%AE%E5%8D%95&Refer=top)
+
+1. [美团崩了](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [胖东来下架所有元气森林产品](https://s.weibo.com//weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97%E4%BA%A7%E5%93%81&Refer=top)
+
+1. [最新版新冠肺炎诊疗方案](https://s.weibo.com//weibo?q=%E6%9C%80%E6%96%B0%E7%89%88%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%AF%8A%E7%96%97%E6%96%B9%E6%A1%88&Refer=top)
+
+1. [戚薇李承铉lucky游迪士尼](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89lucky%E6%B8%B8%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&Refer=top)
+
+1. [日官员称喝了核废水也不能证明安全性](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%AE%98%E5%91%98%E7%A7%B0%E5%96%9D%E4%BA%86%E6%A0%B8%E5%BA%9F%E6%B0%B4%E4%B9%9F%E4%B8%8D%E8%83%BD%E8%AF%81%E6%98%8E%E5%AE%89%E5%85%A8%E6%80%A7%23&Refer=top)
+
+1. [和爸爸说自己离婚了](https://s.weibo.com//weibo?q=%E5%92%8C%E7%88%B8%E7%88%B8%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%A6%BB%E5%A9%9A%E4%BA%86&Refer=top)
+
+1. [朝鲜称日本排核废水入海是犯罪行为](https://s.weibo.com//weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%8E%92%E6%A0%B8%E5%BA%9F%E6%B0%B4%E5%85%A5%E6%B5%B7%E6%98%AF%E7%8A%AF%E7%BD%AA%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [泼腐蚀液体反抗入室打人者被判免责](https://s.weibo.com//weibo?q=%E6%B3%BC%E8%85%90%E8%9A%80%E6%B6%B2%E4%BD%93%E5%8F%8D%E6%8A%97%E5%85%A5%E5%AE%A4%E6%89%93%E4%BA%BA%E8%80%85%E8%A2%AB%E5%88%A4%E5%85%8D%E8%B4%A3&Refer=top)
+
+1. [李宇春软肋上线](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%BD%AF%E8%82%8B%E4%B8%8A%E7%BA%BF%23&Refer=top)
 
