@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 09:24:46
+## 微博今日热榜 更新于 2021-04-16 10:19:42
 1. [一图读懂生物安全法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -182,4 +182,20 @@
 1. [200万理赔额度保险仅获赔50多元](https://s.weibo.com//weibo?q=200%E4%B8%87%E7%90%86%E8%B5%94%E9%A2%9D%E5%BA%A6%E4%BF%9D%E9%99%A9%E4%BB%85%E8%8E%B7%E8%B5%9450%E5%A4%9A%E5%85%83&Refer=top)
 
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [永辉超市就食品安全问题致歉](https://s.weibo.com//weibo?q=%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E5%B0%B1%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E8%87%B4%E6%AD%89&Refer=top)
+
+1. [任豪 KTV](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%20KTV&Refer=top)
+
+1. [门店回应花17元吃海底捞](https://s.weibo.com//weibo?q=%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E8%8A%B117%E5%85%83%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E&Refer=top)
+
+1. [各地最新新冠疫苗接种提示](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%9C%B0%E6%9C%80%E6%96%B0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%8F%90%E7%A4%BA%23&Refer=top)
+
+1. [裸眼3D大屏有多惊艳](https://s.weibo.com//weibo?q=%E8%A3%B8%E7%9C%BC3D%E5%A4%A7%E5%B1%8F%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3&Refer=top)
+
+1. [张真源丁程鑫友谊](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8F%8B%E8%B0%8A&Refer=top)
+
+1. [80分钟新疆生活纪录片](https://s.weibo.com//weibo?q=%2380%E5%88%86%E9%92%9F%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top)
+
+1. [自费打工](https://s.weibo.com//weibo?q=%23%E8%87%AA%E8%B4%B9%E6%89%93%E5%B7%A5%23&Refer=top)
 
