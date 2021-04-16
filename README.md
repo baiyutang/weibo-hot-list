@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-17 06:01:12
+## 微博今日热榜 更新于 2021-04-17 07:01:17
 1. [退休人员基本养老金涨4.5%](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E9%87%91%E6%B6%A84.5%25%23&Refer=new_time)
 
 1. [乘风破浪的姐姐2成团名单](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&Refer=top)
