@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 07:01:36
+## 微博今日热榜 更新于 2021-04-16 08:03:04
 1. [一图读懂生物安全法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -128,4 +128,26 @@
 1. [国家矿山安监局通报近期三起煤矿事故](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%9F%BF%E5%B1%B1%E5%AE%89%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E8%BF%91%E6%9C%9F%E4%B8%89%E8%B5%B7%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%23&Refer=top)
 
 1. [FBI每10小时针对中国开启一项新调查](https://s.weibo.com//weibo?q=%23FBI%E6%AF%8F10%E5%B0%8F%E6%97%B6%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%90%AF%E4%B8%80%E9%A1%B9%E6%96%B0%E8%B0%83%E6%9F%A5%23&Refer=top)
+
+1. [韩国民众拉黑日本海鲜](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8B%89%E9%BB%91%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C&Refer=top)
+
+1. [乔丹成为科比名人堂引荐人](https://s.weibo.com//weibo?q=%E4%B9%94%E4%B8%B9%E6%88%90%E4%B8%BA%E7%A7%91%E6%AF%94%E5%90%8D%E4%BA%BA%E5%A0%82%E5%BC%95%E8%8D%90%E4%BA%BA&Refer=top)
+
+1. [印度上千村民互扔牛粪送祝福](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%8A%E5%8D%83%E6%9D%91%E6%B0%91%E4%BA%92%E6%89%94%E7%89%9B%E7%B2%AA%E9%80%81%E7%A5%9D%E7%A6%8F&Refer=top)
+
+1. [云南新增确诊病例1例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B1%E4%BE%8B%23&Refer=top)
+
+1. [丁程鑫跑了一公里为张真源庆生](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%B7%91%E4%BA%86%E4%B8%80%E5%85%AC%E9%87%8C%E4%B8%BA%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [唐九洲长高了1厘米](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E9%95%BF%E9%AB%98%E4%BA%861%E5%8E%98%E7%B1%B3%23&Refer=top)
+
+1. [道指首次站上34000点](https://s.weibo.com//weibo?q=%E9%81%93%E6%8C%87%E9%A6%96%E6%AC%A1%E7%AB%99%E4%B8%8A34000%E7%82%B9&Refer=top)
+
+1. [摘掉眼镜后的唐九洲](https://s.weibo.com//weibo?q=%E6%91%98%E6%8E%89%E7%9C%BC%E9%95%9C%E5%90%8E%E7%9A%84%E5%94%90%E4%B9%9D%E6%B4%B2&Refer=top)
+
+1. [超级可爱的开机密码](https://s.weibo.com//weibo?q=%E8%B6%85%E7%BA%A7%E5%8F%AF%E7%88%B1%E7%9A%84%E5%BC%80%E6%9C%BA%E5%AF%86%E7%A0%81&Refer=top)
+
+1. [欢欢每集都哭](https://s.weibo.com//weibo?q=%E6%AC%A2%E6%AC%A2%E6%AF%8F%E9%9B%86%E9%83%BD%E5%93%AD&Refer=top)
+
+1. [长春严打学区房炒作](https://s.weibo.com//weibo?q=%E9%95%BF%E6%98%A5%E4%B8%A5%E6%89%93%E5%AD%A6%E5%8C%BA%E6%88%BF%E7%82%92%E4%BD%9C&Refer=top)
 
