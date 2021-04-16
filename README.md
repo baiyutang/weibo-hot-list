@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 21:07:45
+## 微博今日热榜 更新于 2021-04-16 22:01:20
 1. [一图读懂生物安全法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E6%B3%95%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -490,4 +490,28 @@
 1. [大碗宽面梦回去年夏天](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%A2%97%E5%AE%BD%E9%9D%A2%E6%A2%A6%E5%9B%9E%E5%8E%BB%E5%B9%B4%E5%A4%8F%E5%A4%A9&Refer=top)
 
 1. [吉克隽逸情商](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E6%83%85%E5%95%86&Refer=top)
+
+1. [退休人员基本养老金涨4.5%](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E9%87%91%E6%B6%A84.5%25%23&Refer=new_time)
+
+1. [秦昊为啥扒拉张雨绮](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%98%8A%E4%B8%BA%E5%95%A5%E6%89%92%E6%8B%89%E5%BC%A0%E9%9B%A8%E7%BB%AE%23&Refer=top)
+
+1. [杨丞琳容祖儿没有solo](https://s.weibo.com//weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%AE%B9%E7%A5%96%E5%84%BF%E6%B2%A1%E6%9C%89solo&Refer=top)
+
+1. [这居然是同个人](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%90%8C%E4%B8%AA%E4%BA%BA%23&Refer=top)
+
+1. [关晓彤让沈腾多一些担当](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%AE%A9%E6%B2%88%E8%85%BE%E5%A4%9A%E4%B8%80%E4%BA%9B%E6%8B%85%E5%BD%93&Refer=top)
+
+1. [半夜吃东西一定要开灯](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E5%A4%9C%E5%90%83%E4%B8%9C%E8%A5%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E5%BC%80%E7%81%AF%23&Refer=top)
+
+1. [沈腾贾玲模仿李宇春黄晓明](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E8%B4%BE%E7%8E%B2%E6%A8%A1%E4%BB%BF%E6%9D%8E%E5%AE%87%E6%98%A5%E9%BB%84%E6%99%93%E6%98%8E%23&Refer=top)
+
+1. [长大后逐渐消失的天赋](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E9%80%90%E6%B8%90%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A4%A9%E8%B5%8B%23&Refer=top)
+
+1. [朱一龙李易峰连麦](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%9D%8E%E6%98%93%E5%B3%B0%E8%BF%9E%E9%BA%A6%23&Refer=top)
+
+1. [永远感激温柔的人](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E6%84%9F%E6%BF%80%E6%B8%A9%E6%9F%94%E7%9A%84%E4%BA%BA%23&Refer=top)
+
+1. [能不能让梁博多唱两句](https://s.weibo.com//weibo?q=%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E6%A2%81%E5%8D%9A%E5%A4%9A%E5%94%B1%E4%B8%A4%E5%8F%A5&Refer=top)
+
+1. [狗狗币大涨](https://s.weibo.com//weibo?q=%E7%8B%97%E7%8B%97%E5%B8%81%E5%A4%A7%E6%B6%A8&Refer=top)
 
