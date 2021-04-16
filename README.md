@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-17 04:01:19
+## 微博今日热榜 更新于 2021-04-17 05:01:10
 1. [退休人员基本养老金涨4.5%](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E9%87%91%E6%B6%A84.5%25%23&Refer=new_time)
 
 1. [乘风破浪的姐姐2成团名单](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&Refer=top)
@@ -128,4 +128,6 @@
 1. [苏醒奚彬分居](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%A5%9A%E5%BD%AC%E5%88%86%E5%B1%85%23&Refer=top)
 
 1. [最新沙尘防护指南](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E6%B2%99%E5%B0%98%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [东京奥组委主席称奥运会不会取消](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E7%BB%84%E5%A7%94%E4%B8%BB%E5%B8%AD%E7%A7%B0%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%8F%96%E6%B6%88%23&Refer=top)
 
