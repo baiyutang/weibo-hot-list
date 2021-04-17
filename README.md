@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 00:02:24
+## 微博今日热榜 更新于 2021-04-18 01:15:39
 1. [他们有个共同的名字](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
@@ -106,4 +106,10 @@
 1. [还有两周五一小长假](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%89%E4%B8%A4%E5%91%A8%E4%BA%94%E4%B8%80%E5%B0%8F%E9%95%BF%E5%81%87%23&Refer=top)
 
 1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [我国大型低温制冷技术取得重大突破](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%A4%A7%E5%9E%8B%E4%BD%8E%E6%B8%A9%E5%88%B6%E5%86%B7%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&Refer=new_time)
+
+1. [向往的生活预告](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [宋亚轩 我一定会当起哥哥的责任](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E6%88%91%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BD%93%E8%B5%B7%E5%93%A5%E5%93%A5%E7%9A%84%E8%B4%A3%E4%BB%BB&Refer=top)
 
