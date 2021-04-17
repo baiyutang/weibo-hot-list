@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-17 07:01:17
+## 微博今日热榜 更新于 2021-04-17 08:03:04
 1. [退休人员基本养老金涨4.5%](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E9%87%91%E6%B6%A84.5%25%23&Refer=new_time)
 
 1. [乘风破浪的姐姐2成团名单](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&Refer=top)
@@ -134,4 +134,28 @@
 1. [脱贫攻坚巡礼网络名人宁夏行](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E5%B7%A1%E7%A4%BC%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E5%AE%81%E5%A4%8F%E8%A1%8C%23&Refer=new_time)
 
 1. [小舍得](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97&Refer=top)
+
+1. [云南新增确诊病例1例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B1%E4%BE%8B%23&Refer=top)
+
+1. [郎平每天都在球场陪女排训练](https://s.weibo.com//weibo?q=%23%E9%83%8E%E5%B9%B3%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E7%90%83%E5%9C%BA%E9%99%AA%E5%A5%B3%E6%8E%92%E8%AE%AD%E7%BB%83%23&Refer=top)
+
+1. [丁程鑫北电表演专业全国第五十二](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8C%97%E7%94%B5%E8%A1%A8%E6%BC%94%E4%B8%93%E4%B8%9A%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%BA%94%E5%8D%81%E4%BA%8C&Refer=top)
+
+1. [张哲瀚 龚老师在我心里很完美](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E9%BE%9A%E8%80%81%E5%B8%88%E5%9C%A8%E6%88%91%E5%BF%83%E9%87%8C%E5%BE%88%E5%AE%8C%E7%BE%8E&Refer=top)
+
+1. [劳尔卡斯特罗卸任古共中央第一书记](https://s.weibo.com//weibo?q=%E5%8A%B3%E5%B0%94%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97%E5%8D%B8%E4%BB%BB%E5%8F%A4%E5%85%B1%E4%B8%AD%E5%A4%AE%E7%AC%AC%E4%B8%80%E4%B9%A6%E8%AE%B0&Refer=top)
+
+1. [周笔畅 16年后你们还是一样的棒](https://s.weibo.com//weibo?q=%E5%91%A8%E7%AC%94%E7%95%85%2016%E5%B9%B4%E5%90%8E%E4%BD%A0%E4%BB%AC%E8%BF%98%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%E6%A3%92&Refer=top)
+
+1. [长期低剂量噪声也可致慢性耳损伤](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%9C%9F%E4%BD%8E%E5%89%82%E9%87%8F%E5%99%AA%E5%A3%B0%E4%B9%9F%E5%8F%AF%E8%87%B4%E6%85%A2%E6%80%A7%E8%80%B3%E6%8D%9F%E4%BC%A4%23&Refer=top)
+
+1. [韦德成为爵士股东](https://s.weibo.com//weibo?q=%E9%9F%A6%E5%BE%B7%E6%88%90%E4%B8%BA%E7%88%B5%E5%A3%AB%E8%82%A1%E4%B8%9C&Refer=top)
+
+1. [骊歌行](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [如何用一句话表达不快乐](https://s.weibo.com//weibo?q=%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%A1%A8%E8%BE%BE%E4%B8%8D%E5%BF%AB%E4%B9%90&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
+
+1. [宋茜上不去瑜伽球](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E4%B8%8A%E4%B8%8D%E5%8E%BB%E7%91%9C%E4%BC%BD%E7%90%83%23&Refer=top)
 
