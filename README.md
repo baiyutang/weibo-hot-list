@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-17 22:01:13
+## 微博今日热榜 更新于 2021-04-17 23:01:14
 1. [退休人员基本养老金涨4.5%](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E9%87%91%E6%B6%A84.5%25%23&Refer=new_time)
 
 1. [乘风破浪的姐姐2成团名单](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&Refer=top)
@@ -546,4 +546,20 @@
 1. [新冠疫苗接种之歌](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E4%B9%8B%E6%AD%8C%23&Refer=top)
 
 1. [清凉椰汁蜜桃啵啵球](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%87%89%E6%A4%B0%E6%B1%81%E8%9C%9C%E6%A1%83%E5%95%B5%E5%95%B5%E7%90%83%23&Refer=top)
+
+1. [陈卓璇高音](https://s.weibo.com//weibo?q=%E9%99%88%E5%8D%93%E7%92%87%E9%AB%98%E9%9F%B3&Refer=top)
+
+1. [各年龄段癌症筛查重点](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%B9%B4%E9%BE%84%E6%AE%B5%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%E9%87%8D%E7%82%B9%23&Refer=top)
+
+1. [余景天怀疑自己](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E6%80%80%E7%96%91%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [菲利普亲王葬礼](https://s.weibo.com//weibo?q=%E8%8F%B2%E5%88%A9%E6%99%AE%E4%BA%B2%E7%8E%8B%E8%91%AC%E7%A4%BC&Refer=top)
+
+1. [金曲青春](https://s.weibo.com//weibo?q=%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [大巴被限高杆削顶致7人受伤](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B7%B4%E8%A2%AB%E9%99%90%E9%AB%98%E6%9D%86%E5%89%8A%E9%A1%B6%E8%87%B47%E4%BA%BA%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [王源细节控](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%BB%86%E8%8A%82%E6%8E%A7%23&Refer=top)
+
+1. [CBA季后赛8进4对阵](https://s.weibo.com//weibo?q=%23CBA%E5%AD%A3%E5%90%8E%E8%B5%9B8%E8%BF%9B4%E5%AF%B9%E9%98%B5%23&Refer=top)
 
