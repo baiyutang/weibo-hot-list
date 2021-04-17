@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 05:01:18
+## 微博今日热榜 更新于 2021-04-18 06:01:07
 1. [他们有个共同的名字](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
