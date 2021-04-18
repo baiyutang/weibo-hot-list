@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-19 03:04:46
+## 微博今日热榜 更新于 2021-04-19 04:01:04
 1. [被称风中穿针海底绣花的超级工程](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%A7%B0%E9%A3%8E%E4%B8%AD%E7%A9%BF%E9%92%88%E6%B5%B7%E5%BA%95%E7%BB%A3%E8%8A%B1%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%23&Refer=new_time)
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [FPX RNG](https://s.weibo.com//weibo?q=%23FPX%20RNG%23&Refer=top)
 
 1. [柯南](https://s.weibo.com//weibo?q=%E6%9F%AF%E5%8D%97&Refer=top)
+
+1. [偷鸡蛋被拦猝死家属索赔38万被驳](https://s.weibo.com//weibo?q=%23%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8B%A6%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87%E8%A2%AB%E9%A9%B3%23&Refer=top)
 
