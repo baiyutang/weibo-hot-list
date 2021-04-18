@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 07:01:13
+## 微博今日热榜 更新于 2021-04-18 08:02:59
 1. [他们有个共同的名字](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
@@ -134,4 +134,24 @@
 1. [歼20运20直20齐亮相](https://s.weibo.com//weibo?q=%23%E6%AD%BC20%E8%BF%9020%E7%9B%B420%E9%BD%90%E4%BA%AE%E7%9B%B8%23&Refer=top)
 
 1. [2020年我国每分钟有8人被确诊癌症](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E6%88%91%E5%9B%BD%E6%AF%8F%E5%88%86%E9%92%9F%E6%9C%898%E4%BA%BA%E8%A2%AB%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%23&Refer=top)
+
+1. [中国赌石第一案将开庭](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%8C%E7%9F%B3%E7%AC%AC%E4%B8%80%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&Refer=top)
+
+1. [米卡和沸羊羊的友谊](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8D%A1%E5%92%8C%E6%B2%B8%E7%BE%8A%E7%BE%8A%E7%9A%84%E5%8F%8B%E8%B0%8A&Refer=top)
+
+1. [云南无新增本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%97%A0%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [张萌 我三四点钟还在给员工发微信](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E4%B8%89%E5%9B%9B%E7%82%B9%E9%92%9F%E8%BF%98%E5%9C%A8%E7%BB%99%E5%91%98%E5%B7%A5%E5%8F%91%E5%BE%AE%E4%BF%A1&Refer=top)
+
+1. [蚂蚁森林崩了](https://s.weibo.com//weibo?q=%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [文森佐](https://s.weibo.com//weibo?q=%E6%96%87%E6%A3%AE%E4%BD%90&Refer=top)
+
+1. [网友的求生欲有多强](https://s.weibo.com//weibo?q=%E7%BD%91%E5%8F%8B%E7%9A%84%E6%B1%82%E7%94%9F%E6%AC%B2%E6%9C%89%E5%A4%9A%E5%BC%BA&Refer=top)
+
+1. [中国超2亿人单身](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%852%E4%BA%BF%E4%BA%BA%E5%8D%95%E8%BA%AB&Refer=top)
+
+1. [湖人战胜爵士](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E7%88%B5%E5%A3%AB&Refer=top)
+
+1. [我国家庭呈现单身化趋势](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E5%AE%B6%E5%BA%AD%E5%91%88%E7%8E%B0%E5%8D%95%E8%BA%AB%E5%8C%96%E8%B6%8B%E5%8A%BF&Refer=top)
 
