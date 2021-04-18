@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-19 06:01:28
+## 微博今日热榜 更新于 2021-04-19 07:01:12
 1. [被称风中穿针海底绣花的超级工程](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%A7%B0%E9%A3%8E%E4%B8%AD%E7%A9%BF%E9%92%88%E6%B5%B7%E5%BA%95%E7%BB%A3%E8%8A%B1%E7%9A%84%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%23&Refer=new_time)
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [福建震感](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F&Refer=top)
 
 1. [交警通报大巴车撞限高杆致1死6伤](https://s.weibo.com//weibo?q=%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%92%9E%E9%99%90%E9%AB%98%E6%9D%86%E8%87%B41%E6%AD%BB6%E4%BC%A4&Refer=top)
+
+1. [HIStory4近距离爱上你](https://s.weibo.com//weibo?q=HIStory4%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%88%B1%E4%B8%8A%E4%BD%A0&Refer=top)
 
