@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 20:01:41
+## 微博今日热榜 更新于 2021-04-18 21:06:40
 1. [他们有个共同的名字](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
@@ -422,4 +422,38 @@
 1. [Cryin的瑞兹](https://s.weibo.com//weibo?q=Cryin%E7%9A%84%E7%91%9E%E5%85%B9&Refer=top)
 
 1. [LPL春季赛总决赛](https://s.weibo.com//weibo?q=%23LPL%E6%98%A5%E5%AD%A3%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [这20年博鳌的变化有多大](https://s.weibo.com//weibo?q=%23%E8%BF%9920%E5%B9%B4%E5%8D%9A%E9%B3%8C%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=new_time)
+
+1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
+
+1. [RNG夺冠](https://s.weibo.com//weibo?q=RNG%E5%A4%BA%E5%86%A0&Refer=top)
+
+1. [大湾区的美食你最爱哪一道](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9A%84%E7%BE%8E%E9%A3%9F%E4%BD%A0%E6%9C%80%E7%88%B1%E5%93%AA%E4%B8%80%E9%81%93%23&Refer=top)
+
+1. [LWX失误](https://s.weibo.com//weibo?q=LWX%E5%A4%B1%E8%AF%AF&Refer=top)
+
+1. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [心疼子悠](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E5%AD%90%E6%82%A0&Refer=top)
+
+1. [被钟老师气死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%92%9F%E8%80%81%E5%B8%88%E6%B0%94%E6%AD%BB%23&Refer=top)
+
+1. [Hero掉入A组](https://s.weibo.com//weibo?q=Hero%E6%8E%89%E5%85%A5A%E7%BB%84&Refer=top)
+
+1. [井柏然生图](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [组委会回应马拉松奖牌被哄抢](https://s.weibo.com//weibo?q=%E7%BB%84%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%A5%96%E7%89%8C%E8%A2%AB%E5%93%84%E6%8A%A2&Refer=top)
+
+1. [岳云鹏对歌王者](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%AF%B9%E6%AD%8C%E7%8E%8B%E8%80%85%23&Refer=top)
+
+1. [齐麟受伤](https://s.weibo.com//weibo?q=%E9%BD%90%E9%BA%9F%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [Gala FMVP](https://s.weibo.com//weibo?q=Gala%20FMVP&Refer=top)
+
+1. [刘宇童年照](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E7%AB%A5%E5%B9%B4%E7%85%A7%23&Refer=top)
+
+1. [RNG金色的雨](https://s.weibo.com//weibo?q=RNG%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8&Refer=top)
+
+1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top)
 
