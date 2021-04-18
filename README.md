@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 11:06:59
+## 微博今日热榜 更新于 2021-04-18 12:02:19
 1. [他们有个共同的名字](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%9C%89%E4%B8%AA%E5%85%B1%E5%90%8C%E7%9A%84%E5%90%8D%E5%AD%97%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
@@ -226,4 +226,24 @@
 1. [翻译家许渊冲谈西方为何不了解中国](https://s.weibo.com//weibo?q=%E7%BF%BB%E8%AF%91%E5%AE%B6%E8%AE%B8%E6%B8%8A%E5%86%B2%E8%B0%88%E8%A5%BF%E6%96%B9%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BA%86%E8%A7%A3%E4%B8%AD%E5%9B%BD&Refer=top)
 
 1. [骊歌行](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [偷鸡蛋被拦猝死家属索赔38万被驳](https://s.weibo.com//weibo?q=%23%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8B%A6%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87%E8%A2%AB%E9%A9%B3%23&Refer=top)
+
+1. [林志颖 有谁想要我开工动土的铲子](https://s.weibo.com//weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%20%E6%9C%89%E8%B0%81%E6%83%B3%E8%A6%81%E6%88%91%E5%BC%80%E5%B7%A5%E5%8A%A8%E5%9C%9F%E7%9A%84%E9%93%B2%E5%AD%90&Refer=top)
+
+1. [印度新增确诊病例刷新纪录](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95&Refer=top)
+
+1. [00后女枪王退伍后加入预备役](https://s.weibo.com//weibo?q=00%E5%90%8E%E5%A5%B3%E6%9E%AA%E7%8E%8B%E9%80%80%E4%BC%8D%E5%90%8E%E5%8A%A0%E5%85%A5%E9%A2%84%E5%A4%87%E5%BD%B9&Refer=top)
+
+1. [安德森玩命救球](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%B7%E6%A3%AE%E7%8E%A9%E5%91%BD%E6%95%91%E7%90%83&Refer=top)
+
+1. [比特币跌破52000美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B452000%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [苏州MDSK音乐节](https://s.weibo.com//weibo?q=%E8%8B%8F%E5%B7%9EMDSK%E9%9F%B3%E4%B9%90%E8%8A%82&Refer=top)
+
+1. [库里47分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C47%E5%88%86&Refer=top)
+
+1. [库里吃止疼药](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E5%90%83%E6%AD%A2%E7%96%BC%E8%8D%AF&Refer=top)
+
+1. [广西警方通报男子持刀杀害5人](https://s.weibo.com//weibo?q=%E5%B9%BF%E8%A5%BF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E6%9D%80%E5%AE%B35%E4%BA%BA&Refer=top)
 
