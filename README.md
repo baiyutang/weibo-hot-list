@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-20 00:02:43
+## 微博今日热榜 更新于 2021-04-20 01:15:58
 1. [博鳌亚洲论坛2021年年会热点前瞻](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B2021%E5%B9%B4%E5%B9%B4%E4%BC%9A%E7%83%AD%E7%82%B9%E5%89%8D%E7%9E%BB%23&Refer=new_time)
 
 1. [吴磊 这不行这不守男德](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E8%BF%99%E4%B8%8D%E8%A1%8C%E8%BF%99%E4%B8%8D%E5%AE%88%E7%94%B7%E5%BE%B7&Refer=top)
@@ -106,4 +106,10 @@
 1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
 
 1. [好气又好笑的恋爱经历](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%B0%94%E5%8F%88%E5%A5%BD%E7%AC%91%E7%9A%84%E6%81%8B%E7%88%B1%E7%BB%8F%E5%8E%86%23&Refer=top)
+
+1. [中国有约ADatewithChina](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6ADatewithChina%23&Refer=new_time)
+
+1. [李易峰聊上中学打架](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%98%93%E5%B3%B0%E8%81%8A%E4%B8%8A%E4%B8%AD%E5%AD%A6%E6%89%93%E6%9E%B6&Refer=top)
+
+1. [还以为是求雨专用章](https://s.weibo.com//weibo?q=%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%B1%82%E9%9B%A8%E4%B8%93%E7%94%A8%E7%AB%A0&Refer=top)
 
