@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-20 03:05:39
+## 微博今日热榜 更新于 2021-04-20 04:01:14
 1. [博鳌亚洲论坛2021年年会热点前瞻](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B2021%E5%B9%B4%E5%B9%B4%E4%BC%9A%E7%83%AD%E7%82%B9%E5%89%8D%E7%9E%BB%23&Refer=new_time)
 
 1. [吴磊 这不行这不守男德](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E8%BF%99%E4%B8%8D%E8%A1%8C%E8%BF%99%E4%B8%8D%E5%AE%88%E7%94%B7%E5%BE%B7&Refer=top)
@@ -124,4 +124,12 @@
 1. [长得好看在职场算优势吗](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%9C%A8%E8%81%8C%E5%9C%BA%E7%AE%97%E4%BC%98%E5%8A%BF%E5%90%97%23&Refer=top)
 
 1. [教育部印发中小学教学用书目录](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8D%B0%E5%8F%91%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%AD%A6%E7%94%A8%E4%B9%A6%E7%9B%AE%E5%BD%95%23&Refer=top)
+
+1. [全国首条荣军街开街](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E6%9D%A1%E8%8D%A3%E5%86%9B%E8%A1%97%E5%BC%80%E8%A1%97%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [穆里尼奥](https://s.weibo.com//weibo?q=%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5&Refer=top)
+
+1. [清华大学](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6&Refer=top)
 
