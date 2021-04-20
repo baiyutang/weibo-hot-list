@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-20 11:05:38
+## 微博今日热榜 更新于 2021-04-20 12:02:20
 1. [博鳌亚洲论坛2021年年会热点前瞻](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B2021%E5%B9%B4%E5%B9%B4%E4%BC%9A%E7%83%AD%E7%82%B9%E5%89%8D%E7%9E%BB%23&Refer=new_time)
 
 1. [吴磊 这不行这不守男德](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E8%BF%99%E4%B8%8D%E8%A1%8C%E8%BF%99%E4%B8%8D%E5%AE%88%E7%94%B7%E5%BE%B7&Refer=top)
@@ -234,4 +234,26 @@
 1. [库里49分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C49%E5%88%86&Refer=top)
 
 1. [男子三次抱摔3岁女童被刑拘](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E4%B8%89%E6%AC%A1%E6%8A%B1%E6%91%943%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%88%91%E6%8B%98&Refer=top)
+
+1. [90秒看最潮最燃大湾区](https://s.weibo.com//weibo?q=%2390%E7%A7%92%E7%9C%8B%E6%9C%80%E6%BD%AE%E6%9C%80%E7%87%83%E5%A4%A7%E6%B9%BE%E5%8C%BA%23&Refer=new_time)
+
+1. [猪肉价格已连续12周下降](https://s.weibo.com//weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E5%B7%B2%E8%BF%9E%E7%BB%AD12%E5%91%A8%E4%B8%8B%E9%99%8D%23&Refer=top)
+
+1. [特斯拉车展维权车主道歉](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E5%B1%95%E7%BB%B4%E6%9D%83%E8%BD%A6%E4%B8%BB%E9%81%93%E6%AD%89&Refer=top)
+
+1. [吴磊 热巴是李长歌本歌](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E7%83%AD%E5%B7%B4%E6%98%AF%E6%9D%8E%E9%95%BF%E6%AD%8C%E6%9C%AC%E6%AD%8C&Refer=top)
+
+1. [杨洋下车差点摔跤](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%8B%E8%BD%A6%E5%B7%AE%E7%82%B9%E6%91%94%E8%B7%A4%23&Refer=top)
+
+1. [乌鸦小姐与蜥蜴先生定档](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E9%B8%A6%E5%B0%8F%E5%A7%90%E4%B8%8E%E8%9C%A5%E8%9C%B4%E5%85%88%E7%94%9F%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [为什么大家都爱刷短视频](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [旅客向飞机扔硬币祈福致航班取消](https://s.weibo.com//weibo?q=%E6%97%85%E5%AE%A2%E5%90%91%E9%A3%9E%E6%9C%BA%E6%89%94%E7%A1%AC%E5%B8%81%E7%A5%88%E7%A6%8F%E8%87%B4%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88&Refer=top)
+
+1. [全球规模最大互联网试验设施主干网](https://s.weibo.com//weibo?q=%E5%85%A8%E7%90%83%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E4%BA%92%E8%81%94%E7%BD%91%E8%AF%95%E9%AA%8C%E8%AE%BE%E6%96%BD%E4%B8%BB%E5%B9%B2%E7%BD%91&Refer=top)
+
+1. [湖人 爵士](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%20%E7%88%B5%E5%A3%AB&Refer=top)
+
+1. [中国女足为什么行](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A1%8C&Refer=top)
 
