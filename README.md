@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 00:02:05
+## 微博今日热榜 更新于 2021-04-21 01:16:35
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -104,4 +104,20 @@
 1. [广州队 广州城](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E9%98%9F%20%E5%B9%BF%E5%B7%9E%E5%9F%8E&Refer=top)
 
 1. [妈妈的教育有多温柔](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E7%9A%84%E6%95%99%E8%82%B2%E6%9C%89%E5%A4%9A%E6%B8%A9%E6%9F%94%23&Refer=top)
+
+1. [关晓彤卡点为鹿晗庆生](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8D%A1%E7%82%B9%E4%B8%BA%E9%B9%BF%E6%99%97%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [苹果发布会](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [特斯拉道歉](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%81%93%E6%AD%89&Refer=top)
+
+1. [欢欢哭吐了](https://s.weibo.com//weibo?q=%E6%AC%A2%E6%AC%A2%E5%93%AD%E5%90%90%E4%BA%86&Refer=top)
+
+1. [鹿晗关晓彤 新合照](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%20%E6%96%B0%E5%90%88%E7%85%A7&Refer=top)
+
+1. [Angelababy晒蓝发怼脸自拍](https://s.weibo.com//weibo?q=Angelababy%E6%99%92%E8%93%9D%E5%8F%91%E6%80%BC%E8%84%B8%E8%87%AA%E6%8B%8D&Refer=top)
+
+1. [李长歌改名叫阿离](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E6%94%B9%E5%90%8D%E5%8F%AB%E9%98%BF%E7%A6%BB%23&Refer=top)
+
+1. [娜扎把捏脸杀说成掐脸杀](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E6%8A%8A%E6%8D%8F%E8%84%B8%E6%9D%80%E8%AF%B4%E6%88%90%E6%8E%90%E8%84%B8%E6%9D%80%23&Refer=top)
 
