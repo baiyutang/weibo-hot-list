@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 01:16:35
+## 微博今日热榜 更新于 2021-04-21 02:09:13
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -120,4 +120,12 @@
 1. [李长歌改名叫阿离](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E6%94%B9%E5%90%8D%E5%8F%AB%E9%98%BF%E7%A6%BB%23&Refer=top)
 
 1. [娜扎把捏脸杀说成掐脸杀](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E6%8A%8A%E6%8D%8F%E8%84%B8%E6%9D%80%E8%AF%B4%E6%88%90%E6%8E%90%E8%84%B8%E6%9D%80%23&Refer=top)
+
+1. [iPhone12紫色](https://s.weibo.com//weibo?q=iPhone12%E7%B4%AB%E8%89%B2&Refer=top)
+
+1. [AirTag](https://s.weibo.com//weibo?q=AirTag&Refer=top)
+
+1. [iPad Pro搭载M1芯片](https://s.weibo.com//weibo?q=iPad%20Pro%E6%90%AD%E8%BD%BDM1%E8%8A%AF%E7%89%87&Refer=top)
+
+1. [彩色iMac](https://s.weibo.com//weibo?q=%E5%BD%A9%E8%89%B2iMac&Refer=top)
 
