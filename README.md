@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-20 10:18:50
+## 微博今日热榜 更新于 2021-04-20 11:05:38
 1. [博鳌亚洲论坛2021年年会热点前瞻](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B2021%E5%B9%B4%E5%B9%B4%E4%BC%9A%E7%83%AD%E7%82%B9%E5%89%8D%E7%9E%BB%23&Refer=new_time)
 
 1. [吴磊 这不行这不守男德](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E8%BF%99%E4%B8%8D%E8%A1%8C%E8%BF%99%E4%B8%8D%E5%AE%88%E7%94%B7%E5%BE%B7&Refer=top)
@@ -220,4 +220,18 @@
 1. [你反感约会时对方带朋友吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%8D%E6%84%9F%E7%BA%A6%E4%BC%9A%E6%97%B6%E5%AF%B9%E6%96%B9%E5%B8%A6%E6%9C%8B%E5%8F%8B%E5%90%97%23&Refer=top)
 
 1. [库里连续11场得分超30分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E8%BF%9E%E7%BB%AD11%E5%9C%BA%E5%BE%97%E5%88%86%E8%B6%8530%E5%88%86&Refer=top)
+
+1. [周扬青 歌词](https://s.weibo.com//weibo?q=%E5%91%A8%E6%89%AC%E9%9D%92%20%E6%AD%8C%E8%AF%8D&Refer=top)
+
+1. [美国前副总统蒙代尔去世](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E8%92%99%E4%BB%A3%E5%B0%94%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [杜淳王灿得女](https://s.weibo.com//weibo?q=%E6%9D%9C%E6%B7%B3%E7%8E%8B%E7%81%BF%E5%BE%97%E5%A5%B3&Refer=top)
+
+1. [杜淳女儿叫小蛋饺](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%A5%B3%E5%84%BF%E5%8F%AB%E5%B0%8F%E8%9B%8B%E9%A5%BA%23&Refer=top)
+
+1. [北医三院回应医生反映肿瘤治疗乱象](https://s.weibo.com//weibo?q=%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%98%A0%E8%82%BF%E7%98%A4%E6%B2%BB%E7%96%97%E4%B9%B1%E8%B1%A1&Refer=top)
+
+1. [库里49分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C49%E5%88%86&Refer=top)
+
+1. [男子三次抱摔3岁女童被刑拘](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E4%B8%89%E6%AC%A1%E6%8A%B1%E6%91%943%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%88%91%E6%8B%98&Refer=top)
 
