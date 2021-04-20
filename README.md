@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 05:01:20
+## 微博今日热榜 更新于 2021-04-21 06:01:20
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
