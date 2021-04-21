@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 11:06:26
+## 微博今日热榜 更新于 2021-04-21 12:03:14
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -228,4 +228,28 @@
 1. [佟大为发长文谈教育孩子](https://s.weibo.com//weibo?q=%E4%BD%9F%E5%A4%A7%E4%B8%BA%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%95%99%E8%82%B2%E5%AD%A9%E5%AD%90&Refer=top)
 
 1. [哈登将无限期休战](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E5%B0%86%E6%97%A0%E9%99%90%E6%9C%9F%E4%BC%91%E6%88%98&Refer=top)
+
+1. [董明珠要求食堂给员工降价](https://s.weibo.com//weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E8%A6%81%E6%B1%82%E9%A3%9F%E5%A0%82%E7%BB%99%E5%91%98%E5%B7%A5%E9%99%8D%E4%BB%B7&Refer=top)
+
+1. [四川一火车上有猪羊成群穿行](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%9C%89%E7%8C%AA%E7%BE%8A%E6%88%90%E7%BE%A4%E7%A9%BF%E8%A1%8C%23&Refer=top)
+
+1. [万茜为十年老粉手绘Q像](https://s.weibo.com//weibo?q=%23%E4%B8%87%E8%8C%9C%E4%B8%BA%E5%8D%81%E5%B9%B4%E8%80%81%E7%B2%89%E6%89%8B%E7%BB%98Q%E5%83%8F%23&Refer=top)
+
+1. [你的婚礼终极预告](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [部分省市平安车险拒绝为特斯拉新车主上保](https://s.weibo.com//weibo?q=%E9%83%A8%E5%88%86%E7%9C%81%E5%B8%82%E5%B9%B3%E5%AE%89%E8%BD%A6%E9%99%A9%E6%8B%92%E7%BB%9D%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E4%B8%BB%E4%B8%8A%E4%BF%9D&Refer=top)
+
+1. [迪丽热巴龚俊 帝皇书](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%20%E5%B8%9D%E7%9A%87%E4%B9%A6&Refer=top)
+
+1. [从哪一瞬间发现自己老了](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%93%AA%E4%B8%80%E7%9E%AC%E9%97%B4%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%80%81%E4%BA%86%23&Refer=top)
+
+1. [指环王2定档预告](https://s.weibo.com//weibo?q=%E6%8C%87%E7%8E%AF%E7%8E%8B2%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [怎样治愈日常丧的情绪](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E6%B2%BB%E6%84%88%E6%97%A5%E5%B8%B8%E4%B8%A7%E7%9A%84%E6%83%85%E7%BB%AA%23&Refer=top)
+
+1. [男子带宝宝推婴儿车跑马拉松](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%B8%A6%E5%AE%9D%E5%AE%9D%E6%8E%A8%E5%A9%B4%E5%84%BF%E8%BD%A6%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE&Refer=top)
+
+1. [袁隆平超级杂交水稻移栽冲击世界纪录](https://s.weibo.com//weibo?q=%E8%A2%81%E9%9A%86%E5%B9%B3%E8%B6%85%E7%BA%A7%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E7%A7%BB%E6%A0%BD%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&Refer=top)
+
+1. [内蒙古省考成绩](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
 
