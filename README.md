@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 02:09:29
+## 微博今日热榜 更新于 2021-04-22 03:06:18
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -114,4 +114,8 @@
 1. [女足主帅称即刻进入奥运时间](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E5%8D%B3%E5%88%BB%E8%BF%9B%E5%85%A5%E5%A5%A5%E8%BF%90%E6%97%B6%E9%97%B4&Refer=top)
 
 1. [揭露BCI及美国制裁新疆棉花全过程](https://s.weibo.com//weibo?q=%23%E6%8F%AD%E9%9C%B2BCI%E5%8F%8A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%96%B0%E7%96%86%E6%A3%89%E8%8A%B1%E5%85%A8%E8%BF%87%E7%A8%8B%23&Refer=top)
+
+1. [我国首辆火星车名称24日揭晓](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B024%E6%97%A5%E6%8F%AD%E6%99%93%23&Refer=new_time)
+
+1. [15岁断指少年钢琴过10级](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E6%96%AD%E6%8C%87%E5%B0%91%E5%B9%B4%E9%92%A2%E7%90%B4%E8%BF%8710%E7%BA%A7%23&Refer=top)
 
