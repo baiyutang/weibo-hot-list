@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 12:03:14
+## 微博今日热榜 更新于 2021-04-21 13:05:23
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -252,4 +252,36 @@
 1. [袁隆平超级杂交水稻移栽冲击世界纪录](https://s.weibo.com//weibo?q=%E8%A2%81%E9%9A%86%E5%B9%B3%E8%B6%85%E7%BA%A7%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E7%A7%BB%E6%A0%BD%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&Refer=top)
 
 1. [内蒙古省考成绩](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [美国国防部称阿富汗主权应该被尊重](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%BB%E6%9D%83%E5%BA%94%E8%AF%A5%E8%A2%AB%E5%B0%8A%E9%87%8D&Refer=top)
+
+1. [假装路人去妈妈摊位买鸡排](https://s.weibo.com//weibo?q=%E5%81%87%E8%A3%85%E8%B7%AF%E4%BA%BA%E5%8E%BB%E5%A6%88%E5%A6%88%E6%91%8A%E4%BD%8D%E4%B9%B0%E9%B8%A1%E6%8E%92&Refer=top)
+
+1. [报警电话还未挂断贼就抓到了](https://s.weibo.com//weibo?q=%E6%8A%A5%E8%AD%A6%E7%94%B5%E8%AF%9D%E8%BF%98%E6%9C%AA%E6%8C%82%E6%96%AD%E8%B4%BC%E5%B0%B1%E6%8A%93%E5%88%B0%E4%BA%86&Refer=top)
+
+1. [向往的生活深情版海报](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E6%B7%B1%E6%83%85%E7%89%88%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [警方回应广州一特斯拉失控起火](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B9%BF%E5%B7%9E%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E5%A4%B1%E6%8E%A7%E8%B5%B7%E7%81%AB&Refer=top)
+
+1. [雪碧青桔冰](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E7%A2%A7%E9%9D%92%E6%A1%94%E5%86%B0%23&Refer=top)
+
+1. [指尖少年定档](https://s.weibo.com//weibo?q=%23%E6%8C%87%E5%B0%96%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [宝洁将涨价](https://s.weibo.com//weibo?q=%E5%AE%9D%E6%B4%81%E5%B0%86%E6%B6%A8%E4%BB%B7&Refer=top)
+
+1. [张翰吴宣仪加盟妻子的浪漫旅行5](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%8A%A0%E7%9B%9F%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C5%23&Refer=top)
+
+1. [AirTag的理想用途](https://s.weibo.com//weibo?q=AirTag%E7%9A%84%E7%90%86%E6%83%B3%E7%94%A8%E9%80%94&Refer=top)
+
+1. [不向命运低头会怎样](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%91%E5%91%BD%E8%BF%90%E4%BD%8E%E5%A4%B4%E4%BC%9A%E6%80%8E%E6%A0%B7%23&Refer=top)
+
+1. [丁真世界地球日大片](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [平安产险回应拒保特斯拉](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E4%BA%A7%E9%99%A9%E5%9B%9E%E5%BA%94%E6%8B%92%E4%BF%9D%E7%89%B9%E6%96%AF%E6%8B%89&Refer=top)
+
+1. [非洲男子深情背诵将进酒](https://s.weibo.com//weibo?q=%E9%9D%9E%E6%B4%B2%E7%94%B7%E5%AD%90%E6%B7%B1%E6%83%85%E8%83%8C%E8%AF%B5%E5%B0%86%E8%BF%9B%E9%85%92&Refer=top)
+
+1. [唐山通报数百亩耕地种树](https://s.weibo.com//weibo?q=%E5%94%90%E5%B1%B1%E9%80%9A%E6%8A%A5%E6%95%B0%E7%99%BE%E4%BA%A9%E8%80%95%E5%9C%B0%E7%A7%8D%E6%A0%91&Refer=top)
+
+1. [祁连山拍到赤狐一家6口](https://s.weibo.com//weibo?q=%E7%A5%81%E8%BF%9E%E5%B1%B1%E6%8B%8D%E5%88%B0%E8%B5%A4%E7%8B%90%E4%B8%80%E5%AE%B66%E5%8F%A3&Refer=top)
 
