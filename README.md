@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 00:04:14
+## 微博今日热榜 更新于 2021-04-22 01:17:26
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -102,4 +102,12 @@
 1. [小义的澜](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%B9%89%E7%9A%84%E6%BE%9C%23&Refer=top)
 
 1. [赵继伟21分](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F21%E5%88%86%23&Refer=top)
+
+1. [一季度全国纪检监察机关共处分11.6万人](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%85%A8%E5%9B%BD%E7%BA%AA%E6%A3%80%E7%9B%91%E5%AF%9F%E6%9C%BA%E5%85%B3%E5%85%B1%E5%A4%84%E5%88%8611.6%E4%B8%87%E4%BA%BA%23&Refer=new_time)
+
+1. [井胧后援会号召粉丝给甘望星投票](https://s.weibo.com//weibo?q=%23%E4%BA%95%E8%83%A7%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%8F%B7%E5%8F%AC%E7%B2%89%E4%B8%9D%E7%BB%99%E7%94%98%E6%9C%9B%E6%98%9F%E6%8A%95%E7%A5%A8%23&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
