@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 07:01:36
+## 微博今日热榜 更新于 2021-04-21 08:03:41
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -138,4 +138,24 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [官鸿 我不太喜欢拿错剧本这种说法](https://s.weibo.com//weibo?q=%E5%AE%98%E9%B8%BF%20%E6%88%91%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E6%8B%BF%E9%94%99%E5%89%A7%E6%9C%AC%E8%BF%99%E7%A7%8D%E8%AF%B4%E6%B3%95&Refer=top)
+
+1. [脱粉](https://s.weibo.com//weibo?q=%E8%84%B1%E7%B2%89&Refer=top)
+
+1. [弗洛伊德案宣判](https://s.weibo.com//weibo?q=%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E6%A1%88%E5%AE%A3%E5%88%A4&Refer=top)
+
+1. [云南新增2例确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [拜登致电弗洛伊德家人](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E8%87%B4%E7%94%B5%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E5%AE%B6%E4%BA%BA&Refer=top)
+
+1. [一鹿彤行](https://s.weibo.com//weibo?q=%E4%B8%80%E9%B9%BF%E5%BD%A4%E8%A1%8C&Refer=top)
+
+1. [一饼茶叶可以买一辆宝马](https://s.weibo.com//weibo?q=%E4%B8%80%E9%A5%BC%E8%8C%B6%E5%8F%B6%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%80%E8%BE%86%E5%AE%9D%E9%A9%AC&Refer=top)
+
+1. [曼城退出欧洲超级联赛](https://s.weibo.com//weibo?q=%E6%9B%BC%E5%9F%8E%E9%80%80%E5%87%BA%E6%AC%A7%E6%B4%B2%E8%B6%85%E7%BA%A7%E8%81%94%E8%B5%9B&Refer=top)
+
+1. [比得兔2确认引进](https://s.weibo.com//weibo?q=%E6%AF%94%E5%BE%97%E5%85%942%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B&Refer=top)
+
+1. [英超球队集体退出欧超](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%B6%85%E7%90%83%E9%98%9F%E9%9B%86%E4%BD%93%E9%80%80%E5%87%BA%E6%AC%A7%E8%B6%85&Refer=top)
+
+1. [哈登伤势复发](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E4%BC%A4%E5%8A%BF%E5%A4%8D%E5%8F%91&Refer=top)
 
