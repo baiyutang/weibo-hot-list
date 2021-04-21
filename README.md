@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 03:06:18
+## 微博今日热榜 更新于 2021-04-22 04:01:05
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -118,4 +118,8 @@
 1. [我国首辆火星车名称24日揭晓](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B024%E6%97%A5%E6%8F%AD%E6%99%93%23&Refer=new_time)
 
 1. [15岁断指少年钢琴过10级](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E6%96%AD%E6%8C%87%E5%B0%91%E5%B9%B4%E9%92%A2%E7%90%B4%E8%BF%8710%E7%BA%A7%23&Refer=top)
+
+1. [合肥一幼儿园被指使用变质果蔬](https://s.weibo.com//weibo?q=%23%E5%90%88%E8%82%A5%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%8C%87%E4%BD%BF%E7%94%A8%E5%8F%98%E8%B4%A8%E6%9E%9C%E8%94%AC%23&Refer=top)
+
+1. [法式复古海报妆](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BC%8F%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%8A%A5%E5%A6%86%23&Refer=top)
 
