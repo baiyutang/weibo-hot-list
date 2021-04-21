@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 09:24:53
+## 微博今日热榜 更新于 2021-04-21 10:19:25
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -184,4 +184,28 @@
 1. [欧超暂停](https://s.weibo.com//weibo?q=%E6%AC%A7%E8%B6%85%E6%9A%82%E5%81%9C&Refer=top)
 
 1. [丁俊晖负宾汉姆](https://s.weibo.com//weibo?q=%E4%B8%81%E4%BF%8A%E6%99%96%E8%B4%9F%E5%AE%BE%E6%B1%89%E5%A7%86&Refer=top)
+
+1. [为什么中国脱贫攻坚能取得成功](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E8%83%BD%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F%23&Refer=new_time)
+
+1. [女生道歉专用头像](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89%E4%B8%93%E7%94%A8%E5%A4%B4%E5%83%8F%23&Refer=top)
+
+1. [印度飞香港一航班机上53人确诊](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E9%A3%9E%E9%A6%99%E6%B8%AF%E4%B8%80%E8%88%AA%E7%8F%AD%E6%9C%BA%E4%B8%8A53%E4%BA%BA%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [领导人气候峰会](https://s.weibo.com//weibo?q=%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A&Refer=top)
+
+1. [误入他人世界的瞬间](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E5%85%A5%E4%BB%96%E4%BA%BA%E4%B8%96%E7%95%8C%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [肖万获罪美国民众激动流泪](https://s.weibo.com//weibo?q=%E8%82%96%E4%B8%87%E8%8E%B7%E7%BD%AA%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E6%BF%80%E5%8A%A8%E6%B5%81%E6%B3%AA&Refer=top)
+
+1. [小伙画辐世绘diss日本核废水](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%99%E7%94%BB%E8%BE%90%E4%B8%96%E7%BB%98diss%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4&Refer=top)
+
+1. [60多国将汉语教学纳入国民教育体系](https://s.weibo.com//weibo?q=60%E5%A4%9A%E5%9B%BD%E5%B0%86%E6%B1%89%E8%AF%AD%E6%95%99%E5%AD%A6%E7%BA%B3%E5%85%A5%E5%9B%BD%E6%B0%91%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB&Refer=top)
+
+1. [福州防空警报](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%B7%9E%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&Refer=top)
+
+1. [弗洛伊德案宣判后家人振臂高呼](https://s.weibo.com//weibo?q=%23%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E6%A1%88%E5%AE%A3%E5%88%A4%E5%90%8E%E5%AE%B6%E4%BA%BA%E6%8C%AF%E8%87%82%E9%AB%98%E5%91%BC%23&Refer=top)
+
+1. [云南大学食堂推出玫瑰宴](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E6%8E%A8%E5%87%BA%E7%8E%AB%E7%91%B0%E5%AE%B4%23&Refer=top)
+
+1. [唐山耕地种树初查情况公布](https://s.weibo.com//weibo?q=%E5%94%90%E5%B1%B1%E8%80%95%E5%9C%B0%E7%A7%8D%E6%A0%91%E5%88%9D%E6%9F%A5%E6%83%85%E5%86%B5%E5%85%AC%E5%B8%83&Refer=top)
 
