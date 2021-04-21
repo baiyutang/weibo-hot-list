@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 05:01:31
+## 微博今日热榜 更新于 2021-04-22 06:01:07
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
