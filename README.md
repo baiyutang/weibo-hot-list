@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 13:05:20
+## 微博今日热榜 更新于 2021-04-22 14:01:25
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -252,4 +252,20 @@
 1. [沈阳防空警报](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&Refer=top)
 
 1. [龚俊丁程鑫四川话版山河令](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9B%E5%B7%9D%E8%AF%9D%E7%89%88%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [香奈儿诉华为logo侵权败诉](https://s.weibo.com//weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%AF%89%E5%8D%8E%E4%B8%BAlogo%E4%BE%B5%E6%9D%83%E8%B4%A5%E8%AF%89%23&Refer=top)
+
+1. [重庆上海广州轨道交通乘车码互通](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E4%B8%8A%E6%B5%B7%E5%B9%BF%E5%B7%9E%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E4%B9%98%E8%BD%A6%E7%A0%81%E4%BA%92%E9%80%9A&Refer=top)
+
+1. [点餐浪费或被收取厨余垃圾处理费](https://s.weibo.com//weibo?q=%E7%82%B9%E9%A4%90%E6%B5%AA%E8%B4%B9%E6%88%96%E8%A2%AB%E6%94%B6%E5%8F%96%E5%8E%A8%E4%BD%99%E5%9E%83%E5%9C%BE%E5%A4%84%E7%90%86%E8%B4%B9&Refer=top)
+
+1. [豆瓣崩了](https://s.weibo.com//weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [小伙忙工作饥一顿饱一顿患胃癌](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%99%E5%BF%99%E5%B7%A5%E4%BD%9C%E9%A5%A5%E4%B8%80%E9%A1%BF%E9%A5%B1%E4%B8%80%E9%A1%BF%E6%82%A3%E8%83%83%E7%99%8C&Refer=top)
+
+1. [那些有趣的耳机保护套](https://s.weibo.com//weibo?q=%E9%82%A3%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%E8%80%B3%E6%9C%BA%E4%BF%9D%E6%8A%A4%E5%A5%97&Refer=top)
+
+1. [15岁黑人少女被警察枪杀案报警录音](https://s.weibo.com//weibo?q=15%E5%B2%81%E9%BB%91%E4%BA%BA%E5%B0%91%E5%A5%B3%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9E%AA%E6%9D%80%E6%A1%88%E6%8A%A5%E8%AD%A6%E5%BD%95%E9%9F%B3&Refer=top)
+
+1. [3000名中学生课间操玩贪吃蛇](https://s.weibo.com//weibo?q=3000%E5%90%8D%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%AF%BE%E9%97%B4%E6%93%8D%E7%8E%A9%E8%B4%AA%E5%90%83%E8%9B%87&Refer=top)
 
