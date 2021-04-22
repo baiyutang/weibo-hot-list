@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 08:04:03
+## 微博今日热榜 更新于 2021-04-22 09:25:08
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -136,4 +136,32 @@
 1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
 
 1. [世界地球日](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5%23&Refer=top)
+
+1. [我国约有70万名发作性睡病患者](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%A6%E6%9C%8970%E4%B8%87%E5%90%8D%E5%8F%91%E4%BD%9C%E6%80%A7%E7%9D%A1%E7%97%85%E6%82%A3%E8%80%85%23&Refer=top)
+
+1. [张哲瀚身材](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E8%BA%AB%E6%9D%90%23&Refer=top)
+
+1. [黑龙江一企业4名工人检修时中毒死亡](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E4%BC%81%E4%B8%9A4%E5%90%8D%E5%B7%A5%E4%BA%BA%E6%A3%80%E4%BF%AE%E6%97%B6%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [鄂尔多斯启动HPV疫苗免费接种](https://s.weibo.com//weibo?q=%23%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E5%90%AF%E5%8A%A8HPV%E7%96%AB%E8%8B%97%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=top)
+
+1. [感受到父母偏心的瞬间](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%8F%97%E5%88%B0%E7%88%B6%E6%AF%8D%E5%81%8F%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [弗洛伊德案宣判前又现警察枪杀非裔女孩](https://s.weibo.com//weibo?q=%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E6%A1%88%E5%AE%A3%E5%88%A4%E5%89%8D%E5%8F%88%E7%8E%B0%E8%AD%A6%E5%AF%9F%E6%9E%AA%E6%9D%80%E9%9D%9E%E8%A3%94%E5%A5%B3%E5%AD%A9&Refer=top)
+
+1. [姚策生母称将抚养姚策儿子](https://s.weibo.com//weibo?q=%E5%A7%9A%E7%AD%96%E7%94%9F%E6%AF%8D%E7%A7%B0%E5%B0%86%E6%8A%9A%E5%85%BB%E5%A7%9A%E7%AD%96%E5%84%BF%E5%AD%90&Refer=top)
+
+1. [把风筝玩成无人机最大队员70岁](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E9%A3%8E%E7%AD%9D%E7%8E%A9%E6%88%90%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9C%80%E5%A4%A7%E9%98%9F%E5%91%9870%E5%B2%81%23&Refer=top)
+
+1. [高原精灵雪中迁徙](https://s.weibo.com//weibo?q=%E9%AB%98%E5%8E%9F%E7%B2%BE%E7%81%B5%E9%9B%AA%E4%B8%AD%E8%BF%81%E5%BE%99&Refer=top)
+
+1. [31省区市新增6例确诊均为境外输入](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E6%E4%BE%8B%E7%A1%AE%E8%AF%8A%E5%9D%87%E4%B8%BA%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%23&Refer=top)
+
+1. [刘昊然抢不到痛仰乐队现场票](https://s.weibo.com//weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E6%8A%A2%E4%B8%8D%E5%88%B0%E7%97%9B%E4%BB%B0%E4%B9%90%E9%98%9F%E7%8E%B0%E5%9C%BA%E7%A5%A8&Refer=top)
+
+1. [巴基斯坦酒店爆炸致4死12伤](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%85%92%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B44%E6%AD%BB12%E4%BC%A4%23&Refer=top)
+
+1. [白敬亭台词 我不干净了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%B0%E8%AF%8D%20%E6%88%91%E4%B8%8D%E5%B9%B2%E5%87%80%E4%BA%86&Refer=top)
 
