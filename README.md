@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 01:18:43
+## 微博今日热榜 更新于 2021-04-23 02:10:35
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -108,4 +108,12 @@
 1. [王源冲天辫](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%86%B2%E5%A4%A9%E8%BE%AB%23&Refer=top)
 
 1. [共同构建人与自然生命共同体](https://s.weibo.com//weibo?q=%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93&Refer=top)
+
+1. [领导人气候峰会](https://s.weibo.com//weibo?q=%23%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A%23&Refer=new_time)
+
+1. [佟大为 父亲会影响女儿的择偶标准](https://s.weibo.com//weibo?q=%E4%BD%9F%E5%A4%A7%E4%B8%BA%20%E7%88%B6%E4%BA%B2%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%A5%B3%E5%84%BF%E7%9A%84%E6%8B%A9%E5%81%B6%E6%A0%87%E5%87%86&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [特斯拉称将配合调查接受监督](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%A7%B0%E5%B0%86%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E6%8E%A5%E5%8F%97%E7%9B%91%E7%9D%A3&Refer=top)
 
