@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 19:01:06
+## 微博今日热榜 更新于 2021-04-22 20:01:18
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -400,4 +400,32 @@
 1. [天琴座流星雨](https://s.weibo.com//weibo?q=%E5%A4%A9%E7%90%B4%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&Refer=top)
 
 1. [爷青回日系JK妆](https://s.weibo.com//weibo?q=%23%E7%88%B7%E9%9D%92%E5%9B%9E%E6%97%A5%E7%B3%BBJK%E5%A6%86%23&Refer=top)
+
+1. [特斯拉提供刹车事故前1分钟数据](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E5%88%B9%E8%BD%A6%E4%BA%8B%E6%95%85%E5%89%8D1%E5%88%86%E9%92%9F%E6%95%B0%E6%8D%AE%23&Refer=top)
+
+1. [杨超越回眸](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%9B%9E%E7%9C%B8%23&Refer=top)
+
+1. [花21万元补数学考59分](https://s.weibo.com//weibo?q=%23%E8%8A%B121%E4%B8%87%E5%85%83%E8%A1%A5%E6%95%B0%E5%AD%A6%E8%80%8359%E5%88%86%23&Refer=top)
+
+1. [Off感染新冠](https://s.weibo.com//weibo?q=%23Off%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
+
+1. [从12楼扔下行李箱男子被逮捕](https://s.weibo.com//weibo?q=%E4%BB%8E12%E6%A5%BC%E6%89%94%E4%B8%8B%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%94%B7%E5%AD%90%E8%A2%AB%E9%80%AE%E6%8D%95&Refer=top)
+
+1. [广西一幼儿园老师连踹2名男童](https://s.weibo.com//weibo?q=%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E8%BF%9E%E8%B8%B92%E5%90%8D%E7%94%B7%E7%AB%A5&Refer=top)
+
+1. [青春有你](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0&Refer=top)
+
+1. [翟潇闻蓝发](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E8%93%9D%E5%8F%91%23&Refer=top)
+
+1. [黄金油炸奶茶](https://s.weibo.com//weibo?q=%23%E9%BB%84%E9%87%91%E6%B2%B9%E7%82%B8%E5%A5%B6%E8%8C%B6%23&Refer=top)
+
+1. [王祖贤背影](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%83%8C%E5%BD%B1&Refer=top)
+
+1. [创4芭莎故事感大片](https://s.weibo.com//weibo?q=%23%E5%88%9B4%E8%8A%AD%E8%8E%8E%E6%95%85%E4%BA%8B%E6%84%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [特斯拉称将配合调查接受监督](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%A7%B0%E5%B0%86%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%E6%8E%A5%E5%8F%97%E7%9B%91%E7%9D%A3&Refer=top)
+
+1. [硬盘3天狂降2000元](https://s.weibo.com//weibo?q=%E7%A1%AC%E7%9B%983%E5%A4%A9%E7%8B%82%E9%99%8D2000%E5%85%83&Refer=top)
+
+1. [东航辟谣员工不雅聊天记录](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%88%AA%E8%BE%9F%E8%B0%A3%E5%91%98%E5%B7%A5%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&Refer=top)
 
