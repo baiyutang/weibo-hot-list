@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 12:02:33
+## 微博今日热榜 更新于 2021-04-22 13:05:20
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -226,4 +226,30 @@
 1. [清华大学成立集成电路学院](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%88%90%E7%AB%8B%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E5%AD%A6%E9%99%A2%23&Refer=top)
 
 1. [千年古盐田犹如大地眼影盘](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E5%8F%A4%E7%9B%90%E7%94%B0%E7%8A%B9%E5%A6%82%E5%A4%A7%E5%9C%B0%E7%9C%BC%E5%BD%B1%E7%9B%98%23&Refer=top)
+
+1. [领导人气候峰会](https://s.weibo.com//weibo?q=%23%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A%23&Refer=new_time)
+
+1. [刘亦菲做针灸](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%81%9A%E9%92%88%E7%81%B8%23&Refer=top)
+
+1. [白敬亭 全世界都知道我不干净了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E6%88%91%E4%B8%8D%E5%B9%B2%E5%87%80%E4%BA%86&Refer=top)
+
+1. [B站小电视商标遭驳回](https://s.weibo.com//weibo?q=B%E7%AB%99%E5%B0%8F%E7%94%B5%E8%A7%86%E5%95%86%E6%A0%87%E9%81%AD%E9%A9%B3%E5%9B%9E&Refer=top)
+
+1. [学校能有多抠门](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%83%BD%E6%9C%89%E5%A4%9A%E6%8A%A0%E9%97%A8%23&Refer=top)
+
+1. [李振宁工作室声明](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%8C%AF%E5%AE%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [李振宁回应与工作人员恋情](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%81%8B%E6%83%85&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [美国一麦当劳来面试就送50美元](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%9D%A5%E9%9D%A2%E8%AF%95%E5%B0%B1%E9%80%8150%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [印尼失联潜艇或沉入水下700米](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%BC%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%88%96%E6%B2%89%E5%85%A5%E6%B0%B4%E4%B8%8B700%E7%B1%B3&Refer=top)
+
+1. [海关截获5只活体海格力斯长戟大兜虫](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B75%E5%8F%AA%E6%B4%BB%E4%BD%93%E6%B5%B7%E6%A0%BC%E5%8A%9B%E6%96%AF%E9%95%BF%E6%88%9F%E5%A4%A7%E5%85%9C%E8%99%AB&Refer=top)
+
+1. [沈阳防空警报](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&Refer=top)
+
+1. [龚俊丁程鑫四川话版山河令](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%9B%E5%B7%9D%E8%AF%9D%E7%89%88%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
