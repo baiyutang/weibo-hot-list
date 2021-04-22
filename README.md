@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 17:01:37
+## 微博今日热榜 更新于 2021-04-22 18:01:16
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -344,4 +344,28 @@
 1. [伟大友谊姐妹的开端](https://s.weibo.com//weibo?q=%23%E4%BC%9F%E5%A4%A7%E5%8F%8B%E8%B0%8A%E5%A7%90%E5%A6%B9%E7%9A%84%E5%BC%80%E7%AB%AF%23&Refer=top)
 
 1. [央美学生刺绣作品](https://s.weibo.com//weibo?q=%E5%A4%AE%E7%BE%8E%E5%AD%A6%E7%94%9F%E5%88%BA%E7%BB%A3%E4%BD%9C%E5%93%81&Refer=top)
+
+1. [奥斯卡评委夸易烊千玺](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E8%AF%84%E5%A7%94%E5%A4%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&Refer=top)
+
+1. [汪文斌提醒日方人类只有一个地球](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E6%8F%90%E9%86%92%E6%97%A5%E6%96%B9%E4%BA%BA%E7%B1%BB%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%B0%E7%90%83%23&Refer=top)
+
+1. [巴基斯坦酒店遭袭击时中国代表团外出](https://s.weibo.com//weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%85%92%E5%BA%97%E9%81%AD%E8%A2%AD%E5%87%BB%E6%97%B6%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%96%E5%87%BA&Refer=top)
+
+1. [刘昊然辣评痛仰](https://s.weibo.com//weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E8%BE%A3%E8%AF%84%E7%97%9B%E4%BB%B0&Refer=top)
+
+1. [原来你是这样的人民海军](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B&Refer=top)
+
+1. [鹿晗ELLEMEN封面](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97ELLEMEN%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [如梦之梦repo](https://s.weibo.com//weibo?q=%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6repo&Refer=top)
+
+1. [伊朗无人机拍美航母近距离画面](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8B%8D%E7%BE%8E%E8%88%AA%E6%AF%8D%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [陕西千年渡口摆渡人即将失业](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E5%8D%83%E5%B9%B4%E6%B8%A1%E5%8F%A3%E6%91%86%E6%B8%A1%E4%BA%BA%E5%8D%B3%E5%B0%86%E5%A4%B1%E4%B8%9A&Refer=top)
+
+1. [广西唯一的世界地质公园遭破坏性开发](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%94%AF%E4%B8%80%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD%E9%81%AD%E7%A0%B4%E5%9D%8F%E6%80%A7%E5%BC%80%E5%8F%91%23&Refer=top)
+
+1. [法式浪漫树莓妆](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BC%8F%E6%B5%AA%E6%BC%AB%E6%A0%91%E8%8E%93%E5%A6%86%23&Refer=top)
+
+1. [2021一季度居民收入榜](https://s.weibo.com//weibo?q=2021%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5%E6%A6%9C&Refer=top)
 
