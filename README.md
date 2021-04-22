@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 10:19:52
+## 微博今日热榜 更新于 2021-04-22 11:06:39
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -174,4 +174,22 @@
 1. [Bo禁赛四个月](https://s.weibo.com//weibo?q=Bo%E7%A6%81%E8%B5%9B%E5%9B%9B%E4%B8%AA%E6%9C%88&Refer=top)
 
 1. [拜登宣布接种2亿剂新冠疫苗任务完成](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E6%8E%A5%E7%A7%8D2%E4%BA%BF%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%23&Refer=top)
+
+1. [9个数字看中国环保贡献](https://s.weibo.com//weibo?q=%239%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%8E%AF%E4%BF%9D%E8%B4%A1%E7%8C%AE%23&Refer=new_time)
+
+1. [李佳航 耳濡目染是最好的教育](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E8%80%B3%E6%BF%A1%E7%9B%AE%E6%9F%93%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%95%99%E8%82%B2&Refer=top)
+
+1. [诈骗团伙用翻译软件专骗外国女性](https://s.weibo.com//weibo?q=%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99%E7%94%A8%E7%BF%BB%E8%AF%91%E8%BD%AF%E4%BB%B6%E4%B8%93%E9%AA%97%E5%A4%96%E5%9B%BD%E5%A5%B3%E6%80%A7&Refer=top)
+
+1. [美参院将施压拜登政府对抗中国](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%8F%82%E9%99%A2%E5%B0%86%E6%96%BD%E5%8E%8B%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD&Refer=top)
+
+1. [山西一动物园圈养泰迪](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9C%88%E5%85%BB%E6%B3%B0%E8%BF%AA&Refer=top)
+
+1. [大连出现中华白海豚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%87%BA%E7%8E%B0%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23&Refer=top)
+
+1. [8岁孩子给父母报辅导班](https://s.weibo.com//weibo?q=8%E5%B2%81%E5%AD%A9%E5%AD%90%E7%BB%99%E7%88%B6%E6%AF%8D%E6%8A%A5%E8%BE%85%E5%AF%BC%E7%8F%AD&Refer=top)
+
+1. [林巧稚逝世38周年](https://s.weibo.com//weibo?q=%E6%9E%97%E5%B7%A7%E7%A8%9A%E9%80%9D%E4%B8%9638%E5%91%A8%E5%B9%B4&Refer=top)
+
+1. [女演员发言可以有多绝](https://s.weibo.com//weibo?q=%E5%A5%B3%E6%BC%94%E5%91%98%E5%8F%91%E8%A8%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%BB%9D&Refer=top)
 
