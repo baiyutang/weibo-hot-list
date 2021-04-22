@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 18:01:16
+## 微博今日热榜 更新于 2021-04-22 19:01:06
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -368,4 +368,36 @@
 1. [法式浪漫树莓妆](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BC%8F%E6%B5%AA%E6%BC%AB%E6%A0%91%E8%8E%93%E5%A6%86%23&Refer=top)
 
 1. [2021一季度居民收入榜](https://s.weibo.com//weibo?q=2021%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%B1%85%E6%B0%91%E6%94%B6%E5%85%A5%E6%A6%9C&Refer=top)
+
+1. [余景天回应15岁做中国新歌声评委](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E5%9B%9E%E5%BA%9415%E5%B2%81%E5%81%9A%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%AD%8C%E5%A3%B0%E8%AF%84%E5%A7%94%23&Refer=top)
+
+1. [林书豪想回亚洲打球](https://s.weibo.com//weibo?q=%E6%9E%97%E4%B9%A6%E8%B1%AA%E6%83%B3%E5%9B%9E%E4%BA%9A%E6%B4%B2%E6%89%93%E7%90%83&Refer=top)
+
+1. [寻找周杰伦停止再版发行](https://s.weibo.com//weibo?q=%23%E5%AF%BB%E6%89%BE%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%81%9C%E6%AD%A2%E5%86%8D%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=top)
+
+1. [龚俊帮张哲瀚认人](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%B8%AE%E5%BC%A0%E5%93%B2%E7%80%9A%E8%AE%A4%E4%BA%BA%23&Refer=top)
+
+1. [肖战演的五号病人](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E7%9A%84%E4%BA%94%E5%8F%B7%E7%97%85%E4%BA%BA&Refer=top)
+
+1. [建立中国自主棉花标准体系](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E4%B8%AD%E5%9B%BD%E8%87%AA%E4%B8%BB%E6%A3%89%E8%8A%B1%E6%A0%87%E5%87%86%E4%BD%93%E7%B3%BB%23&Refer=top)
+
+1. [白发奶奶设计师开个人时装秀](https://s.weibo.com//weibo?q=%E7%99%BD%E5%8F%91%E5%A5%B6%E5%A5%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%BC%80%E4%B8%AA%E4%BA%BA%E6%97%B6%E8%A3%85%E7%A7%80&Refer=top)
+
+1. [摩托车驾考人数成倍暴涨](https://s.weibo.com//weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E9%A9%BE%E8%80%83%E4%BA%BA%E6%95%B0%E6%88%90%E5%80%8D%E6%9A%B4%E6%B6%A8%23&Refer=top)
+
+1. [AI首次预测未来两年气候](https://s.weibo.com//weibo?q=AI%E9%A6%96%E6%AC%A1%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%B8%A4%E5%B9%B4%E6%B0%94%E5%80%99&Refer=top)
+
+1. [青你3训练生随机女团舞挑战](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E8%AE%AD%E7%BB%83%E7%94%9F%E9%9A%8F%E6%9C%BA%E5%A5%B3%E5%9B%A2%E8%88%9E%E6%8C%91%E6%88%98&Refer=top)
+
+1. [一袋火锅底料牵出跨省贩毒链](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%A2%8B%E7%81%AB%E9%94%85%E5%BA%95%E6%96%99%E7%89%B5%E5%87%BA%E8%B7%A8%E7%9C%81%E8%B4%A9%E6%AF%92%E9%93%BE%23&Refer=top)
+
+1. [李一桐教许凯方言版快乐星球](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%95%99%E8%AE%B8%E5%87%AF%E6%96%B9%E8%A8%80%E7%89%88%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [林俊杰晒与蔡依林合照](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%99%92%E4%B8%8E%E8%94%A1%E4%BE%9D%E6%9E%97%E5%90%88%E7%85%A7&Refer=top)
+
+1. [网红第一股如涵控股美股退市](https://s.weibo.com//weibo?q=%E7%BD%91%E7%BA%A2%E7%AC%AC%E4%B8%80%E8%82%A1%E5%A6%82%E6%B6%B5%E6%8E%A7%E8%82%A1%E7%BE%8E%E8%82%A1%E9%80%80%E5%B8%82&Refer=top)
+
+1. [天琴座流星雨](https://s.weibo.com//weibo?q=%E5%A4%A9%E7%90%B4%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&Refer=top)
+
+1. [爷青回日系JK妆](https://s.weibo.com//weibo?q=%23%E7%88%B7%E9%9D%92%E5%9B%9E%E6%97%A5%E7%B3%BBJK%E5%A6%86%23&Refer=top)
 
