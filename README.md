@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 09:25:08
+## 微博今日热榜 更新于 2021-04-22 10:19:52
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -164,4 +164,14 @@
 1. [巴基斯坦酒店爆炸致4死12伤](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%85%92%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B44%E6%AD%BB12%E4%BC%A4%23&Refer=top)
 
 1. [白敬亭台词 我不干净了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%B0%E8%AF%8D%20%E6%88%91%E4%B8%8D%E5%B9%B2%E5%87%80%E4%BA%86&Refer=top)
+
+1. [土耳其房价涨幅居全球首位](https://s.weibo.com//weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E6%88%BF%E4%BB%B7%E6%B6%A8%E5%B9%85%E5%B1%85%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D%23&Refer=top)
+
+1. [中国刑警主演](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%91%E8%AD%A6%E4%B8%BB%E6%BC%94%23&Refer=top)
+
+1. [库里生涯18000分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E7%94%9F%E6%B6%AF18000%E5%88%86&Refer=top)
+
+1. [Bo禁赛四个月](https://s.weibo.com//weibo?q=Bo%E7%A6%81%E8%B5%9B%E5%9B%9B%E4%B8%AA%E6%9C%88&Refer=top)
+
+1. [拜登宣布接种2亿剂新冠疫苗任务完成](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E6%8E%A5%E7%A7%8D2%E4%BA%BF%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%23&Refer=top)
 
