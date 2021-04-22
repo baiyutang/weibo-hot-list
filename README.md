@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 06:01:19
+## 微博今日热榜 更新于 2021-04-23 07:01:27
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [职工医保可支付家庭成员在定点医院费用](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E5%8F%AF%E6%94%AF%E4%BB%98%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98%E5%9C%A8%E5%AE%9A%E7%82%B9%E5%8C%BB%E9%99%A2%E8%B4%B9%E7%94%A8%23&Refer=new_time)
 
 1. [张哲瀚 我在我生命每个阶段都尽力了](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E6%88%91%E5%9C%A8%E6%88%91%E7%94%9F%E5%91%BD%E6%AF%8F%E4%B8%AA%E9%98%B6%E6%AE%B5%E9%83%BD%E5%B0%BD%E5%8A%9B%E4%BA%86&Refer=top)
+
+1. [杨迪被丁程鑫悬空拎起](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%A2%AB%E4%B8%81%E7%A8%8B%E9%91%AB%E6%82%AC%E7%A9%BA%E6%8B%8E%E8%B5%B7%23&Refer=top)
+
+1. [黄渤新片学爸开机](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B8%A4%E6%96%B0%E7%89%87%E5%AD%A6%E7%88%B8%E5%BC%80%E6%9C%BA%23&Refer=top)
 
