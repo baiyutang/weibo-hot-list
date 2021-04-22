@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 22:01:30
+## 微博今日热榜 更新于 2021-04-22 23:01:11
 1. [绝美新疆生活纪录片](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E%E6%96%B0%E7%96%86%E7%94%9F%E6%B4%BB%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -482,4 +482,32 @@
 1. [共同构建人与自然生命共同体](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E7%94%9F%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93%23&Refer=top)
 
 1. [支持有条件地方和重点行业企业率先达峰](https://s.weibo.com//weibo?q=%E6%94%AF%E6%8C%81%E6%9C%89%E6%9D%A1%E4%BB%B6%E5%9C%B0%E6%96%B9%E5%92%8C%E9%87%8D%E7%82%B9%E8%A1%8C%E4%B8%9A%E4%BC%81%E4%B8%9A%E7%8E%87%E5%85%88%E8%BE%BE%E5%B3%B0&Refer=top)
+
+1. [赵露思工作室声明](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&Refer=top)
+
+1. [付国豪离职](https://s.weibo.com//weibo?q=%E4%BB%98%E5%9B%BD%E8%B1%AA%E7%A6%BB%E8%81%8C&Refer=top)
+
+1. [蔡徐坤进被窝速度](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%BF%9B%E8%A2%AB%E7%AA%9D%E9%80%9F%E5%BA%A6%23&Refer=top)
+
+1. [广东第16次杀进总决赛](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%AC%AC16%E6%AC%A1%E6%9D%80%E8%BF%9B%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [创造营25强决赛倒计时采访](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A525%E5%BC%BA%E5%86%B3%E8%B5%9B%E5%80%92%E8%AE%A1%E6%97%B6%E9%87%87%E8%AE%BF%23&Refer=top)
+
+1. [唐九洲写给艾克里里的信好感人](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E5%86%99%E7%BB%99%E8%89%BE%E5%85%8B%E9%87%8C%E9%87%8C%E7%9A%84%E4%BF%A1%E5%A5%BD%E6%84%9F%E4%BA%BA%23&Refer=top)
+
+1. [张哲瀚怼脸拍](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E6%80%BC%E8%84%B8%E6%8B%8D&Refer=top)
+
+1. [梁辰陆景门后壁咚吻](https://s.weibo.com//weibo?q=%23%E6%A2%81%E8%BE%B0%E9%99%86%E6%99%AF%E9%97%A8%E5%90%8E%E5%A3%81%E5%92%9A%E5%90%BB%23&Refer=top)
+
+1. [浙江舟山海域一渔船沉没5人失联](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B1%E6%B5%B7%E5%9F%9F%E4%B8%80%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A15%E4%BA%BA%E5%A4%B1%E8%81%94&Refer=top)
+
+1. [西安某高校发生持刀劫持事件](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E6%9F%90%E9%AB%98%E6%A0%A1%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E5%8A%AB%E6%8C%81%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [周九良说隼单纯](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9D%E8%89%AF%E8%AF%B4%E9%9A%BC%E5%8D%95%E7%BA%AF%23&Refer=top)
+
+1. [蔡菊英大闹南俪公司](https://s.weibo.com//weibo?q=%23%E8%94%A1%E8%8F%8A%E8%8B%B1%E5%A4%A7%E9%97%B9%E5%8D%97%E4%BF%AA%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [李宇春社死现场影像](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%E5%BD%B1%E5%83%8F%23&Refer=top)
+
+1. [高诗岩关键上篮不进](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%AF%97%E5%B2%A9%E5%85%B3%E9%94%AE%E4%B8%8A%E7%AF%AE%E4%B8%8D%E8%BF%9B%23&Refer=top)
 
