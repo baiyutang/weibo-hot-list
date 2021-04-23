@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 17:02:08
+## 微博今日热榜 更新于 2021-04-23 18:01:20
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -348,4 +348,22 @@
 1. [少女追星被骗14万余元](https://s.weibo.com//weibo?q=%23%E5%B0%91%E5%A5%B3%E8%BF%BD%E6%98%9F%E8%A2%AB%E9%AA%9714%E4%B8%87%E4%BD%99%E5%85%83%23&Refer=top)
 
 1. [93款APP未完成整改被工信部点名](https://s.weibo.com//weibo?q=%2393%E6%AC%BEAPP%E6%9C%AA%E5%AE%8C%E6%88%90%E6%95%B4%E6%94%B9%E8%A2%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%82%B9%E5%90%8D%23&Refer=top)
+
+1. [直播带货不得删除屏蔽不利评价](https://s.weibo.com//weibo?q=%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B8%8D%E5%BE%97%E5%88%A0%E9%99%A4%E5%B1%8F%E8%94%BD%E4%B8%8D%E5%88%A9%E8%AF%84%E4%BB%B7&Refer=top)
+
+1. [迪丽热巴 不要为了让男生公主抱减肥](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%8D%E8%A6%81%E4%B8%BA%E4%BA%86%E8%AE%A9%E7%94%B7%E7%94%9F%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%87%8F%E8%82%A5&Refer=top)
+
+1. [赵立坚劝英国议员多管管自己的事情](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8A%9D%E8%8B%B1%E5%9B%BD%E8%AE%AE%E5%91%98%E5%A4%9A%E7%AE%A1%E7%AE%A1%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%E6%83%85%23&Refer=top)
+
+1. [安安问陈赫什么是快乐星球](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%AE%89%E9%97%AE%E9%99%88%E8%B5%AB%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [买东西不看尺寸的后果](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%B8%8D%E7%9C%8B%E5%B0%BA%E5%AF%B8%E7%9A%84%E5%90%8E%E6%9E%9C%23&Refer=top)
+
+1. [苹果箱灌水泥空纸箱重5斤多](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E7%AE%B1%E7%81%8C%E6%B0%B4%E6%B3%A5%E7%A9%BA%E7%BA%B8%E7%AE%B1%E9%87%8D5%E6%96%A4%E5%A4%9A&Refer=top)
+
+1. [广州河涌边现大量红火蚁](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B2%B3%E6%B6%8C%E8%BE%B9%E7%8E%B0%E5%A4%A7%E9%87%8F%E7%BA%A2%E7%81%AB%E8%9A%81%23&Refer=top)
+
+1. [故宫五一假期前3天门票已售罄](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%89%8D3%E5%A4%A9%E9%97%A8%E7%A5%A8%E5%B7%B2%E5%94%AE%E7%BD%84%23&Refer=top)
+
+1. [福岛核废物集装箱或已泄露](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E7%89%A9%E9%9B%86%E8%A3%85%E7%AE%B1%E6%88%96%E5%B7%B2%E6%B3%84%E9%9C%B2%23&Refer=top)
 
