@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 19:01:02
+## 微博今日热榜 更新于 2021-04-23 20:01:27
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -384,4 +384,30 @@
 1. [故宫漫画天](https://s.weibo.com//weibo?q=%E6%95%85%E5%AE%AB%E6%BC%AB%E7%94%BB%E5%A4%A9&Refer=top)
 
 1. [腹肌不给胸肌留余地](https://s.weibo.com//weibo?q=%23%E8%85%B9%E8%82%8C%E4%B8%8D%E7%BB%99%E8%83%B8%E8%82%8C%E7%95%99%E4%BD%99%E5%9C%B0%23&Refer=top)
+
+1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
+
+1. [肖战工作室提议观众把花带走送人](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8F%90%E8%AE%AE%E8%A7%82%E4%BC%97%E6%8A%8A%E8%8A%B1%E5%B8%A6%E8%B5%B0%E9%80%81%E4%BA%BA%23&Refer=top)
+
+1. [特斯拉发布车主维权情况说明](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E8%BD%A6%E4%B8%BB%E7%BB%B4%E6%9D%83%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E&Refer=top)
+
+1. [东北虎拍碎车窗亲历者发声](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E8%99%8E%E6%8B%8D%E7%A2%8E%E8%BD%A6%E7%AA%97%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [杨国福员工辞职讨薪被打](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%9B%BD%E7%A6%8F%E5%91%98%E5%B7%A5%E8%BE%9E%E8%81%8C%E8%AE%A8%E8%96%AA%E8%A2%AB%E6%89%93&Refer=top)
+
+1. [周震南做利路修同款发型](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E5%81%9A%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%90%8C%E6%AC%BE%E5%8F%91%E5%9E%8B%23&Refer=top)
+
+1. [世界首个空中全透明泳池](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E4%B8%AA%E7%A9%BA%E4%B8%AD%E5%85%A8%E9%80%8F%E6%98%8E%E6%B3%B3%E6%B1%A0%23&Refer=top)
+
+1. [我们为什么要读书](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6%23&Refer=top)
+
+1. [江歌母亲称赔偿款将全部捐给社会](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E7%A7%B0%E8%B5%94%E5%81%BF%E6%AC%BE%E5%B0%86%E5%85%A8%E9%83%A8%E6%8D%90%E7%BB%99%E7%A4%BE%E4%BC%9A%23&Refer=top)
+
+1. [重庆一景区索道停电游客悬空](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E6%99%AF%E5%8C%BA%E7%B4%A2%E9%81%93%E5%81%9C%E7%94%B5%E6%B8%B8%E5%AE%A2%E6%82%AC%E7%A9%BA%23&Refer=top)
+
+1. [野生虎进村民警大喇叭提醒村民](https://s.weibo.com//weibo?q=%23%E9%87%8E%E7%94%9F%E8%99%8E%E8%BF%9B%E6%9D%91%E6%B0%91%E8%AD%A6%E5%A4%A7%E5%96%87%E5%8F%AD%E6%8F%90%E9%86%92%E6%9D%91%E6%B0%91%23&Refer=top)
+
+1. [夏日盐盐葡萄妆](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E7%9B%90%E7%9B%90%E8%91%A1%E8%90%84%E5%A6%86%23&Refer=top)
+
+1. [丁海峰赛前伤退](https://s.weibo.com//weibo?q=%23%E4%B8%81%E6%B5%B7%E5%B3%B0%E8%B5%9B%E5%89%8D%E4%BC%A4%E9%80%80%23&Refer=top)
 
