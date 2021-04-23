@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 12:02:36
+## 微博今日热榜 更新于 2021-04-23 13:05:24
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -244,4 +244,22 @@
 1. [奶奶听不见你说话的原因](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%90%AC%E4%B8%8D%E8%A7%81%E4%BD%A0%E8%AF%B4%E8%AF%9D%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
 
 1. [斯洛伐克宣布驱逐3名俄外交官](https://s.weibo.com//weibo?q=%23%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E5%AE%A3%E5%B8%83%E9%A9%B1%E9%80%903%E5%90%8D%E4%BF%84%E5%A4%96%E4%BA%A4%E5%AE%98%23&Refer=top)
+
+1. [世界阅读日](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%98%85%E8%AF%BB%E6%97%A5%23&Refer=new_time)
+
+1. [王子文吴永恩牵手逛街](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23&Refer=top)
+
+1. [Boss直聘涉嫌广告欺诈](https://s.weibo.com//weibo?q=Boss%E7%9B%B4%E8%81%98%E6%B6%89%E5%AB%8C%E5%B9%BF%E5%91%8A%E6%AC%BA%E8%AF%88&Refer=top)
+
+1. [医保个人账户如何给家人用](https://s.weibo.com//weibo?q=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E5%A6%82%E4%BD%95%E7%BB%99%E5%AE%B6%E4%BA%BA%E7%94%A8&Refer=top)
+
+1. [成都一老年大学1学期收25元学费](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E4%B8%80%E8%80%81%E5%B9%B4%E5%A4%A7%E5%AD%A61%E5%AD%A6%E6%9C%9F%E6%94%B625%E5%85%83%E5%AD%A6%E8%B4%B9&Refer=top)
+
+1. [上海厂房火灾2名消防员在内8人遇难](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8E%82%E6%88%BF%E7%81%AB%E7%81%BE2%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%9C%A8%E5%86%858%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top)
+
+1. [乌鸦小姐与蜥蜴先生求爱预告](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E9%B8%A6%E5%B0%8F%E5%A7%90%E4%B8%8E%E8%9C%A5%E8%9C%B4%E5%85%88%E7%94%9F%E6%B1%82%E7%88%B1%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [茅台总工未进入院士候选人名单](https://s.weibo.com//weibo?q=%E8%8C%85%E5%8F%B0%E6%80%BB%E5%B7%A5%E6%9C%AA%E8%BF%9B%E5%85%A5%E9%99%A2%E5%A3%AB%E5%80%99%E9%80%89%E4%BA%BA%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [特斯拉驾驶位没人也能自动驾驶](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%A9%BE%E9%A9%B6%E4%BD%8D%E6%B2%A1%E4%BA%BA%E4%B9%9F%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&Refer=top)
 
