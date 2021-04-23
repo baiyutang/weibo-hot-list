@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 06:01:10
+## 微博今日热榜 更新于 2021-04-24 07:02:28
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -128,4 +128,6 @@
 1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
 1. [直播带货不得删除屏蔽不利评价](https://s.weibo.com//weibo?q=%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B8%8D%E5%BE%97%E5%88%A0%E9%99%A4%E5%B1%8F%E8%94%BD%E4%B8%8D%E5%88%A9%E8%AF%84%E4%BB%B7&Refer=top)
+
+1. [张艺兴与彩灯的安全距离](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8E%E5%BD%A9%E7%81%AF%E7%9A%84%E5%AE%89%E5%85%A8%E8%B7%9D%E7%A6%BB&Refer=top)
 
