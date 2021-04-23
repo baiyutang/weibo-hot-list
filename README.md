@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 15:05:10
+## 微博今日热榜 更新于 2021-04-23 16:01:17
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -304,4 +304,34 @@
 1. [跳舞大妈为占场地把大灯挂上篮筐](https://s.weibo.com//weibo?q=%E8%B7%B3%E8%88%9E%E5%A4%A7%E5%A6%88%E4%B8%BA%E5%8D%A0%E5%9C%BA%E5%9C%B0%E6%8A%8A%E5%A4%A7%E7%81%AF%E6%8C%82%E4%B8%8A%E7%AF%AE%E7%AD%90&Refer=top)
 
 1. [湖北一季度GDP增速居全国首位](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E4%B8%80%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%80%9F%E5%B1%85%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BD%8D&Refer=top)
+
+1. [东航航班起飞后遭鸟击紧急返航](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%88%AA%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%90%8E%E9%81%AD%E9%B8%9F%E5%87%BB%E7%B4%A7%E6%80%A5%E8%BF%94%E8%88%AA&Refer=top)
+
+1. [人均每天接触手机100.75分钟](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E6%8E%A5%E8%A7%A6%E6%89%8B%E6%9C%BA100.75%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [中文九级来了](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%87%E4%B9%9D%E7%BA%A7%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [住建局回应家长自费百万在校门口建天桥](https://s.weibo.com//weibo?q=%23%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%87%AA%E8%B4%B9%E7%99%BE%E4%B8%87%E5%9C%A8%E6%A0%A1%E9%97%A8%E5%8F%A3%E5%BB%BA%E5%A4%A9%E6%A1%A5%23&Refer=top)
+
+1. [周柯宇掉到十二](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E6%8E%89%E5%88%B0%E5%8D%81%E4%BA%8C%23&Refer=top)
+
+1. [风暴舞定档](https://s.weibo.com//weibo?q=%E9%A3%8E%E6%9A%B4%E8%88%9E%E5%AE%9A%E6%A1%A3&Refer=top)
+
+1. [韩国一海军舰艇暴发集体感染](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E6%9A%B4%E5%8F%91%E9%9B%86%E4%BD%93%E6%84%9F%E6%9F%93&Refer=top)
+
+1. [中消协提醒消费者理性看待机票盲盒](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E6%8F%90%E9%86%92%E6%B6%88%E8%B4%B9%E8%80%85%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E6%9C%BA%E7%A5%A8%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [文津图书奖获奖书单](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%B4%A5%E5%9B%BE%E4%B9%A6%E5%A5%96%E8%8E%B7%E5%A5%96%E4%B9%A6%E5%8D%95%23&Refer=top)
+
+1. [谁是宝藏歌手定档](https://s.weibo.com//weibo?q=%23%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [黑龙江村庄闯入东北虎咬伤1人](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9D%91%E5%BA%84%E9%97%AF%E5%85%A5%E4%B8%9C%E5%8C%97%E8%99%8E%E5%92%AC%E4%BC%A41%E4%BA%BA&Refer=top)
+
+1. [这个回复真是绝了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9B%9E%E5%A4%8D%E7%9C%9F%E6%98%AF%E7%BB%9D%E4%BA%86%23&Refer=top)
+
+1. [明代王妃的时尚圈](https://s.weibo.com//weibo?q=%23%E6%98%8E%E4%BB%A3%E7%8E%8B%E5%A6%83%E7%9A%84%E6%97%B6%E5%B0%9A%E5%9C%88%23&Refer=top)
+
+1. [吉林省考成绩](https://s.weibo.com//weibo?q=%E5%90%89%E6%9E%97%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [火箭无缘季后赛](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD%E6%97%A0%E7%BC%98%E5%AD%A3%E5%90%8E%E8%B5%9B&Refer=top)
 
