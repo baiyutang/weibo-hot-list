@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 07:01:27
+## 微博今日热榜 更新于 2021-04-23 08:03:15
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -134,4 +134,24 @@
 1. [杨迪被丁程鑫悬空拎起](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%A2%AB%E4%B8%81%E7%A8%8B%E9%91%AB%E6%82%AC%E7%A9%BA%E6%8B%8E%E8%B5%B7%23&Refer=top)
 
 1. [黄渤新片学爸开机](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B8%A4%E6%96%B0%E7%89%87%E5%AD%A6%E7%88%B8%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [称呼配偶的妈妈为你妈合适吗](https://s.weibo.com//weibo?q=%23%E7%A7%B0%E5%91%BC%E9%85%8D%E5%81%B6%E7%9A%84%E5%A6%88%E5%A6%88%E4%B8%BA%E4%BD%A0%E5%A6%88%E5%90%88%E9%80%82%E5%90%97%23&Refer=top)
+
+1. [舒肤佳声明](https://s.weibo.com//weibo?q=%23%E8%88%92%E8%82%A4%E4%BD%B3%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [欧莱雅 李钟硕](https://s.weibo.com//weibo?q=%E6%AC%A7%E8%8E%B1%E9%9B%85%20%E6%9D%8E%E9%92%9F%E7%A1%95&Refer=top)
+
+1. [肖战 如梦之梦最大的挑战是情感](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E6%9C%80%E5%A4%A7%E7%9A%84%E6%8C%91%E6%88%98%E6%98%AF%E6%83%85%E6%84%9F&Refer=top)
+
+1. [李嘉欣黎姿合照](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%98%89%E6%AC%A3%E9%BB%8E%E5%A7%BF%E5%90%88%E7%85%A7&Refer=top)
+
+1. [环保组织打碎汇丰总部19扇窗户](https://s.weibo.com//weibo?q=%E7%8E%AF%E4%BF%9D%E7%BB%84%E7%BB%87%E6%89%93%E7%A2%8E%E6%B1%87%E4%B8%B0%E6%80%BB%E9%83%A819%E6%89%87%E7%AA%97%E6%88%B7&Refer=top)
+
+1. [上海金山区厂房火灾导致8人失联](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E9%87%91%E5%B1%B1%E5%8C%BA%E5%8E%82%E6%88%BF%E7%81%AB%E7%81%BE%E5%AF%BC%E8%87%B48%E4%BA%BA%E5%A4%B1%E8%81%94&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [男子酒醉参加科目三考试被判0分](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%85%92%E9%86%89%E5%8F%82%E5%8A%A0%E7%A7%91%E7%9B%AE%E4%B8%89%E8%80%83%E8%AF%95%E8%A2%AB%E5%88%A40%E5%88%86&Refer=top)
+
+1. [西安高校持刀劫持女生男子被控制](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E9%AB%98%E6%A0%A1%E6%8C%81%E5%88%80%E5%8A%AB%E6%8C%81%E5%A5%B3%E7%94%9F%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8E%A7%E5%88%B6&Refer=top)
 
