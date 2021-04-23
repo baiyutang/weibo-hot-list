@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 21:08:40
+## 微博今日热榜 更新于 2021-04-23 22:01:16
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -442,4 +442,30 @@
 1. [广州特斯拉](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E7%89%B9%E6%96%AF%E6%8B%89&Refer=top)
 
 1. [国信证券回应5万炒股变500万](https://s.weibo.com//weibo?q=%E5%9B%BD%E4%BF%A1%E8%AF%81%E5%88%B8%E5%9B%9E%E5%BA%945%E4%B8%87%E7%82%92%E8%82%A1%E5%8F%98500%E4%B8%87&Refer=top)
+
+1. [宋佳 我妈可能就是南俪的原型](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BD%B3%20%E6%88%91%E5%A6%88%E5%8F%AF%E8%83%BD%E5%B0%B1%E6%98%AF%E5%8D%97%E4%BF%AA%E7%9A%84%E5%8E%9F%E5%9E%8B&Refer=top)
+
+1. [韩外长提醒美国莫忘当初援助之情](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%A4%96%E9%95%BF%E6%8F%90%E9%86%92%E7%BE%8E%E5%9B%BD%E8%8E%AB%E5%BF%98%E5%BD%93%E5%88%9D%E6%8F%B4%E5%8A%A9%E4%B9%8B%E6%83%85&Refer=top)
+
+1. [进村东北虎已被控制](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23&Refer=top)
+
+1. [国家一级运动员酒驾狂奔没跑过交警](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98%E9%85%92%E9%A9%BE%E7%8B%82%E5%A5%94%E6%B2%A1%E8%B7%91%E8%BF%87%E4%BA%A4%E8%AD%A6&Refer=top)
+
+1. [金海心再唱把耳朵叫醒](https://s.weibo.com//weibo?q=%E9%87%91%E6%B5%B7%E5%BF%83%E5%86%8D%E5%94%B1%E6%8A%8A%E8%80%B3%E6%9C%B5%E5%8F%AB%E9%86%92&Refer=top)
+
+1. [张雨绮夸粉丝手机壳上的刘耀文帅](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%A4%B8%E7%B2%89%E4%B8%9D%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B8%8A%E7%9A%84%E5%88%98%E8%80%80%E6%96%87%E5%B8%85%23&Refer=top)
+
+1. [王源童年照](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%AB%A5%E5%B9%B4%E7%85%A7%23&Refer=top)
+
+1. [云南文旅厅回应游客没买商品被骂](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%96%87%E6%97%85%E5%8E%85%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E6%B2%A1%E4%B9%B0%E5%95%86%E5%93%81%E8%A2%AB%E9%AA%82&Refer=top)
+
+1. [皓嫣](https://s.weibo.com//weibo?q=%E7%9A%93%E5%AB%A3&Refer=top)
+
+1. [王祖蓝重心好稳](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E9%87%8D%E5%BF%83%E5%A5%BD%E7%A8%B3%23&Refer=top)
+
+1. [刘宇宁直播](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [蔡徐坤 没说不能拿电脑啊](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E6%B2%A1%E8%AF%B4%E4%B8%8D%E8%83%BD%E6%8B%BF%E7%94%B5%E8%84%91%E5%95%8A&Refer=top)
+
+1. [CBA季后赛](https://s.weibo.com//weibo?q=%23CBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
 
