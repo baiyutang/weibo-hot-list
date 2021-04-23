@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 16:01:17
+## 微博今日热榜 更新于 2021-04-23 17:02:08
 1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B%23&Refer=top)
@@ -334,4 +334,18 @@
 1. [吉林省考成绩](https://s.weibo.com//weibo?q=%E5%90%89%E6%9E%97%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
 
 1. [火箭无缘季后赛](https://s.weibo.com//weibo?q=%E7%81%AB%E7%AE%AD%E6%97%A0%E7%BC%98%E5%AD%A3%E5%90%8E%E8%B5%9B&Refer=top)
+
+1. [日本删除放射性氚吉祥物形象](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%88%A0%E9%99%A4%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%BD%A2%E8%B1%A1%23&Refer=top)
+
+1. [赵立坚问核污水没害日本为何不留着](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E9%97%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%B2%A1%E5%AE%B3%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E4%B8%8D%E7%95%99%E7%9D%80%23&Refer=top)
+
+1. [五一调休](https://s.weibo.com//weibo?q=%E4%BA%94%E4%B8%80%E8%B0%83%E4%BC%91&Refer=top)
+
+1. [娜扎朦胧面纱封面](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E6%9C%A6%E8%83%A7%E9%9D%A2%E7%BA%B1%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [人民海军72变](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B72%E5%8F%98%23&Refer=top)
+
+1. [少女追星被骗14万余元](https://s.weibo.com//weibo?q=%23%E5%B0%91%E5%A5%B3%E8%BF%BD%E6%98%9F%E8%A2%AB%E9%AA%9714%E4%B8%87%E4%BD%99%E5%85%83%23&Refer=top)
+
+1. [93款APP未完成整改被工信部点名](https://s.weibo.com//weibo?q=%2393%E6%AC%BEAPP%E6%9C%AA%E5%AE%8C%E6%88%90%E6%95%B4%E6%94%B9%E8%A2%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%82%B9%E5%90%8D%23&Refer=top)
 
