@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 12:02:28
+## 微博今日热榜 更新于 2021-04-24 13:05:46
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -236,4 +236,26 @@
 1. [罗小黑战记开播](https://s.weibo.com//weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0%E5%BC%80%E6%92%AD%23&Refer=top)
 
 1. [没被蔡依林邀请当嘉宾的小S](https://s.weibo.com//weibo?q=%E6%B2%A1%E8%A2%AB%E8%94%A1%E4%BE%9D%E6%9E%97%E9%82%80%E8%AF%B7%E5%BD%93%E5%98%89%E5%AE%BE%E7%9A%84%E5%B0%8FS&Refer=top)
+
+1. [钟南山称正全力研发针对变异毒株疫苗](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E6%AD%A3%E5%85%A8%E5%8A%9B%E7%A0%94%E5%8F%91%E9%92%88%E5%AF%B9%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [知情人还原广州特斯拉撞墙致死事故](https://s.weibo.com//weibo?q=%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BF%98%E5%8E%9F%E5%B9%BF%E5%B7%9E%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E5%A2%99%E8%87%B4%E6%AD%BB%E4%BA%8B%E6%95%85&Refer=top)
+
+1. [雅思难度](https://s.weibo.com//weibo?q=%E9%9B%85%E6%80%9D%E9%9A%BE%E5%BA%A6&Refer=top)
+
+1. [小象洗澡有多可爱](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%B1%A1%E6%B4%97%E6%BE%A1%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1&Refer=top)
+
+1. [蔡徐坤耳链](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%80%B3%E9%93%BE&Refer=top)
+
+1. [单身久了看啥都像爱情](https://s.weibo.com//weibo?q=%E5%8D%95%E8%BA%AB%E4%B9%85%E4%BA%86%E7%9C%8B%E5%95%A5%E9%83%BD%E5%83%8F%E7%88%B1%E6%83%85&Refer=top)
+
+1. [广东省考面试](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E9%9D%A2%E8%AF%95&Refer=top)
+
+1. [印度多个火葬场遗体积压](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%9A%E4%B8%AA%E7%81%AB%E8%91%AC%E5%9C%BA%E9%81%97%E4%BD%93%E7%A7%AF%E5%8E%8B%23&Refer=top)
+
+1. [宿舍水泥地裂缝长4米高竹笋](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E8%88%8D%E6%B0%B4%E6%B3%A5%E5%9C%B0%E8%A3%82%E7%BC%9D%E9%95%BF4%E7%B1%B3%E9%AB%98%E7%AB%B9%E7%AC%8B%23&Refer=top)
+
+1. [银行回应押钞员中枪身亡](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8A%BC%E9%92%9E%E5%91%98%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [沪牌拍卖](https://s.weibo.com//weibo?q=%E6%B2%AA%E7%89%8C%E6%8B%8D%E5%8D%96&Refer=top)
 
