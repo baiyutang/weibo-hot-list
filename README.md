@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 21:08:44
+## 微博今日热榜 更新于 2021-04-24 22:01:05
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -470,4 +470,28 @@
 1. [张嘉元在干嘛](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%98%89%E5%85%83%E5%9C%A8%E5%B9%B2%E5%98%9B&Refer=top)
 
 1. [当你老了会怎么养老](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E8%80%81%E4%BA%86%E4%BC%9A%E6%80%8E%E4%B9%88%E5%85%BB%E8%80%81%23&Refer=top)
+
+1. [姚策妻子否认有200多万剩款](https://s.weibo.com//weibo?q=%E5%A7%9A%E7%AD%96%E5%A6%BB%E5%AD%90%E5%90%A6%E8%AE%A4%E6%9C%89200%E5%A4%9A%E4%B8%87%E5%89%A9%E6%AC%BE&Refer=top)
+
+1. [这是利路修最开心的舞台吧](https://s.weibo.com//weibo?q=%E8%BF%99%E6%98%AF%E5%88%A9%E8%B7%AF%E4%BF%AE%E6%9C%80%E5%BC%80%E5%BF%83%E7%9A%84%E8%88%9E%E5%8F%B0%E5%90%A7&Refer=top)
+
+1. [不修音的米卡](https://s.weibo.com//weibo?q=%E4%B8%8D%E4%BF%AE%E9%9F%B3%E7%9A%84%E7%B1%B3%E5%8D%A1&Refer=top)
+
+1. [刘宇 掀扇子像掀盖头](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%20%E6%8E%80%E6%89%87%E5%AD%90%E5%83%8F%E6%8E%80%E7%9B%96%E5%A4%B4&Refer=top)
+
+1. [赞多跳舞用了于洋的歌](https://s.weibo.com//weibo?q=%E8%B5%9E%E5%A4%9A%E8%B7%B3%E8%88%9E%E7%94%A8%E4%BA%86%E4%BA%8E%E6%B4%8B%E7%9A%84%E6%AD%8C&Refer=top)
+
+1. [原来变胖是有预兆的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%98%E8%83%96%E6%98%AF%E6%9C%89%E9%A2%84%E5%85%86%E7%9A%84%23&Refer=top)
+
+1. [深圳宝马男隧道别车扔水瓶被拘](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%AE%9D%E9%A9%AC%E7%94%B7%E9%9A%A7%E9%81%93%E5%88%AB%E8%BD%A6%E6%89%94%E6%B0%B4%E7%93%B6%E8%A2%AB%E6%8B%98&Refer=top)
+
+1. [R1SE长在舞台上吧](https://s.weibo.com//weibo?q=R1SE%E9%95%BF%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E5%90%A7&Refer=top)
+
+1. [薛八一 美女车祸现场](https://s.weibo.com//weibo?q=%E8%96%9B%E5%85%AB%E4%B8%80%20%E7%BE%8E%E5%A5%B3%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [金曲青春](https://s.weibo.com//weibo?q=%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5&Refer=top)
+
+1. [AK把学员们唱到了歌里](https://s.weibo.com//weibo?q=%23AK%E6%8A%8A%E5%AD%A6%E5%91%98%E4%BB%AC%E5%94%B1%E5%88%B0%E4%BA%86%E6%AD%8C%E9%87%8C%23&Refer=top)
+
+1. [张哲瀚 古装哭戏最重要的是美](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E5%8F%A4%E8%A3%85%E5%93%AD%E6%88%8F%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%BE%8E&Refer=top)
 
