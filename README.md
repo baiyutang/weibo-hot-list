@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 18:01:11
+## 微博今日热榜 更新于 2021-04-24 19:01:08
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -380,4 +380,26 @@
 1. [印尼军方发现失联潜艇残骸](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%86%9B%E6%96%B9%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%AE%8B%E9%AA%B8%23&Refer=top)
 
 1. [专八听力](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E5%90%AC%E5%8A%9B&Refer=top)
+
+1. [创造营红毯](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E7%BA%A2%E6%AF%AF&Refer=top)
+
+1. [天津大学回应留学生闯入女更衣室](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E9%97%AF%E5%85%A5%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4%23&Refer=top)
+
+1. [印度疫情](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85&Refer=top)
+
+1. [韩美娟造型](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [龚俊 我选的更好看](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E6%88%91%E9%80%89%E7%9A%84%E6%9B%B4%E5%A5%BD%E7%9C%8B&Refer=top)
+
+1. [邓超倒立为创造营学员撑腰](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E5%80%92%E7%AB%8B%E4%B8%BA%E5%88%9B%E9%80%A0%E8%90%A5%E5%AD%A6%E5%91%98%E6%92%91%E8%85%B0%23&Refer=top)
+
+1. [望奎](https://s.weibo.com//weibo?q=%E6%9C%9B%E5%A5%8E&Refer=top)
+
+1. [初心和加薪哪个更重要](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%92%8C%E5%8A%A0%E8%96%AA%E5%93%AA%E4%B8%AA%E6%9B%B4%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [古代木质榨汁机长啥样](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BB%A3%E6%9C%A8%E8%B4%A8%E6%A6%A8%E6%B1%81%E6%9C%BA%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top)
+
+1. [创造营成团夜](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%A4%9C&Refer=top)
+
+1. [海军三型主战舰艇交接入列](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E4%B8%89%E5%9E%8B%E4%B8%BB%E6%88%98%E8%88%B0%E8%89%87%E4%BA%A4%E6%8E%A5%E5%85%A5%E5%88%97%23&Refer=top)
 
