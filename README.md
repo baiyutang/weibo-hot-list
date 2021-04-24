@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 14:01:17
+## 微博今日热榜 更新于 2021-04-24 15:05:16
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -276,4 +276,26 @@
 1. [专八阅读](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E9%98%85%E8%AF%BB&Refer=top)
 
 1. [勇士大胜掘金](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E5%A4%A7%E8%83%9C%E6%8E%98%E9%87%91&Refer=top)
+
+1. [我国第一辆火星车命名祝融](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%91%BD%E5%90%8D%E7%A5%9D%E8%9E%8D%23&Refer=new_time)
+
+1. [韩国鸡蛋价格暴涨四成](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E5%9B%9B%E6%88%90%23&Refer=top)
+
+1. [世卫称中高收入国家垄断了疫苗接种](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E7%A7%B0%E4%B8%AD%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%9E%84%E6%96%AD%E4%BA%86%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [林一唱歌水平](https://s.weibo.com//weibo?q=%E6%9E%97%E4%B8%80%E5%94%B1%E6%AD%8C%E6%B0%B4%E5%B9%B3&Refer=top)
+
+1. [浙江事业单位考试](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%80%83%E8%AF%95&Refer=top)
+
+1. [萧亚轩晒与男友合影](https://s.weibo.com//weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%E6%99%92%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%90%88%E5%BD%B1&Refer=top)
+
+1. [向往的生活泡脚版成语接龙](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E6%B3%A1%E8%84%9A%E7%89%88%E6%88%90%E8%AF%AD%E6%8E%A5%E9%BE%99&Refer=top)
+
+1. [当我妈说不要再走她的老路](https://s.weibo.com//weibo?q=%E5%BD%93%E6%88%91%E5%A6%88%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B5%B0%E5%A5%B9%E7%9A%84%E8%80%81%E8%B7%AF&Refer=top)
+
+1. [成都漫画天](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E6%BC%AB%E7%94%BB%E5%A4%A9&Refer=top)
+
+1. [马斯克要在月球建永久基地](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%9C%A8%E6%9C%88%E7%90%83%E5%BB%BA%E6%B0%B8%E4%B9%85%E5%9F%BA%E5%9C%B0&Refer=top)
+
+1. [So Sick原唱neyo为米卡打call](https://s.weibo.com//weibo?q=So%20Sick%E5%8E%9F%E5%94%B1neyo%E4%B8%BA%E7%B1%B3%E5%8D%A1%E6%89%93call&Refer=top)
 
