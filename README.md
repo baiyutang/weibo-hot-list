@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 22:01:05
+## 微博今日热榜 更新于 2021-04-24 23:01:17
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -494,4 +494,34 @@
 1. [AK把学员们唱到了歌里](https://s.weibo.com//weibo?q=%23AK%E6%8A%8A%E5%AD%A6%E5%91%98%E4%BB%AC%E5%94%B1%E5%88%B0%E4%BA%86%E6%AD%8C%E9%87%8C%23&Refer=top)
 
 1. [张哲瀚 古装哭戏最重要的是美](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E5%8F%A4%E8%A3%85%E5%93%AD%E6%88%8F%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%BE%8E&Refer=top)
+
+1. [创造营成团名单](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [利路修翻白眼](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%BF%BB%E7%99%BD%E7%9C%BC%23&Refer=top)
+
+1. [起风了也太犯规了吧](https://s.weibo.com//weibo?q=%E8%B5%B7%E9%A3%8E%E4%BA%86%E4%B9%9F%E5%A4%AA%E7%8A%AF%E8%A7%84%E4%BA%86%E5%90%A7&Refer=top)
+
+1. [台湾菠萝收购价格几近崩盘](https://s.weibo.com//weibo?q=%E5%8F%B0%E6%B9%BE%E8%8F%A0%E8%90%9D%E6%94%B6%E8%B4%AD%E4%BB%B7%E6%A0%BC%E5%87%A0%E8%BF%91%E5%B4%A9%E7%9B%98&Refer=top)
+
+1. [周柯宇第十](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9F%AF%E5%AE%87%E7%AC%AC%E5%8D%81&Refer=top)
+
+1. [杜鹃花开遍山野是什么景象](https://s.weibo.com//weibo?q=%E6%9D%9C%E9%B9%83%E8%8A%B1%E5%BC%80%E9%81%8D%E5%B1%B1%E9%87%8E%E6%98%AF%E4%BB%80%E4%B9%88%E6%99%AF%E8%B1%A1&Refer=top)
+
+1. [重庆一15岁女孩校内坠亡](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E4%B8%8015%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%A0%A1%E5%86%85%E5%9D%A0%E4%BA%A1&Refer=top)
+
+1. [中国人的星辰大海](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%23&Refer=top)
+
+1. [吴海的麦没声音喊着回答刘宇](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%B5%B7%E7%9A%84%E9%BA%A6%E6%B2%A1%E5%A3%B0%E9%9F%B3%E5%96%8A%E7%9D%80%E5%9B%9E%E7%AD%94%E5%88%98%E5%AE%87%23&Refer=top)
+
+1. [林墨 非常完美](https://s.weibo.com//weibo?q=%E6%9E%97%E5%A2%A8%20%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E&Refer=top)
+
+1. [如何看待五一调休凑长假](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%94%E4%B8%80%E8%B0%83%E4%BC%91%E5%87%91%E9%95%BF%E5%81%87%23&Refer=top)
+
+1. [任豪 创造营](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%20%E5%88%9B%E9%80%A0%E8%90%A5&Refer=top)
+
+1. [AK卡位出道](https://s.weibo.com//weibo?q=AK%E5%8D%A1%E4%BD%8D%E5%87%BA%E9%81%93&Refer=top)
+
+1. [米卡第四](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8D%A1%E7%AC%AC%E5%9B%9B&Refer=top)
+
+1. [张家界回应导游骂游客骗吃骗喝](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%9E%E5%BA%94%E5%AF%BC%E6%B8%B8%E9%AA%82%E6%B8%B8%E5%AE%A2%E9%AA%97%E5%90%83%E9%AA%97%E5%96%9D%23&Refer=top)
 
