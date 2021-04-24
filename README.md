@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 07:02:28
+## 微博今日热榜 更新于 2021-04-24 08:03:14
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -130,4 +130,18 @@
 1. [直播带货不得删除屏蔽不利评价](https://s.weibo.com//weibo?q=%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B8%8D%E5%BE%97%E5%88%A0%E9%99%A4%E5%B1%8F%E8%94%BD%E4%B8%8D%E5%88%A9%E8%AF%84%E4%BB%B7&Refer=top)
 
 1. [张艺兴与彩灯的安全距离](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8E%E5%BD%A9%E7%81%AF%E7%9A%84%E5%AE%89%E5%85%A8%E8%B7%9D%E7%A6%BB&Refer=top)
+
+1. [发现最美铁路](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%8E%B0%E6%9C%80%E7%BE%8E%E9%93%81%E8%B7%AF%23&Refer=new_time)
+
+1. [专八考试](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E8%80%83%E8%AF%95&Refer=top)
+
+1. [肖战晒玫瑰花](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%99%92%E7%8E%AB%E7%91%B0%E8%8A%B1%23&Refer=top)
+
+1. [故宫抢票](https://s.weibo.com//weibo?q=%E6%95%85%E5%AE%AB%E6%8A%A2%E7%A5%A8&Refer=top)
+
+1. [中国航天起名有多浪漫](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E8%B5%B7%E5%90%8D%E6%9C%89%E5%A4%9A%E6%B5%AA%E6%BC%AB%23&Refer=top)
+
+1. [东方红一号卫星发射51周年](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E6%96%B9%E7%BA%A2%E4%B8%80%E5%8F%B7%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%8451%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [中国航天日](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5&Refer=top)
 
