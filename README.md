@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 19:01:08
+## 微博今日热榜 更新于 2021-04-24 20:01:17
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -402,4 +402,26 @@
 1. [创造营成团夜](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%A4%9C&Refer=top)
 
 1. [海军三型主战舰艇交接入列](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E4%B8%89%E5%9E%8B%E4%B8%BB%E6%88%98%E8%88%B0%E8%89%87%E4%BA%A4%E6%8E%A5%E5%85%A5%E5%88%97%23&Refer=top)
+
+1. [利路修 大家会毕业我会下班](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E5%A4%A7%E5%AE%B6%E4%BC%9A%E6%AF%95%E4%B8%9A%E6%88%91%E4%BC%9A%E4%B8%8B%E7%8F%AD&Refer=top)
+
+1. [青你3第三次排名](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%8E%92%E5%90%8D&Refer=top)
+
+1. [米卡带猕猴桃走红毯](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E5%B8%A6%E7%8C%95%E7%8C%B4%E6%A1%83%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&Refer=top)
+
+1. [创造营的撑腰值没了](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E7%9A%84%E6%92%91%E8%85%B0%E5%80%BC%E6%B2%A1%E4%BA%86&Refer=top)
+
+1. [美国疫情](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E7%96%AB%E6%83%85&Refer=top)
+
+1. [蓝盈莹手绘18个太阳应援妈妈](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E6%89%8B%E7%BB%9818%E4%B8%AA%E5%A4%AA%E9%98%B3%E5%BA%94%E6%8F%B4%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [时代少年团为丁程鑫加入快本打call](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%BA%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8A%A0%E5%85%A5%E5%BF%AB%E6%9C%AC%E6%89%93call%23&Refer=top)
+
+1. [刘宇戏腔](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E6%88%8F%E8%85%94&Refer=top)
+
+1. [女子用金丝银丝编出掐丝珐琅画](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E9%87%91%E4%B8%9D%E9%93%B6%E4%B8%9D%E7%BC%96%E5%87%BA%E6%8E%90%E4%B8%9D%E7%8F%90%E7%90%85%E7%94%BB%23&Refer=top)
+
+1. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
+
+1. [韩美娟看王嘉尔的表情是我了](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BE%8E%E5%A8%9F%E7%9C%8B%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E8%A1%A8%E6%83%85%E6%98%AF%E6%88%91%E4%BA%86&Refer=top)
 
