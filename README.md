@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 10:20:55
+## 微博今日热榜 更新于 2021-04-24 11:06:12
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -202,4 +202,16 @@
 1. [张哲瀚 娱乐圈在逃拉面师傅](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9C%A8%E9%80%83%E6%8B%89%E9%9D%A2%E5%B8%88%E5%82%85&Refer=top)
 
 1. [北京多家教育机构违规招生收费](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%AE%B6%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E8%BF%9D%E8%A7%84%E6%8B%9B%E7%94%9F%E6%94%B6%E8%B4%B9%23&Refer=top)
+
+1. [中国首辆火星车命名祝融号](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%91%BD%E5%90%8D%E7%A5%9D%E8%9E%8D%E5%8F%B7%23&Refer=top)
+
+1. [你是我的荣耀航天特辑](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E8%88%AA%E5%A4%A9%E7%89%B9%E8%BE%91%23&Refer=top)
+
+1. [小偷被警察追吐了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%81%B7%E8%A2%AB%E8%AD%A6%E5%AF%9F%E8%BF%BD%E5%90%90%E4%BA%86%23&Refer=top)
+
+1. [库里升至MVP榜第五位](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E5%8D%87%E8%87%B3MVP%E6%A6%9C%E7%AC%AC%E4%BA%94%E4%BD%8D&Refer=top)
+
+1. [北京东城明确租房上学不占房东学位](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%9C%E5%9F%8E%E6%98%8E%E7%A1%AE%E7%A7%9F%E6%88%BF%E4%B8%8A%E5%AD%A6%E4%B8%8D%E5%8D%A0%E6%88%BF%E4%B8%9C%E5%AD%A6%E4%BD%8D%23&Refer=top)
+
+1. [火星车祝融号虚拟形象](https://s.weibo.com//weibo?q=%E7%81%AB%E6%98%9F%E8%BD%A6%E7%A5%9D%E8%9E%8D%E5%8F%B7%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1&Refer=top)
 
