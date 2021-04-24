@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 17:00:57
+## 微博今日热榜 更新于 2021-04-24 18:01:11
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -354,4 +354,30 @@
 1. [樱花豆乳流心漏奶华](https://s.weibo.com//weibo?q=%23%E6%A8%B1%E8%8A%B1%E8%B1%86%E4%B9%B3%E6%B5%81%E5%BF%83%E6%BC%8F%E5%A5%B6%E5%8D%8E%23&Refer=top)
 
 1. [钱三强动员15人回国搞原子弹](https://s.weibo.com//weibo?q=%23%E9%92%B1%E4%B8%89%E5%BC%BA%E5%8A%A8%E5%91%9815%E4%BA%BA%E5%9B%9E%E5%9B%BD%E6%90%9E%E5%8E%9F%E5%AD%90%E5%BC%B9%23&Refer=top)
+
+1. [五一小长假的真实面目](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%B0%8F%E9%95%BF%E5%81%87%E7%9A%84%E7%9C%9F%E5%AE%9E%E9%9D%A2%E7%9B%AE%23&Refer=top)
+
+1. [中国国学院大学被取缔](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E8%A2%AB%E5%8F%96%E7%BC%94%23&Refer=top)
+
+1. [杨幂为周柯宇打call](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%BA%E5%91%A8%E6%9F%AF%E5%AE%87%E6%89%93call%23&Refer=top)
+
+1. [苏炳添百米9秒98](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%99%BE%E7%B1%B39%E7%A7%9298%23&Refer=top)
+
+1. [喻佳丽婚礼](https://s.weibo.com//weibo?q=%E5%96%BB%E4%BD%B3%E4%B8%BD%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [平板电视涨价超10%](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%A7%86%E6%B6%A8%E4%BB%B7%E8%B6%8510%25%23&Refer=top)
+
+1. [2小孩遇塌方被埋村民手刨救出](https://s.weibo.com//weibo?q=%232%E5%B0%8F%E5%AD%A9%E9%81%87%E5%A1%8C%E6%96%B9%E8%A2%AB%E5%9F%8B%E6%9D%91%E6%B0%91%E6%89%8B%E5%88%A8%E6%95%91%E5%87%BA%23&Refer=top)
+
+1. [印度救护车转弯甩落新冠死者遗体](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%95%91%E6%8A%A4%E8%BD%A6%E8%BD%AC%E5%BC%AF%E7%94%A9%E8%90%BD%E6%96%B0%E5%86%A0%E6%AD%BB%E8%80%85%E9%81%97%E4%BD%93&Refer=top)
+
+1. [悬崖之上](https://s.weibo.com//weibo?q=%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A&Refer=top)
+
+1. [印尼军方称失联潜艇已沉没](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%86%9B%E6%96%B9%E7%A7%B0%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E5%B7%B2%E6%B2%89%E6%B2%A1%23&Refer=top)
+
+1. [龙星凉感染新冠](https://s.weibo.com//weibo?q=%E9%BE%99%E6%98%9F%E5%87%89%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [印尼军方发现失联潜艇残骸](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%86%9B%E6%96%B9%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E6%BD%9C%E8%89%87%E6%AE%8B%E9%AA%B8%23&Refer=top)
+
+1. [专八听力](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E5%90%AC%E5%8A%9B&Refer=top)
 
