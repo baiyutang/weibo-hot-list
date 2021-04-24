@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 09:24:55
+## 微博今日热榜 更新于 2021-04-24 10:20:55
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -176,4 +176,30 @@
 1. [王霏霏直播](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%9C%8F%E9%9C%8F%E7%9B%B4%E6%92%AD&Refer=top)
 
 1. [张伟丽称重过关](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%9F%E4%B8%BD%E7%A7%B0%E9%87%8D%E8%BF%87%E5%85%B3%23&Refer=top)
+
+1. [进村东北虎麻醉针醒了](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E9%BA%BB%E9%86%89%E9%92%88%E9%86%92%E4%BA%86%23&Refer=top)
+
+1. [任嘉伦和呼兰同年](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%92%8C%E5%91%BC%E5%85%B0%E5%90%8C%E5%B9%B4%23&Refer=top)
+
+1. [共享充电宝进入3元时代](https://s.weibo.com//weibo?q=%23%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E8%BF%9B%E5%85%A53%E5%85%83%E6%97%B6%E4%BB%A3%23&Refer=top)
+
+1. [今明两年中国载人航天将迎高密度发射](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E6%98%8E%E4%B8%A4%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E5%B0%86%E8%BF%8E%E9%AB%98%E5%AF%86%E5%BA%A6%E5%8F%91%E5%B0%84%23&Refer=top)
+
+1. [日本政府第三次发布紧急事态宣言](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E4%BA%8B%E6%80%81%E5%AE%A3%E8%A8%80&Refer=top)
+
+1. [合肥楼市大降温](https://s.weibo.com//weibo?q=%23%E5%90%88%E8%82%A5%E6%A5%BC%E5%B8%82%E5%A4%A7%E9%99%8D%E6%B8%A9%23&Refer=top)
+
+1. [女子刮蹭奔驰后遭两男子掌掴](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E5%88%AE%E8%B9%AD%E5%A5%94%E9%A9%B0%E5%90%8E%E9%81%AD%E4%B8%A4%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4&Refer=top)
+
+1. [喻言翻唱伤痕](https://s.weibo.com//weibo?q=%23%E5%96%BB%E8%A8%80%E7%BF%BB%E5%94%B1%E4%BC%A4%E7%97%95%23&Refer=top)
+
+1. [押运枪支走火击中同伴](https://s.weibo.com//weibo?q=%E6%8A%BC%E8%BF%90%E6%9E%AA%E6%94%AF%E8%B5%B0%E7%81%AB%E5%87%BB%E4%B8%AD%E5%90%8C%E4%BC%B4&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [普京签署反制外国不友好行为法令](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E5%8F%8D%E5%88%B6%E5%A4%96%E5%9B%BD%E4%B8%8D%E5%8F%8B%E5%A5%BD%E8%A1%8C%E4%B8%BA%E6%B3%95%E4%BB%A4%23&Refer=top)
+
+1. [张哲瀚 娱乐圈在逃拉面师傅](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9C%A8%E9%80%83%E6%8B%89%E9%9D%A2%E5%B8%88%E5%82%85&Refer=top)
+
+1. [北京多家教育机构违规招生收费](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%AE%B6%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E8%BF%9D%E8%A7%84%E6%8B%9B%E7%94%9F%E6%94%B6%E8%B4%B9%23&Refer=top)
 
