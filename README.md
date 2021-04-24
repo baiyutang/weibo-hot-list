@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 13:05:46
+## 微博今日热榜 更新于 2021-04-24 14:01:17
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -258,4 +258,22 @@
 1. [银行回应押钞员中枪身亡](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8A%BC%E9%92%9E%E5%91%98%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%23&Refer=top)
 
 1. [沪牌拍卖](https://s.weibo.com//weibo?q=%E6%B2%AA%E7%89%8C%E6%8B%8D%E5%8D%96&Refer=top)
+
+1. [中国航天史上的9个第一次](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%B2%E4%B8%8A%E7%9A%849%E4%B8%AA%E7%AC%AC%E4%B8%80%E6%AC%A1%23&Refer=new_time)
+
+1. [邓伦凌晨三点开工拍日出封面](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%BC%80%E5%B7%A5%E6%8B%8D%E6%97%A5%E5%87%BA%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [张子枫骑迷你自行车](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E9%AA%91%E8%BF%B7%E4%BD%A0%E8%87%AA%E8%A1%8C%E8%BD%A6%23&Refer=top)
+
+1. [创造营节目单](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
+
+1. [刘昊然 比我唱歌难听确实有点难](https://s.weibo.com//weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%20%E6%AF%94%E6%88%91%E5%94%B1%E6%AD%8C%E9%9A%BE%E5%90%AC%E7%A1%AE%E5%AE%9E%E6%9C%89%E7%82%B9%E9%9A%BE&Refer=top)
+
+1. [张哲瀚晒工作照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E6%99%92%E5%B7%A5%E4%BD%9C%E7%85%A7%23&Refer=top)
+
+1. [浙江规定快递费不得低于成本价](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E8%A7%84%E5%AE%9A%E5%BF%AB%E9%80%92%E8%B4%B9%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E%E6%88%90%E6%9C%AC%E4%BB%B7%23&Refer=top)
+
+1. [专八阅读](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E9%98%85%E8%AF%BB&Refer=top)
+
+1. [勇士大胜掘金](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E5%A4%A7%E8%83%9C%E6%8E%98%E9%87%91&Refer=top)
 
