@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-25 00:02:50
+## 微博今日热榜 更新于 2021-04-25 01:18:51
 1. [声音回顾中国航天征程](https://s.weibo.com//weibo?q=%23%E5%A3%B0%E9%9F%B3%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%BE%81%E7%A8%8B%23&Refer=new_time)
 
 1. [创造营成团名单](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [进村东北虎已送至饲养繁育中心](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E5%B7%B2%E9%80%81%E8%87%B3%E9%A5%B2%E5%85%BB%E7%B9%81%E8%82%B2%E4%B8%AD%E5%BF%83%23&Refer=top)
 
 1. [专八改错](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E6%94%B9%E9%94%99&Refer=top)
+
+1. [我国第一辆火星车命名祝融](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%91%BD%E5%90%8D%E7%A5%9D%E8%9E%8D%23&Refer=new_time)
+
+1. [Amu想让妹妹参加创造营](https://s.weibo.com//weibo?q=Amu%E6%83%B3%E8%AE%A9%E5%A6%B9%E5%A6%B9%E5%8F%82%E5%8A%A0%E5%88%9B%E9%80%A0%E8%90%A5&Refer=top)
 
