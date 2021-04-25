@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 03:06:40
+## 微博今日热榜 更新于 2021-04-26 04:01:04
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [国家药监局修订14个品种药品说明书](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E8%8D%AF%E7%9B%91%E5%B1%80%E4%BF%AE%E8%AE%A214%E4%B8%AA%E5%93%81%E7%A7%8D%E8%8D%AF%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6%23&Refer=top)
 
 1. [内蒙古沙尘暴现巨型沙墙](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E6%B2%99%E5%B0%98%E6%9A%B4%E7%8E%B0%E5%B7%A8%E5%9E%8B%E6%B2%99%E5%A2%99&Refer=top)
+
+1. [习近平赴广西考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B4%E5%B9%BF%E8%A5%BF%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
