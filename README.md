@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-25 19:00:57
+## 微博今日热榜 更新于 2021-04-25 20:01:21
 1. [声音回顾中国航天征程](https://s.weibo.com//weibo?q=%23%E5%A3%B0%E9%9F%B3%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%BE%81%E7%A8%8B%23&Refer=new_time)
 
 1. [创造营成团名单](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
@@ -414,4 +414,28 @@
 1. [近视患者最尴尬的社死瞬间](https://s.weibo.com//weibo?q=%E8%BF%91%E8%A7%86%E6%82%A3%E8%80%85%E6%9C%80%E5%B0%B4%E5%B0%AC%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4&Refer=top)
 
 1. [上海牺牲消防员一个32岁一个25岁](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E4%B8%AA32%E5%B2%81%E4%B8%80%E4%B8%AA25%E5%B2%81%23&Refer=top)
+
+1. [贾乃亮打掉节目组摄像头](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%89%93%E6%8E%89%E8%8A%82%E7%9B%AE%E7%BB%84%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
+
+1. [中小学不得以任何理由挤占体育课](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%B8%8D%E5%BE%97%E4%BB%A5%E4%BB%BB%E4%BD%95%E7%90%86%E7%94%B1%E6%8C%A4%E5%8D%A0%E4%BD%93%E8%82%B2%E8%AF%BE%23&Refer=top)
+
+1. [利路修 谢谢大家的支持我终于下班了](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%94%AF%E6%8C%81%E6%88%91%E7%BB%88%E4%BA%8E%E4%B8%8B%E7%8F%AD%E4%BA%86&Refer=top)
+
+1. [内蒙古沙尘暴现巨型沙墙](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E6%B2%99%E5%B0%98%E6%9A%B4%E7%8E%B0%E5%B7%A8%E5%9E%8B%E6%B2%99%E5%A2%99&Refer=top)
+
+1. [龙丹妮被粉丝接机](https://s.weibo.com//weibo?q=%23%E9%BE%99%E4%B8%B9%E5%A6%AE%E8%A2%AB%E7%B2%89%E4%B8%9D%E6%8E%A5%E6%9C%BA%23&Refer=top)
+
+1. [B站回应招聘争议并致歉](https://s.weibo.com//weibo?q=B%E7%AB%99%E5%9B%9E%E5%BA%94%E6%8B%9B%E8%81%98%E4%BA%89%E8%AE%AE%E5%B9%B6%E8%87%B4%E6%AD%89&Refer=top)
+
+1. [国家药监局修订14个品种药品说明书](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E8%8D%AF%E7%9B%91%E5%B1%80%E4%BF%AE%E8%AE%A214%E4%B8%AA%E5%93%81%E7%A7%8D%E8%8D%AF%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6%23&Refer=top)
+
+1. [山西千年古村落形似布达拉宫](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E5%8D%83%E5%B9%B4%E5%8F%A4%E6%9D%91%E8%90%BD%E5%BD%A2%E4%BC%BC%E5%B8%83%E8%BE%BE%E6%8B%89%E5%AE%AB&Refer=top)
+
+1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
+
+1. [玩密室逃脱被NPC咬了两口](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E8%A2%ABNPC%E5%92%AC%E4%BA%86%E4%B8%A4%E5%8F%A3%23&Refer=top)
+
+1. [央视揭市售商品常见李鬼套路](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E5%B8%82%E5%94%AE%E5%95%86%E5%93%81%E5%B8%B8%E8%A7%81%E6%9D%8E%E9%AC%BC%E5%A5%97%E8%B7%AF%23&Refer=top)
+
+1. [印尼失踪潜艇53名船员全部遇难](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%BC%E5%A4%B1%E8%B8%AA%E6%BD%9C%E8%89%8753%E5%90%8D%E8%88%B9%E5%91%98%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE&Refer=top)
 
