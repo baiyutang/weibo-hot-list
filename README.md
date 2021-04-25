@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-25 22:01:13
+## 微博今日热榜 更新于 2021-04-25 23:01:06
 1. [声音回顾中国航天征程](https://s.weibo.com//weibo?q=%23%E5%A3%B0%E9%9F%B3%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%BE%81%E7%A8%8B%23&Refer=new_time)
 
 1. [创造营成团名单](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
@@ -476,4 +476,22 @@
 1. [北京五一发放45亿消费大礼包](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%94%E4%B8%80%E5%8F%91%E6%94%BE45%E4%BA%BF%E6%B6%88%E8%B4%B9%E5%A4%A7%E7%A4%BC%E5%8C%85%23&Refer=top)
 
 1. [王源观光车上班](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A7%82%E5%85%89%E8%BD%A6%E4%B8%8A%E7%8F%AD%23&Refer=top)
+
+1. [习近平赴广西考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B5%B4%E5%B9%BF%E8%A5%BF%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
+
+1. [原来家有儿女鼠标长大了](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E9%BC%A0%E6%A0%87%E9%95%BF%E5%A4%A7%E4%BA%86&Refer=top)
+
+1. [印度边防部队士兵吸蒸汽防治新冠](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E8%BE%B9%E9%98%B2%E9%83%A8%E9%98%9F%E5%A3%AB%E5%85%B5%E5%90%B8%E8%92%B8%E6%B1%BD%E9%98%B2%E6%B2%BB%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [郭老师 南京](https://s.weibo.com//weibo?q=%E9%83%AD%E8%80%81%E5%B8%88%20%E5%8D%97%E4%BA%AC&Refer=top)
+
+1. [人不可能一直倒霉吧](https://s.weibo.com//weibo?q=%E4%BA%BA%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E5%80%92%E9%9C%89%E5%90%A7&Refer=top)
+
+1. [郭京飞埋伏邓伦埋了个寂寞](https://s.weibo.com//weibo?q=%23%E9%83%AD%E4%BA%AC%E9%A3%9E%E5%9F%8B%E4%BC%8F%E9%82%93%E4%BC%A6%E5%9F%8B%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [洛阳一在建大桥发生坍塌](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E9%98%B3%E4%B8%80%E5%9C%A8%E5%BB%BA%E5%A4%A7%E6%A1%A5%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23&Refer=top)
+
+1. [亲人离世对人的影响有多大](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E4%BA%BA%E7%A6%BB%E4%B8%96%E5%AF%B9%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [秦岭终南山梦幻星轨](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%AD%E7%BB%88%E5%8D%97%E5%B1%B1%E6%A2%A6%E5%B9%BB%E6%98%9F%E8%BD%A8&Refer=top)
 
