@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 02:10:26
+## 微博今日热榜 更新于 2021-04-26 03:06:40
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -124,4 +124,10 @@
 1. [圆明园万株牡丹齐盛放](https://s.weibo.com//weibo?q=%23%E5%9C%86%E6%98%8E%E5%9B%AD%E4%B8%87%E6%A0%AA%E7%89%A1%E4%B8%B9%E9%BD%90%E7%9B%9B%E6%94%BE%23&Refer=top)
 
 1. [清华大学110周年校庆](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6110%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23&Refer=top)
+
+1. [全国消费促进月来了](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B6%88%E8%B4%B9%E4%BF%83%E8%BF%9B%E6%9C%88%E6%9D%A5%E4%BA%86%23&Refer=new_time)
+
+1. [国家药监局修订14个品种药品说明书](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E8%8D%AF%E7%9B%91%E5%B1%80%E4%BF%AE%E8%AE%A214%E4%B8%AA%E5%93%81%E7%A7%8D%E8%8D%AF%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6%23&Refer=top)
+
+1. [内蒙古沙尘暴现巨型沙墙](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E6%B2%99%E5%B0%98%E6%9A%B4%E7%8E%B0%E5%B7%A8%E5%9E%8B%E6%B2%99%E5%A2%99&Refer=top)
 
