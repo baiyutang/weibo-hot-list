@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 12:03:41
+## 微博今日热榜 更新于 2021-04-26 13:06:11
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -266,4 +266,36 @@
 1. [华晨宇和平精英主题曲](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top)
 
 1. [对组织指使冒名顶替入学加大处罚](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E7%BB%84%E7%BB%87%E6%8C%87%E4%BD%BF%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E5%85%A5%E5%AD%A6%E5%8A%A0%E5%A4%A7%E5%A4%84%E7%BD%9A%23&Refer=top)
+
+1. [6个因为方向跑偏问世的神奇发明](https://s.weibo.com//weibo?q=%236%E4%B8%AA%E5%9B%A0%E4%B8%BA%E6%96%B9%E5%90%91%E8%B7%91%E5%81%8F%E9%97%AE%E4%B8%96%E7%9A%84%E7%A5%9E%E5%A5%87%E5%8F%91%E6%98%8E%23&Refer=new_time)
+
+1. [卓伟 C位出道顶流](https://s.weibo.com//weibo?q=%E5%8D%93%E4%BC%9F%20C%E4%BD%8D%E5%87%BA%E9%81%93%E9%A1%B6%E6%B5%81&Refer=top)
+
+1. [短发千万不要轻易烫发](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E5%8F%91%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E7%83%AB%E5%8F%91%23&Refer=top)
+
+1. [苹果因夸大iPhone防水功能遭起诉](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0%E5%A4%B8%E5%A4%A7iPhone%E9%98%B2%E6%B0%B4%E5%8A%9F%E8%83%BD%E9%81%AD%E8%B5%B7%E8%AF%89%23&Refer=top)
+
+1. [进村东北虎被命名为完达山1号](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E8%A2%AB%E5%91%BD%E5%90%8D%E4%B8%BA%E5%AE%8C%E8%BE%BE%E5%B1%B11%E5%8F%B7%23&Refer=top)
+
+1. [边程为抽烟道歉](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E7%A8%8B%E4%B8%BA%E6%8A%BD%E7%83%9F%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [上海地铁2号线有人员进入线路](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%812%E5%8F%B7%E7%BA%BF%E6%9C%89%E4%BA%BA%E5%91%98%E8%BF%9B%E5%85%A5%E7%BA%BF%E8%B7%AF&Refer=top)
+
+1. [大学生用限量版球鞋诈骗获刑10年](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E9%99%90%E9%87%8F%E7%89%88%E7%90%83%E9%9E%8B%E8%AF%88%E9%AA%97%E8%8E%B7%E5%88%9110%E5%B9%B4%23&Refer=top)
+
+1. [印度公园被改建成焚尸台](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%9B%AD%E8%A2%AB%E6%94%B9%E5%BB%BA%E6%88%90%E7%84%9A%E5%B0%B8%E5%8F%B0&Refer=top)
+
+1. [钓鱼岛及其附属岛屿地形地貌](https://s.weibo.com//weibo?q=%23%E9%92%93%E9%B1%BC%E5%B2%9B%E5%8F%8A%E5%85%B6%E9%99%84%E5%B1%9E%E5%B2%9B%E5%B1%BF%E5%9C%B0%E5%BD%A2%E5%9C%B0%E8%B2%8C%23&Refer=top)
+
+1. [村支书谈东北大哥救被老虎扑倒女子](https://s.weibo.com//weibo?q=%E6%9D%91%E6%94%AF%E4%B9%A6%E8%B0%88%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%93%A5%E6%95%91%E8%A2%AB%E8%80%81%E8%99%8E%E6%89%91%E5%80%92%E5%A5%B3%E5%AD%90&Refer=top)
+
+1. [几分钟看完一部电影是否侵权](https://s.weibo.com//weibo?q=%23%E5%87%A0%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1%E6%98%AF%E5%90%A6%E4%BE%B5%E6%9D%83%23&Refer=top)
+
+1. [特斯拉深夜再度回应将推动第三方检测](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B7%B1%E5%A4%9C%E5%86%8D%E5%BA%A6%E5%9B%9E%E5%BA%94%E5%B0%86%E6%8E%A8%E5%8A%A8%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B&Refer=top)
+
+1. [熟蛋返生论文作者发声](https://s.weibo.com//weibo?q=%23%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E8%AE%BA%E6%96%87%E4%BD%9C%E8%80%85%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [合肥人被撞疼后的反应](https://s.weibo.com//weibo?q=%E5%90%88%E8%82%A5%E4%BA%BA%E8%A2%AB%E6%92%9E%E7%96%BC%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94&Refer=top)
+
+1. [期刊回应收录熟蛋返生孵鸡论文](https://s.weibo.com//weibo?q=%E6%9C%9F%E5%88%8A%E5%9B%9E%E5%BA%94%E6%94%B6%E5%BD%95%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E5%AD%B5%E9%B8%A1%E8%AE%BA%E6%96%87&Refer=top)
 
