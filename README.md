@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 13:06:11
+## 微博今日热榜 更新于 2021-04-26 14:01:17
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -298,4 +298,26 @@
 1. [合肥人被撞疼后的反应](https://s.weibo.com//weibo?q=%E5%90%88%E8%82%A5%E4%BA%BA%E8%A2%AB%E6%92%9E%E7%96%BC%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94&Refer=top)
 
 1. [期刊回应收录熟蛋返生孵鸡论文](https://s.weibo.com//weibo?q=%E6%9C%9F%E5%88%8A%E5%9B%9E%E5%BA%94%E6%94%B6%E5%BD%95%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E5%AD%B5%E9%B8%A1%E8%AE%BA%E6%96%87&Refer=top)
+
+1. [4分钟带你领略绝美广西](https://s.weibo.com//weibo?q=%234%E5%88%86%E9%92%9F%E5%B8%A6%E4%BD%A0%E9%A2%86%E7%95%A5%E7%BB%9D%E7%BE%8E%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
+
+1. [任豪老板道歉](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E8%B1%AA%E8%80%81%E6%9D%BF%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [谢娜发文为杨迪庆生](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%8F%91%E6%96%87%E4%B8%BA%E6%9D%A8%E8%BF%AA%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [盒马用昨日奶做冰淇淋遭顾客索赔](https://s.weibo.com//weibo?q=%23%E7%9B%92%E9%A9%AC%E7%94%A8%E6%98%A8%E6%97%A5%E5%A5%B6%E5%81%9A%E5%86%B0%E6%B7%87%E6%B7%8B%E9%81%AD%E9%A1%BE%E5%AE%A2%E7%B4%A2%E8%B5%94%23&Refer=top)
+
+1. [该不该插手朋友的家庭矛盾](https://s.weibo.com//weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8F%92%E6%89%8B%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%9F%9B%E7%9B%BE%23&Refer=top)
+
+1. [轿车坠河近20人跳水救人](https://s.weibo.com//weibo?q=%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%B2%B3%E8%BF%9120%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA&Refer=top)
+
+1. [青3主题曲彩虹屁弹幕reaction](https://s.weibo.com//weibo?q=%23%E9%9D%923%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%BD%A9%E8%99%B9%E5%B1%81%E5%BC%B9%E5%B9%95reaction%23&Refer=top)
+
+1. [非正式会谈定档](https://s.weibo.com//weibo?q=%23%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%B0%88%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [兵马俑真人动态复原图](https://s.weibo.com//weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E7%9C%9F%E4%BA%BA%E5%8A%A8%E6%80%81%E5%A4%8D%E5%8E%9F%E5%9B%BE%23&Refer=top)
+
+1. [胆小鬼首发预告](https://s.weibo.com//weibo?q=%23%E8%83%86%E5%B0%8F%E9%AC%BC%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [校长回应发表熟蛋返生孵鸡论文](https://s.weibo.com//weibo?q=%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%8F%91%E8%A1%A8%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E5%AD%B5%E9%B8%A1%E8%AE%BA%E6%96%87&Refer=top)
 
