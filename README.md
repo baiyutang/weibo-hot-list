@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-27 02:10:17
+## 微博今日热榜 更新于 2021-04-27 03:06:20
 1. [30秒看广西](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E7%9C%8B%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top)
@@ -120,4 +120,6 @@
 1. [鹦鹉飞进小学教室蹭音乐课](https://s.weibo.com//weibo?q=%E9%B9%A6%E9%B9%89%E9%A3%9E%E8%BF%9B%E5%B0%8F%E5%AD%A6%E6%95%99%E5%AE%A4%E8%B9%AD%E9%9F%B3%E4%B9%90%E8%AF%BE&Refer=top)
 
 1. [任嘉伦演技](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [长歌行预告](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top)
 
