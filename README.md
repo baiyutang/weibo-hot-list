@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 14:01:17
+## 微博今日热榜 更新于 2021-04-26 15:05:51
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -320,4 +320,28 @@
 1. [胆小鬼首发预告](https://s.weibo.com//weibo?q=%23%E8%83%86%E5%B0%8F%E9%AC%BC%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A%23&Refer=top)
 
 1. [校长回应发表熟蛋返生孵鸡论文](https://s.weibo.com//weibo?q=%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E5%8F%91%E8%A1%A8%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E5%AD%B5%E9%B8%A1%E8%AE%BA%E6%96%87&Refer=top)
+
+1. [进入上海地铁线路男子已身亡](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%85%A5%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E7%BA%BF%E8%B7%AF%E7%94%B7%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [李易峰给新浪娱乐换头像](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E7%BB%99%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90%E6%8D%A2%E5%A4%B4%E5%83%8F%23&Refer=top)
+
+1. [Ella向五月天及布农族道歉](https://s.weibo.com//weibo?q=Ella%E5%90%91%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%8A%E5%B8%83%E5%86%9C%E6%97%8F%E9%81%93%E6%AD%89&Refer=top)
+
+1. [李易峰新浪扫楼](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E6%96%B0%E6%B5%AA%E6%89%AB%E6%A5%BC%23&Refer=top)
+
+1. [王鸥自制消肿奶茶](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B8%A5%E8%87%AA%E5%88%B6%E6%B6%88%E8%82%BF%E5%A5%B6%E8%8C%B6%23&Refer=top)
+
+1. [乌鸦小姐与蜥蜴先生终极预告](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E9%B8%A6%E5%B0%8F%E5%A7%90%E4%B8%8E%E8%9C%A5%E8%9C%B4%E5%85%88%E7%94%9F%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [网友关心的东北虎眼睛已无大碍](https://s.weibo.com//weibo?q=%E7%BD%91%E5%8F%8B%E5%85%B3%E5%BF%83%E7%9A%84%E4%B8%9C%E5%8C%97%E8%99%8E%E7%9C%BC%E7%9D%9B%E5%B7%B2%E6%97%A0%E5%A4%A7%E7%A2%8D&Refer=top)
+
+1. [李易峰给新浪员工放七天长假](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%98%93%E5%B3%B0%E7%BB%99%E6%96%B0%E6%B5%AA%E5%91%98%E5%B7%A5%E6%94%BE%E4%B8%83%E5%A4%A9%E9%95%BF%E5%81%87&Refer=top)
+
+1. [时代少年团首张实体专辑](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%A6%96%E5%BC%A0%E5%AE%9E%E4%BD%93%E4%B8%93%E8%BE%91%23&Refer=top)
+
+1. [令人窒息的时尚](https://s.weibo.com//weibo?q=%23%E4%BB%A4%E4%BA%BA%E7%AA%92%E6%81%AF%E7%9A%84%E6%97%B6%E5%B0%9A%23&Refer=top)
+
+1. [印度超级富豪花近百万元飞英国](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%B6%85%E7%BA%A7%E5%AF%8C%E8%B1%AA%E8%8A%B1%E8%BF%91%E7%99%BE%E4%B8%87%E5%85%83%E9%A3%9E%E8%8B%B1%E5%9B%BD%23&Refer=top)
+
+1. [中国农民丰收节拟写入法律](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E4%B8%B0%E6%94%B6%E8%8A%82%E6%8B%9F%E5%86%99%E5%85%A5%E6%B3%95%E5%BE%8B%23&Refer=top)
 
