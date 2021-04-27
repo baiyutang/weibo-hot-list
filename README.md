@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-27 11:05:08
+## 微博今日热榜 更新于 2021-04-27 12:01:28
 1. [30秒看广西](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E7%9C%8B%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top)
@@ -250,4 +250,26 @@
 1. [起底熟蛋返生论文背后学校](https://s.weibo.com//weibo?q=%E8%B5%B7%E5%BA%95%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E8%AE%BA%E6%96%87%E8%83%8C%E5%90%8E%E5%AD%A6%E6%A0%A1&Refer=top)
 
 1. [我国恶性肿瘤5年生存率达40%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A45%E5%B9%B4%E7%94%9F%E5%AD%98%E7%8E%87%E8%BE%BE40%25%23&Refer=top)
+
+1. [怀疑生活在虚拟世界的证据](https://s.weibo.com//weibo?q=%23%E6%80%80%E7%96%91%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E7%9A%84%E8%AF%81%E6%8D%AE%23&Refer=top)
+
+1. [利路修的维基百科介绍](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E4%BB%8B%E7%BB%8D%23&Refer=top)
+
+1. [印度仍有居民举办大型婚礼](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E4%BB%8D%E6%9C%89%E5%B1%85%E6%B0%91%E4%B8%BE%E5%8A%9E%E5%A4%A7%E5%9E%8B%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [全国2891个集体和个人获五一劳动表彰](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD2891%E4%B8%AA%E9%9B%86%E4%BD%93%E5%92%8C%E4%B8%AA%E4%BA%BA%E8%8E%B7%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E8%A1%A8%E5%BD%B0%23&Refer=top)
+
+1. [你爱吃螺蛳粉吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%88%B1%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%90%97%23&Refer=top)
+
+1. [见过最离谱的相亲经历](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E7%9B%B8%E4%BA%B2%E7%BB%8F%E5%8E%86%23&Refer=top)
+
+1. [张超战友曾在墓前陪他看阅兵](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%B6%85%E6%88%98%E5%8F%8B%E6%9B%BE%E5%9C%A8%E5%A2%93%E5%89%8D%E9%99%AA%E4%BB%96%E7%9C%8B%E9%98%85%E5%85%B5%23&Refer=top)
+
+1. [熟蛋返生孵小鸡论文能信吗](https://s.weibo.com//weibo?q=%23%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E5%AD%B5%E5%B0%8F%E9%B8%A1%E8%AE%BA%E6%96%87%E8%83%BD%E4%BF%A1%E5%90%97%23&Refer=top)
+
+1. [螺蛳粉爆红的背后](https://s.weibo.com//weibo?q=%23%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%88%86%E7%BA%A2%E7%9A%84%E8%83%8C%E5%90%8E%23&Refer=top)
+
+1. [你有被好奇心害过吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%9C%89%E8%A2%AB%E5%A5%BD%E5%A5%87%E5%BF%83%E5%AE%B3%E8%BF%87%E5%90%97%23&Refer=top)
+
+1. [RNG出发前往冰岛参加MSI](https://s.weibo.com//weibo?q=RNG%E5%87%BA%E5%8F%91%E5%89%8D%E5%BE%80%E5%86%B0%E5%B2%9B%E5%8F%82%E5%8A%A0MSI&Refer=top)
 
