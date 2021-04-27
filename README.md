@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 02:10:28
+## 微博今日热榜 更新于 2021-04-28 03:07:01
 1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -118,4 +118,6 @@
 1. [日本推出铁味冰淇淋](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E9%93%81%E5%91%B3%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top)
 
 1. [重庆悬崖边吊脚楼火车站](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%82%AC%E5%B4%96%E8%BE%B9%E5%90%8A%E8%84%9A%E6%A5%BC%E7%81%AB%E8%BD%A6%E7%AB%99%23&Refer=top)
+
+1. [过三爽被砸鸡蛋](https://s.weibo.com//weibo?q=%E8%BF%87%E4%B8%89%E7%88%BD%E8%A2%AB%E7%A0%B8%E9%B8%A1%E8%9B%8B&Refer=top)
 
