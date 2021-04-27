@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-27 07:01:25
+## 微博今日热榜 更新于 2021-04-27 08:03:02
 1. [30秒看广西](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E7%9C%8B%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top)
@@ -132,4 +132,38 @@
 1. [强化超大互联网平台个人信息保护义务](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E5%8C%96%E8%B6%85%E5%A4%A7%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B3%E5%8F%B0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E4%B9%89%E5%8A%A1%23&Refer=new_time)
 
 1. [盘古重装意志皮肤](https://s.weibo.com//weibo?q=%E7%9B%98%E5%8F%A4%E9%87%8D%E8%A3%85%E6%84%8F%E5%BF%97%E7%9A%AE%E8%82%A4&Refer=top)
+
+1. [央视主播说熟蛋孵小鸡侮辱极强伤害更大](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E8%AF%B4%E7%86%9F%E8%9B%8B%E5%AD%B5%E5%B0%8F%E9%B8%A1%E4%BE%AE%E8%BE%B1%E6%9E%81%E5%BC%BA%E4%BC%A4%E5%AE%B3%E6%9B%B4%E5%A4%A7%23&Refer=top)
+
+1. [印度黑市一瓶氧气600美元](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E9%BB%91%E5%B8%82%E4%B8%80%E7%93%B6%E6%B0%A7%E6%B0%94600%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [熟蛋返生论文第二作者后悔参与](https://s.weibo.com//weibo?q=%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E8%AE%BA%E6%96%87%E7%AC%AC%E4%BA%8C%E4%BD%9C%E8%80%85%E5%90%8E%E6%82%94%E5%8F%82%E4%B8%8E&Refer=top)
+
+1. [李光洙将从RM下车](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%89%E6%B4%99%E5%B0%86%E4%BB%8ERM%E4%B8%8B%E8%BD%A6%23&Refer=top)
+
+1. [全国社保卡持卡人数13.4亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%A4%BE%E4%BF%9D%E5%8D%A1%E6%8C%81%E5%8D%A1%E4%BA%BA%E6%95%B013.4%E4%BA%BF%23&Refer=top)
+
+1. [小舍得](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97&Refer=top)
+
+1. [iOS14.5正式版](https://s.weibo.com//weibo?q=%23iOS14.5%E6%AD%A3%E5%BC%8F%E7%89%88%23&Refer=top)
+
+1. [切尔诺贝利核事故35年](https://s.weibo.com//weibo?q=%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E4%BA%8B%E6%95%8535%E5%B9%B4&Refer=top)
+
+1. [俄罗斯驱逐一名意大利外交官](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%B1%E9%80%90%E4%B8%80%E5%90%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%96%E4%BA%A4%E5%AE%98%23&Refer=top)
+
+1. [海口小学生触电倒入积水](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%8F%A3%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%A7%A6%E7%94%B5%E5%80%92%E5%85%A5%E7%A7%AF%E6%B0%B4&Refer=top)
+
+1. [湖南省博物馆预约](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E9%A2%84%E7%BA%A6&Refer=top)
+
+1. [餐馆老板吐槽注水牛蛙如气球](https://s.weibo.com//weibo?q=%E9%A4%90%E9%A6%86%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BD%E6%B3%A8%E6%B0%B4%E7%89%9B%E8%9B%99%E5%A6%82%E6%B0%94%E7%90%83&Refer=top)
+
+1. [当你在健身房被骚扰](https://s.weibo.com//weibo?q=%E5%BD%93%E4%BD%A0%E5%9C%A8%E5%81%A5%E8%BA%AB%E6%88%BF%E8%A2%AB%E9%AA%9A%E6%89%B0&Refer=top)
+
+1. [美驻印度使领馆2名雇员感染新冠死亡](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E9%A9%BB%E5%8D%B0%E5%BA%A6%E4%BD%BF%E9%A2%86%E9%A6%862%E5%90%8D%E9%9B%87%E5%91%98%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [印度疫情失控会影响到中国吗](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E5%A4%B1%E6%8E%A7%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%90%97%23&Refer=top)
+
+1. [湖人 魔术](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%20%E9%AD%94%E6%9C%AF&Refer=top)
+
+1. [张超烈士牺牲5周年](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%B6%85%E7%83%88%E5%A3%AB%E7%89%BA%E7%89%B25%E5%91%A8%E5%B9%B4&Refer=top)
 
