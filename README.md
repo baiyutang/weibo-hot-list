@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-27 21:08:46
+## 微博今日热榜 更新于 2021-04-27 22:01:07
 1. [30秒看广西](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E7%9C%8B%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top)
@@ -518,4 +518,30 @@
 1. [徐杰篮板球](https://s.weibo.com//weibo?q=%E5%BE%90%E6%9D%B0%E7%AF%AE%E6%9D%BF%E7%90%83&Refer=top)
 
 1. [广东半场领先辽宁12分](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E5%8D%8A%E5%9C%BA%E9%A2%86%E5%85%88%E8%BE%BD%E5%AE%8112%E5%88%86&Refer=top)
+
+1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
+
+1. [印度医院里两三个病人挤一张床](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8C%BB%E9%99%A2%E9%87%8C%E4%B8%A4%E4%B8%89%E4%B8%AA%E7%97%85%E4%BA%BA%E6%8C%A4%E4%B8%80%E5%BC%A0%E5%BA%8A%23&Refer=top)
+
+1. [最会吓人的小猫](https://s.weibo.com//weibo?q=%23%E6%9C%80%E4%BC%9A%E5%90%93%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%8C%AB%23&Refer=top)
+
+1. [井胧直播](https://s.weibo.com//weibo?q=%E4%BA%95%E8%83%A7%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [我们破晓之前定档](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E7%A0%B4%E6%99%93%E4%B9%8B%E5%89%8D%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [同校老师坚称多次见证熟蛋返生](https://s.weibo.com//weibo?q=%E5%90%8C%E6%A0%A1%E8%80%81%E5%B8%88%E5%9D%9A%E7%A7%B0%E5%A4%9A%E6%AC%A1%E8%A7%81%E8%AF%81%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F&Refer=top)
+
+1. [甘望星补做青年大学习](https://s.weibo.com//weibo?q=%E7%94%98%E6%9C%9B%E6%98%9F%E8%A1%A5%E5%81%9A%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [如何看待幼儿园为家长上性教育课](https://s.weibo.com//weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%BA%E5%AE%B6%E9%95%BF%E4%B8%8A%E6%80%A7%E6%95%99%E8%82%B2%E8%AF%BE&Refer=top)
+
+1. [当东北人遇到猛兽](https://s.weibo.com//weibo?q=%E5%BD%93%E4%B8%9C%E5%8C%97%E4%BA%BA%E9%81%87%E5%88%B0%E7%8C%9B%E5%85%BD&Refer=top)
+
+1. [坐高铁充电最全攻略](https://s.weibo.com//weibo?q=%E5%9D%90%E9%AB%98%E9%93%81%E5%85%85%E7%94%B5%E6%9C%80%E5%85%A8%E6%94%BB%E7%95%A5&Refer=top)
+
+1. [郭艾伦单节15分](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E5%8D%95%E8%8A%8215%E5%88%86&Refer=top)
+
+1. [赵继伟六犯离场](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%BB%A7%E4%BC%9F%E5%85%AD%E7%8A%AF%E7%A6%BB%E5%9C%BA&Refer=top)
+
+1. [喝酒后行为艺术家](https://s.weibo.com//weibo?q=%23%E5%96%9D%E9%85%92%E5%90%8E%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF%E5%AE%B6%23&Refer=top)
 
