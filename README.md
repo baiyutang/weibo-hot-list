@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-27 14:01:20
+## 微博今日热榜 更新于 2021-04-27 15:04:37
 1. [30秒看广西](https://s.weibo.com//weibo?q=%2330%E7%A7%92%E7%9C%8B%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top)
@@ -326,4 +326,42 @@
 1. [欧盟今夏向已接种疫苗的美国游客开放](https://s.weibo.com//weibo?q=%E6%AC%A7%E7%9B%9F%E4%BB%8A%E5%A4%8F%E5%90%91%E5%B7%B2%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%BC%80%E6%94%BE&Refer=top)
 
 1. [张翰一天拍戏23个小时](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E4%B8%80%E5%A4%A9%E6%8B%8D%E6%88%8F23%E4%B8%AA%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [九图科普成年人该打哪些疫苗](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E5%9B%BE%E7%A7%91%E6%99%AE%E6%88%90%E5%B9%B4%E4%BA%BA%E8%AF%A5%E6%89%93%E5%93%AA%E4%BA%9B%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [中国新冠疫苗全球供应量突破1亿剂次](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E9%87%8F%E7%AA%81%E7%A0%B41%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=top)
+
+1. [山河令演唱会山河再遇先导片](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B1%B1%E6%B2%B3%E5%86%8D%E9%81%87%E5%85%88%E5%AF%BC%E7%89%87%23&Refer=top)
+
+1. [俄罗斯驻华大使馆让利路修好好休息](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%AE%A9%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF%23&Refer=top)
+
+1. [特级飞行员停飞与塔台感人对话](https://s.weibo.com//weibo?q=%23%E7%89%B9%E7%BA%A7%E9%A3%9E%E8%A1%8C%E5%91%98%E5%81%9C%E9%A3%9E%E4%B8%8E%E5%A1%94%E5%8F%B0%E6%84%9F%E4%BA%BA%E5%AF%B9%E8%AF%9D%23&Refer=top)
+
+1. [小学生自编自唱吐槽五一调休](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%87%AA%E7%BC%96%E8%87%AA%E5%94%B1%E5%90%90%E6%A7%BD%E4%BA%94%E4%B8%80%E8%B0%83%E4%BC%91%23&Refer=top)
+
+1. [草莓奶冻啵啵杯](https://s.weibo.com//weibo?q=%23%E8%8D%89%E8%8E%93%E5%A5%B6%E5%86%BB%E5%95%B5%E5%95%B5%E6%9D%AF%23&Refer=top)
+
+1. [冰镇汽水螺蛳粉](https://s.weibo.com//weibo?q=%23%E5%86%B0%E9%95%87%E6%B1%BD%E6%B0%B4%E8%9E%BA%E8%9B%B3%E7%B2%89%23&Refer=top)
+
+1. [巩晓彬就酒后驾车致歉](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E6%99%93%E5%BD%AC%E5%B0%B1%E9%85%92%E5%90%8E%E9%A9%BE%E8%BD%A6%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [大众点评会员因点赞过多被处罚](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E4%BC%9A%E5%91%98%E5%9B%A0%E7%82%B9%E8%B5%9E%E8%BF%87%E5%A4%9A%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=top)
+
+1. [偶然翻到爷爷对奶奶的吐槽](https://s.weibo.com//weibo?q=%23%E5%81%B6%E7%84%B6%E7%BF%BB%E5%88%B0%E7%88%B7%E7%88%B7%E5%AF%B9%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%90%90%E6%A7%BD%23&Refer=top)
+
+1. [江苏警方通报特斯拉冲进包子店](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%B9%E6%96%AF%E6%8B%89%E5%86%B2%E8%BF%9B%E5%8C%85%E5%AD%90%E5%BA%97&Refer=top)
+
+1. [张新成李斯丹妮福克斯新歌](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E7%A6%8F%E5%85%8B%E6%96%AF%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [刘诗诗白色吊带连衣裙](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%99%BD%E8%89%B2%E5%90%8A%E5%B8%A6%E8%BF%9E%E8%A1%A3%E8%A3%99%23&Refer=top)
+
+1. [警方辟谣网传盐城工学院视频](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E7%9B%90%E5%9F%8E%E5%B7%A5%E5%AD%A6%E9%99%A2%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [杨靖宇生前与敌人的对话](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E9%9D%96%E5%AE%87%E7%94%9F%E5%89%8D%E4%B8%8E%E6%95%8C%E4%BA%BA%E7%9A%84%E5%AF%B9%E8%AF%9D%23&Refer=top)
+
+1. [女子向情敌母亲送花圈泄愤被判刑](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E5%90%91%E6%83%85%E6%95%8C%E6%AF%8D%E4%BA%B2%E9%80%81%E8%8A%B1%E5%9C%88%E6%B3%84%E6%84%A4%E8%A2%AB%E5%88%A4%E5%88%91&Refer=top)
+
+1. [特战队员爆炸中索降](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E9%98%9F%E5%91%98%E7%88%86%E7%82%B8%E4%B8%AD%E7%B4%A2%E9%99%8D%23&Refer=top)
+
+1. [日本推出口鼻处透明口罩](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E5%8F%A3%E9%BC%BB%E5%A4%84%E9%80%8F%E6%98%8E%E5%8F%A3%E7%BD%A9%23&Refer=top)
 
