@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 20:01:33
+## 微博今日热榜 更新于 2021-04-28 21:09:13
 1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -496,4 +496,32 @@
 1. [明星工作室接连注销](https://s.weibo.com//weibo?q=%E6%98%8E%E6%98%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8E%A5%E8%BF%9E%E6%B3%A8%E9%94%80&Refer=top)
 
 1. [QG赢了](https://s.weibo.com//weibo?q=QG%E8%B5%A2%E4%BA%86&Refer=top)
+
+1. [龚俊姚安娜加入中餐厅5](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%A7%9A%E5%AE%89%E5%A8%9C%E5%8A%A0%E5%85%A5%E4%B8%AD%E9%A4%90%E5%8E%855%23&Refer=top)
+
+1. [余生请多指教双人海报](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%E5%8F%8C%E4%BA%BA%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [汪峰定律](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B3%B0%E5%AE%9A%E5%BE%8B&Refer=top)
+
+1. [杜淳被王灿拉黑过25次以上](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B7%B3%E8%A2%AB%E7%8E%8B%E7%81%BF%E6%8B%89%E9%BB%91%E8%BF%8725%E6%AC%A1%E4%BB%A5%E4%B8%8A%23&Refer=top)
+
+1. [被罗志祥耍了](https://s.weibo.com//weibo?q=%E8%A2%AB%E7%BD%97%E5%BF%97%E7%A5%A5%E8%80%8D%E4%BA%86&Refer=top)
+
+1. [胡烨韬直播](https://s.weibo.com//weibo?q=%E8%83%A1%E7%83%A8%E9%9F%AC%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [埃及出土8000年古墓穴](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E5%87%BA%E5%9C%9F8000%E5%B9%B4%E5%8F%A4%E5%A2%93%E7%A9%B4%23&Refer=top)
+
+1. [冰雨火双雄版片花](https://s.weibo.com//weibo?q=%23%E5%86%B0%E9%9B%A8%E7%81%AB%E5%8F%8C%E9%9B%84%E7%89%88%E7%89%87%E8%8A%B1%23&Refer=top)
+
+1. [俞更寅直播](https://s.weibo.com//weibo?q=%23%E4%BF%9E%E6%9B%B4%E5%AF%85%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [付思超直播](https://s.weibo.com//weibo?q=%E4%BB%98%E6%80%9D%E8%B6%85%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [送外卖副处长独家直播](https://s.weibo.com//weibo?q=%E9%80%81%E5%A4%96%E5%8D%96%E5%89%AF%E5%A4%84%E9%95%BF%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [印度一新郎新冠阳性仍举行婚礼](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E6%96%B0%E9%83%8E%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E4%BB%8D%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC%23&Refer=top)
+
+1. [原来力气太大也不是好事](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%8A%9B%E6%B0%94%E5%A4%AA%E5%A4%A7%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A5%BD%E4%BA%8B&Refer=top)
+
+1. [U19男女篮退出世界杯](https://s.weibo.com//weibo?q=U19%E7%94%B7%E5%A5%B3%E7%AF%AE%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF&Refer=top)
 
