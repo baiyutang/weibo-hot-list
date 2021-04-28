@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 22:01:05
+## 微博今日热榜 更新于 2021-04-28 23:01:18
 1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -552,4 +552,26 @@
 1. [高考那个夏天有多难忘](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E9%82%A3%E4%B8%AA%E5%A4%8F%E5%A4%A9%E6%9C%89%E5%A4%9A%E9%9A%BE%E5%BF%98%23&Refer=top)
 
 1. [男子遛狗不栓绳被罚款2500元](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%81%9B%E7%8B%97%E4%B8%8D%E6%A0%93%E7%BB%B3%E8%A2%AB%E7%BD%9A%E6%AC%BE2500%E5%85%83&Refer=top)
+
+1. [任嘉伦工作室辟谣网传新剧](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E6%96%B0%E5%89%A7%23&Refer=top)
+
+1. [王一博演的陈宇](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%BC%94%E7%9A%84%E9%99%88%E5%AE%87%23&Refer=top)
+
+1. [刘宇直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [烨斯](https://s.weibo.com//weibo?q=%E7%83%A8%E6%96%AF&Refer=top)
+
+1. [丁真家乡中小学开设马术课](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%AE%B6%E4%B9%A1%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BE%E9%A9%AC%E6%9C%AF%E8%AF%BE%23&Refer=top)
+
+1. [印度政府官员深夜突袭婚礼现场](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98%E6%B7%B1%E5%A4%9C%E7%AA%81%E8%A2%AD%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [过三爽好会说话](https://s.weibo.com//weibo?q=%23%E8%BF%87%E4%B8%89%E7%88%BD%E5%A5%BD%E4%BC%9A%E8%AF%B4%E8%AF%9D%23&Refer=top)
+
+1. [长颈鹿的打架方式](https://s.weibo.com//weibo?q=%E9%95%BF%E9%A2%88%E9%B9%BF%E7%9A%84%E6%89%93%E6%9E%B6%E6%96%B9%E5%BC%8F&Refer=top)
+
+1. [北京试点对超市连卷袋收费](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%AF%95%E7%82%B9%E5%AF%B9%E8%B6%85%E5%B8%82%E8%BF%9E%E5%8D%B7%E8%A2%8B%E6%94%B6%E8%B4%B9%23&Refer=top)
+
+1. [张杰让何炅把冻龄秘诀传授给大家](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AE%A9%E4%BD%95%E7%82%85%E6%8A%8A%E5%86%BB%E9%BE%84%E7%A7%98%E8%AF%80%E4%BC%A0%E6%8E%88%E7%BB%99%E5%A4%A7%E5%AE%B6%23&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
