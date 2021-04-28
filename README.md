@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 21:09:13
+## 微博今日热榜 更新于 2021-04-28 22:01:05
 1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -524,4 +524,32 @@
 1. [原来力气太大也不是好事](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%8A%9B%E6%B0%94%E5%A4%AA%E5%A4%A7%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A5%BD%E4%BA%8B&Refer=top)
 
 1. [U19男女篮退出世界杯](https://s.weibo.com//weibo?q=U19%E7%94%B7%E5%A5%B3%E7%AF%AE%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF&Refer=top)
+
+1. [严厉打击代孕等违法行为](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E4%BB%A3%E5%AD%95%E7%AD%89%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [熟蛋返生论文校长辞职](https://s.weibo.com//weibo?q=%23%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E8%AE%BA%E6%96%87%E6%A0%A1%E9%95%BF%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [林依轮薇娅李佳琦自拍](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E8%96%87%E5%A8%85%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [和马希望能尽快用微博](https://s.weibo.com//weibo?q=%23%E5%92%8C%E9%A9%AC%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%B0%BD%E5%BF%AB%E7%94%A8%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [夫妻吵架最伤人的话是什么](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E6%9C%80%E4%BC%A4%E4%BA%BA%E7%9A%84%E8%AF%9D%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [设计师把保洁阿姨画成神奇女侠](https://s.weibo.com//weibo?q=%23%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8A%8A%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E7%94%BB%E6%88%90%E7%A5%9E%E5%A5%87%E5%A5%B3%E4%BE%A0%23&Refer=top)
+
+1. [中消协点名砍价集赞拉人头](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%82%B9%E5%90%8D%E7%A0%8D%E4%BB%B7%E9%9B%86%E8%B5%9E%E6%8B%89%E4%BA%BA%E5%A4%B4%23&Refer=top)
+
+1. [广西北流市民自愿排长队献血](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%81%E5%B8%82%E6%B0%91%E8%87%AA%E6%84%BF%E6%8E%92%E9%95%BF%E9%98%9F%E7%8C%AE%E8%A1%80%23&Refer=top)
+
+1. [18元一日游被带去参观墓地](https://s.weibo.com//weibo?q=18%E5%85%83%E4%B8%80%E6%97%A5%E6%B8%B8%E8%A2%AB%E5%B8%A6%E5%8E%BB%E5%8F%82%E8%A7%82%E5%A2%93%E5%9C%B0&Refer=top)
+
+1. [十九届中央第七轮巡视名单](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%A4%AE%E7%AC%AC%E4%B8%83%E8%BD%AE%E5%B7%A1%E8%A7%86%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [百香果芒果酸奶冰淇淋](https://s.weibo.com//weibo?q=%23%E7%99%BE%E9%A6%99%E6%9E%9C%E8%8A%92%E6%9E%9C%E9%85%B8%E5%A5%B6%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top)
+
+1. [五月将上演月全食流星雨](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%9C%88%E5%B0%86%E4%B8%8A%E6%BC%94%E6%9C%88%E5%85%A8%E9%A3%9F%E6%B5%81%E6%98%9F%E9%9B%A8%23&Refer=top)
+
+1. [高考那个夏天有多难忘](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E9%82%A3%E4%B8%AA%E5%A4%8F%E5%A4%A9%E6%9C%89%E5%A4%9A%E9%9A%BE%E5%BF%98%23&Refer=top)
+
+1. [男子遛狗不栓绳被罚款2500元](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%81%9B%E7%8B%97%E4%B8%8D%E6%A0%93%E7%BB%B3%E8%A2%AB%E7%BD%9A%E6%AC%BE2500%E5%85%83&Refer=top)
 
