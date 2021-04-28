@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 13:05:18
+## 微博今日热榜 更新于 2021-04-28 14:01:24
 1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -312,4 +312,28 @@
 1. [同乡女孩给黄国平博士写信](https://s.weibo.com//weibo?q=%23%E5%90%8C%E4%B9%A1%E5%A5%B3%E5%AD%A9%E7%BB%99%E9%BB%84%E5%9B%BD%E5%B9%B3%E5%8D%9A%E5%A3%AB%E5%86%99%E4%BF%A1%23&Refer=top)
 
 1. [完达山1号为何隔离45天](https://s.weibo.com//weibo?q=%E5%AE%8C%E8%BE%BE%E5%B1%B11%E5%8F%B7%E4%B8%BA%E4%BD%95%E9%9A%94%E7%A6%BB45%E5%A4%A9&Refer=top)
+
+1. [这就是广西](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%B9%BF%E8%A5%BF%23&Refer=new_time)
+
+1. [已故三星会长遗产税高达699亿元](https://s.weibo.com//weibo?q=%E5%B7%B2%E6%95%85%E4%B8%89%E6%98%9F%E4%BC%9A%E9%95%BF%E9%81%97%E4%BA%A7%E7%A8%8E%E9%AB%98%E8%BE%BE699%E4%BA%BF%E5%85%83&Refer=top)
+
+1. [杨超越工作室声明](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&Refer=top)
+
+1. [广州房贷28日起再度涨价](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E6%88%BF%E8%B4%B728%E6%97%A5%E8%B5%B7%E5%86%8D%E5%BA%A6%E6%B6%A8%E4%BB%B7&Refer=top)
+
+1. [冷门歌手孙燕姿](https://s.weibo.com//weibo?q=%23%E5%86%B7%E9%97%A8%E6%AD%8C%E6%89%8B%E5%AD%99%E7%87%95%E5%A7%BF%23&Refer=top)
+
+1. [怦然心动20岁艺人官宣](https://s.weibo.com//weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%E8%89%BA%E4%BA%BA%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [龚俊五四晚会路透](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E4%BA%94%E5%9B%9B%E6%99%9A%E4%BC%9A%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [从楼上明白了分手的痛苦](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E6%A5%BC%E4%B8%8A%E6%98%8E%E7%99%BD%E4%BA%86%E5%88%86%E6%89%8B%E7%9A%84%E7%97%9B%E8%8B%A6%23&Refer=top)
+
+1. [印度新冠死亡病例超20万](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E8%B6%8520%E4%B8%87%23&Refer=top)
+
+1. [一起闭嘴跳舞吧](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E9%97%AD%E5%98%B4%E8%B7%B3%E8%88%9E%E5%90%A7%23&Refer=top)
+
+1. [文人作家都是怎么吐槽的](https://s.weibo.com//weibo?q=%23%E6%96%87%E4%BA%BA%E4%BD%9C%E5%AE%B6%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E5%90%90%E6%A7%BD%E7%9A%84%23&Refer=top)
+
+1. [弹琴遇到专业的邻居后](https://s.weibo.com//weibo?q=%23%E5%BC%B9%E7%90%B4%E9%81%87%E5%88%B0%E4%B8%93%E4%B8%9A%E7%9A%84%E9%82%BB%E5%B1%85%E5%90%8E%23&Refer=top)
 
