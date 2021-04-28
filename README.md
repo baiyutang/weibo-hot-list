@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 18:01:10
+## 微博今日热榜 更新于 2021-04-28 19:01:04
 1. [开放南宁](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%94%BE%E5%8D%97%E5%AE%81%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -452,4 +452,22 @@
 1. [云南文山遇冰雹街道成冰河](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E9%81%87%E5%86%B0%E9%9B%B9%E8%A1%97%E9%81%93%E6%88%90%E5%86%B0%E6%B2%B3%23&Refer=top)
 
 1. [泰式奶茶浓颜妆](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%BC%8F%E5%A5%B6%E8%8C%B6%E6%B5%93%E9%A2%9C%E5%A6%86%23&Refer=top)
+
+1. [普通话二级甲等的猫咪](https://s.weibo.com//weibo?q=%23%E6%99%AE%E9%80%9A%E8%AF%9D%E4%BA%8C%E7%BA%A7%E7%94%B2%E7%AD%89%E7%9A%84%E7%8C%AB%E5%92%AA%23&Refer=top)
+
+1. [甘望星回应撞脸宋威龙](https://s.weibo.com//weibo?q=%23%E7%94%98%E6%9C%9B%E6%98%9F%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E5%AE%8B%E5%A8%81%E9%BE%99%23&Refer=top)
+
+1. [86岁科学家凌晨4点开始工作](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%87%8C%E6%99%A84%E7%82%B9%E5%BC%80%E5%A7%8B%E5%B7%A5%E4%BD%9C%23&Refer=top)
+
+1. [孙燕姿肖战互关](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E8%82%96%E6%88%98%E4%BA%92%E5%85%B3%23&Refer=top)
+
+1. [杨紫五四晚会路透](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%BA%94%E5%9B%9B%E6%99%9A%E4%BC%9A%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [王嘉尔蓝色真空马甲](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%93%9D%E8%89%B2%E7%9C%9F%E7%A9%BA%E9%A9%AC%E7%94%B2%23&Refer=top)
+
+1. [郑爽涉嫌签订阴阳合同被调查](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E6%B6%89%E5%AB%8C%E7%AD%BE%E8%AE%A2%E9%98%B4%E9%98%B3%E5%90%88%E5%90%8C%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
+
+1. [工作沟通发语音好还是发文字好](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BD%9C%E6%B2%9F%E9%80%9A%E5%8F%91%E8%AF%AD%E9%9F%B3%E5%A5%BD%E8%BF%98%E6%98%AF%E5%8F%91%E6%96%87%E5%AD%97%E5%A5%BD%23&Refer=top)
+
+1. [贵阳机场回应厕所洗手台上布满化石](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E9%98%B3%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%8E%95%E6%89%80%E6%B4%97%E6%89%8B%E5%8F%B0%E4%B8%8A%E5%B8%83%E6%BB%A1%E5%8C%96%E7%9F%B3%23&Refer=top)
 
