@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-29 04:01:09
+## 微博今日热榜 更新于 2021-04-29 05:01:09
 1. [什么也不说祖国知道我](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%AF%B4%E7%A5%96%E5%9B%BD%E7%9F%A5%E9%81%93%E6%88%91%23&Refer=new_time)
 
 1. [郑爽涉嫌签订阴阳合同被调查](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E6%B6%89%E5%AB%8C%E7%AD%BE%E8%AE%A2%E9%98%B4%E9%98%B3%E5%90%88%E5%90%8C%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [2021湖南卫视综艺片单](https://s.weibo.com//weibo?q=%232021%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%BB%BC%E8%89%BA%E7%89%87%E5%8D%95%23&Refer=top)
 
 1. [男子遛狗不栓绳被罚款2500元](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%81%9B%E7%8B%97%E4%B8%8D%E6%A0%93%E7%BB%B3%E8%A2%AB%E7%BD%9A%E6%AC%BE2500%E5%85%83%23&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
