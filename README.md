@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-29 09:55:54
+## 微博今日热榜 更新于 2021-04-29 10:34:35
 1. [什么也不说祖国知道我](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%AF%B4%E7%A5%96%E5%9B%BD%E7%9F%A5%E9%81%93%E6%88%91%23&Refer=new_time)
 
 1. [郑爽涉嫌签订阴阳合同被调查](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E6%B6%89%E5%AB%8C%E7%AD%BE%E8%AE%A2%E9%98%B4%E9%98%B3%E5%90%88%E5%90%8C%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
@@ -220,4 +220,12 @@
 1. [小学厨师受伤校长掌勺](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%8E%A8%E5%B8%88%E5%8F%97%E4%BC%A4%E6%A0%A1%E9%95%BF%E6%8E%8C%E5%8B%BA%23&Refer=top)
 
 1. [五一假期出行人数将爆炸式增长](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%87%BA%E8%A1%8C%E4%BA%BA%E6%95%B0%E5%B0%86%E7%88%86%E7%82%B8%E5%BC%8F%E5%A2%9E%E9%95%BF%23&Refer=top)
+
+1. [什么是热气青年](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%83%AD%E6%B0%94%E9%9D%92%E5%B9%B4%23&Refer=new_time)
+
+1. [葛荟婕说汪峰把小苹果当成他的流量](https://s.weibo.com//weibo?q=%E8%91%9B%E8%8D%9F%E5%A9%95%E8%AF%B4%E6%B1%AA%E5%B3%B0%E6%8A%8A%E5%B0%8F%E8%8B%B9%E6%9E%9C%E5%BD%93%E6%88%90%E4%BB%96%E7%9A%84%E6%B5%81%E9%87%8F&Refer=top)
+
+1. [四川雅安地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [天和核心舱发射直播](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%92%8C%E6%A0%B8%E5%BF%83%E8%88%B1%E5%8F%91%E5%B0%84%E7%9B%B4%E6%92%AD%23&Refer=top)
 
