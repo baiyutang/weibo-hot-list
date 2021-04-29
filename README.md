@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-30 03:11:19
+## 微博今日热榜 更新于 2021-04-30 04:06:22
 1. [中国空间站天和核心舱发射任务成功](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%A4%A9%E5%92%8C%E6%A0%B8%E5%BF%83%E8%88%B1%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%E6%88%90%E5%8A%9F%23&Refer=new_time)
 
 1. [中国视协回应郑爽被查](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E5%9B%9E%E5%BA%94%E9%83%91%E7%88%BD%E8%A2%AB%E6%9F%A5%23&Refer=top)
@@ -110,4 +110,8 @@
 1. [许光汉 很谢谢你们现在还喜欢我](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%85%89%E6%B1%89%20%E5%BE%88%E8%B0%A2%E8%B0%A2%E4%BD%A0%E4%BB%AC%E7%8E%B0%E5%9C%A8%E8%BF%98%E5%96%9C%E6%AC%A2%E6%88%91&Refer=top)
 
 1. [什么是热气青年](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%83%AD%E6%B0%94%E9%9D%92%E5%B9%B4%23&Refer=new_time)
+
+1. [罪犯刑满释放前通过本科论文答辩](https://s.weibo.com//weibo?q=%23%E7%BD%AA%E7%8A%AF%E5%88%91%E6%BB%A1%E9%87%8A%E6%94%BE%E5%89%8D%E9%80%9A%E8%BF%87%E6%9C%AC%E7%A7%91%E8%AE%BA%E6%96%87%E7%AD%94%E8%BE%A9%23&Refer=top)
+
+1. [欢欢欺负米桃](https://s.weibo.com//weibo?q=%E6%AC%A2%E6%AC%A2%E6%AC%BA%E8%B4%9F%E7%B1%B3%E6%A1%83&Refer=top)
 
