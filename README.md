@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-01 05:03:46
+## 微博今日热榜 更新于 2021-05-01 06:06:04
 1. [疫苗接种认识上的误区](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%AE%A4%E8%AF%86%E4%B8%8A%E7%9A%84%E8%AF%AF%E5%8C%BA%23&Refer=new_time)
 
 1. [鹿晗 酒吧](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%20%E9%85%92%E5%90%A7&Refer=top)
@@ -134,4 +134,6 @@
 1. [一批民生新规5月起施行](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%89%B9%E6%B0%91%E7%94%9F%E6%96%B0%E8%A7%845%E6%9C%88%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [尹浩宇晒INTO1成员下班照](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%B5%A9%E5%AE%87%E6%99%92INTO1%E6%88%90%E5%91%98%E4%B8%8B%E7%8F%AD%E7%85%A7%23&Refer=top)
+
+1. [子悠笑了](https://s.weibo.com//weibo?q=%E5%AD%90%E6%82%A0%E7%AC%91%E4%BA%86&Refer=top)
 
