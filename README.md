@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-01 01:32:20
+## 微博今日热榜 更新于 2021-05-01 02:15:06
 1. [疫苗接种认识上的误区](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%AE%A4%E8%AF%86%E4%B8%8A%E7%9A%84%E8%AF%AF%E5%8C%BA%23&Refer=new_time)
 
 1. [鹿晗 酒吧](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%20%E9%85%92%E5%90%A7&Refer=top)
@@ -118,4 +118,8 @@
 1. [职场中要不要做老好人](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%9C%BA%E4%B8%AD%E8%A6%81%E4%B8%8D%E8%A6%81%E5%81%9A%E8%80%81%E5%A5%BD%E4%BA%BA%23&Refer=top)
 
 1. [龚俊黑色衬衫](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%BB%91%E8%89%B2%E8%A1%AC%E8%A1%AB%23&Refer=top)
+
+1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [悬崖之上](https://s.weibo.com//weibo?q=%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A&Refer=top)
 
