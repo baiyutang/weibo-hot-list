@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-01 06:06:04
+## 微博今日热榜 更新于 2021-05-01 07:04:26
 1. [疫苗接种认识上的误区](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%AE%A4%E8%AF%86%E4%B8%8A%E7%9A%84%E8%AF%AF%E5%8C%BA%23&Refer=new_time)
 
 1. [鹿晗 酒吧](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%20%E9%85%92%E5%90%A7&Refer=top)
