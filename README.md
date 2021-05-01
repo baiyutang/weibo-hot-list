@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-02 02:14:58
+## 微博今日热榜 更新于 2021-05-02 03:09:39
 1. [努力建设人与自然和谐共生的现代化](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%23&Refer=new_time)
 
 1. [李一桐 姐会凭本事让你们闭嘴](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%A7%90%E4%BC%9A%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%97%AD%E5%98%B4&Refer=top)
@@ -120,4 +120,6 @@
 1. [致敬每一位劳动者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
 
 1. [丁程鑫猜歌好像一个局外人](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8C%9C%E6%AD%8C%E5%A5%BD%E5%83%8F%E4%B8%80%E4%B8%AA%E5%B1%80%E5%A4%96%E4%BA%BA%23&Refer=top)
+
+1. [五一劳动节](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E8%8A%82%23&Refer=top)
 
