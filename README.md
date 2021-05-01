@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-02 00:09:06
+## 微博今日热榜 更新于 2021-05-02 01:32:51
 1. [努力建设人与自然和谐共生的现代化](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%23&Refer=new_time)
 
 1. [李一桐 姐会凭本事让你们闭嘴](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%A7%90%E4%BC%9A%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%97%AD%E5%98%B4&Refer=top)
@@ -106,4 +106,14 @@
 1. [特斯拉在韩国召回561辆进口车](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%8F%AC%E5%9B%9E561%E8%BE%86%E8%BF%9B%E5%8F%A3%E8%BD%A6&Refer=top)
 
 1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [平凡又伟大的劳动者](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%87%A1%E5%8F%88%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
+
+1. [吉克隽逸 你们放假我上班](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%20%E4%BD%A0%E4%BB%AC%E6%94%BE%E5%81%87%E6%88%91%E4%B8%8A%E7%8F%AD&Refer=top)
+
+1. [张若昀工装](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E8%A3%85%23&Refer=top)
+
+1. [过三爽叶小妹隔空烛光晚餐](https://s.weibo.com//weibo?q=%23%E8%BF%87%E4%B8%89%E7%88%BD%E5%8F%B6%E5%B0%8F%E5%A6%B9%E9%9A%94%E7%A9%BA%E7%83%9B%E5%85%89%E6%99%9A%E9%A4%90%23&Refer=top)
+
+1. [东京奥运会排球测试赛](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%8E%92%E7%90%83%E6%B5%8B%E8%AF%95%E8%B5%9B%23&Refer=top)
 
