@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-02 21:15:42
+## 微博今日热榜 更新于 2021-05-02 22:04:07
 1. [努力建设人与自然和谐共生的现代化](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%23&Refer=new_time)
 
 1. [李一桐 姐会凭本事让你们闭嘴](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%A7%90%E4%BC%9A%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%97%AD%E5%98%B4&Refer=top)
@@ -492,4 +492,20 @@
 1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
 
 1. [SpaceX龙飞船夜晚降落](https://s.weibo.com//weibo?q=SpaceX%E9%BE%99%E9%A3%9E%E8%88%B9%E5%A4%9C%E6%99%9A%E9%99%8D%E8%90%BD&Refer=top)
+
+1. [致敬劳动节里的劳动者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E5%8A%B3%E5%8A%A8%E8%8A%82%E9%87%8C%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
+
+1. [任豪 没有人比R1SE更爱R1SE](https://s.weibo.com//weibo?q=%E4%BB%BB%E8%B1%AA%20%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%AF%94R1SE%E6%9B%B4%E7%88%B1R1SE&Refer=top)
+
+1. [张译发长文纪念张宪臣](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%AF%91%E5%8F%91%E9%95%BF%E6%96%87%E7%BA%AA%E5%BF%B5%E5%BC%A0%E5%AE%AA%E8%87%A3&Refer=top)
+
+1. [王俊凯谈私生](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%B0%88%E7%A7%81%E7%94%9F%23&Refer=top)
+
+1. [INTO1未知周刊预告](https://s.weibo.com//weibo?q=%23INTO1%E6%9C%AA%E7%9F%A5%E5%91%A8%E5%88%8A%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [HIStory4近距离爱上你](https://s.weibo.com//weibo?q=HIStory4%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%88%B1%E4%B8%8A%E4%BD%A0&Refer=top)
+
+1. [运钞车突遭抢劫司机临危不乱逃离](https://s.weibo.com//weibo?q=%E8%BF%90%E9%92%9E%E8%BD%A6%E7%AA%81%E9%81%AD%E6%8A%A2%E5%8A%AB%E5%8F%B8%E6%9C%BA%E4%B8%B4%E5%8D%B1%E4%B8%8D%E4%B9%B1%E9%80%83%E7%A6%BB&Refer=top)
+
+1. [王俊凯 做事要问心无愧](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E5%81%9A%E4%BA%8B%E8%A6%81%E9%97%AE%E5%BF%83%E6%97%A0%E6%84%A7&Refer=top)
 
