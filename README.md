@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-02 07:07:09
+## 微博今日热榜 更新于 2021-05-02 08:22:34
 1. [努力建设人与自然和谐共生的现代化](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%23&Refer=new_time)
 
 1. [李一桐 姐会凭本事让你们闭嘴](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%A7%90%E4%BC%9A%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%97%AD%E5%98%B4&Refer=top)
@@ -124,4 +124,32 @@
 1. [五一劳动节](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E8%8A%82%23&Refer=top)
 
 1. [良辰美景好时光大结局](https://s.weibo.com//weibo?q=%E8%89%AF%E8%BE%B0%E7%BE%8E%E6%99%AF%E5%A5%BD%E6%97%B6%E5%85%89%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [印度](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6&Refer=top)
+
+1. [Jennie露背回眸照](https://s.weibo.com//weibo?q=%23Jennie%E9%9C%B2%E8%83%8C%E5%9B%9E%E7%9C%B8%E7%85%A7%23&Refer=top)
+
+1. [龚俊 人菜瘾大](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E4%BA%BA%E8%8F%9C%E7%98%BE%E5%A4%A7&Refer=top)
+
+1. [郭艾伦失声痛哭](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%A4%B1%E5%A3%B0%E7%97%9B%E5%93%AD%23&Refer=top)
+
+1. [印度首都封城再延长一周](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E5%B0%81%E5%9F%8E%E5%86%8D%E5%BB%B6%E9%95%BF%E4%B8%80%E5%91%A8%23&Refer=top)
+
+1. [悬崖之上](https://s.weibo.com//weibo?q=%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A&Refer=top)
+
+1. [一群锦鲤追一只小鸭子](https://s.weibo.com//weibo?q=%E4%B8%80%E7%BE%A4%E9%94%A6%E9%B2%A4%E8%BF%BD%E4%B8%80%E5%8F%AA%E5%B0%8F%E9%B8%AD%E5%AD%90&Refer=top)
+
+1. [徐璐琼瑶式落泪](https://s.weibo.com//weibo?q=%23%E5%BE%90%E7%92%90%E7%90%BC%E7%91%B6%E5%BC%8F%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [刘雯胡兵同台走秀](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%E8%83%A1%E5%85%B5%E5%90%8C%E5%8F%B0%E8%B5%B0%E7%A7%80&Refer=top)
+
+1. [张镇麟妈妈](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F%E5%A6%88%E5%A6%88&Refer=top)
+
+1. [这火锅是上过魔药课吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%81%AB%E9%94%85%E6%98%AF%E4%B8%8A%E8%BF%87%E9%AD%94%E8%8D%AF%E8%AF%BE%E5%90%97%23&Refer=top)
+
+1. [因好奇心引发的社死现场](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E5%A5%BD%E5%A5%87%E5%BF%83%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [学会说不有那么难吗](https://s.weibo.com//weibo?q=%E5%AD%A6%E4%BC%9A%E8%AF%B4%E4%B8%8D%E6%9C%89%E9%82%A3%E4%B9%88%E9%9A%BE%E5%90%97&Refer=top)
+
+1. [巴菲特股东大会实录](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A%E5%AE%9E%E5%BD%95&Refer=top)
 
