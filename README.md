@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-03 05:03:35
+## 微博今日热榜 更新于 2021-05-03 06:05:43
 1. [两代年轻人穿越百年的对话](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%B9%E8%AF%9D%23&Refer=new_time)
 
 1. [李沁让邓伦公主抱孙越](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E8%AE%A9%E9%82%93%E4%BC%A6%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%AD%99%E8%B6%8A%23&Refer=top)
