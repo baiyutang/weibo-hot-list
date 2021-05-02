@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-03 06:05:43
+## 微博今日热榜 更新于 2021-05-03 07:04:16
 1. [两代年轻人穿越百年的对话](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%B9%E8%AF%9D%23&Refer=new_time)
 
 1. [李沁让邓伦公主抱孙越](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E8%AE%A9%E9%82%93%E4%BC%A6%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%AD%99%E8%B6%8A%23&Refer=top)
@@ -134,4 +134,8 @@
 1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
 
 1. [印度](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6&Refer=top)
+
+1. [致敬劳动节里的劳动者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E5%8A%B3%E5%8A%A8%E8%8A%82%E9%87%8C%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
+
+1. [李现 你可以永远相信对抗路](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%8E%B0%20%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E5%AF%B9%E6%8A%97%E8%B7%AF&Refer=top)
 
