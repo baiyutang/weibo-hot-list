@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-03 03:09:07
+## 微博今日热榜 更新于 2021-05-03 04:05:02
 1. [两代年轻人穿越百年的对话](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%B9%E8%AF%9D%23&Refer=new_time)
 
 1. [李沁让邓伦公主抱孙越](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E8%AE%A9%E9%82%93%E4%BC%A6%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%AD%99%E8%B6%8A%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [尹正减肥后吃到米饭的表情](https://s.weibo.com//weibo?q=%E5%B0%B9%E6%AD%A3%E5%87%8F%E8%82%A5%E5%90%8E%E5%90%83%E5%88%B0%E7%B1%B3%E9%A5%AD%E7%9A%84%E8%A1%A8%E6%83%85&Refer=top)
 
 1. [曾涵江直播](https://s.weibo.com//weibo?q=%E6%9B%BE%E6%B6%B5%E6%B1%9F%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [国米夺得意甲冠军](https://s.weibo.com//weibo?q=%E5%9B%BD%E7%B1%B3%E5%A4%BA%E5%BE%97%E6%84%8F%E7%94%B2%E5%86%A0%E5%86%9B&Refer=top)
 
