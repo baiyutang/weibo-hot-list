@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-02 17:04:15
+## 微博今日热榜 更新于 2021-05-02 18:05:08
 1. [努力建设人与自然和谐共生的现代化](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E4%BA%BA%E4%B8%8E%E8%87%AA%E7%84%B6%E5%92%8C%E8%B0%90%E5%85%B1%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%23&Refer=new_time)
 
 1. [李一桐 姐会凭本事让你们闭嘴](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%A7%90%E4%BC%9A%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%97%AD%E5%98%B4&Refer=top)
@@ -388,4 +388,26 @@
 1. [印度大壶节或成超级传播](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%A3%B6%E8%8A%82%E6%88%96%E6%88%90%E8%B6%85%E7%BA%A7%E4%BC%A0%E6%92%AD%23&Refer=top)
 
 1. [秘密访客隐藏细节](https://s.weibo.com//weibo?q=%23%E7%A7%98%E5%AF%86%E8%AE%BF%E5%AE%A2%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [断臂男孩手术完成状况良好](https://s.weibo.com//weibo?q=%23%E6%96%AD%E8%87%82%E7%94%B7%E5%AD%A9%E6%89%8B%E6%9C%AF%E5%AE%8C%E6%88%90%E7%8A%B6%E5%86%B5%E8%89%AF%E5%A5%BD%23&Refer=top)
+
+1. [美国加州7.6万囚犯将被提前释放](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E7.6%E4%B8%87%E5%9B%9A%E7%8A%AF%E5%B0%86%E8%A2%AB%E6%8F%90%E5%89%8D%E9%87%8A%E6%94%BE%23&Refer=top)
+
+1. [任嘉伦邢菲床戏花絮甜](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E9%82%A2%E8%8F%B2%E5%BA%8A%E6%88%8F%E8%8A%B1%E7%B5%AE%E7%94%9C%23&Refer=top)
+
+1. [再也不想睡火车上铺了](https://s.weibo.com//weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%83%B3%E7%9D%A1%E7%81%AB%E8%BD%A6%E4%B8%8A%E9%93%BA%E4%BA%86%23&Refer=top)
+
+1. [男童脚踢电影屏幕5次被索赔18万](https://s.weibo.com//weibo?q=%E7%94%B7%E7%AB%A5%E8%84%9A%E8%B8%A2%E7%94%B5%E5%BD%B1%E5%B1%8F%E5%B9%955%E6%AC%A1%E8%A2%AB%E7%B4%A2%E8%B5%9418%E4%B8%87&Refer=top)
+
+1. [巴菲特回应马斯克承保火星移民](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E4%BF%9D%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91&Refer=top)
+
+1. [傅首尔最大的成就是学会了欣赏自己](https://s.weibo.com//weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E6%9C%80%E5%A4%A7%E7%9A%84%E6%88%90%E5%B0%B1%E6%98%AF%E5%AD%A6%E4%BC%9A%E4%BA%86%E6%AC%A3%E8%B5%8F%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [印度牧师每天火化150具遗体](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%89%A7%E5%B8%88%E6%AF%8F%E5%A4%A9%E7%81%AB%E5%8C%96150%E5%85%B7%E9%81%97%E4%BD%93&Refer=top)
+
+1. [黄小蕾说白瘦幼审美是新一波身材焦虑](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%B0%8F%E8%95%BE%E8%AF%B4%E7%99%BD%E7%98%A6%E5%B9%BC%E5%AE%A1%E7%BE%8E%E6%98%AF%E6%96%B0%E4%B8%80%E6%B3%A2%E8%BA%AB%E6%9D%90%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [广东男篮凯旋](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E5%87%AF%E6%97%8B%23&Refer=top)
+
+1. [游乐场设备故障多人悬在半空](https://s.weibo.com//weibo?q=%E6%B8%B8%E4%B9%90%E5%9C%BA%E8%AE%BE%E5%A4%87%E6%95%85%E9%9A%9C%E5%A4%9A%E4%BA%BA%E6%82%AC%E5%9C%A8%E5%8D%8A%E7%A9%BA&Refer=top)
 
