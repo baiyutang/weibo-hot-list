@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 00:10:53
+## 微博今日热榜 更新于 2021-05-04 01:34:04
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -104,4 +104,12 @@
 1. [NBA球队老板力顶狗狗币](https://s.weibo.com//weibo?q=NBA%E7%90%83%E9%98%9F%E8%80%81%E6%9D%BF%E5%8A%9B%E9%A1%B6%E7%8B%97%E7%8B%97%E5%B8%81&Refer=top)
 
 1. [澳大利亚总理回应禁止在印度国民回国](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9B%BD%E6%B0%91%E5%9B%9E%E5%9B%BD&Refer=top)
+
+1. [朴树那些花儿大合唱](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%A0%91%E9%82%A3%E4%BA%9B%E8%8A%B1%E5%84%BF%E5%A4%A7%E5%90%88%E5%94%B1&Refer=top)
+
+1. [漫威回归大银幕特辑](https://s.weibo.com//weibo?q=%E6%BC%AB%E5%A8%81%E5%9B%9E%E5%BD%92%E5%A4%A7%E9%93%B6%E5%B9%95%E7%89%B9%E8%BE%91&Refer=top)
+
+1. [薇娅五四歌会首唱吾是](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E4%BA%94%E5%9B%9B%E6%AD%8C%E4%BC%9A%E9%A6%96%E5%94%B1%E5%90%BE%E6%98%AF%23&Refer=top)
+
+1. [心疼夏拙](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%A4%8F%E6%8B%99%23&Refer=top)
 
