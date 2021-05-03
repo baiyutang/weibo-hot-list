@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 03:09:56
+## 微博今日热榜 更新于 2021-05-04 04:04:05
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [心疼夏拙](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%A4%8F%E6%8B%99%23&Refer=top)
 
 1. [李斯丹妮演出时停电了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E6%BC%94%E5%87%BA%E6%97%B6%E5%81%9C%E7%94%B5%E4%BA%86%23&Refer=top)
+
+1. [小舍得](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%88%8D%E5%BE%97&Refer=top)
 
