@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 00:05:53
+## 微博今日热榜 更新于 2021-05-05 01:25:39
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -102,4 +102,18 @@
 1. [多地发布海虹织纹螺预警](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E6%B5%B7%E8%99%B9%E7%BB%87%E7%BA%B9%E8%9E%BA%E9%A2%84%E8%AD%A6%23&Refer=top)
 
 1. [五四青年节](https://s.weibo.com//weibo?q=%23%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E8%8A%82%23&Refer=top)
+
+1. [大湾区青年快闪合唱我和我的祖国](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E9%9D%92%E5%B9%B4%E5%BF%AB%E9%97%AA%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23&Refer=new_time)
+
+1. [窦骁探班何超莲](https://s.weibo.com//weibo?q=%23%E7%AA%A6%E9%AA%81%E6%8E%A2%E7%8F%AD%E4%BD%95%E8%B6%85%E8%8E%B2%23&Refer=top)
+
+1. [利特姐姐将结婚](https://s.weibo.com//weibo?q=%23%E5%88%A9%E7%89%B9%E5%A7%90%E5%A7%90%E5%B0%86%E7%BB%93%E5%A9%9A%23&Refer=top)
+
+1. [丁真获理塘永久赛马王子奖](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%E8%8E%B7%E7%90%86%E5%A1%98%E6%B0%B8%E4%B9%85%E8%B5%9B%E9%A9%AC%E7%8E%8B%E5%AD%90%E5%A5%96&Refer=top)
+
+1. [邓伦景甜重现甄嬛传剧情](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E6%99%AF%E7%94%9C%E9%87%8D%E7%8E%B0%E7%94%84%E5%AC%9B%E4%BC%A0%E5%89%A7%E6%83%85%23&Refer=top)
+
+1. [丁太升](https://s.weibo.com//weibo?q=%23%E4%B8%81%E5%A4%AA%E5%8D%87%23&Refer=top)
+
+1. [恋爱应该听父母的意见吗](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1%E5%BA%94%E8%AF%A5%E5%90%AC%E7%88%B6%E6%AF%8D%E7%9A%84%E6%84%8F%E8%A7%81%E5%90%97%23&Refer=top)
 
