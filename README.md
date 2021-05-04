@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 16:03:55
+## 微博今日热榜 更新于 2021-05-04 17:03:07
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -326,4 +326,28 @@
 1. [印度演员表演疫情失控如何发生](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%BC%94%E5%91%98%E8%A1%A8%E6%BC%94%E7%96%AB%E6%83%85%E5%A4%B1%E6%8E%A7%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F&Refer=top)
 
 1. [8旬退休教授为贫困生捐70万](https://s.weibo.com//weibo?q=%238%E6%97%AC%E9%80%80%E4%BC%91%E6%95%99%E6%8E%88%E4%B8%BA%E8%B4%AB%E5%9B%B0%E7%94%9F%E6%8D%9070%E4%B8%87%23&Refer=top)
+
+1. [8400亿人民币是什么概念](https://s.weibo.com//weibo?q=%238400%E4%BA%BF%E4%BA%BA%E6%B0%91%E5%B8%81%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5%23&Refer=top)
+
+1. [黄明昊向日葵头套挡雨](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E5%90%91%E6%97%A5%E8%91%B5%E5%A4%B4%E5%A5%97%E6%8C%A1%E9%9B%A8%23&Refer=top)
+
+1. [何洛洛扣子开了](https://s.weibo.com//weibo?q=%23%E4%BD%95%E6%B4%9B%E6%B4%9B%E6%89%A3%E5%AD%90%E5%BC%80%E4%BA%86%23&Refer=top)
+
+1. [北京草莓音乐节](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82&Refer=top)
+
+1. [山河令主题演唱会彩排花絮](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E4%B8%BB%E9%A2%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%A9%E6%8E%92%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [胡宇桐与私生起争执](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%AE%87%E6%A1%90%E4%B8%8E%E7%A7%81%E7%94%9F%E8%B5%B7%E4%BA%89%E6%89%A7%23&Refer=top)
+
+1. [当代年轻人可以有多强](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [广州天气](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B0%94&Refer=top)
+
+1. [北京大风](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E&Refer=top)
+
+1. [这就是传说中的比翼双飞吗](https://s.weibo.com//weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E6%AF%94%E7%BF%BC%E5%8F%8C%E9%A3%9E%E5%90%97&Refer=top)
+
+1. [超50%哮喘患者与家族有关](https://s.weibo.com//weibo?q=%E8%B6%8550%25%E5%93%AE%E5%96%98%E6%82%A3%E8%80%85%E4%B8%8E%E5%AE%B6%E6%97%8F%E6%9C%89%E5%85%B3&Refer=top)
+
+1. [Hero RW](https://s.weibo.com//weibo?q=Hero%20RW&Refer=top)
 
