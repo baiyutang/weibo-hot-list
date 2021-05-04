@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 18:03:27
+## 微博今日热榜 更新于 2021-05-04 19:02:42
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -374,4 +374,32 @@
 1. [张哲瀚读信哭了](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E8%AF%BB%E4%BF%A1%E5%93%AD%E4%BA%86&Refer=top)
 
 1. [中国青年面对时代之问的回答](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E9%9D%A2%E5%AF%B9%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE%E7%9A%84%E5%9B%9E%E7%AD%94%23&Refer=top)
+
+1. [丁太昇道歉](https://s.weibo.com//weibo?q=%E4%B8%81%E5%A4%AA%E6%98%87%E9%81%93%E6%AD%89&Refer=top)
+
+1. [小马自己跑第一](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%A9%AC%E8%87%AA%E5%B7%B1%E8%B7%91%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [美传染病专家赴印度感染新冠去世](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%93%E5%AE%B6%E8%B5%B4%E5%8D%B0%E5%BA%A6%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [4人倒卖恭王府景区门票被抓](https://s.weibo.com//weibo?q=4%E4%BA%BA%E5%80%92%E5%8D%96%E6%81%AD%E7%8E%8B%E5%BA%9C%E6%99%AF%E5%8C%BA%E9%97%A8%E7%A5%A8%E8%A2%AB%E6%8A%93&Refer=top)
+
+1. [张哲瀚唱同手同脚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%94%B1%E5%90%8C%E6%89%8B%E5%90%8C%E8%84%9A%23&Refer=top)
+
+1. [原来是王阳阳](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%8E%8B%E9%98%B3%E9%98%B3%23&Refer=top)
+
+1. [奥斯卡以为皇族是夸奖人的意思](https://s.weibo.com//weibo?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E4%BB%A5%E4%B8%BA%E7%9A%87%E6%97%8F%E6%98%AF%E5%A4%B8%E5%A5%96%E4%BA%BA%E7%9A%84%E6%84%8F%E6%80%9D&Refer=top)
+
+1. [还以为是伞成精了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E4%BC%9E%E6%88%90%E7%B2%BE%E4%BA%86%23&Refer=top)
+
+1. [成都宠物盲盒猫狗已被救下检疫](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E5%AE%A0%E7%89%A9%E7%9B%B2%E7%9B%92%E7%8C%AB%E7%8B%97%E5%B7%B2%E8%A2%AB%E6%95%91%E4%B8%8B%E6%A3%80%E7%96%AB&Refer=top)
+
+1. [爸爸10年给儿子建了个图书馆](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B810%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AD%90%E5%BB%BA%E4%BA%86%E4%B8%AA%E5%9B%BE%E4%B9%A6%E9%A6%86%23&Refer=top)
+
+1. [姜小宁告白顾川](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E5%B0%8F%E5%AE%81%E5%91%8A%E7%99%BD%E9%A1%BE%E5%B7%9D%23&Refer=top)
+
+1. [敦煌景区骆驼排队上山](https://s.weibo.com//weibo?q=%E6%95%A6%E7%85%8C%E6%99%AF%E5%8C%BA%E9%AA%86%E9%A9%BC%E6%8E%92%E9%98%9F%E4%B8%8A%E5%B1%B1&Refer=top)
+
+1. [球兰花绽放瞬间](https://s.weibo.com//weibo?q=%E7%90%83%E5%85%B0%E8%8A%B1%E7%BB%BD%E6%94%BE%E7%9E%AC%E9%97%B4&Refer=top)
+
+1. [深圳天气](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94&Refer=top)
 
