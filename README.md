@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 19:02:42
+## 微博今日热榜 更新于 2021-05-04 20:04:22
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -402,4 +402,34 @@
 1. [球兰花绽放瞬间](https://s.weibo.com//weibo?q=%E7%90%83%E5%85%B0%E8%8A%B1%E7%BB%BD%E6%94%BE%E7%9E%AC%E9%97%B4&Refer=top)
 
 1. [深圳天气](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94&Refer=top)
+
+1. [海南离岛免税两天卖出2.94亿元](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E7%A6%BB%E5%B2%9B%E5%85%8D%E7%A8%8E%E4%B8%A4%E5%A4%A9%E5%8D%96%E5%87%BA2.94%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [雷佳音向于和伟申请连麦28次没接](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%91%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%94%B3%E8%AF%B7%E8%BF%9E%E9%BA%A628%E6%AC%A1%E6%B2%A1%E6%8E%A5%23&Refer=top)
+
+1. [中通快递回应成都宠物盲盒事件](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%80%9A%E5%BF%AB%E9%80%92%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E5%AE%A0%E7%89%A9%E7%9B%B2%E7%9B%92%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [林郑月娥称目前香港疫情整体稳定](https://s.weibo.com//weibo?q=%23%E6%9E%97%E9%83%91%E6%9C%88%E5%A8%A5%E7%A7%B0%E7%9B%AE%E5%89%8D%E9%A6%99%E6%B8%AF%E7%96%AB%E6%83%85%E6%95%B4%E4%BD%93%E7%A8%B3%E5%AE%9A%23&Refer=top)
+
+1. [吴磊 要把演员好的一面传下去](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E8%A6%81%E6%8A%8A%E6%BC%94%E5%91%98%E5%A5%BD%E7%9A%84%E4%B8%80%E9%9D%A2%E4%BC%A0%E4%B8%8B%E5%8E%BB&Refer=top)
+
+1. [央视五四晚会](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E4%BA%94%E5%9B%9B%E6%99%9A%E4%BC%9A&Refer=top)
+
+1. [印度一动物园8头狮子确诊新冠](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD8%E5%A4%B4%E7%8B%AE%E5%AD%90%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [十九岁男学生的日常](https://s.weibo.com//weibo?q=%E5%8D%81%E4%B9%9D%E5%B2%81%E7%94%B7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8&Refer=top)
+
+1. [宋茜粉紫渐变发色](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%B2%89%E7%B4%AB%E6%B8%90%E5%8F%98%E5%8F%91%E8%89%B2%23&Refer=top)
+
+1. [官方回应坡子街派出所成打卡地](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9D%A1%E5%AD%90%E8%A1%97%E6%B4%BE%E5%87%BA%E6%89%80%E6%88%90%E6%89%93%E5%8D%A1%E5%9C%B0%23&Refer=top)
+
+1. [龚俊中国红西装造型](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%A5%BF%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [当班主任出现在宿舍时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%AE%BF%E8%88%8D%E6%97%B6%23&Refer=top)
+
+1. [山河令演唱会](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top)
+
+1. [盘点盖茨夫妇1300亿美元财产清单](https://s.weibo.com//weibo?q=%E7%9B%98%E7%82%B9%E7%9B%96%E8%8C%A8%E5%A4%AB%E5%A6%871300%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%A2%E4%BA%A7%E6%B8%85%E5%8D%95&Refer=top)
+
+1. [唐艺昕夏日海浪蓝纱裙](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%B5%AA%E8%93%9D%E7%BA%B1%E8%A3%99%23&Refer=top)
 
