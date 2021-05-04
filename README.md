@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 20:04:22
+## 微博今日热榜 更新于 2021-05-04 21:13:29
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -432,4 +432,32 @@
 1. [盘点盖茨夫妇1300亿美元财产清单](https://s.weibo.com//weibo?q=%E7%9B%98%E7%82%B9%E7%9B%96%E8%8C%A8%E5%A4%AB%E5%A6%871300%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%A2%E4%BA%A7%E6%B8%85%E5%8D%95&Refer=top)
 
 1. [唐艺昕夏日海浪蓝纱裙](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%B5%AA%E8%93%9D%E7%BA%B1%E8%A3%99%23&Refer=top)
+
+1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [徐峥给于和伟送礼物余额不足](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%B3%A5%E7%BB%99%E4%BA%8E%E5%92%8C%E4%BC%9F%E9%80%81%E7%A4%BC%E7%89%A9%E4%BD%99%E9%A2%9D%E4%B8%8D%E8%B6%B3%23&Refer=top)
+
+1. [李沁许魏洲薇娅合唱开场曲](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%B2%81%E8%AE%B8%E9%AD%8F%E6%B4%B2%E8%96%87%E5%A8%85%E5%90%88%E5%94%B1%E5%BC%80%E5%9C%BA%E6%9B%B2&Refer=top)
+
+1. [郑珍云朴景丽分手](https://s.weibo.com//weibo?q=%E9%83%91%E7%8F%8D%E4%BA%91%E6%9C%B4%E6%99%AF%E4%B8%BD%E5%88%86%E6%89%8B&Refer=top)
+
+1. [迪丽热巴吴磊同台合唱](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%90%B4%E7%A3%8A%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%23&Refer=top)
+
+1. [狗狗币大涨](https://s.weibo.com//weibo?q=%E7%8B%97%E7%8B%97%E5%B8%81%E5%A4%A7%E6%B6%A8&Refer=top)
+
+1. [10多位一级军士长唱响少年](https://s.weibo.com//weibo?q=10%E5%A4%9A%E4%BD%8D%E4%B8%80%E7%BA%A7%E5%86%9B%E5%A3%AB%E9%95%BF%E5%94%B1%E5%93%8D%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [利路修上海散步](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%E4%B8%8A%E6%B5%B7%E6%95%A3%E6%AD%A5&Refer=top)
+
+1. [贵州铜仁铁索桥暴风雨中扭成麻花](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E9%93%9C%E4%BB%81%E9%93%81%E7%B4%A2%E6%A1%A5%E6%9A%B4%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%89%AD%E6%88%90%E9%BA%BB%E8%8A%B1&Refer=top)
+
+1. [魏子越直播](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%AD%90%E8%B6%8A%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [云南瑞丽中高风险地区清零](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E7%91%9E%E4%B8%BD%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E6%B8%85%E9%9B%B6&Refer=top)
+
+1. [中国将与阿根廷合作生产国药新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%90%88%E4%BD%9C%E7%94%9F%E4%BA%A7%E5%9B%BD%E8%8D%AF%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [白敬亭好正](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%BD%E6%AD%A3%23&Refer=top)
+
+1. [李易峰直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%98%93%E5%B3%B0%E7%9B%B4%E6%92%AD&Refer=top)
 
