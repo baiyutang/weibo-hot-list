@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 06:04:12
+## 微博今日热榜 更新于 2021-05-05 07:03:07
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -128,4 +128,14 @@
 1. [范丞丞杜华同框上班](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%9D%9C%E5%8D%8E%E5%90%8C%E6%A1%86%E4%B8%8A%E7%8F%AD%23&Refer=top)
 
 1. [中国青年面对时代之问的回答](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E9%9D%A2%E5%AF%B9%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE%E7%9A%84%E5%9B%9E%E7%AD%94%23&Refer=top)
+
+1. [给2050年的青年捎句话](https://s.weibo.com//weibo?q=%23%E7%BB%992050%E5%B9%B4%E7%9A%84%E9%9D%92%E5%B9%B4%E6%8D%8E%E5%8F%A5%E8%AF%9D%23&Refer=new_time)
+
+1. [青春有你](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0&Refer=top)
+
+1. [10多位一级军士长唱响少年](https://s.weibo.com//weibo?q=10%E5%A4%9A%E4%BD%8D%E4%B8%80%E7%BA%A7%E5%86%9B%E5%A3%AB%E9%95%BF%E5%94%B1%E5%93%8D%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [爱奇艺](https://s.weibo.com//weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&Refer=top)
+
+1. [青你3后续录制被叫停](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E5%90%8E%E7%BB%AD%E5%BD%95%E5%88%B6%E8%A2%AB%E5%8F%AB%E5%81%9C%23&Refer=top)
 
