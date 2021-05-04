@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 01:25:39
+## 微博今日热榜 更新于 2021-05-05 02:07:19
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [丁太升](https://s.weibo.com//weibo?q=%23%E4%B8%81%E5%A4%AA%E5%8D%87%23&Refer=top)
 
 1. [恋爱应该听父母的意见吗](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1%E5%BA%94%E8%AF%A5%E5%90%AC%E7%88%B6%E6%AF%8D%E7%9A%84%E6%84%8F%E8%A7%81%E5%90%97%23&Refer=top)
+
+1. [小鬼粉色朋克造型](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%AC%BC%E7%B2%89%E8%89%B2%E6%9C%8B%E5%85%8B%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [穆里尼奥执教罗马](https://s.weibo.com//weibo?q=%23%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5%E6%89%A7%E6%95%99%E7%BD%97%E9%A9%AC%23&Refer=top)
 
