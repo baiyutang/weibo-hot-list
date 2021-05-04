@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 09:55:40
+## 微博今日热榜 更新于 2021-05-04 10:34:34
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -192,4 +192,26 @@
 1. [库里单节17分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E5%8D%95%E8%8A%8217%E5%88%86&Refer=top)
 
 1. [商场物业工作人员偷窥女厕所](https://s.weibo.com//weibo?q=%E5%95%86%E5%9C%BA%E7%89%A9%E4%B8%9A%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%B7%E7%AA%A5%E5%A5%B3%E5%8E%95%E6%89%80&Refer=top)
+
+1. [我让男朋友社死了](https://s.weibo.com//weibo?q=%23%E6%88%91%E8%AE%A9%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%A4%BE%E6%AD%BB%E4%BA%86%23&Refer=top)
+
+1. [梅琳达回忆初见比尔盖茨](https://s.weibo.com//weibo?q=%E6%A2%85%E7%90%B3%E8%BE%BE%E5%9B%9E%E5%BF%86%E5%88%9D%E8%A7%81%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8&Refer=top)
+
+1. [清华老年合唱团又出新歌了](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E8%80%81%E5%B9%B4%E5%90%88%E5%94%B1%E5%9B%A2%E5%8F%88%E5%87%BA%E6%96%B0%E6%AD%8C%E4%BA%86%23&Refer=top)
+
+1. [共青团中央](https://s.weibo.com//weibo?q=%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE&Refer=top)
+
+1. [今天是工藤新一的生日](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80%E7%9A%84%E7%94%9F%E6%97%A5&Refer=top)
+
+1. [印度上百科学家要求政府公开疫情数据](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%8A%E7%99%BE%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E5%85%AC%E5%BC%80%E7%96%AB%E6%83%85%E6%95%B0%E6%8D%AE%23&Refer=top)
+
+1. [威少赛季场均三双](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%91%E8%B5%9B%E5%AD%A3%E5%9C%BA%E5%9D%87%E4%B8%89%E5%8F%8C&Refer=top)
+
+1. [少女因病辍学4年写下500篇文章](https://s.weibo.com//weibo?q=%E5%B0%91%E5%A5%B3%E5%9B%A0%E7%97%85%E8%BE%8D%E5%AD%A64%E5%B9%B4%E5%86%99%E4%B8%8B500%E7%AF%87%E6%96%87%E7%AB%A0&Refer=top)
+
+1. [菲律宾总统回应接种中国新冠疫苗](https://s.weibo.com//weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E6%8E%A5%E7%A7%8D%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [安东尼生涯得分升至历史第十](https://s.weibo.com//weibo?q=%E5%AE%89%E4%B8%9C%E5%B0%BC%E7%94%9F%E6%B6%AF%E5%BE%97%E5%88%86%E5%8D%87%E8%87%B3%E5%8E%86%E5%8F%B2%E7%AC%AC%E5%8D%81&Refer=top)
+
+1. [丁太升](https://s.weibo.com//weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87&Refer=top)
 
