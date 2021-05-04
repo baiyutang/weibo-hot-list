@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 12:04:04
+## 微博今日热榜 更新于 2021-05-04 13:07:36
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -244,4 +244,30 @@
 1. [五四青年爱国图鉴](https://s.weibo.com//weibo?q=%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E7%88%B1%E5%9B%BD%E5%9B%BE%E9%89%B4&Refer=top)
 
 1. [美媒曝比尔盖茨离婚文件](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E7%A6%BB%E5%A9%9A%E6%96%87%E4%BB%B6%23&Refer=top)
+
+1. [印度医生为死亡病患哽咽](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8C%BB%E7%94%9F%E4%B8%BA%E6%AD%BB%E4%BA%A1%E7%97%85%E6%82%A3%E5%93%BD%E5%92%BD%23&Refer=top)
+
+1. [INTO1费加罗男士首封预告](https://s.weibo.com//weibo?q=%23INTO1%E8%B4%B9%E5%8A%A0%E7%BD%97%E7%94%B7%E5%A3%AB%E9%A6%96%E5%B0%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [五一出游引发的社死现场](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%87%BA%E6%B8%B8%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [库里41分](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C41%E5%88%86%23&Refer=top)
+
+1. [五一假期景点盛况](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%99%AF%E7%82%B9%E7%9B%9B%E5%86%B5%23&Refer=top)
+
+1. [这才是真正的中国青年](https://s.weibo.com//weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4&Refer=top)
+
+1. [上海公安青年五四快闪活动](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%AE%89%E9%9D%92%E5%B9%B4%E4%BA%94%E5%9B%9B%E5%BF%AB%E9%97%AA%E6%B4%BB%E5%8A%A8&Refer=top)
+
+1. [周恩来写人民英雄纪念碑碑文写了40余次](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%81%A9%E6%9D%A5%E5%86%99%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E7%BA%AA%E5%BF%B5%E7%A2%91%E7%A2%91%E6%96%87%E5%86%99%E4%BA%8640%E4%BD%99%E6%AC%A1%23&Refer=top)
+
+1. [人的一生该怎么度过](https://s.weibo.com//weibo?q=%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E8%AF%A5%E6%80%8E%E4%B9%88%E5%BA%A6%E8%BF%87&Refer=top)
+
+1. [麦基领取总冠军戒指](https://s.weibo.com//weibo?q=%E9%BA%A6%E5%9F%BA%E9%A2%86%E5%8F%96%E6%80%BB%E5%86%A0%E5%86%9B%E6%88%92%E6%8C%87&Refer=top)
+
+1. [李开复谈比尔盖茨离婚](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%B0%88%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E7%A6%BB%E5%A9%9A%23&Refer=top)
+
+1. [父母年轻的神仙颜值](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E5%B9%B4%E8%BD%BB%E7%9A%84%E7%A5%9E%E4%BB%99%E9%A2%9C%E5%80%BC%23&Refer=top)
 
