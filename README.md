@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 15:06:59
+## 微博今日热榜 更新于 2021-05-04 16:03:55
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -316,4 +316,14 @@
 1. [雪顶玫瑰酥皮苹果挞](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E9%A1%B6%E7%8E%AB%E7%91%B0%E9%85%A5%E7%9A%AE%E8%8B%B9%E6%9E%9C%E6%8C%9E%23&Refer=top)
 
 1. [勇士升至西部第八](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E5%8D%87%E8%87%B3%E8%A5%BF%E9%83%A8%E7%AC%AC%E5%85%AB&Refer=top)
+
+1. [渔民捕700斤金枪鱼卖出10万元](https://s.weibo.com//weibo?q=%E6%B8%94%E6%B0%91%E6%8D%95700%E6%96%A4%E9%87%91%E6%9E%AA%E9%B1%BC%E5%8D%96%E5%87%BA10%E4%B8%87%E5%85%83&Refer=top)
+
+1. [世界上穿越沙漠最长的高速](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E7%A9%BF%E8%B6%8A%E6%B2%99%E6%BC%A0%E6%9C%80%E9%95%BF%E7%9A%84%E9%AB%98%E9%80%9F%23&Refer=top)
+
+1. [多地发布海虹织纹螺预警](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E6%B5%B7%E8%99%B9%E7%BB%87%E7%BA%B9%E8%9E%BA%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [印度演员表演疫情失控如何发生](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E6%BC%94%E5%91%98%E8%A1%A8%E6%BC%94%E7%96%AB%E6%83%85%E5%A4%B1%E6%8E%A7%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F&Refer=top)
+
+1. [8旬退休教授为贫困生捐70万](https://s.weibo.com//weibo?q=%238%E6%97%AC%E9%80%80%E4%BC%91%E6%95%99%E6%8E%88%E4%B8%BA%E8%B4%AB%E5%9B%B0%E7%94%9F%E6%8D%9070%E4%B8%87%23&Refer=top)
 
