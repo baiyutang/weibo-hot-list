@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 11:10:21
+## 微博今日热榜 更新于 2021-05-04 12:04:04
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -222,4 +222,26 @@
 1. [多大年龄算青年](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%A7%E5%B9%B4%E9%BE%84%E7%AE%97%E9%9D%92%E5%B9%B4%23&Refer=top)
 
 1. [鄂尔多斯沙尘暴突袭游客被困缆车](https://s.weibo.com//weibo?q=%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%B2%99%E5%B0%98%E6%9A%B4%E7%AA%81%E8%A2%AD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E7%BC%86%E8%BD%A6&Refer=top)
+
+1. [诺一霓娜参加斯巴达勇士儿童赛](https://s.weibo.com//weibo?q=%E8%AF%BA%E4%B8%80%E9%9C%93%E5%A8%9C%E5%8F%82%E5%8A%A0%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%8B%87%E5%A3%AB%E5%84%BF%E7%AB%A5%E8%B5%9B&Refer=top)
+
+1. [长沙坡子街新晋网红打卡点](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E5%9D%A1%E5%AD%90%E8%A1%97%E6%96%B0%E6%99%8B%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E7%82%B9%23&Refer=top)
+
+1. [女子为给偶像删帖被骗8000元](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E7%BB%99%E5%81%B6%E5%83%8F%E5%88%A0%E5%B8%96%E8%A2%AB%E9%AA%978000%E5%85%83%23&Refer=top)
+
+1. [吴倩军装独白](https://s.weibo.com//weibo?q=%E5%90%B4%E5%80%A9%E5%86%9B%E8%A3%85%E7%8B%AC%E7%99%BD&Refer=top)
+
+1. [五一堵途大赏](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%A0%B5%E9%80%94%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [我的青春宣言](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%AE%A3%E8%A8%80%23&Refer=top)
+
+1. [有技术含量的挣钱方式](https://s.weibo.com//weibo?q=%23%E6%9C%89%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%8C%A3%E9%92%B1%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [那些曾激励青年人的名人佳句](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E6%9B%BE%E6%BF%80%E5%8A%B1%E9%9D%92%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%90%8D%E4%BA%BA%E4%BD%B3%E5%8F%A5%23&Refer=top)
+
+1. [人类青年图鉴](https://s.weibo.com//weibo?q=%E4%BA%BA%E7%B1%BB%E9%9D%92%E5%B9%B4%E5%9B%BE%E9%89%B4&Refer=top)
+
+1. [五四青年爱国图鉴](https://s.weibo.com//weibo?q=%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E7%88%B1%E5%9B%BD%E5%9B%BE%E9%89%B4&Refer=top)
+
+1. [美媒曝比尔盖茨离婚文件](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E7%A6%BB%E5%A9%9A%E6%96%87%E4%BB%B6%23&Refer=top)
 
