@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 17:03:07
+## 微博今日热榜 更新于 2021-05-04 18:03:27
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -350,4 +350,28 @@
 1. [超50%哮喘患者与家族有关](https://s.weibo.com//weibo?q=%E8%B6%8550%25%E5%93%AE%E5%96%98%E6%82%A3%E8%80%85%E4%B8%8E%E5%AE%B6%E6%97%8F%E6%9C%89%E5%85%B3&Refer=top)
 
 1. [Hero RW](https://s.weibo.com//weibo?q=Hero%20RW&Refer=top)
+
+1. [萧敬腾问练习生就是练习谈恋爱吗](https://s.weibo.com//weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E9%97%AE%E7%BB%83%E4%B9%A0%E7%94%9F%E5%B0%B1%E6%98%AF%E7%BB%83%E4%B9%A0%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%97%23&Refer=top)
+
+1. [疫情期近6成日本民众有头顶焦虑](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E8%BF%916%E6%88%90%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%9C%89%E5%A4%B4%E9%A1%B6%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [外交部回应菲律宾高层涉华言论](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%AB%98%E5%B1%82%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%23&Refer=top)
+
+1. [余景天](https://s.weibo.com//weibo?q=%E4%BD%99%E6%99%AF%E5%A4%A9&Refer=top)
+
+1. [任嘉伦自拍死亡角度](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%87%AA%E6%8B%8D%E6%AD%BB%E4%BA%A1%E8%A7%92%E5%BA%A6%23&Refer=top)
+
+1. [迪丽热巴侧编双马尾造型](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BE%A7%E7%BC%96%E5%8F%8C%E9%A9%AC%E5%B0%BE%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [章若楠婚纱造型](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%A9%9A%E7%BA%B1%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [王俊凯模仿汪峰唱北京北京](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%A8%A1%E4%BB%BF%E6%B1%AA%E5%B3%B0%E5%94%B1%E5%8C%97%E4%BA%AC%E5%8C%97%E4%BA%AC%23&Refer=top)
+
+1. [理想照耀中国首播](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%92%AD%23&Refer=top)
+
+1. [恋爱应该听父母的意见吗](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1%E5%BA%94%E8%AF%A5%E5%90%AC%E7%88%B6%E6%AF%8D%E7%9A%84%E6%84%8F%E8%A7%81%E5%90%97%23&Refer=top)
+
+1. [张哲瀚读信哭了](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E8%AF%BB%E4%BF%A1%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [中国青年面对时代之问的回答](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E9%9D%A2%E5%AF%B9%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE%E7%9A%84%E5%9B%9E%E7%AD%94%23&Refer=top)
 
