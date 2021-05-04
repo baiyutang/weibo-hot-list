@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 13:07:36
+## 微博今日热榜 更新于 2021-05-04 14:03:59
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -270,4 +270,24 @@
 1. [李开复谈比尔盖茨离婚](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%B0%88%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E7%A6%BB%E5%A9%9A%23&Refer=top)
 
 1. [父母年轻的神仙颜值](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E5%B9%B4%E8%BD%BB%E7%9A%84%E7%A5%9E%E4%BB%99%E9%A2%9C%E5%80%BC%23&Refer=top)
+
+1. [美国亚裔女子遭锤子狠砸脑袋](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%9A%E8%A3%94%E5%A5%B3%E5%AD%90%E9%81%AD%E9%94%A4%E5%AD%90%E7%8B%A0%E7%A0%B8%E8%84%91%E8%A2%8B&Refer=top)
+
+1. [五四特别版错位时空](https://s.weibo.com//weibo?q=%E4%BA%94%E5%9B%9B%E7%89%B9%E5%88%AB%E7%89%88%E9%94%99%E4%BD%8D%E6%97%B6%E7%A9%BA&Refer=top)
+
+1. [光遇 复刻](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87%20%E5%A4%8D%E5%88%BB&Refer=top)
+
+1. [4名女子抬残疾好友登泰山](https://s.weibo.com//weibo?q=4%E5%90%8D%E5%A5%B3%E5%AD%90%E6%8A%AC%E6%AE%8B%E7%96%BE%E5%A5%BD%E5%8F%8B%E7%99%BB%E6%B3%B0%E5%B1%B1&Refer=top)
+
+1. [91岁巴菲特选出继任者](https://s.weibo.com//weibo?q=%2391%E5%B2%81%E5%B7%B4%E8%8F%B2%E7%89%B9%E9%80%89%E5%87%BA%E7%BB%A7%E4%BB%BB%E8%80%85%23&Refer=top)
+
+1. [湖人战胜掘金](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E6%8E%98%E9%87%91&Refer=top)
+
+1. [墨西哥地铁12号线发生垮塌](https://s.weibo.com//weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9C%B0%E9%93%8112%E5%8F%B7%E7%BA%BF%E5%8F%91%E7%94%9F%E5%9E%AE%E5%A1%8C%23&Refer=top)
+
+1. [结婚当天到底有多累](https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%B4%AF%23&Refer=top)
+
+1. [北大补授学位仪式现场惊喜求婚](https://s.weibo.com//weibo?q=%E5%8C%97%E5%A4%A7%E8%A1%A5%E6%8E%88%E5%AD%A6%E4%BD%8D%E4%BB%AA%E5%BC%8F%E7%8E%B0%E5%9C%BA%E6%83%8A%E5%96%9C%E6%B1%82%E5%A9%9A&Refer=top)
+
+1. [五一酒店外卖订单涨2倍](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E9%85%92%E5%BA%97%E5%A4%96%E5%8D%96%E8%AE%A2%E5%8D%95%E6%B6%A82%E5%80%8D%23&Refer=top)
 
