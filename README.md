@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 15:07:54
+## 微博今日热榜 更新于 2021-05-05 16:03:17
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -348,4 +348,24 @@
 1. [刺客伍六七](https://s.weibo.com//weibo?q=%E5%88%BA%E5%AE%A2%E4%BC%8D%E5%85%AD%E4%B8%83&Refer=top)
 
 1. [地铁上的社死现场](https://s.weibo.com//weibo?q=%23%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [苏芒道歉](https://s.weibo.com//weibo?q=%E8%8B%8F%E8%8A%92%E9%81%93%E6%AD%89&Refer=top)
+
+1. [洛阳黑烟](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E9%98%B3%E9%BB%91%E7%83%9F%23&Refer=top)
+
+1. [冉冰碎了](https://s.weibo.com//weibo?q=%23%E5%86%89%E5%86%B0%E7%A2%8E%E4%BA%86%23&Refer=top)
+
+1. [高考宣誓社死现场](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E5%AE%A3%E8%AA%93%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [青春有个局](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%B8%AA%E5%B1%80&Refer=top)
+
+1. [高铁晚点](https://s.weibo.com//weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&Refer=top)
+
+1. [王嘉尔加盟密逃3](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8A%A0%E7%9B%9F%E5%AF%86%E9%80%833%23&Refer=top)
+
+1. [会跑马步的小猫咪](https://s.weibo.com//weibo?q=%E4%BC%9A%E8%B7%91%E9%A9%AC%E6%AD%A5%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA&Refer=top)
+
+1. [欧美出游妆](https://s.weibo.com//weibo?q=%E6%AC%A7%E7%BE%8E%E5%87%BA%E6%B8%B8%E5%A6%86&Refer=top)
+
+1. [马里一产妇生下九胞胎](https://s.weibo.com//weibo?q=%E9%A9%AC%E9%87%8C%E4%B8%80%E4%BA%A7%E5%A6%87%E7%94%9F%E4%B8%8B%E4%B9%9D%E8%83%9E%E8%83%8E&Refer=top)
 
