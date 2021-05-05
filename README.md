@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-06 06:03:43
+## 微博今日热榜 更新于 2021-05-06 07:03:00
 1. [最美家乡大赛](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%BE%8E%E5%AE%B6%E4%B9%A1%E5%A4%A7%E8%B5%9B%23&Refer=new_time)
 
 1. [张萌 我道歉每次都是真心的](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E9%81%93%E6%AD%89%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%98%AF%E7%9C%9F%E5%BF%83%E7%9A%84&Refer=top)
@@ -124,4 +124,8 @@
 1. [叶小妹撞见过三爽和前女友](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E5%B0%8F%E5%A6%B9%E6%92%9E%E8%A7%81%E8%BF%87%E4%B8%89%E7%88%BD%E5%92%8C%E5%89%8D%E5%A5%B3%E5%8F%8B%23&Refer=top)
 
 1. [孟佳模仿张含韵嗲音](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E6%A8%A1%E4%BB%BF%E5%BC%A0%E5%90%AB%E9%9F%B5%E5%97%B2%E9%9F%B3%23&Refer=top)
+
+1. [被困电梯怎样自救](https://s.weibo.com//weibo?q=%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%80%8E%E6%A0%B7%E8%87%AA%E6%95%91&Refer=top)
+
+1. [暴雨蓝天晚霞出现在同一片天空](https://s.weibo.com//weibo?q=%E6%9A%B4%E9%9B%A8%E8%93%9D%E5%A4%A9%E6%99%9A%E9%9C%9E%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%90%8C%E4%B8%80%E7%89%87%E5%A4%A9%E7%A9%BA&Refer=top)
 
