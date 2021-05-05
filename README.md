@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 11:07:41
+## 微博今日热榜 更新于 2021-05-05 12:03:35
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -242,4 +242,26 @@
 1. [警笛500多公里跨越陕甘宁](https://s.weibo.com//weibo?q=%E8%AD%A6%E7%AC%9B500%E5%A4%9A%E5%85%AC%E9%87%8C%E8%B7%A8%E8%B6%8A%E9%99%95%E7%94%98%E5%AE%81&Refer=top)
 
 1. [雄鹿战胜篮网](https://s.weibo.com//weibo?q=%E9%9B%84%E9%B9%BF%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91&Refer=top)
+
+1. [龚俊 何其有幸](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E4%BD%95%E5%85%B6%E6%9C%89%E5%B9%B8&Refer=top)
+
+1. [小伙景区扮孙悟空被喂到饱](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%99%E6%99%AF%E5%8C%BA%E6%89%AE%E5%AD%99%E6%82%9F%E7%A9%BA%E8%A2%AB%E5%96%82%E5%88%B0%E9%A5%B1&Refer=top)
+
+1. [布林肯称美国将一直支持一个中国政策](https://s.weibo.com//weibo?q=%E5%B8%83%E6%9E%97%E8%82%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%B8%80%E7%9B%B4%E6%94%AF%E6%8C%81%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%94%BF%E7%AD%96&Refer=top)
+
+1. [INTO1全国巡演](https://s.weibo.com//weibo?q=%23INTO1%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94%23&Refer=top)
+
+1. [内卷](https://s.weibo.com//weibo?q=%E5%86%85%E5%8D%B7&Refer=top)
+
+1. [上海地铁两男子打斗被刑拘](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%A4%E7%94%B7%E5%AD%90%E6%89%93%E6%96%97%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [陈飞宇工作室声明](https://s.weibo.com//weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&Refer=top)
+
+1. [搜广州彩虹手机上就会出现一道彩虹](https://s.weibo.com//weibo?q=%23%E6%90%9C%E5%B9%BF%E5%B7%9E%E5%BD%A9%E8%99%B9%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%B0%B1%E4%BC%9A%E5%87%BA%E7%8E%B0%E4%B8%80%E9%81%93%E5%BD%A9%E8%99%B9%23&Refer=top)
+
+1. [李岱昆 蝎儿要为自己而活](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%B2%B1%E6%98%86%20%E8%9D%8E%E5%84%BF%E8%A6%81%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%80%8C%E6%B4%BB&Refer=top)
+
+1. [美国非裔男子遭白人老板奴役5年](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%9D%9E%E8%A3%94%E7%94%B7%E5%AD%90%E9%81%AD%E7%99%BD%E4%BA%BA%E8%80%81%E6%9D%BF%E5%A5%B4%E5%BD%B95%E5%B9%B4%23&Refer=top)
+
+1. [如果可以拜访一位历史人物](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%9E%9C%E5%8F%AF%E4%BB%A5%E6%8B%9C%E8%AE%BF%E4%B8%80%E4%BD%8D%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%23&Refer=top)
 
