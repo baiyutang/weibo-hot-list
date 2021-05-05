@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-06 02:11:13
+## 微博今日热榜 更新于 2021-05-06 03:07:08
 1. [最美家乡大赛](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%BE%8E%E5%AE%B6%E4%B9%A1%E5%A4%A7%E8%B5%9B%23&Refer=new_time)
 
 1. [张萌 我道歉每次都是真心的](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E9%81%93%E6%AD%89%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%98%AF%E7%9C%9F%E5%BF%83%E7%9A%84&Refer=top)
@@ -116,4 +116,6 @@
 1. [大湾区一分钟](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%80%E5%88%86%E9%92%9F%23&Refer=new_time)
 
 1. [谢楠 中了周深的毒](https://s.weibo.com//weibo?q=%E8%B0%A2%E6%A5%A0%20%E4%B8%AD%E4%BA%86%E5%91%A8%E6%B7%B1%E7%9A%84%E6%AF%92&Refer=top)
+
+1. [数千印度妇女无视疫情聚众祈祷](https://s.weibo.com//weibo?q=%E6%95%B0%E5%8D%83%E5%8D%B0%E5%BA%A6%E5%A6%87%E5%A5%B3%E6%97%A0%E8%A7%86%E7%96%AB%E6%83%85%E8%81%9A%E4%BC%97%E7%A5%88%E7%A5%B7&Refer=top)
 
