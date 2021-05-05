@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 09:50:21
+## 微博今日热榜 更新于 2021-05-05 10:29:59
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -204,4 +204,14 @@
 1. [五一假期环卫工的自白](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%9A%84%E8%87%AA%E7%99%BD%23&Refer=top)
 
 1. [夏季第一个节气](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%AD%A3%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%8A%82%E6%B0%94%23&Refer=top)
+
+1. [尼泊尔疫情](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%96%AB%E6%83%85&Refer=top)
+
+1. [广州彩虹](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%BD%A9%E8%99%B9%23&Refer=top)
+
+1. [刘宇虞姬戏腔](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E8%99%9E%E5%A7%AC%E6%88%8F%E8%85%94%23&Refer=top)
+
+1. [英国接线员把自己挂在悬崖上办公](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E6%8E%A5%E7%BA%BF%E5%91%98%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%8C%82%E5%9C%A8%E6%82%AC%E5%B4%96%E4%B8%8A%E5%8A%9E%E5%85%AC&Refer=top)
+
+1. [四川绵阳地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E5%9C%B0%E9%9C%87&Refer=top)
 
