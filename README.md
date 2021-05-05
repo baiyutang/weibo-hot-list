@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-06 00:05:26
+## 微博今日热榜 更新于 2021-05-06 01:29:32
 1. [最美家乡大赛](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%BE%8E%E5%AE%B6%E4%B9%A1%E5%A4%A7%E8%B5%9B%23&Refer=new_time)
 
 1. [张萌 我道歉每次都是真心的](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E9%81%93%E6%AD%89%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%98%AF%E7%9C%9F%E5%BF%83%E7%9A%84&Refer=top)
@@ -104,4 +104,12 @@
 1. [马里一产妇生下九胞胎](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%87%8C%E4%B8%80%E4%BA%A7%E5%A6%87%E7%94%9F%E4%B8%8B%E4%B9%9D%E8%83%9E%E8%83%8E%23&Refer=top)
 
 1. [宁德时代曾毓群成香港首富](https://s.weibo.com//weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%9B%BE%E6%AF%93%E7%BE%A4%E6%88%90%E9%A6%99%E6%B8%AF%E9%A6%96%E5%AF%8C&Refer=top)
+
+1. [90后小伙数字化装配运20](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E6%95%B0%E5%AD%97%E5%8C%96%E8%A3%85%E9%85%8D%E8%BF%9020%23&Refer=new_time)
+
+1. [尹正看郁可唯模仿王者英雄时的反应](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%AD%A3%E7%9C%8B%E9%83%81%E5%8F%AF%E5%94%AF%E6%A8%A1%E4%BB%BF%E7%8E%8B%E8%80%85%E8%8B%B1%E9%9B%84%E6%97%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [假期结束](https://s.weibo.com//weibo?q=%23%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [秘密访客](https://s.weibo.com//weibo?q=%E7%A7%98%E5%AF%86%E8%AE%BF%E5%AE%A2&Refer=top)
 
