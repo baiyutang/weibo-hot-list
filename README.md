@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 07:03:07
+## 微博今日热榜 更新于 2021-05-05 08:07:47
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
@@ -138,4 +138,28 @@
 1. [爱奇艺](https://s.weibo.com//weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&Refer=top)
 
 1. [青你3后续录制被叫停](https://s.weibo.com//weibo?q=%23%E9%9D%92%E4%BD%A03%E5%90%8E%E7%BB%AD%E5%BD%95%E5%88%B6%E8%A2%AB%E5%8F%AB%E5%81%9C%23&Refer=top)
+
+1. [立夏](https://s.weibo.com//weibo?q=%E7%AB%8B%E5%A4%8F&Refer=top)
+
+1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [五一假期最后1天](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%23&Refer=top)
+
+1. [爱奇艺回应被责令停录青你3](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B4%A3%E4%BB%A4%E5%81%9C%E5%BD%95%E9%9D%92%E4%BD%A03%23&Refer=top)
+
+1. [靳东饰演的陈望道](https://s.weibo.com//weibo?q=%E9%9D%B3%E4%B8%9C%E9%A5%B0%E6%BC%94%E7%9A%84%E9%99%88%E6%9C%9B%E9%81%93&Refer=top)
+
+1. [第五人格](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&Refer=top)
+
+1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
+
+1. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top)
+
+1. [秘密访客](https://s.weibo.com//weibo?q=%E7%A7%98%E5%AF%86%E8%AE%BF%E5%AE%A2&Refer=top)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [山河令庆功宴](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%BA%86%E5%8A%9F%E5%AE%B4&Refer=top)
+
+1. [山河令演唱会庆功宴菜单](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%86%E5%8A%9F%E5%AE%B4%E8%8F%9C%E5%8D%95&Refer=top)
 
