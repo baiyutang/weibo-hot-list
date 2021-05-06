@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-06 10:30:17
+## 微博今日热榜 更新于 2021-05-06 11:07:44
 1. [最美家乡大赛](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%BE%8E%E5%AE%B6%E4%B9%A1%E5%A4%A7%E8%B5%9B%23&Refer=new_time)
 
 1. [张萌 我道歉每次都是真心的](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E9%81%93%E6%AD%89%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%98%AF%E7%9C%9F%E5%BF%83%E7%9A%84&Refer=top)
@@ -224,4 +224,18 @@
 1. [原来做鹅也这么辛苦](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%9A%E9%B9%85%E4%B9%9F%E8%BF%99%E4%B9%88%E8%BE%9B%E8%8B%A6%23&Refer=top)
 
 1. [北京沙尘大风预警齐发](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B2%99%E5%B0%98%E5%A4%A7%E9%A3%8E%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91%23&Refer=top)
+
+1. [湖北省考查到的成绩是去年的](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E7%9C%81%E8%80%83%E6%9F%A5%E5%88%B0%E7%9A%84%E6%88%90%E7%BB%A9%E6%98%AF%E5%8E%BB%E5%B9%B4%E7%9A%84&Refer=top)
+
+1. [无限期暂停中澳战略经济对话机制下活动](https://s.weibo.com//weibo?q=%23%E6%97%A0%E9%99%90%E6%9C%9F%E6%9A%82%E5%81%9C%E4%B8%AD%E6%BE%B3%E6%88%98%E7%95%A5%E7%BB%8F%E6%B5%8E%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%88%B6%E4%B8%8B%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [真正的爱是扶级而上的](https://s.weibo.com//weibo?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%B1%E6%98%AF%E6%89%B6%E7%BA%A7%E8%80%8C%E4%B8%8A%E7%9A%84&Refer=top)
+
+1. [疫苗股价下跌](https://s.weibo.com//weibo?q=%E7%96%AB%E8%8B%97%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C&Refer=top)
+
+1. [让每个学生都能掌握一两项艺术特长](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E6%AF%8F%E4%B8%AA%E5%AD%A6%E7%94%9F%E9%83%BD%E8%83%BD%E6%8E%8C%E6%8F%A1%E4%B8%80%E4%B8%A4%E9%A1%B9%E8%89%BA%E6%9C%AF%E7%89%B9%E9%95%BF%23&Refer=top)
+
+1. [美国囤积疫苗遭国际社会强烈谴责](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%A4%E7%A7%AF%E7%96%AB%E8%8B%97%E9%81%AD%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%23&Refer=top)
+
+1. [尼泊尔珠峰大本营17人确诊新冠](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%8F%A0%E5%B3%B0%E5%A4%A7%E6%9C%AC%E8%90%A517%E4%BA%BA%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0&Refer=top)
 
