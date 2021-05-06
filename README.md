@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-07 00:07:56
+## 微博今日热榜 更新于 2021-05-07 01:30:59
 1. [大数据看五一假期有多火](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%9C%89%E5%A4%9A%E7%81%AB%23&Refer=new_time)
 
 1. [青春有你 决赛夜返厂](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%20%E5%86%B3%E8%B5%9B%E5%A4%9C%E8%BF%94%E5%8E%82&Refer=top)
@@ -104,4 +104,10 @@
 1. [刘亦菲](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2&Refer=top)
 
 1. [Kingdom](https://s.weibo.com//weibo?q=Kingdom&Refer=top)
+
+1. [中国国际消费品博览会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E6%B6%88%E8%B4%B9%E5%93%81%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=new_time)
+
+1. [欧洲议会议员对中国的杰出表现如数家珍](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E8%AE%AE%E4%BC%9A%E8%AE%AE%E5%91%98%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9D%B0%E5%87%BA%E8%A1%A8%E7%8E%B0%E5%A6%82%E6%95%B0%E5%AE%B6%E7%8F%8D&Refer=top)
+
+1. [兰州一小区禁止特斯拉入内](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%A6%81%E6%AD%A2%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A5%E5%86%85%23&Refer=top)
 
