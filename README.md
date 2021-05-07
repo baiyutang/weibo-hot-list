@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-08 04:03:18
+## 微博今日热榜 更新于 2021-05-08 05:02:54
 1. [经典里的中国智慧](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%85%B8%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%23&Refer=new_time)
 
 1. [李莎旻子 我恋爱了](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%20%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86&Refer=top)
@@ -126,4 +126,6 @@
 1. [御赐小仵作](https://s.weibo.com//weibo?q=%E5%BE%A1%E8%B5%90%E5%B0%8F%E4%BB%B5%E4%BD%9C&Refer=top)
 
 1. [11岁男孩面部烧伤戴奥特曼面具卖樱桃](https://s.weibo.com//weibo?q=11%E5%B2%81%E7%94%B7%E5%AD%A9%E9%9D%A2%E9%83%A8%E7%83%A7%E4%BC%A4%E6%88%B4%E5%A5%A5%E7%89%B9%E6%9B%BC%E9%9D%A2%E5%85%B7%E5%8D%96%E6%A8%B1%E6%A1%83&Refer=top)
+
+1. [UOL RNG](https://s.weibo.com//weibo?q=UOL%20RNG&Refer=top)
 
