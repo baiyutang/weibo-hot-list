@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-07 08:08:20
+## 微博今日热榜 更新于 2021-05-07 09:54:15
 1. [大数据看五一假期有多火](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%9C%89%E5%A4%9A%E7%81%AB%23&Refer=new_time)
 
 1. [青春有你 决赛夜返厂](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%20%E5%86%B3%E8%B5%9B%E5%A4%9C%E8%BF%94%E5%8E%82&Refer=top)
@@ -142,4 +142,44 @@
 1. [耶鲁大学首席投资官大卫斯文森逝世](https://s.weibo.com//weibo?q=%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E9%A6%96%E5%B8%AD%E6%8A%95%E8%B5%84%E5%AE%98%E5%A4%A7%E5%8D%AB%E6%96%AF%E6%96%87%E6%A3%AE%E9%80%9D%E4%B8%96&Refer=top)
 
 1. [爱奇艺](https://s.weibo.com//weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&Refer=top)
+
+1. [警方通报男孩被体罚致头皮骨分离](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E8%A2%AB%E4%BD%93%E7%BD%9A%E8%87%B4%E5%A4%B4%E7%9A%AE%E9%AA%A8%E5%88%86%E7%A6%BB%23&Refer=top)
+
+1. [倒奶事件](https://s.weibo.com//weibo?q=%E5%80%92%E5%A5%B6%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [周震南 团综的开始就是倒数了](https://s.weibo.com//weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%20%E5%9B%A2%E7%BB%BC%E7%9A%84%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E5%80%92%E6%95%B0%E4%BA%86&Refer=top)
+
+1. [青春有你3助力通道关闭](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A03%E5%8A%A9%E5%8A%9B%E9%80%9A%E9%81%93%E5%85%B3%E9%97%AD%23&Refer=top)
+
+1. [梁振英呼吁香港青年一起看看祖国](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%8C%AF%E8%8B%B1%E5%91%BC%E5%90%81%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%9C%8B%E7%A5%96%E5%9B%BD%23&Refer=top)
+
+1. [在云端上的派出所](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%BA%91%E7%AB%AF%E4%B8%8A%E7%9A%84%E6%B4%BE%E5%87%BA%E6%89%80%23&Refer=top)
+
+1. [管泽元余霜](https://s.weibo.com//weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%23&Refer=top)
+
+1. [婚礼现场表演喷火触发消防喷淋](https://s.weibo.com//weibo?q=%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E5%96%B7%E7%81%AB%E8%A7%A6%E5%8F%91%E6%B6%88%E9%98%B2%E5%96%B7%E6%B7%8B&Refer=top)
+
+1. [华为鸿蒙有望下月规模化推送](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%99%E6%9C%89%E6%9C%9B%E4%B8%8B%E6%9C%88%E8%A7%84%E6%A8%A1%E5%8C%96%E6%8E%A8%E9%80%81%23&Refer=top)
+
+1. [失联5天杂技学校孩子找到两名](https://s.weibo.com//weibo?q=%E5%A4%B1%E8%81%945%E5%A4%A9%E6%9D%82%E6%8A%80%E5%AD%A6%E6%A0%A1%E5%AD%A9%E5%AD%90%E6%89%BE%E5%88%B0%E4%B8%A4%E5%90%8D&Refer=top)
+
+1. [方志敏烈士女儿人民日报刊文](https://s.weibo.com//weibo?q=%23%E6%96%B9%E5%BF%97%E6%95%8F%E7%83%88%E5%A3%AB%E5%A5%B3%E5%84%BF%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%88%8A%E6%96%87%23&Refer=top)
+
+1. [怦然心动20岁](https://s.weibo.com//weibo?q=%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81&Refer=top)
+
+1. [张煜医生再次发声](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%85%9C%E5%8C%BB%E7%94%9F%E5%86%8D%E6%AC%A1%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [詹姆斯计划下周复出](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%AE%A1%E5%88%92%E4%B8%8B%E5%91%A8%E5%A4%8D%E5%87%BA&Refer=top)
+
+1. [寂静之地2终极预告](https://s.weibo.com//weibo?q=%E5%AF%82%E9%9D%99%E4%B9%8B%E5%9C%B02%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [婚礼上的温情瞬间](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E6%B8%A9%E6%83%85%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [可可西里迎来今年首批藏羚羊迁徙](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E8%BF%8E%E6%9D%A5%E4%BB%8A%E5%B9%B4%E9%A6%96%E6%89%B9%E8%97%8F%E7%BE%9A%E7%BE%8A%E8%BF%81%E5%BE%99%23&Refer=top)
+
+1. [京广线上行部分列车晚点](https://s.weibo.com//weibo?q=%E4%BA%AC%E5%B9%BF%E7%BA%BF%E4%B8%8A%E8%A1%8C%E9%83%A8%E5%88%86%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9&Refer=top)
+
+1. [五一假期国内游出游2.3亿人次](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%9B%BD%E5%86%85%E6%B8%B8%E5%87%BA%E6%B8%B82.3%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&Refer=top)
+
+1. [过三爽叶小妹谈心](https://s.weibo.com//weibo?q=%23%E8%BF%87%E4%B8%89%E7%88%BD%E5%8F%B6%E5%B0%8F%E5%A6%B9%E8%B0%88%E5%BF%83%23&Refer=top)
 
