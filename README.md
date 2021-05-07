@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-07 07:02:58
+## 微博今日热榜 更新于 2021-05-07 08:08:20
 1. [大数据看五一假期有多火](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%9C%89%E5%A4%9A%E7%81%AB%23&Refer=new_time)
 
 1. [青春有你 决赛夜返厂](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%20%E5%86%B3%E8%B5%9B%E5%A4%9C%E8%BF%94%E5%8E%82&Refer=top)
@@ -122,4 +122,24 @@
 1. [MSI](https://s.weibo.com//weibo?q=MSI&Refer=top)
 
 1. [数说首届消博会](https://s.weibo.com//weibo?q=%23%E6%95%B0%E8%AF%B4%E9%A6%96%E5%B1%8A%E6%B6%88%E5%8D%9A%E4%BC%9A%23&Refer=new_time)
+
+1. [爱奇艺道歉](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [德国反对美国放弃新冠疫苗专利保护提议](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%94%BE%E5%BC%83%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%B8%93%E5%88%A9%E4%BF%9D%E6%8A%A4%E6%8F%90%E8%AE%AE&Refer=top)
+
+1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [高考倒计时一个月](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%80%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [维权女车主丈夫回应起诉特斯拉副总裁](https://s.weibo.com//weibo?q=%E7%BB%B4%E6%9D%83%E5%A5%B3%E8%BD%A6%E4%B8%BB%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%E7%89%B9%E6%96%AF%E6%8B%89%E5%89%AF%E6%80%BB%E8%A3%81&Refer=top)
+
+1. [我国成功发射遥感三十号08组卫星](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%81%A5%E6%84%9F%E4%B8%89%E5%8D%81%E5%8F%B708%E7%BB%84%E5%8D%AB%E6%98%9F&Refer=top)
+
+1. [生化危机8](https://s.weibo.com//weibo?q=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA8&Refer=top)
+
+1. [如何理性评价当代大学生](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%90%86%E6%80%A7%E8%AF%84%E4%BB%B7%E5%BD%93%E4%BB%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&Refer=top)
+
+1. [耶鲁大学首席投资官大卫斯文森逝世](https://s.weibo.com//weibo?q=%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E9%A6%96%E5%B8%AD%E6%8A%95%E8%B5%84%E5%AE%98%E5%A4%A7%E5%8D%AB%E6%96%AF%E6%96%87%E6%A3%AE%E9%80%9D%E4%B8%96&Refer=top)
+
+1. [爱奇艺](https://s.weibo.com//weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&Refer=top)
 
