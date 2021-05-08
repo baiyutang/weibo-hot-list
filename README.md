@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-08 09:53:35
+## 微博今日热榜 更新于 2021-05-08 10:33:30
 1. [经典里的中国智慧](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%85%B8%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%23&Refer=new_time)
 
 1. [李莎旻子 我恋爱了](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%20%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86&Refer=top)
@@ -216,4 +216,22 @@
 1. [柳州紫荆花开满城](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E5%B7%9E%E7%B4%AB%E8%8D%86%E8%8A%B1%E5%BC%80%E6%BB%A1%E5%9F%8E%23&Refer=top)
 
 1. [世卫希望日本奥运会今年能顺利举行](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E5%B8%8C%E6%9C%9B%E6%97%A5%E6%9C%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BB%8A%E5%B9%B4%E8%83%BD%E9%A1%BA%E5%88%A9%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [盖茨夫妇各聘请一名贝索斯离婚案律师](https://s.weibo.com//weibo?q=%E7%9B%96%E8%8C%A8%E5%A4%AB%E5%A6%87%E5%90%84%E8%81%98%E8%AF%B7%E4%B8%80%E5%90%8D%E8%B4%9D%E7%B4%A2%E6%96%AF%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%BE%8B%E5%B8%88&Refer=top)
+
+1. [22岁大学生杀害父母被审查逮捕](https://s.weibo.com//weibo?q=%2322%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9D%80%E5%AE%B3%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%AE%A1%E6%9F%A5%E9%80%AE%E6%8D%95%23&Refer=top)
+
+1. [方志敏女儿一生只见过父亲两次](https://s.weibo.com//weibo?q=%E6%96%B9%E5%BF%97%E6%95%8F%E5%A5%B3%E5%84%BF%E4%B8%80%E7%94%9F%E5%8F%AA%E8%A7%81%E8%BF%87%E7%88%B6%E4%BA%B2%E4%B8%A4%E6%AC%A1&Refer=top)
+
+1. [水滴公司上市首日破发](https://s.weibo.com//weibo?q=%E6%B0%B4%E6%BB%B4%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91&Refer=top)
+
+1. [医院回应让烧伤病人移植猪皮](https://s.weibo.com//weibo?q=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%AE%A9%E7%83%A7%E4%BC%A4%E7%97%85%E4%BA%BA%E7%A7%BB%E6%A4%8D%E7%8C%AA%E7%9A%AE&Refer=top)
+
+1. [锡安左手无名指骨折](https://s.weibo.com//weibo?q=%E9%94%A1%E5%AE%89%E5%B7%A6%E6%89%8B%E6%97%A0%E5%90%8D%E6%8C%87%E9%AA%A8%E6%8A%98&Refer=top)
+
+1. [张子枫老大爷坐姿](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E8%80%81%E5%A4%A7%E7%88%B7%E5%9D%90%E5%A7%BF%23&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [中国军人的笑容](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E7%AC%91%E5%AE%B9%23&Refer=top)
 
