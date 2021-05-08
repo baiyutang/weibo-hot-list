@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-08 08:08:25
+## 微博今日热榜 更新于 2021-05-08 09:53:35
 1. [经典里的中国智慧](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%85%B8%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%23&Refer=new_time)
 
 1. [李莎旻子 我恋爱了](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%20%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86&Refer=top)
@@ -164,4 +164,56 @@
 1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
 
 1. [邓超元 pua](https://s.weibo.com//weibo?q=%E9%82%93%E8%B6%85%E5%85%83%20pua&Refer=top)
+
+1. [中国天眼有了新发现](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E6%9C%89%E4%BA%86%E6%96%B0%E5%8F%91%E7%8E%B0%23&Refer=new_time)
+
+1. [黄磊 中国人的八大原谅](https://s.weibo.com//weibo?q=%E9%BB%84%E7%A3%8A%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%85%AB%E5%A4%A7%E5%8E%9F%E8%B0%85&Refer=top)
+
+1. [尼泊尔确认珠峰地区没有发生健康危机](https://s.weibo.com//weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%A1%AE%E8%AE%A4%E7%8F%A0%E5%B3%B0%E5%9C%B0%E5%8C%BA%E6%B2%A1%E6%9C%89%E5%8F%91%E7%94%9F%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%9C%BA&Refer=top)
+
+1. [我驻南联盟大使馆被炸22周年祭](https://s.weibo.com//weibo?q=%23%E6%88%91%E9%A9%BB%E5%8D%97%E8%81%94%E7%9B%9F%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%A2%AB%E7%82%B822%E5%91%A8%E5%B9%B4%E7%A5%AD%23&Refer=top)
+
+1. [彭昱畅吃烤腰子时的反应](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E5%90%83%E7%83%A4%E8%85%B0%E5%AD%90%E6%97%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [彭昱畅逃不掉青年黄渤扮演者称号了](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E9%80%83%E4%B8%8D%E6%8E%89%E9%9D%92%E5%B9%B4%E9%BB%84%E6%B8%A4%E6%89%AE%E6%BC%94%E8%80%85%E7%A7%B0%E5%8F%B7%E4%BA%86%23&Refer=top)
+
+1. [印度25天116名医生因新冠去世](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A625%E5%A4%A9116%E5%90%8D%E5%8C%BB%E7%94%9F%E5%9B%A0%E6%96%B0%E5%86%A0%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [特斯拉Model3宣布涨价](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model3%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&Refer=top)
+
+1. [邢菲为杂技学校失联孩子发声](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E4%B8%BA%E6%9D%82%E6%8A%80%E5%AD%A6%E6%A0%A1%E5%A4%B1%E8%81%94%E5%AD%A9%E5%AD%90%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [狗狗币市值](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%81%E5%B8%82%E5%80%BC%23&Refer=top)
+
+1. [滴滴回应网约车抽成质疑](https://s.weibo.com//weibo?q=%E6%BB%B4%E6%BB%B4%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8A%BD%E6%88%90%E8%B4%A8%E7%96%91&Refer=top)
+
+1. [张欣尧女友视角](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%AC%A3%E5%B0%A7%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92&Refer=top)
+
+1. [落难王子](https://s.weibo.com//weibo?q=%E8%90%BD%E9%9A%BE%E7%8E%8B%E5%AD%90&Refer=top)
+
+1. [安宰贤回归成员的反应](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%AE%B0%E8%B4%A4%E5%9B%9E%E5%BD%92%E6%88%90%E5%91%98%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [中央环保督察揭批广西岑溪野蛮采矿](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%8E%AF%E4%BF%9D%E7%9D%A3%E5%AF%9F%E6%8F%AD%E6%89%B9%E5%B9%BF%E8%A5%BF%E5%B2%91%E6%BA%AA%E9%87%8E%E8%9B%AE%E9%87%87%E7%9F%BF%23&Refer=top)
+
+1. [纽交所维持中国电信巨头退市决定](https://s.weibo.com//weibo?q=%E7%BA%BD%E4%BA%A4%E6%89%80%E7%BB%B4%E6%8C%81%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B7%A8%E5%A4%B4%E9%80%80%E5%B8%82%E5%86%B3%E5%AE%9A&Refer=top)
+
+1. [今天是樱桃小丸子的生日](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90%E7%9A%84%E7%94%9F%E6%97%A5%23&Refer=top)
+
+1. [我们不会忘记邵云环许杏虎朱颖](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E9%82%B5%E4%BA%91%E7%8E%AF%E8%AE%B8%E6%9D%8F%E8%99%8E%E6%9C%B1%E9%A2%96%23&Refer=top)
+
+1. [世卫认证中国国药疫苗安全有效高质量](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E8%AE%A4%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%8D%AF%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8%E6%9C%89%E6%95%88%E9%AB%98%E8%B4%A8%E9%87%8F%23&Refer=top)
+
+1. [江西航空回应航班风挡玻璃高空破裂](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E9%A3%8E%E6%8C%A1%E7%8E%BB%E7%92%83%E9%AB%98%E7%A9%BA%E7%A0%B4%E8%A3%82%23&Refer=top)
+
+1. [当代网友有多热情](https://s.weibo.com//weibo?q=%E5%BD%93%E4%BB%A3%E7%BD%91%E5%8F%8B%E6%9C%89%E5%A4%9A%E7%83%AD%E6%83%85&Refer=top)
+
+1. [悬崖之上](https://s.weibo.com//weibo?q=%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A&Refer=top)
+
+1. [守望先锋](https://s.weibo.com//weibo?q=%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B&Refer=top)
+
+1. [公司该不该把团建当福利](https://s.weibo.com//weibo?q=%E5%85%AC%E5%8F%B8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8A%8A%E5%9B%A2%E5%BB%BA%E5%BD%93%E7%A6%8F%E5%88%A9&Refer=top)
+
+1. [柳州紫荆花开满城](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E5%B7%9E%E7%B4%AB%E8%8D%86%E8%8A%B1%E5%BC%80%E6%BB%A1%E5%9F%8E%23&Refer=top)
+
+1. [世卫希望日本奥运会今年能顺利举行](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E5%B8%8C%E6%9C%9B%E6%97%A5%E6%9C%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BB%8A%E5%B9%B4%E8%83%BD%E9%A1%BA%E5%88%A9%E4%B8%BE%E8%A1%8C%23&Refer=top)
 
