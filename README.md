@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-08 21:13:29
+## 微博今日热榜 更新于 2021-05-08 22:03:11
 1. [经典里的中国智慧](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%85%B8%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%23&Refer=new_time)
 
 1. [李莎旻子 我恋爱了](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%20%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86&Refer=top)
@@ -528,4 +528,34 @@
 1. [朱挺红牌](https://s.weibo.com//weibo?q=%E6%9C%B1%E6%8C%BA%E7%BA%A2%E7%89%8C&Refer=top)
 
 1. [武警求婚时消防员爬墙围观](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E8%AD%A6%E6%B1%82%E5%A9%9A%E6%97%B6%E6%B6%88%E9%98%B2%E5%91%98%E7%88%AC%E5%A2%99%E5%9B%B4%E8%A7%82%23&Refer=top)
+
+1. [白敬亭给张雨绮系鞋带](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BB%99%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%B3%BB%E9%9E%8B%E5%B8%A6%23&Refer=top)
+
+1. [shib 涨](https://s.weibo.com//weibo?q=shib%20%E6%B6%A8&Refer=top)
+
+1. [内蒙古一高校校庆炖200斤羊肉](https://s.weibo.com//weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E9%AB%98%E6%A0%A1%E6%A0%A1%E5%BA%86%E7%82%96200%E6%96%A4%E7%BE%8A%E8%82%89&Refer=top)
+
+1. [Vans联合创始人去世](https://s.weibo.com//weibo?q=Vans%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [NINEVER](https://s.weibo.com//weibo?q=NINEVER&Refer=top)
+
+1. [这该死的仪式感环节](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%AF%A5%E6%AD%BB%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E7%8E%AF%E8%8A%82%23&Refer=top)
+
+1. [印度议员示范喝牛尿预防新冠](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E8%AE%AE%E5%91%98%E7%A4%BA%E8%8C%83%E5%96%9D%E7%89%9B%E5%B0%BF%E9%A2%84%E9%98%B2%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [2021MSI](https://s.weibo.com//weibo?q=%232021MSI%23&Refer=top)
+
+1. [官方回应女孩景区卖气球遭驱赶](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E6%99%AF%E5%8C%BA%E5%8D%96%E6%B0%94%E7%90%83%E9%81%AD%E9%A9%B1%E8%B5%B6%23&Refer=top)
+
+1. [乡村的景色有多治愈](https://s.weibo.com//weibo?q=%23%E4%B9%A1%E6%9D%91%E7%9A%84%E6%99%AF%E8%89%B2%E6%9C%89%E5%A4%9A%E6%B2%BB%E6%84%88%23&Refer=top)
+
+1. [巴西小镇实验全体接种中国科兴疫苗](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%A5%BF%E5%B0%8F%E9%95%87%E5%AE%9E%E9%AA%8C%E5%85%A8%E4%BD%93%E6%8E%A5%E7%A7%8D%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [过三爽说喜欢叶小妹](https://s.weibo.com//weibo?q=%23%E8%BF%87%E4%B8%89%E7%88%BD%E8%AF%B4%E5%96%9C%E6%AC%A2%E5%8F%B6%E5%B0%8F%E5%A6%B9%23&Refer=top)
+
+1. [RNG四连胜](https://s.weibo.com//weibo?q=RNG%E5%9B%9B%E8%BF%9E%E8%83%9C&Refer=top)
+
+1. [白敬亭唱不加糖](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%94%B1%E4%B8%8D%E5%8A%A0%E7%B3%96&Refer=top)
+
+1. [北京四环以内全天禁行京B号牌摩托车](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%9B%E7%8E%AF%E4%BB%A5%E5%86%85%E5%85%A8%E5%A4%A9%E7%A6%81%E8%A1%8C%E4%BA%ACB%E5%8F%B7%E7%89%8C%E6%91%A9%E6%89%98%E8%BD%A6%23&Refer=top)
 
