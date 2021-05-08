@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-08 10:33:30
+## 微博今日热榜 更新于 2021-05-08 11:09:22
 1. [经典里的中国智慧](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%85%B8%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%23&Refer=new_time)
 
 1. [李莎旻子 我恋爱了](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%20%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86&Refer=top)
@@ -234,4 +234,24 @@
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
 1. [中国军人的笑容](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E7%AC%91%E5%AE%B9%23&Refer=top)
+
+1. [美国驻华使馆道歉](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [北大博士送半年外卖](https://s.weibo.com//weibo?q=%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E9%80%81%E5%8D%8A%E5%B9%B4%E5%A4%96%E5%8D%96&Refer=top)
+
+1. [长沙一女子少投币辱骂司机抢方向盘](https://s.weibo.com//weibo?q=%E9%95%BF%E6%B2%99%E4%B8%80%E5%A5%B3%E5%AD%90%E5%B0%91%E6%8A%95%E5%B8%81%E8%BE%B1%E9%AA%82%E5%8F%B8%E6%9C%BA%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98&Refer=top)
+
+1. [阿塞拜疆总统怒怼BBC记者](https://s.weibo.com//weibo?q=%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E6%80%BB%E7%BB%9F%E6%80%92%E6%80%BCBBC%E8%AE%B0%E8%80%85&Refer=top)
+
+1. [上海等级考](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%AD%89%E7%BA%A7%E8%80%83&Refer=top)
+
+1. [杭州野生动物园](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD&Refer=top)
+
+1. [高校保洁阿姨变身灵魂画手](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E5%8F%98%E8%BA%AB%E7%81%B5%E9%AD%82%E7%94%BB%E6%89%8B%23&Refer=top)
+
+1. [非法穿越鳌太线驴友将追偿搜救费](https://s.weibo.com//weibo?q=%E9%9D%9E%E6%B3%95%E7%A9%BF%E8%B6%8A%E9%B3%8C%E5%A4%AA%E7%BA%BF%E9%A9%B4%E5%8F%8B%E5%B0%86%E8%BF%BD%E5%81%BF%E6%90%9C%E6%95%91%E8%B4%B9&Refer=top)
+
+1. [罗翔 给青年朋友的两点建议](https://s.weibo.com//weibo?q=%E7%BD%97%E7%BF%94%20%E7%BB%99%E9%9D%92%E5%B9%B4%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B8%A4%E7%82%B9%E5%BB%BA%E8%AE%AE&Refer=top)
+
+1. [没想到鸡蛋也会套娃](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%B8%A1%E8%9B%8B%E4%B9%9F%E4%BC%9A%E5%A5%97%E5%A8%83%23&Refer=top)
 
