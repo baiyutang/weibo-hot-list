@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 01:30:01
+## 微博今日热榜 更新于 2021-05-10 02:09:46
 1. [全国新冠疫苗接种超3亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%B6%853%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [三星堆博物馆临时闭馆2天](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%B4%E6%97%B6%E9%97%AD%E9%A6%862%E5%A4%A9%23&Refer=top)
 
 1. [母亲节快乐](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [狗狗币](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%81%23&Refer=top)
 
