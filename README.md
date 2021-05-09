@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 03:06:14
+## 微博今日热榜 更新于 2021-05-10 04:03:00
 1. [全国新冠疫苗接种超3亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%B6%853%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [杨迪吐槽妈妈配音葫芦娃像蛇精](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%90%90%E6%A7%BD%E5%A6%88%E5%A6%88%E9%85%8D%E9%9F%B3%E8%91%AB%E8%8A%A6%E5%A8%83%E5%83%8F%E8%9B%87%E7%B2%BE%23&Refer=top)
 
 1. [UOL RNG](https://s.weibo.com//weibo?q=UOL%20RNG&Refer=top)
+
+1. [上海海关截获人体细胞247支](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B7%E4%BA%BA%E4%BD%93%E7%BB%86%E8%83%9E247%E6%94%AF%23&Refer=top)
 
