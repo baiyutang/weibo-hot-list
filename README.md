@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 06:03:41
+## 微博今日热榜 更新于 2021-05-10 07:03:01
 1. [全国新冠疫苗接种超3亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%B6%853%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [上海海关截获人体细胞247支](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B7%E4%BA%BA%E4%BD%93%E7%BB%86%E8%83%9E247%E6%94%AF%23&Refer=top)
 
 1. [小区车库出口断头路司机差点坠落](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%8C%BA%E8%BD%A6%E5%BA%93%E5%87%BA%E5%8F%A3%E6%96%AD%E5%A4%B4%E8%B7%AF%E5%8F%B8%E6%9C%BA%E5%B7%AE%E7%82%B9%E5%9D%A0%E8%90%BD&Refer=top)
+
+1. [万吨大桥空中转体33度精准合龙](https://s.weibo.com//weibo?q=%23%E4%B8%87%E5%90%A8%E5%A4%A7%E6%A1%A5%E7%A9%BA%E4%B8%AD%E8%BD%AC%E4%BD%9333%E5%BA%A6%E7%B2%BE%E5%87%86%E5%90%88%E9%BE%99%23&Refer=new_time)
 
