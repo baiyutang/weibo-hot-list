@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 16:03:27
+## 微博今日热榜 更新于 2021-05-10 17:03:04
 1. [全国新冠疫苗接种超3亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%B6%853%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -394,4 +394,30 @@
 1. [印度医护人员将遗体扔进河](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%B0%86%E9%81%97%E4%BD%93%E6%89%94%E8%BF%9B%E6%B2%B3&Refer=top)
 
 1. [安徽专升本成绩](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E4%B8%93%E5%8D%87%E6%9C%AC%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [成都四十九中回应学生在校高坠离世](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%A0%A1%E9%AB%98%E5%9D%A0%E7%A6%BB%E4%B8%96%23&Refer=top)
+
+1. [搜救队将带活鸡上山诱捕外逃豹子](https://s.weibo.com//weibo?q=%23%E6%90%9C%E6%95%91%E9%98%9F%E5%B0%86%E5%B8%A6%E6%B4%BB%E9%B8%A1%E4%B8%8A%E5%B1%B1%E8%AF%B1%E6%8D%95%E5%A4%96%E9%80%83%E8%B1%B9%E5%AD%90%23&Refer=top)
+
+1. [马斯克自称患阿斯伯格综合征](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E7%A7%B0%E6%82%A3%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%BB%BC%E5%90%88%E5%BE%81%23&Refer=top)
+
+1. [杨紫 暴富耳钉](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E6%9A%B4%E5%AF%8C%E8%80%B3%E9%92%89&Refer=top)
+
+1. [shib大涨](https://s.weibo.com//weibo?q=shib%E5%A4%A7%E6%B6%A8&Refer=top)
+
+1. [武汉站暴雨漏水](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E7%AB%99%E6%9A%B4%E9%9B%A8%E6%BC%8F%E6%B0%B4&Refer=top)
+
+1. [刘些宁晒双马尾照](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%9B%E5%AE%81%E6%99%92%E5%8F%8C%E9%A9%AC%E5%B0%BE%E7%85%A7%23&Refer=top)
+
+1. [上海一小区推智能门禁可查群租](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%8E%A8%E6%99%BA%E8%83%BD%E9%97%A8%E7%A6%81%E5%8F%AF%E6%9F%A5%E7%BE%A4%E7%A7%9F&Refer=top)
+
+1. [信阳冰雹](https://s.weibo.com//weibo?q=%E4%BF%A1%E9%98%B3%E5%86%B0%E9%9B%B9&Refer=top)
+
+1. [陶琳称建议加强车主学习](https://s.weibo.com//weibo?q=%23%E9%99%B6%E7%90%B3%E7%A7%B0%E5%BB%BA%E8%AE%AE%E5%8A%A0%E5%BC%BA%E8%BD%A6%E4%B8%BB%E5%AD%A6%E4%B9%A0%23&Refer=top)
+
+1. [印度暴发罕见病菌致死率达50%](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E7%BD%95%E8%A7%81%E7%97%85%E8%8F%8C%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BE%BE50%25%23&Refer=top)
+
+1. [日本民众集会吁取消东京奥运](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E5%90%81%E5%8F%96%E6%B6%88%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%23&Refer=top)
+
+1. [硬糖少女双马尾海报](https://s.weibo.com//weibo?q=%23%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3%E5%8F%8C%E9%A9%AC%E5%B0%BE%E6%B5%B7%E6%8A%A5%23&Refer=top)
 
