@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-12 00:09:09
+## 微博今日热榜 更新于 2021-05-12 01:33:04
 1. [我国人口达141178万人](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E8%BE%BE141178%E4%B8%87%E4%BA%BA%23&Refer=new_time)
 
 1. [警方通报成都四十九中学生坠亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [马斯克发起狗狗币支付特斯拉投票](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E8%B5%B7%E7%8B%97%E7%8B%97%E5%B8%81%E6%94%AF%E4%BB%98%E7%89%B9%E6%96%AF%E6%8B%89%E6%8A%95%E7%A5%A8&Refer=top)
 
 1. [尹正喝醉偷吃午餐肉忘了味道](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%AD%A3%E5%96%9D%E9%86%89%E5%81%B7%E5%90%83%E5%8D%88%E9%A4%90%E8%82%89%E5%BF%98%E4%BA%86%E5%91%B3%E9%81%93%23&Refer=top)
+
+1. [第7次人口普查结果呈现6个特点](https://s.weibo.com//weibo?q=%23%E7%AC%AC7%E6%AC%A1%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%91%88%E7%8E%B06%E4%B8%AA%E7%89%B9%E7%82%B9%23&Refer=new_time)
+
+1. [猪坚强](https://s.weibo.com//weibo?q=%E7%8C%AA%E5%9D%9A%E5%BC%BA&Refer=top)
+
+1. [512](https://s.weibo.com//weibo?q=512&Refer=top)
+
+1. [进击的巨人](https://s.weibo.com//weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&Refer=top)
+
+1. [何洛洛演技](https://s.weibo.com//weibo?q=%23%E4%BD%95%E6%B4%9B%E6%B4%9B%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [李现中国刑警路透](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%8E%B0%E4%B8%AD%E5%9B%BD%E5%88%91%E8%AD%A6%E8%B7%AF%E9%80%8F&Refer=top)
 
