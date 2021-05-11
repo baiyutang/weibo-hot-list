@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-12 04:03:22
+## 微博今日热榜 更新于 2021-05-12 05:02:44
 1. [我国人口达141178万人](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E8%BE%BE141178%E4%B8%87%E4%BA%BA%23&Refer=new_time)
 
 1. [警方通报成都四十九中学生坠亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [遇龙](https://s.weibo.com//weibo?q=%E9%81%87%E9%BE%99&Refer=top)
 
 1. [以色列巴勒斯坦冲突](https://s.weibo.com//weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81&Refer=top)
+
+1. [追寻建党百年足迹网络名人山东行](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E8%B6%B3%E8%BF%B9%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E5%B1%B1%E4%B8%9C%E8%A1%8C%23&Refer=new_time)
 
