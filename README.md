@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-11 09:57:16
+## 微博今日热榜 更新于 2021-05-11 10:41:58
 1. [全国城市20年节水近千亿立方米](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%9F%8E%E5%B8%8220%E5%B9%B4%E8%8A%82%E6%B0%B4%E8%BF%91%E5%8D%83%E4%BA%BF%E7%AB%8B%E6%96%B9%E7%B1%B3%23&Refer=new_time)
 
 1. [撒贝宁催婚李佳琦金靖](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%82%AC%E5%A9%9A%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%23&Refer=top)
@@ -206,4 +206,34 @@
 1. [威少历史三双王](https://s.weibo.com//weibo?q=%23%E5%A8%81%E5%B0%91%E5%8E%86%E5%8F%B2%E4%B8%89%E5%8F%8C%E7%8E%8B%23&Refer=top)
 
 1. [驻村扶贫民警哭成泪人](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E6%9D%91%E6%89%B6%E8%B4%AB%E6%B0%91%E8%AD%A6%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&Refer=top)
+
+1. [第七次人口普查结果发布会](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [香港将与内地公务员互换挂职](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%B8%8E%E5%86%85%E5%9C%B0%E5%85%AC%E5%8A%A1%E5%91%98%E4%BA%92%E6%8D%A2%E6%8C%82%E8%81%8C&Refer=top)
+
+1. [第七次全国人口普查主要数据结果](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%83%E6%AC%A1%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5%E4%B8%BB%E8%A6%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%9C%23&Refer=top)
+
+1. [萧敬腾工作室 萧敬腾不在武汉](https://s.weibo.com//weibo?q=%E8%90%A7%E6%95%AC%E8%85%BE%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E8%90%A7%E6%95%AC%E8%85%BE%E4%B8%8D%E5%9C%A8%E6%AD%A6%E6%B1%89&Refer=top)
+
+1. [两名外籍游客翻越长城被列入黑名单](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%90%8D%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E7%BF%BB%E8%B6%8A%E9%95%BF%E5%9F%8E%E8%A2%AB%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [全国人口共141178万人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%85%B1141178%E4%B8%87%E4%BA%BA%23&Refer=top)
+
+1. [全国超2.18亿人具有大学文化程度](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E8%B6%852.18%E4%BA%BF%E4%BA%BA%E5%85%B7%E6%9C%89%E5%A4%A7%E5%AD%A6%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%23&Refer=top)
+
+1. [四川公安](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%AE%89&Refer=top)
+
+1. [技嘉](https://s.weibo.com//weibo?q=%E6%8A%80%E5%98%89&Refer=top)
+
+1. [中国男性比女性多3490万人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E6%AF%94%E5%A5%B3%E6%80%A7%E5%A4%9A3490%E4%B8%87%E4%BA%BA%23&Refer=top)
+
+1. [全国人口10年增加7206万人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%8F%A310%E5%B9%B4%E5%A2%9E%E5%8A%A07206%E4%B8%87%E4%BA%BA%23&Refer=top)
+
+1. [官方通报小区电梯内电瓶车起火](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E5%86%85%E7%94%B5%E7%93%B6%E8%BD%A6%E8%B5%B7%E7%81%AB&Refer=top)
+
+1. [电瓶车电梯爆燃受伤婴儿未脱离危险](https://s.weibo.com//weibo?q=%23%E7%94%B5%E7%93%B6%E8%BD%A6%E7%94%B5%E6%A2%AF%E7%88%86%E7%87%83%E5%8F%97%E4%BC%A4%E5%A9%B4%E5%84%BF%E6%9C%AA%E8%84%B1%E7%A6%BB%E5%8D%B1%E9%99%A9%23&Refer=top)
+
+1. [我国已列管188种新精神活性物质](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E5%88%97%E7%AE%A1188%E7%A7%8D%E6%96%B0%E7%B2%BE%E7%A5%9E%E6%B4%BB%E6%80%A7%E7%89%A9%E8%B4%A8%23&Refer=top)
+
+1. [王者荣耀梦奇CG](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%A2%A6%E5%A5%87CG%23&Refer=top)
 
