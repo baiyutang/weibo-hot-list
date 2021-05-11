@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-11 07:03:08
+## 微博今日热榜 更新于 2021-05-11 08:08:32
 1. [全国城市20年节水近千亿立方米](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%9F%8E%E5%B8%8220%E5%B9%B4%E8%8A%82%E6%B0%B4%E8%BF%91%E5%8D%83%E4%BA%BF%E7%AB%8B%E6%96%B9%E7%B1%B3%23&Refer=new_time)
 
 1. [撒贝宁催婚李佳琦金靖](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%82%AC%E5%A9%9A%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%23&Refer=top)
@@ -132,4 +132,26 @@
 1. [张哲瀚](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A&Refer=top)
 
 1. [背妈妈上学的女孩如今带妈妈实习](https://s.weibo.com//weibo?q=%23%E8%83%8C%E5%A6%88%E5%A6%88%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%A6%82%E4%BB%8A%E5%B8%A6%E5%A6%88%E5%A6%88%E5%AE%9E%E4%B9%A0%23&Refer=top)
+
+1. [50句戳心留言写给2021毕业季](https://s.weibo.com//weibo?q=%2350%E5%8F%A5%E6%88%B3%E5%BF%83%E7%95%99%E8%A8%80%E5%86%99%E7%BB%992021%E6%AF%95%E4%B8%9A%E5%AD%A3%23&Refer=new_time)
+
+1. [教育局通报成都四十九中学生坠亡](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top)
+
+1. [大理直升机坠入洱海4人遇难](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%90%86%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E5%85%A5%E6%B4%B1%E6%B5%B74%E4%BA%BA%E9%81%87%E9%9A%BE&Refer=top)
+
+1. [遇龙](https://s.weibo.com//weibo?q=%E9%81%87%E9%BE%99&Refer=top)
+
+1. [EXO回归预告](https://s.weibo.com//weibo?q=%23EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [成都一电瓶车电梯内爆燃](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E7%94%B5%E7%93%B6%E8%BD%A6%E7%94%B5%E6%A2%AF%E5%86%85%E7%88%86%E7%87%83%23&Refer=top)
+
+1. [化学老师](https://s.weibo.com//weibo?q=%E5%8C%96%E5%AD%A6%E8%80%81%E5%B8%88&Refer=top)
+
+1. [上海暴雨](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [赵瑾尧晒与青你选手合照](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%91%BE%E5%B0%A7%E6%99%92%E4%B8%8E%E9%9D%92%E4%BD%A0%E9%80%89%E6%89%8B%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [宁波天气](https://s.weibo.com//weibo?q=%E5%AE%81%E6%B3%A2%E5%A4%A9%E6%B0%94&Refer=top)
+
+1. [白岩松采访林郑月娥](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E9%87%87%E8%AE%BF%E6%9E%97%E9%83%91%E6%9C%88%E5%A8%A5%23&Refer=top)
 
