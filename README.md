@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-13 02:19:46
+## 微博今日热榜 更新于 2021-05-13 03:15:15
 1. [致敬最美的天使](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%A9%E4%BD%BF%23&Refer=new_time)
 
 1. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top)
@@ -116,4 +116,8 @@
 1. [汶川大地震13周年祭](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%8713%E5%91%A8%E5%B9%B4%E7%A5%AD%23&Refer=new_time)
 
 1. [美国海关在印度乘客行李发现牛粪饼](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%85%B3%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%B9%98%E5%AE%A2%E8%A1%8C%E6%9D%8E%E5%8F%91%E7%8E%B0%E7%89%9B%E7%B2%AA%E9%A5%BC%23&Refer=top)
+
+1. [日本推降温口罩](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E9%99%8D%E6%B8%A9%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [消防员70米烟囱救下男子手抖不停](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%9870%E7%B1%B3%E7%83%9F%E5%9B%B1%E6%95%91%E4%B8%8B%E7%94%B7%E5%AD%90%E6%89%8B%E6%8A%96%E4%B8%8D%E5%81%9C%23&Refer=top)
 
