@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-12 14:20:02
+## 微博今日热榜 更新于 2021-05-12 15:10:49
 1. [我国人口达141178万人](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E8%BE%BE141178%E4%B8%87%E4%BA%BA%23&Refer=new_time)
 
 1. [警方通报成都四十九中学生坠亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top)
@@ -356,4 +356,20 @@
 1. [秦始皇陵铜车马启运新馆](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E9%93%9C%E8%BD%A6%E9%A9%AC%E5%90%AF%E8%BF%90%E6%96%B0%E9%A6%86%23&Refer=top)
 
 1. [金曲奖入围名单](https://s.weibo.com//weibo?q=%E9%87%91%E6%9B%B2%E5%A5%96%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [灾害自救指南](https://s.weibo.com//weibo?q=%23%E7%81%BE%E5%AE%B3%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [母亲回应14岁儿子火海救两儿童](https://s.weibo.com//weibo?q=%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%9414%E5%B2%81%E5%84%BF%E5%AD%90%E7%81%AB%E6%B5%B7%E6%95%91%E4%B8%A4%E5%84%BF%E7%AB%A5&Refer=top)
+
+1. [霍尊](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%B0%8A&Refer=top)
+
+1. [原来西瓜还有分品种](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A5%BF%E7%93%9C%E8%BF%98%E6%9C%89%E5%88%86%E5%93%81%E7%A7%8D%23&Refer=top)
+
+1. [许嵩](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9&Refer=top)
+
+1. [官方通报苏州中转站出现宠物盲盒](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%8B%8F%E5%B7%9E%E4%B8%AD%E8%BD%AC%E7%AB%99%E5%87%BA%E7%8E%B0%E5%AE%A0%E7%89%A9%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [朱挺禁赛3场](https://s.weibo.com//weibo?q=%E6%9C%B1%E6%8C%BA%E7%A6%81%E8%B5%9B3%E5%9C%BA&Refer=top)
+
+1. [小米起诉美国政府诉讼达成和解](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%AF%89%E8%AE%BC%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3&Refer=top)
 
