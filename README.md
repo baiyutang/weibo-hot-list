@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-13 06:05:33
+## 微博今日热榜 更新于 2021-05-13 07:05:45
 1. [致敬最美的天使](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%A9%E4%BD%BF%23&Refer=new_time)
 
 1. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top)
