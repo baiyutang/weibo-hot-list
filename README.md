@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-14 00:13:36
+## 微博今日热榜 更新于 2021-05-14 01:36:58
 1. [歼20飞行员提起一幅画突然哽咽](https://s.weibo.com//weibo?q=%23%E6%AD%BC20%E9%A3%9E%E8%A1%8C%E5%91%98%E6%8F%90%E8%B5%B7%E4%B8%80%E5%B9%85%E7%94%BB%E7%AA%81%E7%84%B6%E5%93%BD%E5%92%BD%23&Refer=new_time)
 
 1. [钟南山称全球通过疫苗免疫需二到三年](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E5%85%A8%E7%90%83%E9%80%9A%E8%BF%87%E7%96%AB%E8%8B%97%E5%85%8D%E7%96%AB%E9%9C%80%E4%BA%8C%E5%88%B0%E4%B8%89%E5%B9%B4%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [1921侧颜海报](https://s.weibo.com//weibo?q=%231921%E4%BE%A7%E9%A2%9C%E6%B5%B7%E6%8A%A5%23&Refer=top)
 
 1. [国家统计局副局长称需提高生育意愿](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%A7%B0%E9%9C%80%E6%8F%90%E9%AB%98%E7%94%9F%E8%82%B2%E6%84%8F%E6%84%BF%23&Refer=top)
+
+1. [老师隐瞒身份资助困难学生](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E9%9A%90%E7%9E%92%E8%BA%AB%E4%BB%BD%E8%B5%84%E5%8A%A9%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%23&Refer=new_time)
+
+1. [追星星的人发布会](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E6%98%9F%E7%9A%84%E4%BA%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
 
