@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-14 02:19:44
+## 微博今日热榜 更新于 2021-05-14 03:15:55
 1. [歼20飞行员提起一幅画突然哽咽](https://s.weibo.com//weibo?q=%23%E6%AD%BC20%E9%A3%9E%E8%A1%8C%E5%91%98%E6%8F%90%E8%B5%B7%E4%B8%80%E5%B9%85%E7%94%BB%E7%AA%81%E7%84%B6%E5%93%BD%E5%92%BD%23&Refer=new_time)
 
 1. [钟南山称全球通过疫苗免疫需二到三年](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E5%85%A8%E7%90%83%E9%80%9A%E8%BF%87%E7%96%AB%E8%8B%97%E5%85%8D%E7%96%AB%E9%9C%80%E4%BA%8C%E5%88%B0%E4%B8%89%E5%B9%B4%23&Refer=top)
@@ -114,4 +114,12 @@
 1. [10万人近10年在绝壁上凿出千里长渠](https://s.weibo.com//weibo?q=%2310%E4%B8%87%E4%BA%BA%E8%BF%9110%E5%B9%B4%E5%9C%A8%E7%BB%9D%E5%A3%81%E4%B8%8A%E5%87%BF%E5%87%BA%E5%8D%83%E9%87%8C%E9%95%BF%E6%B8%A0%23&Refer=new_time)
 
 1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [孙嘉璐拍戏被扇50次巴掌](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%98%89%E7%92%90%E6%8B%8D%E6%88%8F%E8%A2%AB%E6%89%8750%E6%AC%A1%E5%B7%B4%E6%8E%8C%23&Refer=top)
+
+1. [彭冠英黑色蕾丝礼服](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E9%BB%91%E8%89%B2%E8%95%BE%E4%B8%9D%E7%A4%BC%E6%9C%8D%23&Refer=top)
+
+1. [骊歌行](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [独臂少年100米跑11秒26夺冠](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E8%87%82%E5%B0%91%E5%B9%B4100%E7%B1%B3%E8%B7%9111%E7%A7%9226%E5%A4%BA%E5%86%A0%23&Refer=top)
 
