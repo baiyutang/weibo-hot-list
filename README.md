@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-13 18:05:27
+## 微博今日热榜 更新于 2021-05-13 19:06:26
 1. [致敬最美的天使](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%A9%E4%BD%BF%23&Refer=new_time)
 
 1. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top)
@@ -380,4 +380,30 @@
 1. [巴以再起冲突的原因是什么](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%8D%E8%B5%B7%E5%86%B2%E7%AA%81%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
 
 1. [画风突变的主持人](https://s.weibo.com//weibo?q=%23%E7%94%BB%E9%A3%8E%E7%AA%81%E5%8F%98%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%23&Refer=top)
+
+1. [男子网络赌博输60元牵出3.4亿大案](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E8%BE%9360%E5%85%83%E7%89%B5%E5%87%BA3.4%E4%BA%BF%E5%A4%A7%E6%A1%88%23&Refer=top)
+
+1. [1921选角](https://s.weibo.com//weibo?q=1921%E9%80%89%E8%A7%92&Refer=top)
+
+1. [张艺兴金发侧颜](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%87%91%E5%8F%91%E4%BE%A7%E9%A2%9C%23&Refer=top)
+
+1. [高中停电的那个晚自修](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%AD%E5%81%9C%E7%94%B5%E7%9A%84%E9%82%A3%E4%B8%AA%E6%99%9A%E8%87%AA%E4%BF%AE%23&Refer=top)
+
+1. [当说起吃辣](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%AF%B4%E8%B5%B7%E5%90%83%E8%BE%A3%23&Refer=top)
+
+1. [贺峻霖把鞋踢飞的事被妈妈知道了](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%8A%8A%E9%9E%8B%E8%B8%A2%E9%A3%9E%E7%9A%84%E4%BA%8B%E8%A2%AB%E5%A6%88%E5%A6%88%E7%9F%A5%E9%81%93%E4%BA%86%23&Refer=top)
+
+1. [巴勒斯坦男童空袭中痛失父亲兄弟](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%94%B7%E7%AB%A5%E7%A9%BA%E8%A2%AD%E4%B8%AD%E7%97%9B%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%85%84%E5%BC%9F%23&Refer=top)
+
+1. [难以理解的父母神逻辑](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E4%BB%A5%E7%90%86%E8%A7%A3%E7%9A%84%E7%88%B6%E6%AF%8D%E7%A5%9E%E9%80%BB%E8%BE%91%23&Refer=top)
+
+1. [父母婚姻破裂对子女的影响有多大](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E5%A9%9A%E5%A7%BB%E7%A0%B4%E8%A3%82%E5%AF%B9%E5%AD%90%E5%A5%B3%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [国家统计局副局长称需提高生育意愿](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%A7%B0%E9%9C%80%E6%8F%90%E9%AB%98%E7%94%9F%E8%82%B2%E6%84%8F%E6%84%BF%23&Refer=top)
+
+1. [是否应该对学生开展心理测评](https://s.weibo.com//weibo?q=%23%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E5%AF%B9%E5%AD%A6%E7%94%9F%E5%BC%80%E5%B1%95%E5%BF%83%E7%90%86%E6%B5%8B%E8%AF%84%23&Refer=top)
+
+1. [华春莹用两句古诗回应反华人士](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E7%94%A8%E4%B8%A4%E5%8F%A5%E5%8F%A4%E8%AF%97%E5%9B%9E%E5%BA%94%E5%8F%8D%E5%8D%8E%E4%BA%BA%E5%A3%AB%23&Refer=top)
+
+1. [令你丧失工作热情的瞬间](https://s.weibo.com//weibo?q=%23%E4%BB%A4%E4%BD%A0%E4%B8%A7%E5%A4%B1%E5%B7%A5%E4%BD%9C%E7%83%AD%E6%83%85%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
 
