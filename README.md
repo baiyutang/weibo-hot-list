@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-13 08:18:49
+## 微博今日热榜 更新于 2021-05-13 10:06:20
 1. [致敬最美的天使](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%A9%E4%BD%BF%23&Refer=new_time)
 
 1. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top)
@@ -148,4 +148,30 @@
 1. [高中生坠亡通报请少一些硬邦邦](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E9%80%9A%E6%8A%A5%E8%AF%B7%E5%B0%91%E4%B8%80%E4%BA%9B%E7%A1%AC%E9%82%A6%E9%82%A6%23&Refer=top)
 
 1. [霍尊](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%B0%8A&Refer=top)
+
+1. [杜海涛沈梦辰否认分手](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%90%A6%E8%AE%A4%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [和即将结婚的朋友互删了](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%8D%B3%E5%B0%86%E7%BB%93%E5%A9%9A%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BA%92%E5%88%A0%E4%BA%86%23&Refer=top)
+
+1. [超7800名运动员获东京奥运会资格](https://s.weibo.com//weibo?q=%23%E8%B6%857800%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E8%8E%B7%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%B5%84%E6%A0%BC%23&Refer=top)
+
+1. [成都49中学生坠楼事件时间线](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD49%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6%E6%97%B6%E9%97%B4%E7%BA%BF%23&Refer=top)
+
+1. [300亿只蝉将席卷美国东部](https://s.weibo.com//weibo?q=%23300%E4%BA%BF%E5%8F%AA%E8%9D%89%E5%B0%86%E5%B8%AD%E5%8D%B7%E7%BE%8E%E5%9B%BD%E4%B8%9C%E9%83%A8%23&Refer=top)
+
+1. [乌合麒麟 希望这些小画家们可以道歉](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%20%E5%B8%8C%E6%9C%9B%E8%BF%99%E4%BA%9B%E5%B0%8F%E7%94%BB%E5%AE%B6%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%81%93%E6%AD%89&Refer=top)
+
+1. [王一博风起洛阳新造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%A3%8E%E8%B5%B7%E6%B4%9B%E9%98%B3%E6%96%B0%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [艺人让家人打理个人事业好吗](https://s.weibo.com//weibo?q=%23%E8%89%BA%E4%BA%BA%E8%AE%A9%E5%AE%B6%E4%BA%BA%E6%89%93%E7%90%86%E4%B8%AA%E4%BA%BA%E4%BA%8B%E4%B8%9A%E5%A5%BD%E5%90%97%23&Refer=top)
+
+1. [吴青峰发文感谢苏打绿成员](https://s.weibo.com//weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E8%8B%8F%E6%89%93%E7%BB%BF%E6%88%90%E5%91%98%23&Refer=top)
+
+1. [21岁的寿星朱鹮](https://s.weibo.com//weibo?q=%2321%E5%B2%81%E7%9A%84%E5%AF%BF%E6%98%9F%E6%9C%B1%E9%B9%AE%23&Refer=top)
+
+1. [哈登复出](https://s.weibo.com//weibo?q=%23%E5%93%88%E7%99%BB%E5%A4%8D%E5%87%BA%23&Refer=top)
+
+1. [公牛集团回应涉嫌垄断被调查](https://s.weibo.com//weibo?q=%23%E5%85%AC%E7%89%9B%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
+
+1. [成都49中回应事发2小时通知家长](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD49%E4%B8%AD%E5%9B%9E%E5%BA%94%E4%BA%8B%E5%8F%912%E5%B0%8F%E6%97%B6%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF&Refer=top)
 
