@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-13 07:05:45
+## 微博今日热榜 更新于 2021-05-13 08:18:49
 1. [致敬最美的天使](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%A9%E4%BD%BF%23&Refer=new_time)
 
 1. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top)
@@ -124,4 +124,28 @@
 1. [大美河南更出彩](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%B2%B3%E5%8D%97%E6%9B%B4%E5%87%BA%E5%BD%A9%23&Refer=new_time)
 
 1. [警方通报成都四十九中学生坠亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top)
+
+1. [张恒 我赢得儿子女儿抚养独立决定权](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%81%92%20%E6%88%91%E8%B5%A2%E5%BE%97%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E6%8A%9A%E5%85%BB%E7%8B%AC%E7%AB%8B%E5%86%B3%E5%AE%9A%E6%9D%83&Refer=top)
+
+1. [监控还原成都49中学生坠亡前轨迹](https://s.weibo.com//weibo?q=%23%E7%9B%91%E6%8E%A7%E8%BF%98%E5%8E%9F%E6%88%90%E9%83%BD49%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E5%89%8D%E8%BD%A8%E8%BF%B9%23&Refer=top)
+
+1. [新华社还原成都49中学生坠亡事件](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%BF%98%E5%8E%9F%E6%88%90%E9%83%BD49%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [特斯拉暂停使用比特币支付](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%82%E5%81%9C%E4%BD%BF%E7%94%A8%E6%AF%94%E7%89%B9%E5%B8%81%E6%94%AF%E4%BB%98&Refer=top)
+
+1. [美媒称中国科兴疫苗高度有效](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97%E9%AB%98%E5%BA%A6%E6%9C%89%E6%95%88&Refer=top)
+
+1. [许嵩新歌科幻](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%B5%A9%E6%96%B0%E6%AD%8C%E7%A7%91%E5%B9%BB%23&Refer=top)
+
+1. [纸吸管真的很环保 在我嘴里就降解了](https://s.weibo.com//weibo?q=%E7%BA%B8%E5%90%B8%E7%AE%A1%E7%9C%9F%E7%9A%84%E5%BE%88%E7%8E%AF%E4%BF%9D%20%E5%9C%A8%E6%88%91%E5%98%B4%E9%87%8C%E5%B0%B1%E9%99%8D%E8%A7%A3%E4%BA%86&Refer=top)
+
+1. [shib大跌](https://s.weibo.com//weibo?q=shib%E5%A4%A7%E8%B7%8C&Refer=top)
+
+1. [日本推出机上婚礼](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E6%9C%BA%E4%B8%8A%E5%A9%9A%E7%A4%BC%23&Refer=top)
+
+1. [世卫预计世界因疫情会损失10万亿美元](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E9%A2%84%E8%AE%A1%E4%B8%96%E7%95%8C%E5%9B%A0%E7%96%AB%E6%83%85%E4%BC%9A%E6%8D%9F%E5%A4%B110%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [高中生坠亡通报请少一些硬邦邦](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9D%A0%E4%BA%A1%E9%80%9A%E6%8A%A5%E8%AF%B7%E5%B0%91%E4%B8%80%E4%BA%9B%E7%A1%AC%E9%82%A6%E9%82%A6%23&Refer=top)
+
+1. [霍尊](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%B0%8A&Refer=top)
 
