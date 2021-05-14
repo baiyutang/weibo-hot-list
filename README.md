@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-15 03:16:02
+## 微博今日热榜 更新于 2021-05-15 04:05:13
 1. [民法典版成语新说](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%B3%95%E5%85%B8%E7%89%88%E6%88%90%E8%AF%AD%E6%96%B0%E8%AF%B4%23&Refer=new_time)
 
 1. [张艺兴 你好绯闻女友](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E4%BD%A0%E5%A5%BD%E7%BB%AF%E9%97%BB%E5%A5%B3%E5%8F%8B&Refer=top)
@@ -128,4 +128,8 @@
 1. [火星的中国时刻](https://s.weibo.com//weibo?q=%23%E7%81%AB%E6%98%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%88%BB%23&Refer=new_time)
 
 1. [李现黑色西装造型](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [蔡徐坤晒素颜照](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%99%92%E7%B4%A0%E9%A2%9C%E7%85%A7%23&Refer=top)
+
+1. [2021MSI](https://s.weibo.com//weibo?q=%232021MSI%23&Refer=top)
 
