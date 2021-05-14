@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-15 06:05:25
+## 微博今日热榜 更新于 2021-05-15 07:06:49
 1. [民法典版成语新说](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%B3%95%E5%85%B8%E7%89%88%E6%88%90%E8%AF%AD%E6%96%B0%E8%AF%B4%23&Refer=new_time)
 
 1. [张艺兴 你好绯闻女友](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E4%BD%A0%E5%A5%BD%E7%BB%AF%E9%97%BB%E5%A5%B3%E5%8F%8B&Refer=top)
