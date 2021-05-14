@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-14 19:03:20
+## 微博今日热榜 更新于 2021-05-14 20:07:47
 1. [歼20飞行员提起一幅画突然哽咽](https://s.weibo.com//weibo?q=%23%E6%AD%BC20%E9%A3%9E%E8%A1%8C%E5%91%98%E6%8F%90%E8%B5%B7%E4%B8%80%E5%B9%85%E7%94%BB%E7%AA%81%E7%84%B6%E5%93%BD%E5%92%BD%23&Refer=new_time)
 
 1. [钟南山称全球通过疫苗免疫需二到三年](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E5%85%A8%E7%90%83%E9%80%9A%E8%BF%87%E7%96%AB%E8%8B%97%E5%85%8D%E7%96%AB%E9%9C%80%E4%BA%8C%E5%88%B0%E4%B8%89%E5%B9%B4%23&Refer=top)
@@ -450,4 +450,20 @@
 1. [全国入夏进程地图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%85%A5%E5%A4%8F%E8%BF%9B%E7%A8%8B%E5%9C%B0%E5%9B%BE%23&Refer=top)
 
 1. [华为回应充电器被查](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%99%A8%E8%A2%AB%E6%9F%A5%23&Refer=top)
+
+1. [姐叫那英](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%8F%AB%E9%82%A3%E8%8B%B1%23&Refer=top)
+
+1. [爸爸给中考女儿写的一封信](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%99%E4%B8%AD%E8%80%83%E5%A5%B3%E5%84%BF%E5%86%99%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23&Refer=top)
+
+1. [对老人眼睛喷辣椒水民警被记大过](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E8%80%81%E4%BA%BA%E7%9C%BC%E7%9D%9B%E5%96%B7%E8%BE%A3%E6%A4%92%E6%B0%B4%E6%B0%91%E8%AD%A6%E8%A2%AB%E8%AE%B0%E5%A4%A7%E8%BF%87%23&Refer=top)
+
+1. [王一博百里弘毅眼神](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%99%BE%E9%87%8C%E5%BC%98%E6%AF%85%E7%9C%BC%E7%A5%9E%23&Refer=top)
+
+1. [哈里王子再吐糟王室生活](https://s.weibo.com//weibo?q=%23%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E5%86%8D%E5%90%90%E7%B3%9F%E7%8E%8B%E5%AE%A4%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [山东健康码上线金色2.0版](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%81%A5%E5%BA%B7%E7%A0%81%E4%B8%8A%E7%BA%BF%E9%87%91%E8%89%B22.0%E7%89%88%23&Refer=top)
+
+1. [视频记录朱鹮痛失爱子](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E8%AE%B0%E5%BD%95%E6%9C%B1%E9%B9%AE%E7%97%9B%E5%A4%B1%E7%88%B1%E5%AD%90%23&Refer=top)
+
+1. [辽宁营口新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
