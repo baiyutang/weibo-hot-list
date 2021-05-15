@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-16 04:04:37
+## 微博今日热榜 更新于 2021-05-16 05:04:09
 1. [天问一号成功着陆](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E6%88%90%E5%8A%9F%E7%9D%80%E9%99%86%23&Refer=new_time)
 
 1. [向佐药水哥对决](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%AF%E6%B0%B4%E5%93%A5%E5%AF%B9%E5%86%B3%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [天问一号](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%23&Refer=top)
 
 1. [MSI](https://s.weibo.com//weibo?q=%23MSI%23&Refer=top)
+
+1. [10种常见电信网络诈骗类型](https://s.weibo.com//weibo?q=%2310%E7%A7%8D%E5%B8%B8%E8%A7%81%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97%E7%B1%BB%E5%9E%8B%23&Refer=new_time)
 
