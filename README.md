@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 00:14:07
+## 微博今日热榜 更新于 2021-05-18 01:36:26
 1. [博物馆文物喊你去蹦迪](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E6%96%87%E7%89%A9%E5%96%8A%E4%BD%A0%E5%8E%BB%E8%B9%A6%E8%BF%AA%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [请病假去非洲被开除辩称我是去看病](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E7%97%85%E5%81%87%E5%8E%BB%E9%9D%9E%E6%B4%B2%E8%A2%AB%E5%BC%80%E9%99%A4%E8%BE%A9%E7%A7%B0%E6%88%91%E6%98%AF%E5%8E%BB%E7%9C%8B%E7%97%85%23&Refer=top)
 
 1. [警惕炒作空气币新型传销](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%83%95%E7%82%92%E4%BD%9C%E7%A9%BA%E6%B0%94%E5%B8%81%E6%96%B0%E5%9E%8B%E4%BC%A0%E9%94%80%23&Refer=top)
+
+1. [最新10问了解新冠疫苗接种](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B010%E9%97%AE%E4%BA%86%E8%A7%A3%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=new_time)
+
+1. [薇娅直播](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%23&Refer=top)
 
