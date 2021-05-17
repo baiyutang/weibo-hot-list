@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 01:36:26
+## 微博今日热榜 更新于 2021-05-18 02:20:56
 1. [博物馆文物喊你去蹦迪](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E6%96%87%E7%89%A9%E5%96%8A%E4%BD%A0%E5%8E%BB%E8%B9%A6%E8%BF%AA%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
