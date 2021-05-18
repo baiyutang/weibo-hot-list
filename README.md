@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 08:21:40
+## 微博今日热榜 更新于 2021-05-18 10:09:12
 1. [博物馆文物喊你去蹦迪](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E6%96%87%E7%89%A9%E5%96%8A%E4%BD%A0%E5%8E%BB%E8%B9%A6%E8%BF%AA%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
@@ -154,4 +154,48 @@
 1. [新东方学而思等被北京市教委点名](https://s.weibo.com//weibo?q=%E6%96%B0%E4%B8%9C%E6%96%B9%E5%AD%A6%E8%80%8C%E6%80%9D%E7%AD%89%E8%A2%AB%E5%8C%97%E4%BA%AC%E5%B8%82%E6%95%99%E5%A7%94%E7%82%B9%E5%90%8D&Refer=top)
 
 1. [以色列国防军向黎巴嫩境内开炮](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E9%98%B2%E5%86%9B%E5%90%91%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%A2%83%E5%86%85%E5%BC%80%E7%82%AE%23&Refer=top)
+
+1. [盖茨承认曾与女员工婚外情](https://s.weibo.com//weibo?q=%23%E7%9B%96%E8%8C%A8%E6%89%BF%E8%AE%A4%E6%9B%BE%E4%B8%8E%E5%A5%B3%E5%91%98%E5%B7%A5%E5%A9%9A%E5%A4%96%E6%83%85%23&Refer=top)
+
+1. [钟南山说中国需尽快建立群体免疫](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%9C%80%E5%B0%BD%E5%BF%AB%E5%BB%BA%E7%AB%8B%E7%BE%A4%E4%BD%93%E5%85%8D%E7%96%AB%23&Refer=top)
+
+1. [刘宇宁 我都希望营销号说的是真的](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E6%88%91%E9%83%BD%E5%B8%8C%E6%9C%9B%E8%90%A5%E9%94%80%E5%8F%B7%E8%AF%B4%E7%9A%84%E6%98%AF%E7%9C%9F%E7%9A%84&Refer=top)
+
+1. [康辉说疫苗接种速度还得加快](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E8%BE%89%E8%AF%B4%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%80%9F%E5%BA%A6%E8%BF%98%E5%BE%97%E5%8A%A0%E5%BF%AB%23&Refer=top)
+
+1. [每周工作超55小时或心脏病致死](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E8%B6%8555%E5%B0%8F%E6%97%B6%E6%88%96%E5%BF%83%E8%84%8F%E7%97%85%E8%87%B4%E6%AD%BB%23&Refer=top)
+
+1. [印度有人拿灭火器当氧气瓶卖](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%9C%89%E4%BA%BA%E6%8B%BF%E7%81%AD%E7%81%AB%E5%99%A8%E5%BD%93%E6%B0%A7%E6%B0%94%E7%93%B6%E5%8D%96%23&Refer=top)
+
+1. [拜登公开呼吁巴以停火](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%85%AC%E5%BC%80%E5%91%BC%E5%90%81%E5%B7%B4%E4%BB%A5%E5%81%9C%E7%81%AB%23&Refer=top)
+
+1. [何德瑞道歉](https://s.weibo.com//weibo?q=%23%E4%BD%95%E5%BE%B7%E7%91%9E%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [徐开骋回应名字被叫错](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%BC%80%E9%AA%8B%E5%9B%9E%E5%BA%94%E5%90%8D%E5%AD%97%E8%A2%AB%E5%8F%AB%E9%94%99%23&Refer=top)
+
+1. [孙杨案重审听证会不公开举行](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A8%E6%A1%88%E9%87%8D%E5%AE%A1%E5%90%AC%E8%AF%81%E4%BC%9A%E4%B8%8D%E5%85%AC%E5%BC%80%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [巴勒斯坦幸存儿童受严重心理创伤](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%B9%B8%E5%AD%98%E5%84%BF%E7%AB%A5%E5%8F%97%E4%B8%A5%E9%87%8D%E5%BF%83%E7%90%86%E5%88%9B%E4%BC%A4%23&Refer=top)
+
+1. [姜潮方回应麦迪娜怀二胎](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E6%BD%AE%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BA%A6%E8%BF%AA%E5%A8%9C%E6%80%80%E4%BA%8C%E8%83%8E%23&Refer=top)
+
+1. [董子健自制压缩米饭](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E8%87%AA%E5%88%B6%E5%8E%8B%E7%BC%A9%E7%B1%B3%E9%A5%AD%23&Refer=top)
+
+1. [脑瘫小伙用牙咬80斤重物干活](https://s.weibo.com//weibo?q=%23%E8%84%91%E7%98%AB%E5%B0%8F%E4%BC%99%E7%94%A8%E7%89%99%E5%92%AC80%E6%96%A4%E9%87%8D%E7%89%A9%E5%B9%B2%E6%B4%BB%23&Refer=top)
+
+1. [星巴克APP崩了](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8BAPP%E5%B4%A9%E4%BA%86%23&Refer=top)
+
+1. [怎么制止猫开旋转把手的门](https://s.weibo.com//weibo?q=%23%E6%80%8E%E4%B9%88%E5%88%B6%E6%AD%A2%E7%8C%AB%E5%BC%80%E6%97%8B%E8%BD%AC%E6%8A%8A%E6%89%8B%E7%9A%84%E9%97%A8%23&Refer=top)
+
+1. [看不到脸的镜子](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%B8%8D%E5%88%B0%E8%84%B8%E7%9A%84%E9%95%9C%E5%AD%90%23&Refer=top)
+
+1. [印度议员自称每天喝牛尿所以没得新冠](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%AE%AE%E5%91%98%E8%87%AA%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%96%9D%E7%89%9B%E5%B0%BF%E6%89%80%E4%BB%A5%E6%B2%A1%E5%BE%97%E6%96%B0%E5%86%A0%23&Refer=top)
+
+1. [墨西哥总统为110年前托雷翁惨案道歉](https://s.weibo.com//weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E4%B8%BA110%E5%B9%B4%E5%89%8D%E6%89%98%E9%9B%B7%E7%BF%81%E6%83%A8%E6%A1%88%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [中国航天的那些年轻人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%9A%84%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top)
+
+1. [湖南平江520不办离婚公告将撤回](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%B9%B3%E6%B1%9F520%E4%B8%8D%E5%8A%9E%E7%A6%BB%E5%A9%9A%E5%85%AC%E5%91%8A%E5%B0%86%E6%92%A4%E5%9B%9E%23&Refer=top)
+
+1. [天和核心舱凌月画面](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%92%8C%E6%A0%B8%E5%BF%83%E8%88%B1%E5%87%8C%E6%9C%88%E7%94%BB%E9%9D%A2%23&Refer=top)
 
