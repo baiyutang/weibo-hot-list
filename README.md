@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 11:20:44
+## 微博今日热榜 更新于 2021-05-18 12:14:37
 1. [博物馆文物喊你去蹦迪](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E6%96%87%E7%89%A9%E5%96%8A%E4%BD%A0%E5%8E%BB%E8%B9%A6%E8%BF%AA%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
@@ -218,4 +218,28 @@
 1. [深圳倡议扫码消费不用关注公号](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E6%89%AB%E7%A0%81%E6%B6%88%E8%B4%B9%E4%B8%8D%E7%94%A8%E5%85%B3%E6%B3%A8%E5%85%AC%E5%8F%B7%23&Refer=top)
 
 1. [精灵旅社4预告](https://s.weibo.com//weibo?q=%23%E7%B2%BE%E7%81%B5%E6%97%85%E7%A4%BE4%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [王嘉尔倒车入库成驾校反面教材](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%80%92%E8%BD%A6%E5%85%A5%E5%BA%93%E6%88%90%E9%A9%BE%E6%A0%A1%E5%8F%8D%E9%9D%A2%E6%95%99%E6%9D%90%23&Refer=top)
+
+1. [女童被邻居绑架致死两被告获死刑](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%82%BB%E5%B1%85%E7%BB%91%E6%9E%B6%E8%87%B4%E6%AD%BB%E4%B8%A4%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [辽宁营口检出7个环境阳性样本](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E6%A3%80%E5%87%BA7%E4%B8%AA%E7%8E%AF%E5%A2%83%E9%98%B3%E6%80%A7%E6%A0%B7%E6%9C%AC%23&Refer=top)
+
+1. [GFriend将解散](https://s.weibo.com//weibo?q=%23GFriend%E5%B0%86%E8%A7%A3%E6%95%A3%23&Refer=top)
+
+1. [虞书欣新歌初礼来了](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E6%AD%8C%E5%88%9D%E7%A4%BC%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [近4万名巴勒斯坦人申请联合国避难](https://s.weibo.com//weibo?q=%23%E8%BF%914%E4%B8%87%E5%90%8D%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E7%94%B3%E8%AF%B7%E8%81%94%E5%90%88%E5%9B%BD%E9%81%BF%E9%9A%BE%23&Refer=top)
+
+1. [伯贤正脸训练照](https://s.weibo.com//weibo?q=%23%E4%BC%AF%E8%B4%A4%E6%AD%A3%E8%84%B8%E8%AE%AD%E7%BB%83%E7%85%A7%23&Refer=top)
+
+1. [赵少康称台湾方舱医院可以叫圆舱](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%B0%91%E5%BA%B7%E7%A7%B0%E5%8F%B0%E6%B9%BE%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E5%8F%AF%E4%BB%A5%E5%8F%AB%E5%9C%86%E8%88%B1%23&Refer=top)
+
+1. [一个驾校教练的记仇本](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E7%9A%84%E8%AE%B0%E4%BB%87%E6%9C%AC%23&Refer=top)
+
+1. [速激9主演连麦直播](https://s.weibo.com//weibo?q=%23%E9%80%9F%E6%BF%809%E4%B8%BB%E6%BC%94%E8%BF%9E%E9%BA%A6%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
+
+1. [婴儿产品现双保质期且相差8年](https://s.weibo.com//weibo?q=%23%E5%A9%B4%E5%84%BF%E4%BA%A7%E5%93%81%E7%8E%B0%E5%8F%8C%E4%BF%9D%E8%B4%A8%E6%9C%9F%E4%B8%94%E7%9B%B8%E5%B7%AE8%E5%B9%B4%23&Refer=top)
 
