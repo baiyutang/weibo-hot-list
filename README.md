@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 06:05:26
+## 微博今日热榜 更新于 2021-05-19 07:06:41
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [田村正和去世](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9D%91%E6%AD%A3%E5%92%8C%E5%8E%BB%E4%B8%96%23&Refer=top)
@@ -112,4 +112,10 @@
 1. [热依扎问岳云鹏用我帮你吗](https://s.weibo.com//weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E9%97%AE%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%94%A8%E6%88%91%E5%B8%AE%E4%BD%A0%E5%90%97%23&Refer=top)
 
 1. [台州遭特斯拉撞击交警1人牺牲](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%B7%9E%E9%81%AD%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E5%87%BB%E4%BA%A4%E8%AD%A61%E4%BA%BA%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [进村东北虎成功放归自然](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E6%88%90%E5%8A%9F%E6%94%BE%E5%BD%92%E8%87%AA%E7%84%B6%23&Refer=new_time)
+
+1. [Twins微博直播](https://s.weibo.com//weibo?q=%23Twins%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [北京打雷](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%89%93%E9%9B%B7&Refer=top)
 
