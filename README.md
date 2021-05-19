@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 12:11:11
+## 微博今日热榜 更新于 2021-05-19 13:14:10
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [田村正和去世](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9D%91%E6%AD%A3%E5%92%8C%E5%8E%BB%E4%B8%96%23&Refer=top)
@@ -258,4 +258,34 @@
 1. [飞机延误怎么正确维权](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF%E6%80%8E%E4%B9%88%E6%AD%A3%E7%A1%AE%E7%BB%B4%E6%9D%83%23&Refer=top)
 
 1. [大雄想再见奶奶一面](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%9B%84%E6%83%B3%E5%86%8D%E8%A7%81%E5%A5%B6%E5%A5%B6%E4%B8%80%E9%9D%A2%23&Refer=top)
+
+1. [印度一男子在树上隔离11天](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E6%A0%91%E4%B8%8A%E9%9A%94%E7%A6%BB11%E5%A4%A9%23&Refer=top)
+
+1. [内蒙古文旅厅副厅长李晓秋自杀身亡](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E6%96%87%E6%97%85%E5%8E%85%E5%89%AF%E5%8E%85%E9%95%BF%E6%9D%8E%E6%99%93%E7%A7%8B%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [爱奇艺CEO称会费涨价是行业必然趋势](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BACEO%E7%A7%B0%E4%BC%9A%E8%B4%B9%E6%B6%A8%E4%BB%B7%E6%98%AF%E8%A1%8C%E4%B8%9A%E5%BF%85%E7%84%B6%E8%B6%8B%E5%8A%BF%23&Refer=top)
+
+1. [顾川姜小宁分手](https://s.weibo.com//weibo?q=%23%E9%A1%BE%E5%B7%9D%E5%A7%9C%E5%B0%8F%E5%AE%81%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [南京设计师辞职创业用钉子作画](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%BE%9E%E8%81%8C%E5%88%9B%E4%B8%9A%E7%94%A8%E9%92%89%E5%AD%90%E4%BD%9C%E7%94%BB%23&Refer=top)
+
+1. [没点文化都不敢结婚了](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E7%82%B9%E6%96%87%E5%8C%96%E9%83%BD%E4%B8%8D%E6%95%A2%E7%BB%93%E5%A9%9A%E4%BA%86%23&Refer=top)
+
+1. [江苏警方通报两名男子坠楼身亡](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%A4%E5%90%8D%E7%94%B7%E5%AD%90%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [巴勒斯坦人与以色列部队爆发冲突](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%98%9F%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23&Refer=top)
+
+1. [浙江出现今年范围最广大雨暴雨天气](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%87%BA%E7%8E%B0%E4%BB%8A%E5%B9%B4%E8%8C%83%E5%9B%B4%E6%9C%80%E5%B9%BF%E5%A4%A7%E9%9B%A8%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%94%23&Refer=top)
+
+1. [人间超模水](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E9%97%B4%E8%B6%85%E6%A8%A1%E6%B0%B4%23&Refer=top)
+
+1. [比特币跌破4万美元](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B44%E4%B8%87%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [雪碧冰镇小龙虾](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E7%A2%A7%E5%86%B0%E9%95%87%E5%B0%8F%E9%BE%99%E8%99%BE%23&Refer=top)
+
+1. [婚姻登记跨省通办](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E8%B7%A8%E7%9C%81%E9%80%9A%E5%8A%9E%23&Refer=top)
+
+1. [包茂高速一客车侧翻致2死38伤](https://s.weibo.com//weibo?q=%23%E5%8C%85%E8%8C%82%E9%AB%98%E9%80%9F%E4%B8%80%E5%AE%A2%E8%BD%A6%E4%BE%A7%E7%BF%BB%E8%87%B42%E6%AD%BB38%E4%BC%A4%23&Refer=top)
+
+1. [商家销售假冒星巴克被判赔2172万](https://s.weibo.com//weibo?q=%23%E5%95%86%E5%AE%B6%E9%94%80%E5%94%AE%E5%81%87%E5%86%92%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E5%88%A4%E8%B5%942172%E4%B8%87%23&Refer=top)
 
