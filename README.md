@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 11:15:26
+## 微博今日热榜 更新于 2021-05-19 12:11:11
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [田村正和去世](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9D%91%E6%AD%A3%E5%92%8C%E5%8E%BB%E4%B8%96%23&Refer=top)
@@ -232,4 +232,30 @@
 1. [AI技术1秒识别20个假大牌](https://s.weibo.com//weibo?q=%23AI%E6%8A%80%E6%9C%AF1%E7%A7%92%E8%AF%86%E5%88%AB20%E4%B8%AA%E5%81%87%E5%A4%A7%E7%89%8C%23&Refer=top)
 
 1. [陕西窑洞假发热销好莱坞](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E7%AA%91%E6%B4%9E%E5%81%87%E5%8F%91%E7%83%AD%E9%94%80%E5%A5%BD%E8%8E%B1%E5%9D%9E%23&Refer=top)
+
+1. [9组数据告诉你各地疫苗接种进展](https://s.weibo.com//weibo?q=%239%E7%BB%84%E6%95%B0%E6%8D%AE%E5%91%8A%E8%AF%89%E4%BD%A0%E5%90%84%E5%9C%B0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%BF%9B%E5%B1%95%23&Refer=new_time)
+
+1. [特朗普集团遭刑事调查](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E5%9B%A2%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5%23&Refer=top)
+
+1. [我的高傲已经尽数体现了](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E9%AB%98%E5%82%B2%E5%B7%B2%E7%BB%8F%E5%B0%BD%E6%95%B0%E4%BD%93%E7%8E%B0%E4%BA%86&Refer=top)
+
+1. [冷战多少天不联系算分手](https://s.weibo.com//weibo?q=%23%E5%86%B7%E6%88%98%E5%A4%9A%E5%B0%91%E5%A4%A9%E4%B8%8D%E8%81%94%E7%B3%BB%E7%AE%97%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [答辩时能有多卑微](https://s.weibo.com//weibo?q=%23%E7%AD%94%E8%BE%A9%E6%97%B6%E8%83%BD%E6%9C%89%E5%A4%9A%E5%8D%91%E5%BE%AE%23&Refer=top)
+
+1. [情侣吵架女子开车顶翻男友](https://s.weibo.com//weibo?q=%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E9%A1%B6%E7%BF%BB%E7%94%B7%E5%8F%8B&Refer=top)
+
+1. [兵马俑也忍不住出雪糕了](https://s.weibo.com//weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E4%B9%9F%E5%BF%8D%E4%B8%8D%E4%BD%8F%E5%87%BA%E9%9B%AA%E7%B3%95%E4%BA%86%23&Refer=top)
+
+1. [捷克总统就轰炸南联盟道歉](https://s.weibo.com//weibo?q=%23%E6%8D%B7%E5%85%8B%E6%80%BB%E7%BB%9F%E5%B0%B1%E8%BD%B0%E7%82%B8%E5%8D%97%E8%81%94%E7%9B%9F%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [大理漾濞3小时内三连震](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%90%86%E6%BC%BE%E6%BF%9E3%E5%B0%8F%E6%97%B6%E5%86%85%E4%B8%89%E8%BF%9E%E9%9C%87%23&Refer=top)
+
+1. [夏天最适合干饭人去的地方](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%9C%80%E9%80%82%E5%90%88%E5%B9%B2%E9%A5%AD%E4%BA%BA%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9%23&Refer=top)
+
+1. [监控中外公亲吻外婆遗像](https://s.weibo.com//weibo?q=%E7%9B%91%E6%8E%A7%E4%B8%AD%E5%A4%96%E5%85%AC%E4%BA%B2%E5%90%BB%E5%A4%96%E5%A9%86%E9%81%97%E5%83%8F&Refer=top)
+
+1. [飞机延误怎么正确维权](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E6%9C%BA%E5%BB%B6%E8%AF%AF%E6%80%8E%E4%B9%88%E6%AD%A3%E7%A1%AE%E7%BB%B4%E6%9D%83%23&Refer=top)
+
+1. [大雄想再见奶奶一面](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%9B%84%E6%83%B3%E5%86%8D%E8%A7%81%E5%A5%B6%E5%A5%B6%E4%B8%80%E9%9D%A2%23&Refer=top)
 
