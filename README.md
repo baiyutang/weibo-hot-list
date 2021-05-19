@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 21:19:26
+## 微博今日热榜 更新于 2021-05-19 22:09:40
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [田村正和去世](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9D%91%E6%AD%A3%E5%92%8C%E5%8E%BB%E4%B8%96%23&Refer=top)
@@ -478,4 +478,22 @@
 1. [清落](https://s.weibo.com//weibo?q=%E6%B8%85%E8%90%BD&Refer=top)
 
 1. [大理漾濞4.4级地震](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%90%86%E6%BC%BE%E6%BF%9E4.4%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [钟南山说未来可能要定期打新冠疫苗](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E8%A6%81%E5%AE%9A%E6%9C%9F%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [币圈崩盘](https://s.weibo.com//weibo?q=%E5%B8%81%E5%9C%88%E5%B4%A9%E7%9B%98&Refer=top)
+
+1. [利路修邀请刘耀文一起散步](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E9%82%80%E8%AF%B7%E5%88%98%E8%80%80%E6%96%87%E4%B8%80%E8%B5%B7%E6%95%A3%E6%AD%A5%23&Refer=top)
+
+1. [医院旁的免费共享厨房](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E6%97%81%E7%9A%84%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%AB%E5%8E%A8%E6%88%BF%23&Refer=top)
+
+1. [庆怜中文听力](https://s.weibo.com//weibo?q=%23%E5%BA%86%E6%80%9C%E4%B8%AD%E6%96%87%E5%90%AC%E5%8A%9B%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [87岁闻玉梅院士接种新冠疫苗](https://s.weibo.com//weibo?q=%2387%E5%B2%81%E9%97%BB%E7%8E%89%E6%A2%85%E9%99%A2%E5%A3%AB%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [币安暂停以太坊和ERC20提款](https://s.weibo.com//weibo?q=%23%E5%B8%81%E5%AE%89%E6%9A%82%E5%81%9C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%92%8CERC20%E6%8F%90%E6%AC%BE%23&Refer=top)
 
