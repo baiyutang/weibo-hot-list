@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-21 00:19:50
+## 微博今日热榜 更新于 2021-05-21 01:43:32
 1. [单针和两针接种新冠疫苗有何区别](https://s.weibo.com//weibo?q=%23%E5%8D%95%E9%92%88%E5%92%8C%E4%B8%A4%E9%92%88%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB%23&Refer=new_time)
 
 1. [唐嫣生图](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E7%94%9F%E5%9B%BE%23&Refer=top)
@@ -106,4 +106,20 @@
 1. [阴阳师咒术回战联动](https://s.weibo.com//weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E8%81%94%E5%8A%A8%23&Refer=top)
 
 1. [利拉德怒喷格林](https://s.weibo.com//weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E6%80%92%E5%96%B7%E6%A0%BC%E6%9E%97%23&Refer=top)
+
+1. [科学家发现2.44亿年前古鱼化石](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B02.44%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E9%B1%BC%E5%8C%96%E7%9F%B3%23&Refer=new_time)
+
+1. [曹县出口棺木占日本市场90%](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E5%8E%BF%E5%87%BA%E5%8F%A3%E6%A3%BA%E6%9C%A8%E5%8D%A0%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA90%25%23&Refer=top)
+
+1. [央视主播谈520最佳表白](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E8%B0%88520%E6%9C%80%E4%BD%B3%E8%A1%A8%E7%99%BD%23&Refer=top)
+
+1. [当舍友买的裙子像手术服](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%88%8D%E5%8F%8B%E4%B9%B0%E7%9A%84%E8%A3%99%E5%AD%90%E5%83%8F%E6%89%8B%E6%9C%AF%E6%9C%8D%23&Refer=top)
+
+1. [陈立农卡点祝王彦霖新婚快乐](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E5%8D%A1%E7%82%B9%E7%A5%9D%E7%8E%8B%E5%BD%A6%E9%9C%96%E6%96%B0%E5%A9%9A%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [成都一婚姻登记处设在火车上](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E8%AE%BE%E5%9C%A8%E7%81%AB%E8%BD%A6%E4%B8%8A%23&Refer=top)
+
+1. [王源锡纸烫渣苏感](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E9%94%A1%E7%BA%B8%E7%83%AB%E6%B8%A3%E8%8B%8F%E6%84%9F%23&Refer=top)
+
+1. [8旬爷爷20年为老伴种满墙凌霄花](https://s.weibo.com//weibo?q=%238%E6%97%AC%E7%88%B7%E7%88%B720%E5%B9%B4%E4%B8%BA%E8%80%81%E4%BC%B4%E7%A7%8D%E6%BB%A1%E5%A2%99%E5%87%8C%E9%9C%84%E8%8A%B1%23&Refer=top)
 
