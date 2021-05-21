@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-21 22:07:08
+## 微博今日热榜 更新于 2021-05-21 23:08:12
 1. [单针和两针接种新冠疫苗有何区别](https://s.weibo.com//weibo?q=%23%E5%8D%95%E9%92%88%E5%92%8C%E4%B8%A4%E9%92%88%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB%23&Refer=new_time)
 
 1. [唐嫣生图](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E7%94%9F%E5%9B%BE%23&Refer=top)
@@ -492,4 +492,26 @@
 1. [张雨绮对利路修说你保护我一下](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%AF%B9%E5%88%A9%E8%B7%AF%E4%BF%AE%E8%AF%B4%E4%BD%A0%E4%BF%9D%E6%8A%A4%E6%88%91%E4%B8%80%E4%B8%8B%23&Refer=top)
 
 1. [RNG PSG](https://s.weibo.com//weibo?q=%23RNG%20PSG%23&Refer=top)
+
+1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [云南大理连发多次地震](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&Refer=top)
+
+1. [地震预警](https://s.weibo.com//weibo?q=%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [比特币大跌](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%A4%A7%E8%B7%8C%23&Refer=top)
+
+1. [被淹没71年的意大利村庄重见天日](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%B7%B9%E6%B2%A171%E5%B9%B4%E7%9A%84%E6%84%8F%E5%A4%A7%E5%88%A9%E6%9D%91%E5%BA%84%E9%87%8D%E8%A7%81%E5%A4%A9%E6%97%A5%23&Refer=top)
+
+1. [4AM单日四鸡](https://s.weibo.com//weibo?q=%234AM%E5%8D%95%E6%97%A5%E5%9B%9B%E9%B8%A1%23&Refer=top)
+
+1. [52只企鹅创收2188万](https://s.weibo.com//weibo?q=%2352%E5%8F%AA%E4%BC%81%E9%B9%85%E5%88%9B%E6%94%B62188%E4%B8%87%23&Refer=top)
+
+1. [全球唯一棕色大熊猫要跟大家见面了](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E6%A3%95%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%A6%81%E8%B7%9F%E5%A4%A7%E5%AE%B6%E8%A7%81%E9%9D%A2%E4%BA%86%23&Refer=top)
+
+1. [宋雨琦回归奔跑吧](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7%23&Refer=top)
+
+1. [月光变奏曲](https://s.weibo.com//weibo?q=%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2&Refer=top)
+
+1. [台确诊者出现在抢购物资现场](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E7%A1%AE%E8%AF%8A%E8%80%85%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%8A%A2%E8%B4%AD%E7%89%A9%E8%B5%84%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
