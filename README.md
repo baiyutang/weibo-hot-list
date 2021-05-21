@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-22 01:40:20
+## 微博今日热榜 更新于 2021-05-22 02:25:09
 1. [接种新冠疫苗是必答题](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%98%AF%E5%BF%85%E7%AD%94%E9%A2%98%23&Refer=new_time)
 
 1. [杨紫张艺兴 有点好嗑](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%9C%89%E7%82%B9%E5%A5%BD%E5%97%91&Refer=top)
@@ -138,4 +138,14 @@
 1. [张惠妹唱功](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%83%A0%E5%A6%B9%E5%94%B1%E5%8A%9F&Refer=top)
 
 1. [MSI](https://s.weibo.com//weibo?q=%23MSI%23&Refer=top)
+
+1. [互联护苗](https://s.weibo.com//weibo?q=%23%E4%BA%92%E8%81%94%E6%8A%A4%E8%8B%97%23&Refer=new_time)
+
+1. [薛之谦嗓子哑了](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%97%93%E5%AD%90%E5%93%91%E4%BA%86%23&Refer=top)
+
+1. [黄觉麦子十年情书](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%A7%89%E9%BA%A6%E5%AD%90%E5%8D%81%E5%B9%B4%E6%83%85%E4%B9%A6%23&Refer=top)
+
+1. [青海发生7.4级地震](https://s.weibo.com//weibo?q=%E9%9D%92%E6%B5%B7%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [昆明震感](https://s.weibo.com//weibo?q=%23%E6%98%86%E6%98%8E%E9%9C%87%E6%84%9F%23&Refer=top)
 
