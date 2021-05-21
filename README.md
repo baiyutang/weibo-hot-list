@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-21 17:07:33
+## 微博今日热榜 更新于 2021-05-21 18:08:50
 1. [单针和两针接种新冠疫苗有何区别](https://s.weibo.com//weibo?q=%23%E5%8D%95%E9%92%88%E5%92%8C%E4%B8%A4%E9%92%88%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB%23&Refer=new_time)
 
 1. [唐嫣生图](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E7%94%9F%E5%9B%BE%23&Refer=top)
@@ -368,4 +368,22 @@
 1. [竟然以这种方式和王俊凯对视](https://s.weibo.com//weibo?q=%23%E7%AB%9F%E7%84%B6%E4%BB%A5%E8%BF%99%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%92%8C%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AF%B9%E8%A7%86%23&Refer=top)
 
 1. [一条公路见证中巴友谊](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%9D%A1%E5%85%AC%E8%B7%AF%E8%A7%81%E8%AF%81%E4%B8%AD%E5%B7%B4%E5%8F%8B%E8%B0%8A%23&Refer=top)
+
+1. [澳洲爆发四十年来最严重鼠灾](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E5%9B%9B%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E9%BC%A0%E7%81%BE%23&Refer=top)
+
+1. [赵立坚用乌尔都语祝中巴友谊万岁](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%94%A8%E4%B9%8C%E5%B0%94%E9%83%BD%E8%AF%AD%E7%A5%9D%E4%B8%AD%E5%B7%B4%E5%8F%8B%E8%B0%8A%E4%B8%87%E5%B2%81%23&Refer=top)
+
+1. [赵立坚批台当局借疫情搞两个中国](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E6%89%B9%E5%8F%B0%E5%BD%93%E5%B1%80%E5%80%9F%E7%96%AB%E6%83%85%E6%90%9E%E4%B8%A4%E4%B8%AA%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [瑞幸回应不同门店价格不同](https://s.weibo.com//weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%90%8C%E9%97%A8%E5%BA%97%E4%BB%B7%E6%A0%BC%E4%B8%8D%E5%90%8C%23&Refer=top)
+
+1. [张杰用保温杯当话筒唱歌](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E4%BF%9D%E6%B8%A9%E6%9D%AF%E5%BD%93%E8%AF%9D%E7%AD%92%E5%94%B1%E6%AD%8C%23&Refer=top)
+
+1. [赞多米卡跳舞](https://s.weibo.com//weibo?q=%23%E8%B5%9E%E5%A4%9A%E7%B1%B3%E5%8D%A1%E8%B7%B3%E8%88%9E%23&Refer=top)
+
+1. [马斯克称未来所有交通工具都将是电动](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%89%80%E6%9C%89%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7%E9%83%BD%E5%B0%86%E6%98%AF%E7%94%B5%E5%8A%A8%23&Refer=top)
+
+1. [教资面试遇到的社死现场](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E9%81%87%E5%88%B0%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [安徽新增感染均由摄影培训引起](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E5%9D%87%E7%94%B1%E6%91%84%E5%BD%B1%E5%9F%B9%E8%AE%AD%E5%BC%95%E8%B5%B7%23&Refer=top)
 
