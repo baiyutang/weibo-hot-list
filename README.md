@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-22 18:06:33
+## 微博今日热榜 更新于 2021-05-22 19:04:25
 1. [接种新冠疫苗是必答题](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%98%AF%E5%BF%85%E7%AD%94%E9%A2%98%23&Refer=new_time)
 
 1. [杨紫张艺兴 有点好嗑](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%9C%89%E7%82%B9%E5%A5%BD%E5%97%91&Refer=top)
@@ -400,4 +400,14 @@
 1. [航拍震后青海玛多县](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E9%9C%87%E5%90%8E%E9%9D%92%E6%B5%B7%E7%8E%9B%E5%A4%9A%E5%8E%BF%23&Refer=top)
 
 1. [市民街头自发送别袁老](https://s.weibo.com//weibo?q=%E5%B8%82%E6%B0%91%E8%A1%97%E5%A4%B4%E8%87%AA%E5%8F%91%E9%80%81%E5%88%AB%E8%A2%81%E8%80%81&Refer=top)
+
+1. [曾获袁隆平赠书的小学生再写信](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%8E%B7%E8%A2%81%E9%9A%86%E5%B9%B3%E8%B5%A0%E4%B9%A6%E7%9A%84%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%86%8D%E5%86%99%E4%BF%A1%23&Refer=top)
+
+1. [厦门七彩云](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%83%E5%BD%A9%E4%BA%91%23&Refer=top)
+
+1. [消防员手指顶孩子牙齿做人工呼吸](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%89%8B%E6%8C%87%E9%A1%B6%E5%AD%A9%E5%AD%90%E7%89%99%E9%BD%BF%E5%81%9A%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%23&Refer=top)
+
+1. [钟南山悼念袁隆平](https://s.weibo.com//weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E6%82%BC%E5%BF%B5%E8%A2%81%E9%9A%86%E5%B9%B3&Refer=top)
+
+1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
 
