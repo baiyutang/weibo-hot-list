@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-22 12:15:40
+## 微博今日热榜 更新于 2021-05-22 13:17:28
 1. [接种新冠疫苗是必答题](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%98%AF%E5%BF%85%E7%AD%94%E9%A2%98%23&Refer=new_time)
 
 1. [杨紫张艺兴 有点好嗑](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%9C%89%E7%82%B9%E5%A5%BD%E5%97%91&Refer=top)
@@ -266,4 +266,20 @@
 1. [文在寅访美与拜登会面](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%9C%A8%E5%AF%85%E8%AE%BF%E7%BE%8E%E4%B8%8E%E6%8B%9C%E7%99%BB%E4%BC%9A%E9%9D%A2%23&Refer=top)
 
 1. [勇士无缘季后赛](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%E6%97%A0%E7%BC%98%E5%AD%A3%E5%90%8E%E8%B5%9B&Refer=top)
+
+1. [CGTN道歉](https://s.weibo.com//weibo?q=%23CGTN%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [心疼库里](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%BA%93%E9%87%8C%23&Refer=top)
+
+1. [重庆人出门怎么赶轻轨](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%BA%BA%E5%87%BA%E9%97%A8%E6%80%8E%E4%B9%88%E8%B5%B6%E8%BD%BB%E8%BD%A8%23&Refer=top)
+
+1. [格林错失绝杀](https://s.weibo.com//weibo?q=%23%E6%A0%BC%E6%9E%97%E9%94%99%E5%A4%B1%E7%BB%9D%E6%9D%80%23&Refer=top)
+
+1. [沪牌拍卖](https://s.weibo.com//weibo?q=%E6%B2%AA%E7%89%8C%E6%8B%8D%E5%8D%96&Refer=top)
+
+1. [山东事业编考试](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E4%BA%8B%E4%B8%9A%E7%BC%96%E8%80%83%E8%AF%95&Refer=top)
+
+1. [民警背伤者徒步3公里就医](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E8%83%8C%E4%BC%A4%E8%80%85%E5%BE%92%E6%AD%A53%E5%85%AC%E9%87%8C%E5%B0%B1%E5%8C%BB%23&Refer=top)
+
+1. [虞书欣安崎不知道THE9发新歌](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%AE%89%E5%B4%8E%E4%B8%8D%E7%9F%A5%E9%81%93THE9%E5%8F%91%E6%96%B0%E6%AD%8C&Refer=top)
 
