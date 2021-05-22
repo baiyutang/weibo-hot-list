@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-23 05:03:39
+## 微博今日热榜 更新于 2021-05-23 06:04:09
 1. [送别国之脊梁袁隆平](https://s.weibo.com//weibo?q=%23%E9%80%81%E5%88%AB%E5%9B%BD%E4%B9%8B%E8%84%8A%E6%A2%81%E8%A2%81%E9%9A%86%E5%B9%B3%23&Refer=new_time)
 
 1. [袁隆平遗照确定](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E9%81%97%E7%85%A7%E7%A1%AE%E5%AE%9A%23&Refer=top)
