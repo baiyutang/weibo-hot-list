@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-24 01:36:56
+## 微博今日热榜 更新于 2021-05-24 02:21:07
 1. [这颗星永远不会陨落](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A2%97%E6%98%9F%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E9%99%A8%E8%90%BD%23&Refer=new_time)
 
 1. [牧羊人连救六名山地越野赛选手](https://s.weibo.com//weibo?q=%23%E7%89%A7%E7%BE%8A%E4%BA%BA%E8%BF%9E%E6%95%91%E5%85%AD%E5%90%8D%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%B5%9B%E9%80%89%E6%89%8B%23&Refer=top)
@@ -116,4 +116,20 @@
 1. [为什么中国式父母不爱夸孩子](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%88%B6%E6%AF%8D%E4%B8%8D%E7%88%B1%E5%A4%B8%E5%AD%A9%E5%AD%90%23&Refer=top)
 
 1. [骊歌行大结局](https://s.weibo.com//weibo?q=%23%E9%AA%8A%E6%AD%8C%E8%A1%8C%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [祝融来到火星的170小时](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E6%9D%A5%E5%88%B0%E7%81%AB%E6%98%9F%E7%9A%84170%E5%B0%8F%E6%97%B6%23&Refer=new_time)
+
+1. [ShowMaker泣不成声](https://s.weibo.com//weibo?q=ShowMaker%E6%B3%A3%E4%B8%8D%E6%88%90%E5%A3%B0&Refer=top)
+
+1. [Gala FMVP](https://s.weibo.com//weibo?q=Gala%20FMVP&Refer=top)
+
+1. [英超](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%B6%85&Refer=top)
+
+1. [小虎的酒桶](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%99%8E%E7%9A%84%E9%85%92%E6%A1%B6&Refer=top)
+
+1. [绿色的雨](https://s.weibo.com//weibo?q=%E7%BB%BF%E8%89%B2%E7%9A%84%E9%9B%A8&Refer=top)
+
+1. [全球最大铜生产商近40%产量面临风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%93%9C%E7%94%9F%E4%BA%A7%E5%95%86%E8%BF%9140%25%E4%BA%A7%E9%87%8F%E9%9D%A2%E4%B8%B4%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [欢迎回到被RNG统治的时代](https://s.weibo.com//weibo?q=%E6%AC%A2%E8%BF%8E%E5%9B%9E%E5%88%B0%E8%A2%ABRNG%E7%BB%9F%E6%B2%BB%E7%9A%84%E6%97%B6%E4%BB%A3&Refer=top)
 
