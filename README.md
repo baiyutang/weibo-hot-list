@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-24 02:21:07
+## 微博今日热榜 更新于 2021-05-24 03:17:14
 1. [这颗星永远不会陨落](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A2%97%E6%98%9F%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E9%99%A8%E8%90%BD%23&Refer=new_time)
 
 1. [牧羊人连救六名山地越野赛选手](https://s.weibo.com//weibo?q=%23%E7%89%A7%E7%BE%8A%E4%BA%BA%E8%BF%9E%E6%95%91%E5%85%AD%E5%90%8D%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%B5%9B%E9%80%89%E6%89%8B%23&Refer=top)
@@ -132,4 +132,10 @@
 1. [全球最大铜生产商近40%产量面临风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%93%9C%E7%94%9F%E4%BA%A7%E5%95%86%E8%BF%9140%25%E4%BA%A7%E9%87%8F%E9%9D%A2%E4%B8%B4%E9%A3%8E%E9%99%A9%23&Refer=top)
 
 1. [欢迎回到被RNG统治的时代](https://s.weibo.com//weibo?q=%E6%AC%A2%E8%BF%8E%E5%9B%9E%E5%88%B0%E8%A2%ABRNG%E7%BB%9F%E6%B2%BB%E7%9A%84%E6%97%B6%E4%BB%A3&Refer=top)
+
+1. [Cryin的卢锡安](https://s.weibo.com//weibo?q=Cryin%E7%9A%84%E5%8D%A2%E9%94%A1%E5%AE%89&Refer=top)
+
+1. [御赐小仵作](https://s.weibo.com//weibo?q=%E5%BE%A1%E8%B5%90%E5%B0%8F%E4%BB%B5%E4%BD%9C&Refer=top)
+
+1. [RNG先下一城](https://s.weibo.com//weibo?q=%23RNG%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&Refer=top)
 
