@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-24 00:13:31
+## 微博今日热榜 更新于 2021-05-24 01:36:56
 1. [这颗星永远不会陨落](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A2%97%E6%98%9F%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E9%99%A8%E8%90%BD%23&Refer=new_time)
 
 1. [牧羊人连救六名山地越野赛选手](https://s.weibo.com//weibo?q=%23%E7%89%A7%E7%BE%8A%E4%BA%BA%E8%BF%9E%E6%95%91%E5%85%AD%E5%90%8D%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%B5%9B%E9%80%89%E6%89%8B%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [两个互相观察的小朋友](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%92%E7%9B%B8%E8%A7%82%E5%AF%9F%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top)
 
 1. [军队文职考试](https://s.weibo.com//weibo?q=%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%E8%80%83%E8%AF%95&Refer=top)
+
+1. [9个关键词看西藏了不起的70年](https://s.weibo.com//weibo?q=%239%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E8%A5%BF%E8%97%8F%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%8470%E5%B9%B4%23&Refer=new_time)
+
+1. [RNG夺冠](https://s.weibo.com//weibo?q=RNG%E5%A4%BA%E5%86%A0&Refer=top)
+
+1. [Ghost小炮五杀](https://s.weibo.com//weibo?q=Ghost%E5%B0%8F%E7%82%AE%E4%BA%94%E6%9D%80&Refer=top)
+
+1. [为什么中国式父母不爱夸孩子](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%88%B6%E6%AF%8D%E4%B8%8D%E7%88%B1%E5%A4%B8%E5%AD%A9%E5%AD%90%23&Refer=top)
+
+1. [骊歌行大结局](https://s.weibo.com//weibo?q=%23%E9%AA%8A%E6%AD%8C%E8%A1%8C%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
 
