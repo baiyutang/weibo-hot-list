@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-23 15:13:24
+## 微博今日热榜 更新于 2021-05-23 16:06:11
 1. [送别国之脊梁袁隆平](https://s.weibo.com//weibo?q=%23%E9%80%81%E5%88%AB%E5%9B%BD%E4%B9%8B%E8%84%8A%E6%A2%81%E8%A2%81%E9%9A%86%E5%B9%B3%23&Refer=new_time)
 
 1. [袁隆平遗照确定](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E9%81%97%E7%85%A7%E7%A1%AE%E5%AE%9A%23&Refer=top)
@@ -286,4 +286,12 @@
 1. [跑友呼吁山地越野赛事应单独审批](https://s.weibo.com//weibo?q=%23%E8%B7%91%E5%8F%8B%E5%91%BC%E5%90%81%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%B5%9B%E4%BA%8B%E5%BA%94%E5%8D%95%E7%8B%AC%E5%AE%A1%E6%89%B9%23&Refer=top)
 
 1. [东风快递超燃MV新征程](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E8%B6%85%E7%87%83MV%E6%96%B0%E5%BE%81%E7%A8%8B%23&Refer=top)
+
+1. [见过最离谱的毕业论文致谢](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2%23&Refer=top)
+
+1. [当小朋友见到肌肉猛男](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%A7%81%E5%88%B0%E8%82%8C%E8%82%89%E7%8C%9B%E7%94%B7%23&Refer=top)
+
+1. [大佬坐姿的猫咪](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%BD%AC%E5%9D%90%E5%A7%BF%E7%9A%84%E7%8C%AB%E5%92%AA%23&Refer=top)
+
+1. [六安霍邱县一工地塌方致3人死亡](https://s.weibo.com//weibo?q=%23%E5%85%AD%E5%AE%89%E9%9C%8D%E9%82%B1%E5%8E%BF%E4%B8%80%E5%B7%A5%E5%9C%B0%E5%A1%8C%E6%96%B9%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
 
