@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-25 05:04:19
+## 微博今日热榜 更新于 2021-05-25 06:06:26
 1. [风吹过稻田我就想起你](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E5%90%B9%E8%BF%87%E7%A8%BB%E7%94%B0%E6%88%91%E5%B0%B1%E6%83%B3%E8%B5%B7%E4%BD%A0%23&Refer=new_time)
 
 1. [618预售](https://s.weibo.com//weibo?q=%23618%E9%A2%84%E5%94%AE%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [外交部回应美韩声明提及台湾](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E9%9F%A9%E5%A3%B0%E6%98%8E%E6%8F%90%E5%8F%8A%E5%8F%B0%E6%B9%BE%23&Refer=top)
 
 1. [吴孟超灵堂放的是国际歌](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AD%9F%E8%B6%85%E7%81%B5%E5%A0%82%E6%94%BE%E7%9A%84%E6%98%AF%E5%9B%BD%E9%99%85%E6%AD%8C%23&Refer=top)
+
+1. [大连轿车撞人逃逸肇事者系报复社会](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E8%BD%BF%E8%BD%A6%E6%92%9E%E4%BA%BA%E9%80%83%E9%80%B8%E8%82%87%E4%BA%8B%E8%80%85%E7%B3%BB%E6%8A%A5%E5%A4%8D%E7%A4%BE%E4%BC%9A%23&Refer=top)
 
