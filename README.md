@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-25 03:26:31
+## 微博今日热榜 更新于 2021-05-25 04:06:56
 1. [风吹过稻田我就想起你](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E5%90%B9%E8%BF%87%E7%A8%BB%E7%94%B0%E6%88%91%E5%B0%B1%E6%83%B3%E8%B5%B7%E4%BD%A0%23&Refer=new_time)
 
 1. [618预售](https://s.weibo.com//weibo?q=%23618%E9%A2%84%E5%94%AE%23&Refer=top)
@@ -112,4 +112,8 @@
 1. [学生追车惜别凉山支教老师](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%BF%BD%E8%BD%A6%E6%83%9C%E5%88%AB%E5%87%89%E5%B1%B1%E6%94%AF%E6%95%99%E8%80%81%E5%B8%88%23&Refer=top)
 
 1. [苏伊士运河搁浅货轮遭58.9亿元索赔](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E6%90%81%E6%B5%85%E8%B4%A7%E8%BD%AE%E9%81%AD58.9%E4%BA%BF%E5%85%83%E7%B4%A2%E8%B5%94%23&Refer=top)
+
+1. [传承的决心如稻穗饱满](https://s.weibo.com//weibo?q=%23%E4%BC%A0%E6%89%BF%E7%9A%84%E5%86%B3%E5%BF%83%E5%A6%82%E7%A8%BB%E7%A9%97%E9%A5%B1%E6%BB%A1%23&Refer=new_time)
+
+1. [外交部回应美韩声明提及台湾](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E9%9F%A9%E5%A3%B0%E6%98%8E%E6%8F%90%E5%8F%8A%E5%8F%B0%E6%B9%BE%23&Refer=top)
 
