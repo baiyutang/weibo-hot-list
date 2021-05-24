@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-25 06:06:26
+## 微博今日热榜 更新于 2021-05-25 07:04:02
 1. [风吹过稻田我就想起你](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E5%90%B9%E8%BF%87%E7%A8%BB%E7%94%B0%E6%88%91%E5%B0%B1%E6%83%B3%E8%B5%B7%E4%BD%A0%23&Refer=new_time)
 
 1. [618预售](https://s.weibo.com//weibo?q=%23618%E9%A2%84%E5%94%AE%23&Refer=top)
