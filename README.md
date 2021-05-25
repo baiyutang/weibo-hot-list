@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-25 11:34:49
+## 微博今日热榜 更新于 2021-05-25 12:25:55
 1. [风吹过稻田我就想起你](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E5%90%B9%E8%BF%87%E7%A8%BB%E7%94%B0%E6%88%91%E5%B0%B1%E6%83%B3%E8%B5%B7%E4%BD%A0%23&Refer=new_time)
 
 1. [618预售](https://s.weibo.com//weibo?q=%23618%E9%A2%84%E5%94%AE%23&Refer=top)
@@ -240,4 +240,22 @@
 1. [阿里扎恶意犯规](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E6%89%8E%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84%23&Refer=top)
 
 1. [9省区市79条河流发生超警洪水](https://s.weibo.com//weibo?q=%239%E7%9C%81%E5%8C%BA%E5%B8%8279%E6%9D%A1%E6%B2%B3%E6%B5%81%E5%8F%91%E7%94%9F%E8%B6%85%E8%AD%A6%E6%B4%AA%E6%B0%B4%23&Refer=top)
+
+1. [120秒回顾吴孟超的一生医者心](https://s.weibo.com//weibo?q=%23120%E7%A7%92%E5%9B%9E%E9%A1%BE%E5%90%B4%E5%AD%9F%E8%B6%85%E7%9A%84%E4%B8%80%E7%94%9F%E5%8C%BB%E8%80%85%E5%BF%83%23&Refer=new_time)
+
+1. [汪苏泷新恋情](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B0%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [科普袁隆平对杂交水稻的贡献](https://s.weibo.com//weibo?q=%23%E7%A7%91%E6%99%AE%E8%A2%81%E9%9A%86%E5%B9%B3%E5%AF%B9%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%B4%A1%E7%8C%AE%23&Refer=top)
+
+1. [利拉德中圈三分](https://s.weibo.com//weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E4%B8%AD%E5%9C%88%E4%B8%89%E5%88%86%23&Refer=top)
+
+1. [日本印度餐馆每天被问是否有变异病毒](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%B0%E5%BA%A6%E9%A4%90%E9%A6%86%E6%AF%8F%E5%A4%A9%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E6%9C%89%E5%8F%98%E5%BC%82%E7%97%85%E6%AF%92%23&Refer=top)
+
+1. [孙杨第二次听证会为期3天](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A8%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%90%AC%E8%AF%81%E4%BC%9A%E4%B8%BA%E6%9C%9F3%E5%A4%A9%23&Refer=top)
+
+1. [高考誓师大会有多壮观](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E8%AA%93%E5%B8%88%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%A4%9A%E5%A3%AE%E8%A7%82%23&Refer=top)
+
+1. [俄罗斯人用鱼子酱施肥](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E7%94%A8%E9%B1%BC%E5%AD%90%E9%85%B1%E6%96%BD%E8%82%A5%23&Refer=top)
+
+1. [医生针灸扎错人致患者半昏迷](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E9%92%88%E7%81%B8%E6%89%8E%E9%94%99%E4%BA%BA%E8%87%B4%E6%82%A3%E8%80%85%E5%8D%8A%E6%98%8F%E8%BF%B7%23&Refer=top)
 
