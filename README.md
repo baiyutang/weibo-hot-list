@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-26 12:00:10
+## 微博今日热榜 更新于 2021-05-26 13:02:08
 1. [超级红月亮最佳观赏攻略](https://s.weibo.com//weibo?q=%23%E8%B6%85%E7%BA%A7%E7%BA%A2%E6%9C%88%E4%BA%AE%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%94%BB%E7%95%A5%23&Refer=new_time)
 
 1. [为袁隆平拍照24年存500多张照片](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E8%A2%81%E9%9A%86%E5%B9%B3%E6%8B%8D%E7%85%A724%E5%B9%B4%E5%AD%98500%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%23&Refer=top)
@@ -228,4 +228,34 @@
 1. [当代年轻人防剁手正确方式](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%98%B2%E5%89%81%E6%89%8B%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23&Refer=top)
 
 1. [沪指重回3600点](https://s.weibo.com//weibo?q=%23%E6%B2%AA%E6%8C%87%E9%87%8D%E5%9B%9E3600%E7%82%B9%23&Refer=top)
+
+1. [王大陆蔡卓宜拥吻](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E8%94%A1%E5%8D%93%E5%AE%9C%E6%8B%A5%E5%90%BB%23&Refer=top)
+
+1. [钟南山为吴孟超送来花圈挽联](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%BA%E5%90%B4%E5%AD%9F%E8%B6%85%E9%80%81%E6%9D%A5%E8%8A%B1%E5%9C%88%E6%8C%BD%E8%81%94%23&Refer=top)
+
+1. [泰国坠崖案法院认定不构成蓄意谋杀](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E6%A1%88%E6%B3%95%E9%99%A2%E8%AE%A4%E5%AE%9A%E4%B8%8D%E6%9E%84%E6%88%90%E8%93%84%E6%84%8F%E8%B0%8B%E6%9D%80%23&Refer=top)
+
+1. [员工拒绝钉钉打卡遭开除索赔近60万](https://s.weibo.com//weibo?q=%23%E5%91%98%E5%B7%A5%E6%8B%92%E7%BB%9D%E9%92%89%E9%92%89%E6%89%93%E5%8D%A1%E9%81%AD%E5%BC%80%E9%99%A4%E7%B4%A2%E8%B5%94%E8%BF%9160%E4%B8%87%23&Refer=top)
+
+1. [网易云人格主导色](https://s.weibo.com//weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E4%BA%BA%E6%A0%BC%E4%B8%BB%E5%AF%BC%E8%89%B2%23&Refer=top)
+
+1. [第一届电竞专业本科生毕业](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E7%94%B5%E7%AB%9E%E4%B8%93%E4%B8%9A%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%23&Refer=top)
+
+1. [密室大逃脱](https://s.weibo.com//weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1&Refer=top)
+
+1. [利路修自拍照](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E8%87%AA%E6%8B%8D%E7%85%A7%23&Refer=top)
+
+1. [我爱记歌词海峰去世](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%88%B1%E8%AE%B0%E6%AD%8C%E8%AF%8D%E6%B5%B7%E5%B3%B0%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [90后客服画漫画教和老人沟通](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%AE%A2%E6%9C%8D%E7%94%BB%E6%BC%AB%E7%94%BB%E6%95%99%E5%92%8C%E8%80%81%E4%BA%BA%E6%B2%9F%E9%80%9A%23&Refer=top)
+
+1. [独行侠 快船](https://s.weibo.com//weibo?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%20%E5%BF%AB%E8%88%B9&Refer=top)
+
+1. [湖人战胜太阳](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E5%A4%AA%E9%98%B3&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=NBA%E5%AD%A3%E5%90%8E%E8%B5%9B&Refer=top)
+
+1. [雄安被确认为婚俗改革实验区](https://s.weibo.com//weibo?q=%23%E9%9B%84%E5%AE%89%E8%A2%AB%E7%A1%AE%E8%AE%A4%E4%B8%BA%E5%A9%9A%E4%BF%97%E6%94%B9%E9%9D%A9%E5%AE%9E%E9%AA%8C%E5%8C%BA%23&Refer=top)
+
+1. [詹姆斯关键三分](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%85%B3%E9%94%AE%E4%B8%89%E5%88%86&Refer=top)
 
