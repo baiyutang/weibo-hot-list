@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-28 05:11:13
+## 微博今日热榜 更新于 2021-05-28 06:12:26
 1. [彭士禄一生只为两件事](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%A3%AB%E7%A6%84%E4%B8%80%E7%94%9F%E5%8F%AA%E4%B8%BA%E4%B8%A4%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
 
 1. [章若楠否认有高管男友](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%90%A6%E8%AE%A4%E6%9C%89%E9%AB%98%E7%AE%A1%E7%94%B7%E5%8F%8B%23&Refer=top)
