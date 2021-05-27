@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-28 04:16:50
+## 微博今日热榜 更新于 2021-05-28 05:11:13
 1. [彭士禄一生只为两件事](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%A3%AB%E7%A6%84%E4%B8%80%E7%94%9F%E5%8F%AA%E4%B8%BA%E4%B8%A4%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
 
 1. [章若楠否认有高管男友](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%90%A6%E8%AE%A4%E6%9C%89%E9%AB%98%E7%AE%A1%E7%94%B7%E5%8F%8B%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [整容机构诈骗千万12人被刑拘](https://s.weibo.com//weibo?q=%23%E6%95%B4%E5%AE%B9%E6%9C%BA%E6%9E%84%E8%AF%88%E9%AA%97%E5%8D%83%E4%B8%8712%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
 
 1. [青海果洛州玛沁县4.9级地震](https://s.weibo.com//weibo?q=%E9%9D%92%E6%B5%B7%E6%9E%9C%E6%B4%9B%E5%B7%9E%E7%8E%9B%E6%B2%81%E5%8E%BF4.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [哪个瞬间你后悔高考没努力](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%90%8E%E6%82%94%E9%AB%98%E8%80%83%E6%B2%A1%E5%8A%AA%E5%8A%9B%23&Refer=top)
 
