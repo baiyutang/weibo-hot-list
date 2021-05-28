@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-29 05:15:10
+## 微博今日热榜 更新于 2021-05-29 06:15:09
 1. [实现高水平科技自立自强](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%A7%91%E6%8A%80%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%23&Refer=new_time)
 
 1. [杨紫张子枫总结渣男语录](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%80%BB%E7%BB%93%E6%B8%A3%E7%94%B7%E8%AF%AD%E5%BD%95%23&Refer=top)
@@ -116,4 +116,10 @@
 1. [731部队负责人曾是德特里克堡顾问](https://s.weibo.com//weibo?q=%23731%E9%83%A8%E9%98%9F%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%9B%BE%E6%98%AF%E5%BE%B7%E7%89%B9%E9%87%8C%E5%85%8B%E5%A0%A1%E9%A1%BE%E9%97%AE%23&Refer=top)
 
 1. [民法典如何改变生活](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%B3%95%E5%85%B8%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB%23&Refer=new_time)
+
+1. [孙红雷认出合作过的潜伏群演](https://s.weibo.com//weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%AE%A4%E5%87%BA%E5%90%88%E4%BD%9C%E8%BF%87%E7%9A%84%E6%BD%9C%E4%BC%8F%E7%BE%A4%E6%BC%94&Refer=top)
+
+1. [沙溢说黄子韬三分钟不自夸就难受](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E8%AF%B4%E9%BB%84%E5%AD%90%E9%9F%AC%E4%B8%89%E5%88%86%E9%92%9F%E4%B8%8D%E8%87%AA%E5%A4%B8%E5%B0%B1%E9%9A%BE%E5%8F%97%23&Refer=top)
+
+1. [职场中不抱团就站不住脚吗](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%9C%BA%E4%B8%AD%E4%B8%8D%E6%8A%B1%E5%9B%A2%E5%B0%B1%E7%AB%99%E4%B8%8D%E4%BD%8F%E8%84%9A%E5%90%97%23&Refer=top)
 
