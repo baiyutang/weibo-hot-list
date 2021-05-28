@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-28 21:49:25
+## 微博今日热榜 更新于 2021-05-28 22:26:29
 1. [彭士禄一生只为两件事](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%A3%AB%E7%A6%84%E4%B8%80%E7%94%9F%E5%8F%AA%E4%B8%BA%E4%B8%A4%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
 
 1. [章若楠否认有高管男友](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%90%A6%E8%AE%A4%E6%9C%89%E9%AB%98%E7%AE%A1%E7%94%B7%E5%8F%8B%23&Refer=top)
@@ -568,4 +568,28 @@
 1. [张哲瀚说龚俊帮他找调是名场面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E8%AF%B4%E9%BE%9A%E4%BF%8A%E5%B8%AE%E4%BB%96%E6%89%BE%E8%B0%83%E6%98%AF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
 
 1. [郭聪明将暂停唱歌接受治疗](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%81%AA%E6%98%8E%E5%B0%86%E6%9A%82%E5%81%9C%E5%94%B1%E6%AD%8C%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%96%97%23&Refer=top)
+
+1. [实现高水平科技自立自强](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%A7%91%E6%8A%80%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%23&Refer=new_time)
+
+1. [那英三巴掌拍飞杨紫](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E4%B8%89%E5%B7%B4%E6%8E%8C%E6%8B%8D%E9%A3%9E%E6%9D%A8%E7%B4%AB%23&Refer=top)
+
+1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [孙红雷被黄子韬追着喂龙虾](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%A2%AB%E9%BB%84%E5%AD%90%E9%9F%AC%E8%BF%BD%E7%9D%80%E5%96%82%E9%BE%99%E8%99%BE%23&Refer=top)
+
+1. [秦牛正威对口型视频](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%AF%B9%E5%8F%A3%E5%9E%8B%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [孟鹤堂 孟周永远分不开](https://s.weibo.com//weibo?q=%E5%AD%9F%E9%B9%A4%E5%A0%82%20%E5%AD%9F%E5%91%A8%E6%B0%B8%E8%BF%9C%E5%88%86%E4%B8%8D%E5%BC%80&Refer=top)
+
+1. [钟南山说突破技术瓶颈要靠自己](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E7%AA%81%E7%A0%B4%E6%8A%80%E6%9C%AF%E7%93%B6%E9%A2%88%E8%A6%81%E9%9D%A0%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [1万台矿机一个月耗电4500万度](https://s.weibo.com//weibo?q=%231%E4%B8%87%E5%8F%B0%E7%9F%BF%E6%9C%BA%E4%B8%80%E4%B8%AA%E6%9C%88%E8%80%97%E7%94%B54500%E4%B8%87%E5%BA%A6%23&Refer=top)
+
+1. [穿汉服之前需要先做功课吗](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E6%B1%89%E6%9C%8D%E4%B9%8B%E5%89%8D%E9%9C%80%E8%A6%81%E5%85%88%E5%81%9A%E5%8A%9F%E8%AF%BE%E5%90%97%23&Refer=top)
+
+1. [马来西亚6月1日起实施全国全面封锁](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A6%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD%E5%85%A8%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%B0%81%E9%94%81%23&Refer=top)
+
+1. [红雷的嘴 骗人的鬼](https://s.weibo.com//weibo?q=%E7%BA%A2%E9%9B%B7%E7%9A%84%E5%98%B4%20%E9%AA%97%E4%BA%BA%E7%9A%84%E9%AC%BC&Refer=top)
+
+1. [男子炒黄金期货20天被骗1260万](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%92%E9%BB%84%E9%87%91%E6%9C%9F%E8%B4%A720%E5%A4%A9%E8%A2%AB%E9%AA%971260%E4%B8%87%23&Refer=top)
 
