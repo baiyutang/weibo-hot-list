@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-29 02:31:14
+## 微博今日热榜 更新于 2021-05-29 04:01:40
 1. [实现高水平科技自立自强](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%A7%91%E6%8A%80%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%23&Refer=new_time)
 
 1. [杨紫张子枫总结渣男语录](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%80%BB%E7%BB%93%E6%B8%A3%E7%94%B7%E8%AF%AD%E5%BD%95%23&Refer=top)
