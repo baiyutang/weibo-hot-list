@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-30 05:19:23
+## 微博今日热榜 更新于 2021-05-30 06:18:21
 1. [接种我国新冠疫苗收益远大于风险](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%88%91%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%94%B6%E7%9B%8A%E8%BF%9C%E5%A4%A7%E4%BA%8E%E9%A3%8E%E9%99%A9%23&Refer=new_time)
 
 1. [周也孟子义开口能把人送走](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E5%AD%9F%E5%AD%90%E4%B9%89%E5%BC%80%E5%8F%A3%E8%83%BD%E6%8A%8A%E4%BA%BA%E9%80%81%E8%B5%B0%23&Refer=top)
