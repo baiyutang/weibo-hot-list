@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-31 05:21:11
+## 微博今日热榜 更新于 2021-05-31 06:19:46
 1. [一辈子一件事的院士精神](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%80%E4%BB%B6%E4%BA%8B%E7%9A%84%E9%99%A2%E5%A3%AB%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [医生提醒红霉素软膏绝对不能长期使用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%23&Refer=top)
