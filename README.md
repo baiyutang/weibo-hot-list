@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-31 00:40:26
+## 微博今日热榜 更新于 2021-05-31 02:36:22
 1. [一辈子一件事的院士精神](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%80%E4%BB%B6%E4%BA%8B%E7%9A%84%E9%99%A2%E5%A3%AB%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [医生提醒红霉素软膏绝对不能长期使用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [影院回应熊孩子拍打银幕半小时](https://s.weibo.com//weibo?q=%23%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94%E7%86%8A%E5%AD%A9%E5%AD%90%E6%8B%8D%E6%89%93%E9%93%B6%E5%B9%95%E5%8D%8A%E5%B0%8F%E6%97%B6%23&Refer=top)
 
 1. [世预赛](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top)
+
+1. [宋茜给石头姐解释中文昵称](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%BB%99%E7%9F%B3%E5%A4%B4%E5%A7%90%E8%A7%A3%E9%87%8A%E4%B8%AD%E6%96%87%E6%98%B5%E7%A7%B0%23&Refer=top)
+
+1. [利路修吃笋](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%90%83%E7%AC%8B%23&Refer=top)
+
+1. [月光变奏曲](https://s.weibo.com//weibo?q=%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2&Refer=top)
+
+1. [武磊梅开二度](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E7%A3%8A%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
 
