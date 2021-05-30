@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-31 06:19:46
+## 微博今日热榜 更新于 2021-05-31 07:23:45
 1. [一辈子一件事的院士精神](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%80%E4%BB%B6%E4%BA%8B%E7%9A%84%E9%99%A2%E5%A3%AB%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [医生提醒红霉素软膏绝对不能长期使用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%23&Refer=top)
@@ -124,4 +124,28 @@
 1. [丘比特也只能帮你到这了](https://s.weibo.com//weibo?q=%23%E4%B8%98%E6%AF%94%E7%89%B9%E4%B9%9F%E5%8F%AA%E8%83%BD%E5%B8%AE%E4%BD%A0%E5%88%B0%E8%BF%99%E4%BA%86%23&Refer=top)
 
 1. [左其铂机场被骂](https://s.weibo.com//weibo?q=%23%E5%B7%A6%E5%85%B6%E9%93%82%E6%9C%BA%E5%9C%BA%E8%A2%AB%E9%AA%82%23&Refer=top)
+
+1. [我国灭活疫苗技术路线适合快速应对变异](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E9%80%82%E5%90%88%E5%BF%AB%E9%80%9F%E5%BA%94%E5%AF%B9%E5%8F%98%E5%BC%82%23&Refer=top)
+
+1. [胡兵回应又输了](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%85%B5%E5%9B%9E%E5%BA%94%E5%8F%88%E8%BE%93%E4%BA%86%23&Refer=top)
+
+1. [真人版小美人鱼男女主同框照](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E4%BA%BA%E7%89%88%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%E7%94%B7%E5%A5%B3%E4%B8%BB%E5%90%8C%E6%A1%86%E7%85%A7%23&Refer=top)
+
+1. [太阳战胜湖人](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E9%98%B3%E6%88%98%E8%83%9C%E6%B9%96%E4%BA%BA%23&Refer=top)
+
+1. [印度制药工业近乎停摆](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%88%B6%E8%8D%AF%E5%B7%A5%E4%B8%9A%E8%BF%91%E4%B9%8E%E5%81%9C%E6%91%86%23&Refer=top)
+
+1. [中国球迷主动清理垃圾](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E4%B8%BB%E5%8A%A8%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE%23&Refer=top)
+
+1. [五月最后一天](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [Angelababy现身宋雨琦直播](https://s.weibo.com//weibo?q=Angelababy%E7%8E%B0%E8%BA%AB%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [失眠](https://s.weibo.com//weibo?q=%E5%A4%B1%E7%9C%A0&Refer=top)
+
+1. [谁比喀什店主更会起名呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E6%AF%94%E5%96%80%E4%BB%80%E5%BA%97%E4%B8%BB%E6%9B%B4%E4%BC%9A%E8%B5%B7%E5%90%8D%E5%91%A2%23&Refer=top)
+
+1. [上大学到底是为了什么](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [特殊数额转账不可退](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%AE%8A%E6%95%B0%E9%A2%9D%E8%BD%AC%E8%B4%A6%E4%B8%8D%E5%8F%AF%E9%80%80%23&Refer=top)
 
