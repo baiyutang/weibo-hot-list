@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-01 02:59:43
+## 微博今日热榜 更新于 2021-06-01 04:29:47
 1. [6月中下旬将集中接种第二剂次疫苗](https://s.weibo.com//weibo?q=%236%E6%9C%88%E4%B8%AD%E4%B8%8B%E6%97%AC%E5%B0%86%E9%9B%86%E4%B8%AD%E6%8E%A5%E7%A7%8D%E7%AC%AC%E4%BA%8C%E5%89%82%E6%AC%A1%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [10个三孩政策配套支持措施](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E4%B8%89%E5%AD%A9%E6%94%BF%E7%AD%96%E9%85%8D%E5%A5%97%E6%94%AF%E6%8C%81%E6%8E%AA%E6%96%BD%23&Refer=top)
@@ -112,4 +112,10 @@
 1. [李宇春无价之姐百人舞](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%A7%90%E7%99%BE%E4%BA%BA%E8%88%9E%23&Refer=top)
 
 1. [百岁许渊冲的六一双语祝福](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B2%81%E8%AE%B8%E6%B8%8A%E5%86%B2%E7%9A%84%E5%85%AD%E4%B8%80%E5%8F%8C%E8%AF%AD%E7%A5%9D%E7%A6%8F%23&Refer=top)
+
+1. [黄圣依在线求助网友挑礼服](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%9C%A8%E7%BA%BF%E6%B1%82%E5%8A%A9%E7%BD%91%E5%8F%8B%E6%8C%91%E7%A4%BC%E6%9C%8D%23&Refer=top)
+
+1. [手机进水后的解决办法](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E8%BF%9B%E6%B0%B4%E5%90%8E%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95%23&Refer=top)
+
+1. [阿圭罗加盟巴萨](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%9C%AD%E7%BD%97%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8%23&Refer=top)
 
