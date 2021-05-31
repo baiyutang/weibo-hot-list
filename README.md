@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-01 00:55:47
+## 微博今日热榜 更新于 2021-06-01 02:59:43
 1. [6月中下旬将集中接种第二剂次疫苗](https://s.weibo.com//weibo?q=%236%E6%9C%88%E4%B8%AD%E4%B8%8B%E6%97%AC%E5%B0%86%E9%9B%86%E4%B8%AD%E6%8E%A5%E7%A7%8D%E7%AC%AC%E4%BA%8C%E5%89%82%E6%AC%A1%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [10个三孩政策配套支持措施](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E4%B8%89%E5%AD%A9%E6%94%BF%E7%AD%96%E9%85%8D%E5%A5%97%E6%94%AF%E6%8C%81%E6%8E%AA%E6%96%BD%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [杭州乘坐公交需出示健康码](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B9%98%E5%9D%90%E5%85%AC%E4%BA%A4%E9%9C%80%E5%87%BA%E7%A4%BA%E5%81%A5%E5%BA%B7%E7%A0%81%23&Refer=top)
 
 1. [女排精神](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%8E%92%E7%B2%BE%E7%A5%9E%23&Refer=top)
+
+1. [坚决铲除非法社会组织滋生土壤](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E9%93%B2%E9%99%A4%E9%9D%9E%E6%B3%95%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E6%BB%8B%E7%94%9F%E5%9C%9F%E5%A3%A4%23&Refer=new_time)
+
+1. [李宇春无价之姐百人舞](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%A7%90%E7%99%BE%E4%BA%BA%E8%88%9E%23&Refer=top)
+
+1. [百岁许渊冲的六一双语祝福](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B2%81%E8%AE%B8%E6%B8%8A%E5%86%B2%E7%9A%84%E5%85%AD%E4%B8%80%E5%8F%8C%E8%AF%AD%E7%A5%9D%E7%A6%8F%23&Refer=top)
 
