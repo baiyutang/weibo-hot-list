@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-02 06:05:03
+## 微博今日热榜 更新于 2021-06-02 07:36:19
 1. [加强和改进国际传播工作](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%92%8C%E6%94%B9%E8%BF%9B%E5%9B%BD%E9%99%85%E4%BC%A0%E6%92%AD%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [科兴疫苗正式通过世卫紧急使用认证](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%BF%87%E4%B8%96%E5%8D%AB%E7%B4%A7%E6%80%A5%E4%BD%BF%E7%94%A8%E8%AE%A4%E8%AF%81%23&Refer=top)
