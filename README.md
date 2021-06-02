@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-02 17:39:28
+## 微博今日热榜 更新于 2021-06-02 19:10:33
 1. [加强和改进国际传播工作](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%92%8C%E6%94%B9%E8%BF%9B%E5%9B%BD%E9%99%85%E4%BC%A0%E6%92%AD%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
 
 1. [科兴疫苗正式通过世卫紧急使用认证](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%BF%87%E4%B8%96%E5%8D%AB%E7%B4%A7%E6%80%A5%E4%BD%BF%E7%94%A8%E8%AE%A4%E8%AF%81%23&Refer=top)
@@ -388,4 +388,38 @@
 1. [广州疫情为何以无症状感染者居多](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%E4%B8%BA%E4%BD%95%E4%BB%A5%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E5%B1%85%E5%A4%9A%23&Refer=top)
 
 1. [摩尔庄园表情包](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top)
+
+1. [杨幂半面公主切](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8D%8A%E9%9D%A2%E5%85%AC%E4%B8%BB%E5%88%87%23&Refer=top)
+
+1. [没想到打疫苗也社死](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%89%93%E7%96%AB%E8%8B%97%E4%B9%9F%E7%A4%BE%E6%AD%BB%23&Refer=top)
+
+1. [嘉人主持人有多高](https://s.weibo.com//weibo?q=%23%E5%98%89%E4%BA%BA%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9C%89%E5%A4%9A%E9%AB%98%23&Refer=top)
+
+1. [吴亦凡 都美竹](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%20%E9%83%BD%E7%BE%8E%E7%AB%B9&Refer=top)
+
+1. [嘉人深V内卷](https://s.weibo.com//weibo?q=%E5%98%89%E4%BA%BA%E6%B7%B1V%E5%86%85%E5%8D%B7&Refer=top)
+
+1. [体育总局暂停山地越野等赛事](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E6%80%BB%E5%B1%80%E6%9A%82%E5%81%9C%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E7%AD%89%E8%B5%9B%E4%BA%8B%23&Refer=top)
+
+1. [官方通报高楼失火女子避险坠楼](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%AB%98%E6%A5%BC%E5%A4%B1%E7%81%AB%E5%A5%B3%E5%AD%90%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC%23&Refer=top)
+
+1. [邢昭林妈妈没有追剧的原因](https://s.weibo.com//weibo?q=%23%E9%82%A2%E6%98%AD%E6%9E%97%E5%A6%88%E5%A6%88%E6%B2%A1%E6%9C%89%E8%BF%BD%E5%89%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [因没被叫学长罚学弟抄名字50遍](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E6%B2%A1%E8%A2%AB%E5%8F%AB%E5%AD%A6%E9%95%BF%E7%BD%9A%E5%AD%A6%E5%BC%9F%E6%8A%84%E5%90%8D%E5%AD%9750%E9%81%8D%23&Refer=top)
+
+1. [清华招生宣传片破壁少年](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E6%8B%9B%E7%94%9F%E5%AE%A3%E4%BC%A0%E7%89%87%E7%A0%B4%E5%A3%81%E5%B0%91%E5%B9%B4%23&Refer=top)
+
+1. [外交部说涉疆谎言终将破产](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AF%B4%E6%B6%89%E7%96%86%E8%B0%8E%E8%A8%80%E7%BB%88%E5%B0%86%E7%A0%B4%E4%BA%A7%23&Refer=top)
+
+1. [李大钊淘来的旧风琴竟能保守秘密](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%A4%A7%E9%92%8A%E6%B7%98%E6%9D%A5%E7%9A%84%E6%97%A7%E9%A3%8E%E7%90%B4%E7%AB%9F%E8%83%BD%E4%BF%9D%E5%AE%88%E7%A7%98%E5%AF%86%23&Refer=top)
+
+1. [神农架罕见白化麂抢救三天死亡](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%86%9C%E6%9E%B6%E7%BD%95%E8%A7%81%E7%99%BD%E5%8C%96%E9%BA%82%E6%8A%A2%E6%95%91%E4%B8%89%E5%A4%A9%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [云南玉溪象群冲入宿舍区](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%89%E6%BA%AA%E8%B1%A1%E7%BE%A4%E5%86%B2%E5%85%A5%E5%AE%BF%E8%88%8D%E5%8C%BA%23&Refer=top)
+
+1. [衡水中学班主任扮哈利波特帮学生解压](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%AE%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%B8%AE%E5%AD%A6%E7%94%9F%E8%A7%A3%E5%8E%8B%23&Refer=top)
+
+1. [驴嫂再涉卖山寨机](https://s.weibo.com//weibo?q=%23%E9%A9%B4%E5%AB%82%E5%86%8D%E6%B6%89%E5%8D%96%E5%B1%B1%E5%AF%A8%E6%9C%BA%23&Refer=top)
+
+1. [中国第一条儿童铁路仍在运行](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%84%BF%E7%AB%A5%E9%93%81%E8%B7%AF%E4%BB%8D%E5%9C%A8%E8%BF%90%E8%A1%8C%23&Refer=top)
 
