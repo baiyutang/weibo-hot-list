@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-03 06:57:06
+## 微博今日热榜 更新于 2021-06-03 07:46:49
 1. [加强我国国际传播能力建设](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%88%91%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BC%A0%E6%92%AD%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE%23&Refer=new_time)
 
 1. [摩尔庄园](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
@@ -116,4 +116,28 @@
 1. [黄景瑜跟李沁学自拍](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%B7%9F%E6%9D%8E%E6%B2%81%E5%AD%A6%E8%87%AA%E6%8B%8D%23&Refer=top)
 
 1. [热心市民范丞丞](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%BF%83%E5%B8%82%E6%B0%91%E8%8C%83%E4%B8%9E%E4%B8%9E%23&Refer=top)
+
+1. [72秒看72年前那场胜利](https://s.weibo.com//weibo?q=%2372%E7%A7%92%E7%9C%8B72%E5%B9%B4%E5%89%8D%E9%82%A3%E5%9C%BA%E8%83%9C%E5%88%A9%23&Refer=new_time)
+
+1. [中国女排不敌土耳其女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%8D%E6%95%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A5%B3%E6%8E%92%23&Refer=top)
+
+1. [吴亦凡](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1&Refer=top)
+
+1. [郑秀晶腹肌](https://s.weibo.com//weibo?q=%E9%83%91%E7%A7%80%E6%99%B6%E8%85%B9%E8%82%8C&Refer=top)
+
+1. [杨幂刘诗诗唐嫣同框 梦回仙剑](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E5%94%90%E5%AB%A3%E5%90%8C%E6%A1%86%20%E6%A2%A6%E5%9B%9E%E4%BB%99%E5%89%91&Refer=top)
+
+1. [成都暴雨](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [文淇 手背打招呼](https://s.weibo.com//weibo?q=%E6%96%87%E6%B7%87%20%E6%89%8B%E8%83%8C%E6%89%93%E6%8B%9B%E5%91%BC&Refer=top)
+
+1. [心疼郎导](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E9%83%8E%E5%AF%BC&Refer=top)
+
+1. [情感主播卖惨带货](https://s.weibo.com//weibo?q=%23%E6%83%85%E6%84%9F%E4%B8%BB%E6%92%AD%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23&Refer=top)
+
+1. [全国高考报名人数再创新高](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=top)
+
+1. [野象群进入昆明](https://s.weibo.com//weibo?q=%23%E9%87%8E%E8%B1%A1%E7%BE%A4%E8%BF%9B%E5%85%A5%E6%98%86%E6%98%8E%23&Refer=top)
+
+1. [李逍遥皮肤](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%AE%E8%82%A4&Refer=top)
 
