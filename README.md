@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-03 04:12:02
+## 微博今日热榜 更新于 2021-06-03 05:59:29
 1. [加强我国国际传播能力建设](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%88%91%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BC%A0%E6%92%AD%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE%23&Refer=new_time)
 
 1. [摩尔庄园](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
@@ -112,4 +112,6 @@
 1. [张天爱 今天是张公子](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%BC%A0%E5%85%AC%E5%AD%90%23&Refer=top)
 
 1. [象群距昆明晋宁仅300米](https://s.weibo.com//weibo?q=%23%E8%B1%A1%E7%BE%A4%E8%B7%9D%E6%98%86%E6%98%8E%E6%99%8B%E5%AE%81%E4%BB%85300%E7%B1%B3%23&Refer=top)
+
+1. [黄景瑜跟李沁学自拍](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%B7%9F%E6%9D%8E%E6%B2%81%E5%AD%A6%E8%87%AA%E6%8B%8D%23&Refer=top)
 
