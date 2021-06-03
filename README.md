@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-03 19:45:54
+## 微博今日热榜 更新于 2021-06-03 20:29:17
 1. [加强我国国际传播能力建设](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%88%91%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BC%A0%E6%92%AD%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE%23&Refer=new_time)
 
 1. [摩尔庄园](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
@@ -478,4 +478,16 @@
 1. [律师解读主人寻狗送房称印错了](https://s.weibo.com//weibo?q=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E4%B8%BB%E4%BA%BA%E5%AF%BB%E7%8B%97%E9%80%81%E6%88%BF%E7%A7%B0%E5%8D%B0%E9%94%99%E4%BA%86&Refer=top)
 
 1. [男子每天8颗维生素吃出肝衰竭](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A98%E9%A2%97%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%90%83%E5%87%BA%E8%82%9D%E8%A1%B0%E7%AB%AD%23&Refer=top)
+
+1. [第九届中国网络视听大会](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
+
+1. [上海处罚全国首例违规提供塑料吸管案](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%84%E7%BD%9A%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%BF%9D%E8%A7%84%E6%8F%90%E4%BE%9B%E5%A1%91%E6%96%99%E5%90%B8%E7%AE%A1%E6%A1%88%23&Refer=top)
+
+1. [广州本轮疫情累计报告70例感染者](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A70%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [2007年的街头是什么样的](https://s.weibo.com//weibo?q=%232007%E5%B9%B4%E7%9A%84%E8%A1%97%E5%A4%B4%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [淡水鱼价格翻番](https://s.weibo.com//weibo?q=%23%E6%B7%A1%E6%B0%B4%E9%B1%BC%E4%BB%B7%E6%A0%BC%E7%BF%BB%E7%95%AA%23&Refer=top)
 
