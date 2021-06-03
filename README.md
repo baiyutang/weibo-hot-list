@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 00:56:56
+## 微博今日热榜 更新于 2021-06-04 03:16:46
 1. [家书里的百年信仰](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B9%A6%E9%87%8C%E7%9A%84%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -106,4 +106,16 @@
 1. [吴磊演的方大曾](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E6%BC%94%E7%9A%84%E6%96%B9%E5%A4%A7%E6%9B%BE%23&Refer=top)
 
 1. [专家呼吁不要围观象群](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E5%9B%B4%E8%A7%82%E8%B1%A1%E7%BE%A4%23&Refer=top)
+
+1. [中国科学家将量子通信速率提升4倍](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%B0%86%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1%E9%80%9F%E7%8E%87%E6%8F%90%E5%8D%874%E5%80%8D%23&Refer=new_time)
+
+1. [迪丽热巴 活在当下](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B%23&Refer=top)
+
+1. [恋爱中你最想做的十件事](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1%E4%B8%AD%E4%BD%A0%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E5%8D%81%E4%BB%B6%E4%BA%8B%23&Refer=top)
+
+1. [高考前怎样睡觉效率高](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E6%80%8E%E6%A0%B7%E7%9D%A1%E8%A7%89%E6%95%88%E7%8E%87%E9%AB%98%23&Refer=top)
+
+1. [月光变奏曲](https://s.weibo.com//weibo?q=%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2&Refer=top)
+
+1. [任嘉伦雨中撑伞照](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E9%9B%A8%E4%B8%AD%E6%92%91%E4%BC%9E%E7%85%A7%23&Refer=top)
 
