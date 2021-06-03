@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 06:36:21
+## 微博今日热榜 更新于 2021-06-04 07:39:37
 1. [家书里的百年信仰](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B9%A6%E9%87%8C%E7%9A%84%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -122,4 +122,24 @@
 1. [刘宪华庆祝最后一天隔离](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%BA%86%E7%A5%9D%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E9%9A%94%E7%A6%BB%23&Refer=top)
 
 1. [芳村花地湾滘口站只出不进](https://s.weibo.com//weibo?q=%E8%8A%B3%E6%9D%91%E8%8A%B1%E5%9C%B0%E6%B9%BE%E6%BB%98%E5%8F%A3%E7%AB%99%E5%8F%AA%E5%87%BA%E4%B8%8D%E8%BF%9B&Refer=top)
+
+1. [数学系学霸12门课100分直博清华](https://s.weibo.com//weibo?q=%E6%95%B0%E5%AD%A6%E7%B3%BB%E5%AD%A6%E9%9C%B812%E9%97%A8%E8%AF%BE100%E5%88%86%E7%9B%B4%E5%8D%9A%E6%B8%85%E5%8D%8E&Refer=top)
+
+1. [北京已有3名见义勇为者获落户资格](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%893%E5%90%8D%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%80%85%E8%8E%B7%E8%90%BD%E6%88%B7%E8%B5%84%E6%A0%BC%23&Refer=top)
+
+1. [张文宏谈全球何时能全面恢复往来](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E5%85%A8%E7%90%83%E4%BD%95%E6%97%B6%E8%83%BD%E5%85%A8%E9%9D%A2%E6%81%A2%E5%A4%8D%E5%BE%80%E6%9D%A5%23&Refer=top)
+
+1. [飞鸽二八大杠生产已超3亿辆](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E9%B8%BD%E4%BA%8C%E5%85%AB%E5%A4%A7%E6%9D%A0%E7%94%9F%E4%BA%A7%E5%B7%B2%E8%B6%853%E4%BA%BF%E8%BE%86%23&Refer=top)
+
+1. [2021高考倒计时3天](https://s.weibo.com//weibo?q=%232021%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B63%E5%A4%A9%23&Refer=top)
+
+1. [司机声东击西式迷惑闯红灯](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%A3%B0%E4%B8%9C%E5%87%BB%E8%A5%BF%E5%BC%8F%E8%BF%B7%E6%83%91%E9%97%AF%E7%BA%A2%E7%81%AF%23&Refer=top)
+
+1. [翟潇闻分享打码歌词](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%88%86%E4%BA%AB%E6%89%93%E7%A0%81%E6%AD%8C%E8%AF%8D%23&Refer=top)
+
+1. [1000余家硬件厂商与鸿蒙合作](https://s.weibo.com//weibo?q=%231000%E4%BD%99%E5%AE%B6%E7%A1%AC%E4%BB%B6%E5%8E%82%E5%95%86%E4%B8%8E%E9%B8%BF%E8%92%99%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [科目一考了34次](https://s.weibo.com//weibo?q=%23%E7%A7%91%E7%9B%AE%E4%B8%80%E8%80%83%E4%BA%8634%E6%AC%A1%23&Refer=top)
+
+1. [医生核酸检测遇儿子问作业](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%81%87%E5%84%BF%E5%AD%90%E9%97%AE%E4%BD%9C%E4%B8%9A%23&Refer=top)
 
