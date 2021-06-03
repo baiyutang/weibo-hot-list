@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 05:04:06
+## 微博今日热榜 更新于 2021-06-04 06:36:21
 1. [家书里的百年信仰](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B9%A6%E9%87%8C%E7%9A%84%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -120,4 +120,6 @@
 1. [任嘉伦雨中撑伞照](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E9%9B%A8%E4%B8%AD%E6%92%91%E4%BC%9E%E7%85%A7%23&Refer=top)
 
 1. [刘宪华庆祝最后一天隔离](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%BA%86%E7%A5%9D%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [芳村花地湾滘口站只出不进](https://s.weibo.com//weibo?q=%E8%8A%B3%E6%9D%91%E8%8A%B1%E5%9C%B0%E6%B9%BE%E6%BB%98%E5%8F%A3%E7%AB%99%E5%8F%AA%E5%87%BA%E4%B8%8D%E8%BF%9B&Refer=top)
 
