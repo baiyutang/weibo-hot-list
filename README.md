@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-05 06:25:37
+## 微博今日热榜 更新于 2021-06-05 07:29:42
 1. [这枚邮票上有牵动亿万农民的大事](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%9E%9A%E9%82%AE%E7%A5%A8%E4%B8%8A%E6%9C%89%E7%89%B5%E5%8A%A8%E4%BA%BF%E4%B8%87%E5%86%9C%E6%B0%91%E7%9A%84%E5%A4%A7%E4%BA%8B%23&Refer=new_time)
 
 1. [张子枫手机壳放着与欧阳娜娜的合照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%94%BE%E7%9D%80%E4%B8%8E%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E5%90%88%E7%85%A7%23&Refer=top)
@@ -118,4 +118,20 @@
 1. [百年党史里的10个红色地标](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E9%87%8C%E7%9A%8410%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%9C%B0%E6%A0%87%23&Refer=new_time)
 
 1. [外交部回应美国将59家中企列入黑名单](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B0%8659%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [我国已有20款新冠疫苗进入临床试验](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E6%9C%8920%E6%AC%BE%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BF%9B%E5%85%A5%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%23&Refer=new_time)
+
+1. [芒种](https://s.weibo.com//weibo?q=%23%E8%8A%92%E7%A7%8D%23&Refer=top)
+
+1. [致命女人](https://s.weibo.com//weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA&Refer=top)
+
+1. [广州荔湾区一地调整为低风险](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E8%8D%94%E6%B9%BE%E5%8C%BA%E4%B8%80%E5%9C%B0%E8%B0%83%E6%95%B4%E4%B8%BA%E4%BD%8E%E9%A3%8E%E9%99%A9&Refer=top)
+
+1. [石家庄86岁旗袍奶奶](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%8486%E5%B2%81%E6%97%97%E8%A2%8D%E5%A5%B6%E5%A5%B6%23&Refer=top)
+
+1. [拉齐尼落水时还保持着托举的姿势](https://s.weibo.com//weibo?q=%23%E6%8B%89%E9%BD%90%E5%B0%BC%E8%90%BD%E6%B0%B4%E6%97%B6%E8%BF%98%E4%BF%9D%E6%8C%81%E7%9D%80%E6%89%98%E4%B8%BE%E7%9A%84%E5%A7%BF%E5%8A%BF%23&Refer=top)
+
+1. [世卫为何选中科兴新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E4%B8%BA%E4%BD%95%E9%80%89%E4%B8%AD%E7%A7%91%E5%85%B4%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [非裔美国人染新冠三次求医被拒后死亡](https://s.weibo.com//weibo?q=%23%E9%9D%9E%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%9F%93%E6%96%B0%E5%86%A0%E4%B8%89%E6%AC%A1%E6%B1%82%E5%8C%BB%E8%A2%AB%E6%8B%92%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top)
 
