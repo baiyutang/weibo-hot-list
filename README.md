@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-05 05:37:15
+## 微博今日热榜 更新于 2021-06-05 06:25:37
 1. [这枚邮票上有牵动亿万农民的大事](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%9E%9A%E9%82%AE%E7%A5%A8%E4%B8%8A%E6%9C%89%E7%89%B5%E5%8A%A8%E4%BA%BF%E4%B8%87%E5%86%9C%E6%B0%91%E7%9A%84%E5%A4%A7%E4%BA%8B%23&Refer=new_time)
 
 1. [张子枫手机壳放着与欧阳娜娜的合照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%94%BE%E7%9D%80%E4%B8%8E%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E5%90%88%E7%85%A7%23&Refer=top)
