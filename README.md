@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 11:59:13
+## 微博今日热榜 更新于 2021-06-04 13:48:16
 1. [家书里的百年信仰](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B9%A6%E9%87%8C%E7%9A%84%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -280,4 +280,58 @@
 1. [许渊冲回答高考是否应取消英语](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%B8%8A%E5%86%B2%E5%9B%9E%E7%AD%94%E9%AB%98%E8%80%83%E6%98%AF%E5%90%A6%E5%BA%94%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%23&Refer=top)
 
 1. [致命女人2口碑](https://s.weibo.com//weibo?q=%23%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA2%E5%8F%A3%E7%A2%91%23&Refer=top)
+
+1. [百年党史里的10个红色地标](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E9%87%8C%E7%9A%8410%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%9C%B0%E6%A0%87%23&Refer=new_time)
+
+1. [绍兴14岁女孩被德云社录取](https://s.weibo.com//weibo?q=%23%E7%BB%8D%E5%85%B414%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%BD%95%E5%8F%96%23&Refer=top)
+
+1. [男子离婚不要患癌儿子多年后反悔](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A%E4%B8%8D%E8%A6%81%E6%82%A3%E7%99%8C%E5%84%BF%E5%AD%90%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%8F%8D%E6%82%94%23&Refer=top)
+
+1. [男子产房外心疼老婆嚎啕大哭](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A7%E6%88%BF%E5%A4%96%E5%BF%83%E7%96%BC%E8%80%81%E5%A9%86%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23&Refer=top)
+
+1. [中国邮政成立奶茶店](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E6%88%90%E7%AB%8B%E5%A5%B6%E8%8C%B6%E5%BA%97%23&Refer=top)
+
+1. [雎晓雯 我要打破被量化的标准美](https://s.weibo.com//weibo?q=%E9%9B%8E%E6%99%93%E9%9B%AF%20%E6%88%91%E8%A6%81%E6%89%93%E7%A0%B4%E8%A2%AB%E9%87%8F%E5%8C%96%E7%9A%84%E6%A0%87%E5%87%86%E7%BE%8E&Refer=top)
+
+1. [学校给高三生每人发2张5元人民币](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%BB%99%E9%AB%98%E4%B8%89%E7%94%9F%E6%AF%8F%E4%BA%BA%E5%8F%912%E5%BC%A05%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23&Refer=top)
+
+1. [央视曝光刷任务赚佣金骗局](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%88%B7%E4%BB%BB%E5%8A%A1%E8%B5%9A%E4%BD%A3%E9%87%91%E9%AA%97%E5%B1%80%23&Refer=top)
+
+1. [詹姆斯首次季后赛首轮被淘汰](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E9%A6%96%E6%AC%A1%E5%AD%A3%E5%90%8E%E8%B5%9B%E9%A6%96%E8%BD%AE%E8%A2%AB%E6%B7%98%E6%B1%B0%23&Refer=top)
+
+1. [詹姆斯老了](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E8%80%81%E4%BA%86%23&Refer=top)
+
+1. [全智贤老公](https://s.weibo.com//weibo?q=%E5%85%A8%E6%99%BA%E8%B4%A4%E8%80%81%E5%85%AC&Refer=top)
+
+1. [李荣浩称呼杨丞琳为我的快乐](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%A7%B0%E5%91%BC%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%B8%BA%E6%88%91%E7%9A%84%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [刘亦菲与梦华录演员合照](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%8E%E6%A2%A6%E5%8D%8E%E5%BD%95%E6%BC%94%E5%91%98%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [对姐弟恋的误解](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E5%A7%90%E5%BC%9F%E6%81%8B%E7%9A%84%E8%AF%AF%E8%A7%A3%23&Refer=top)
+
+1. [广州新增确诊和无症状感染者详情](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E5%92%8C%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [同学们实在看不下去了](https://s.weibo.com//weibo?q=%23%E5%90%8C%E5%AD%A6%E4%BB%AC%E5%AE%9E%E5%9C%A8%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&Refer=top)
+
+1. [如梦之梦门票](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E9%97%A8%E7%A5%A8%23&Refer=top)
+
+1. [朱一龙 林楠笙背影照](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E6%9E%97%E6%A5%A0%E7%AC%99%E8%83%8C%E5%BD%B1%E7%85%A7&Refer=top)
+
+1. [真正的爱一定不是瞬间的感动](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%88%B1%E4%B8%80%E5%AE%9A%E4%B8%8D%E6%98%AF%E7%9E%AC%E9%97%B4%E7%9A%84%E6%84%9F%E5%8A%A8%23&Refer=top)
+
+1. [常州女子账户突然多出500万](https://s.weibo.com//weibo?q=%23%E5%B8%B8%E5%B7%9E%E5%A5%B3%E5%AD%90%E8%B4%A6%E6%88%B7%E7%AA%81%E7%84%B6%E5%A4%9A%E5%87%BA500%E4%B8%87%23&Refer=top)
+
+1. [太阳淘汰湖人](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E9%98%B3%E6%B7%98%E6%B1%B0%E6%B9%96%E4%BA%BA%23&Refer=top)
+
+1. [德国动物园大象将预测欧洲杯结果](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%A4%A7%E8%B1%A1%E5%B0%86%E9%A2%84%E6%B5%8B%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%BB%93%E6%9E%9C%23&Refer=top)
+
+1. [NBA](https://s.weibo.com//weibo?q=NBA&Refer=top)
+
+1. [高三女生为全班手绘漫画形象](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E4%B8%BA%E5%85%A8%E7%8F%AD%E6%89%8B%E7%BB%98%E6%BC%AB%E7%94%BB%E5%BD%A2%E8%B1%A1%23&Refer=top)
+
+1. [马斯克推特心碎表情](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8E%A8%E7%89%B9%E5%BF%83%E7%A2%8E%E8%A1%A8%E6%83%85&Refer=top)
+
+1. [少年骑车逆行被撞骨折负全责](https://s.weibo.com//weibo?q=%23%E5%B0%91%E5%B9%B4%E9%AA%91%E8%BD%A6%E9%80%86%E8%A1%8C%E8%A2%AB%E6%92%9E%E9%AA%A8%E6%8A%98%E8%B4%9F%E5%85%A8%E8%B4%A3%23&Refer=top)
+
+1. [致命女人 反转](https://s.weibo.com//weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA%20%E5%8F%8D%E8%BD%AC&Refer=top)
 
