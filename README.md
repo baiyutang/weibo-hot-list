@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 22:10:38
+## 微博今日热榜 更新于 2021-06-04 23:35:03
 1. [家书里的百年信仰](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B9%A6%E9%87%8C%E7%9A%84%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -564,4 +564,30 @@
 1. [高考时你有过什么幸运时刻](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E4%BD%A0%E6%9C%89%E8%BF%87%E4%BB%80%E4%B9%88%E5%B9%B8%E8%BF%90%E6%97%B6%E5%88%BB%23&Refer=top)
 
 1. [萌探探探案版庆余年](https://s.weibo.com//weibo?q=%23%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%E7%89%88%E5%BA%86%E4%BD%99%E5%B9%B4%23&Refer=top)
+
+1. [国台办回应台湾核酸阳性居民飞抵厦门](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E5%B1%85%E6%B0%91%E9%A3%9E%E6%8A%B5%E5%8E%A6%E9%97%A8%23&Refer=top)
+
+1. [台湾赴美航班爆满](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%B5%B4%E7%BE%8E%E8%88%AA%E7%8F%AD%E7%88%86%E6%BB%A1%23&Refer=top)
+
+1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [张子枫手机壳放着与欧阳娜娜的合照](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%94%BE%E7%9D%80%E4%B8%8E%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E5%90%88%E7%85%A7&Refer=top)
+
+1. [刘姝贤 摩尔庄园](https://s.weibo.com//weibo?q=%E5%88%98%E5%A7%9D%E8%B4%A4%20%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
+
+1. [建议不要沉迷摩尔庄园太久](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E6%B2%89%E8%BF%B7%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E5%A4%AA%E4%B9%85%23&Refer=top)
+
+1. [李易峰ins更新](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0ins%E6%9B%B4%E6%96%B0%23&Refer=top)
+
+1. [宋雨琦新歌首跳舞台](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%96%B0%E6%AD%8C%E9%A6%96%E8%B7%B3%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [张文宏判断新冠疫苗需何时再次接种](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E5%88%A4%E6%96%AD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%9C%80%E4%BD%95%E6%97%B6%E5%86%8D%E6%AC%A1%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [云南蒙自璀璨星空](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%92%99%E8%87%AA%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA%23&Refer=top)
+
+1. [在校生该不该用生活费买基金](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%A0%A1%E7%94%9F%E8%AF%A5%E4%B8%8D%E8%AF%A5%E7%94%A8%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%B9%B0%E5%9F%BA%E9%87%91%23&Refer=top)
+
+1. [为什么考前会紧张到肚子疼](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%83%E5%89%8D%E4%BC%9A%E7%B4%A7%E5%BC%A0%E5%88%B0%E8%82%9A%E5%AD%90%E7%96%BC%23&Refer=top)
+
+1. [RW TES](https://s.weibo.com//weibo?q=RW%20TES&Refer=top)
 
