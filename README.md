@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 17:25:01
+## 微博今日热榜 更新于 2021-06-04 19:05:45
 1. [家书里的百年信仰](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B9%A6%E9%87%8C%E7%9A%84%E7%99%BE%E5%B9%B4%E4%BF%A1%E4%BB%B0%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -434,4 +434,52 @@
 1. [成都移动疫苗车可同时为4人接种](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%A7%BB%E5%8A%A8%E7%96%AB%E8%8B%97%E8%BD%A6%E5%8F%AF%E5%90%8C%E6%97%B6%E4%B8%BA4%E4%BA%BA%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
 1. [萌娃下滑梯后头发瞬间炸毛](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E4%B8%8B%E6%BB%91%E6%A2%AF%E5%90%8E%E5%A4%B4%E5%8F%91%E7%9E%AC%E9%97%B4%E7%82%B8%E6%AF%9B%23&Refer=top)
+
+1. [我国已有20款新冠疫苗进入临床试验](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E6%9C%8920%E6%AC%BE%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BF%9B%E5%85%A5%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%23&Refer=new_time)
+
+1. [正骨大夫问金晨是不是盘起来睡觉的](https://s.weibo.com//weibo?q=%23%E6%AD%A3%E9%AA%A8%E5%A4%A7%E5%A4%AB%E9%97%AE%E9%87%91%E6%99%A8%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9B%98%E8%B5%B7%E6%9D%A5%E7%9D%A1%E8%A7%89%E7%9A%84%23&Refer=top)
+
+1. [泡泡玛特致歉](https://s.weibo.com//weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [18至49岁职场女性超重率达30%](https://s.weibo.com//weibo?q=%2318%E8%87%B349%E5%B2%81%E8%81%8C%E5%9C%BA%E5%A5%B3%E6%80%A7%E8%B6%85%E9%87%8D%E7%8E%87%E8%BE%BE30%25%23&Refer=top)
+
+1. [江苏高考期间或有高温雷暴大风](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%88%96%E6%9C%89%E9%AB%98%E6%B8%A9%E9%9B%B7%E6%9A%B4%E5%A4%A7%E9%A3%8E%23&Refer=top)
+
+1. [佛山一印刷厂老板瞒着家人做志愿者](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E4%B8%80%E5%8D%B0%E5%88%B7%E5%8E%82%E8%80%81%E6%9D%BF%E7%9E%92%E7%9D%80%E5%AE%B6%E4%BA%BA%E5%81%9A%E5%BF%97%E6%84%BF%E8%80%85%23&Refer=top)
+
+1. [罗一舟生图](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [刘亦菲陈晓古装路透](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%99%88%E6%99%93%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [丁禹兮说凭什么只有男生壁咚女生](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E8%AF%B4%E5%87%AD%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E7%94%B7%E7%94%9F%E5%A3%81%E5%92%9A%E5%A5%B3%E7%94%9F%23&Refer=top)
+
+1. [邢昭林 墨连城你可住嘴吧](https://s.weibo.com//weibo?q=%E9%82%A2%E6%98%AD%E6%9E%97%20%E5%A2%A8%E8%BF%9E%E5%9F%8E%E4%BD%A0%E5%8F%AF%E4%BD%8F%E5%98%B4%E5%90%A7&Refer=top)
+
+1. [螺蛳粉蛋糕是什么味道](https://s.weibo.com//weibo?q=%23%E8%9E%BA%E8%9B%B3%E7%B2%89%E8%9B%8B%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3%E9%81%93%23&Refer=top)
+
+1. [奶茶加料的真实面目](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%8A%A0%E6%96%99%E7%9A%84%E7%9C%9F%E5%AE%9E%E9%9D%A2%E7%9B%AE%23&Refer=top)
+
+1. [喻言 海潮音乐嘉年华](https://s.weibo.com//weibo?q=%E5%96%BB%E8%A8%80%20%E6%B5%B7%E6%BD%AE%E9%9F%B3%E4%B9%90%E5%98%89%E5%B9%B4%E5%8D%8E&Refer=top)
+
+1. [突然入镜的心动](https://s.weibo.com//weibo?q=%23%E7%AA%81%E7%84%B6%E5%85%A5%E9%95%9C%E7%9A%84%E5%BF%83%E5%8A%A8%23&Refer=top)
+
+1. [这就是人间芭比吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BA%BA%E9%97%B4%E8%8A%AD%E6%AF%94%E5%90%A7%23&Refer=top)
+
+1. [岳岳谈上升期偶像谈恋爱](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E5%B2%B3%E8%B0%88%E4%B8%8A%E5%8D%87%E6%9C%9F%E5%81%B6%E5%83%8F%E8%B0%88%E6%81%8B%E7%88%B1%23&Refer=top)
+
+1. [当代社畜对高考有多怀念](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E7%A4%BE%E7%95%9C%E5%AF%B9%E9%AB%98%E8%80%83%E6%9C%89%E5%A4%9A%E6%80%80%E5%BF%B5%23&Refer=top)
+
+1. [一家4口扶梯摔倒路过民警10秒救下](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AE%B64%E5%8F%A3%E6%89%B6%E6%A2%AF%E6%91%94%E5%80%92%E8%B7%AF%E8%BF%87%E6%B0%91%E8%AD%A610%E7%A7%92%E6%95%91%E4%B8%8B%23&Refer=top)
+
+1. [古代人在夏天是怎样避暑的](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BB%A3%E4%BA%BA%E5%9C%A8%E5%A4%8F%E5%A4%A9%E6%98%AF%E6%80%8E%E6%A0%B7%E9%81%BF%E6%9A%91%E7%9A%84%23&Refer=top)
+
+1. [刘宇 太在意恶评是对好评的不负责任](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%20%E5%A4%AA%E5%9C%A8%E6%84%8F%E6%81%B6%E8%AF%84%E6%98%AF%E5%AF%B9%E5%A5%BD%E8%AF%84%E7%9A%84%E4%B8%8D%E8%B4%9F%E8%B4%A3%E4%BB%BB&Refer=top)
+
+1. [外交部奉劝台当局把心思放在科学防疫上](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%A5%89%E5%8A%9D%E5%8F%B0%E5%BD%93%E5%B1%80%E6%8A%8A%E5%BF%83%E6%80%9D%E6%94%BE%E5%9C%A8%E7%A7%91%E5%AD%A6%E9%98%B2%E7%96%AB%E4%B8%8A%23&Refer=top)
+
+1. [离职时对领导说自己是咸鱼](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E8%81%8C%E6%97%B6%E5%AF%B9%E9%A2%86%E5%AF%BC%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%92%B8%E9%B1%BC%23&Refer=top)
+
+1. [滴滴闪退](https://s.weibo.com//weibo?q=%23%E6%BB%B4%E6%BB%B4%E9%97%AA%E9%80%80%23&Refer=top)
+
+1. [迪士尼的超级英雄替身机器人](https://s.weibo.com//weibo?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%9B%BF%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA&Refer=top)
 
