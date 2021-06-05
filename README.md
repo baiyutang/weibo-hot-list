@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 02:13:03
+## 微博今日热榜 更新于 2021-06-06 03:47:46
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [米卡赞多力丸镜头](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E8%B5%9E%E5%A4%9A%E5%8A%9B%E4%B8%B8%E9%95%9C%E5%A4%B4%23&Refer=top)
 
 1. [文化人的发言有多绝](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%8C%96%E4%BA%BA%E7%9A%84%E5%8F%91%E8%A8%80%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+
+1. [御赐小仵作](https://s.weibo.com//weibo?q=%E5%BE%A1%E8%B5%90%E5%B0%8F%E4%BB%B5%E4%BD%9C&Refer=top)
+
+1. [高考前如何调整饮食](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E5%A6%82%E4%BD%95%E8%B0%83%E6%95%B4%E9%A5%AE%E9%A3%9F%23&Refer=top)
 
