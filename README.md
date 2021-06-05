@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-05 21:54:14
+## 微博今日热榜 更新于 2021-06-05 22:30:02
 1. [这枚邮票上有牵动亿万农民的大事](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%9E%9A%E9%82%AE%E7%A5%A8%E4%B8%8A%E6%9C%89%E7%89%B5%E5%8A%A8%E4%BA%BF%E4%B8%87%E5%86%9C%E6%B0%91%E7%9A%84%E5%A4%A7%E4%BA%8B%23&Refer=new_time)
 
 1. [张子枫手机壳放着与欧阳娜娜的合照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%94%BE%E7%9D%80%E4%B8%8E%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E5%90%88%E7%85%A7%23&Refer=top)
@@ -538,4 +538,24 @@
 1. [当儿子突然爱上奥特曼](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%84%BF%E5%AD%90%E7%AA%81%E7%84%B6%E7%88%B1%E4%B8%8A%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top)
 
 1. [被理科生浪漫到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%90%86%E7%A7%91%E7%94%9F%E6%B5%AA%E6%BC%AB%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [父亲关投资百万工厂陪读儿子](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%85%B3%E6%8A%95%E8%B5%84%E7%99%BE%E4%B8%87%E5%B7%A5%E5%8E%82%E9%99%AA%E8%AF%BB%E5%84%BF%E5%AD%90%23&Refer=top)
+
+1. [郑合惠子随性街拍](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E9%9A%8F%E6%80%A7%E8%A1%97%E6%8B%8D%23&Refer=top)
+
+1. [苏晓彤发文告别楚楚](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E6%99%93%E5%BD%A4%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%A5%9A%E6%A5%9A%23&Refer=top)
+
+1. [少女焦虑是市场造成的吗](https://s.weibo.com//weibo?q=%23%E5%B0%91%E5%A5%B3%E7%84%A6%E8%99%91%E6%98%AF%E5%B8%82%E5%9C%BA%E9%80%A0%E6%88%90%E7%9A%84%E5%90%97%23&Refer=top)
+
+1. [王子异晒湿发腹肌照](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E5%BC%82%E6%99%92%E6%B9%BF%E5%8F%91%E8%85%B9%E8%82%8C%E7%85%A7%23&Refer=top)
+
+1. [吴亦凡翱翔舞台](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BF%B1%E7%BF%94%E8%88%9E%E5%8F%B0&Refer=top)
+
+1. [广东中高风险区停售感冒灵等药品](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%81%9C%E5%94%AE%E6%84%9F%E5%86%92%E7%81%B5%E7%AD%89%E8%8D%AF%E5%93%81%23&Refer=top)
+
+1. [65岁大爷下河救起71岁老人](https://s.weibo.com//weibo?q=%2365%E5%B2%81%E5%A4%A7%E7%88%B7%E4%B8%8B%E6%B2%B3%E6%95%91%E8%B5%B771%E5%B2%81%E8%80%81%E4%BA%BA%23&Refer=top)
+
+1. [多米尼加总统打中国疫苗称没夫人掐得疼](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E6%80%BB%E7%BB%9F%E6%89%93%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E7%A7%B0%E6%B2%A1%E5%A4%AB%E4%BA%BA%E6%8E%90%E5%BE%97%E7%96%BC%23&Refer=top)
+
+1. [高考前如何调整饮食](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E5%A6%82%E4%BD%95%E8%B0%83%E6%95%B4%E9%A5%AE%E9%A3%9F%23&Refer=top)
 
