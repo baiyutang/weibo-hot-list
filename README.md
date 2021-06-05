@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 00:30:31
+## 微博今日热榜 更新于 2021-06-06 02:13:03
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [9年拍3000张照片记录北京空气质量](https://s.weibo.com//weibo?q=%239%E5%B9%B4%E6%8B%8D3000%E5%BC%A0%E7%85%A7%E7%89%87%E8%AE%B0%E5%BD%95%E5%8C%97%E4%BA%AC%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%23&Refer=top)
 
 1. [古人送给考生的祝福有多美](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BA%BA%E9%80%81%E7%BB%99%E8%80%83%E7%94%9F%E7%9A%84%E7%A5%9D%E7%A6%8F%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
+
+1. [23位两弹一星元勋群体像](https://s.weibo.com//weibo?q=%2323%E4%BD%8D%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E5%85%83%E5%8B%8B%E7%BE%A4%E4%BD%93%E5%83%8F%23&Refer=new_time)
+
+1. [迪丽热巴生日派对vlog](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%9F%E6%97%A5%E6%B4%BE%E5%AF%B9vlog%23&Refer=top)
+
+1. [米卡赞多力丸镜头](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E8%B5%9E%E5%A4%9A%E5%8A%9B%E4%B8%B8%E9%95%9C%E5%A4%B4%23&Refer=top)
+
+1. [文化人的发言有多绝](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%8C%96%E4%BA%BA%E7%9A%84%E5%8F%91%E8%A8%80%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
 
