@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 10:50:10
+## 微博今日热榜 更新于 2021-06-06 12:05:52
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -232,4 +232,42 @@
 1. [15头野象进入玉溪易门](https://s.weibo.com//weibo?q=%2315%E5%A4%B4%E9%87%8E%E8%B1%A1%E8%BF%9B%E5%85%A5%E7%8E%89%E6%BA%AA%E6%98%93%E9%97%A8%23&Refer=top)
 
 1. [外贸企业一箱难求](https://s.weibo.com//weibo?q=%23%E5%A4%96%E8%B4%B8%E4%BC%81%E4%B8%9A%E4%B8%80%E7%AE%B1%E9%9A%BE%E6%B1%82%23&Refer=top)
+
+1. [迪丽热巴 人间洋娃娃](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%BA%BA%E9%97%B4%E6%B4%8B%E5%A8%83%E5%A8%83&Refer=top)
+
+1. [清华学生方言为高考生加油](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%AD%A6%E7%94%9F%E6%96%B9%E8%A8%80%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [高度近视是青光眼高危人群](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E6%98%AF%E9%9D%92%E5%85%89%E7%9C%BC%E9%AB%98%E5%8D%B1%E4%BA%BA%E7%BE%A4%23&Refer=top)
+
+1. [致命女人的小情人和Jade是亲姐弟](https://s.weibo.com//weibo?q=%23%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%83%85%E4%BA%BA%E5%92%8CJade%E6%98%AF%E4%BA%B2%E5%A7%90%E5%BC%9F%23&Refer=top)
+
+1. [INTO1快乐大本营有效镜头](https://s.weibo.com//weibo?q=%23INTO1%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E6%9C%89%E6%95%88%E9%95%9C%E5%A4%B4%23&Refer=top)
+
+1. [超三成房颤患者不知晓自己的房颤病史](https://s.weibo.com//weibo?q=%23%E8%B6%85%E4%B8%89%E6%88%90%E6%88%BF%E9%A2%A4%E6%82%A3%E8%80%85%E4%B8%8D%E7%9F%A5%E6%99%93%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%BF%E9%A2%A4%E7%97%85%E5%8F%B2%23&Refer=top)
+
+1. [广州南沙区已分级分类防控](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%8C%BA%E5%B7%B2%E5%88%86%E7%BA%A7%E5%88%86%E7%B1%BB%E9%98%B2%E6%8E%A7%23&Refer=top)
+
+1. [王一博摸盲盒直接拿出来](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%91%B8%E7%9B%B2%E7%9B%92%E7%9B%B4%E6%8E%A5%E6%8B%BF%E5%87%BA%E6%9D%A5%23&Refer=top)
+
+1. [广州一核酸检测医护人员晕倒](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E6%99%95%E5%80%92%23&Refer=top)
+
+1. [在摩尔庄园泡澡被偷窥](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E6%B3%A1%E6%BE%A1%E8%A2%AB%E5%81%B7%E7%AA%A5%23&Refer=top)
+
+1. [广东要求非必要不离穗](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%A6%81%E6%B1%82%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E7%A6%BB%E7%A9%97%23&Refer=top)
+
+1. [发色对人的影响有多大](https://s.weibo.com//weibo?q=%23%E5%8F%91%E8%89%B2%E5%AF%B9%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [变成你的那一天定档](https://s.weibo.com//weibo?q=%23%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [养一头猪从赚3000元到亏千元](https://s.weibo.com//weibo?q=%23%E5%85%BB%E4%B8%80%E5%A4%B4%E7%8C%AA%E4%BB%8E%E8%B5%9A3000%E5%85%83%E5%88%B0%E4%BA%8F%E5%8D%83%E5%85%83%23&Refer=top)
+
+1. [广州本轮疫情累计报告94例感染者](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A94%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [离开广州出省需持48小时内核酸证明](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%BC%80%E5%B9%BF%E5%B7%9E%E5%87%BA%E7%9C%81%E9%9C%80%E6%8C%8148%E5%B0%8F%E6%97%B6%E5%86%85%E6%A0%B8%E9%85%B8%E8%AF%81%E6%98%8E%23&Refer=top)
+
+1. [欧文杜兰特连线炸扣](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%96%87%E6%9D%9C%E5%85%B0%E7%89%B9%E8%BF%9E%E7%BA%BF%E7%82%B8%E6%89%A3%23&Refer=top)
+
+1. [高考前撕书有多壮观](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E6%92%95%E4%B9%A6%E6%9C%89%E5%A4%9A%E5%A3%AE%E8%A7%82%23&Refer=top)
+
+1. [格里芬18分](https://s.weibo.com//weibo?q=%23%E6%A0%BC%E9%87%8C%E8%8A%AC18%E5%88%86%23&Refer=top)
 
