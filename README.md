@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 21:56:43
+## 微博今日热榜 更新于 2021-06-06 22:34:06
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -540,4 +540,20 @@
 1. [一诺状态](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%8A%B6%E6%80%81%23&Refer=top)
 
 1. [国宝实力演绎倒头就睡](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%9D%E5%AE%9E%E5%8A%9B%E6%BC%94%E7%BB%8E%E5%80%92%E5%A4%B4%E5%B0%B1%E7%9D%A1%23&Refer=top)
+
+1. [夏之光微博热评](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E5%BE%AE%E5%8D%9A%E7%83%AD%E8%AF%84%23&Refer=top)
+
+1. [高三老师入住学生宿舍全程伴考](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E5%85%A5%E4%BD%8F%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%85%A8%E7%A8%8B%E4%BC%B4%E8%80%83%23&Refer=top)
+
+1. [张哲瀚ins更新](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9Ains%E6%9B%B4%E6%96%B0%23&Refer=top)
+
+1. [与君初相识剧组杀青](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E5%90%9B%E5%88%9D%E7%9B%B8%E8%AF%86%E5%89%A7%E7%BB%84%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [见过最社死的考试翻车现场](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A4%BE%E6%AD%BB%E7%9A%84%E8%80%83%E8%AF%95%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [邓伦假扮岳云鹏给蔡明打电话](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%81%87%E6%89%AE%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%BB%99%E8%94%A1%E6%98%8E%E6%89%93%E7%94%B5%E8%AF%9D%23&Refer=top)
+
+1. [大自然的配色有多绝](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%87%AA%E7%84%B6%E7%9A%84%E9%85%8D%E8%89%B2%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+
+1. [巴西消费者告赢苹果公司](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%B6%88%E8%B4%B9%E8%80%85%E5%91%8A%E8%B5%A2%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%23&Refer=top)
 
