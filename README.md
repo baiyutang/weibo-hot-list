@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-07 05:13:16
+## 微博今日热榜 更新于 2021-06-07 06:12:54
 1. [中高风险区域有必要反复核酸筛查](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%E6%9C%89%E5%BF%85%E8%A6%81%E5%8F%8D%E5%A4%8D%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=new_time)
 
 1. [考生因太紧张连续2天丢失身份证](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E5%A4%AA%E7%B4%A7%E5%BC%A0%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
