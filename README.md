@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 19:33:35
+## 微博今日热榜 更新于 2021-06-06 20:29:25
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -486,4 +486,28 @@
 1. [胡杏儿产后复出状态](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%9D%8F%E5%84%BF%E4%BA%A7%E5%90%8E%E5%A4%8D%E5%87%BA%E7%8A%B6%E6%80%81%23&Refer=top)
 
 1. [被驾校耽误了的段子手](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%A9%BE%E6%A0%A1%E8%80%BD%E8%AF%AF%E4%BA%86%E7%9A%84%E6%AE%B5%E5%AD%90%E6%89%8B%23&Refer=top)
+
+1. [中高风险区域有必要反复核酸筛查](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%E6%9C%89%E5%BF%85%E8%A6%81%E5%8F%8D%E5%A4%8D%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=new_time)
+
+1. [陕西有一块985和211路牌](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E6%9C%89%E4%B8%80%E5%9D%97985%E5%92%8C211%E8%B7%AF%E7%89%8C%23&Refer=top)
+
+1. [易烊千玺抱胖虎女儿](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8A%B1%E8%83%96%E8%99%8E%E5%A5%B3%E5%84%BF%23&Refer=top)
+
+1. [张常宁yyds](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81yyds%23&Refer=top)
+
+1. [广州地铁好空](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%A5%BD%E7%A9%BA&Refer=top)
+
+1. [站姐镜头下的孟佳](https://s.weibo.com//weibo?q=%23%E7%AB%99%E5%A7%90%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%AD%9F%E4%BD%B3%23&Refer=top)
+
+1. [黑龙江鸡西煤矿事故失联8人全部幸存](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E9%B8%A1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%948%E4%BA%BA%E5%85%A8%E9%83%A8%E5%B9%B8%E5%AD%98%23&Refer=top)
+
+1. [胖出气势的猫咪](https://s.weibo.com//weibo?q=%23%E8%83%96%E5%87%BA%E6%B0%94%E5%8A%BF%E7%9A%84%E7%8C%AB%E5%92%AA%23&Refer=top)
+
+1. [迪丽热巴驭鲛记路透](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A9%AD%E9%B2%9B%E8%AE%B0%E8%B7%AF%E9%80%8F&Refer=top)
+
+1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+
+1. [台州517事故与特斯拉车辆无关](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%B7%9E517%E4%BA%8B%E6%95%85%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E8%BE%86%E6%97%A0%E5%85%B3%23&Refer=top)
+
+1. [高考表情包](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top)
 
