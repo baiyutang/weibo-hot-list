@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 14:02:33
+## 微博今日热榜 更新于 2021-06-06 15:44:39
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -322,4 +322,46 @@
 1. [汶川地震救援中的英雄救护车](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E8%8B%B1%E9%9B%84%E6%95%91%E6%8A%A4%E8%BD%A6%23&Refer=top)
 
 1. [单亲对孩子影响有多大](https://s.weibo.com//weibo?q=%23%E5%8D%95%E4%BA%B2%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [胡歌方否认与薛佳凝复合](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%AD%8C%E6%96%B9%E5%90%A6%E8%AE%A4%E4%B8%8E%E8%96%9B%E4%BD%B3%E5%87%9D%E5%A4%8D%E5%90%88%23&Refer=top)
+
+1. [华为已捐献鸿蒙全部基础能力](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B7%B2%E6%8D%90%E7%8C%AE%E9%B8%BF%E8%92%99%E5%85%A8%E9%83%A8%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [爸爸写给失恋女儿的一封信](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E5%86%99%E7%BB%99%E5%A4%B1%E6%81%8B%E5%A5%B3%E5%84%BF%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23&Refer=top)
+
+1. [白俄总理称准备放弃欧美技术](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%BF%84%E6%80%BB%E7%90%86%E7%A7%B0%E5%87%86%E5%A4%87%E6%94%BE%E5%BC%83%E6%AC%A7%E7%BE%8E%E6%8A%80%E6%9C%AF%23&Refer=top)
+
+1. [特朗普称将比你们想象的更快夺回白宫](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E6%AF%94%E4%BD%A0%E4%BB%AC%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9B%B4%E5%BF%AB%E5%A4%BA%E5%9B%9E%E7%99%BD%E5%AE%AB%23&Refer=top)
+
+1. [深圳龙华区暂停新冠疫苗接种](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%BE%99%E5%8D%8E%E5%8C%BA%E6%9A%82%E5%81%9C%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [女子带娃学车教练成临时保姆](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E5%AD%A6%E8%BD%A6%E6%95%99%E7%BB%83%E6%88%90%E4%B8%B4%E6%97%B6%E4%BF%9D%E5%A7%86%23&Refer=top)
+
+1. [黄子韬被李沁秒杀](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%A2%AB%E6%9D%8E%E6%B2%81%E7%A7%92%E6%9D%80%23&Refer=top)
+
+1. [拾光开启人官宣](https://s.weibo.com//weibo?q=%23%E6%8B%BE%E5%85%89%E5%BC%80%E5%90%AF%E4%BA%BA%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [肖战加盟拾光盛典](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%8A%A0%E7%9B%9F%E6%8B%BE%E5%85%89%E7%9B%9B%E5%85%B8%23&Refer=top)
+
+1. [广州全市启用隔离考点11个](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%85%A8%E5%B8%82%E5%90%AF%E7%94%A8%E9%9A%94%E7%A6%BB%E8%80%83%E7%82%B911%E4%B8%AA%23&Refer=top)
+
+1. [高三班主任集体开远光灯为考生照明](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%9B%86%E4%BD%93%E5%BC%80%E8%BF%9C%E5%85%89%E7%81%AF%E4%B8%BA%E8%80%83%E7%94%9F%E7%85%A7%E6%98%8E%23&Refer=top)
+
+1. [江西通报专升本疑似泄题事件](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E4%B8%93%E5%8D%87%E6%9C%AC%E7%96%91%E4%BC%BC%E6%B3%84%E9%A2%98%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [青海果洛考生将在帐篷里高考](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E6%9E%9C%E6%B4%9B%E8%80%83%E7%94%9F%E5%B0%86%E5%9C%A8%E5%B8%90%E7%AF%B7%E9%87%8C%E9%AB%98%E8%80%83%23&Refer=top)
+
+1. [当家里有颗荔枝树](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%AE%B6%E9%87%8C%E6%9C%89%E9%A2%97%E8%8D%94%E6%9E%9D%E6%A0%91%23&Refer=top)
+
+1. [面试式相亲会更有效率吗](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E8%AF%95%E5%BC%8F%E7%9B%B8%E4%BA%B2%E4%BC%9A%E6%9B%B4%E6%9C%89%E6%95%88%E7%8E%87%E5%90%97%23&Refer=top)
+
+1. [为糖葫芦受过的委屈](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%B3%96%E8%91%AB%E8%8A%A6%E5%8F%97%E8%BF%87%E7%9A%84%E5%A7%94%E5%B1%88%23&Refer=top)
+
+1. [老师割麦子送高考生](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E5%89%B2%E9%BA%A6%E5%AD%90%E9%80%81%E9%AB%98%E8%80%83%E7%94%9F%23&Refer=top)
+
+1. [放学别走定档](https://s.weibo.com//weibo?q=%23%E6%94%BE%E5%AD%A6%E5%88%AB%E8%B5%B0%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [社恐行为图鉴](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E6%81%90%E8%A1%8C%E4%B8%BA%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [航拍新疆福海43万牛羊壮观转场](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E6%96%B0%E7%96%86%E7%A6%8F%E6%B5%B743%E4%B8%87%E7%89%9B%E7%BE%8A%E5%A3%AE%E8%A7%82%E8%BD%AC%E5%9C%BA%23&Refer=top)
 
