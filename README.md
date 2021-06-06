@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 17:30:53
+## 微博今日热榜 更新于 2021-06-06 18:32:16
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -426,4 +426,22 @@
 1. [大S妈妈透露大S仍在生气](https://s.weibo.com//weibo?q=%23%E5%A4%A7S%E5%A6%88%E5%A6%88%E9%80%8F%E9%9C%B2%E5%A4%A7S%E4%BB%8D%E5%9C%A8%E7%94%9F%E6%B0%94%23&Refer=top)
 
 1. [邓伦岳云鹏报纸拔河](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%8A%A5%E7%BA%B8%E6%8B%94%E6%B2%B3%23&Refer=top)
+
+1. [itsRae 抄袭](https://s.weibo.com//weibo?q=itsRae%20%E6%8A%84%E8%A2%AD&Refer=top)
+
+1. [男子玻璃瓶拔火罐遇爆裂](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%8E%BB%E7%92%83%E7%93%B6%E6%8B%94%E7%81%AB%E7%BD%90%E9%81%87%E7%88%86%E8%A3%82%23&Refer=top)
+
+1. [佛山离佛出省需持48小时内核酸阴性证明](https://s.weibo.com//weibo?q=%E4%BD%9B%E5%B1%B1%E7%A6%BB%E4%BD%9B%E5%87%BA%E7%9C%81%E9%9C%80%E6%8C%8148%E5%B0%8F%E6%97%B6%E5%86%85%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E&Refer=top)
+
+1. [被粤语狠狠拿捏了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%B2%A4%E8%AF%AD%E7%8B%A0%E7%8B%A0%E6%8B%BF%E6%8D%8F%E4%BA%86%23&Refer=top)
+
+1. [代客炒股赚千万自己炒股亏4万](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E5%AE%A2%E7%82%92%E8%82%A1%E8%B5%9A%E5%8D%83%E4%B8%87%E8%87%AA%E5%B7%B1%E7%82%92%E8%82%A1%E4%BA%8F4%E4%B8%87%23&Refer=top)
+
+1. [问诊时遇到的天使医生](https://s.weibo.com//weibo?q=%23%E9%97%AE%E8%AF%8A%E6%97%B6%E9%81%87%E5%88%B0%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%8C%BB%E7%94%9F%23&Refer=top)
+
+1. [当我照着别人的教程做饭时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%88%91%E7%85%A7%E7%9D%80%E5%88%AB%E4%BA%BA%E7%9A%84%E6%95%99%E7%A8%8B%E5%81%9A%E9%A5%AD%E6%97%B6%23&Refer=top)
+
+1. [广州2岁萌娃和老师超萌对话](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E2%E5%B2%81%E8%90%8C%E5%A8%83%E5%92%8C%E8%80%81%E5%B8%88%E8%B6%85%E8%90%8C%E5%AF%B9%E8%AF%9D%23&Refer=top)
+
+1. [女子超市偷4000元巧克力只嚼不咽](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B6%85%E5%B8%82%E5%81%B74000%E5%85%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8F%AA%E5%9A%BC%E4%B8%8D%E5%92%BD%23&Refer=top)
 
