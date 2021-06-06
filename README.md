@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 20:29:25
+## 微博今日热榜 更新于 2021-06-06 21:56:43
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -510,4 +510,34 @@
 1. [台州517事故与特斯拉车辆无关](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%B7%9E517%E4%BA%8B%E6%95%85%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E8%BE%86%E6%97%A0%E5%85%B3%23&Refer=top)
 
 1. [高考表情包](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top)
+
+1. [被公司要求转发朋友圈](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%85%AC%E5%8F%B8%E8%A6%81%E6%B1%82%E8%BD%AC%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [各大军校学员为高考生加油](https://s.weibo.com//weibo?q=%23%E5%90%84%E5%A4%A7%E5%86%9B%E6%A0%A1%E5%AD%A6%E5%91%98%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [汪小菲太有趣了](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E5%A4%AA%E6%9C%89%E8%B6%A3%E4%BA%86%23&Refer=top)
+
+1. [胡彦斌扶孟美岐好绅士](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%89%B6%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%A5%BD%E7%BB%85%E5%A3%AB%23&Refer=top)
+
+1. [二十岁就参透生死是啥体验](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B2%81%E5%B0%B1%E5%8F%82%E9%80%8F%E7%94%9F%E6%AD%BB%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [龚俊晒校服照为考生加油](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%99%92%E6%A0%A1%E6%9C%8D%E7%85%A7%E4%B8%BA%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [高考头像](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E5%A4%B4%E5%83%8F&Refer=top)
+
+1. [EDG 李汭燦](https://s.weibo.com//weibo?q=EDG%20%E6%9D%8E%E6%B1%AD%E7%87%A6&Refer=top)
+
+1. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [高考前一晚是怎么过的](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%80%E6%99%9A%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%87%E7%9A%84%23&Refer=top)
+
+1. [刘昊然切蓑衣黄瓜](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%88%87%E8%93%91%E8%A1%A3%E9%BB%84%E7%93%9C%23&Refer=top)
+
+1. [摩尔庄园起名大赏](https://s.weibo.com//weibo?q=%23%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E8%B5%B7%E5%90%8D%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [月光变奏曲](https://s.weibo.com//weibo?q=%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2&Refer=top)
+
+1. [一诺状态](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [国宝实力演绎倒头就睡](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%9D%E5%AE%9E%E5%8A%9B%E6%BC%94%E7%BB%8E%E5%80%92%E5%A4%B4%E5%B0%B1%E7%9D%A1%23&Refer=top)
 
