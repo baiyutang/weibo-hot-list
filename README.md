@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 22:34:06
+## 微博今日热榜 更新于 2021-06-06 23:10:57
 1. [全国累计接种新冠疫苗超7.4亿剂次](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%857.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -556,4 +556,32 @@
 1. [大自然的配色有多绝](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%87%AA%E7%84%B6%E7%9A%84%E9%85%8D%E8%89%B2%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
 
 1. [巴西消费者告赢苹果公司](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%B6%88%E8%B4%B9%E8%80%85%E5%91%8A%E8%B5%A2%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [张颜齐](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A2%9C%E9%BD%90&Refer=top)
+
+1. [邓伦发微博有多严谨](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%9C%89%E5%A4%9A%E4%B8%A5%E8%B0%A8%23&Refer=top)
+
+1. [初晨的露娜](https://s.weibo.com//weibo?q=%23%E5%88%9D%E6%99%A8%E7%9A%84%E9%9C%B2%E5%A8%9C%23&Refer=top)
+
+1. [有些人比狗还要狗](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%BA%9B%E4%BA%BA%E6%AF%94%E7%8B%97%E8%BF%98%E8%A6%81%E7%8B%97%23&Refer=top)
+
+1. [电脑不知道你这么狠](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%84%91%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BD%A0%E8%BF%99%E4%B9%88%E7%8B%A0%23&Refer=top)
+
+1. [玩游戏可以厉害到什么程度](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%8F%AF%E4%BB%A5%E5%8E%89%E5%AE%B3%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%23&Refer=top)
+
+1. [汉密尔顿失误](https://s.weibo.com//weibo?q=%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E5%A4%B1%E8%AF%AF&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
+
+1. [维斯塔潘爆胎](https://s.weibo.com//weibo?q=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E7%88%86%E8%83%8E&Refer=top)
+
+1. [高考前最后一课图鉴](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [F1阿塞拜疆大奖赛](https://s.weibo.com//weibo?q=%23F1%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top)
+
+1. [初夏九寨沟美如画](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%A4%8F%E4%B9%9D%E5%AF%A8%E6%B2%9F%E7%BE%8E%E5%A6%82%E7%94%BB%23&Refer=top)
+
+1. [张彬彬把隐形眼镜哭掉了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%8A%8A%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E5%93%AD%E6%8E%89%E4%BA%86%23&Refer=top)
 
