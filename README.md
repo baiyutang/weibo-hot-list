@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-07 17:09:25
+## 微博今日热榜 更新于 2021-06-07 18:49:23
 1. [中高风险区域有必要反复核酸筛查](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%E6%9C%89%E5%BF%85%E8%A6%81%E5%8F%8D%E5%A4%8D%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=new_time)
 
 1. [考生因太紧张连续2天丢失身份证](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E5%A4%AA%E7%B4%A7%E5%BC%A0%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
@@ -466,4 +466,62 @@
 1. [刘亦菲演的赵盼儿](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%BC%94%E7%9A%84%E8%B5%B5%E7%9B%BC%E5%84%BF&Refer=top)
 
 1. [全国人大拟授权上海制定浦东新区法规](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E6%8B%9F%E6%8E%88%E6%9D%83%E4%B8%8A%E6%B5%B7%E5%88%B6%E5%AE%9A%E6%B5%A6%E4%B8%9C%E6%96%B0%E5%8C%BA%E6%B3%95%E8%A7%84&Refer=top)
+
+1. [2021高考首日](https://s.weibo.com//weibo?q=%232021%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5%23&Refer=new_time)
+
+1. [双胞胎宝宝穿名校T恤送考](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%AE%9D%E5%AE%9D%E7%A9%BF%E5%90%8D%E6%A0%A1T%E6%81%A4%E9%80%81%E8%80%83%23&Refer=top)
+
+1. [EXO回归](https://s.weibo.com//weibo?q=%23EXO%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [浙江数学](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E6%95%B0%E5%AD%A6&Refer=top)
+
+1. [3米长鲨鱼排便过猛致脱肛](https://s.weibo.com//weibo?q=%233%E7%B1%B3%E9%95%BF%E9%B2%A8%E9%B1%BC%E6%8E%92%E4%BE%BF%E8%BF%87%E7%8C%9B%E8%87%B4%E8%84%B1%E8%82%9B%23&Refer=top)
+
+1. [再也看不到江苏浙江数学battle了](https://s.weibo.com//weibo?q=%E5%86%8D%E4%B9%9F%E7%9C%8B%E4%B8%8D%E5%88%B0%E6%B1%9F%E8%8B%8F%E6%B5%99%E6%B1%9F%E6%95%B0%E5%AD%A6battle%E4%BA%86&Refer=top)
+
+1. [第一天高考结束](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A4%A9%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [EXO回归MV里的张艺兴](https://s.weibo.com//weibo?q=%23EXO%E5%9B%9E%E5%BD%92MV%E9%87%8C%E7%9A%84%E5%BC%A0%E8%89%BA%E5%85%B4%23&Refer=top)
+
+1. [85岁爷爷坐6小时高铁为孙女陪考](https://s.weibo.com//weibo?q=%2385%E5%B2%81%E7%88%B7%E7%88%B7%E5%9D%906%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E4%B8%BA%E5%AD%99%E5%A5%B3%E9%99%AA%E8%80%83%23&Refer=top)
+
+1. [葛军](https://s.weibo.com//weibo?q=%E8%91%9B%E5%86%9B&Refer=top)
+
+1. [浙江高考数学独自solo](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E7%8B%AC%E8%87%AAsolo%23&Refer=top)
+
+1. [肖战神仙落泪](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%A5%9E%E4%BB%99%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [无印良品计划一半服装男女通穿](https://s.weibo.com//weibo?q=%23%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81%E8%AE%A1%E5%88%92%E4%B8%80%E5%8D%8A%E6%9C%8D%E8%A3%85%E7%94%B7%E5%A5%B3%E9%80%9A%E7%A9%BF%23&Refer=top)
+
+1. [公交车坐出了飞机的感觉](https://s.weibo.com//weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%9D%90%E5%87%BA%E4%BA%86%E9%A3%9E%E6%9C%BA%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top)
+
+1. [中方回应美3名联邦议员乘军机访台](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E3%E5%90%8D%E8%81%94%E9%82%A6%E8%AE%AE%E5%91%98%E4%B9%98%E5%86%9B%E6%9C%BA%E8%AE%BF%E5%8F%B0%23&Refer=top)
+
+1. [北京数学](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%95%B0%E5%AD%A6&Refer=top)
+
+1. [春日宴海报](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%97%A5%E5%AE%B4%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [你是我的荣耀首支预告](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [吴磊新剧演侯明昊师兄](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E6%96%B0%E5%89%A7%E6%BC%94%E4%BE%AF%E6%98%8E%E6%98%8A%E5%B8%88%E5%85%84%23&Refer=top)
+
+1. [高考神押题是什么体验](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%A5%9E%E6%8A%BC%E9%A2%98%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [赵露思生图](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [iG SN](https://s.weibo.com//weibo?q=iG%20SN&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [高考数学答案](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E7%AD%94%E6%A1%88&Refer=top)
+
+1. [山东数学大题](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E6%95%B0%E5%AD%A6%E5%A4%A7%E9%A2%98&Refer=top)
+
+1. [美术工作者手绘核酸检测上河图](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%9C%AF%E5%B7%A5%E4%BD%9C%E8%80%85%E6%89%8B%E7%BB%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%B8%8A%E6%B2%B3%E5%9B%BE%23&Refer=top)
+
+1. [蚂蚁金服回应相互宝关停](https://s.weibo.com//weibo?q=%23%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%9B%B8%E4%BA%92%E5%AE%9D%E5%85%B3%E5%81%9C%23&Refer=top)
+
+1. [熊猫边泡澡边思考熊生](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E8%BE%B9%E6%B3%A1%E6%BE%A1%E8%BE%B9%E6%80%9D%E8%80%83%E7%86%8A%E7%94%9F%23&Refer=top)
+
+1. [陈晓古装](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%99%93%E5%8F%A4%E8%A3%85%23&Refer=top)
 
