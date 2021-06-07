@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 06:29:16
+## 微博今日热榜 更新于 2021-06-08 07:26:00
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -118,4 +118,24 @@
 1. [迪丽热巴晒打卡下班照](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%99%92%E6%89%93%E5%8D%A1%E4%B8%8B%E7%8F%AD%E7%85%A7%23&Refer=top)
 
 1. [高考语文](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87&Refer=top)
+
+1. [苹果iOS15](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9CiOS15&Refer=top)
+
+1. [国足](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%23&Refer=top)
+
+1. [考生因戴金属牙套不能进考场](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E6%88%B4%E9%87%91%E5%B1%9E%E7%89%99%E5%A5%97%E4%B8%8D%E8%83%BD%E8%BF%9B%E8%80%83%E5%9C%BA%23&Refer=top)
+
+1. [清落大结局](https://s.weibo.com//weibo?q=%23%E6%B8%85%E8%90%BD%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [WWDC21](https://s.weibo.com//weibo?q=%23WWDC21%23&Refer=top)
+
+1. [武磊点球破门](https://s.weibo.com//weibo?q=%E6%AD%A6%E7%A3%8A%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [国足加油](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3%E5%8A%A0%E6%B2%B9&Refer=top)
+
+1. [中国男足击败菲律宾](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%87%BB%E8%B4%A5%E8%8F%B2%E5%BE%8B%E5%AE%BE&Refer=top)
+
+1. [中国女排四连败](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%9B%9B%E8%BF%9E%E8%B4%A5%23&Refer=top)
+
+1. [中国女排不敌塞尔维亚女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92%23&Refer=top)
 
