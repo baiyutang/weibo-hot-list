@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-07 07:16:27
+## 微博今日热榜 更新于 2021-06-07 08:32:27
 1. [中高风险区域有必要反复核酸筛查](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%E6%9C%89%E5%BF%85%E8%A6%81%E5%8F%8D%E5%A4%8D%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=new_time)
 
 1. [考生因太紧张连续2天丢失身份证](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E5%A4%AA%E7%B4%A7%E5%BC%A0%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
@@ -130,4 +130,68 @@
 1. [快船淘汰独行侠](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E8%88%B9%E6%B7%98%E6%B1%B0%E7%8B%AC%E8%A1%8C%E4%BE%A0%23&Refer=top)
 
 1. [南沙解封](https://s.weibo.com//weibo?q=%E5%8D%97%E6%B2%99%E8%A7%A3%E5%B0%81&Refer=top)
+
+1. [以青春之我耀信仰之光](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E9%9D%92%E6%98%A5%E4%B9%8B%E6%88%91%E8%80%80%E4%BF%A1%E4%BB%B0%E4%B9%8B%E5%85%89%23&Refer=new_time)
+
+1. [汪小菲 我老婆是第一](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B0%8F%E8%8F%B2%20%E6%88%91%E8%80%81%E5%A9%86%E6%98%AF%E7%AC%AC%E4%B8%80&Refer=top)
+
+1. [重庆一中学高三学生坐船赶考](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%B8%AD%E5%AD%A6%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%9D%90%E8%88%B9%E8%B5%B6%E8%80%83%23&Refer=top)
+
+1. [王嘉尔取消麦田音乐节活动](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8F%96%E6%B6%88%E9%BA%A6%E7%94%B0%E9%9F%B3%E4%B9%90%E8%8A%82%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [高三最后一课班主任哭着道歉](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%93%AD%E7%9D%80%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [小孩高烧抽搐快警护送3分钟就医](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A9%E9%AB%98%E7%83%A7%E6%8A%BD%E6%90%90%E5%BF%AB%E8%AD%A6%E6%8A%A4%E9%80%813%E5%88%86%E9%92%9F%E5%B0%B1%E5%8C%BB%23&Refer=top)
+
+1. [中国21个新冠疫苗进入临床试验](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD21%E4%B8%AA%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BF%9B%E5%85%A5%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%23&Refer=top)
+
+1. [5名男生穿婚纱拍毕业照](https://s.weibo.com//weibo?q=%235%E5%90%8D%E7%94%B7%E7%94%9F%E7%A9%BF%E5%A9%9A%E7%BA%B1%E6%8B%8D%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top)
+
+1. [董子健 没想到六月了谢宏祖还在挨骂](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%20%E6%B2%A1%E6%83%B3%E5%88%B0%E5%85%AD%E6%9C%88%E4%BA%86%E8%B0%A2%E5%AE%8F%E7%A5%96%E8%BF%98%E5%9C%A8%E6%8C%A8%E9%AA%82%23&Refer=top)
+
+1. [毕业四年后同学差距大吗](https://s.weibo.com//weibo?q=%23%E6%AF%95%E4%B8%9A%E5%9B%9B%E5%B9%B4%E5%90%8E%E5%90%8C%E5%AD%A6%E5%B7%AE%E8%B7%9D%E5%A4%A7%E5%90%97%23&Refer=top)
+
+1. [刘涛说许凯是盛世美颜](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E8%AF%B4%E8%AE%B8%E5%87%AF%E6%98%AF%E7%9B%9B%E4%B8%96%E7%BE%8E%E9%A2%9C%23&Refer=top)
+
+1. [鹿晗晒自己的锦鲤照为高考生加油](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E6%99%92%E8%87%AA%E5%B7%B1%E7%9A%84%E9%94%A6%E9%B2%A4%E7%85%A7%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [深圳龙岗新增1例确诊](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%BE%99%E5%B2%97%E6%96%B0%E5%A2%9E1%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [为什么会听到偶像剧女主发出这种声音](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%90%AC%E5%88%B0%E5%81%B6%E5%83%8F%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%8F%91%E5%87%BA%E8%BF%99%E7%A7%8D%E5%A3%B0%E9%9F%B3%23&Refer=top)
+
+1. [马来西亚疫情加剧全球芯荒](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%96%AB%E6%83%85%E5%8A%A0%E5%89%A7%E5%85%A8%E7%90%83%E8%8A%AF%E8%8D%92%23&Refer=top)
+
+1. [云南北迁象群一头公象离群](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%8C%97%E8%BF%81%E8%B1%A1%E7%BE%A4%E4%B8%80%E5%A4%B4%E5%85%AC%E8%B1%A1%E7%A6%BB%E7%BE%A4%23&Refer=top)
+
+1. [一盒巧克力产生的失望瞬间](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%9B%92%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%BA%A7%E7%94%9F%E7%9A%84%E5%A4%B1%E6%9C%9B%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [七度空间就卫生巾发现针头致歉](https://s.weibo.com//weibo?q=%23%E4%B8%83%E5%BA%A6%E7%A9%BA%E9%97%B4%E5%B0%B1%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%8F%91%E7%8E%B0%E9%92%88%E5%A4%B4%E8%87%B4%E6%AD%89%23&Refer=top)
+
+1. [刚毕业在大城市生活有多难](https://s.weibo.com//weibo?q=%23%E5%88%9A%E6%AF%95%E4%B8%9A%E5%9C%A8%E5%A4%A7%E5%9F%8E%E5%B8%82%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [广东新增5例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [尼日利亚无限期封停推特](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%B0%81%E5%81%9C%E6%8E%A8%E7%89%B9%23&Refer=top)
+
+1. [深圳乘机须持绿码和核酸阴性证明](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B9%98%E6%9C%BA%E9%A1%BB%E6%8C%81%E7%BB%BF%E7%A0%81%E5%92%8C%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%23&Refer=top)
+
+1. [2PM回归预告](https://s.weibo.com//weibo?q=2PM%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [哈登缺席G2](https://s.weibo.com//weibo?q=%23%E5%93%88%E7%99%BB%E7%BC%BA%E5%B8%ADG2%23&Refer=top)
+
+1. [杨幂手写加油为考生打气](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%89%8B%E5%86%99%E5%8A%A0%E6%B2%B9%E4%B8%BA%E8%80%83%E7%94%9F%E6%89%93%E6%B0%94%23&Refer=top)
+
+1. [北京高考考生首次刷脸进考场](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E9%A6%96%E6%AC%A1%E5%88%B7%E8%84%B8%E8%BF%9B%E8%80%83%E5%9C%BA%23&Refer=top)
+
+1. [斯里兰卡沉船有毒化学物质流入海中](https://s.weibo.com//weibo?q=%23%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E6%B2%89%E8%88%B9%E6%9C%89%E6%AF%92%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E6%B5%81%E5%85%A5%E6%B5%B7%E4%B8%AD%23&Refer=top)
+
+1. [广东疫情](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [东契奇乔治拥抱](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%A5%91%E5%A5%87%E4%B9%94%E6%B2%BB%E6%8B%A5%E6%8A%B1%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [芯片价格飙涨5倍](https://s.weibo.com//weibo?q=%23%E8%8A%AF%E7%89%87%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A85%E5%80%8D%23&Refer=top)
+
+1. [致命女人](https://s.weibo.com//weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA&Refer=top)
 
