@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 00:19:49
+## 微博今日热榜 更新于 2021-06-09 01:44:40
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -106,4 +106,18 @@
 1. [游戏人密室团建](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E6%88%8F%E4%BA%BA%E5%AF%86%E5%AE%A4%E5%9B%A2%E5%BB%BA%23&Refer=top)
 
 1. [男孩被困车底40多人赶来救人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%9B%B0%E8%BD%A6%E5%BA%9540%E5%A4%9A%E4%BA%BA%E8%B5%B6%E6%9D%A5%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [靠创新实现更好发展](https://s.weibo.com//weibo?q=%23%E9%9D%A0%E5%88%9B%E6%96%B0%E5%AE%9E%E7%8E%B0%E6%9B%B4%E5%A5%BD%E5%8F%91%E5%B1%95%23&Refer=new_time)
+
+1. [天官赐福更新演员表](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E6%9B%B4%E6%96%B0%E6%BC%94%E5%91%98%E8%A1%A8%23&Refer=top)
+
+1. [Angelababy加盟萌探探探案](https://s.weibo.com//weibo?q=%23Angelababy%E5%8A%A0%E7%9B%9F%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%23&Refer=top)
+
+1. [赵丽颖清甜感vlog](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B8%85%E7%94%9C%E6%84%9Fvlog&Refer=top)
+
+1. [翟潇闻水手服](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E6%B0%B4%E6%89%8B%E6%9C%8D%23&Refer=top)
+
+1. [居民医保人均财政补助标准新增30元](https://s.weibo.com//weibo?q=%23%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E4%BA%BA%E5%9D%87%E8%B4%A2%E6%94%BF%E8%A1%A5%E5%8A%A9%E6%A0%87%E5%87%86%E6%96%B0%E5%A2%9E30%E5%85%83%23&Refer=top)
+
+1. [五月的青春大结局](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E7%9A%84%E9%9D%92%E6%98%A5%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
 
