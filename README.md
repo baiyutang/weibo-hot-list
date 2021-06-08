@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 21:24:58
+## 微博今日热榜 更新于 2021-06-08 22:12:35
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -668,4 +668,30 @@
 1. [江苏倡议保留人工点餐](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%80%A1%E8%AE%AE%E4%BF%9D%E7%95%99%E4%BA%BA%E5%B7%A5%E7%82%B9%E9%A4%90%23&Refer=top)
 
 1. [净网集中行动启动](https://s.weibo.com//weibo?q=%23%E5%87%80%E7%BD%91%E9%9B%86%E4%B8%AD%E8%A1%8C%E5%8A%A8%E5%90%AF%E5%8A%A8%23&Refer=top)
+
+1. [马克龙遭扇耳光](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E9%81%AD%E6%89%87%E8%80%B3%E5%85%89%23&Refer=top)
+
+1. [宋祖儿海底种珊瑚vlog](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%B5%B7%E5%BA%95%E7%A7%8D%E7%8F%8A%E7%91%9Avlog%23&Refer=top)
+
+1. [河南出台公务员奖励办法](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E5%87%BA%E5%8F%B0%E5%85%AC%E5%8A%A1%E5%91%98%E5%A5%96%E5%8A%B1%E5%8A%9E%E6%B3%95&Refer=top)
+
+1. [中国女排 巴西女排](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E5%B7%B4%E8%A5%BF%E5%A5%B3%E6%8E%92&Refer=top)
+
+1. [男孩被困车底40多人赶来救人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%9B%B0%E8%BD%A6%E5%BA%9540%E5%A4%9A%E4%BA%BA%E8%B5%B6%E6%9D%A5%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [梁洁流泪告白戏](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%B4%81%E6%B5%81%E6%B3%AA%E5%91%8A%E7%99%BD%E6%88%8F%23&Refer=top)
+
+1. [猫咪的脾气可以有多大](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E7%9A%84%E8%84%BE%E6%B0%94%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [理想照耀中国从头再来开播](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E4%BB%8E%E5%A4%B4%E5%86%8D%E6%9D%A5%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [长城宽带网络](https://s.weibo.com//weibo?q=%E9%95%BF%E5%9F%8E%E5%AE%BD%E5%B8%A6%E7%BD%91%E7%BB%9C&Refer=top)
+
+1. [居民医保人均财政补助标准新增30元](https://s.weibo.com//weibo?q=%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E4%BA%BA%E5%9D%87%E8%B4%A2%E6%94%BF%E8%A1%A5%E5%8A%A9%E6%A0%87%E5%87%86%E6%96%B0%E5%A2%9E30%E5%85%83&Refer=top)
+
+1. [大师铁头劈砖后头破血流](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B8%88%E9%93%81%E5%A4%B4%E5%8A%88%E7%A0%96%E5%90%8E%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23&Refer=top)
+
+1. [第一个出考场的人](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E4%BA%BA&Refer=top)
+
+1. [没想到猫被鱼给咬了](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%8C%AB%E8%A2%AB%E9%B1%BC%E7%BB%99%E5%92%AC%E4%BA%86%23&Refer=top)
 
