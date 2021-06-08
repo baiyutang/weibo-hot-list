@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 04:10:26
+## 微博今日热榜 更新于 2021-06-09 05:04:25
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
