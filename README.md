@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 17:12:41
+## 微博今日热榜 更新于 2021-06-08 18:08:26
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -508,4 +508,52 @@
 1. [雄鹿还有机会逆转吗](https://s.weibo.com//weibo?q=%23%E9%9B%84%E9%B9%BF%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%80%86%E8%BD%AC%E5%90%97%23&Refer=top)
 
 1. [台湾新增219例本地确诊病例](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%A2%9E219%E4%BE%8B%E6%9C%AC%E5%9C%B0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [韩美娟哭了](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BE%8E%E5%A8%9F%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [高考日语](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E6%97%A5%E8%AF%AD&Refer=top)
+
+1. [男子辞职去海底种珊瑚](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BE%9E%E8%81%8C%E5%8E%BB%E6%B5%B7%E5%BA%95%E7%A7%8D%E7%8F%8A%E7%91%9A%23&Refer=top)
+
+1. [KTV的k是Kpop的K](https://s.weibo.com//weibo?q=%23KTV%E7%9A%84k%E6%98%AFKpop%E7%9A%84K%23&Refer=top)
+
+1. [54岁考生梁实理综三分之一没做完](https://s.weibo.com//weibo?q=%2354%E5%B2%81%E8%80%83%E7%94%9F%E6%A2%81%E5%AE%9E%E7%90%86%E7%BB%BC%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E6%B2%A1%E5%81%9A%E5%AE%8C%23&Refer=top)
+
+1. [娜扎与唐人影视合约到期不续约](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%8E%E5%94%90%E4%BA%BA%E5%BD%B1%E8%A7%86%E5%90%88%E7%BA%A6%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD%E7%BA%A6%23&Refer=top)
+
+1. [高考英语作文](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87&Refer=top)
+
+1. [张新成拿错行李箱](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E7%AE%B1%23&Refer=top)
+
+1. [杭州一大姐交九年保费后发现被骗](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A4%A7%E5%A7%90%E4%BA%A4%E4%B9%9D%E5%B9%B4%E4%BF%9D%E8%B4%B9%E5%90%8E%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%AA%97%23&Refer=top)
+
+1. [美国电子烟肺炎与新冠症状几乎无异](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%AD%90%E7%83%9F%E8%82%BA%E7%82%8E%E4%B8%8E%E6%96%B0%E5%86%A0%E7%97%87%E7%8A%B6%E5%87%A0%E4%B9%8E%E6%97%A0%E5%BC%82%23&Refer=top)
+
+1. [山河令制片人说龚俊张哲瀚是天选之人](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%E8%AF%B4%E9%BE%9A%E4%BF%8A%E5%BC%A0%E5%93%B2%E7%80%9A%E6%98%AF%E5%A4%A9%E9%80%89%E4%B9%8B%E4%BA%BA%23&Refer=top)
+
+1. [上海高考当天现对勾云](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%BD%93%E5%A4%A9%E7%8E%B0%E5%AF%B9%E5%8B%BE%E4%BA%91%23&Refer=top)
+
+1. [张雨绮演单亲妈妈](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%BC%94%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [冰雨火导演谈选择王一博理由](https://s.weibo.com//weibo?q=%23%E5%86%B0%E9%9B%A8%E7%81%AB%E5%AF%BC%E6%BC%94%E8%B0%88%E9%80%89%E6%8B%A9%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%90%86%E7%94%B1%23&Refer=top)
+
+1. [高考结束当天最想做的事](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%BD%93%E5%A4%A9%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B%23&Refer=top)
+
+1. [新任中国驻英国大使郑泽光到任](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%BB%BB%E4%B8%AD%E5%9B%BD%E9%A9%BB%E8%8B%B1%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%83%91%E6%B3%BD%E5%85%89%E5%88%B0%E4%BB%BB%23&Refer=top)
+
+1. [刘耀文怼脸比心大片](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%80%BC%E8%84%B8%E6%AF%94%E5%BF%83%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [宋亚轩书生造型](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B9%A6%E7%94%9F%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [燃油车时代要结束了吗](https://s.weibo.com//weibo?q=%23%E7%87%83%E6%B2%B9%E8%BD%A6%E6%97%B6%E4%BB%A3%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [高考结束那天的记忆](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E9%82%A3%E5%A4%A9%E7%9A%84%E8%AE%B0%E5%BF%86%23&Refer=top)
+
+1. [手汗症女孩的烦恼](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%B1%97%E7%97%87%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%83%A6%E6%81%BC%23&Refer=top)
+
+1. [印度9头狮子感染新冠1头死亡](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A69%E5%A4%B4%E7%8B%AE%E5%AD%90%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A01%E5%A4%B4%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [电商促销是真打折还是套路](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%95%86%E4%BF%83%E9%94%80%E6%98%AF%E7%9C%9F%E6%89%93%E6%8A%98%E8%BF%98%E6%98%AF%E5%A5%97%E8%B7%AF%23&Refer=top)
+
+1. [90岁奶奶提供高考休息凳几十年](https://s.weibo.com//weibo?q=%2390%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%8F%90%E4%BE%9B%E9%AB%98%E8%80%83%E4%BC%91%E6%81%AF%E5%87%B3%E5%87%A0%E5%8D%81%E5%B9%B4%23&Refer=top)
 
