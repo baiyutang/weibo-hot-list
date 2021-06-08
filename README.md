@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 22:12:35
+## 微博今日热榜 更新于 2021-06-08 23:08:41
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -694,4 +694,40 @@
 1. [第一个出考场的人](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E4%BA%BA&Refer=top)
 
 1. [没想到猫被鱼给咬了](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%8C%AB%E8%A2%AB%E9%B1%BC%E7%BB%99%E5%92%AC%E4%BA%86%23&Refer=top)
+
+1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [被李佳琦金靖笑死](https://s.weibo.com//weibo?q=%E8%A2%AB%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%E7%AC%91%E6%AD%BB&Refer=top)
+
+1. [江苏餐馆强迫顾客扫码点餐或被起诉](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%A4%90%E9%A6%86%E5%BC%BA%E8%BF%AB%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%88%96%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top)
+
+1. [李佳琦金靖刘胜瑛直播](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%E5%88%98%E8%83%9C%E7%91%9B%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [广州疫情](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [R1SE最后一场生日直播](https://s.weibo.com//weibo?q=%23R1SE%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [复旦大学](https://s.weibo.com//weibo?q=%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [海龟一窝产下196枚卵破纪录](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%BE%9F%E4%B8%80%E7%AA%9D%E4%BA%A7%E4%B8%8B196%E6%9E%9A%E5%8D%B5%E7%A0%B4%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [新冠全球溯源研究中国部分公布](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E5%85%A8%E7%90%83%E6%BA%AF%E6%BA%90%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%9B%BD%E9%83%A8%E5%88%86%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [男生弹琵琶为室友斗地主配乐](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%BC%B9%E7%90%B5%E7%90%B6%E4%B8%BA%E5%AE%A4%E5%8F%8B%E6%96%97%E5%9C%B0%E4%B8%BB%E9%85%8D%E4%B9%90%23&Refer=top)
+
+1. [衣衫褴褛的老太太 26岁的罗翔](https://s.weibo.com//weibo?q=%E8%A1%A3%E8%A1%AB%E8%A4%B4%E8%A4%9B%E7%9A%84%E8%80%81%E5%A4%AA%E5%A4%AA%2026%E5%B2%81%E7%9A%84%E7%BD%97%E7%BF%94&Refer=top)
+
+1. [美国10岁男童在家中被窗外子弹射死](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD10%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9C%A8%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%AA%97%E5%A4%96%E5%AD%90%E5%BC%B9%E5%B0%84%E6%AD%BB%23&Refer=top)
+
+1. [爸爸举林墨海报为女儿加油](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%BE%E6%9E%97%E5%A2%A8%E6%B5%B7%E6%8A%A5%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [管泽元解说](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E8%A7%A3%E8%AF%B4&Refer=top)
+
+1. [复旦大学数学科学学院党委书记遇害身亡](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%81%87%E5%AE%B3%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [应急警车一次没用上民警举标语庆祝](https://s.weibo.com//weibo?q=%23%E5%BA%94%E6%80%A5%E8%AD%A6%E8%BD%A6%E4%B8%80%E6%AC%A1%E6%B2%A1%E7%94%A8%E4%B8%8A%E6%B0%91%E8%AD%A6%E4%B8%BE%E6%A0%87%E8%AF%AD%E5%BA%86%E7%A5%9D%23&Refer=top)
+
+1. [高考结束后班主任讲话泪奔](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AE%B2%E8%AF%9D%E6%B3%AA%E5%A5%94%23&Refer=top)
+
+1. [广州二手房公积金最长可贷30年](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BA%8C%E6%89%8B%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%80%E9%95%BF%E5%8F%AF%E8%B4%B730%E5%B9%B4%23&Refer=top)
 
