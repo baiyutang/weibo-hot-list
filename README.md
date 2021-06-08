@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 11:53:48
+## 微博今日热榜 更新于 2021-06-08 12:38:31
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -296,4 +296,44 @@
 1. [尼康单反相机结束在日本国内生产](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E5%BA%B7%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA%E7%BB%93%E6%9D%9F%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%23&Refer=top)
 
 1. [杜兰特回怼记者](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E5%9B%9E%E6%80%BC%E8%AE%B0%E8%80%85%23&Refer=top)
+
+1. [带手机拍试卷高考生被取消考试资格](https://s.weibo.com//weibo?q=%23%E5%B8%A6%E6%89%8B%E6%9C%BA%E6%8B%8D%E8%AF%95%E5%8D%B7%E9%AB%98%E8%80%83%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E8%80%83%E8%AF%95%E8%B5%84%E6%A0%BC%23&Refer=top)
+
+1. [官方通报考生带手机拍摄试卷](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E5%B8%A6%E6%89%8B%E6%9C%BA%E6%8B%8D%E6%91%84%E8%AF%95%E5%8D%B7%23&Refer=top)
+
+1. [兰姐关爱儿子媳妇结婚十周年表演](https://s.weibo.com//weibo?q=%E5%85%B0%E5%A7%90%E5%85%B3%E7%88%B1%E5%84%BF%E5%AD%90%E5%AA%B3%E5%A6%87%E7%BB%93%E5%A9%9A%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A1%A8%E6%BC%94&Refer=top)
+
+1. [又凶又怂的小奶猫](https://s.weibo.com//weibo?q=%23%E5%8F%88%E5%87%B6%E5%8F%88%E6%80%82%E7%9A%84%E5%B0%8F%E5%A5%B6%E7%8C%AB%23&Refer=top)
+
+1. [武汉一高考考点外没留一处垃圾](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%A4%96%E6%B2%A1%E7%95%99%E4%B8%80%E5%A4%84%E5%9E%83%E5%9C%BE%23&Refer=top)
+
+1. [年轻人眼中的奢侈是什么](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%A5%A2%E4%BE%88%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [老板都看不下去了](https://s.weibo.com//weibo?q=%E8%80%81%E6%9D%BF%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&Refer=top)
+
+1. [良言写意双人剧照](https://s.weibo.com//weibo?q=%23%E8%89%AF%E8%A8%80%E5%86%99%E6%84%8F%E5%8F%8C%E4%BA%BA%E5%89%A7%E7%85%A7%23&Refer=top)
+
+1. [保洁扫出13部手机助破网络赌博案](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E6%B4%81%E6%89%AB%E5%87%BA13%E9%83%A8%E6%89%8B%E6%9C%BA%E5%8A%A9%E7%A0%B4%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E6%A1%88%23&Refer=top)
+
+1. [南京奶奶用算盘为孙女验算作业](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A5%B6%E5%A5%B6%E7%94%A8%E7%AE%97%E7%9B%98%E4%B8%BA%E5%AD%99%E5%A5%B3%E9%AA%8C%E7%AE%97%E4%BD%9C%E4%B8%9A%23&Refer=top)
+
+1. [男生高考前涉诈骗被抓获取保候审](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%89%8D%E6%B6%89%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8A%93%E8%8E%B7%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1%23&Refer=top)
+
+1. [90后小伙20天卖3万箱滞销人参果](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%9920%E5%A4%A9%E5%8D%963%E4%B8%87%E7%AE%B1%E6%BB%9E%E9%94%80%E4%BA%BA%E5%8F%82%E6%9E%9C%23&Refer=top)
+
+1. [掘金vs太阳](https://s.weibo.com//weibo?q=%23%E6%8E%98%E9%87%91vs%E5%A4%AA%E9%98%B3%23&Refer=top)
+
+1. [北京出台公共户落户政策](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E5%85%AC%E5%85%B1%E6%88%B7%E8%90%BD%E6%88%B7%E6%94%BF%E7%AD%96%23&Refer=top)
+
+1. [字母哥神情落寞](https://s.weibo.com//weibo?q=%23%E5%AD%97%E6%AF%8D%E5%93%A5%E7%A5%9E%E6%83%85%E8%90%BD%E5%AF%9E%23&Refer=top)
+
+1. [高考考完后最想做的事](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%AE%8C%E5%90%8E%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B%23&Refer=top)
+
+1. [当男人恋爱时终极预告](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%94%B7%E4%BA%BA%E6%81%8B%E7%88%B1%E6%97%B6%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [志愿军英雄就着雪吃炒面战强敌](https://s.weibo.com//weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E8%8B%B1%E9%9B%84%E5%B0%B1%E7%9D%80%E9%9B%AA%E5%90%83%E7%82%92%E9%9D%A2%E6%88%98%E5%BC%BA%E6%95%8C%23&Refer=top)
+
+1. [云南北迁象群睡觉休息画面](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E5%8C%97%E8%BF%81%E8%B1%A1%E7%BE%A4%E7%9D%A1%E8%A7%89%E4%BC%91%E6%81%AF%E7%94%BB%E9%9D%A2&Refer=top)
+
+1. [警用无人机给考生空投准考证](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%BB%99%E8%80%83%E7%94%9F%E7%A9%BA%E6%8A%95%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top)
 
