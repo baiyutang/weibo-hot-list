@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 18:08:26
+## 微博今日热榜 更新于 2021-06-08 19:08:41
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -556,4 +556,46 @@
 1. [电商促销是真打折还是套路](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%95%86%E4%BF%83%E9%94%80%E6%98%AF%E7%9C%9F%E6%89%93%E6%8A%98%E8%BF%98%E6%98%AF%E5%A5%97%E8%B7%AF%23&Refer=top)
 
 1. [90岁奶奶提供高考休息凳几十年](https://s.weibo.com//weibo?q=%2390%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%8F%90%E4%BE%9B%E9%AB%98%E8%80%83%E4%BC%91%E6%81%AF%E5%87%B3%E5%87%A0%E5%8D%81%E5%B9%B4%23&Refer=top)
+
+1. [女生直呼数学简单得让她心慌](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9B%B4%E5%91%BC%E6%95%B0%E5%AD%A6%E7%AE%80%E5%8D%95%E5%BE%97%E8%AE%A9%E5%A5%B9%E5%BF%83%E6%85%8C%23&Refer=top)
+
+1. [马嘉祺高考结束后的状态](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [野猪大闹驾校被5只狗打败](https://s.weibo.com//weibo?q=%23%E9%87%8E%E7%8C%AA%E5%A4%A7%E9%97%B9%E9%A9%BE%E6%A0%A1%E8%A2%AB5%E5%8F%AA%E7%8B%97%E6%89%93%E8%B4%A5%23&Refer=top)
+
+1. [李华爽约](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%8D%8E%E7%88%BD%E7%BA%A6%23&Refer=top)
+
+1. [现实版星黛露](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E6%98%9F%E9%BB%9B%E9%9C%B2%23&Refer=top)
+
+1. [李庚希古装造型](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [高三毕业生向食堂叔叔阿姨鞠躬](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E6%AF%95%E4%B8%9A%E7%94%9F%E5%90%91%E9%A3%9F%E5%A0%82%E5%8F%94%E5%8F%94%E9%98%BF%E5%A7%A8%E9%9E%A0%E8%BA%AC%23&Refer=top)
+
+1. [蒙犽端午皮肤](https://s.weibo.com//weibo?q=%23%E8%92%99%E7%8A%BD%E7%AB%AF%E5%8D%88%E7%9A%AE%E8%82%A4%23&Refer=top)
+
+1. [周雨彤骑自行车怎么穿](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E9%AA%91%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%80%8E%E4%B9%88%E7%A9%BF%23&Refer=top)
+
+1. [内蒙古一中学用双马开道送考](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%94%A8%E5%8F%8C%E9%A9%AC%E5%BC%80%E9%81%93%E9%80%81%E8%80%83%23&Refer=top)
+
+1. [赵立坚说自导自演反华闹剧终究徒劳](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E5%8F%8D%E5%8D%8E%E9%97%B9%E5%89%A7%E7%BB%88%E7%A9%B6%E5%BE%92%E5%8A%B3%23&Refer=top)
+
+1. [觉醒年代的隐喻绝了](https://s.weibo.com//weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E7%9A%84%E9%9A%90%E5%96%BB%E7%BB%9D%E4%BA%86%23&Refer=top)
+
+1. [英国性别平等组织要求禁用母亲一词](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E7%BB%84%E7%BB%87%E8%A6%81%E6%B1%82%E7%A6%81%E7%94%A8%E6%AF%8D%E4%BA%B2%E4%B8%80%E8%AF%8D&Refer=top)
+
+1. [感觉自己受到了排挤](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E4%BA%86%E6%8E%92%E6%8C%A4%23&Refer=top)
+
+1. [南大仙林校区再现野猪狂奔](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E4%BB%99%E6%9E%97%E6%A0%A1%E5%8C%BA%E5%86%8D%E7%8E%B0%E9%87%8E%E7%8C%AA%E7%8B%82%E5%A5%94%23&Refer=top)
+
+1. [杨幂听许魏洲唱爱的供养的小表情](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%90%AC%E8%AE%B8%E9%AD%8F%E6%B4%B2%E5%94%B1%E7%88%B1%E7%9A%84%E4%BE%9B%E5%85%BB%E7%9A%84%E5%B0%8F%E8%A1%A8%E6%83%85%23&Refer=top)
+
+1. [长颈鹿睡觉有点费脖子](https://s.weibo.com//weibo?q=%23%E9%95%BF%E9%A2%88%E9%B9%BF%E7%9D%A1%E8%A7%89%E6%9C%89%E7%82%B9%E8%B4%B9%E8%84%96%E5%AD%90%23&Refer=top)
+
+1. [广东吴川一地调整为中风险](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E5%90%B4%E5%B7%9D%E4%B8%80%E5%9C%B0%E8%B0%83%E6%95%B4%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9&Refer=top)
+
+1. [监考老师忘带监考证交警10分钟取回](https://s.weibo.com//weibo?q=%23%E7%9B%91%E8%80%83%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A6%E7%9B%91%E8%80%83%E8%AF%81%E4%BA%A4%E8%AD%A610%E5%88%86%E9%92%9F%E5%8F%96%E5%9B%9E%23&Refer=top)
+
+1. [大象神仙游](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E7%A5%9E%E4%BB%99%E6%B8%B8%23&Refer=top)
+
+1. [南沙全员核酸检测结果全部阴性](https://s.weibo.com//weibo?q=%E5%8D%97%E6%B2%99%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%85%A8%E9%83%A8%E9%98%B4%E6%80%A7&Refer=top)
 
