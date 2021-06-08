@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 07:26:00
+## 微博今日热榜 更新于 2021-06-08 08:36:40
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -138,4 +138,40 @@
 1. [中国女排四连败](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%9B%9B%E8%BF%9E%E8%B4%A5%23&Refer=top)
 
 1. [中国女排不敌塞尔维亚女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%8D%E6%95%8C%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92%23&Refer=top)
+
+1. [广东新增19例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E19%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [虞书欣 这会影响我女神的形象吧](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E8%BF%99%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%88%91%E5%A5%B3%E7%A5%9E%E7%9A%84%E5%BD%A2%E8%B1%A1%E5%90%A7%23&Refer=top)
+
+1. [刘亦菲 我是会员](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%88%91%E6%98%AF%E4%BC%9A%E5%91%98&Refer=top)
+
+1. [人类两成数学天赋由遗传决定](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E4%B8%A4%E6%88%90%E6%95%B0%E5%AD%A6%E5%A4%A9%E8%B5%8B%E7%94%B1%E9%81%97%E4%BC%A0%E5%86%B3%E5%AE%9A%23&Refer=top)
+
+1. [京兆尹声明](https://s.weibo.com//weibo?q=%E4%BA%AC%E5%85%86%E5%B0%B9%E5%A3%B0%E6%98%8E&Refer=top)
+
+1. [时代峰峻开通专挂私生微博](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%BC%80%E9%80%9A%E4%B8%93%E6%8C%82%E7%A7%81%E7%94%9F%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [广州公布144个涉疫重点场所或小区](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%85%AC%E5%B8%83144%E4%B8%AA%E6%B6%89%E7%96%AB%E9%87%8D%E7%82%B9%E5%9C%BA%E6%89%80%E6%88%96%E5%B0%8F%E5%8C%BA%23&Refer=top)
+
+1. [比特币](https://s.weibo.com//weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top)
+
+1. [孙怡女儿骑车背影照](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E5%A5%B3%E5%84%BF%E9%AA%91%E8%BD%A6%E8%83%8C%E5%BD%B1%E7%85%A7%23&Refer=top)
+
+1. [高考第二天](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&Refer=top)
+
+1. [做家务的男人](https://s.weibo.com//weibo?q=%E5%81%9A%E5%AE%B6%E5%8A%A1%E7%9A%84%E7%94%B7%E4%BA%BA&Refer=top)
+
+1. [你是我的荣耀](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [新macOS为Monterey](https://s.weibo.com//weibo?q=%E6%96%B0macOS%E4%B8%BAMonterey&Refer=top)
+
+1. [150秒看完苹果开发者大会](https://s.weibo.com//weibo?q=%23150%E7%A7%92%E7%9C%8B%E5%AE%8C%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%23&Refer=top)
+
+1. [反窥专用小马甲](https://s.weibo.com//weibo?q=%E5%8F%8D%E7%AA%A5%E4%B8%93%E7%94%A8%E5%B0%8F%E9%A9%AC%E7%94%B2&Refer=top)
+
+1. [日本公开文件](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E6%96%87%E4%BB%B6&Refer=top)
+
+1. [AirPods Pro支持查找功能](https://s.weibo.com//weibo?q=AirPods%20Pro%E6%94%AF%E6%8C%81%E6%9F%A5%E6%89%BE%E5%8A%9F%E8%83%BD&Refer=top)
+
+1. [世预赛](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top)
 
