@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 13:45:31
+## 微博今日热榜 更新于 2021-06-08 14:19:29
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -374,4 +374,22 @@
 1. [如何看待考试作弊行为](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%80%83%E8%AF%95%E4%BD%9C%E5%BC%8A%E8%A1%8C%E4%B8%BA%23&Refer=top)
 
 1. [男班主任穿旗袍给学生送考](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%A9%BF%E6%97%97%E8%A2%8D%E7%BB%99%E5%AD%A6%E7%94%9F%E9%80%81%E8%80%83%23&Refer=top)
+
+1. [丁禹兮染发染手上洗不掉](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9F%93%E5%8F%91%E6%9F%93%E6%89%8B%E4%B8%8A%E6%B4%97%E4%B8%8D%E6%8E%89%23&Refer=top)
+
+1. [高考时爆了冷门的科目](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E7%88%86%E4%BA%86%E5%86%B7%E9%97%A8%E7%9A%84%E7%A7%91%E7%9B%AE%23&Refer=top)
+
+1. [龚俊有多爱cue流程](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%9C%89%E5%A4%9A%E7%88%B1cue%E6%B5%81%E7%A8%8B%23&Refer=top)
+
+1. [陕西沙漠下发现罕见明长城营堡](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E6%B2%99%E6%BC%A0%E4%B8%8B%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%81%E6%98%8E%E9%95%BF%E5%9F%8E%E8%90%A5%E5%A0%A1%23&Refer=top)
+
+1. [广州核酸大排查发现阳性40人](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%A0%B8%E9%85%B8%E5%A4%A7%E6%8E%92%E6%9F%A5%E5%8F%91%E7%8E%B0%E9%98%B3%E6%80%A740%E4%BA%BA%23&Refer=top)
+
+1. [高考英语作文还会有李华吗](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E8%BF%98%E4%BC%9A%E6%9C%89%E6%9D%8E%E5%8D%8E%E5%90%97%23&Refer=top)
+
+1. [蓝色食物有多没食欲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E8%89%B2%E9%A3%9F%E7%89%A9%E6%9C%89%E5%A4%9A%E6%B2%A1%E9%A3%9F%E6%AC%B2%23&Refer=top)
+
+1. [见过最离谱的高考偏科](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E9%AB%98%E8%80%83%E5%81%8F%E7%A7%91%23&Refer=top)
+
+1. [见过最不可思议的跳绳搭档](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E8%B7%B3%E7%BB%B3%E6%90%AD%E6%A1%A3%23&Refer=top)
 
