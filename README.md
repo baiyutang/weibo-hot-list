@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 19:08:41
+## 微博今日热榜 更新于 2021-06-08 20:11:29
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -598,4 +598,34 @@
 1. [大象神仙游](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E7%A5%9E%E4%BB%99%E6%B8%B8%23&Refer=top)
 
 1. [南沙全员核酸检测结果全部阴性](https://s.weibo.com//weibo?q=%E5%8D%97%E6%B2%99%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%85%A8%E9%83%A8%E9%98%B4%E6%80%A7&Refer=top)
+
+1. [BIGBANG将以完整体回归](https://s.weibo.com//weibo?q=%23BIGBANG%E5%B0%86%E4%BB%A5%E5%AE%8C%E6%95%B4%E4%BD%93%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [大四女生抗癌1年后重返校园答辩](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E6%8A%97%E7%99%8C1%E5%B9%B4%E5%90%8E%E9%87%8D%E8%BF%94%E6%A0%A1%E5%9B%AD%E7%AD%94%E8%BE%A9%23&Refer=top)
+
+1. [赵丽颖生图](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [这样的室友好可怕](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E5%AE%A4%E5%8F%8B%E5%A5%BD%E5%8F%AF%E6%80%95%23&Refer=top)
+
+1. [走进美甲店要了一份花甲](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E7%BE%8E%E7%94%B2%E5%BA%97%E8%A6%81%E4%BA%86%E4%B8%80%E4%BB%BD%E8%8A%B1%E7%94%B2%23&Refer=top)
+
+1. [广州全市密闭娱乐场所停业](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%85%A8%E5%B8%82%E5%AF%86%E9%97%AD%E5%A8%B1%E4%B9%90%E5%9C%BA%E6%89%80%E5%81%9C%E4%B8%9A&Refer=top)
+
+1. [当领导面点开他私密文件夹](https://s.weibo.com//weibo?q=%23%E5%BD%93%E9%A2%86%E5%AF%BC%E9%9D%A2%E7%82%B9%E5%BC%80%E4%BB%96%E7%A7%81%E5%AF%86%E6%96%87%E4%BB%B6%E5%A4%B9%23&Refer=top)
+
+1. [不吃辣的广东人](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%83%E8%BE%A3%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA%23&Refer=top)
+
+1. [福州一高考点提前3分钟打结束铃](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%B7%9E%E4%B8%80%E9%AB%98%E8%80%83%E7%82%B9%E6%8F%90%E5%89%8D3%E5%88%86%E9%92%9F%E6%89%93%E7%BB%93%E6%9D%9F%E9%93%83&Refer=top)
+
+1. [南京一中学考场门前放冰块降温](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%80%83%E5%9C%BA%E9%97%A8%E5%89%8D%E6%94%BE%E5%86%B0%E5%9D%97%E9%99%8D%E6%B8%A9%23&Refer=top)
+
+1. [高考俄语](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E4%BF%84%E8%AF%AD&Refer=top)
+
+1. [如何看待家长带男孩进女浴室](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AE%B6%E9%95%BF%E5%B8%A6%E7%94%B7%E5%AD%A9%E8%BF%9B%E5%A5%B3%E6%B5%B4%E5%AE%A4%23&Refer=top)
+
+1. [吴谦就美国议员访问台湾答记者问](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A6%E5%B0%B1%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E8%AE%BF%E9%97%AE%E5%8F%B0%E6%B9%BE%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE%23&Refer=top)
+
+1. [2021唯一的日环食](https://s.weibo.com//weibo?q=%232021%E5%94%AF%E4%B8%80%E7%9A%84%E6%97%A5%E7%8E%AF%E9%A3%9F%23&Refer=top)
+
+1. [令人窒息的面试现场](https://s.weibo.com//weibo?q=%23%E4%BB%A4%E4%BA%BA%E7%AA%92%E6%81%AF%E7%9A%84%E9%9D%A2%E8%AF%95%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
