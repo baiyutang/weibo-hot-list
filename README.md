@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 08:36:40
+## 微博今日热榜 更新于 2021-06-08 10:40:32
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -174,4 +174,68 @@
 1. [AirPods Pro支持查找功能](https://s.weibo.com//weibo?q=AirPods%20Pro%E6%94%AF%E6%8C%81%E6%9F%A5%E6%89%BE%E5%8A%9F%E8%83%BD&Refer=top)
 
 1. [世预赛](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top)
+
+1. [北京一考生高考语文提前半小时交卷](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%8F%90%E5%89%8D%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%BA%A4%E5%8D%B7%23&Refer=top)
+
+1. [中国共产党人的精神谱系](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%B0%B1%E7%B3%BB%23&Refer=top)
+
+1. [作弊 小猿搜题](https://s.weibo.com//weibo?q=%E4%BD%9C%E5%BC%8A%20%E5%B0%8F%E7%8C%BF%E6%90%9C%E9%A2%98&Refer=top)
+
+1. [蒋方舟](https://s.weibo.com//weibo?q=%E8%92%8B%E6%96%B9%E8%88%9F&Refer=top)
+
+1. [上海一商场未打疫苗不让进](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%95%86%E5%9C%BA%E6%9C%AA%E6%89%93%E7%96%AB%E8%8B%97%E4%B8%8D%E8%AE%A9%E8%BF%9B%23&Refer=top)
+
+1. [高考物理](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&Refer=top)
+
+1. [高考历史](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&Refer=top)
+
+1. [几十年的友情就这样没了](https://s.weibo.com//weibo?q=%23%E5%87%A0%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%8B%E6%83%85%E5%B0%B1%E8%BF%99%E6%A0%B7%E6%B2%A1%E4%BA%86%23&Refer=top)
+
+1. [诈骗分子把办公室开在派出所对面](https://s.weibo.com//weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%8A%8A%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%BC%80%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E5%AF%B9%E9%9D%A2%23&Refer=top)
+
+1. [妈妈有智力障碍该锁家里吗](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E6%9C%89%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D%E8%AF%A5%E9%94%81%E5%AE%B6%E9%87%8C%E5%90%97%23&Refer=top)
+
+1. [李晟 李佳航](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%99%9F%20%E6%9D%8E%E4%BD%B3%E8%88%AA&Refer=top)
+
+1. [汪小菲离婚风波后首现身](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E7%A6%BB%E5%A9%9A%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB%23&Refer=top)
+
+1. [冰箱家族画赵丽颖](https://s.weibo.com//weibo?q=%23%E5%86%B0%E7%AE%B1%E5%AE%B6%E6%97%8F%E7%94%BB%E8%B5%B5%E4%B8%BD%E9%A2%96%23&Refer=top)
+
+1. [提供猫猫照片情不自禁发二十张](https://s.weibo.com//weibo?q=%E6%8F%90%E4%BE%9B%E7%8C%AB%E7%8C%AB%E7%85%A7%E7%89%87%E6%83%85%E4%B8%8D%E8%87%AA%E7%A6%81%E5%8F%91%E4%BA%8C%E5%8D%81%E5%BC%A0&Refer=top)
+
+1. [去年超15亿个口罩流入海洋](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E5%B9%B4%E8%B6%8515%E4%BA%BF%E4%B8%AA%E5%8F%A3%E7%BD%A9%E6%B5%81%E5%85%A5%E6%B5%B7%E6%B4%8B%23&Refer=top)
+
+1. [待业在家父母会嫌弃你吗](https://s.weibo.com//weibo?q=%23%E5%BE%85%E4%B8%9A%E5%9C%A8%E5%AE%B6%E7%88%B6%E6%AF%8D%E4%BC%9A%E5%AB%8C%E5%BC%83%E4%BD%A0%E5%90%97%23&Refer=top)
+
+1. [被一句话伤很久是什么体验](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%BC%A4%E5%BE%88%E4%B9%85%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [北京的哥送考车里贴满段子](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9A%84%E5%93%A5%E9%80%81%E8%80%83%E8%BD%A6%E9%87%8C%E8%B4%B4%E6%BB%A1%E6%AE%B5%E5%AD%90%23&Refer=top)
+
+1. [女子不顾民警阻拦坚持汇款被骗](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%A1%BE%E6%B0%91%E8%AD%A6%E9%98%BB%E6%8B%A6%E5%9D%9A%E6%8C%81%E6%B1%87%E6%AC%BE%E8%A2%AB%E9%AA%97%23&Refer=top)
+
+1. [打车打到座寺庙](https://s.weibo.com//weibo?q=%23%E6%89%93%E8%BD%A6%E6%89%93%E5%88%B0%E5%BA%A7%E5%AF%BA%E5%BA%99%23&Refer=top)
+
+1. [董明珠称格力将接入鸿蒙](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E5%B0%86%E6%8E%A5%E5%85%A5%E9%B8%BF%E8%92%99%23&Refer=top)
+
+1. [篮网39分大胜雄鹿](https://s.weibo.com//weibo?q=%23%E7%AF%AE%E7%BD%9139%E5%88%86%E5%A4%A7%E8%83%9C%E9%9B%84%E9%B9%BF%23&Refer=top)
+
+1. [漫画作者回应作品入选高考作文题](https://s.weibo.com//weibo?q=%23%E6%BC%AB%E7%94%BB%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E4%BD%9C%E5%93%81%E5%85%A5%E9%80%89%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&Refer=top)
+
+1. [高考睡着了是什么体验](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%9D%A1%E7%9D%80%E4%BA%86%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [最牛又最怂的打针架势](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%89%9B%E5%8F%88%E6%9C%80%E6%80%82%E7%9A%84%E6%89%93%E9%92%88%E6%9E%B6%E5%8A%BF%23&Refer=top)
+
+1. [全国近7成樱桃来自山东烟台](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E8%BF%917%E6%88%90%E6%A8%B1%E6%A1%83%E6%9D%A5%E8%87%AA%E5%B1%B1%E4%B8%9C%E7%83%9F%E5%8F%B0%23&Refer=top)
+
+1. [印度一邦至少20人因雷击死亡](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%82%A6%E8%87%B3%E5%B0%9120%E4%BA%BA%E5%9B%A0%E9%9B%B7%E5%87%BB%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [打工人的六个特征](https://s.weibo.com//weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%85%AD%E4%B8%AA%E7%89%B9%E5%BE%81%23&Refer=top)
+
+1. [女孩在核桃里打造可爱童话世界](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A0%B8%E6%A1%83%E9%87%8C%E6%89%93%E9%80%A0%E5%8F%AF%E7%88%B1%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C%23&Refer=top)
+
+1. [宋寅说飞行员不分男女](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%AF%85%E8%AF%B4%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%8D%E5%88%86%E7%94%B7%E5%A5%B3%23&Refer=top)
+
+1. [1700名奥运相关人员入境日本未隔离](https://s.weibo.com//weibo?q=%231700%E5%90%8D%E5%A5%A5%E8%BF%90%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E5%85%A5%E5%A2%83%E6%97%A5%E6%9C%AC%E6%9C%AA%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [广州关停中高风险及封控区域农贸市场](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%85%B3%E5%81%9C%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8F%8A%E5%B0%81%E6%8E%A7%E5%8C%BA%E5%9F%9F%E5%86%9C%E8%B4%B8%E5%B8%82%E5%9C%BA%23&Refer=top)
 
