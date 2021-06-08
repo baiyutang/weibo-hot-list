@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 01:44:40
+## 微博今日热榜 更新于 2021-06-09 02:29:47
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [居民医保人均财政补助标准新增30元](https://s.weibo.com//weibo?q=%23%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E4%BA%BA%E5%9D%87%E8%B4%A2%E6%94%BF%E8%A1%A5%E5%8A%A9%E6%A0%87%E5%87%86%E6%96%B0%E5%A2%9E30%E5%85%83%23&Refer=top)
 
 1. [五月的青春大结局](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E7%9A%84%E9%9D%92%E6%98%A5%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [戚薇短发](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E7%9F%AD%E5%8F%91%23&Refer=top)
+
+1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
 
