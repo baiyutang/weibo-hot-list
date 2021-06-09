@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 02:24:10
+## 微博今日热榜 更新于 2021-06-10 03:21:18
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [白玉兰提名酒会](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E9%85%92%E4%BC%9A%23&Refer=top)
 
 1. [学生资助管理中心致毕业生的信](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%B5%84%E5%8A%A9%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E8%87%B4%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [张哲瀚到底有多怕晒](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%80%95%E6%99%92%23&Refer=top)
 
