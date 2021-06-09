@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 20:07:25
+## 微博今日热榜 更新于 2021-06-09 21:22:58
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -554,4 +554,36 @@
 1. [推广境外赌博传播涉赌信息将被严惩](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%B9%BF%E5%A2%83%E5%A4%96%E8%B5%8C%E5%8D%9A%E4%BC%A0%E6%92%AD%E6%B6%89%E8%B5%8C%E4%BF%A1%E6%81%AF%E5%B0%86%E8%A2%AB%E4%B8%A5%E6%83%A9%23&Refer=top)
 
 1. [等待女儿高考的父亲](https://s.weibo.com//weibo?q=%23%E7%AD%89%E5%BE%85%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E7%9A%84%E7%88%B6%E4%BA%B2%23&Refer=top)
+
+1. [女孩脑出血离世捐献全部器官救7人](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%84%91%E5%87%BA%E8%A1%80%E7%A6%BB%E4%B8%96%E6%8D%90%E7%8C%AE%E5%85%A8%E9%83%A8%E5%99%A8%E5%AE%98%E6%95%917%E4%BA%BA%23&Refer=top)
+
+1. [肖战青岛特色小吃vlog](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E9%9D%92%E5%B2%9B%E7%89%B9%E8%89%B2%E5%B0%8F%E5%90%83vlog%23&Refer=top)
+
+1. [日本推出菠萝包口罩](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E8%8F%A0%E8%90%9D%E5%8C%85%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [山东临沂一社区免费为适婚青年分婚房](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%B4%E6%B2%82%E4%B8%80%E7%A4%BE%E5%8C%BA%E5%85%8D%E8%B4%B9%E4%B8%BA%E9%80%82%E5%A9%9A%E9%9D%92%E5%B9%B4%E5%88%86%E5%A9%9A%E6%88%BF%23&Refer=top)
+
+1. [一入境男子逃避闭环转运被行拘](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%85%A5%E5%A2%83%E7%94%B7%E5%AD%90%E9%80%83%E9%81%BF%E9%97%AD%E7%8E%AF%E8%BD%AC%E8%BF%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [喻言晒新发色](https://s.weibo.com//weibo?q=%23%E5%96%BB%E8%A8%80%E6%99%92%E6%96%B0%E5%8F%91%E8%89%B2%23&Refer=top)
+
+1. [INTO1带林墨人形立牌彩排](https://s.weibo.com//weibo?q=%23INTO1%E5%B8%A6%E6%9E%97%E5%A2%A8%E4%BA%BA%E5%BD%A2%E7%AB%8B%E7%89%8C%E5%BD%A9%E6%8E%92%23&Refer=top)
+
+1. [美国数百万剂新冠疫苗月底即将过期](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%95%B0%E7%99%BE%E4%B8%87%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9C%88%E5%BA%95%E5%8D%B3%E5%B0%86%E8%BF%87%E6%9C%9F%23&Refer=top)
+
+1. [神舟十二号船箭组合体转运至发射区](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%88%B9%E7%AE%AD%E7%BB%84%E5%90%88%E4%BD%93%E8%BD%AC%E8%BF%90%E8%87%B3%E5%8F%91%E5%B0%84%E5%8C%BA%23&Refer=top)
+
+1. [原来大象也会欣赏音乐](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E8%B1%A1%E4%B9%9F%E4%BC%9A%E6%AC%A3%E8%B5%8F%E9%9F%B3%E4%B9%90%23&Refer=top)
+
+1. [学生资助管理中心致毕业生的信](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%B5%84%E5%8A%A9%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E8%87%B4%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [澳大利亚农民用油桶活烧老鼠被骂残忍](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%86%9C%E6%B0%91%E7%94%A8%E6%B2%B9%E6%A1%B6%E6%B4%BB%E7%83%A7%E8%80%81%E9%BC%A0%E8%A2%AB%E9%AA%82%E6%AE%8B%E5%BF%8D%23&Refer=top)
+
+1. [重庆推出游轮剧本杀](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%8E%A8%E5%87%BA%E6%B8%B8%E8%BD%AE%E5%89%A7%E6%9C%AC%E6%9D%80%23&Refer=top)
+
+1. [做家务的男人3定档](https://s.weibo.com//weibo?q=%23%E5%81%9A%E5%AE%B6%E5%8A%A1%E7%9A%84%E7%94%B7%E4%BA%BA3%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [想实名安利的专业](https://s.weibo.com//weibo?q=%23%E6%83%B3%E5%AE%9E%E5%90%8D%E5%AE%89%E5%88%A9%E7%9A%84%E4%B8%93%E4%B8%9A%23&Refer=top)
 
