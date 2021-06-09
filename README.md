@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 05:03:11
+## 微博今日热榜 更新于 2021-06-10 06:04:02
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [李佳琦条纹衬衫](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%9D%A1%E7%BA%B9%E8%A1%AC%E8%A1%AB%23&Refer=top)
 
 1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [热依扎吊带红裙造型](https://s.weibo.com//weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E5%90%8A%E5%B8%A6%E7%BA%A2%E8%A3%99%E9%80%A0%E5%9E%8B%23&Refer=top)
 
