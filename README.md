@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 18:05:52
+## 微博今日热榜 更新于 2021-06-09 19:04:51
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -486,4 +486,40 @@
 1. [山东高考化学难度](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6%E9%9A%BE%E5%BA%A6&Refer=top)
 
 1. [考生考后向交警鞠躬致谢](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E8%80%83%E5%90%8E%E5%90%91%E4%BA%A4%E8%AD%A6%E9%9E%A0%E8%BA%AC%E8%87%B4%E8%B0%A2%23&Refer=top)
+
+1. [印度男子扮成新娘潜入婚礼现场被揭穿](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%89%AE%E6%88%90%E6%96%B0%E5%A8%98%E6%BD%9C%E5%85%A5%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E8%A2%AB%E6%8F%AD%E7%A9%BF&Refer=top)
+
+1. [国内多家贤合庄倒闭注销](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%86%85%E5%A4%9A%E5%AE%B6%E8%B4%A4%E5%90%88%E5%BA%84%E5%80%92%E9%97%AD%E6%B3%A8%E9%94%80%23&Refer=top)
+
+1. [前中国男排队长去世](https://s.weibo.com//weibo?q=%23%E5%89%8D%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E9%98%9F%E9%95%BF%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [陈小纭一箭十环](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E4%B8%80%E7%AE%AD%E5%8D%81%E7%8E%AF%23&Refer=top)
+
+1. [别再辜负血小板的努力了](https://s.weibo.com//weibo?q=%23%E5%88%AB%E5%86%8D%E8%BE%9C%E8%B4%9F%E8%A1%80%E5%B0%8F%E6%9D%BF%E7%9A%84%E5%8A%AA%E5%8A%9B%E4%BA%86%23&Refer=top)
+
+1. [乌合麒麟曾孝濂联合新作细节](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%9B%BE%E5%AD%9D%E6%BF%82%E8%81%94%E5%90%88%E6%96%B0%E4%BD%9C%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [难听](https://s.weibo.com//weibo?q=%E9%9A%BE%E5%90%AC&Refer=top)
+
+1. [Loki](https://s.weibo.com//weibo?q=Loki&Refer=top)
+
+1. [马嘉祺唱快乐星球](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%94%B1%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [董思成生图](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%80%9D%E6%88%90%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [耳背引发的社死能有多尴尬](https://s.weibo.com//weibo?q=%23%E8%80%B3%E8%83%8C%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC%23&Refer=top)
+
+1. [Smlz状态](https://s.weibo.com//weibo?q=%23Smlz%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [沧州交警并未说考生牙套引发警报](https://s.weibo.com//weibo?q=%23%E6%B2%A7%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%B9%B6%E6%9C%AA%E8%AF%B4%E8%80%83%E7%94%9F%E7%89%99%E5%A5%97%E5%BC%95%E5%8F%91%E8%AD%A6%E6%8A%A5%23&Refer=top)
+
+1. [陈东升称企业家带着财富去世是耻辱](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%B8%9C%E5%8D%87%E7%A7%B0%E4%BC%81%E4%B8%9A%E5%AE%B6%E5%B8%A6%E7%9D%80%E8%B4%A2%E5%AF%8C%E5%8E%BB%E4%B8%96%E6%98%AF%E8%80%BB%E8%BE%B1%23&Refer=top)
+
+1. [外交部回应美再度炒作新冠溯源](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%8D%E5%BA%A6%E7%82%92%E4%BD%9C%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%23&Refer=top)
+
+1. [男生出考场最想给妈妈一个拥抱](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E6%9C%80%E6%83%B3%E7%BB%99%E5%A6%88%E5%A6%88%E4%B8%80%E4%B8%AA%E6%8B%A5%E6%8A%B1%23&Refer=top)
+
+1. [联合国大会 2030年结束艾滋病流行](https://s.weibo.com//weibo?q=%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%202030%E5%B9%B4%E7%BB%93%E6%9D%9F%E8%89%BE%E6%BB%8B%E7%97%85%E6%B5%81%E8%A1%8C&Refer=top)
+
+1. [周扬青与男子雨中撑伞相依](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E4%B8%8E%E7%94%B7%E5%AD%90%E9%9B%A8%E4%B8%AD%E6%92%91%E4%BC%9E%E7%9B%B8%E4%BE%9D%23&Refer=top)
 
