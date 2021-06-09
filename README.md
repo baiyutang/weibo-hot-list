@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 00:19:31
+## 微博今日热榜 更新于 2021-06-10 01:35:12
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [一整颗青柠气泡咖](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%95%B4%E9%A2%97%E9%9D%92%E6%9F%A0%E6%B0%94%E6%B3%A1%E5%92%96%23&Refer=top)
 
 1. [一入境男子逃避闭环转运被行拘](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%85%A5%E5%A2%83%E7%94%B7%E5%AD%90%E9%80%83%E9%81%BF%E9%97%AD%E7%8E%AF%E8%BD%AC%E8%BF%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [云南离群独象掉队12公里](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%A6%BB%E7%BE%A4%E7%8B%AC%E8%B1%A1%E6%8E%89%E9%98%9F12%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [李健毛不易互推新歌](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%81%A5%E6%AF%9B%E4%B8%8D%E6%98%93%E4%BA%92%E6%8E%A8%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [00后新兵授枪仪式](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E6%96%B0%E5%85%B5%E6%8E%88%E6%9E%AA%E4%BB%AA%E5%BC%8F%23&Refer=top)
+
+1. [夏日清透慵懒妆](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E6%B8%85%E9%80%8F%E6%85%B5%E6%87%92%E5%A6%86%23&Refer=top)
 
