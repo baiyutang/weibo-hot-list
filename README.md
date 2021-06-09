@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 07:05:17
+## 微博今日热榜 更新于 2021-06-09 08:17:25
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -134,4 +134,44 @@
 1. [童瑶原声英文台词](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E7%91%B6%E5%8E%9F%E5%A3%B0%E8%8B%B1%E6%96%87%E5%8F%B0%E8%AF%8D%23&Refer=top)
 
 1. [林俊杰向薇娅推荐自己的演唱会](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%91%E8%96%87%E5%A8%85%E6%8E%A8%E8%8D%90%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+
+1. [教育部通报考生手机作弊事件](https://s.weibo.com//weibo?q=%E6%95%99%E8%82%B2%E9%83%A8%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E6%89%8B%E6%9C%BA%E4%BD%9C%E5%BC%8A%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [艾福杰尼写高考英语作文](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%A6%8F%E6%9D%B0%E5%B0%BC%E5%86%99%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%23&Refer=top)
+
+1. [河南电视台 清空微博](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%20%E6%B8%85%E7%A9%BA%E5%BE%AE%E5%8D%9A&Refer=top)
+
+1. [张常宁yyds](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B8%B8%E5%AE%81yyds&Refer=top)
+
+1. [广东新增8例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E8%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [作弊考生将手机藏在薄衣内带入考场](https://s.weibo.com//weibo?q=%23%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%B0%86%E6%89%8B%E6%9C%BA%E8%97%8F%E5%9C%A8%E8%96%84%E8%A1%A3%E5%86%85%E5%B8%A6%E5%85%A5%E8%80%83%E5%9C%BA%23&Refer=top)
+
+1. [湖北高考生作弊事件不存在考前泄题](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E9%AB%98%E8%80%83%E7%94%9F%E4%BD%9C%E5%BC%8A%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%80%83%E5%89%8D%E6%B3%84%E9%A2%98%23&Refer=top)
+
+1. [没想到免疫系统也得高考](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E4%B9%9F%E5%BE%97%E9%AB%98%E8%80%83%23&Refer=top)
+
+1. [米卡 抱歉最近发微博有点少了](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%20%E6%8A%B1%E6%AD%89%E6%9C%80%E8%BF%91%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%9C%89%E7%82%B9%E5%B0%91%E4%BA%86%23&Refer=top)
+
+1. [中国女排战胜巴西女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E5%B7%B4%E8%A5%BF%E5%A5%B3%E6%8E%92%23&Refer=top)
+
+1. [2022QS世界大学排名](https://s.weibo.com//weibo?q=%232022QS%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%23&Refer=top)
+
+1. [日本新潟县疑似注射未经稀释的疫苗原液](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%96%B0%E6%BD%9F%E5%8E%BF%E7%96%91%E4%BC%BC%E6%B3%A8%E5%B0%84%E6%9C%AA%E7%BB%8F%E7%A8%80%E9%87%8A%E7%9A%84%E7%96%AB%E8%8B%97%E5%8E%9F%E6%B6%B2%23&Refer=top)
+
+1. [领导太八卦是什么体验](https://s.weibo.com//weibo?q=%23%E9%A2%86%E5%AF%BC%E5%A4%AA%E5%85%AB%E5%8D%A6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [张常宁36分](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%8136%E5%88%86%23&Refer=top)
+
+1. [天赐灵机预告](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E8%B5%90%E7%81%B5%E6%9C%BA%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [太原打雷](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%89%93%E9%9B%B7%23&Refer=top)
+
+1. [林俊杰 裹着心的光](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E8%A3%B9%E7%9D%80%E5%BF%83%E7%9A%84%E5%85%89&Refer=top)
+
+1. [约基奇当选MVP](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E5%9F%BA%E5%A5%87%E5%BD%93%E9%80%89MVP%23&Refer=top)
+
+1. [黄景瑜楼梯间打戏](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%A5%BC%E6%A2%AF%E9%97%B4%E6%89%93%E6%88%8F%23&Refer=top)
+
+1. [云南象群仍在昆明晋宁区活动](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%B1%A1%E7%BE%A4%E4%BB%8D%E5%9C%A8%E6%98%86%E6%98%8E%E6%99%8B%E5%AE%81%E5%8C%BA%E6%B4%BB%E5%8A%A8%23&Refer=top)
 
