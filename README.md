@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 15:18:39
+## 微博今日热榜 更新于 2021-06-09 16:09:24
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -426,4 +426,16 @@
 1. [高考完班主任给全班准备惊喜奶茶](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%AE%8C%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%99%E5%85%A8%E7%8F%AD%E5%87%86%E5%A4%87%E6%83%8A%E5%96%9C%E5%A5%B6%E8%8C%B6%23&Refer=top)
 
 1. [学校用学生书法当作校牌](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%94%A8%E5%AD%A6%E7%94%9F%E4%B9%A6%E6%B3%95%E5%BD%93%E4%BD%9C%E6%A0%A1%E7%89%8C%23&Refer=top)
+
+1. [11分钟换4个小时的生命接力](https://s.weibo.com//weibo?q=%2311%E5%88%86%E9%92%9F%E6%8D%A24%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%94%9F%E5%91%BD%E6%8E%A5%E5%8A%9B%23&Refer=top)
+
+1. [刘涛 我哪有时间对所有人好](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%20%E6%88%91%E5%93%AA%E6%9C%89%E6%97%B6%E9%97%B4%E5%AF%B9%E6%89%80%E6%9C%89%E4%BA%BA%E5%A5%BD%23&Refer=top)
+
+1. [全国新冠疫苗接种剂次超8亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%89%82%E6%AC%A1%E8%B6%858%E4%BA%BF%23&Refer=top)
+
+1. [王一博回归街舞4](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9B%9E%E5%BD%92%E8%A1%97%E8%88%9E4%23&Refer=top)
+
+1. [刘宇撑伞氛围感](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E6%92%91%E4%BC%9E%E6%B0%9B%E5%9B%B4%E6%84%9F%23&Refer=top)
+
+1. [如何看待弟弟藏了姐姐的准考证](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BC%9F%E5%BC%9F%E8%97%8F%E4%BA%86%E5%A7%90%E5%A7%90%E7%9A%84%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top)
 
