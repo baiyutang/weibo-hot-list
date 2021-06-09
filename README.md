@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 17:08:28
+## 微博今日热榜 更新于 2021-06-09 18:05:52
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -452,4 +452,38 @@
 1. [美国的惯用伎俩有多可笑](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%83%AF%E7%94%A8%E4%BC%8E%E4%BF%A9%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%AC%91%23&Refer=top)
 
 1. [油柑价格飙涨数十倍](https://s.weibo.com//weibo?q=%23%E6%B2%B9%E6%9F%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8%E6%95%B0%E5%8D%81%E5%80%8D%23&Refer=top)
+
+1. [高考平均680分的婚礼](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%B9%B3%E5%9D%87680%E5%88%86%E7%9A%84%E5%A9%9A%E7%A4%BC%23&Refer=top)
+
+1. [姐姐辟谣弟弟藏自己准考证](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%A7%90%E8%BE%9F%E8%B0%A3%E5%BC%9F%E5%BC%9F%E8%97%8F%E8%87%AA%E5%B7%B1%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top)
+
+1. [外交部回应日本资助中国个人赴日考察](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%B5%84%E5%8A%A9%E4%B8%AD%E5%9B%BD%E4%B8%AA%E4%BA%BA%E8%B5%B4%E6%97%A5%E8%80%83%E5%AF%9F&Refer=top)
+
+1. [这生日突然就不想过了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%94%9F%E6%97%A5%E7%AA%81%E7%84%B6%E5%B0%B1%E4%B8%8D%E6%83%B3%E8%BF%87%E4%BA%86%23&Refer=top)
+
+1. [TWICE回归](https://s.weibo.com//weibo?q=%23TWICE%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [孙俪晚上要给孩子做饭](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E6%99%9A%E4%B8%8A%E8%A6%81%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E9%A5%AD%23&Refer=top)
+
+1. [天津高考化学](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6%23&Refer=top)
+
+1. [喝咖啡不想洗杯子](https://s.weibo.com//weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E4%B8%8D%E6%83%B3%E6%B4%97%E6%9D%AF%E5%AD%90%23&Refer=top)
+
+1. [学校发的野猪逃生秘诀](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%9A%84%E9%87%8E%E7%8C%AA%E9%80%83%E7%94%9F%E7%A7%98%E8%AF%80%23&Refer=top)
+
+1. [中国人的节约观念有多深刻](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%8A%82%E7%BA%A6%E8%A7%82%E5%BF%B5%E6%9C%89%E5%A4%9A%E6%B7%B1%E5%88%BB%23&Refer=top)
+
+1. [FPX UP](https://s.weibo.com//weibo?q=%23FPX%20UP%23&Refer=top)
+
+1. [外交部 美国最大的威胁是美国自己](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%20%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%81%E8%83%81%E6%98%AF%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%B7%B1&Refer=top)
+
+1. [妈妈该不该带儿子进女性更衣室](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%B8%A6%E5%84%BF%E5%AD%90%E8%BF%9B%E5%A5%B3%E6%80%A7%E6%9B%B4%E8%A1%A3%E5%AE%A4%23&Refer=top)
+
+1. [高考答案](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E7%AD%94%E6%A1%88&Refer=top)
+
+1. [世界首富贝佐斯2011年一分税也没交](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%E8%B4%9D%E4%BD%90%E6%96%AF2011%E5%B9%B4%E4%B8%80%E5%88%86%E7%A8%8E%E4%B9%9F%E6%B2%A1%E4%BA%A4%23&Refer=top)
+
+1. [山东高考化学难度](https://s.weibo.com//weibo?q=%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6%E9%9A%BE%E5%BA%A6&Refer=top)
+
+1. [考生考后向交警鞠躬致谢](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E8%80%83%E5%90%8E%E5%90%91%E4%BA%A4%E8%AD%A6%E9%9E%A0%E8%BA%AC%E8%87%B4%E8%B0%A2%23&Refer=top)
 
