@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-09 11:29:09
+## 微博今日热榜 更新于 2021-06-09 12:25:39
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [武汉作弊考生同考场学生发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BD%9C%E5%BC%8A%E8%80%83%E7%94%9F%E5%90%8C%E8%80%83%E5%9C%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -282,4 +282,42 @@
 1. [美院教授速写记录广州抗疫瞬间](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E9%99%A2%E6%95%99%E6%8E%88%E9%80%9F%E5%86%99%E8%AE%B0%E5%BD%95%E5%B9%BF%E5%B7%9E%E6%8A%97%E7%96%AB%E7%9E%AC%E9%97%B4%23&Refer=top)
 
 1. [无人机拍到北迁象群睡觉画面](https://s.weibo.com//weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8B%8D%E5%88%B0%E5%8C%97%E8%BF%81%E8%B1%A1%E7%BE%A4%E7%9D%A1%E8%A7%89%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [广州一小区4万的房子卖2.8万](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA4%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%E5%8D%962.8%E4%B8%87%23&Refer=top)
+
+1. [大妈坐公交拒戴口罩称是美国人](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E5%9D%90%E5%85%AC%E4%BA%A4%E6%8B%92%E6%88%B4%E5%8F%A3%E7%BD%A9%E7%A7%B0%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA%23&Refer=top)
+
+1. [以为宋亚轩照片里的船夫是吴彤](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E8%88%B9%E5%A4%AB%E6%98%AF%E5%90%B4%E5%BD%A4%23&Refer=top)
+
+1. [巴基斯坦拒绝向美国提供军事基地](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8B%92%E7%BB%9D%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&Refer=top)
+
+1. [林俊德院士去世前争分夺秒整理技术思路](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E5%BE%B7%E9%99%A2%E5%A3%AB%E5%8E%BB%E4%B8%96%E5%89%8D%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E6%95%B4%E7%90%86%E6%8A%80%E6%9C%AF%E6%80%9D%E8%B7%AF%23&Refer=top)
+
+1. [高考化学](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6&Refer=top)
+
+1. [美女的求职率会更高吗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%B1%82%E8%81%8C%E7%8E%87%E4%BC%9A%E6%9B%B4%E9%AB%98%E5%90%97%23&Refer=top)
+
+1. [黄明昊](https://s.weibo.com//weibo?q=%E9%BB%84%E6%98%8E%E6%98%8A&Refer=top)
+
+1. [与毕业生分别是张桂梅一年中最伤感的时刻](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E5%88%86%E5%88%AB%E6%98%AF%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E4%BC%A4%E6%84%9F%E7%9A%84%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [武汉配送小哥教科书式教奶爸换尿布](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E9%85%8D%E9%80%81%E5%B0%8F%E5%93%A5%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E6%95%99%E5%A5%B6%E7%88%B8%E6%8D%A2%E5%B0%BF%E5%B8%83%23&Refer=top)
+
+1. [郭采洁红色括号眉](https://s.weibo.com//weibo?q=%23%E9%83%AD%E9%87%87%E6%B4%81%E7%BA%A2%E8%89%B2%E6%8B%AC%E5%8F%B7%E7%9C%89%23&Refer=top)
+
+1. [掌掴马克龙男子身份曝光](https://s.weibo.com//weibo?q=%23%E6%8E%8C%E6%8E%B4%E9%A9%AC%E5%85%8B%E9%BE%99%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89%23&Refer=top)
+
+1. [女生唢呐二胡小提琴合奏为室友庆生](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%94%A2%E5%91%90%E4%BA%8C%E8%83%A1%E5%B0%8F%E6%8F%90%E7%90%B4%E5%90%88%E5%A5%8F%E4%B8%BA%E5%AE%A4%E5%8F%8B%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [孔繁森的两件遗物](https://s.weibo.com//weibo?q=%23%E5%AD%94%E7%B9%81%E6%A3%AE%E7%9A%84%E4%B8%A4%E4%BB%B6%E9%81%97%E7%89%A9%23&Refer=top)
+
+1. [武汉一在建楼盘失火](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E5%9C%A8%E5%BB%BA%E6%A5%BC%E7%9B%98%E5%A4%B1%E7%81%AB%23&Refer=top)
+
+1. [一年新增200家法考培训机构](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B9%B4%E6%96%B0%E5%A2%9E200%E5%AE%B6%E6%B3%95%E8%80%83%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%23&Refer=top)
+
+1. [76人战胜老鹰](https://s.weibo.com//weibo?q=%2376%E4%BA%BA%E6%88%98%E8%83%9C%E8%80%81%E9%B9%B0%23&Refer=top)
+
+1. [猪肉市场保供稳价](https://s.weibo.com//weibo?q=%23%E7%8C%AA%E8%82%89%E5%B8%82%E5%9C%BA%E4%BF%9D%E4%BE%9B%E7%A8%B3%E4%BB%B7%23&Refer=top)
+
+1. [梁建章建议对男女实行同等产假](https://s.weibo.com//weibo?q=%23%E6%A2%81%E5%BB%BA%E7%AB%A0%E5%BB%BA%E8%AE%AE%E5%AF%B9%E7%94%B7%E5%A5%B3%E5%AE%9E%E8%A1%8C%E5%90%8C%E7%AD%89%E4%BA%A7%E5%81%87%23&Refer=top)
 
