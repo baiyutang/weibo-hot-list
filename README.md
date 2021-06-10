@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 12:18:54
+## 微博今日热榜 更新于 2021-06-10 13:25:05
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -346,4 +346,30 @@
 1. [盛夏未来新预告](https://s.weibo.com//weibo?q=%23%E7%9B%9B%E5%A4%8F%E6%9C%AA%E6%9D%A5%E6%96%B0%E9%A2%84%E5%91%8A%23&Refer=top)
 
 1. [觉醒年代旅游打卡攻略](https://s.weibo.com//weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E6%97%85%E6%B8%B8%E6%89%93%E5%8D%A1%E6%94%BB%E7%95%A5%23&Refer=top)
+
+1. [周扬青回应与男子撑伞相依](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%94%B7%E5%AD%90%E6%92%91%E4%BC%9E%E7%9B%B8%E4%BE%9D%23&Refer=top)
+
+1. [张新成表白梁洁好苏](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E8%A1%A8%E7%99%BD%E6%A2%81%E6%B4%81%E5%A5%BD%E8%8B%8F%23&Refer=top)
+
+1. [陈学冬被水母蜇成筛子](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%AD%A6%E5%86%AC%E8%A2%AB%E6%B0%B4%E6%AF%8D%E8%9C%87%E6%88%90%E7%AD%9B%E5%AD%90%23&Refer=top)
+
+1. [好女好男官宣](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A5%B3%E5%A5%BD%E7%94%B7%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [36名假中医卖壮阳药诈骗千万被抓](https://s.weibo.com//weibo?q=%2336%E5%90%8D%E5%81%87%E4%B8%AD%E5%8C%BB%E5%8D%96%E5%A3%AE%E9%98%B3%E8%8D%AF%E8%AF%88%E9%AA%97%E5%8D%83%E4%B8%87%E8%A2%AB%E6%8A%93%23&Refer=top)
+
+1. [90后小伙自学缠花作品惊艳网友](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E8%87%AA%E5%AD%A6%E7%BC%A0%E8%8A%B1%E4%BD%9C%E5%93%81%E6%83%8A%E8%89%B3%E7%BD%91%E5%8F%8B%23&Refer=top)
+
+1. [密室大逃脱延播](https://s.weibo.com//weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E5%BB%B6%E6%92%AD%23&Refer=top)
+
+1. [陕西发现国内罕见明长城营堡](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%86%85%E7%BD%95%E8%A7%81%E6%98%8E%E9%95%BF%E5%9F%8E%E8%90%A5%E5%A0%A1%23&Refer=top)
+
+1. [折耳根粽子](https://s.weibo.com//weibo?q=%23%E6%8A%98%E8%80%B3%E6%A0%B9%E7%B2%BD%E5%AD%90%23&Refer=top)
+
+1. [温州通报1例境外输入确诊病例详情](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%B7%9E%E9%80%9A%E6%8A%A51%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [百分之二的爱2定档](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%88%86%E4%B9%8B%E4%BA%8C%E7%9A%84%E7%88%B12%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [了不起的老爸终极预告](https://s.weibo.com//weibo?q=%23%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E8%80%81%E7%88%B8%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [郭树清谈炒作外汇和期货](https://s.weibo.com//weibo?q=%E9%83%AD%E6%A0%91%E6%B8%85%E8%B0%88%E7%82%92%E4%BD%9C%E5%A4%96%E6%B1%87%E5%92%8C%E6%9C%9F%E8%B4%A7&Refer=top)
 
