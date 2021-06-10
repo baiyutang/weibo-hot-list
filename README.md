@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 13:25:05
+## 微博今日热榜 更新于 2021-06-10 14:11:35
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -372,4 +372,38 @@
 1. [了不起的老爸终极预告](https://s.weibo.com//weibo?q=%23%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E8%80%81%E7%88%B8%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
 
 1. [郭树清谈炒作外汇和期货](https://s.weibo.com//weibo?q=%E9%83%AD%E6%A0%91%E6%B8%85%E8%B0%88%E7%82%92%E4%BD%9C%E5%A4%96%E6%B1%87%E5%92%8C%E6%9C%9F%E8%B4%A7&Refer=top)
+
+1. [大乔新皮肤](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%B9%94%E6%96%B0%E7%9A%AE%E8%82%A4%23&Refer=top)
+
+1. [周冬雨搭档刘昊然](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E6%90%AD%E6%A1%A3%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
+
+1. [快乐大本营花絮](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [因为发音妈妈被服务员笑话](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%8F%91%E9%9F%B3%E5%A6%88%E5%A6%88%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E7%AC%91%E8%AF%9D%23&Refer=top)
+
+1. [马斯克称现在租住价值5万美元房子](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%8E%B0%E5%9C%A8%E7%A7%9F%E4%BD%8F%E4%BB%B7%E5%80%BC5%E4%B8%87%E7%BE%8E%E5%85%83%E6%88%BF%E5%AD%90%23&Refer=top)
+
+1. [工作久了会对职场失望吗](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%B9%85%E4%BA%86%E4%BC%9A%E5%AF%B9%E8%81%8C%E5%9C%BA%E5%A4%B1%E6%9C%9B%E5%90%97%23&Refer=top)
+
+1. [广州倡导端午就地过节](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%80%A1%E5%AF%BC%E7%AB%AF%E5%8D%88%E5%B0%B1%E5%9C%B0%E8%BF%87%E8%8A%82%23&Refer=top)
+
+1. [缅甸一架军用飞机失事](https://s.weibo.com//weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%80%E6%9E%B6%E5%86%9B%E7%94%A8%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%23&Refer=top)
+
+1. [跨栏救火爷爷其实只有48岁](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E6%A0%8F%E6%95%91%E7%81%AB%E7%88%B7%E7%88%B7%E5%85%B6%E5%AE%9E%E5%8F%AA%E6%9C%8948%E5%B2%81%23&Refer=top)
+
+1. [长沙三胞胎兄弟一起高考](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%89%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E4%B8%80%E8%B5%B7%E9%AB%98%E8%80%83%23&Refer=top)
+
+1. [保罗状态为什么这么好](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E7%BD%97%E7%8A%B6%E6%80%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%A5%BD%23&Refer=top)
+
+1. [山西小伙吃假醋后报警牵出制假集团](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%B0%8F%E4%BC%99%E5%90%83%E5%81%87%E9%86%8B%E5%90%8E%E6%8A%A5%E8%AD%A6%E7%89%B5%E5%87%BA%E5%88%B6%E5%81%87%E9%9B%86%E5%9B%A2%23&Refer=top)
+
+1. [这是怎么憋住不笑的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%80%8E%E4%B9%88%E6%86%8B%E4%BD%8F%E4%B8%8D%E7%AC%91%E7%9A%84%23&Refer=top)
+
+1. [考驾照的人鞋子都不敢换](https://s.weibo.com//weibo?q=%23%E8%80%83%E9%A9%BE%E7%85%A7%E7%9A%84%E4%BA%BA%E9%9E%8B%E5%AD%90%E9%83%BD%E4%B8%8D%E6%95%A2%E6%8D%A2%23&Refer=top)
+
+1. [光遇 蜡烛](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87%20%E8%9C%A1%E7%83%9B&Refer=top)
+
+1. [学霸骑共享单车赶考摔伤手臂无缘高考](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E9%9C%B8%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E8%B5%B6%E8%80%83%E6%91%94%E4%BC%A4%E6%89%8B%E8%87%82%E6%97%A0%E7%BC%98%E9%AB%98%E8%80%83%23&Refer=top)
+
+1. [阿里研发无人卡车](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E7%A0%94%E5%8F%91%E6%97%A0%E4%BA%BA%E5%8D%A1%E8%BD%A6%23&Refer=top)
 
