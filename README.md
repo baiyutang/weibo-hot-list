@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 19:03:58
+## 微博今日热榜 更新于 2021-06-10 20:11:39
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -588,4 +588,32 @@
 1. [恶作剧改核酸检测结果为阳性被拘](https://s.weibo.com//weibo?q=%23%E6%81%B6%E4%BD%9C%E5%89%A7%E6%94%B9%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E4%B8%BA%E9%98%B3%E6%80%A7%E8%A2%AB%E6%8B%98%23&Refer=top)
 
 1. [野生大熊猫的天敌是谁](https://s.weibo.com//weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9A%84%E5%A4%A9%E6%95%8C%E6%98%AF%E8%B0%81%23&Refer=top)
+
+1. [迪丽热巴身材](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BA%AB%E6%9D%90%23&Refer=top)
+
+1. [白玉兰颁奖典礼](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23&Refer=top)
+
+1. [被精神富养的孩子是什么样](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%B2%BE%E7%A5%9E%E5%AF%8C%E5%85%BB%E7%9A%84%E5%AD%A9%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
+
+1. [大学生核酸采样太配合下巴脱臼](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E5%A4%AA%E9%85%8D%E5%90%88%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC%23&Refer=top)
+
+1. [洪永城结婚](https://s.weibo.com//weibo?q=%E6%B4%AA%E6%B0%B8%E5%9F%8E%E7%BB%93%E5%A9%9A&Refer=top)
+
+1. [王一博想做一个对社会有帮助的人](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AA%E5%AF%B9%E7%A4%BE%E4%BC%9A%E6%9C%89%E5%B8%AE%E5%8A%A9%E7%9A%84%E4%BA%BA%23&Refer=top)
+
+1. [爸妈眼中的自然美](https://s.weibo.com//weibo?q=%23%E7%88%B8%E5%A6%88%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%87%AA%E7%84%B6%E7%BE%8E%23&Refer=top)
+
+1. [昆明震感](https://s.weibo.com//weibo?q=%E6%98%86%E6%98%8E%E9%9C%87%E6%84%9F&Refer=top)
+
+1. [东北小伙给奶奶网购手绘配送地图](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E4%BC%99%E7%BB%99%E5%A5%B6%E5%A5%B6%E7%BD%91%E8%B4%AD%E6%89%8B%E7%BB%98%E9%85%8D%E9%80%81%E5%9C%B0%E5%9B%BE%23&Refer=top)
+
+1. [除了过生日的都很快乐](https://s.weibo.com//weibo?q=%23%E9%99%A4%E4%BA%86%E8%BF%87%E7%94%9F%E6%97%A5%E7%9A%84%E9%83%BD%E5%BE%88%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [云南楚雄州双柏县5.1级地震](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%A5%9A%E9%9B%84%E5%B7%9E%E5%8F%8C%E6%9F%8F%E5%8E%BF5.1%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [张柏芝说你今天赢了明天也许就会输](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%AF%B4%E4%BD%A0%E4%BB%8A%E5%A4%A9%E8%B5%A2%E4%BA%86%E6%98%8E%E5%A4%A9%E4%B9%9F%E8%AE%B8%E5%B0%B1%E4%BC%9A%E8%BE%93%23&Refer=top)
+
+1. [今天日环食将持续约5小时](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%97%A5%E7%8E%AF%E9%A3%9F%E5%B0%86%E6%8C%81%E7%BB%AD%E7%BA%A65%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [林俊杰演唱会抢票](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8&Refer=top)
 
