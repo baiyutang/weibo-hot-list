@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 15:15:21
+## 微博今日热榜 更新于 2021-06-10 16:10:07
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -450,4 +450,32 @@
 1. [高速上运兔车侧翻兔子散落一地](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%80%9F%E4%B8%8A%E8%BF%90%E5%85%94%E8%BD%A6%E4%BE%A7%E7%BF%BB%E5%85%94%E5%AD%90%E6%95%A3%E8%90%BD%E4%B8%80%E5%9C%B0%23&Refer=top)
 
 1. [原来人生就是花钱买快乐](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [张柏芝回忆第一次和周星驰见面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%9B%9E%E5%BF%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%92%8C%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%81%E9%9D%A2%23&Refer=top)
+
+1. [剖腹产一定比顺产好吗](https://s.weibo.com//weibo?q=%23%E5%89%96%E8%85%B9%E4%BA%A7%E4%B8%80%E5%AE%9A%E6%AF%94%E9%A1%BA%E4%BA%A7%E5%A5%BD%E5%90%97%23&Refer=top)
+
+1. [塞尔维亚女排选手做歧视手势被禁赛两场](https://s.weibo.com//weibo?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E6%8E%92%E9%80%89%E6%89%8B%E5%81%9A%E6%AD%A7%E8%A7%86%E6%89%8B%E5%8A%BF%E8%A2%AB%E7%A6%81%E8%B5%9B%E4%B8%A4%E5%9C%BA&Refer=top)
+
+1. [谁能想到这是祖孙三代](https://s.weibo.com//weibo?q=%23%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E8%BF%99%E6%98%AF%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%23&Refer=top)
+
+1. [丁程鑫快本复工](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BF%AB%E6%9C%AC%E5%A4%8D%E5%B7%A5%23&Refer=top)
+
+1. [我国通过印花税法](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%80%9A%E8%BF%87%E5%8D%B0%E8%8A%B1%E7%A8%8E%E6%B3%95%23&Refer=top)
+
+1. [南医大女生被杀案罪犯被执行死刑](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%9D%80%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [夫妻吵架高空抛行李箱被采取强制措施](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E9%AB%98%E7%A9%BA%E6%8A%9B%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&Refer=top)
+
+1. [郑容和萧敬腾新歌](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%AE%B9%E5%92%8C%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [反外国制裁法表决通过](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E5%A4%96%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87%23&Refer=top)
+
+1. [衡水模式能促进教育公平吗](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E6%A8%A1%E5%BC%8F%E8%83%BD%E4%BF%83%E8%BF%9B%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%E5%90%97%23&Refer=top)
+
+1. [白玉兰新剧见面会](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E6%96%B0%E5%89%A7%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top)
+
+1. [90后小伙独立研发自动驾驶自行车](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E7%8B%AC%E7%AB%8B%E7%A0%94%E5%8F%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%87%AA%E8%A1%8C%E8%BD%A6%23&Refer=top)
+
+1. [全国48所高校保送生拟录取名单公示](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD48%E6%89%80%E9%AB%98%E6%A0%A1%E4%BF%9D%E9%80%81%E7%94%9F%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%23&Refer=top)
 
