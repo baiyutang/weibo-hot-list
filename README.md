@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-11 06:03:46
+## 微博今日热榜 更新于 2021-06-11 07:03:51
 1. [新征程面对面出版发行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=new_time)
 
 1. [于和伟 我荣幸之至欣喜若狂](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E6%88%91%E8%8D%A3%E5%B9%B8%E4%B9%8B%E8%87%B3%E6%AC%A3%E5%96%9C%E8%8B%A5%E7%8B%82%23&Refer=top)
@@ -134,4 +134,6 @@
 1. [云南楚雄州双柏县5.1级地震](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%A5%9A%E9%9B%84%E5%B7%9E%E5%8F%8C%E6%9F%8F%E5%8E%BF5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
 
 1. [王凯给签名笔哈气](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%87%AF%E7%BB%99%E7%AD%BE%E5%90%8D%E7%AC%94%E5%93%88%E6%B0%94%23&Refer=top)
+
+1. [范丞丞女友视角有多绝](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
 
