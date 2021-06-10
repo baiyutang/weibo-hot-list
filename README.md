@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 18:09:19
+## 微博今日热榜 更新于 2021-06-10 19:03:58
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -550,4 +550,42 @@
 1. [小鹿头顶长第5条腿](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%B9%BF%E5%A4%B4%E9%A1%B6%E9%95%BF%E7%AC%AC5%E6%9D%A1%E8%85%BF%23&Refer=top)
 
 1. [西安一7岁男童拔牙后昏迷99天](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%807%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8B%94%E7%89%99%E5%90%8E%E6%98%8F%E8%BF%B799%E5%A4%A9%23&Refer=top)
+
+1. [小欢喜每四年拍一部续集](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%AC%A2%E5%96%9C%E6%AF%8F%E5%9B%9B%E5%B9%B4%E6%8B%8D%E4%B8%80%E9%83%A8%E7%BB%AD%E9%9B%86%23&Refer=top)
+
+1. [广州疫情](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [黑蒜粽子](https://s.weibo.com//weibo?q=%23%E9%BB%91%E8%92%9C%E7%B2%BD%E5%AD%90%23&Refer=top)
+
+1. [张宥浩的微博热转](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%A5%E6%B5%A9%E7%9A%84%E5%BE%AE%E5%8D%9A%E7%83%AD%E8%BD%AC%23&Refer=top)
+
+1. [你知道顺产到底有多痛吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E9%A1%BA%E4%BA%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%97%9B%E5%90%97%23&Refer=top)
+
+1. [保卫科爷爷找丁程鑫合照](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%8D%AB%E7%A7%91%E7%88%B7%E7%88%B7%E6%89%BE%E4%B8%81%E7%A8%8B%E9%91%AB%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [蓝黑还是白金](https://s.weibo.com//weibo?q=%23%E8%93%9D%E9%BB%91%E8%BF%98%E6%98%AF%E7%99%BD%E9%87%91%23&Refer=top)
+
+1. [女孩子有多喜欢照镜子](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AD%90%E6%9C%89%E5%A4%9A%E5%96%9C%E6%AC%A2%E7%85%A7%E9%95%9C%E5%AD%90%23&Refer=top)
+
+1. [网友送彭昱畅园林机械使用规范](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E9%80%81%E5%BD%AD%E6%98%B1%E7%95%85%E5%9B%AD%E6%9E%97%E6%9C%BA%E6%A2%B0%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83%23&Refer=top)
+
+1. [上海暴雨](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [美国援助韩国疫苗大部分将过期](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%E9%9F%A9%E5%9B%BD%E7%96%AB%E8%8B%97%E5%A4%A7%E9%83%A8%E5%88%86%E5%B0%86%E8%BF%87%E6%9C%9F%23&Refer=top)
+
+1. [温州发现2例阳性病例](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8F%91%E7%8E%B02%E4%BE%8B%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [学机电是一种什么体验](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%9C%BA%E7%94%B5%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [外交部驳斥美虚构武汉实验室泄漏](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E7%BE%8E%E8%99%9A%E6%9E%84%E6%AD%A6%E6%B1%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%B3%84%E6%BC%8F%23&Refer=top)
+
+1. [你在什么情况下会裸辞](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BC%9A%E8%A3%B8%E8%BE%9E%23&Refer=top)
+
+1. [初中女生想当韩国练习生被骗2.5万](https://s.weibo.com//weibo?q=%23%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E6%83%B3%E5%BD%93%E9%9F%A9%E5%9B%BD%E7%BB%83%E4%B9%A0%E7%94%9F%E8%A2%AB%E9%AA%972.5%E4%B8%87%23&Refer=top)
+
+1. [上海等级考成绩](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%AD%89%E7%BA%A7%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [恶作剧改核酸检测结果为阳性被拘](https://s.weibo.com//weibo?q=%23%E6%81%B6%E4%BD%9C%E5%89%A7%E6%94%B9%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E4%B8%BA%E9%98%B3%E6%80%A7%E8%A2%AB%E6%8B%98%23&Refer=top)
+
+1. [野生大熊猫的天敌是谁](https://s.weibo.com//weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9A%84%E5%A4%A9%E6%95%8C%E6%98%AF%E8%B0%81%23&Refer=top)
 
