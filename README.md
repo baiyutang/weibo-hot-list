@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 21:24:17
+## 微博今日热榜 更新于 2021-06-10 22:08:18
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -658,4 +658,30 @@
 1. [刘琳没拿最佳女配好可惜](https://s.weibo.com//weibo?q=%E5%88%98%E7%90%B3%E6%B2%A1%E6%8B%BF%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E5%A5%BD%E5%8F%AF%E6%83%9C&Refer=top)
 
 1. [于和伟白玉兰最佳男主角](https://s.weibo.com//weibo?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&Refer=top)
+
+1. [韩国曝221亿元虚拟货币庞氏骗局](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9B%9D221%E4%BA%BF%E5%85%83%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80%23&Refer=top)
+
+1. [热依扎没拿最佳女主角](https://s.weibo.com//weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E6%B2%A1%E6%8B%BF%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&Refer=top)
+
+1. [童瑶白玉兰最佳女主角](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E7%91%B6%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&Refer=top)
+
+1. [秦海璐红毯前缝礼服](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E7%BA%A2%E6%AF%AF%E5%89%8D%E7%BC%9D%E7%A4%BC%E6%9C%8D%23&Refer=top)
+
+1. [云南北迁象群雨中玩泥巴](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%8C%97%E8%BF%81%E8%B1%A1%E7%BE%A4%E9%9B%A8%E4%B8%AD%E7%8E%A9%E6%B3%A5%E5%B7%B4%23&Refer=top)
+
+1. [童瑶流光花卉长裙](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E7%91%B6%E6%B5%81%E5%85%89%E8%8A%B1%E5%8D%89%E9%95%BF%E8%A3%99%23&Refer=top)
+
+1. [女子饮酒十几斤后急性酸中毒](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%A5%AE%E9%85%92%E5%8D%81%E5%87%A0%E6%96%A4%E5%90%8E%E6%80%A5%E6%80%A7%E9%85%B8%E4%B8%AD%E6%AF%92%23&Refer=top)
+
+1. [山海情白玉兰最佳中国电视剧](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B5%B7%E6%83%85%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%23&Refer=top)
+
+1. [淘特回应商家因象群延迟发货](https://s.weibo.com//weibo?q=%23%E6%B7%98%E7%89%B9%E5%9B%9E%E5%BA%94%E5%95%86%E5%AE%B6%E5%9B%A0%E8%B1%A1%E7%BE%A4%E5%BB%B6%E8%BF%9F%E5%8F%91%E8%B4%A7%23&Refer=top)
+
+1. [致命女人2](https://s.weibo.com//weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA2&Refer=top)
+
+1. [小胖的镜](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%83%96%E7%9A%84%E9%95%9C%23&Refer=top)
+
+1. [小象幼崽有多治愈](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%B1%A1%E5%B9%BC%E5%B4%BD%E6%9C%89%E5%A4%9A%E6%B2%BB%E6%84%88%23&Refer=top)
+
+1. [货车司机车上健身练出8块腹肌](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BD%A6%E4%B8%8A%E5%81%A5%E8%BA%AB%E7%BB%83%E5%87%BA8%E5%9D%97%E8%85%B9%E8%82%8C%23&Refer=top)
 
