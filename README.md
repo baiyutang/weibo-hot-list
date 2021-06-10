@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 10:06:55
+## 微博今日热榜 更新于 2021-06-10 11:22:25
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -264,4 +264,48 @@
 1. [诸暨洪水](https://s.weibo.com//weibo?q=%23%E8%AF%B8%E6%9A%A8%E6%B4%AA%E6%B0%B4%23&Refer=top)
 
 1. [护考成绩](https://s.weibo.com//weibo?q=%E6%8A%A4%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [朱天天 聊天语音](https://s.weibo.com//weibo?q=%E6%9C%B1%E5%A4%A9%E5%A4%A9%20%E8%81%8A%E5%A4%A9%E8%AF%AD%E9%9F%B3&Refer=top)
+
+1. [医生爸太忙买西兰花接高三女儿](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%88%B8%E5%A4%AA%E5%BF%99%E4%B9%B0%E8%A5%BF%E5%85%B0%E8%8A%B1%E6%8E%A5%E9%AB%98%E4%B8%89%E5%A5%B3%E5%84%BF%23&Refer=top)
+
+1. [石家庄一考生走出考场被家人不停投食](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E8%80%83%E7%94%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E8%A2%AB%E5%AE%B6%E4%BA%BA%E4%B8%8D%E5%81%9C%E6%8A%95%E9%A3%9F%23&Refer=top)
+
+1. [侃爷新恋情](https://s.weibo.com//weibo?q=%23%E4%BE%83%E7%88%B7%E6%96%B0%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [广州2名男子撕开居家隔离封条外出被查处](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E2%E5%90%8D%E7%94%B7%E5%AD%90%E6%92%95%E5%BC%80%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E5%B0%81%E6%9D%A1%E5%A4%96%E5%87%BA%E8%A2%AB%E6%9F%A5%E5%A4%84%23&Refer=top)
+
+1. [南非女子诞下十胞胎](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%9D%9E%E5%A5%B3%E5%AD%90%E8%AF%9E%E4%B8%8B%E5%8D%81%E8%83%9E%E8%83%8E%23&Refer=top)
+
+1. [王冰冰内蒙古分冰](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E5%86%85%E8%92%99%E5%8F%A4%E5%88%86%E5%86%B0%23&Refer=top)
+
+1. [毛晓彤星空蓝闪钻抹胸裙](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%98%9F%E7%A9%BA%E8%93%9D%E9%97%AA%E9%92%BB%E6%8A%B9%E8%83%B8%E8%A3%99%23&Refer=top)
+
+1. [JBS向黑客支付1100万美元](https://s.weibo.com//weibo?q=%23JBS%E5%90%91%E9%BB%91%E5%AE%A2%E6%94%AF%E4%BB%981100%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [高校射艺课1秒被抢完](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%B0%84%E8%89%BA%E8%AF%BE1%E7%A7%92%E8%A2%AB%E6%8A%A2%E5%AE%8C%23&Refer=top)
+
+1. [苏炳添百米赛场上的80后](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%99%BE%E7%B1%B3%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%8480%E5%90%8E%23&Refer=top)
+
+1. [松鼠用手伸在感应龙头前喝水](https://s.weibo.com//weibo?q=%23%E6%9D%BE%E9%BC%A0%E7%94%A8%E6%89%8B%E4%BC%B8%E5%9C%A8%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E5%89%8D%E5%96%9D%E6%B0%B4%23&Refer=top)
+
+1. [高配的siri自带煮水功能](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%85%8D%E7%9A%84siri%E8%87%AA%E5%B8%A6%E7%85%AE%E6%B0%B4%E5%8A%9F%E8%83%BD%23&Refer=top)
+
+1. [韩国光州一建筑倒塌致9人死亡](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%85%89%E5%B7%9E%E4%B8%80%E5%BB%BA%E7%AD%91%E5%80%92%E5%A1%8C%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [浙江入梅](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%85%A5%E6%A2%85%23&Refer=top)
+
+1. [百度20亿成立造车公司](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%BA%A620%E4%BA%BF%E6%88%90%E7%AB%8B%E9%80%A0%E8%BD%A6%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [玻利维亚议会双方议员拳打脚踢](https://s.weibo.com//weibo?q=%23%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E8%AE%AE%E4%BC%9A%E5%8F%8C%E6%96%B9%E8%AE%AE%E5%91%98%E6%8B%B3%E6%89%93%E8%84%9A%E8%B8%A2%23&Refer=top)
+
+1. [海关查获37吨走私泡椒凤爪](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B737%E5%90%A8%E8%B5%B0%E7%A7%81%E6%B3%A1%E6%A4%92%E5%87%A4%E7%88%AA%23&Refer=top)
+
+1. [男生用活版印刷技术还原15所高校](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%A8%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7%E6%8A%80%E6%9C%AF%E8%BF%98%E5%8E%9F15%E6%89%80%E9%AB%98%E6%A0%A1%23&Refer=top)
+
+1. [2020年养宠消费占可支配收入20%](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E5%85%BB%E5%AE%A0%E6%B6%88%E8%B4%B9%E5%8D%A0%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A520%25%23&Refer=top)
+
+1. [纳达尔状态](https://s.weibo.com//weibo?q=%E7%BA%B3%E8%BE%BE%E5%B0%94%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [掘金 太阳](https://s.weibo.com//weibo?q=%E6%8E%98%E9%87%91%20%E5%A4%AA%E9%98%B3&Refer=top)
 
