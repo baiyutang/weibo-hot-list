@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 17:08:50
+## 微博今日热榜 更新于 2021-06-10 18:09:19
 1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -510,4 +510,44 @@
 1. [没回消息被领导群里警告](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E5%9B%9E%E6%B6%88%E6%81%AF%E8%A2%AB%E9%A2%86%E5%AF%BC%E7%BE%A4%E9%87%8C%E8%AD%A6%E5%91%8A%23&Refer=top)
 
 1. [李斯丹妮沈梦辰相声式香水测评](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%9B%B8%E5%A3%B0%E5%BC%8F%E9%A6%99%E6%B0%B4%E6%B5%8B%E8%AF%84%23&Refer=top)
+
+1. [2匹百万宝马出逃偷吃玉米](https://s.weibo.com//weibo?q=%232%E5%8C%B9%E7%99%BE%E4%B8%87%E5%AE%9D%E9%A9%AC%E5%87%BA%E9%80%83%E5%81%B7%E5%90%83%E7%8E%89%E7%B1%B3%23&Refer=top)
+
+1. [广州新冠阳性考生首发声](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E8%80%83%E7%94%9F%E9%A6%96%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [外交部回应菅义伟将台湾称为所谓国家](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E8%8F%85%E4%B9%89%E4%BC%9F%E5%B0%86%E5%8F%B0%E6%B9%BE%E7%A7%B0%E4%B8%BA%E6%89%80%E8%B0%93%E5%9B%BD%E5%AE%B6%23&Refer=top)
+
+1. [高考失利可以靠考研翻身吗](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E5%8F%AF%E4%BB%A5%E9%9D%A0%E8%80%83%E7%A0%94%E7%BF%BB%E8%BA%AB%E5%90%97%23&Refer=top)
+
+1. [豆瓣崩了](https://s.weibo.com//weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23&Refer=top)
+
+1. [取消普通护照加注收费](https://s.weibo.com//weibo?q=%23%E5%8F%96%E6%B6%88%E6%99%AE%E9%80%9A%E6%8A%A4%E7%85%A7%E5%8A%A0%E6%B3%A8%E6%94%B6%E8%B4%B9%23&Refer=top)
+
+1. [Loki](https://s.weibo.com//weibo?q=Loki&Refer=top)
+
+1. [ofo关联公司已无财产可供执行](https://s.weibo.com//weibo?q=%23ofo%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%97%A0%E8%B4%A2%E4%BA%A7%E5%8F%AF%E4%BE%9B%E6%89%A7%E8%A1%8C%23&Refer=top)
+
+1. [广州郭阿婆与医护相约得闲饮茶](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%83%AD%E9%98%BF%E5%A9%86%E4%B8%8E%E5%8C%BB%E6%8A%A4%E7%9B%B8%E7%BA%A6%E5%BE%97%E9%97%B2%E9%A5%AE%E8%8C%B6%23&Refer=top)
+
+1. [浙江高考终于考完了](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E7%BB%88%E4%BA%8E%E8%80%83%E5%AE%8C%E4%BA%86%23&Refer=top)
+
+1. [最后一天高考结束](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [青涩时期的张哲瀚](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B6%A9%E6%97%B6%E6%9C%9F%E7%9A%84%E5%BC%A0%E5%93%B2%E7%80%9A%23&Refer=top)
+
+1. [鞠婧祎红丝绒肩带礼裙](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%BA%A2%E4%B8%9D%E7%BB%92%E8%82%A9%E5%B8%A6%E7%A4%BC%E8%A3%99%23&Refer=top)
+
+1. [超118万海外中国公民接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E8%B6%85118%E4%B8%87%E6%B5%B7%E5%A4%96%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [这才是真正的以泪洗面](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BB%A5%E6%B3%AA%E6%B4%97%E9%9D%A2%23&Refer=top)
+
+1. [山西代县一铁矿发生透水事故](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BB%A3%E5%8E%BF%E4%B8%80%E9%93%81%E7%9F%BF%E5%8F%91%E7%94%9F%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [吃减肥餐时的你](https://s.weibo.com//weibo?q=%23%E5%90%83%E5%87%8F%E8%82%A5%E9%A4%90%E6%97%B6%E7%9A%84%E4%BD%A0%23&Refer=top)
+
+1. [因为一个滤镜被男友删除了](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%BB%A4%E9%95%9C%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%88%A0%E9%99%A4%E4%BA%86%23&Refer=top)
+
+1. [小鹿头顶长第5条腿](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%B9%BF%E5%A4%B4%E9%A1%B6%E9%95%BF%E7%AC%AC5%E6%9D%A1%E8%85%BF%23&Refer=top)
+
+1. [西安一7岁男童拔牙后昏迷99天](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%807%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8B%94%E7%89%99%E5%90%8E%E6%98%8F%E8%BF%B799%E5%A4%A9%23&Refer=top)
 
