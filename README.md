@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-11 18:06:13
+## 微博今日热榜 更新于 2021-06-11 19:02:55
 1. [新征程面对面出版发行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=new_time)
 
 1. [于和伟 我荣幸之至欣喜若狂](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E6%88%91%E8%8D%A3%E5%B9%B8%E4%B9%8B%E8%87%B3%E6%AC%A3%E5%96%9C%E8%8B%A5%E7%8B%82%23&Refer=top)
@@ -542,4 +542,52 @@
 1. [摩尔庄园钓鱼](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E9%92%93%E9%B1%BC&Refer=top)
 
 1. [上海电影节红毯](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF&Refer=top)
+
+1. [甘肃景泰县委原书记坠楼身亡](https://s.weibo.com//weibo?q=%23%E7%94%98%E8%82%83%E6%99%AF%E6%B3%B0%E5%8E%BF%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [乌克兰一研究所病毒毒株遭前员工盗窃](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E7%A0%94%E7%A9%B6%E6%89%80%E7%97%85%E6%AF%92%E6%AF%92%E6%A0%AA%E9%81%AD%E5%89%8D%E5%91%98%E5%B7%A5%E7%9B%97%E7%AA%83%23&Refer=top)
+
+1. [对领导太尊重被吐槽了](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E9%A2%86%E5%AF%BC%E5%A4%AA%E5%B0%8A%E9%87%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E4%BA%86%23&Refer=top)
+
+1. [用HR的方式拒绝HR](https://s.weibo.com//weibo?q=%23%E7%94%A8HR%E7%9A%84%E6%96%B9%E5%BC%8F%E6%8B%92%E7%BB%9DHR%23&Refer=top)
+
+1. [端午节你们公司发了什么](https://s.weibo.com//weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%BD%A0%E4%BB%AC%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [男子婚后被前女友跟踪骚扰3年](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%A9%9A%E5%90%8E%E8%A2%AB%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%B7%9F%E8%B8%AA%E9%AA%9A%E6%89%B03%E5%B9%B4%23&Refer=top)
+
+1. [刘烨胡军再合作](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%83%A8%E8%83%A1%E5%86%9B%E5%86%8D%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [落枕后被人误以为是傻子](https://s.weibo.com//weibo?q=%23%E8%90%BD%E6%9E%95%E5%90%8E%E8%A2%AB%E4%BA%BA%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%82%BB%E5%AD%90%23&Refer=top)
+
+1. [美军再度将偷来的小麦运出境](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%86%9B%E5%86%8D%E5%BA%A6%E5%B0%86%E5%81%B7%E6%9D%A5%E7%9A%84%E5%B0%8F%E9%BA%A6%E8%BF%90%E5%87%BA%E5%A2%83%23&Refer=top)
+
+1. [吴磊张子枫说悄悄话](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E8%AF%B4%E6%82%84%E6%82%84%E8%AF%9D%23&Refer=top)
+
+1. [钟南山对广州危重症病例进行视频会诊](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E5%AF%B9%E5%B9%BF%E5%B7%9E%E5%8D%B1%E9%87%8D%E7%97%87%E7%97%85%E4%BE%8B%E8%BF%9B%E8%A1%8C%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AF%8A%23&Refer=top)
+
+1. [朱一龙寸头](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%AF%B8%E5%A4%B4%23&Refer=top)
+
+1. [为什么熊猫胖的那么灵活](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%86%8A%E7%8C%AB%E8%83%96%E7%9A%84%E9%82%A3%E4%B9%88%E7%81%B5%E6%B4%BB%23&Refer=top)
+
+1. [谷歌用AI设计AI芯片](https://s.weibo.com//weibo?q=%E8%B0%B7%E6%AD%8C%E7%94%A8AI%E8%AE%BE%E8%AE%A1AI%E8%8A%AF%E7%89%87&Refer=top)
+
+1. [志愿者跳街舞为采核酸医护加油](https://s.weibo.com//weibo?q=%23%E5%BF%97%E6%84%BF%E8%80%85%E8%B7%B3%E8%A1%97%E8%88%9E%E4%B8%BA%E9%87%87%E6%A0%B8%E9%85%B8%E5%8C%BB%E6%8A%A4%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [欧洲杯赛程](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E8%B5%9B%E7%A8%8B&Refer=top)
+
+1. [加一箱油多花7元](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%A4%9A%E8%8A%B17%E5%85%83%23&Refer=top)
+
+1. [汪文斌欢迎各界朋友来中国革命圣地](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E6%AC%A2%E8%BF%8E%E5%90%84%E7%95%8C%E6%9C%8B%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E5%9C%A3%E5%9C%B0%23&Refer=top)
+
+1. [3小时旅行圈成端午假期首选](https://s.weibo.com//weibo?q=%233%E5%B0%8F%E6%97%B6%E6%97%85%E8%A1%8C%E5%9C%88%E6%88%90%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E9%A6%96%E9%80%89%23&Refer=top)
+
+1. [KPL春决落地上海](https://s.weibo.com//weibo?q=%23KPL%E6%98%A5%E5%86%B3%E8%90%BD%E5%9C%B0%E4%B8%8A%E6%B5%B7%23&Refer=top)
+
+1. [乡镇取快递额外收费合理吗](https://s.weibo.com//weibo?q=%23%E4%B9%A1%E9%95%87%E5%8F%96%E5%BF%AB%E9%80%92%E9%A2%9D%E5%A4%96%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86%E5%90%97%23&Refer=top)
+
+1. [海南发布台风预警](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [台湾新增287例确诊病例](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%A2%9E287%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [合肥南站](https://s.weibo.com//weibo?q=%E5%90%88%E8%82%A5%E5%8D%97%E7%AB%99&Refer=top)
 
