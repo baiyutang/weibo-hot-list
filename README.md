@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 03:05:33
+## 微博今日热榜 更新于 2021-06-12 04:03:16
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -154,4 +154,14 @@
 1. [欧洲杯开幕式](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&Refer=top)
 
 1. [TES晋级](https://s.weibo.com//weibo?q=%23TES%E6%99%8B%E7%BA%A7%23&Refer=top)
+
+1. [明天受伤](https://s.weibo.com//weibo?q=%E6%98%8E%E5%A4%A9%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [白银景泰县委原书记坠亡排除他杀](https://s.weibo.com//weibo?q=%E7%99%BD%E9%93%B6%E6%99%AF%E6%B3%B0%E5%8E%BF%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%9D%A0%E4%BA%A1%E6%8E%92%E9%99%A4%E4%BB%96%E6%9D%80&Refer=top)
+
+1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
+
+1. [刘彬彬进球](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BD%AC%E5%BD%AC%E8%BF%9B%E7%90%83%23&Refer=top)
+
+1. [裁判没吹土耳其球员手球](https://s.weibo.com//weibo?q=%E8%A3%81%E5%88%A4%E6%B2%A1%E5%90%B9%E5%9C%9F%E8%80%B3%E5%85%B6%E7%90%83%E5%91%98%E6%89%8B%E7%90%83&Refer=top)
 
