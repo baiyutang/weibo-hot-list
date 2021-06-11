@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-11 08:17:09
+## 微博今日热榜 更新于 2021-06-11 09:56:24
 1. [新征程面对面出版发行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=new_time)
 
 1. [于和伟 我荣幸之至欣喜若狂](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E6%88%91%E8%8D%A3%E5%B9%B8%E4%B9%8B%E8%87%B3%E6%AC%A3%E5%96%9C%E8%8B%A5%E7%8B%82%23&Refer=top)
@@ -170,4 +170,56 @@
 1. [温州疫情](https://s.weibo.com//weibo?q=%E6%B8%A9%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
 
 1. [QG赢了](https://s.weibo.com//weibo?q=%23QG%E8%B5%A2%E4%BA%86%23&Refer=top)
+
+1. [童瑶 热依扎在山海情里演的非常好](https://s.weibo.com//weibo?q=%E7%AB%A5%E7%91%B6%20%E7%83%AD%E4%BE%9D%E6%89%8E%E5%9C%A8%E5%B1%B1%E6%B5%B7%E6%83%85%E9%87%8C%E6%BC%94%E7%9A%84%E9%9D%9E%E5%B8%B8%E5%A5%BD&Refer=top)
+
+1. [大妈不满婴儿车挡路将4个月婴儿掐伤](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E4%B8%8D%E6%BB%A1%E5%A9%B4%E5%84%BF%E8%BD%A6%E6%8C%A1%E8%B7%AF%E5%B0%864%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E6%8E%90%E4%BC%A4%23&Refer=top)
+
+1. [金晨新恋情](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E6%96%B0%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [男子用身体挡住滚落重物救下搬运工](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E6%BB%9A%E8%90%BD%E9%87%8D%E7%89%A9%E6%95%91%E4%B8%8B%E6%90%AC%E8%BF%90%E5%B7%A5%23&Refer=top)
+
+1. [大妈报警端掉涉案11.4亿电诈团伙](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8A%A5%E8%AD%A6%E7%AB%AF%E6%8E%89%E6%B6%89%E6%A1%8811.4%E4%BA%BF%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%23&Refer=top)
+
+1. [孙千的腿好长](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%83%E7%9A%84%E8%85%BF%E5%A5%BD%E9%95%BF%23&Refer=top)
+
+1. [龚俊 你还是要读一下这不太好](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E4%BD%A0%E8%BF%98%E6%98%AF%E8%A6%81%E8%AF%BB%E4%B8%80%E4%B8%8B%E8%BF%99%E4%B8%8D%E5%A4%AA%E5%A5%BD&Refer=top)
+
+1. [易烊千玺 电影奇迹](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E7%94%B5%E5%BD%B1%E5%A5%87%E8%BF%B9&Refer=top)
+
+1. [浙江新增1例本土无症状](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [王楚然王子奇聚餐](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%8E%8B%E5%AD%90%E5%A5%87%E8%81%9A%E9%A4%90%23&Refer=top)
+
+1. [詹姆斯大儿子登上体育画报封面](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%A4%A7%E5%84%BF%E5%AD%90%E7%99%BB%E4%B8%8A%E4%BD%93%E8%82%B2%E7%94%BB%E6%8A%A5%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [乔欣换装视频](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%AC%A3%E6%8D%A2%E8%A3%85%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [青海三只熊下山觅食被藏獒吓跑](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%89%E5%8F%AA%E7%86%8A%E4%B8%8B%E5%B1%B1%E8%A7%85%E9%A3%9F%E8%A2%AB%E8%97%8F%E7%8D%92%E5%90%93%E8%B7%91%23&Refer=top)
+
+1. [芯荒致近300万辆车停产](https://s.weibo.com//weibo?q=%23%E8%8A%AF%E8%8D%92%E8%87%B4%E8%BF%91300%E4%B8%87%E8%BE%86%E8%BD%A6%E5%81%9C%E4%BA%A7%23&Refer=top)
+
+1. [云南野象群距震中约15公里](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E9%87%8E%E8%B1%A1%E7%BE%A4%E8%B7%9D%E9%9C%87%E4%B8%AD%E7%BA%A615%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [小女孩用头发画动物](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%94%A8%E5%A4%B4%E5%8F%91%E7%94%BB%E5%8A%A8%E7%89%A9%23&Refer=top)
+
+1. [厂长靠差评客户还清百万债务](https://s.weibo.com//weibo?q=%23%E5%8E%82%E9%95%BF%E9%9D%A0%E5%B7%AE%E8%AF%84%E5%AE%A2%E6%88%B7%E8%BF%98%E6%B8%85%E7%99%BE%E4%B8%87%E5%80%BA%E5%8A%A1%23&Refer=top)
+
+1. [原来你们是这样的曾毅玲花](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E6%9B%BE%E6%AF%85%E7%8E%B2%E8%8A%B1%23&Refer=top)
+
+1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
+
+1. [篮网 雄鹿](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%20%E9%9B%84%E9%B9%BF&Refer=top)
+
+1. [字母哥罚球10秒违例](https://s.weibo.com//weibo?q=%23%E5%AD%97%E6%AF%8D%E5%93%A5%E7%BD%9A%E7%90%8310%E7%A7%92%E8%BF%9D%E4%BE%8B%23&Refer=top)
+
+1. [数字人民币](https://s.weibo.com//weibo?q=%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81&Refer=top)
+
+1. [村民抓获持刀杀人犯获奖10万](https://s.weibo.com//weibo?q=%23%E6%9D%91%E6%B0%91%E6%8A%93%E8%8E%B7%E6%8C%81%E5%88%80%E6%9D%80%E4%BA%BA%E7%8A%AF%E8%8E%B7%E5%A5%9610%E4%B8%87%23&Refer=top)
+
+1. [入职后发现进了皮包公司](https://s.weibo.com//weibo?q=%23%E5%85%A5%E8%81%8C%E5%90%8E%E5%8F%91%E7%8E%B0%E8%BF%9B%E4%BA%86%E7%9A%AE%E5%8C%85%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [还有1天就是端午假期](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%891%E5%A4%A9%E5%B0%B1%E6%98%AF%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%23&Refer=top)
+
+1. [E3](https://s.weibo.com//weibo?q=E3&Refer=top)
 
