@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-11 14:05:40
+## 微博今日热榜 更新于 2021-06-11 15:08:58
 1. [新征程面对面出版发行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=new_time)
 
 1. [于和伟 我荣幸之至欣喜若狂](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E6%88%91%E8%8D%A3%E5%B9%B8%E4%B9%8B%E8%87%B3%E6%AC%A3%E5%96%9C%E8%8B%A5%E7%8B%82%23&Refer=top)
@@ -388,4 +388,38 @@
 1. [广州核酸检测人员工作结束跳舞](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BA%BA%E5%91%98%E5%B7%A5%E4%BD%9C%E7%BB%93%E6%9D%9F%E8%B7%B3%E8%88%9E%23&Refer=top)
 
 1. [讯飞搜狗输入法下架苹果应用商店](https://s.weibo.com//weibo?q=%23%E8%AE%AF%E9%A3%9E%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%8B%E6%9E%B6%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%23&Refer=top)
+
+1. [韩国丈夫打疫苗后谢谢中国老婆](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%88%E5%A4%AB%E6%89%93%E7%96%AB%E8%8B%97%E5%90%8E%E8%B0%A2%E8%B0%A2%E4%B8%AD%E5%9B%BD%E8%80%81%E5%A9%86%23&Refer=top)
+
+1. [广西古树荔枝888元一斤](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8F%A4%E6%A0%91%E8%8D%94%E6%9E%9D888%E5%85%83%E4%B8%80%E6%96%A4%23&Refer=top)
+
+1. [小学生捡小狗藏课桌老师暖心处置](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%8D%A1%E5%B0%8F%E7%8B%97%E8%97%8F%E8%AF%BE%E6%A1%8C%E8%80%81%E5%B8%88%E6%9A%96%E5%BF%83%E5%A4%84%E7%BD%AE%23&Refer=top)
+
+1. [你能接受对象有白月光吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%AF%B9%E8%B1%A1%E6%9C%89%E7%99%BD%E6%9C%88%E5%85%89%E5%90%97%23&Refer=top)
+
+1. [马嘉祺递麦速度](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%80%92%E9%BA%A6%E9%80%9F%E5%BA%A6%23&Refer=top)
+
+1. [张哲瀚跳天竺少女](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E8%B7%B3%E5%A4%A9%E7%AB%BA%E5%B0%91%E5%A5%B3%23&Refer=top)
+
+1. [李沁用吸管去樱桃核](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E7%94%A8%E5%90%B8%E7%AE%A1%E5%8E%BB%E6%A8%B1%E6%A1%83%E6%A0%B8%23&Refer=top)
+
+1. [科大讯飞回应盘中跳水](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E5%9B%9E%E5%BA%94%E7%9B%98%E4%B8%AD%E8%B7%B3%E6%B0%B4%23&Refer=top)
+
+1. [当我打开男朋友的衣橱](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%88%91%E6%89%93%E5%BC%80%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E8%A1%A3%E6%A9%B1%23&Refer=top)
+
+1. [专家研判广州疫情形势趋于缓和](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A0%94%E5%88%A4%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%E5%BD%A2%E5%8A%BF%E8%B6%8B%E4%BA%8E%E7%BC%93%E5%92%8C%23&Refer=top)
+
+1. [刘维模仿杨迪妈妈](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%BB%B4%E6%A8%A1%E4%BB%BF%E6%9D%A8%E8%BF%AA%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [抱婴儿女子单手接住场外超速棒球](https://s.weibo.com//weibo?q=%23%E6%8A%B1%E5%A9%B4%E5%84%BF%E5%A5%B3%E5%AD%90%E5%8D%95%E6%89%8B%E6%8E%A5%E4%BD%8F%E5%9C%BA%E5%A4%96%E8%B6%85%E9%80%9F%E6%A3%92%E7%90%83%23&Refer=top)
+
+1. [被女朋友宠溺是什么体验](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%AE%A0%E6%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [俄3岁女孩哭闹被母亲挂阳台外不幸坠亡](https://s.weibo.com//weibo?q=%23%E4%BF%843%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%93%AD%E9%97%B9%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%8C%82%E9%98%B3%E5%8F%B0%E5%A4%96%E4%B8%8D%E5%B9%B8%E5%9D%A0%E4%BA%A1%23&Refer=top)
+
+1. [湖北发现超大蚁穴蚁后体长5厘米](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%91%E7%8E%B0%E8%B6%85%E5%A4%A7%E8%9A%81%E7%A9%B4%E8%9A%81%E5%90%8E%E4%BD%93%E9%95%BF5%E5%8E%98%E7%B1%B3%23&Refer=top)
+
+1. [王者世冠或将取消全局BP](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%96%E5%86%A0%E6%88%96%E5%B0%86%E5%8F%96%E6%B6%88%E5%85%A8%E5%B1%80BP%23&Refer=top)
+
+1. [集中治理摄像头偷窥黑产](https://s.weibo.com//weibo?q=%23%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%90%86%E6%91%84%E5%83%8F%E5%A4%B4%E5%81%B7%E7%AA%A5%E9%BB%91%E4%BA%A7%23&Refer=top)
 
