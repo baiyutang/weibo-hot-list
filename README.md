@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 00:09:44
+## 微博今日热榜 更新于 2021-06-12 01:23:29
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -106,4 +106,12 @@
 1. [广东无考生因疫情退出高考](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%97%A0%E8%80%83%E7%94%9F%E5%9B%A0%E7%96%AB%E6%83%85%E9%80%80%E5%87%BA%E9%AB%98%E8%80%83%23&Refer=top)
 
 1. [厦门凤凰花惊艳绽放](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E5%87%A4%E5%87%B0%E8%8A%B1%E6%83%8A%E8%89%B3%E7%BB%BD%E6%94%BE%23&Refer=top)
+
+1. [向往的生活吹牛皮之歌](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%90%B9%E7%89%9B%E7%9A%AE%E4%B9%8B%E6%AD%8C%23&Refer=top)
+
+1. [这才是真的向往的生活](https://s.weibo.com//weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [丁禹兮祝刘耀文中考顺利](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%A5%9D%E5%88%98%E8%80%80%E6%96%87%E4%B8%AD%E8%80%83%E9%A1%BA%E5%88%A9%23&Refer=top)
+
+1. [孙亦航直播](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BA%A6%E8%88%AA%E7%9B%B4%E6%92%AD%23&Refer=top)
 
