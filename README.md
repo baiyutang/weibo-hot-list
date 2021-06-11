@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 05:02:57
+## 微博今日热榜 更新于 2021-06-12 06:03:37
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -172,4 +172,6 @@
 1. [土耳其队自摆乌龙](https://s.weibo.com//weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%9F%E8%87%AA%E6%91%86%E4%B9%8C%E9%BE%99&Refer=top)
 
 1. [法网](https://s.weibo.com//weibo?q=%E6%B3%95%E7%BD%91&Refer=top)
+
+1. [法网2021](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912021%23&Refer=top)
 
