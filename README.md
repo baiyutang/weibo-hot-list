@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 01:23:29
+## 微博今日热榜 更新于 2021-06-12 02:07:53
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -114,4 +114,18 @@
 1. [丁禹兮祝刘耀文中考顺利](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%A5%9D%E5%88%98%E8%80%80%E6%96%87%E4%B8%AD%E8%80%83%E9%A1%BA%E5%88%A9%23&Refer=top)
 
 1. [孙亦航直播](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BA%A6%E8%88%AA%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [100个关键词回顾党史100年](https://s.weibo.com//weibo?q=%23100%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E9%A1%BE%E5%85%9A%E5%8F%B2100%E5%B9%B4%23&Refer=new_time)
+
+1. [国足](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3&Refer=top)
+
+1. [逆天奇案](https://s.weibo.com//weibo?q=%E9%80%86%E5%A4%A9%E5%A5%87%E6%A1%88&Refer=top)
+
+1. [马嘉祺白衬衫](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%99%BD%E8%A1%AC%E8%A1%AB%23&Refer=top)
+
+1. [周笔畅爆炒小龙虾](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%88%86%E7%82%92%E5%B0%8F%E9%BE%99%E8%99%BE%23&Refer=top)
+
+1. [时代少年团安保队伍](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AE%89%E4%BF%9D%E9%98%9F%E4%BC%8D%23&Refer=top)
+
+1. [武磊进球](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E7%A3%8A%E8%BF%9B%E7%90%83%23&Refer=top)
 
