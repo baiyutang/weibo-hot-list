@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-11 10:37:51
+## 微博今日热榜 更新于 2021-06-11 11:13:43
 1. [新征程面对面出版发行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=new_time)
 
 1. [于和伟 我荣幸之至欣喜若狂](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E6%88%91%E8%8D%A3%E5%B9%B8%E4%B9%8B%E8%87%B3%E6%AC%A3%E5%96%9C%E8%8B%A5%E7%8B%82%23&Refer=top)
@@ -244,4 +244,26 @@
 1. [天问一号着陆火星首批科学影像图公布](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E7%9D%80%E9%99%86%E7%81%AB%E6%98%9F%E9%A6%96%E6%89%B9%E7%A7%91%E5%AD%A6%E5%BD%B1%E5%83%8F%E5%9B%BE%E5%85%AC%E5%B8%83%23&Refer=top)
 
 1. [被父母不信任是什么感受](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%88%B6%E6%AF%8D%E4%B8%8D%E4%BF%A1%E4%BB%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E5%8F%97%23&Refer=top)
+
+1. [追寻先烈足迹](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E5%85%88%E7%83%88%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
+
+1. [热依扎 你的福气在后头](https://s.weibo.com//weibo?q=%E7%83%AD%E4%BE%9D%E6%89%8E%20%E4%BD%A0%E7%9A%84%E7%A6%8F%E6%B0%94%E5%9C%A8%E5%90%8E%E5%A4%B4&Refer=top)
+
+1. [娜扎签约和颂传媒](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E7%AD%BE%E7%BA%A6%E5%92%8C%E9%A2%82%E4%BC%A0%E5%AA%92%23&Refer=top)
+
+1. [金晨 啥也没看见就说拥吻](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%A8%20%E5%95%A5%E4%B9%9F%E6%B2%A1%E7%9C%8B%E8%A7%81%E5%B0%B1%E8%AF%B4%E6%8B%A5%E5%90%BB&Refer=top)
+
+1. [80后女子送丈夫进小学奥数班](https://s.weibo.com//weibo?q=%2380%E5%90%8E%E5%A5%B3%E5%AD%90%E9%80%81%E4%B8%88%E5%A4%AB%E8%BF%9B%E5%B0%8F%E5%AD%A6%E5%A5%A5%E6%95%B0%E7%8F%AD%23&Refer=top)
+
+1. [如何看待大学专业都在劝退](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E9%83%BD%E5%9C%A8%E5%8A%9D%E9%80%80%23&Refer=top)
+
+1. [苍兰诀杀青](https://s.weibo.com//weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [雄鹿战胜篮网](https://s.weibo.com//weibo?q=%23%E9%9B%84%E9%B9%BF%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91%23&Refer=top)
+
+1. [祝融号的火星摄影作品公布](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E5%8F%B7%E7%9A%84%E7%81%AB%E6%98%9F%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [全球一半筋膜枪来自永康](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E4%B8%80%E5%8D%8A%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%9D%A5%E8%87%AA%E6%B0%B8%E5%BA%B7%23&Refer=top)
 
