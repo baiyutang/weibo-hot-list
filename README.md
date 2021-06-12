@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 07:03:29
+## 微博今日热榜 更新于 2021-06-12 08:13:48
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -176,4 +176,40 @@
 1. [法网2021](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912021%23&Refer=top)
 
 1. [新生女婴望着防疫医护笑盈盈](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%94%9F%E5%A5%B3%E5%A9%B4%E6%9C%9B%E7%9D%80%E9%98%B2%E7%96%AB%E5%8C%BB%E6%8A%A4%E7%AC%91%E7%9B%88%E7%9B%88%23&Refer=top)
+
+1. [顶楼3 全员双胞胎](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC3%20%E5%85%A8%E5%91%98%E5%8F%8C%E8%83%9E%E8%83%8E&Refer=top)
+
+1. [狗狗咬破白酒桶把自己灌醉](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%92%AC%E7%A0%B4%E7%99%BD%E9%85%92%E6%A1%B6%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%81%8C%E9%86%89%23&Refer=top)
+
+1. [杀人犯潜逃26年因4个打火机落网](https://s.weibo.com//weibo?q=%23%E6%9D%80%E4%BA%BA%E7%8A%AF%E6%BD%9C%E9%80%8326%E5%B9%B4%E5%9B%A04%E4%B8%AA%E6%89%93%E7%81%AB%E6%9C%BA%E8%90%BD%E7%BD%91%23&Refer=top)
+
+1. [张艺兴翻窗练舞](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%BF%BB%E7%AA%97%E7%BB%83%E8%88%9E%23&Refer=top)
+
+1. [林书豪回归北京男篮](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B9%A6%E8%B1%AA%E5%9B%9E%E5%BD%92%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE%23&Refer=top)
+
+1. [国足三场进14球零丢球](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%89%E5%9C%BA%E8%BF%9B14%E7%90%83%E9%9B%B6%E4%B8%A2%E7%90%83%23&Refer=top)
+
+1. [徐艺洋不会为了爱情放弃事业](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%8D%E4%BC%9A%E4%B8%BA%E4%BA%86%E7%88%B1%E6%83%85%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%23&Refer=top)
+
+1. [洛根李哥哥](https://s.weibo.com//weibo?q=%23%E6%B4%9B%E6%A0%B9%E6%9D%8E%E5%93%A5%E5%93%A5%23&Refer=top)
+
+1. [引起广州疫情变异株传播力比老毒株高1倍](https://s.weibo.com//weibo?q=%23%E5%BC%95%E8%B5%B7%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%A0%E6%92%AD%E5%8A%9B%E6%AF%94%E8%80%81%E6%AF%92%E6%A0%AA%E9%AB%981%E5%80%8D%23&Refer=top)
+
+1. [端午假期第一天](https://s.weibo.com//weibo?q=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [德约科维奇逆转纳达尔进决赛](https://s.weibo.com//weibo?q=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E9%80%86%E8%BD%AC%E7%BA%B3%E8%BE%BE%E5%B0%94%E8%BF%9B%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [广东新增8例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E8%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [武磊连续三场进球](https://s.weibo.com//weibo?q=%E6%AD%A6%E7%A3%8A%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%9C%BA%E8%BF%9B%E7%90%83&Refer=top)
+
+1. [如何看待朋友圈秀加班行为](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%80%E5%8A%A0%E7%8F%AD%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [广州夫妇隐瞒中高风险地旅居史被立案侦查](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A4%AB%E5%A6%87%E9%9A%90%E7%9E%92%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E6%97%85%E5%B1%85%E5%8F%B2%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%23&Refer=top)
+
+1. [绝美24秒一览密云水库奇幻银河](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E7%BE%8E24%E7%A7%92%E4%B8%80%E8%A7%88%E5%AF%86%E4%BA%91%E6%B0%B4%E5%BA%93%E5%A5%87%E5%B9%BB%E9%93%B6%E6%B2%B3%23&Refer=top)
+
+1. [温州疫情](https://s.weibo.com//weibo?q=%E6%B8%A9%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
+
+1. [世预赛国足三连胜](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%83%9C&Refer=top)
 
