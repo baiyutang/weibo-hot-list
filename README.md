@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-13 03:06:43
+## 微博今日热榜 更新于 2021-06-13 04:03:25
 1. [红色文博密码](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%96%87%E5%8D%9A%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [湖北取消除武汉外其他地区落户限制](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%96%E6%B6%88%E9%99%A4%E6%AD%A6%E6%B1%89%E5%A4%96%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E8%90%BD%E6%88%B7%E9%99%90%E5%88%B6%23&Refer=top)
@@ -146,4 +146,20 @@
 1. [现场两队球迷齐呼埃里克森](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%BA%E4%B8%A4%E9%98%9F%E7%90%83%E8%BF%B7%E9%BD%90%E5%91%BC%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%23&Refer=top)
 
 1. [粽子](https://s.weibo.com//weibo?q=%E7%B2%BD%E5%AD%90&Refer=top)
+
+1. [心肺复苏](https://s.weibo.com//weibo?q=%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F&Refer=top)
+
+1. [比利时 俄罗斯](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top)
+
+1. [芬兰1比0丹麦](https://s.weibo.com//weibo?q=%E8%8A%AC%E5%85%B01%E6%AF%940%E4%B8%B9%E9%BA%A6&Refer=top)
+
+1. [克亚尔临场反应](https://s.weibo.com//weibo?q=%23%E5%85%8B%E4%BA%9A%E5%B0%94%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [球场急救有多重要](https://s.weibo.com//weibo?q=%23%E7%90%83%E5%9C%BA%E6%80%A5%E6%95%91%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [芬兰欧洲杯历史首球](https://s.weibo.com//weibo?q=%23%E8%8A%AC%E5%85%B0%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%A6%96%E7%90%83%23&Refer=top)
+
+1. [云南德宏州地震提前24秒预警](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8F%90%E5%89%8D24%E7%A7%92%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [威尔士 瑞士](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB%20%E7%91%9E%E5%A3%AB&Refer=top)
 
