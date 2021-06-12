@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 14:04:20
+## 微博今日热榜 更新于 2021-06-12 15:07:36
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -406,4 +406,34 @@
 1. [保罗收割比赛](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E7%BD%97%E6%94%B6%E5%89%B2%E6%AF%94%E8%B5%9B%23&Refer=top)
 
 1. [在南方的北方消防员吃到甜粽说想家](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%8D%97%E6%96%B9%E7%9A%84%E5%8C%97%E6%96%B9%E6%B6%88%E9%98%B2%E5%91%98%E5%90%83%E5%88%B0%E7%94%9C%E7%B2%BD%E8%AF%B4%E6%83%B3%E5%AE%B6%23&Refer=top)
+
+1. [文化和自然遗产日](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E6%97%A5%23&Refer=new_time)
+
+1. [一个苹果就能换国宝的仔](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E8%8B%B9%E6%9E%9C%E5%B0%B1%E8%83%BD%E6%8D%A2%E5%9B%BD%E5%AE%9D%E7%9A%84%E4%BB%94%23&Refer=top)
+
+1. [裸考四六级是种什么体验](https://s.weibo.com//weibo?q=%23%E8%A3%B8%E8%80%83%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [金靖男朋友](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%9D%96%E7%94%B7%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [王安安](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%89&Refer=top)
+
+1. [袁姗姗签名签了个寂寞](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E7%AD%BE%E5%90%8D%E7%AD%BE%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [车祸也无法阻止爱学习的心](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E7%A5%B8%E4%B9%9F%E6%97%A0%E6%B3%95%E9%98%BB%E6%AD%A2%E7%88%B1%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BF%83%23&Refer=top)
+
+1. [停电时千万别让爸爸讲故事](https://s.weibo.com//weibo?q=%23%E5%81%9C%E7%94%B5%E6%97%B6%E5%8D%83%E4%B8%87%E5%88%AB%E8%AE%A9%E7%88%B8%E7%88%B8%E8%AE%B2%E6%95%85%E4%BA%8B%23&Refer=top)
+
+1. [78岁爷爷千里送孙子投案](https://s.weibo.com//weibo?q=78%E5%B2%81%E7%88%B7%E7%88%B7%E5%8D%83%E9%87%8C%E9%80%81%E5%AD%99%E5%AD%90%E6%8A%95%E6%A1%88&Refer=top)
+
+1. [六级作文](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E4%BD%9C%E6%96%87&Refer=top)
+
+1. [男生的梦中情房](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E6%88%BF%23&Refer=top)
+
+1. [美国旧金山湾区近2百万人缺水](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1%E6%B9%BE%E5%8C%BA%E8%BF%912%E7%99%BE%E4%B8%87%E4%BA%BA%E7%BC%BA%E6%B0%B4%23&Refer=top)
+
+1. [这才是真正的仓鼠球](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BB%93%E9%BC%A0%E7%90%83%23&Refer=top)
+
+1. [澳大利亚发现恐龙新物种](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8F%91%E7%8E%B0%E6%81%90%E9%BE%99%E6%96%B0%E7%89%A9%E7%A7%8D&Refer=top)
+
+1. [台湾新增250例本土病例](https://s.weibo.com//weibo?q=%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%A2%9E250%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B&Refer=top)
 
