@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 10:24:05
+## 微博今日热榜 更新于 2021-06-12 11:06:58
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -268,4 +268,28 @@
 1. [想想都后怕的经历](https://s.weibo.com//weibo?q=%23%E6%83%B3%E6%83%B3%E9%83%BD%E5%90%8E%E6%80%95%E7%9A%84%E7%BB%8F%E5%8E%86%23&Refer=top)
 
 1. [小伙住ICU95天医护写1.1万字日记鼓励](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E4%BD%8FICU95%E5%A4%A9%E5%8C%BB%E6%8A%A4%E5%86%991.1%E4%B8%87%E5%AD%97%E6%97%A5%E8%AE%B0%E9%BC%93%E5%8A%B1%23&Refer=top)
+
+1. [把院长派来的博士当成骗子](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E9%99%A2%E9%95%BF%E6%B4%BE%E6%9D%A5%E7%9A%84%E5%8D%9A%E5%A3%AB%E5%BD%93%E6%88%90%E9%AA%97%E5%AD%90%23&Refer=top)
+
+1. [广西发现首例印度变异株](https://s.weibo.com//weibo?q=%E5%B9%BF%E8%A5%BF%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%8D%B0%E5%BA%A6%E5%8F%98%E5%BC%82%E6%A0%AA&Refer=top)
+
+1. [1头小象遇险3头大象救援](https://s.weibo.com//weibo?q=%231%E5%A4%B4%E5%B0%8F%E8%B1%A1%E9%81%87%E9%99%A93%E5%A4%B4%E5%A4%A7%E8%B1%A1%E6%95%91%E6%8F%B4%23&Refer=top)
+
+1. [宋妍霏是tony老师吧](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E6%98%AFtony%E8%80%81%E5%B8%88%E5%90%A7%23&Refer=top)
+
+1. [青岛推出面粽子](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E6%8E%A8%E5%87%BA%E9%9D%A2%E7%B2%BD%E5%AD%90%23&Refer=top)
+
+1. [cp28](https://s.weibo.com//weibo?q=%23cp28%23&Refer=top)
+
+1. [江豚妈妈背着江豚宝宝戏水](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%A6%88%E5%A6%88%E8%83%8C%E7%9D%80%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D%E6%88%8F%E6%B0%B4%23&Refer=top)
+
+1. [药明康德股东违反承诺减持公司股份](https://s.weibo.com//weibo?q=%23%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7%E8%82%A1%E4%B8%9C%E8%BF%9D%E5%8F%8D%E6%89%BF%E8%AF%BA%E5%87%8F%E6%8C%81%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD%23&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [广州疫情防控新闻发布会](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [台风预警](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [你为看球做过最疯狂的事情](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%B8%BA%E7%9C%8B%E7%90%83%E5%81%9A%E8%BF%87%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84%E4%BA%8B%E6%83%85%23&Refer=top)
 
