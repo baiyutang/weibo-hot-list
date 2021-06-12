@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 09:45:40
+## 微博今日热榜 更新于 2021-06-12 10:24:05
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -250,4 +250,22 @@
 1. [新疆天空一半乳状云一半蓝天](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%A9%E7%A9%BA%E4%B8%80%E5%8D%8A%E4%B9%B3%E7%8A%B6%E4%BA%91%E4%B8%80%E5%8D%8A%E8%93%9D%E5%A4%A9%23&Refer=top)
 
 1. [有需要打疫苗的喵喵喵吗](https://s.weibo.com//weibo?q=%23%E6%9C%89%E9%9C%80%E8%A6%81%E6%89%93%E7%96%AB%E8%8B%97%E7%9A%84%E5%96%B5%E5%96%B5%E5%96%B5%E5%90%97%23&Refer=top)
+
+1. [红色文博密码](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%96%87%E5%8D%9A%E5%AF%86%E7%A0%81%23&Refer=new_time)
+
+1. [大S ins](https://s.weibo.com//weibo?q=%E5%A4%A7S%20ins&Refer=top)
+
+1. [陈卓璇想开万人演唱会](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E6%83%B3%E5%BC%80%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+
+1. [大s 狠话是保留的](https://s.weibo.com//weibo?q=%E5%A4%A7s%20%E7%8B%A0%E8%AF%9D%E6%98%AF%E4%BF%9D%E7%95%99%E7%9A%84&Refer=top)
+
+1. [人的新陈代谢原来这么震撼](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%9A%84%E6%96%B0%E9%99%88%E4%BB%A3%E8%B0%A2%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E9%9C%87%E6%92%BC%23&Refer=top)
+
+1. [端午节限定口罩](https://s.weibo.com//weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E9%99%90%E5%AE%9A%E5%8F%A3%E7%BD%A9%23&Refer=top)
+
+1. [离群独象距象群16公里](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E7%BE%A4%E7%8B%AC%E8%B1%A1%E8%B7%9D%E8%B1%A1%E7%BE%A416%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [想想都后怕的经历](https://s.weibo.com//weibo?q=%23%E6%83%B3%E6%83%B3%E9%83%BD%E5%90%8E%E6%80%95%E7%9A%84%E7%BB%8F%E5%8E%86%23&Refer=top)
+
+1. [小伙住ICU95天医护写1.1万字日记鼓励](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E4%BD%8FICU95%E5%A4%A9%E5%8C%BB%E6%8A%A4%E5%86%991.1%E4%B8%87%E5%AD%97%E6%97%A5%E8%AE%B0%E9%BC%93%E5%8A%B1%23&Refer=top)
 
