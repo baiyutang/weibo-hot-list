@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-13 04:03:25
+## 微博今日热榜 更新于 2021-06-13 05:02:54
 1. [红色文博密码](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%96%87%E5%8D%9A%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [湖北取消除武汉外其他地区落户限制](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%96%E6%B6%88%E9%99%A4%E6%AD%A6%E6%B1%89%E5%A4%96%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E8%90%BD%E6%88%B7%E9%99%90%E5%88%B6%23&Refer=top)
@@ -162,4 +162,12 @@
 1. [云南德宏州地震提前24秒预警](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8F%90%E5%89%8D24%E7%A7%92%E9%A2%84%E8%AD%A6%23&Refer=top)
 
 1. [威尔士 瑞士](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB%20%E7%91%9E%E5%A3%AB&Refer=top)
+
+1. [雾化及鼻喷式新冠疫苗正在临床试验](https://s.weibo.com//weibo?q=%23%E9%9B%BE%E5%8C%96%E5%8F%8A%E9%BC%BB%E5%96%B7%E5%BC%8F%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%AD%A3%E5%9C%A8%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%23&Refer=new_time)
+
+1. [比利时3比0俄罗斯](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B63%E6%AF%940%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top)
+
+1. [官方通报7人河边喝酒4人溺亡](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A57%E4%BA%BA%E6%B2%B3%E8%BE%B9%E5%96%9D%E9%85%924%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top)
+
+1. [卢卡库梅开二度](https://s.weibo.com//weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
 
