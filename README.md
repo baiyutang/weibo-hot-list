@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 17:03:07
+## 微博今日热榜 更新于 2021-06-12 18:03:45
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -520,4 +520,30 @@
 1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
 
 1. [交警暴雨中执勤频频被路人送伞](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E8%AD%A6%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%89%A7%E5%8B%A4%E9%A2%91%E9%A2%91%E8%A2%AB%E8%B7%AF%E4%BA%BA%E9%80%81%E4%BC%9E%23&Refer=top)
+
+1. [六级答案](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88&Refer=top)
+
+1. [刘浩存对镜头挑眉](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E5%AF%B9%E9%95%9C%E5%A4%B4%E6%8C%91%E7%9C%89%23&Refer=top)
+
+1. [女生寝室关系能有多僵硬](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%AF%9D%E5%AE%A4%E5%85%B3%E7%B3%BB%E8%83%BD%E6%9C%89%E5%A4%9A%E5%83%B5%E7%A1%AC%23&Refer=top)
+
+1. [六级翻译 青海湖](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%20%E9%9D%92%E6%B5%B7%E6%B9%96&Refer=top)
+
+1. [杨紫唱黄子韬的rap](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%94%B1%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84rap%23&Refer=top)
+
+1. [张哲瀚燕尾服](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E7%87%95%E5%B0%BE%E6%9C%8D&Refer=top)
+
+1. [深圳女子造谣华强北确检1例被行拘](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A5%B3%E5%AD%90%E9%80%A0%E8%B0%A3%E5%8D%8E%E5%BC%BA%E5%8C%97%E7%A1%AE%E6%A3%801%E4%BE%8B%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [宋亚轩翻唱ForeverYoung](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BF%BB%E5%94%B1ForeverYoung%23&Refer=top)
+
+1. [张婧仪锁骨](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%94%81%E9%AA%A8%23&Refer=top)
+
+1. [六级听力听不懂](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E5%90%AC%E4%B8%8D%E6%87%82&Refer=top)
+
+1. [六级阅读看不懂](https://s.weibo.com//weibo?q=%E5%85%AD%E7%BA%A7%E9%98%85%E8%AF%BB%E7%9C%8B%E4%B8%8D%E6%87%82&Refer=top)
+
+1. [吴磊造型好像魔术师](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%E9%80%A0%E5%9E%8B%E5%A5%BD%E5%83%8F%E9%AD%94%E6%9C%AF%E5%B8%88&Refer=top)
+
+1. [消费者称驴嫂处购买的手机遭强行退赔](https://s.weibo.com//weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E9%A9%B4%E5%AB%82%E5%A4%84%E8%B4%AD%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E9%81%AD%E5%BC%BA%E8%A1%8C%E9%80%80%E8%B5%94%23&Refer=top)
 
