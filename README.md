@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 20:05:37
+## 微博今日热榜 更新于 2021-06-12 21:16:01
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -626,4 +626,32 @@
 1. [被讨厌的男同事身材羞辱](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%94%B7%E5%90%8C%E4%BA%8B%E8%BA%AB%E6%9D%90%E7%BE%9E%E8%BE%B1%23&Refer=top)
 
 1. [没想到相亲群还会有训话](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%9B%B8%E4%BA%B2%E7%BE%A4%E8%BF%98%E4%BC%9A%E6%9C%89%E8%AE%AD%E8%AF%9D%23&Refer=top)
+
+1. [张哲瀚年度最受关注演员](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [利路修 四六级预言家](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E5%9B%9B%E5%85%AD%E7%BA%A7%E9%A2%84%E8%A8%80%E5%AE%B6&Refer=top)
+
+1. [粽子界天花板](https://s.weibo.com//weibo?q=%23%E7%B2%BD%E5%AD%90%E7%95%8C%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
+
+1. [李斯丹妮刘雯夏天粉红色的表姐妹](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%88%98%E9%9B%AF%E5%A4%8F%E5%A4%A9%E7%B2%89%E7%BA%A2%E8%89%B2%E7%9A%84%E8%A1%A8%E5%A7%90%E5%A6%B9%23&Refer=top)
+
+1. [端午奇妙游](https://s.weibo.com//weibo?q=%E7%AB%AF%E5%8D%88%E5%A5%87%E5%A6%99%E6%B8%B8&Refer=top)
+
+1. [威尔士 瑞士](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB%20%E7%91%9E%E5%A3%AB&Refer=top)
+
+1. [张哲瀚唱给电影人的情书](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%94%B1%E7%BB%99%E7%94%B5%E5%BD%B1%E4%BA%BA%E7%9A%84%E6%83%85%E4%B9%A6%23&Refer=top)
+
+1. [夜市是夏天的正确打开方式](https://s.weibo.com//weibo?q=%23%E5%A4%9C%E5%B8%82%E6%98%AF%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [一封写给闺蜜的信](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B0%81%E5%86%99%E7%BB%99%E9%97%BA%E8%9C%9C%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [粽子为什么要分甜咸](https://s.weibo.com//weibo?q=%23%E7%B2%BD%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%88%86%E7%94%9C%E5%92%B8%23&Refer=top)
+
+1. [揭秘江苏高考评卷工作现场](https://s.weibo.com//weibo?q=%23%E6%8F%AD%E7%A7%98%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E8%AF%84%E5%8D%B7%E5%B7%A5%E4%BD%9C%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [QG eStar](https://s.weibo.com//weibo?q=QG%20eStar&Refer=top)
+
+1. [熬夜看球需要注意什么](https://s.weibo.com//weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%8B%E7%90%83%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top)
 
