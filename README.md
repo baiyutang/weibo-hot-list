@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-13 01:20:28
+## 微博今日热榜 更新于 2021-06-13 02:03:34
 1. [红色文博密码](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%96%87%E5%8D%9A%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [湖北取消除武汉外其他地区落户限制](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%96%E6%B6%88%E9%99%A4%E6%AD%A6%E6%B1%89%E5%A4%96%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E8%90%BD%E6%88%B7%E9%99%90%E5%88%B6%23&Refer=top)
@@ -132,4 +132,10 @@
 1. [端午五彩洛神惊艳演绎水下飞天](https://s.weibo.com//weibo?q=%23%E7%AB%AF%E5%8D%88%E4%BA%94%E5%BD%A9%E6%B4%9B%E7%A5%9E%E6%83%8A%E8%89%B3%E6%BC%94%E7%BB%8E%E6%B0%B4%E4%B8%8B%E9%A3%9E%E5%A4%A9%23&Refer=top)
 
 1. [火星探测总师说还有更精彩的](https://s.weibo.com//weibo?q=%23%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E6%80%BB%E5%B8%88%E8%AF%B4%E8%BF%98%E6%9C%89%E6%9B%B4%E7%B2%BE%E5%BD%A9%E7%9A%84%23&Refer=top)
+
+1. [埃里克森恢复自主呼吸](https://s.weibo.com//weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E6%81%A2%E5%A4%8D%E8%87%AA%E4%B8%BB%E5%91%BC%E5%90%B8%23&Refer=top)
+
+1. [李雪琴被动式交朋友](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%A2%AB%E5%8A%A8%E5%BC%8F%E4%BA%A4%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [芬兰与丹麦的比赛推迟](https://s.weibo.com//weibo?q=%23%E8%8A%AC%E5%85%B0%E4%B8%8E%E4%B8%B9%E9%BA%A6%E7%9A%84%E6%AF%94%E8%B5%9B%E6%8E%A8%E8%BF%9F%23&Refer=top)
 
