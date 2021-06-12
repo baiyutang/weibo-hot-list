@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 08:13:48
+## 微博今日热榜 更新于 2021-06-12 09:45:40
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -212,4 +212,42 @@
 1. [温州疫情](https://s.weibo.com//weibo?q=%E6%B8%A9%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
 
 1. [世预赛国足三连胜](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%83%9C&Refer=top)
+
+1. [刘昊然敲车窗](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E6%95%B2%E8%BD%A6%E7%AA%97%23&Refer=top)
+
+1. [杨洁篪就涉疆涉港问题表明严正立场](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%81%E7%AF%AA%E5%B0%B1%E6%B6%89%E7%96%86%E6%B6%89%E6%B8%AF%E9%97%AE%E9%A2%98%E8%A1%A8%E6%98%8E%E4%B8%A5%E6%AD%A3%E7%AB%8B%E5%9C%BA%23&Refer=top)
+
+1. [美国计划销毁约千万剂强生新冠疫苗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AE%A1%E5%88%92%E9%94%80%E6%AF%81%E7%BA%A6%E5%8D%83%E4%B8%87%E5%89%82%E5%BC%BA%E7%94%9F%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [警方通报男子无故推倒共享单车](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%97%A0%E6%95%85%E6%8E%A8%E5%80%92%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%23&Refer=top)
+
+1. [英语四级作文](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&Refer=top)
+
+1. [马东问什么是快乐星球](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E4%B8%9C%E9%97%AE%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [印度毛霉菌病病例超3万例](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%AF%9B%E9%9C%89%E8%8F%8C%E7%97%85%E7%97%85%E4%BE%8B%E8%B6%853%E4%B8%87%E4%BE%8B%23&Refer=top)
+
+1. [金克丝打不过蔚](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%85%8B%E4%B8%9D%E6%89%93%E4%B8%8D%E8%BF%87%E8%94%9A%23&Refer=top)
+
+1. [湖人有意交易库兹马](https://s.weibo.com//weibo?q=%23%E6%B9%96%E4%BA%BA%E6%9C%89%E6%84%8F%E4%BA%A4%E6%98%93%E5%BA%93%E5%85%B9%E9%A9%AC%23&Refer=top)
+
+1. [张艺兴弹唱星晴](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BC%B9%E5%94%B1%E6%98%9F%E6%99%B4%23&Refer=top)
+
+1. [四级](https://s.weibo.com//weibo?q=%E5%9B%9B%E7%BA%A7&Refer=top)
+
+1. [高楼失火特警从31楼背老人下楼](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A5%BC%E5%A4%B1%E7%81%AB%E7%89%B9%E8%AD%A6%E4%BB%8E31%E6%A5%BC%E8%83%8C%E8%80%81%E4%BA%BA%E4%B8%8B%E6%A5%BC%23&Refer=top)
+
+1. [动物园为动物们特制粽子盲盒](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%BA%E5%8A%A8%E7%89%A9%E4%BB%AC%E7%89%B9%E5%88%B6%E7%B2%BD%E5%AD%90%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [31省区市新增确诊35例](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A35%E4%BE%8B%23&Refer=top)
+
+1. [四六级考试](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%23&Refer=top)
+
+1. [欧洲杯首次以乌龙球开局](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E9%A6%96%E6%AC%A1%E4%BB%A5%E4%B9%8C%E9%BE%99%E7%90%83%E5%BC%80%E5%B1%80&Refer=top)
+
+1. [新疆天空一半乳状云一半蓝天](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%A9%E7%A9%BA%E4%B8%80%E5%8D%8A%E4%B9%B3%E7%8A%B6%E4%BA%91%E4%B8%80%E5%8D%8A%E8%93%9D%E5%A4%A9%23&Refer=top)
+
+1. [有需要打疫苗的喵喵喵吗](https://s.weibo.com//weibo?q=%23%E6%9C%89%E9%9C%80%E8%A6%81%E6%89%93%E7%96%AB%E8%8B%97%E7%9A%84%E5%96%B5%E5%96%B5%E5%96%B5%E5%90%97%23&Refer=top)
 
