@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 21:16:01
+## 微博今日热榜 更新于 2021-06-12 22:03:42
 1. [安全生产法事故罚款最高升至1亿元](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B3%95%E4%BA%8B%E6%95%85%E7%BD%9A%E6%AC%BE%E6%9C%80%E9%AB%98%E5%8D%87%E8%87%B31%E4%BA%BF%E5%85%83%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -654,4 +654,50 @@
 1. [QG eStar](https://s.weibo.com//weibo?q=QG%20eStar&Refer=top)
 
 1. [熬夜看球需要注意什么](https://s.weibo.com//weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%8B%E7%90%83%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [北京一家三口爬野长城被困](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%88%AC%E9%87%8E%E9%95%BF%E5%9F%8E%E8%A2%AB%E5%9B%B0%23&Refer=top)
+
+1. [易烊千玺年度最受欢迎演员](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [刘浩存的眼睛像小鹿](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%83%8F%E5%B0%8F%E9%B9%BF&Refer=top)
+
+1. [女学员备考科目二无实物练车](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A6%E5%91%98%E5%A4%87%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%97%A0%E5%AE%9E%E7%89%A9%E7%BB%83%E8%BD%A6%23&Refer=top)
+
+1. [女子坠河5人下水救援4人遇难](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9D%A0%E6%B2%B35%E4%BA%BA%E4%B8%8B%E6%B0%B4%E6%95%91%E6%8F%B44%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top)
+
+1. [河边喝酒溺亡4人均高考学生](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E8%BE%B9%E5%96%9D%E9%85%92%E6%BA%BA%E4%BA%A14%E4%BA%BA%E5%9D%87%E9%AB%98%E8%80%83%E5%AD%A6%E7%94%9F%23&Refer=top)
+
+1. [河南200余名中学老师集体考试](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97200%E4%BD%99%E5%90%8D%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E9%9B%86%E4%BD%93%E8%80%83%E8%AF%95%23&Refer=top)
+
+1. [李雪琴辣目洋子吐槽桃花坞](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%BE%A3%E7%9B%AE%E6%B4%8B%E5%AD%90%E5%90%90%E6%A7%BD%E6%A1%83%E8%8A%B1%E5%9D%9E%23&Refer=top)
+
+1. [林楠笙太难了](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%A5%A0%E7%AC%99%E5%A4%AA%E9%9A%BE%E4%BA%86%23&Refer=top)
+
+1. [贾玲年度最受欢迎导演](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E5%AF%BC%E6%BC%94%23&Refer=top)
+
+1. [王嘉尔DNA舞台](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94DNA%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [周深儿歌串烧](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%E5%84%BF%E6%AD%8C%E4%B8%B2%E7%83%A7&Refer=top)
+
+1. [云南德宏州地震提前24秒预警](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8F%90%E5%89%8D24%E7%A7%92%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [EDG战胜iG](https://s.weibo.com//weibo?q=%23EDG%E6%88%98%E8%83%9CiG%23&Refer=top)
+
+1. [肖战直播](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [五十公里桃花坞](https://s.weibo.com//weibo?q=%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E&Refer=top)
+
+1. [Wink离谱](https://s.weibo.com//weibo?q=Wink%E7%A6%BB%E8%B0%B1&Refer=top)
+
+1. [Fly的吕布](https://s.weibo.com//weibo?q=%23Fly%E7%9A%84%E5%90%95%E5%B8%83%23&Refer=top)
+
+1. [90后小伙自制百条武侠片走红](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E8%87%AA%E5%88%B6%E7%99%BE%E6%9D%A1%E6%AD%A6%E4%BE%A0%E7%89%87%E8%B5%B0%E7%BA%A2%23&Refer=top)
+
+1. [欧洲杯赛程](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E8%B5%9B%E7%A8%8B&Refer=top)
+
+1. [虞书欣发文告别初礼](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%88%9D%E7%A4%BC%23&Refer=top)
+
+1. [热带往事](https://s.weibo.com//weibo?q=%E7%83%AD%E5%B8%A6%E5%BE%80%E4%BA%8B&Refer=top)
+
+1. [端午五彩洛神惊艳演绎水下飞天](https://s.weibo.com//weibo?q=%23%E7%AB%AF%E5%8D%88%E4%BA%94%E5%BD%A9%E6%B4%9B%E7%A5%9E%E6%83%8A%E8%89%B3%E6%BC%94%E7%BB%8E%E6%B0%B4%E4%B8%8B%E9%A3%9E%E5%A4%A9%23&Refer=top)
 
