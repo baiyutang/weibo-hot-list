@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-14 04:03:42
+## 微博今日热榜 更新于 2021-06-14 05:02:54
 1. [穿越百年的密码](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [民警查嫖娼反被当作仙人跳](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%9F%A5%E5%AB%96%E5%A8%BC%E5%8F%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [林允晒和张蓝心亲密旧照](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%85%81%E6%99%92%E5%92%8C%E5%BC%A0%E8%93%9D%E5%BF%83%E4%BA%B2%E5%AF%86%E6%97%A7%E7%85%A7%23&Refer=top)
 
 1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+
+1. [建党100周年庆祝大会首次综合演练](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E5%85%9A100%E5%91%A8%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E9%A6%96%E6%AC%A1%E7%BB%BC%E5%90%88%E6%BC%94%E7%BB%83%23&Refer=top)
 
