@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-13 12:04:35
+## 微博今日热榜 更新于 2021-06-13 13:08:25
 1. [红色文博密码](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%96%87%E5%8D%9A%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [湖北取消除武汉外其他地区落户限制](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%96%E6%B6%88%E9%99%A4%E6%AD%A6%E6%B1%89%E5%A4%96%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E8%90%BD%E6%88%B7%E9%99%90%E5%88%B6%23&Refer=top)
@@ -336,4 +336,44 @@
 1. [如何应对宿舍大检查](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%AE%BF%E8%88%8D%E5%A4%A7%E6%A3%80%E6%9F%A5%23&Refer=top)
 
 1. [云南野象群互踹打闹](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E9%87%8E%E8%B1%A1%E7%BE%A4%E4%BA%92%E8%B8%B9%E6%89%93%E9%97%B9%23&Refer=top)
+
+1. [那英 杨紫](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%20%E6%9D%A8%E7%B4%AB&Refer=top)
+
+1. [埃里克森心脏一度停止跳动](https://s.weibo.com//weibo?q=%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E5%BF%83%E8%84%8F%E4%B8%80%E5%BA%A6%E5%81%9C%E6%AD%A2%E8%B7%B3%E5%8A%A8&Refer=top)
+
+1. [乃万 网上那些嘴臭的人你姐我好得很](https://s.weibo.com//weibo?q=%E4%B9%83%E4%B8%87%20%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BA%9B%E5%98%B4%E8%87%AD%E7%9A%84%E4%BA%BA%E4%BD%A0%E5%A7%90%E6%88%91%E5%A5%BD%E5%BE%97%E5%BE%88&Refer=top)
+
+1. [十堰爆炸事故已致11人死亡](https://s.weibo.com//weibo?q=%E5%8D%81%E5%A0%B0%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B411%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [井哥哥](https://s.weibo.com//weibo?q=%E4%BA%95%E5%93%A5%E5%93%A5&Refer=top)
+
+1. [孙俪给邓超泡的咖啡](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E7%BB%99%E9%82%93%E8%B6%85%E6%B3%A1%E7%9A%84%E5%92%96%E5%95%A1%23&Refer=top)
+
+1. [玩摩尔庄园说话被奶奶当真](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E8%AF%B4%E8%AF%9D%E8%A2%AB%E5%A5%B6%E5%A5%B6%E5%BD%93%E7%9C%9F%23&Refer=top)
+
+1. [湖北十堰燃气爆炸现场居民发声](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8D%81%E5%A0%B0%E7%87%83%E6%B0%94%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E5%B1%85%E6%B0%91%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [王副站长升职](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%89%AF%E7%AB%99%E9%95%BF%E5%8D%87%E8%81%8C%23&Refer=top)
+
+1. [广州疫情](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [英语A级](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%AF%ADA%E7%BA%A7&Refer=top)
+
+1. [吴磊小时候的街舞视频](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%A1%97%E8%88%9E%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [猫咪枕榴莲睡大觉](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E6%9E%95%E6%A6%B4%E8%8E%B2%E7%9D%A1%E5%A4%A7%E8%A7%89%23&Refer=top)
+
+1. [易烊千玺战损妆](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%88%98%E6%8D%9F%E5%A6%86%23&Refer=top)
+
+1. [cover女团舞蹈必备的神仙妹妹](https://s.weibo.com//weibo?q=cover%E5%A5%B3%E5%9B%A2%E8%88%9E%E8%B9%88%E5%BF%85%E5%A4%87%E7%9A%84%E7%A5%9E%E4%BB%99%E5%A6%B9%E5%A6%B9&Refer=top)
+
+1. [没想到水果之间也内卷](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%B0%B4%E6%9E%9C%E4%B9%8B%E9%97%B4%E4%B9%9F%E5%86%85%E5%8D%B7%23&Refer=top)
+
+1. [同一个城市却像谈异地恋](https://s.weibo.com//weibo?q=%23%E5%90%8C%E4%B8%80%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%8D%B4%E5%83%8F%E8%B0%88%E5%BC%82%E5%9C%B0%E6%81%8B%23&Refer=top)
+
+1. [埃里克森还能重返球场吗](https://s.weibo.com//weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E8%BF%98%E8%83%BD%E9%87%8D%E8%BF%94%E7%90%83%E5%9C%BA%E5%90%97%23&Refer=top)
+
+1. [端午游不出远门成主流](https://s.weibo.com//weibo?q=%23%E7%AB%AF%E5%8D%88%E6%B8%B8%E4%B8%8D%E5%87%BA%E8%BF%9C%E9%97%A8%E6%88%90%E4%B8%BB%E6%B5%81%23&Refer=top)
+
+1. [如何看待容貌焦虑低龄化](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AE%B9%E8%B2%8C%E7%84%A6%E8%99%91%E4%BD%8E%E9%BE%84%E5%8C%96%23&Refer=top)
 
