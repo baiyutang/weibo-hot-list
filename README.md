@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-14 00:09:13
+## 微博今日热榜 更新于 2021-06-14 01:20:32
 1. [穿越百年的密码](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [民警查嫖娼反被当作仙人跳](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%9F%A5%E5%AB%96%E5%A8%BC%E5%8F%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [有个偏心的妈妈是什么体验](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%B8%AA%E5%81%8F%E5%BF%83%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
 
 1. [那英杨紫回应不和](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%9D%A8%E7%B4%AB%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%92%8C%23&Refer=top)
+
+1. [百年前开天辟地的90后00后](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%89%8D%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0%E7%9A%8490%E5%90%8E00%E5%90%8E%23&Refer=new_time)
+
+1. [埃里克森倒地黄金救援14分钟恢复意识](https://s.weibo.com//weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E5%80%92%E5%9C%B0%E9%BB%84%E9%87%91%E6%95%91%E6%8F%B414%E5%88%86%E9%92%9F%E6%81%A2%E5%A4%8D%E6%84%8F%E8%AF%86%23&Refer=top)
+
+1. [杨紫说看了阳光姐妹淘哭惨了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E7%9C%8B%E4%BA%86%E9%98%B3%E5%85%89%E5%A7%90%E5%A6%B9%E6%B7%98%E5%93%AD%E6%83%A8%E4%BA%86%23&Refer=top)
+
+1. [岳云鹏被邓伦敲车窗受到惊吓](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%A2%AB%E9%82%93%E4%BC%A6%E6%95%B2%E8%BD%A6%E7%AA%97%E5%8F%97%E5%88%B0%E6%83%8A%E5%90%93%23&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [英格兰 克罗地亚](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A&Refer=top)
 
