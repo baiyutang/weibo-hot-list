@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-13 14:04:22
+## 微博今日热榜 更新于 2021-06-13 15:08:11
 1. [红色文博密码](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%96%87%E5%8D%9A%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [湖北取消除武汉外其他地区落户限制](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%96%E6%B6%88%E9%99%A4%E6%AD%A6%E6%B1%89%E5%A4%96%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E8%90%BD%E6%88%B7%E9%99%90%E5%88%B6%23&Refer=top)
@@ -400,4 +400,38 @@
 1. [十堰燃气爆炸已搜救出144人](https://s.weibo.com//weibo?q=%E5%8D%81%E5%A0%B0%E7%87%83%E6%B0%94%E7%88%86%E7%82%B8%E5%B7%B2%E6%90%9C%E6%95%91%E5%87%BA144%E4%BA%BA&Refer=top)
 
 1. [国宝的忘崽大礼包](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%9D%E7%9A%84%E5%BF%98%E5%B4%BD%E5%A4%A7%E7%A4%BC%E5%8C%85%23&Refer=top)
+
+1. [洛神水赋演员50秒换一次气](https://s.weibo.com//weibo?q=%E6%B4%9B%E7%A5%9E%E6%B0%B4%E8%B5%8B%E6%BC%94%E5%91%9850%E7%A7%92%E6%8D%A2%E4%B8%80%E6%AC%A1%E6%B0%94&Refer=top)
+
+1. [十堰燃气爆炸 血站呼吁错峰献血](https://s.weibo.com//weibo?q=%E5%8D%81%E5%A0%B0%E7%87%83%E6%B0%94%E7%88%86%E7%82%B8%20%E8%A1%80%E7%AB%99%E5%91%BC%E5%90%81%E9%94%99%E5%B3%B0%E7%8C%AE%E8%A1%80&Refer=top)
+
+1. [奔跑吧路透](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [佛山封控区一超市哄抬物价被罚10万](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E5%B0%81%E6%8E%A7%E5%8C%BA%E4%B8%80%E8%B6%85%E5%B8%82%E5%93%84%E6%8A%AC%E7%89%A9%E4%BB%B7%E8%A2%AB%E7%BD%9A10%E4%B8%87%23&Refer=top)
+
+1. [别人做和我做的区别](https://s.weibo.com//weibo?q=%23%E5%88%AB%E4%BA%BA%E5%81%9A%E5%92%8C%E6%88%91%E5%81%9A%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [认真洗澡的海狸鼠](https://s.weibo.com//weibo?q=%23%E8%AE%A4%E7%9C%9F%E6%B4%97%E6%BE%A1%E7%9A%84%E6%B5%B7%E7%8B%B8%E9%BC%A0%23&Refer=top)
+
+1. [盗墓笔记动画真香](https://s.weibo.com//weibo?q=%23%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E5%8A%A8%E7%94%BB%E7%9C%9F%E9%A6%99%23&Refer=top)
+
+1. [王源新专辑夏野了预告](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E4%B8%93%E8%BE%91%E5%A4%8F%E9%87%8E%E4%BA%86%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [十堰市民排长队献血](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%A0%B0%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%98%9F%E7%8C%AE%E8%A1%80%23&Refer=top)
+
+1. [遭受职场霸凌要不要越级沟通](https://s.weibo.com//weibo?q=%23%E9%81%AD%E5%8F%97%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E8%A6%81%E4%B8%8D%E8%A6%81%E8%B6%8A%E7%BA%A7%E6%B2%9F%E9%80%9A%23&Refer=top)
+
+1. [象群或因气候食物适宜行动放缓](https://s.weibo.com//weibo?q=%23%E8%B1%A1%E7%BE%A4%E6%88%96%E5%9B%A0%E6%B0%94%E5%80%99%E9%A3%9F%E7%89%A9%E9%80%82%E5%AE%9C%E8%A1%8C%E5%8A%A8%E6%94%BE%E7%BC%93%23&Refer=top)
+
+1. [95后核酸检测员通宵单手拧管2000余次](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%91%98%E9%80%9A%E5%AE%B5%E5%8D%95%E6%89%8B%E6%8B%A7%E7%AE%A12000%E4%BD%99%E6%AC%A1%23&Refer=top)
+
+1. [医生示范心肺复苏术](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A4%BA%E8%8C%83%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E6%9C%AF%23&Refer=top)
+
+1. [赛龙舟版贪吃龙舟](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E7%89%88%E8%B4%AA%E5%90%83%E9%BE%99%E8%88%9F%23&Refer=top)
+
+1. [梁洁分享缓解姨妈痛小妙招](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%B4%81%E5%88%86%E4%BA%AB%E7%BC%93%E8%A7%A3%E5%A7%A8%E5%A6%88%E7%97%9B%E5%B0%8F%E5%A6%99%E6%8B%9B%23&Refer=top)
+
+1. [迪丽热巴祝大家端午安康](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A5%9D%E5%A4%A7%E5%AE%B6%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%23&Refer=top)
+
+1. [蔡徐坤羊毛卷造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%BE%8A%E6%AF%9B%E5%8D%B7%E9%80%A0%E5%9E%8B%23&Refer=top)
 
