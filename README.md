@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 05:02:46
+## 微博今日热榜 更新于 2021-06-15 06:04:22
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -138,4 +138,10 @@
 1. [科之大者为国为民](https://s.weibo.com//weibo?q=%23%E7%A7%91%E4%B9%8B%E5%A4%A7%E8%80%85%E4%B8%BA%E5%9B%BD%E4%B8%BA%E6%B0%91%23&Refer=new_time)
 
 1. [任嘉伦端午照](https://s.weibo.com//weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E7%AB%AF%E5%8D%88%E7%85%A7&Refer=top)
+
+1. [女子与男友吵架后购失忆水被骗](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%90%B5%E6%9E%B6%E5%90%8E%E8%B4%AD%E5%A4%B1%E5%BF%86%E6%B0%B4%E8%A2%AB%E9%AA%97%23&Refer=top)
+
+1. [西班牙控球率](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8E%A7%E7%90%83%E7%8E%87&Refer=top)
+
+1. [西班牙0比0瑞典](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%990%E6%AF%940%E7%91%9E%E5%85%B8&Refer=top)
 
