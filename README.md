@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-14 19:02:57
+## 微博今日热榜 更新于 2021-06-14 20:07:14
 1. [穿越百年的密码](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [民警查嫖娼反被当作仙人跳](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%9F%A5%E5%AB%96%E5%A8%BC%E5%8F%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%23&Refer=top)
@@ -544,4 +544,36 @@
 1. [养鸡养出宠物的感觉](https://s.weibo.com//weibo?q=%23%E5%85%BB%E9%B8%A1%E5%85%BB%E5%87%BA%E5%AE%A0%E7%89%A9%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top)
 
 1. [夏日炎炎茉莉粽子](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E7%82%8E%E7%82%8E%E8%8C%89%E8%8E%89%E7%B2%BD%E5%AD%90%23&Refer=top)
+
+1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
+
+1. [中国第一股民杨百万去世](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%82%A1%E6%B0%91%E6%9D%A8%E7%99%BE%E4%B8%87%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [南京胖哥视频发声](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E8%A7%86%E9%A2%91%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [央视端午晚会节目单](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E7%AB%AF%E5%8D%88%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
+
+1. [对家人感到失望的瞬间](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E5%AE%B6%E4%BA%BA%E6%84%9F%E5%88%B0%E5%A4%B1%E6%9C%9B%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [原来兔子跳会传染](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%94%E5%AD%90%E8%B7%B3%E4%BC%9A%E4%BC%A0%E6%9F%93%23&Refer=top)
+
+1. [王一博打台球](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E5%8F%B0%E7%90%83%23&Refer=top)
+
+1. [重庆一火锅店推出火锅粽](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E6%8E%A8%E5%87%BA%E7%81%AB%E9%94%85%E7%B2%BD%23&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [Rookie状态](https://s.weibo.com//weibo?q=Rookie%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [宋亚轩咽音力量训练视频](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%92%BD%E9%9F%B3%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [央视端午晚会](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E7%AB%AF%E5%8D%88%E6%99%9A%E4%BC%9A&Refer=top)
+
+1. [对提升气质毫无加分的技能](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%8F%90%E5%8D%87%E6%B0%94%E8%B4%A8%E6%AF%AB%E6%97%A0%E5%8A%A0%E5%88%86%E7%9A%84%E6%8A%80%E8%83%BD%23&Refer=top)
+
+1. [十堰燃气爆炸已致25人死亡](https://s.weibo.com//weibo?q=%E5%8D%81%E5%A0%B0%E7%87%83%E6%B0%94%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B425%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [男孩进女更衣室游泳馆回应](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%A9%E8%BF%9B%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4%E6%B8%B8%E6%B3%B3%E9%A6%86%E5%9B%9E%E5%BA%94&Refer=top)
+
+1. [Wink表现](https://s.weibo.com//weibo?q=Wink%E8%A1%A8%E7%8E%B0&Refer=top)
 
