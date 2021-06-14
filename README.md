@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 00:12:07
+## 微博今日热榜 更新于 2021-06-15 01:21:41
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -106,4 +106,16 @@
 1. [端午](https://s.weibo.com//weibo?q=%E7%AB%AF%E5%8D%88&Refer=top)
 
 1. [对家人感到失望的瞬间](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E5%AE%B6%E4%BA%BA%E6%84%9F%E5%88%B0%E5%A4%B1%E6%9C%9B%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [台媒称吴佩慈男友酒店已暂时停业](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%90%B4%E4%BD%A9%E6%85%88%E7%94%B7%E5%8F%8B%E9%85%92%E5%BA%97%E5%B7%B2%E6%9A%82%E6%97%B6%E5%81%9C%E4%B8%9A%23&Refer=top)
+
+1. [丁程鑫官宣电影海的尽头是草原](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%AE%98%E5%AE%A3%E7%94%B5%E5%BD%B1%E6%B5%B7%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E8%8D%89%E5%8E%9F%23&Refer=top)
+
+1. [秦海璐眼神戏](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E7%9C%BC%E7%A5%9E%E6%88%8F%23&Refer=top)
+
+1. [苏格兰 捷克](https://s.weibo.com//weibo?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%20%E6%8D%B7%E5%85%8B&Refer=top)
+
+1. [2021世界排球联赛](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%8E%92%E7%90%83%E8%81%94%E8%B5%9B%23&Refer=top)
+
+1. [欧阳娜娜反转大片](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%8F%8D%E8%BD%AC%E5%A4%A7%E7%89%87%23&Refer=top)
 
