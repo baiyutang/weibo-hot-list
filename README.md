@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 01:21:41
+## 微博今日热榜 更新于 2021-06-15 02:07:18
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -118,4 +118,8 @@
 1. [2021世界排球联赛](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%8E%92%E7%90%83%E8%81%94%E8%B5%9B%23&Refer=top)
 
 1. [欧阳娜娜反转大片](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%8F%8D%E8%BD%AC%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [杨廷东探班赵尧珂vlog](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%BB%B7%E4%B8%9C%E6%8E%A2%E7%8F%AD%E8%B5%B5%E5%B0%A7%E7%8F%82vlog%23&Refer=top)
+
+1. [南京红山动物园特制动物粽子](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%89%B9%E5%88%B6%E5%8A%A8%E7%89%A9%E7%B2%BD%E5%AD%90%23&Refer=top)
 
