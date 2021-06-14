@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 03:05:38
+## 微博今日热榜 更新于 2021-06-15 04:03:33
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -126,4 +126,12 @@
 1. [承载飞天梦想的战袍](https://s.weibo.com//weibo?q=%23%E6%89%BF%E8%BD%BD%E9%A3%9E%E5%A4%A9%E6%A2%A6%E6%83%B3%E7%9A%84%E6%88%98%E8%A2%8D%23&Refer=new_time)
 
 1. [央视端午晚会](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E7%AB%AF%E5%8D%88%E6%99%9A%E4%BC%9A&Refer=top)
+
+1. [西班牙 瑞典](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20%E7%91%9E%E5%85%B8&Refer=top)
+
+1. [欧洲杯第一张红牌](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%BA%A2%E7%89%8C&Refer=top)
+
+1. [捷克2比0苏格兰](https://s.weibo.com//weibo?q=%E6%8D%B7%E5%85%8B2%E6%AF%940%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top)
+
+1. [莫拉塔错失单刀](https://s.weibo.com//weibo?q=%E8%8E%AB%E6%8B%89%E5%A1%94%E9%94%99%E5%A4%B1%E5%8D%95%E5%88%80&Refer=top)
 
