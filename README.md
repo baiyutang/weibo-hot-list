@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 01:25:27
+## 微博今日热榜 更新于 2021-06-16 02:08:59
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -124,4 +124,24 @@
 1. [国足首发名单](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95&Refer=top)
 
 1. [世预赛](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top)
+
+1. [被村民珍藏38年的针线包](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%9D%91%E6%B0%91%E7%8F%8D%E8%97%8F38%E5%B9%B4%E7%9A%84%E9%92%88%E7%BA%BF%E5%8C%85%23&Refer=new_time)
+
+1. [C罗梅开二度](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [葡萄牙3比0匈牙利](https://s.weibo.com//weibo?q=%E8%91%A1%E8%90%84%E7%89%993%E6%AF%940%E5%8C%88%E7%89%99%E5%88%A9&Refer=top)
+
+1. [王安宇 杭州](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E6%9D%AD%E5%B7%9E&Refer=top)
+
+1. [C罗欧洲杯历史射手王](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B&Refer=top)
+
+1. [国足提前晋级12强赛](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3%E6%8F%90%E5%89%8D%E6%99%8B%E7%BA%A712%E5%BC%BA%E8%B5%9B&Refer=top)
+
+1. [C罗点球破门](https://s.weibo.com//weibo?q=C%E7%BD%97%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [澳大利亚 约旦](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20%E7%BA%A6%E6%97%A6&Refer=top)
+
+1. [澳大利亚1比0约旦](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1%E6%AF%940%E7%BA%A6%E6%97%A6&Refer=top)
+
+1. [匈牙利进球被吹越位](https://s.weibo.com//weibo?q=%E5%8C%88%E7%89%99%E5%88%A9%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%E8%B6%8A%E4%BD%8D&Refer=top)
 
