@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 16:09:35
+## 微博今日热榜 更新于 2021-06-15 17:08:29
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -470,4 +470,28 @@
 1. [十堰爆炸事故调查组成立](https://s.weibo.com//weibo?q=%E5%8D%81%E5%A0%B0%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E6%88%90%E7%AB%8B&Refer=top)
 
 1. [王红旭被教育部追授全国优秀教师](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%BA%A2%E6%97%AD%E8%A2%AB%E6%95%99%E8%82%B2%E9%83%A8%E8%BF%BD%E6%8E%88%E5%85%A8%E5%9B%BD%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88%23&Refer=top)
+
+1. [被村民珍藏38年的针线包](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%9D%91%E6%B0%91%E7%8F%8D%E8%97%8F38%E5%B9%B4%E7%9A%84%E9%92%88%E7%BA%BF%E5%8C%85%23&Refer=new_time)
+
+1. [准研究生将通知书寄给爷爷](https://s.weibo.com//weibo?q=%23%E5%87%86%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%86%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%AF%84%E7%BB%99%E7%88%B7%E7%88%B7%23&Refer=top)
+
+1. [张翰 我曾经历过生活中没有色彩](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%BF%B0%20%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8E%86%E8%BF%87%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%B2%A1%E6%9C%89%E8%89%B2%E5%BD%A9&Refer=top)
+
+1. [我命油我不油天](https://s.weibo.com//weibo?q=%E6%88%91%E5%91%BD%E6%B2%B9%E6%88%91%E4%B8%8D%E6%B2%B9%E5%A4%A9&Refer=top)
+
+1. [面对身材羞辱最好的回应](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E5%AF%B9%E8%BA%AB%E6%9D%90%E7%BE%9E%E8%BE%B1%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [叛逆者豆瓣开分](https://s.weibo.com//weibo?q=%23%E5%8F%9B%E9%80%86%E8%80%85%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23&Refer=top)
+
+1. [爱发朋友圈是一种炫耀吗](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%B8%80%E7%A7%8D%E7%82%AB%E8%80%80%E5%90%97%23&Refer=top)
+
+1. [福州龙舟断裂致1人溺亡](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E%E9%BE%99%E8%88%9F%E6%96%AD%E8%A3%82%E8%87%B41%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top)
+
+1. [杨枝甘露爆浆泡芙](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%E7%88%86%E6%B5%86%E6%B3%A1%E8%8A%99%23&Refer=top)
+
+1. [硬核父母的聊天方式](https://s.weibo.com//weibo?q=%23%E7%A1%AC%E6%A0%B8%E7%88%B6%E6%AF%8D%E7%9A%84%E8%81%8A%E5%A4%A9%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [最无法理解的企业文化](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%97%A0%E6%B3%95%E7%90%86%E8%A7%A3%E7%9A%84%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%23&Refer=top)
+
+1. [恶意差评小米新手机被判赔3万](https://s.weibo.com//weibo?q=%23%E6%81%B6%E6%84%8F%E5%B7%AE%E8%AF%84%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%88%A4%E8%B5%943%E4%B8%87%23&Refer=top)
 
