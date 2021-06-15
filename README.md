@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 19:03:04
+## 微博今日热榜 更新于 2021-06-15 20:11:25
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -544,4 +544,32 @@
 1. [外交部回应美国雇佣童工问题](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E9%9B%87%E4%BD%A3%E7%AB%A5%E5%B7%A5%E9%97%AE%E9%A2%98%23&Refer=top)
 
 1. [上海暴雨](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [我以为王思聪平时这么讲话呢](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%A5%E4%B8%BA%E7%8E%8B%E6%80%9D%E8%81%AA%E5%B9%B3%E6%97%B6%E8%BF%99%E4%B9%88%E8%AE%B2%E8%AF%9D%E5%91%A2%23&Refer=top)
+
+1. [王者荣耀打到国服前十被封号](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%89%93%E5%88%B0%E5%9B%BD%E6%9C%8D%E5%89%8D%E5%8D%81%E8%A2%AB%E5%B0%81%E5%8F%B7%23&Refer=top)
+
+1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
+
+1. [王思聪曝光和孙一宁聊天记录](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%80%9D%E8%81%AA%E6%9B%9D%E5%85%89%E5%92%8C%E5%AD%99%E4%B8%80%E5%AE%81%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [香港演员杨淇转行做保安](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9D%A8%E6%B7%87%E8%BD%AC%E8%A1%8C%E5%81%9A%E4%BF%9D%E5%AE%89&Refer=top)
+
+1. [赵露思转发王思聪孙一宁相关微博](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%BD%AC%E5%8F%91%E7%8E%8B%E6%80%9D%E8%81%AA%E5%AD%99%E4%B8%80%E5%AE%81%E7%9B%B8%E5%85%B3%E5%BE%AE%E5%8D%9A&Refer=top)
+
+1. [你以为老师不想装空调吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B8%88%E4%B8%8D%E6%83%B3%E8%A3%85%E7%A9%BA%E8%B0%83%E5%90%97%23&Refer=top)
+
+1. [教育部成立校外教育培训监管司](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%88%90%E7%AB%8B%E6%A0%A1%E5%A4%96%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E7%9B%91%E7%AE%A1%E5%8F%B8%23&Refer=top)
+
+1. [因为学费放弃读研值得吗](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%AD%A6%E8%B4%B9%E6%94%BE%E5%BC%83%E8%AF%BB%E7%A0%94%E5%80%BC%E5%BE%97%E5%90%97%23&Refer=top)
+
+1. [沙溢羡慕宋亚轩身材](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E7%BE%A1%E6%85%95%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%BA%AB%E6%9D%90%23&Refer=top)
+
+1. [高校男生记录恋爱中的每次见面](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%AE%B0%E5%BD%95%E6%81%8B%E7%88%B1%E4%B8%AD%E7%9A%84%E6%AF%8F%E6%AC%A1%E8%A7%81%E9%9D%A2%23&Refer=top)
+
+1. [决战平安京 王者荣耀](https://s.weibo.com//weibo?q=%E5%86%B3%E6%88%98%E5%B9%B3%E5%AE%89%E4%BA%AC%20%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [养过大象的孙越讲迁徙野象群](https://s.weibo.com//weibo?q=%23%E5%85%BB%E8%BF%87%E5%A4%A7%E8%B1%A1%E7%9A%84%E5%AD%99%E8%B6%8A%E8%AE%B2%E8%BF%81%E5%BE%99%E9%87%8E%E8%B1%A1%E7%BE%A4%23&Refer=top)
+
+1. [老夫子战令皮肤](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%A4%AB%E5%AD%90%E6%88%98%E4%BB%A4%E7%9A%AE%E8%82%A4%23&Refer=top)
 
