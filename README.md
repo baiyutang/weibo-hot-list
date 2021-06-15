@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 21:17:59
+## 微博今日热榜 更新于 2021-06-15 22:03:15
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -606,4 +606,30 @@
 1. [没想到考到驾照也能社死](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%80%83%E5%88%B0%E9%A9%BE%E7%85%A7%E4%B9%9F%E8%83%BD%E7%A4%BE%E6%AD%BB%23&Refer=top)
 
 1. [路易威登早春秀](https://s.weibo.com//weibo?q=%23%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB%E6%97%A9%E6%98%A5%E7%A7%80%23&Refer=top)
+
+1. [王思聪林更新经典语录进行对话](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%80%9D%E8%81%AA%E6%9E%97%E6%9B%B4%E6%96%B0%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95%E8%BF%9B%E8%A1%8C%E5%AF%B9%E8%AF%9D%23&Refer=top)
+
+1. [朋友圈都在模仿王思聪](https://s.weibo.com//weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%83%BD%E5%9C%A8%E6%A8%A1%E4%BB%BF%E7%8E%8B%E6%80%9D%E8%81%AA%23&Refer=top)
+
+1. [张靓颖白色礼服婚纱裙](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%99%BD%E8%89%B2%E7%A4%BC%E6%9C%8D%E5%A9%9A%E7%BA%B1%E8%A3%99%23&Refer=top)
+
+1. [初中男生讨论爱情的真谛](https://s.weibo.com//weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%B7%E7%94%9F%E8%AE%A8%E8%AE%BA%E7%88%B1%E6%83%85%E7%9A%84%E7%9C%9F%E8%B0%9B%23&Refer=top)
+
+1. [八旬老人恋上保姆分手被索要20万](https://s.weibo.com//weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%81%8B%E4%B8%8A%E4%BF%9D%E5%A7%86%E5%88%86%E6%89%8B%E8%A2%AB%E7%B4%A2%E8%A6%8120%E4%B8%87%23&Refer=top)
+
+1. [黑糖红豆甜酒冰汤圆](https://s.weibo.com//weibo?q=%23%E9%BB%91%E7%B3%96%E7%BA%A2%E8%B1%86%E7%94%9C%E9%85%92%E5%86%B0%E6%B1%A4%E5%9C%86%23&Refer=top)
+
+1. [校外教育培训监管司主要职责](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%A4%96%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E7%9B%91%E7%AE%A1%E5%8F%B8%E4%B8%BB%E8%A6%81%E8%81%8C%E8%B4%A3%23&Refer=top)
+
+1. [墨子战令皮肤](https://s.weibo.com//weibo?q=%23%E5%A2%A8%E5%AD%90%E6%88%98%E4%BB%A4%E7%9A%AE%E8%82%A4%23&Refer=top)
+
+1. [罗云熙 假唱](https://s.weibo.com//weibo?q=%E7%BD%97%E4%BA%91%E7%86%99%20%E5%81%87%E5%94%B1&Refer=top)
+
+1. [没想到宠物也要上班](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%AE%A0%E7%89%A9%E4%B9%9F%E8%A6%81%E4%B8%8A%E7%8F%AD%23&Refer=top)
+
+1. [专家说独象目前归队意图不明显](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E7%8B%AC%E8%B1%A1%E7%9B%AE%E5%89%8D%E5%BD%92%E9%98%9F%E6%84%8F%E5%9B%BE%E4%B8%8D%E6%98%8E%E6%98%BE%23&Refer=top)
+
+1. [黄景瑜生图](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [独象离群10天距象群超19公里](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E8%B1%A1%E7%A6%BB%E7%BE%A410%E5%A4%A9%E8%B7%9D%E8%B1%A1%E7%BE%A4%E8%B6%8519%E5%85%AC%E9%87%8C%23&Refer=top)
 
