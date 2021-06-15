@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 03:07:05
+## 微博今日热榜 更新于 2021-06-16 04:03:09
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -150,4 +150,16 @@
 1. [叙利亚球员清唱国歌](https://s.weibo.com//weibo?q=%E5%8F%99%E5%88%A9%E4%BA%9A%E7%90%83%E5%91%98%E6%B8%85%E5%94%B1%E5%9B%BD%E6%AD%8C&Refer=top)
 
 1. [张稀哲破门](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%A8%80%E5%93%B2%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [信念是共产党人的精神之钙](https://s.weibo.com//weibo?q=%23%E4%BF%A1%E5%BF%B5%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E4%B9%8B%E9%92%99%23&Refer=new_time)
+
+1. [国足3比1叙利亚](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B33%E6%AF%941%E5%8F%99%E5%88%A9%E4%BA%9A&Refer=top)
+
+1. [国足丢球](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3%E4%B8%A2%E7%90%83&Refer=top)
+
+1. [武磊破门](https://s.weibo.com//weibo?q=%E6%AD%A6%E7%A3%8A%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [胡梅尔斯乌龙](https://s.weibo.com//weibo?q=%E8%83%A1%E6%A2%85%E5%B0%94%E6%96%AF%E4%B9%8C%E9%BE%99&Refer=top)
+
+1. [张玉宁破门](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%8E%89%E5%AE%81%E7%A0%B4%E9%97%A8&Refer=top)
 
