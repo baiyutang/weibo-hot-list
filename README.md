@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 02:08:59
+## 微博今日热榜 更新于 2021-06-16 03:07:05
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -144,4 +144,10 @@
 1. [澳大利亚1比0约旦](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1%E6%AF%940%E7%BA%A6%E6%97%A6&Refer=top)
 
 1. [匈牙利进球被吹越位](https://s.weibo.com//weibo?q=%E5%8C%88%E7%89%99%E5%88%A9%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%E8%B6%8A%E4%BD%8D&Refer=top)
+
+1. [法国 德国](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%20%E5%BE%B7%E5%9B%BD&Refer=top)
+
+1. [叙利亚球员清唱国歌](https://s.weibo.com//weibo?q=%E5%8F%99%E5%88%A9%E4%BA%9A%E7%90%83%E5%91%98%E6%B8%85%E5%94%B1%E5%9B%BD%E6%AD%8C&Refer=top)
+
+1. [张稀哲破门](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%A8%80%E5%93%B2%E7%A0%B4%E9%97%A8&Refer=top)
 
