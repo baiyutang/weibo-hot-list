@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 06:03:51
+## 微博今日热榜 更新于 2021-06-16 07:03:45
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -172,4 +172,6 @@
 1. [姆巴佩速度好快](https://s.weibo.com//weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%80%9F%E5%BA%A6%E5%A5%BD%E5%BF%AB&Refer=top)
 
 1. [法国1比0德国](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD1%E6%AF%940%E5%BE%B7%E5%9B%BD&Refer=top)
+
+1. [当新冠疫苗进入体内之后](https://s.weibo.com//weibo?q=%E5%BD%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BF%9B%E5%85%A5%E4%BD%93%E5%86%85%E4%B9%8B%E5%90%8E&Refer=top)
 
