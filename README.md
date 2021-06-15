@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 04:03:09
+## 微博今日热榜 更新于 2021-06-16 05:02:42
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -162,4 +162,14 @@
 1. [胡梅尔斯乌龙](https://s.weibo.com//weibo?q=%E8%83%A1%E6%A2%85%E5%B0%94%E6%96%AF%E4%B9%8C%E9%BE%99&Refer=top)
 
 1. [张玉宁破门](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%8E%89%E5%AE%81%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [国足晋级12强赛](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B3%E6%99%8B%E7%BA%A712%E5%BC%BA%E8%B5%9B&Refer=top)
+
+1. [李铁执教能力](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%93%81%E6%89%A7%E6%95%99%E8%83%BD%E5%8A%9B&Refer=top)
+
+1. [姆巴佩进球被吹越位](https://s.weibo.com//weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%E8%B6%8A%E4%BD%8D&Refer=top)
+
+1. [姆巴佩速度好快](https://s.weibo.com//weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%80%9F%E5%BA%A6%E5%A5%BD%E5%BF%AB&Refer=top)
+
+1. [法国1比0德国](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD1%E6%AF%940%E5%BE%B7%E5%9B%BD&Refer=top)
 
