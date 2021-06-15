@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 18:09:40
+## 微博今日热榜 更新于 2021-06-15 19:03:04
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -528,4 +528,20 @@
 1. [村民仅靠一根手指养蜜蜂](https://s.weibo.com//weibo?q=%23%E6%9D%91%E6%B0%91%E4%BB%85%E9%9D%A0%E4%B8%80%E6%A0%B9%E6%89%8B%E6%8C%87%E5%85%BB%E8%9C%9C%E8%9C%82%23&Refer=top)
 
 1. [约翰逊称没人想与中国开启新冷战](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E7%BF%B0%E9%80%8A%E7%A7%B0%E6%B2%A1%E4%BA%BA%E6%83%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%90%AF%E6%96%B0%E5%86%B7%E6%88%98%23&Refer=top)
+
+1. [格力第一批住房即将交付使用](https://s.weibo.com//weibo?q=%23%E6%A0%BC%E5%8A%9B%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BD%8F%E6%88%BF%E5%8D%B3%E5%B0%86%E4%BA%A4%E4%BB%98%E4%BD%BF%E7%94%A8%23&Refer=top)
+
+1. [刘宇宁生图](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [江苏无偿献血超800毫升可终身免费用血](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E8%B6%85800%E6%AF%AB%E5%8D%87%E5%8F%AF%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%94%A8%E8%A1%80%23&Refer=top)
+
+1. [AppleWatch7将迎来大改款](https://s.weibo.com//weibo?q=%23AppleWatch7%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%94%B9%E6%AC%BE%23&Refer=top)
+
+1. [95后摄影师还原山海经远古神兽](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E6%91%84%E5%BD%B1%E5%B8%88%E8%BF%98%E5%8E%9F%E5%B1%B1%E6%B5%B7%E7%BB%8F%E8%BF%9C%E5%8F%A4%E7%A5%9E%E5%85%BD%23&Refer=top)
+
+1. [输的什么液 想你的夜](https://s.weibo.com//weibo?q=%E8%BE%93%E7%9A%84%E4%BB%80%E4%B9%88%E6%B6%B2%20%E6%83%B3%E4%BD%A0%E7%9A%84%E5%A4%9C&Refer=top)
+
+1. [外交部回应美国雇佣童工问题](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E9%9B%87%E4%BD%A3%E7%AB%A5%E5%B7%A5%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [上海暴雨](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&Refer=top)
 
