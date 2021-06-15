@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-15 15:14:23
+## 微博今日热榜 更新于 2021-06-15 16:09:35
 1. [中国共产党的青春密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%9D%92%E6%98%A5%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [李振宁 再打电话骚扰我就曝光了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E5%86%8D%E6%89%93%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%E6%88%91%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86&Refer=top)
@@ -426,4 +426,48 @@
 1. [汉服撑起百亿市场](https://s.weibo.com//weibo?q=%23%E6%B1%89%E6%9C%8D%E6%92%91%E8%B5%B7%E7%99%BE%E4%BA%BF%E5%B8%82%E5%9C%BA%23&Refer=top)
 
 1. [敖子逸说最憧憬爸爸那样的父亲](https://s.weibo.com//weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E8%AF%B4%E6%9C%80%E6%86%A7%E6%86%AC%E7%88%B8%E7%88%B8%E9%82%A3%E6%A0%B7%E7%9A%84%E7%88%B6%E4%BA%B2%23&Refer=top)
+
+1. [钟薛高雪糕最贵一支66元](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E9%9B%AA%E7%B3%95%E6%9C%80%E8%B4%B5%E4%B8%80%E6%94%AF66%E5%85%83%23&Refer=top)
+
+1. [上海海关截获1只双钩异翅长蠹](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B71%E5%8F%AA%E5%8F%8C%E9%92%A9%E5%BC%82%E7%BF%85%E9%95%BF%E8%A0%B9%23&Refer=top)
+
+1. [落水失联女教师家人端午节沿河找人](https://s.weibo.com//weibo?q=%23%E8%90%BD%E6%B0%B4%E5%A4%B1%E8%81%94%E5%A5%B3%E6%95%99%E5%B8%88%E5%AE%B6%E4%BA%BA%E7%AB%AF%E5%8D%88%E8%8A%82%E6%B2%BF%E6%B2%B3%E6%89%BE%E4%BA%BA%23&Refer=top)
+
+1. [天安门除了国旗班还有一个班](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E9%99%A4%E4%BA%86%E5%9B%BD%E6%97%97%E7%8F%AD%E8%BF%98%E6%9C%89%E4%B8%80%E4%B8%AA%E7%8F%AD%23&Refer=top)
+
+1. [女子被离职中介骗200万意向金](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A6%BB%E8%81%8C%E4%B8%AD%E4%BB%8B%E9%AA%97200%E4%B8%87%E6%84%8F%E5%90%91%E9%87%91%23&Refer=top)
+
+1. [蔡徐坤拍粉丝](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%8B%8D%E7%B2%89%E4%B8%9D%23&Refer=top)
+
+1. [苏宁易购出售员工公寓](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%AE%81%E6%98%93%E8%B4%AD%E5%87%BA%E5%94%AE%E5%91%98%E5%B7%A5%E5%85%AC%E5%AF%93%23&Refer=top)
+
+1. [孙一宁发王思聪聊天记录](https://s.weibo.com//weibo?q=%E5%AD%99%E4%B8%80%E5%AE%81%E5%8F%91%E7%8E%8B%E6%80%9D%E8%81%AA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&Refer=top)
+
+1. [我们的新时代定档](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E6%97%B6%E4%BB%A3%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [李易峰抱小孩烫手](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E6%8A%B1%E5%B0%8F%E5%AD%A9%E7%83%AB%E6%89%8B%23&Refer=top)
+
+1. [男子帮倒车撞残车主法院判无需担责](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%AE%E5%80%92%E8%BD%A6%E6%92%9E%E6%AE%8B%E8%BD%A6%E4%B8%BB%E6%B3%95%E9%99%A2%E5%88%A4%E6%97%A0%E9%9C%80%E6%8B%85%E8%B4%A3%23&Refer=top)
+
+1. [刘语熙欧洲杯预测全错](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%AD%E7%86%99%E6%AC%A7%E6%B4%B2%E6%9D%AF%E9%A2%84%E6%B5%8B%E5%85%A8%E9%94%99%23&Refer=top)
+
+1. [神舟十二号载人飞行任务标识](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%A0%87%E8%AF%86%23&Refer=top)
+
+1. [独象离群10天长得很壮实](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E8%B1%A1%E7%A6%BB%E7%BE%A410%E5%A4%A9%E9%95%BF%E5%BE%97%E5%BE%88%E5%A3%AE%E5%AE%9E%23&Refer=top)
+
+1. [埃里克森报平安](https://s.weibo.com//weibo?q=%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E6%8A%A5%E5%B9%B3%E5%AE%89&Refer=top)
+
+1. [宜家因危险产品无警示被罚](https://s.weibo.com//weibo?q=%23%E5%AE%9C%E5%AE%B6%E5%9B%A0%E5%8D%B1%E9%99%A9%E4%BA%A7%E5%93%81%E6%97%A0%E8%AD%A6%E7%A4%BA%E8%A2%AB%E7%BD%9A%23&Refer=top)
+
+1. [货车侧翻西瓜滚落村民自发捡拾](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB%E8%A5%BF%E7%93%9C%E6%BB%9A%E8%90%BD%E6%9D%91%E6%B0%91%E8%87%AA%E5%8F%91%E6%8D%A1%E6%8B%BE%23&Refer=top)
+
+1. [醉汉当街拦车被一拳撂倒](https://s.weibo.com//weibo?q=%23%E9%86%89%E6%B1%89%E5%BD%93%E8%A1%97%E6%8B%A6%E8%BD%A6%E8%A2%AB%E4%B8%80%E6%8B%B3%E6%92%82%E5%80%92%23&Refer=top)
+
+1. [全国60所高校启用无人车送快递](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD60%E6%89%80%E9%AB%98%E6%A0%A1%E5%90%AF%E7%94%A8%E6%97%A0%E4%BA%BA%E8%BD%A6%E9%80%81%E5%BF%AB%E9%80%92%23&Refer=top)
+
+1. [高圆圆晒陈珊杀青照](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E6%99%92%E9%99%88%E7%8F%8A%E6%9D%80%E9%9D%92%E7%85%A7%23&Refer=top)
+
+1. [十堰爆炸事故调查组成立](https://s.weibo.com//weibo?q=%E5%8D%81%E5%A0%B0%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E6%88%90%E7%AB%8B&Refer=top)
+
+1. [王红旭被教育部追授全国优秀教师](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%BA%A2%E6%97%AD%E8%A2%AB%E6%95%99%E8%82%B2%E9%83%A8%E8%BF%BD%E6%8E%88%E5%85%A8%E5%9B%BD%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88%23&Refer=top)
 
