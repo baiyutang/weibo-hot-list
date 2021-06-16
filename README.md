@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 07:03:45
+## 微博今日热榜 更新于 2021-06-16 08:15:35
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -174,4 +174,22 @@
 1. [法国1比0德国](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD1%E6%AF%940%E5%BE%B7%E5%9B%BD&Refer=top)
 
 1. [当新冠疫苗进入体内之后](https://s.weibo.com//weibo?q=%E5%BD%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BF%9B%E5%85%A5%E4%BD%93%E5%86%85%E4%B9%8B%E5%90%8E&Refer=top)
+
+1. [武磊yyds](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E7%A3%8Ayyds%23&Refer=top)
+
+1. [广东无新增本土确诊病例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%97%A0%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [2019年12月新冠病毒已在美传播](https://s.weibo.com//weibo?q=%232019%E5%B9%B412%E6%9C%88%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%B7%B2%E5%9C%A8%E7%BE%8E%E4%BC%A0%E6%92%AD%23&Refer=top)
+
+1. [印度首都新德里解封](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%96%B0%E5%BE%B7%E9%87%8C%E8%A7%A3%E5%B0%81%23&Refer=top)
+
+1. [男朋友带剩饭剩菜给我](https://s.weibo.com//weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%B8%A6%E5%89%A9%E9%A5%AD%E5%89%A9%E8%8F%9C%E7%BB%99%E6%88%91%23&Refer=top)
+
+1. [在早高峰挤地铁是什么体验](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%97%A9%E9%AB%98%E5%B3%B0%E6%8C%A4%E5%9C%B0%E9%93%81%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [国足这次能冲进世界杯吗](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%BF%99%E6%AC%A1%E8%83%BD%E5%86%B2%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%97%23&Refer=top)
+
+1. [视频回顾国足对战叙利亚精彩瞬间](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E5%9B%9E%E9%A1%BE%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%88%98%E5%8F%99%E5%88%A9%E4%BA%9A%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
 
