@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 15:09:44
+## 微博今日热榜 更新于 2021-06-16 16:04:29
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -390,4 +390,50 @@
 1. [王思聪和狗的缘分](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%80%9D%E8%81%AA%E5%92%8C%E7%8B%97%E7%9A%84%E7%BC%98%E5%88%86%23&Refer=top)
 
 1. [中国航天员飞天名场面](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [百年时光里爱的誓言](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E6%97%B6%E5%85%89%E9%87%8C%E7%88%B1%E7%9A%84%E8%AA%93%E8%A8%80%23&Refer=new_time)
+
+1. [宋慧乔状态](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [普吉岛酒店每晚一美元](https://s.weibo.com//weibo?q=%23%E6%99%AE%E5%90%89%E5%B2%9B%E9%85%92%E5%BA%97%E6%AF%8F%E6%99%9A%E4%B8%80%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [青藏高原发现5.5亿年前生物群化石](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E5%8F%91%E7%8E%B05.5%E4%BA%BF%E5%B9%B4%E5%89%8D%E7%94%9F%E7%89%A9%E7%BE%A4%E5%8C%96%E7%9F%B3%23&Refer=top)
+
+1. [王嘉尔素颜](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%B4%A0%E9%A2%9C%23&Refer=top)
+
+1. [小象花式撒娇叫大象起床](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%B1%A1%E8%8A%B1%E5%BC%8F%E6%92%92%E5%A8%87%E5%8F%AB%E5%A4%A7%E8%B1%A1%E8%B5%B7%E5%BA%8A%23&Refer=top)
+
+1. [林峯张馨月领证视频](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%B3%AF%E5%BC%A0%E9%A6%A8%E6%9C%88%E9%A2%86%E8%AF%81%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [王源MV女主角全程没露脸](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90MV%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%85%A8%E7%A8%8B%E6%B2%A1%E9%9C%B2%E8%84%B8%23&Refer=top)
+
+1. [小鬼吴宣仪录制路透](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [教育部发布校外培训风险提示](https://s.weibo.com//weibo?q=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA&Refer=top)
+
+1. [基金走势](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91%E8%B5%B0%E5%8A%BF&Refer=top)
+
+1. [优酷被强制执行100万](https://s.weibo.com//weibo?q=%23%E4%BC%98%E9%85%B7%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C100%E4%B8%87%23&Refer=top)
+
+1. [驴友为任性买单3206元](https://s.weibo.com//weibo?q=%23%E9%A9%B4%E5%8F%8B%E4%B8%BA%E4%BB%BB%E6%80%A7%E4%B9%B0%E5%8D%953206%E5%85%83%23&Refer=top)
+
+1. [刘伯明说我们三位帅哥一定完成好任务](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BC%AF%E6%98%8E%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%89%E4%BD%8D%E5%B8%85%E5%93%A5%E4%B8%80%E5%AE%9A%E5%AE%8C%E6%88%90%E5%A5%BD%E4%BB%BB%E5%8A%A1%23&Refer=top)
+
+1. [美国累计新冠死亡病例超60万](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E8%B6%8560%E4%B8%87%23&Refer=top)
+
+1. [大雨将至小男孩独自守护店面](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%9B%A8%E5%B0%86%E8%87%B3%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%8B%AC%E8%87%AA%E5%AE%88%E6%8A%A4%E5%BA%97%E9%9D%A2%23&Refer=top)
+
+1. [塞尔达为什么称之为神作](https://s.weibo.com//weibo?q=%23%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A7%B0%E4%B9%8B%E4%B8%BA%E7%A5%9E%E4%BD%9C%23&Refer=top)
+
+1. [乌干达已有3名侨胞染疫去世](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%B7%B2%E6%9C%893%E5%90%8D%E4%BE%A8%E8%83%9E%E6%9F%93%E7%96%AB%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [警惕培训机构以命题人噱头高收费](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%83%95%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E4%BB%A5%E5%91%BD%E9%A2%98%E4%BA%BA%E5%99%B1%E5%A4%B4%E9%AB%98%E6%94%B6%E8%B4%B9%23&Refer=top)
+
+1. [一生只做一件事的樊锦诗](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%E7%9A%84%E6%A8%8A%E9%94%A6%E8%AF%97%23&Refer=top)
+
+1. [感情中主动的一方就输了吗](https://s.weibo.com//weibo?q=%23%E6%84%9F%E6%83%85%E4%B8%AD%E4%B8%BB%E5%8A%A8%E7%9A%84%E4%B8%80%E6%96%B9%E5%B0%B1%E8%BE%93%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [红薯乳酪冰蛋糕](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%96%AF%E4%B9%B3%E9%85%AA%E5%86%B0%E8%9B%8B%E7%B3%95%23&Refer=top)
+
+1. [最适合毕业季的礼服妆](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E6%AF%95%E4%B8%9A%E5%AD%A3%E7%9A%84%E7%A4%BC%E6%9C%8D%E5%A6%86%23&Refer=top)
 
