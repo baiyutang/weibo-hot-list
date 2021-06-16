@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 17:04:04
+## 微博今日热榜 更新于 2021-06-16 18:04:20
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -490,4 +490,48 @@
 1. [中国人真的吃光了全球的海鲜吗](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%90%83%E5%85%89%E4%BA%86%E5%85%A8%E7%90%83%E7%9A%84%E6%B5%B7%E9%B2%9C%E5%90%97&Refer=top)
 
 1. [洛基](https://s.weibo.com//weibo?q=%E6%B4%9B%E5%9F%BA&Refer=top)
+
+1. [钟薛高创始人回应雪糕最贵一支66元](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%9B%AA%E7%B3%95%E6%9C%80%E8%B4%B5%E4%B8%80%E6%94%AF66%E5%85%83%23&Refer=top)
+
+1. [男孩3个半小时做5713个俯卧撑](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A93%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%81%9A5713%E4%B8%AA%E4%BF%AF%E5%8D%A7%E6%92%91%23&Refer=top)
+
+1. [尼坤33岁状态](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E5%9D%A433%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [Angelababy直播](https://s.weibo.com//weibo?q=%23Angelababy%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [TES落地长沙](https://s.weibo.com//weibo?q=%23TES%E8%90%BD%E5%9C%B0%E9%95%BF%E6%B2%99%23&Refer=top)
+
+1. [宿管妈妈原来可以这么美](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E7%AE%A1%E5%A6%88%E5%A6%88%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%BE%8E%23&Refer=top)
+
+1. [影视剧油腻行为大赏](https://s.weibo.com//weibo?q=%E5%BD%B1%E8%A7%86%E5%89%A7%E6%B2%B9%E8%85%BB%E8%A1%8C%E4%B8%BA%E5%A4%A7%E8%B5%8F&Refer=top)
+
+1. [南宁警方通报女子街头抢小孩](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%AE%81%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A1%97%E5%A4%B4%E6%8A%A2%E5%B0%8F%E5%AD%A9%23&Refer=top)
+
+1. [好友们在男子葬礼上唱歌跳舞](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%8F%8B%E4%BB%AC%E5%9C%A8%E7%94%B7%E5%AD%90%E8%91%AC%E7%A4%BC%E4%B8%8A%E5%94%B1%E6%AD%8C%E8%B7%B3%E8%88%9E%23&Refer=top)
+
+1. [印度有人宣称接种疫苗后产生磁力](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%9C%89%E4%BA%BA%E5%AE%A3%E7%A7%B0%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E5%90%8E%E4%BA%A7%E7%94%9F%E7%A3%81%E5%8A%9B%23&Refer=top)
+
+1. [张涵予回应脸黑了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%B6%B5%E4%BA%88%E5%9B%9E%E5%BA%94%E8%84%B8%E9%BB%91%E4%BA%86%23&Refer=top)
+
+1. [金毛满嘴糖豆主人硬核夺食](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9B%E6%BB%A1%E5%98%B4%E7%B3%96%E8%B1%86%E4%B8%BB%E4%BA%BA%E7%A1%AC%E6%A0%B8%E5%A4%BA%E9%A3%9F%23&Refer=top)
+
+1. [中国核酸检测员有多强](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%91%98%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [黄熙龄院士逝世](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%86%99%E9%BE%84%E9%99%A2%E5%A3%AB%E9%80%9D%E4%B8%96%23&Refer=top)
+
+1. [共享充电宝再涨价](https://s.weibo.com//weibo?q=%23%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E5%86%8D%E6%B6%A8%E4%BB%B7%23&Refer=top)
+
+1. [江西5岁失踪女童母亲发声](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%A5%BF5%E5%B2%81%E5%A4%B1%E8%B8%AA%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [赵立坚回应美欧对华所谓三重定位](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%AC%A7%E5%AF%B9%E5%8D%8E%E6%89%80%E8%B0%93%E4%B8%89%E9%87%8D%E5%AE%9A%E4%BD%8D%23&Refer=top)
+
+1. [觉醒年代的版画绝了](https://s.weibo.com//weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%89%88%E7%94%BB%E7%BB%9D%E4%BA%86%23&Refer=top)
+
+1. [李铁自动续约](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%93%81%E8%87%AA%E5%8A%A8%E7%BB%AD%E7%BA%A6%23&Refer=top)
+
+1. [探访航天员汤洪波的家乡](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E8%AE%BF%E8%88%AA%E5%A4%A9%E5%91%98%E6%B1%A4%E6%B4%AA%E6%B3%A2%E7%9A%84%E5%AE%B6%E4%B9%A1%23&Refer=top)
+
+1. [全国焖蒸地图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%84%96%E8%92%B8%E5%9C%B0%E5%9B%BE%23&Refer=top)
+
+1. [你会为网红雪糕买单吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E4%B8%BA%E7%BD%91%E7%BA%A2%E9%9B%AA%E7%B3%95%E4%B9%B0%E5%8D%95%E5%90%97%23&Refer=top)
 
