@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-17 06:02:47
+## 微博今日热榜 更新于 2021-06-17 07:03:46
 1. [百年时光里爱的誓言](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E6%97%B6%E5%85%89%E9%87%8C%E7%88%B1%E7%9A%84%E8%AA%93%E8%A8%80%23&Refer=new_time)
 
 1. [张予曦全家颜值](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%85%A8%E5%AE%B6%E9%A2%9C%E5%80%BC%23&Refer=top)
