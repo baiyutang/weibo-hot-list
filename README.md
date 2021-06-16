@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-17 03:07:17
+## 微博今日热榜 更新于 2021-06-17 04:03:53
 1. [百年时光里爱的誓言](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E6%97%B6%E5%85%89%E9%87%8C%E7%88%B1%E7%9A%84%E8%AA%93%E8%A8%80%23&Refer=new_time)
 
 1. [张予曦全家颜值](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%85%A8%E5%AE%B6%E9%A2%9C%E5%80%BC%23&Refer=top)
@@ -130,4 +130,16 @@
 1. [惠英红一秒变脸](https://s.weibo.com//weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E4%B8%80%E7%A7%92%E5%8F%98%E8%84%B8%23&Refer=top)
 
 1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [意大利 瑞士](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E7%91%9E%E5%A3%AB&Refer=top)
+
+1. [贝尔踢飞点球](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%B0%94%E8%B8%A2%E9%A3%9E%E7%82%B9%E7%90%83&Refer=top)
+
+1. [威尔士2:0土耳其](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB2%3A0%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+
+1. [拉莫斯离开皇马](https://s.weibo.com//weibo?q=%E6%8B%89%E8%8E%AB%E6%96%AF%E7%A6%BB%E5%BC%80%E7%9A%87%E9%A9%AC&Refer=top)
+
+1. [土耳其 威尔士](https://s.weibo.com//weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%20%E5%A8%81%E5%B0%94%E5%A3%AB&Refer=top)
+
+1. [为什么C罗现在不喝可乐了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88C%E7%BD%97%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%96%9D%E5%8F%AF%E4%B9%90%E4%BA%86%23&Refer=top)
 
