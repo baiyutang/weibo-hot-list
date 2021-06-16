@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 13:09:23
+## 微博今日热榜 更新于 2021-06-16 14:05:13
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -336,4 +336,30 @@
 1. [日本成立首所挖掘技校](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%90%E7%AB%8B%E9%A6%96%E6%89%80%E6%8C%96%E6%8E%98%E6%8A%80%E6%A0%A1%23&Refer=top)
 
 1. [网购社死名场面](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E7%A4%BE%E6%AD%BB%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [朋友去世微信要删除吗](https://s.weibo.com//weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%8E%BB%E4%B8%96%E5%BE%AE%E4%BF%A1%E8%A6%81%E5%88%A0%E9%99%A4%E5%90%97%23&Refer=top)
+
+1. [被老板女儿看中后离职](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%80%81%E6%9D%BF%E5%A5%B3%E5%84%BF%E7%9C%8B%E4%B8%AD%E5%90%8E%E7%A6%BB%E8%81%8C%23&Refer=top)
+
+1. [芈十四 考编](https://s.weibo.com//weibo?q=%E8%8A%88%E5%8D%81%E5%9B%9B%20%E8%80%83%E7%BC%96&Refer=top)
+
+1. [婆婆的镯子杀青](https://s.weibo.com//weibo?q=%23%E5%A9%86%E5%A9%86%E7%9A%84%E9%95%AF%E5%AD%90%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [翟潇闻喊话网友借ID](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%96%8A%E8%AF%9D%E7%BD%91%E5%8F%8B%E5%80%9FID%23&Refer=top)
+
+1. [醉驾司机高速昏睡1小时遭撞飞](https://s.weibo.com//weibo?q=%23%E9%86%89%E9%A9%BE%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E6%98%8F%E7%9D%A11%E5%B0%8F%E6%97%B6%E9%81%AD%E6%92%9E%E9%A3%9E%23&Refer=top)
+
+1. [驴嫂直播间又有一款手机涉假](https://s.weibo.com//weibo?q=%23%E9%A9%B4%E5%AB%82%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8F%88%E6%9C%89%E4%B8%80%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%B6%89%E5%81%87%23&Refer=top)
+
+1. [谁是本赛季最佳阵容最大遗珠](https://s.weibo.com//weibo?q=%23%E8%B0%81%E6%98%AF%E6%9C%AC%E8%B5%9B%E5%AD%A3%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9%E6%9C%80%E5%A4%A7%E9%81%97%E7%8F%A0%23&Refer=top)
+
+1. [登顶队员回忆珠峰攀登生死时刻](https://s.weibo.com//weibo?q=%23%E7%99%BB%E9%A1%B6%E9%98%9F%E5%91%98%E5%9B%9E%E5%BF%86%E7%8F%A0%E5%B3%B0%E6%94%80%E7%99%BB%E7%94%9F%E6%AD%BB%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [我国首个原创虚拟学生华智冰](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%8E%9F%E5%88%9B%E8%99%9A%E6%8B%9F%E5%AD%A6%E7%94%9F%E5%8D%8E%E6%99%BA%E5%86%B0%23&Refer=top)
+
+1. [我们的新时代开播](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E6%97%B6%E4%BB%A3%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [1万元牙套赚7000](https://s.weibo.com//weibo?q=1%E4%B8%87%E5%85%83%E7%89%99%E5%A5%97%E8%B5%9A7000&Refer=top)
+
+1. [因跟朋友分摊费用被拉黑](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E8%B7%9F%E6%9C%8B%E5%8F%8B%E5%88%86%E6%91%8A%E8%B4%B9%E7%94%A8%E8%A2%AB%E6%8B%89%E9%BB%91%23&Refer=top)
 
