@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 10:30:22
+## 微博今日热榜 更新于 2021-06-16 11:07:52
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -244,4 +244,22 @@
 1. [王源新专辑夏野了](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BA%90%E6%96%B0%E4%B8%93%E8%BE%91%E5%A4%8F%E9%87%8E%E4%BA%86&Refer=top)
 
 1. [杭州暴雨](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [室友介意我开空调怎么办](https://s.weibo.com//weibo?q=%23%E5%AE%A4%E5%8F%8B%E4%BB%8B%E6%84%8F%E6%88%91%E5%BC%80%E7%A9%BA%E8%B0%83%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top)
+
+1. [姚琛说自己小学就有腹肌](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%B0%8F%E5%AD%A6%E5%B0%B1%E6%9C%89%E8%85%B9%E8%82%8C%23&Refer=top)
+
+1. [杜兰特好拼](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%A5%BD%E6%8B%BC&Refer=top)
+
+1. [70岁儿科医生为救患儿离家11年](https://s.weibo.com//weibo?q=%2370%E5%B2%81%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E4%B8%BA%E6%95%91%E6%82%A3%E5%84%BF%E7%A6%BB%E5%AE%B611%E5%B9%B4%23&Refer=top)
+
+1. [鞠婧祎彩排花絮图](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%BD%A9%E6%8E%92%E8%8A%B1%E7%B5%AE%E5%9B%BE%23&Refer=top)
+
+1. [S11举办城市公布](https://s.weibo.com//weibo?q=%23S11%E4%B8%BE%E5%8A%9E%E5%9F%8E%E5%B8%82%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [NBA](https://s.weibo.com//weibo?q=NBA&Refer=top)
+
+1. [苏宁易购股票临时停牌](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%AE%81%E6%98%93%E8%B4%AD%E8%82%A1%E7%A5%A8%E4%B8%B4%E6%97%B6%E5%81%9C%E7%89%8C%23&Refer=top)
+
+1. [三星堆将推出文物修复盲盒](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%B0%86%E6%8E%A8%E5%87%BA%E6%96%87%E7%89%A9%E4%BF%AE%E5%A4%8D%E7%9B%B2%E7%9B%92%23&Refer=top)
 
