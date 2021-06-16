@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-16 18:04:20
+## 微博今日热榜 更新于 2021-06-16 19:02:57
 1. [初心心愿](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%BF%83%E5%BF%83%E6%84%BF%23&Refer=new_time)
 
 1. [毛晓彤1250万片酬遭拖欠](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A41250%E4%B8%87%E7%89%87%E9%85%AC%E9%81%AD%E6%8B%96%E6%AC%A0%23&Refer=top)
@@ -534,4 +534,50 @@
 1. [全国焖蒸地图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%84%96%E8%92%B8%E5%9C%B0%E5%9B%BE%23&Refer=top)
 
 1. [你会为网红雪糕买单吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E4%B8%BA%E7%BD%91%E7%BA%A2%E9%9B%AA%E7%B3%95%E4%B9%B0%E5%8D%95%E5%90%97%23&Refer=top)
+
+1. [喀喇昆仑高原有座党旗山](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%96%87%E6%98%86%E4%BB%91%E9%AB%98%E5%8E%9F%E6%9C%89%E5%BA%A7%E5%85%9A%E6%97%97%E5%B1%B1%23&Refer=new_time)
+
+1. [深圳疫情](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [上海48岁大龄职场男致信市长求工作](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B748%E5%B2%81%E5%A4%A7%E9%BE%84%E8%81%8C%E5%9C%BA%E7%94%B7%E8%87%B4%E4%BF%A1%E5%B8%82%E9%95%BF%E6%B1%82%E5%B7%A5%E4%BD%9C%23&Refer=top)
+
+1. [任何组织个人不得以电话短信等侵扰他人](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E4%BD%95%E7%BB%84%E7%BB%87%E4%B8%AA%E4%BA%BA%E4%B8%8D%E5%BE%97%E4%BB%A5%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E7%AD%89%E4%BE%B5%E6%89%B0%E4%BB%96%E4%BA%BA%23&Refer=top)
+
+1. [宋妍霏和宋爸买菜全靠眼缘](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%92%8C%E5%AE%8B%E7%88%B8%E4%B9%B0%E8%8F%9C%E5%85%A8%E9%9D%A0%E7%9C%BC%E7%BC%98%23&Refer=top)
+
+1. [唐嫣戴棒球帽上封面](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E6%88%B4%E6%A3%92%E7%90%83%E5%B8%BD%E4%B8%8A%E5%B0%81%E9%9D%A2%23&Refer=top)
+
+1. [宋祖儿叫Angelababy鼻姐](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%8F%ABAngelababy%E9%BC%BB%E5%A7%90%23&Refer=top)
+
+1. [张哲瀚的冷笑话听开头就猜到结尾](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E7%9A%84%E5%86%B7%E7%AC%91%E8%AF%9D%E5%90%AC%E5%BC%80%E5%A4%B4%E5%B0%B1%E7%8C%9C%E5%88%B0%E7%BB%93%E5%B0%BE%23&Refer=top)
+
+1. [工作群艾特同事被教育了](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BD%9C%E7%BE%A4%E8%89%BE%E7%89%B9%E5%90%8C%E4%BA%8B%E8%A2%AB%E6%95%99%E8%82%B2%E4%BA%86%23&Refer=top)
+
+1. [女子站33层高楼外徒手擦玻璃](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AB%9933%E5%B1%82%E9%AB%98%E6%A5%BC%E5%A4%96%E5%BE%92%E6%89%8B%E6%93%A6%E7%8E%BB%E7%92%83%23&Refer=top)
+
+1. [2人浴室打洞盗采66吨紫砂矿](https://s.weibo.com//weibo?q=%232%E4%BA%BA%E6%B5%B4%E5%AE%A4%E6%89%93%E6%B4%9E%E7%9B%97%E9%87%8766%E5%90%A8%E7%B4%AB%E7%A0%82%E7%9F%BF%23&Refer=top)
+
+1. [李铁 不知道什么人始终在攻击武磊](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%93%81%20%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E4%BA%BA%E5%A7%8B%E7%BB%88%E5%9C%A8%E6%94%BB%E5%87%BB%E6%AD%A6%E7%A3%8A&Refer=top)
+
+1. [李大钊行刑时的绞刑台](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%A4%A7%E9%92%8A%E8%A1%8C%E5%88%91%E6%97%B6%E7%9A%84%E7%BB%9E%E5%88%91%E5%8F%B0%23&Refer=top)
+
+1. [聂海胜被夸帅哥害羞了](https://s.weibo.com//weibo?q=%23%E8%81%82%E6%B5%B7%E8%83%9C%E8%A2%AB%E5%A4%B8%E5%B8%85%E5%93%A5%E5%AE%B3%E7%BE%9E%E4%BA%86%23&Refer=top)
+
+1. [日本球员离奇失误](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%AF%AF%23&Refer=top)
+
+1. [摩托车护卫队护送航天员出征](https://s.weibo.com//weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E6%8A%A4%E5%8D%AB%E9%98%9F%E6%8A%A4%E9%80%81%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E5%BE%81%23&Refer=top)
+
+1. [外交部回应美国捐赠80瓶疫苗](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8D%90%E8%B5%A080%E7%93%B6%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [95后小伙痴迷睡莲育种获世界冠军](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E7%97%B4%E8%BF%B7%E7%9D%A1%E8%8E%B2%E8%82%B2%E7%A7%8D%E8%8E%B7%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23&Refer=top)
+
+1. [夫妻俩购买爱情保险到期遭拒赔](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E8%B4%AD%E4%B9%B0%E7%88%B1%E6%83%85%E4%BF%9D%E9%99%A9%E5%88%B0%E6%9C%9F%E9%81%AD%E6%8B%92%E8%B5%94%23&Refer=top)
+
+1. [王者世冠六城巡回](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%96%E5%86%A0%E5%85%AD%E5%9F%8E%E5%B7%A1%E5%9B%9E%23&Refer=top)
+
+1. [微软2025年10月终止支持Win10](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E8%BD%AF2025%E5%B9%B410%E6%9C%88%E7%BB%88%E6%AD%A2%E6%94%AF%E6%8C%81Win10%23&Refer=top)
+
+1. [疫情致1600家日本公司倒闭](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E8%87%B41600%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD%23&Refer=top)
+
+1. [东北家庭聚会有多丰盛](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E5%AE%B6%E5%BA%AD%E8%81%9A%E4%BC%9A%E6%9C%89%E5%A4%9A%E4%B8%B0%E7%9B%9B%23&Refer=top)
 
