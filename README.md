@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 05:02:48
+## 微博今日热榜 更新于 2021-06-18 06:03:45
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
