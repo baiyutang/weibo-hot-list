@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-17 18:08:38
+## 微博今日热榜 更新于 2021-06-17 19:05:43
 1. [百年时光里爱的誓言](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E6%97%B6%E5%85%89%E9%87%8C%E7%88%B1%E7%9A%84%E8%AA%93%E8%A8%80%23&Refer=new_time)
 
 1. [张予曦全家颜值](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%85%A8%E5%AE%B6%E9%A2%9C%E5%80%BC%23&Refer=top)
@@ -558,4 +558,38 @@
 1. [航天员可以和家人打电话吗](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%8F%AF%E4%BB%A5%E5%92%8C%E5%AE%B6%E4%BA%BA%E6%89%93%E7%94%B5%E8%AF%9D%E5%90%97%23&Refer=top)
 
 1. [库克称安卓恶意软件数量是iOS的47倍](https://s.weibo.com//weibo?q=%23%E5%BA%93%E5%85%8B%E7%A7%B0%E5%AE%89%E5%8D%93%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E6%95%B0%E9%87%8F%E6%98%AFiOS%E7%9A%8447%E5%80%8D%23&Refer=top)
+
+1. [如何看待大学生毕业当服务员](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E5%BD%93%E6%9C%8D%E5%8A%A1%E5%91%98%23&Refer=top)
+
+1. [黄子韬 说那么多好话都没听进去](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E8%AF%B4%E9%82%A3%E4%B9%88%E5%A4%9A%E5%A5%BD%E8%AF%9D%E9%83%BD%E6%B2%A1%E5%90%AC%E8%BF%9B%E5%8E%BB&Refer=top)
+
+1. [中国男篮 中国台北男篮](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%20%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE&Refer=top)
+
+1. [台湾知名统派人士周庆峻因新冠去世](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%9F%A5%E5%90%8D%E7%BB%9F%E6%B4%BE%E4%BA%BA%E5%A3%AB%E5%91%A8%E5%BA%86%E5%B3%BB%E5%9B%A0%E6%96%B0%E5%86%A0%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [TT TES](https://s.weibo.com//weibo?q=TT%20TES&Refer=top)
+
+1. [叙利亚主帅辞职](https://s.weibo.com//weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E4%B8%BB%E5%B8%85%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [许凯头饰是万能充吗](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%87%AF%E5%A4%B4%E9%A5%B0%E6%98%AF%E4%B8%87%E8%83%BD%E5%85%85%E5%90%97%23&Refer=top)
+
+1. [全国第一个报道猪坚强记者发声](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8A%A5%E9%81%93%E7%8C%AA%E5%9D%9A%E5%BC%BA%E8%AE%B0%E8%80%85%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [校方回应学生不懂常识手拔小麦](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%87%82%E5%B8%B8%E8%AF%86%E6%89%8B%E6%8B%94%E5%B0%8F%E9%BA%A6%23&Refer=top)
+
+1. [大决战](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%86%B3%E6%88%98&Refer=top)
+
+1. [广州男子隐瞒接触史致近400人需隔离](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E9%9A%90%E7%9E%92%E6%8E%A5%E8%A7%A6%E5%8F%B2%E8%87%B4%E8%BF%91400%E4%BA%BA%E9%9C%80%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [梁洁这次是男主](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%B4%81%E8%BF%99%E6%AC%A1%E6%98%AF%E7%94%B7%E4%B8%BB%23&Refer=top)
+
+1. [苏州铁路通报安检员上班玩游戏](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E%E9%93%81%E8%B7%AF%E9%80%9A%E6%8A%A5%E5%AE%89%E6%A3%80%E5%91%98%E4%B8%8A%E7%8F%AD%E7%8E%A9%E6%B8%B8%E6%88%8F%23&Refer=top)
+
+1. [沈梓捷摔倒](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%93%E6%8D%B7%E6%91%94%E5%80%92%23&Refer=top)
+
+1. [张杰用乒乓球练练手](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%94%A8%E4%B9%92%E4%B9%93%E7%90%83%E7%BB%83%E7%BB%83%E6%89%8B%23&Refer=top)
+
+1. [美俄两位被召回的大使将回归岗位](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E4%BF%84%E4%B8%A4%E4%BD%8D%E8%A2%AB%E5%8F%AC%E5%9B%9E%E7%9A%84%E5%A4%A7%E4%BD%BF%E5%B0%86%E5%9B%9E%E5%BD%92%E5%B2%97%E4%BD%8D%23&Refer=top)
+
+1. [布冯回归帕尔马](https://s.weibo.com//weibo?q=%23%E5%B8%83%E5%86%AF%E5%9B%9E%E5%BD%92%E5%B8%95%E5%B0%94%E9%A9%AC%23&Refer=top)
 
