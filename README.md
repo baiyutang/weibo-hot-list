@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 00:13:57
+## 微博今日热榜 更新于 2021-06-18 01:23:57
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [欧洲杯首现阳性病例](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E9%A6%96%E7%8E%B0%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%23&Refer=top)
 
 1. [张天 陈奕辰](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%A4%A9%20%E9%99%88%E5%A5%95%E8%BE%B0&Refer=top)
+
+1. [一盏马灯照亮前路光明](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%9B%8F%E9%A9%AC%E7%81%AF%E7%85%A7%E4%BA%AE%E5%89%8D%E8%B7%AF%E5%85%89%E6%98%8E%23&Refer=new_time)
+
+1. [INTO1带林墨的人形立牌表演](https://s.weibo.com//weibo?q=%23INTO1%E5%B8%A6%E6%9E%97%E5%A2%A8%E7%9A%84%E4%BA%BA%E5%BD%A2%E7%AB%8B%E7%89%8C%E8%A1%A8%E6%BC%94%23&Refer=top)
+
+1. [舒淇慵懒吸烟装](https://s.weibo.com//weibo?q=%E8%88%92%E6%B7%87%E6%85%B5%E6%87%92%E5%90%B8%E7%83%9F%E8%A3%85&Refer=top)
+
+1. [那英54岁状态](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B154%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
 
