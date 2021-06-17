@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 02:07:24
+## 微博今日热榜 更新于 2021-06-18 03:06:53
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -118,4 +118,16 @@
 1. [唐艺昕一字肩黑白拼接花苞裙](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E4%B8%80%E5%AD%97%E8%82%A9%E9%BB%91%E7%99%BD%E6%8B%BC%E6%8E%A5%E8%8A%B1%E8%8B%9E%E8%A3%99%23&Refer=top)
 
 1. [雁归西窗月收官](https://s.weibo.com//weibo?q=%23%E9%9B%81%E5%BD%92%E8%A5%BF%E7%AA%97%E6%9C%88%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [比利时2比1丹麦](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B62%E6%AF%941%E4%B8%B9%E9%BA%A6&Refer=top)
+
+1. [比利时小组出线](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF&Refer=top)
+
+1. [德布劳内破门](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [荷兰 奥地利](https://s.weibo.com//weibo?q=%E8%8D%B7%E5%85%B0%20%E5%A5%A5%E5%9C%B0%E5%88%A9&Refer=top)
+
+1. [德布劳内yyds](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85yyds&Refer=top)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 
