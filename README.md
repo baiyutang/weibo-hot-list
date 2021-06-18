@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 05:03:07
+## 微博今日热榜 更新于 2021-06-19 06:03:37
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -166,4 +166,6 @@
 1. [锤娜丽莎Rap回击身材歧视](https://s.weibo.com//weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8ERap%E5%9B%9E%E5%87%BB%E8%BA%AB%E6%9D%90%E6%AD%A7%E8%A7%86%23&Refer=top)
 
 1. [瑞典 斯洛伐克](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%20%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B&Refer=top)
+
+1. [詹姆斯门线解围](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%97%A8%E7%BA%BF%E8%A7%A3%E5%9B%B4&Refer=top)
 
