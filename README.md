@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 09:58:01
+## 微博今日热榜 更新于 2021-06-18 10:37:25
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -214,4 +214,28 @@
 1. [汤洪波母校组织师生观看直播](https://s.weibo.com//weibo?q=%23%E6%B1%A4%E6%B4%AA%E6%B3%A2%E6%AF%8D%E6%A0%A1%E7%BB%84%E7%BB%87%E5%B8%88%E7%94%9F%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD%23&Refer=top)
 
 1. [篮网vs雄鹿](https://s.weibo.com//weibo?q=%23%E7%AF%AE%E7%BD%91vs%E9%9B%84%E9%B9%BF%23&Refer=top)
+
+1. [我想唱歌给党听](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%83%B3%E5%94%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=new_time)
+
+1. [空间站](https://s.weibo.com//weibo?q=%E7%A9%BA%E9%97%B4%E7%AB%99&Refer=top)
+
+1. [龚俊闹钟设早了一个小时](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%97%B9%E9%92%9F%E8%AE%BE%E6%97%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [爱上特种兵全员催梁牧泽表白](https://s.weibo.com//weibo?q=%23%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5%E5%85%A8%E5%91%98%E5%82%AC%E6%A2%81%E7%89%A7%E6%B3%BD%E8%A1%A8%E7%99%BD%23&Refer=top)
+
+1. [日本港口现罕见巨口鲨](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B8%AF%E5%8F%A3%E7%8E%B0%E7%BD%95%E8%A7%81%E5%B7%A8%E5%8F%A3%E9%B2%A8%23&Refer=top)
+
+1. [充值40万给孩子报培训班](https://s.weibo.com//weibo?q=%23%E5%85%85%E5%80%BC40%E4%B8%87%E7%BB%99%E5%AD%A9%E5%AD%90%E6%8A%A5%E5%9F%B9%E8%AE%AD%E7%8F%AD%23&Refer=top)
+
+1. [女生辞职捡废品打造治愈系家具](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E8%BE%9E%E8%81%8C%E6%8D%A1%E5%BA%9F%E5%93%81%E6%89%93%E9%80%A0%E6%B2%BB%E6%84%88%E7%B3%BB%E5%AE%B6%E5%85%B7%23&Refer=top)
+
+1. [神舟首任总师说这是第一次看神舟发射](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E9%A6%96%E4%BB%BB%E6%80%BB%E5%B8%88%E8%AF%B4%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%A5%9E%E8%88%9F%E5%8F%91%E5%B0%84%23&Refer=top)
+
+1. [用TVB模式打开聪言聪语](https://s.weibo.com//weibo?q=%23%E7%94%A8TVB%E6%A8%A1%E5%BC%8F%E6%89%93%E5%BC%80%E8%81%AA%E8%A8%80%E8%81%AA%E8%AF%AD%23&Refer=top)
+
+1. [神舟十二573秒完美飞行背后](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C573%E7%A7%92%E5%AE%8C%E7%BE%8E%E9%A3%9E%E8%A1%8C%E8%83%8C%E5%90%8E%23&Refer=top)
+
+1. [物业用高压水枪灭火器驱赶业主](https://s.weibo.com//weibo?q=%23%E7%89%A9%E4%B8%9A%E7%94%A8%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E7%81%AD%E7%81%AB%E5%99%A8%E9%A9%B1%E8%B5%B6%E4%B8%9A%E4%B8%BB%23&Refer=top)
+
+1. [赞比亚开国总统病逝](https://s.weibo.com//weibo?q=%E8%B5%9E%E6%AF%94%E4%BA%9A%E5%BC%80%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%97%85%E9%80%9D&Refer=top)
 
