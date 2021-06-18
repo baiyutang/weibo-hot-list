@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 11:07:56
+## 微博今日热榜 更新于 2021-06-18 12:04:47
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -252,4 +252,40 @@
 1. [德布劳内走到了埃里克森倒地的区域](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E8%B5%B0%E5%88%B0%E4%BA%86%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E5%80%92%E5%9C%B0%E7%9A%84%E5%8C%BA%E5%9F%9F%23&Refer=top)
 
 1. [航天员在空间站吃什么](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%83%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [深圳疫情](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [海归硕士一年卖出3000万木耳](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%BD%92%E7%A1%95%E5%A3%AB%E4%B8%80%E5%B9%B4%E5%8D%96%E5%87%BA3000%E4%B8%87%E6%9C%A8%E8%80%B3%23&Refer=top)
+
+1. [浙江近十年新生儿爆款名字](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E8%BF%91%E5%8D%81%E5%B9%B4%E6%96%B0%E7%94%9F%E5%84%BF%E7%88%86%E6%AC%BE%E5%90%8D%E5%AD%97%23&Refer=top)
+
+1. [中国共产党成立100周年纪念币](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%23&Refer=top)
+
+1. [月薪四万是种什么感受](https://s.weibo.com//weibo?q=%23%E6%9C%88%E8%96%AA%E5%9B%9B%E4%B8%87%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E5%8F%97%23&Refer=top)
+
+1. [直接拒绝能有多爽](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E8%83%BD%E6%9C%89%E5%A4%9A%E7%88%BD%23&Refer=top)
+
+1. [10岁男孩测核酸遇护士妈妈](https://s.weibo.com//weibo?q=%2310%E5%B2%81%E7%94%B7%E5%AD%A9%E6%B5%8B%E6%A0%B8%E9%85%B8%E9%81%87%E6%8A%A4%E5%A3%AB%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [摩尔庄园](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
+
+1. [大学拍4米长5000学生毕业照](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%8B%8D4%E7%B1%B3%E9%95%BF5000%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top)
+
+1. [ATM机上能取数字人民币](https://s.weibo.com//weibo?q=%23ATM%E6%9C%BA%E4%B8%8A%E8%83%BD%E5%8F%96%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%23&Refer=top)
+
+1. [哈登单挑字母哥](https://s.weibo.com//weibo?q=%23%E5%93%88%E7%99%BB%E5%8D%95%E6%8C%91%E5%AD%97%E6%AF%8D%E5%93%A5%23&Refer=top)
+
+1. [刑侦日记评分](https://s.weibo.com//weibo?q=%23%E5%88%91%E4%BE%A6%E6%97%A5%E8%AE%B0%E8%AF%84%E5%88%86%23&Refer=top)
+
+1. [雄鹿战胜篮网](https://s.weibo.com//weibo?q=%23%E9%9B%84%E9%B9%BF%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91%23&Refer=top)
+
+1. [乌克兰球员移回可乐](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E7%90%83%E5%91%98%E7%A7%BB%E5%9B%9E%E5%8F%AF%E4%B9%90%23&Refer=top)
+
+1. [丈夫为离家20年妻子治病用尽积蓄后偷窃](https://s.weibo.com//weibo?q=%E4%B8%88%E5%A4%AB%E4%B8%BA%E7%A6%BB%E5%AE%B620%E5%B9%B4%E5%A6%BB%E5%AD%90%E6%B2%BB%E7%97%85%E7%94%A8%E5%B0%BD%E7%A7%AF%E8%93%84%E5%90%8E%E5%81%B7%E7%AA%83&Refer=top)
+
+1. [女子千万豪宅被离婚18年的前夫变卖](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E8%A2%AB%E7%A6%BB%E5%A9%9A18%E5%B9%B4%E7%9A%84%E5%89%8D%E5%A4%AB%E5%8F%98%E5%8D%96%23&Refer=top)
+
+1. [刘强东发致股东信](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%8F%91%E8%87%B4%E8%82%A1%E4%B8%9C%E4%BF%A1%23&Refer=top)
+
+1. [好吃又好玩的雪糕](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%90%83%E5%8F%88%E5%A5%BD%E7%8E%A9%E7%9A%84%E9%9B%AA%E7%B3%95%23&Refer=top)
 
