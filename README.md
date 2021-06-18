@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 21:18:36
+## 微博今日热榜 更新于 2021-06-18 22:07:49
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -590,4 +590,20 @@
 1. [俄媒曝光战略核潜艇内部画面](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%AA%92%E6%9B%9D%E5%85%89%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87%E5%86%85%E9%83%A8%E7%94%BB%E9%9D%A2%23&Refer=top)
 
 1. [熊猫吃苹果前在脑袋上蹭干净](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E5%90%83%E8%8B%B9%E6%9E%9C%E5%89%8D%E5%9C%A8%E8%84%91%E8%A2%8B%E4%B8%8A%E8%B9%AD%E5%B9%B2%E5%87%80%23&Refer=top)
+
+1. [人类幼崽手中的荔枝有多大](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E6%89%8B%E4%B8%AD%E7%9A%84%E8%8D%94%E6%9E%9D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [2头离群小象江中嬉戏玩耍](https://s.weibo.com//weibo?q=%232%E5%A4%B4%E7%A6%BB%E7%BE%A4%E5%B0%8F%E8%B1%A1%E6%B1%9F%E4%B8%AD%E5%AC%89%E6%88%8F%E7%8E%A9%E8%80%8D%23&Refer=top)
+
+1. [薇娅直播](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [不参加团建是不合群吗](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%9B%A2%E5%BB%BA%E6%98%AF%E4%B8%8D%E5%90%88%E7%BE%A4%E5%90%97%23&Refer=top)
+
+1. [了不起的老爸口碑](https://s.weibo.com//weibo?q=%23%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E8%80%81%E7%88%B8%E5%8F%A3%E7%A2%91%23&Refer=top)
+
+1. [顶楼3](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC3&Refer=top)
+
+1. [中国女排 俄罗斯女排](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E6%8E%92&Refer=top)
+
+1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
 
