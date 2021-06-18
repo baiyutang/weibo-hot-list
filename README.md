@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 06:03:37
+## 微博今日热榜 更新于 2021-06-19 07:04:00
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -168,4 +168,8 @@
 1. [瑞典 斯洛伐克](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%20%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B&Refer=top)
 
 1. [詹姆斯门线解围](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%97%A8%E7%BA%BF%E8%A7%A3%E5%9B%B4&Refer=top)
+
+1. [刘佳张小斐再现李焕英经典回眸](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BD%B3%E5%BC%A0%E5%B0%8F%E6%96%90%E5%86%8D%E7%8E%B0%E6%9D%8E%E7%84%95%E8%8B%B1%E7%BB%8F%E5%85%B8%E5%9B%9E%E7%9C%B8%23&Refer=top)
+
+1. [里皮 我曾推荐张琳芃去欧洲踢球](https://s.weibo.com//weibo?q=%E9%87%8C%E7%9A%AE%20%E6%88%91%E6%9B%BE%E6%8E%A8%E8%8D%90%E5%BC%A0%E7%90%B3%E8%8A%83%E5%8E%BB%E6%AC%A7%E6%B4%B2%E8%B8%A2%E7%90%83&Refer=top)
 
