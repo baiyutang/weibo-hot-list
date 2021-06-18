@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 14:04:37
+## 微博今日热榜 更新于 2021-06-18 15:09:27
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -346,4 +346,32 @@
 1. [空间站还有太空厨房](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BF%98%E6%9C%89%E5%A4%AA%E7%A9%BA%E5%8E%A8%E6%88%BF%23&Refer=top)
 
 1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [小红书公司注册老红书商标](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%85%AC%E5%8F%B8%E6%B3%A8%E5%86%8C%E8%80%81%E7%BA%A2%E4%B9%A6%E5%95%86%E6%A0%87%23&Refer=top)
+
+1. [塔里木盆地发现10亿吨级超深油气区](https://s.weibo.com//weibo?q=%23%E5%A1%94%E9%87%8C%E6%9C%A8%E7%9B%86%E5%9C%B0%E5%8F%91%E7%8E%B010%E4%BA%BF%E5%90%A8%E7%BA%A7%E8%B6%85%E6%B7%B1%E6%B2%B9%E6%B0%94%E5%8C%BA%23&Refer=top)
+
+1. [父亲让我每月上缴三千工资](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E8%AE%A9%E6%88%91%E6%AF%8F%E6%9C%88%E4%B8%8A%E7%BC%B4%E4%B8%89%E5%8D%83%E5%B7%A5%E8%B5%84%23&Refer=top)
+
+1. [宋妍霏害怕爸爸太快变老哭了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%AE%B3%E6%80%95%E7%88%B8%E7%88%B8%E5%A4%AA%E5%BF%AB%E5%8F%98%E8%80%81%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [黄轩倪妮对手戏泪崩](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%BD%A9%E5%80%AA%E5%A6%AE%E5%AF%B9%E6%89%8B%E6%88%8F%E6%B3%AA%E5%B4%A9%23&Refer=top)
+
+1. [南京玄武湖又一株并蒂莲开了](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%8E%84%E6%AD%A6%E6%B9%96%E5%8F%88%E4%B8%80%E6%A0%AA%E5%B9%B6%E8%92%82%E8%8E%B2%E5%BC%80%E4%BA%86%23&Refer=top)
+
+1. [CBA下赛季将全华班](https://s.weibo.com//weibo?q=%23CBA%E4%B8%8B%E8%B5%9B%E5%AD%A3%E5%B0%86%E5%85%A8%E5%8D%8E%E7%8F%AD%23&Refer=top)
+
+1. [猫咪是怎么拒绝亲亲的](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E6%98%AF%E6%80%8E%E4%B9%88%E6%8B%92%E7%BB%9D%E4%BA%B2%E4%BA%B2%E7%9A%84%23&Refer=top)
+
+1. [艺术作品偷拍5000名女生并排名被撤展](https://s.weibo.com//weibo?q=%23%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81%E5%81%B7%E6%8B%8D5000%E5%90%8D%E5%A5%B3%E7%94%9F%E5%B9%B6%E6%8E%92%E5%90%8D%E8%A2%AB%E6%92%A4%E5%B1%95%23&Refer=top)
+
+1. [景甜虚拟形象看秀](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E7%9C%8B%E7%A7%80%23&Refer=top)
+
+1. [白玦蒙眼蒙了个寂寞](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%A6%E8%92%99%E7%9C%BC%E8%92%99%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [白眉长臂猿警务室仓库内偷吃水果](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%9C%89%E9%95%BF%E8%87%82%E7%8C%BF%E8%AD%A6%E5%8A%A1%E5%AE%A4%E4%BB%93%E5%BA%93%E5%86%85%E5%81%B7%E5%90%83%E6%B0%B4%E6%9E%9C%23&Refer=top)
+
+1. [前白宫医生要求拜登做认知测试](https://s.weibo.com//weibo?q=%23%E5%89%8D%E7%99%BD%E5%AE%AB%E5%8C%BB%E7%94%9F%E8%A6%81%E6%B1%82%E6%8B%9C%E7%99%BB%E5%81%9A%E8%AE%A4%E7%9F%A5%E6%B5%8B%E8%AF%95%23&Refer=top)
+
+1. [你爸帮你拍照有多灵魂](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%88%B8%E5%B8%AE%E4%BD%A0%E6%8B%8D%E7%85%A7%E6%9C%89%E5%A4%9A%E7%81%B5%E9%AD%82%23&Refer=top)
 
