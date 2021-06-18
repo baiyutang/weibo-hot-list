@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 15:09:27
+## 微博今日热榜 更新于 2021-06-18 16:05:14
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -374,4 +374,42 @@
 1. [前白宫医生要求拜登做认知测试](https://s.weibo.com//weibo?q=%23%E5%89%8D%E7%99%BD%E5%AE%AB%E5%8C%BB%E7%94%9F%E8%A6%81%E6%B1%82%E6%8B%9C%E7%99%BB%E5%81%9A%E8%AE%A4%E7%9F%A5%E6%B5%8B%E8%AF%95%23&Refer=top)
 
 1. [你爸帮你拍照有多灵魂](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%88%B8%E5%B8%AE%E4%BD%A0%E6%8B%8D%E7%85%A7%E6%9C%89%E5%A4%9A%E7%81%B5%E9%AD%82%23&Refer=top)
+
+1. [许幻山林有有二搭](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%B9%BB%E5%B1%B1%E6%9E%97%E6%9C%89%E6%9C%89%E4%BA%8C%E6%90%AD%23&Refer=top)
+
+1. [宿舍的床被当作了休息区](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E8%88%8D%E7%9A%84%E5%BA%8A%E8%A2%AB%E5%BD%93%E4%BD%9C%E4%BA%86%E4%BC%91%E6%81%AF%E5%8C%BA%23&Refer=top)
+
+1. [李秀满的生日与世界除螨日是同一天](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%A7%80%E6%BB%A1%E7%9A%84%E7%94%9F%E6%97%A5%E4%B8%8E%E4%B8%96%E7%95%8C%E9%99%A4%E8%9E%A8%E6%97%A5%E6%98%AF%E5%90%8C%E4%B8%80%E5%A4%A9%23&Refer=top)
+
+1. [金瀚张芷溪见父母](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%80%9A%E5%BC%A0%E8%8A%B7%E6%BA%AA%E8%A7%81%E7%88%B6%E6%AF%8D%23&Refer=top)
+
+1. [难怪蜜雪冰城歌曲这么耳熟](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E6%80%AA%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%AD%8C%E6%9B%B2%E8%BF%99%E4%B9%88%E8%80%B3%E7%86%9F%23&Refer=top)
+
+1. [云南大象甩土戴草帽避暑降温](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E8%B1%A1%E7%94%A9%E5%9C%9F%E6%88%B4%E8%8D%89%E5%B8%BD%E9%81%BF%E6%9A%91%E9%99%8D%E6%B8%A9%23&Refer=top)
+
+1. [杨幂晒猫姐做的DIY项链](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%99%92%E7%8C%AB%E5%A7%90%E5%81%9A%E7%9A%84DIY%E9%A1%B9%E9%93%BE%23&Refer=top)
+
+1. [刘亚仁晒合照为绯闻男友庆生](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%9A%E4%BB%81%E6%99%92%E5%90%88%E7%85%A7%E4%B8%BA%E7%BB%AF%E9%97%BB%E7%94%B7%E5%8F%8B%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [山东规定学校暑假不得参与组织辅导班](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%A7%84%E5%AE%9A%E5%AD%A6%E6%A0%A1%E6%9A%91%E5%81%87%E4%B8%8D%E5%BE%97%E5%8F%82%E4%B8%8E%E7%BB%84%E7%BB%87%E8%BE%85%E5%AF%BC%E7%8F%AD%23&Refer=top)
+
+1. [刘雨昕的直角动作](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E7%9A%84%E7%9B%B4%E8%A7%92%E5%8A%A8%E4%BD%9C%23&Refer=top)
+
+1. [英雄飞行大队列装歼20](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E9%A3%9E%E8%A1%8C%E5%A4%A7%E9%98%9F%E5%88%97%E8%A3%85%E6%AD%BC20&Refer=top)
+
+1. [高考后近视手术迎来高峰期](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF%E8%BF%8E%E6%9D%A5%E9%AB%98%E5%B3%B0%E6%9C%9F%23&Refer=top)
+
+1. [为什么要保护亚洲象](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BF%9D%E6%8A%A4%E4%BA%9A%E6%B4%B2%E8%B1%A1%23&Refer=top)
+
+1. [父亲节文案](https://s.weibo.com//weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88&Refer=top)
+
+1. [北京上空现羽毛状七彩祥云](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%A9%BA%E7%8E%B0%E7%BE%BD%E6%AF%9B%E7%8A%B6%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%23&Refer=top)
+
+1. [学校食堂的奇葩菜品](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%9A%84%E5%A5%87%E8%91%A9%E8%8F%9C%E5%93%81%23&Refer=top)
+
+1. [新西兰网友拍到的神舟十二号](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E7%9A%84%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%23&Refer=top)
+
+1. [中国空间站WiFi覆盖](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99WiFi%E8%A6%86%E7%9B%96%23&Refer=top)
+
+1. [许凯无效蒙眼](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%87%AF%E6%97%A0%E6%95%88%E8%92%99%E7%9C%BC%23&Refer=top)
 
