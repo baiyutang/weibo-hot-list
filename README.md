@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 03:05:04
+## 微博今日热榜 更新于 2021-06-19 04:03:25
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -150,4 +150,14 @@
 1. [黄宗泽emoji头像](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BDemoji%E5%A4%B4%E5%83%8F%23&Refer=top)
 
 1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [把青春华章写在祖国大地上](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23&Refer=new_time)
+
+1. [英格兰 苏格兰](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top)
+
+1. [张小斐 最受传媒关注女主角](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%9C%80%E5%8F%97%E4%BC%A0%E5%AA%92%E5%85%B3%E6%B3%A8%E5%A5%B3%E4%B8%BB%E8%A7%92&Refer=top)
+
+1. [贝克汉姆观看比赛](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E8%A7%82%E7%9C%8B%E6%AF%94%E8%B5%9B&Refer=top)
+
+1. [皮克福德神扑救](https://s.weibo.com//weibo?q=%E7%9A%AE%E5%85%8B%E7%A6%8F%E5%BE%B7%E7%A5%9E%E6%89%91%E6%95%91&Refer=top)
 
