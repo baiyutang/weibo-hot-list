@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 07:03:26
+## 微博今日热榜 更新于 2021-06-18 08:15:18
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -142,4 +142,22 @@
 1. [荷兰小组出线](https://s.weibo.com//weibo?q=%E8%8D%B7%E5%85%B0%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF&Refer=top)
 
 1. [江疏影沙宝亮杀青合照](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E6%B2%99%E5%AE%9D%E4%BA%AE%E6%9D%80%E9%9D%92%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [印度发现首例绿真菌症病例](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E7%BB%BF%E7%9C%9F%E8%8F%8C%E7%97%87%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [朱怡贞哭了](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%80%A1%E8%B4%9E%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [卡莱尔辞职](https://s.weibo.com//weibo?q=%23%E5%8D%A1%E8%8E%B1%E5%B0%94%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [618](https://s.weibo.com//weibo?q=618&Refer=top)
+
+1. [十堰燃气爆炸8人被刑拘](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%A0%B0%E7%87%83%E6%B0%94%E7%88%86%E7%82%B88%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [佛山新增本土确诊1例](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%23&Refer=top)
+
+1. [丹麦比利时致敬埃里克森](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%AF%94%E5%88%A9%E6%97%B6%E8%87%B4%E6%95%AC%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE&Refer=top)
+
+1. [中国航天成绩单](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%88%90%E7%BB%A9%E5%8D%95%23&Refer=top)
+
+1. [北京朝霞](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%9C%9E&Refer=top)
 
