@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-18 16:05:14
+## 微博今日热榜 更新于 2021-06-18 17:07:55
 1. [一针一线致敬百年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%92%88%E4%B8%80%E7%BA%BF%E8%87%B4%E6%95%AC%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
@@ -412,4 +412,38 @@
 1. [中国空间站WiFi覆盖](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99WiFi%E8%A6%86%E7%9B%96%23&Refer=top)
 
 1. [许凯无效蒙眼](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%87%AF%E6%97%A0%E6%95%88%E8%92%99%E7%9C%BC%23&Refer=top)
+
+1. [宿舍太热学生到操场打地铺](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E8%88%8D%E5%A4%AA%E7%83%AD%E5%AD%A6%E7%94%9F%E5%88%B0%E6%93%8D%E5%9C%BA%E6%89%93%E5%9C%B0%E9%93%BA%23&Refer=top)
+
+1. [张杰也没抢到票](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%B9%9F%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%A5%A8%23&Refer=top)
+
+1. [双汇集团创始人长子万洪建被免职](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%B1%87%E9%9B%86%E5%9B%A2%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%95%BF%E5%AD%90%E4%B8%87%E6%B4%AA%E5%BB%BA%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top)
+
+1. [肖战起诉马路边边](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B7%E8%AF%89%E9%A9%AC%E8%B7%AF%E8%BE%B9%E8%BE%B9%23&Refer=top)
+
+1. [刘耀文再现袁华表白名场面](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%86%8D%E7%8E%B0%E8%A2%81%E5%8D%8E%E8%A1%A8%E7%99%BD%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [日本熊出没至少4人受伤](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%A1%E8%87%B3%E5%B0%914%E4%BA%BA%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [易烊千玺首演医生角色](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%A6%96%E6%BC%94%E5%8C%BB%E7%94%9F%E8%A7%92%E8%89%B2%23&Refer=top)
+
+1. [黄奕母女纯白故事感大片](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A5%95%E6%AF%8D%E5%A5%B3%E7%BA%AF%E7%99%BD%E6%95%85%E4%BA%8B%E6%84%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [毕业后消费观变化有多大](https://s.weibo.com//weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E6%B6%88%E8%B4%B9%E8%A7%82%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [严浩翔伪装成贺峻霖跟拍](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%BC%AA%E8%A3%85%E6%88%90%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%B7%9F%E6%8B%8D%23&Refer=top)
+
+1. [北京环球影城内部照片](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E5%86%85%E9%83%A8%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [孟佳评论营销号](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E8%AF%84%E8%AE%BA%E8%90%A5%E9%94%80%E5%8F%B7%23&Refer=top)
+
+1. [深圳后海站J出入口暂时关闭](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%90%8E%E6%B5%B7%E7%AB%99J%E5%87%BA%E5%85%A5%E5%8F%A3%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD&Refer=top)
+
+1. [深圳机场400余架次航班取消](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA400%E4%BD%99%E6%9E%B6%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%23&Refer=top)
+
+1. [RNG OMG](https://s.weibo.com//weibo?q=RNG%20OMG&Refer=top)
+
+1. [聂海胜出征前染黑了白发](https://s.weibo.com//weibo?q=%23%E8%81%82%E6%B5%B7%E8%83%9C%E5%87%BA%E5%BE%81%E5%89%8D%E6%9F%93%E9%BB%91%E4%BA%86%E7%99%BD%E5%8F%91%23&Refer=top)
+
+1. [收废品大叔蜗居出租房画千幅油画](https://s.weibo.com//weibo?q=%23%E6%94%B6%E5%BA%9F%E5%93%81%E5%A4%A7%E5%8F%94%E8%9C%97%E5%B1%85%E5%87%BA%E7%A7%9F%E6%88%BF%E7%94%BB%E5%8D%83%E5%B9%85%E6%B2%B9%E7%94%BB%23&Refer=top)
 
