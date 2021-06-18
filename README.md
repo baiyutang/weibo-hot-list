@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 01:22:29
+## 微博今日热榜 更新于 2021-06-19 02:05:37
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -136,4 +136,10 @@
 1. [张歆艺cos白骨精](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%AD%86%E8%89%BAcos%E7%99%BD%E9%AA%A8%E7%B2%BE%23&Refer=top)
 
 1. [佩里西奇破门](https://s.weibo.com//weibo?q=%E4%BD%A9%E9%87%8C%E8%A5%BF%E5%A5%87%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [习近平带领党员领导同志重温入党誓词](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B8%A6%E9%A2%86%E5%85%9A%E5%91%98%E9%A2%86%E5%AF%BC%E5%90%8C%E5%BF%97%E9%87%8D%E6%B8%A9%E5%85%A5%E5%85%9A%E8%AA%93%E8%AF%8D%23&Refer=new_time)
+
+1. [程序员改行做服务员是人才浪费吗](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E6%94%B9%E8%A1%8C%E5%81%9A%E6%9C%8D%E5%8A%A1%E5%91%98%E6%98%AF%E4%BA%BA%E6%89%8D%E6%B5%AA%E8%B4%B9%E5%90%97%23&Refer=top)
+
+1. [克罗地亚1比1捷克](https://s.weibo.com//weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A1%E6%AF%941%E6%8D%B7%E5%85%8B&Refer=top)
 
