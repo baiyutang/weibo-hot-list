@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 07:04:00
+## 微博今日热榜 更新于 2021-06-19 08:15:55
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -172,4 +172,42 @@
 1. [刘佳张小斐再现李焕英经典回眸](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BD%B3%E5%BC%A0%E5%B0%8F%E6%96%90%E5%86%8D%E7%8E%B0%E6%9D%8E%E7%84%95%E8%8B%B1%E7%BB%8F%E5%85%B8%E5%9B%9E%E7%9C%B8%23&Refer=top)
 
 1. [里皮 我曾推荐张琳芃去欧洲踢球](https://s.weibo.com//weibo?q=%E9%87%8C%E7%9A%AE%20%E6%88%91%E6%9B%BE%E6%8E%A8%E8%8D%90%E5%BC%A0%E7%90%B3%E8%8A%83%E5%8E%BB%E6%AC%A7%E6%B4%B2%E8%B8%A2%E7%90%83&Refer=top)
+
+1. [这百年](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%99%BE%E5%B9%B4%23&Refer=new_time)
+
+1. [女子吃粽子误吞枣核险刺破主动脉](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E7%B2%BD%E5%AD%90%E8%AF%AF%E5%90%9E%E6%9E%A3%E6%A0%B8%E9%99%A9%E5%88%BA%E7%A0%B4%E4%B8%BB%E5%8A%A8%E8%84%89%23&Refer=top)
+
+1. [想见你 古装版](https://s.weibo.com//weibo?q=%E6%83%B3%E8%A7%81%E4%BD%A0%20%E5%8F%A4%E8%A3%85%E7%89%88&Refer=top)
+
+1. [成龙退出林凤娇全资持股公司](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%BE%99%E9%80%80%E5%87%BA%E6%9E%97%E5%87%A4%E5%A8%87%E5%85%A8%E8%B5%84%E6%8C%81%E8%82%A1%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [袁隆平讲禾下乘凉梦的珍贵影像](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E8%AE%B2%E7%A6%BE%E4%B8%8B%E4%B9%98%E5%87%89%E6%A2%A6%E7%9A%84%E7%8F%8D%E8%B4%B5%E5%BD%B1%E5%83%8F%23&Refer=top)
+
+1. [柳州新增1例境外输入阳性感染者](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E5%B7%9E%E6%96%B0%E5%A2%9E1%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [专四](https://s.weibo.com//weibo?q=%E4%B8%93%E5%9B%9B&Refer=top)
+
+1. [肖战如梦之梦repo](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6repo%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [王梦洁状态](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A2%A6%E6%B4%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [张晨光直播哭了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%A8%E5%85%89%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [广东新增6例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [情侣为爱用锁链锁住彼此123天](https://s.weibo.com//weibo?q=%23%E6%83%85%E4%BE%A3%E4%B8%BA%E7%88%B1%E7%94%A8%E9%94%81%E9%93%BE%E9%94%81%E4%BD%8F%E5%BD%BC%E6%AD%A4123%E5%A4%A9%23&Refer=top)
+
+1. [你经历过职场的塑料友谊吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%BB%8F%E5%8E%86%E8%BF%87%E8%81%8C%E5%9C%BA%E7%9A%84%E5%A1%91%E6%96%99%E5%8F%8B%E8%B0%8A%E5%90%97%23&Refer=top)
+
+1. [肖战围巾上的泪珠](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%9B%B4%E5%B7%BE%E4%B8%8A%E7%9A%84%E6%B3%AA%E7%8F%A0%23&Refer=top)
+
+1. [杨紫三昧真火就是吐泡泡](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E6%98%A7%E7%9C%9F%E7%81%AB%E5%B0%B1%E6%98%AF%E5%90%90%E6%B3%A1%E6%B3%A1%23&Refer=top)
+
+1. [Hero晋级总决赛](https://s.weibo.com//weibo?q=%23Hero%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [CA868](https://s.weibo.com//weibo?q=CA868&Refer=top)
+
+1. [李盈莹进步](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%9B%88%E8%8E%B9%E8%BF%9B%E6%AD%A5&Refer=top)
 
