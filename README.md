@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 09:56:27
+## 微博今日热榜 更新于 2021-06-19 10:33:28
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -252,4 +252,20 @@
 1. [上海中考](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E8%80%83&Refer=top)
 
 1. [缓解新市民青年人等群体住房困难](https://s.weibo.com//weibo?q=%23%E7%BC%93%E8%A7%A3%E6%96%B0%E5%B8%82%E6%B0%91%E9%9D%92%E5%B9%B4%E4%BA%BA%E7%AD%89%E7%BE%A4%E4%BD%93%E4%BD%8F%E6%88%BF%E5%9B%B0%E9%9A%BE%23&Refer=top)
+
+1. [刚毕业月薪3000是啥体验](https://s.weibo.com//weibo?q=%23%E5%88%9A%E6%AF%95%E4%B8%9A%E6%9C%88%E8%96%AA3000%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [贺峻霖楼上倒水泼私生](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%A5%BC%E4%B8%8A%E5%80%92%E6%B0%B4%E6%B3%BC%E7%A7%81%E7%94%9F%23&Refer=top)
+
+1. [库克称别把苹果谷歌脸书混为一谈](https://s.weibo.com//weibo?q=%23%E5%BA%93%E5%85%8B%E7%A7%B0%E5%88%AB%E6%8A%8A%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E8%84%B8%E4%B9%A6%E6%B7%B7%E4%B8%BA%E4%B8%80%E8%B0%88%23&Refer=top)
+
+1. [清晨还农忙的父母亲看着儿子奔向星空](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%99%A8%E8%BF%98%E5%86%9C%E5%BF%99%E7%9A%84%E7%88%B6%E6%AF%8D%E4%BA%B2%E7%9C%8B%E7%9D%80%E5%84%BF%E5%AD%90%E5%A5%94%E5%90%91%E6%98%9F%E7%A9%BA%23&Refer=top)
+
+1. [教大家一个矫正驼背的方法](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%A4%A7%E5%AE%B6%E4%B8%80%E4%B8%AA%E7%9F%AB%E6%AD%A3%E9%A9%BC%E8%83%8C%E7%9A%84%E6%96%B9%E6%B3%95%23&Refer=top)
+
+1. [看似高端实则初级的原理](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%BC%BC%E9%AB%98%E7%AB%AF%E5%AE%9E%E5%88%99%E5%88%9D%E7%BA%A7%E7%9A%84%E5%8E%9F%E7%90%86%23&Refer=top)
+
+1. [深圳机场回应航班运行总体正常](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E6%AD%A3%E5%B8%B8%23&Refer=top)
+
+1. [拍视频社死现场](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E8%A7%86%E9%A2%91%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
