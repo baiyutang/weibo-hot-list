@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 03:02:58
+## 微博今日热榜 更新于 2021-06-20 04:03:26
 1. [百年相册看什么关键看气质](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%9B%B8%E5%86%8C%E7%9C%8B%E4%BB%80%E4%B9%88%E5%85%B3%E9%94%AE%E7%9C%8B%E6%B0%94%E8%B4%A8%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -178,4 +178,12 @@
 1. [有内鬼终止交易](https://s.weibo.com//weibo?q=%E6%9C%89%E5%86%85%E9%AC%BC%E7%BB%88%E6%AD%A2%E4%BA%A4%E6%98%93&Refer=top)
 
 1. [西班牙 波兰](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20%E6%B3%A2%E5%85%B0&Refer=top)
+
+1. [李汶翰要和杜淳刘维组SHE](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B1%B6%E7%BF%B0%E8%A6%81%E5%92%8C%E6%9D%9C%E6%B7%B3%E5%88%98%E7%BB%B4%E7%BB%84SHE%23&Refer=top)
+
+1. [此刻的葡萄牙球迷](https://s.weibo.com//weibo?q=%E6%AD%A4%E5%88%BB%E7%9A%84%E8%91%A1%E8%90%84%E7%89%99%E7%90%83%E8%BF%B7&Refer=top)
+
+1. [法国1比1匈牙利](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD1%E6%AF%941%E5%8C%88%E7%89%99%E5%88%A9%23&Refer=top)
+
+1. [如何在夏天挑选西瓜](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%8F%E5%A4%A9%E6%8C%91%E9%80%89%E8%A5%BF%E7%93%9C%23&Refer=top)
 
