@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 13:08:32
+## 微博今日热榜 更新于 2021-06-19 14:04:40
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -378,4 +378,40 @@
 1. [雅思](https://s.weibo.com//weibo?q=%E9%9B%85%E6%80%9D&Refer=top)
 
 1. [弟弟乱扔枕头下一秒救姐姐一命](https://s.weibo.com//weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B9%B1%E6%89%94%E6%9E%95%E5%A4%B4%E4%B8%8B%E4%B8%80%E7%A7%92%E6%95%91%E5%A7%90%E5%A7%90%E4%B8%80%E5%91%BD%23&Refer=top)
+
+1. [黄渤 晚点去蘑菇屋咱们好好聊聊](https://s.weibo.com//weibo?q=%E9%BB%84%E6%B8%A4%20%E6%99%9A%E7%82%B9%E5%8E%BB%E8%98%91%E8%8F%87%E5%B1%8B%E5%92%B1%E4%BB%AC%E5%A5%BD%E5%A5%BD%E8%81%8A%E8%81%8A&Refer=top)
+
+1. [广州打新冠疫苗不抢号自动排队](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%B8%8D%E6%8A%A2%E5%8F%B7%E8%87%AA%E5%8A%A8%E6%8E%92%E9%98%9F%23&Refer=top)
+
+1. [利路修参演中国冰雪](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%8F%82%E6%BC%94%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%23&Refer=top)
+
+1. [印火葬场员工勒索新冠死者家属](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E7%81%AB%E8%91%AC%E5%9C%BA%E5%91%98%E5%B7%A5%E5%8B%92%E7%B4%A2%E6%96%B0%E5%86%A0%E6%AD%BB%E8%80%85%E5%AE%B6%E5%B1%9E%23&Refer=top)
+
+1. [徐冬冬 我爸从来不说女儿我爱你](https://s.weibo.com//weibo?q=%E5%BE%90%E5%86%AC%E5%86%AC%20%E6%88%91%E7%88%B8%E4%BB%8E%E6%9D%A5%E4%B8%8D%E8%AF%B4%E5%A5%B3%E5%84%BF%E6%88%91%E7%88%B1%E4%BD%A0&Refer=top)
+
+1. [心疼张晨光](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%BC%A0%E6%99%A8%E5%85%89%23&Refer=top)
+
+1. [张新成盘核桃盘成肌肉记忆](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E7%9B%98%E6%A0%B8%E6%A1%83%E7%9B%98%E6%88%90%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%23&Refer=top)
+
+1. [空间站](https://s.weibo.com//weibo?q=%E7%A9%BA%E9%97%B4%E7%AB%99&Refer=top)
+
+1. [周鸿祎称打工是用老板的钱给自己交学费](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E6%89%93%E5%B7%A5%E6%98%AF%E7%94%A8%E8%80%81%E6%9D%BF%E7%9A%84%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E4%BA%A4%E5%AD%A6%E8%B4%B9%23&Refer=top)
+
+1. [深圳机场航站楼须持核酸阴性证明](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E9%A1%BB%E6%8C%81%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%23&Refer=top)
+
+1. [野生大熊猫水源处喝水洗澡](https://s.weibo.com//weibo?q=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B0%B4%E6%BA%90%E5%A4%84%E5%96%9D%E6%B0%B4%E6%B4%97%E6%BE%A1&Refer=top)
+
+1. [米切尔受伤](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%88%87%E5%B0%94%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [迪士尼 放大又放大的同一张图](https://s.weibo.com//weibo?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%20%E6%94%BE%E5%A4%A7%E5%8F%88%E6%94%BE%E5%A4%A7%E7%9A%84%E5%90%8C%E4%B8%80%E5%BC%A0%E5%9B%BE&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [多地刷屏亮灯应援广州](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%88%B7%E5%B1%8F%E4%BA%AE%E7%81%AF%E5%BA%94%E6%8F%B4%E5%B9%BF%E5%B7%9E%23&Refer=top)
+
+1. [克拉克森单节21分](https://s.weibo.com//weibo?q=%E5%85%8B%E6%8B%89%E5%85%8B%E6%A3%AE%E5%8D%95%E8%8A%8221%E5%88%86&Refer=top)
+
+1. [焦虑会互相传染吗](https://s.weibo.com//weibo?q=%23%E7%84%A6%E8%99%91%E4%BC%9A%E4%BA%92%E7%9B%B8%E4%BC%A0%E6%9F%93%E5%90%97%23&Refer=top)
+
+1. [Delta变异株正成为全球主要流行变异株](https://s.weibo.com//weibo?q=%23Delta%E5%8F%98%E5%BC%82%E6%A0%AA%E6%AD%A3%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E4%B8%BB%E8%A6%81%E6%B5%81%E8%A1%8C%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
 
