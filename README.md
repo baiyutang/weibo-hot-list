@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 11:06:35
+## 微博今日热榜 更新于 2021-06-19 12:04:24
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -298,4 +298,44 @@
 1. [深圳机场](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA&Refer=top)
 
 1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [宋妍霏六年后向佟大为道歉](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%85%AD%E5%B9%B4%E5%90%8E%E5%90%91%E4%BD%9F%E5%A4%A7%E4%B8%BA%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [夫妻卖假奢侈品2年获利1000万](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%8D%96%E5%81%87%E5%A5%A2%E4%BE%88%E5%93%812%E5%B9%B4%E8%8E%B7%E5%88%A91000%E4%B8%87%23&Refer=top)
+
+1. [赵尧珂谈月经羞耻](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%B0%A7%E7%8F%82%E8%B0%88%E6%9C%88%E7%BB%8F%E7%BE%9E%E8%80%BB%23&Refer=top)
+
+1. [管泽元解说NBA](https://s.weibo.com//weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%A7%A3%E8%AF%B4NBA%23&Refer=top)
+
+1. [你能接受猫咪爬上床吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E7%8C%AB%E5%92%AA%E7%88%AC%E4%B8%8A%E5%BA%8A%E5%90%97%23&Refer=top)
+
+1. [任嘉伦可以为了友谊让出机会](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%8F%AF%E4%BB%A5%E4%B8%BA%E4%BA%86%E5%8F%8B%E8%B0%8A%E8%AE%A9%E5%87%BA%E6%9C%BA%E4%BC%9A%23&Refer=top)
+
+1. [第一次与人合租要注意什么](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8E%E4%BA%BA%E5%90%88%E7%A7%9F%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [千古玦尘](https://s.weibo.com//weibo?q=%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98&Refer=top)
+
+1. [康姆士 你永远是我的宝贝](https://s.weibo.com//weibo?q=%E5%BA%B7%E5%A7%86%E5%A3%AB%20%E4%BD%A0%E6%B0%B8%E8%BF%9C%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%9D%E8%B4%9D&Refer=top)
+
+1. [多地部署全面了解育龄妇女及生育意愿](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%83%A8%E7%BD%B2%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3%E8%82%B2%E9%BE%84%E5%A6%87%E5%A5%B3%E5%8F%8A%E7%94%9F%E8%82%B2%E6%84%8F%E6%84%BF%23&Refer=top)
+
+1. [高校男生为期末天台轮流讲课](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E4%B8%BA%E6%9C%9F%E6%9C%AB%E5%A4%A9%E5%8F%B0%E8%BD%AE%E6%B5%81%E8%AE%B2%E8%AF%BE%23&Refer=top)
+
+1. [现在遇到乞丐还会给钱吗](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%A8%E9%81%87%E5%88%B0%E4%B9%9E%E4%B8%90%E8%BF%98%E4%BC%9A%E7%BB%99%E9%92%B1%E5%90%97%23&Refer=top)
+
+1. [广州现4例接种一剂疫苗后仍感染者](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%8E%B04%E4%BE%8B%E6%8E%A5%E7%A7%8D%E4%B8%80%E5%89%82%E7%96%AB%E8%8B%97%E5%90%8E%E4%BB%8D%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+
+1. [爵士vs快船](https://s.weibo.com//weibo?q=%23%E7%88%B5%E5%A3%ABvs%E5%BF%AB%E8%88%B9%23&Refer=top)
+
+1. [神12后还有艘随时待命的神13](https://s.weibo.com//weibo?q=%23%E7%A5%9E12%E5%90%8E%E8%BF%98%E6%9C%89%E8%89%98%E9%9A%8F%E6%97%B6%E5%BE%85%E5%91%BD%E7%9A%84%E7%A5%9E13%23&Refer=top)
+
+1. [突然有钱能挥霍到什么程度](https://s.weibo.com//weibo?q=%23%E7%AA%81%E7%84%B6%E6%9C%89%E9%92%B1%E8%83%BD%E6%8C%A5%E9%9C%8D%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%23&Refer=top)
+
+1. [76人战胜老鹰](https://s.weibo.com//weibo?q=%2376%E4%BA%BA%E6%88%98%E8%83%9C%E8%80%81%E9%B9%B0%23&Refer=top)
+
+1. [哈勃望远镜因计算机故障停机](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%8B%83%E6%9C%9B%E8%BF%9C%E9%95%9C%E5%9B%A0%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%85%E9%9A%9C%E5%81%9C%E6%9C%BA%23&Refer=top)
+
+1. [中考](https://s.weibo.com//weibo?q=%E4%B8%AD%E8%80%83&Refer=top)
+
+1. [在每个星球上插五星红旗](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%98%9F%E7%90%83%E4%B8%8A%E6%8F%92%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%23&Refer=top)
 
