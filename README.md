@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 10:33:28
+## 微博今日热榜 更新于 2021-06-19 11:06:35
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [吴磊张子枫毕业照拍摄花絮](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%AF%95%E4%B8%9A%E7%85%A7%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -268,4 +268,34 @@
 1. [深圳机场回应航班运行总体正常](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E6%AD%A3%E5%B8%B8%23&Refer=top)
 
 1. [拍视频社死现场](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E8%A7%86%E9%A2%91%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [动车D2956](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E8%BD%A6D2956%23&Refer=top)
+
+1. [吴彤杨迪看到六小龄童后哭了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E6%9D%A8%E8%BF%AA%E7%9C%8B%E5%88%B0%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E5%90%8E%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [学生多功能保温杯可藏手机](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%9D%E6%B8%A9%E6%9D%AF%E5%8F%AF%E8%97%8F%E6%89%8B%E6%9C%BA%23&Refer=top)
+
+1. [看见共产党人坚守的力量](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%A7%81%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BA%BA%E5%9D%9A%E5%AE%88%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=top)
+
+1. [北京新增1例境外输入确诊和5例无症状](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E5%92%8C5%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [那英梁静好能干](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%A2%81%E9%9D%99%E5%A5%BD%E8%83%BD%E5%B9%B2%23&Refer=top)
+
+1. [陈卓璇说公平竞争是对好机会的尊重](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E8%AF%B4%E5%85%AC%E5%B9%B3%E7%AB%9E%E4%BA%89%E6%98%AF%E5%AF%B9%E5%A5%BD%E6%9C%BA%E4%BC%9A%E7%9A%84%E5%B0%8A%E9%87%8D%23&Refer=top)
+
+1. [被室友孤立是什么感觉](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%AE%A4%E5%8F%8B%E5%AD%A4%E7%AB%8B%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&Refer=top)
+
+1. [76人vs老鹰](https://s.weibo.com//weibo?q=%2376%E4%BA%BAvs%E8%80%81%E9%B9%B0%23&Refer=top)
+
+1. [日本街头熊出没](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%86%8A%E5%87%BA%E6%B2%A1&Refer=top)
+
+1. [初步研判象群已呈南返趋势](https://s.weibo.com//weibo?q=%E5%88%9D%E6%AD%A5%E7%A0%94%E5%88%A4%E8%B1%A1%E7%BE%A4%E5%B7%B2%E5%91%88%E5%8D%97%E8%BF%94%E8%B6%8B%E5%8A%BF&Refer=top)
+
+1. [陈延年陈乔年牺牲后弟弟用假信瞒家人](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%BB%B6%E5%B9%B4%E9%99%88%E4%B9%94%E5%B9%B4%E7%89%BA%E7%89%B2%E5%90%8E%E5%BC%9F%E5%BC%9F%E7%94%A8%E5%81%87%E4%BF%A1%E7%9E%92%E5%AE%B6%E4%BA%BA%23&Refer=top)
+
+1. [中国空间站机械臂](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E6%9C%BA%E6%A2%B0%E8%87%82%23&Refer=top)
+
+1. [深圳机场](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA&Refer=top)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 
