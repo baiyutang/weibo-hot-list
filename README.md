@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-21 01:18:57
+## 微博今日热榜 更新于 2021-06-21 02:03:34
 1. [18件藏品讲述百年党史故事](https://s.weibo.com//weibo?q=%2318%E4%BB%B6%E8%97%8F%E5%93%81%E8%AE%B2%E8%BF%B0%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [李钟硕剪短发](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
@@ -130,4 +130,12 @@
 1. [广州队与保利尼奥解约](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%98%9F%E4%B8%8E%E4%BF%9D%E5%88%A9%E5%B0%BC%E5%A5%A5%E8%A7%A3%E7%BA%A6%23&Refer=top)
 
 1. [瑞士 土耳其](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%20%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+
+1. [吴尊晒儿女送的父亲节礼物](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E6%99%92%E5%84%BF%E5%A5%B3%E9%80%81%E7%9A%84%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=top)
+
+1. [Sunnee北京演唱会](https://s.weibo.com//weibo?q=%23Sunnee%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+
+1. [瑞士3比1土耳其](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB3%E6%AF%941%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+
+1. [意大利1比0威尔士](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A91%E6%AF%940%E5%A8%81%E5%B0%94%E5%A3%AB&Refer=top)
 
