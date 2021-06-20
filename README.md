@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 13:08:12
+## 微博今日热榜 更新于 2021-06-20 14:04:29
 1. [百年相册看什么关键看气质](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%9B%B8%E5%86%8C%E7%9C%8B%E4%BB%80%E4%B9%88%E5%85%B3%E9%94%AE%E7%9C%8B%E6%B0%94%E8%B4%A8%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -426,4 +426,20 @@
 1. [利路修内心产生一辈子挥之不去阴影](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%86%85%E5%BF%83%E4%BA%A7%E7%94%9F%E4%B8%80%E8%BE%88%E5%AD%90%E6%8C%A5%E4%B9%8B%E4%B8%8D%E5%8E%BB%E9%98%B4%E5%BD%B1%23&Refer=top)
 
 1. [女老师跳猩猩舞为学生解压](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%80%81%E5%B8%88%E8%B7%B3%E7%8C%A9%E7%8C%A9%E8%88%9E%E4%B8%BA%E5%AD%A6%E7%94%9F%E8%A7%A3%E5%8E%8B%23&Refer=top)
+
+1. [Giao哥演出被打](https://s.weibo.com//weibo?q=%23Giao%E5%93%A5%E6%BC%94%E5%87%BA%E8%A2%AB%E6%89%93%23&Refer=top)
+
+1. [迪丽热巴佟丽娅小尼聊新疆](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%B0%8F%E5%B0%BC%E8%81%8A%E6%96%B0%E7%96%86%23&Refer=top)
+
+1. [东莞麻涌](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%8E%9E%E9%BA%BB%E6%B6%8C&Refer=top)
+
+1. [父亲节祝福](https://s.weibo.com//weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A5%9D%E7%A6%8F&Refer=top)
+
+1. [湖南烈士公园暂停对外开放](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD%E6%9A%82%E5%81%9C%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [被小区门禁限制了美丽](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%B0%8F%E5%8C%BA%E9%97%A8%E7%A6%81%E9%99%90%E5%88%B6%E4%BA%86%E7%BE%8E%E4%B8%BD%23&Refer=top)
+
+1. [龚俊祝各位老爸们父亲节快乐](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%A5%9D%E5%90%84%E4%BD%8D%E8%80%81%E7%88%B8%E4%BB%AC%E7%88%B6%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [原来长相也会被爸妈嫌弃](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%95%BF%E7%9B%B8%E4%B9%9F%E4%BC%9A%E8%A2%AB%E7%88%B8%E5%A6%88%E5%AB%8C%E5%BC%83%23&Refer=top)
 
