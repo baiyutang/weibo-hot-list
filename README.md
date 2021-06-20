@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 14:04:29
+## 微博今日热榜 更新于 2021-06-20 15:08:02
 1. [百年相册看什么关键看气质](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%9B%B8%E5%86%8C%E7%9C%8B%E4%BB%80%E4%B9%88%E5%85%B3%E9%94%AE%E7%9C%8B%E6%B0%94%E8%B4%A8%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -442,4 +442,36 @@
 1. [龚俊祝各位老爸们父亲节快乐](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%A5%9D%E5%90%84%E4%BD%8D%E8%80%81%E7%88%B8%E4%BB%AC%E7%88%B6%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top)
 
 1. [原来长相也会被爸妈嫌弃](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%95%BF%E7%9B%B8%E4%B9%9F%E4%BC%9A%E8%A2%AB%E7%88%B8%E5%A6%88%E5%AB%8C%E5%BC%83%23&Refer=top)
+
+1. [86岁爷爷和82岁奶奶参加孙女毕业典礼](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E7%88%B7%E7%88%B7%E5%92%8C82%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%8F%82%E5%8A%A0%E5%AD%99%E5%A5%B3%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&Refer=top)
+
+1. [华为供应链公司已收到Mate50设计方案](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BE%9B%E5%BA%94%E9%93%BE%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%94%B6%E5%88%B0Mate50%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88%23&Refer=top)
+
+1. [东莞新增1例从迪拜入境复阳人员](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E8%8E%9E%E6%96%B0%E5%A2%9E1%E4%BE%8B%E4%BB%8E%E8%BF%AA%E6%8B%9C%E5%85%A5%E5%A2%83%E5%A4%8D%E9%98%B3%E4%BA%BA%E5%91%98%23&Refer=top)
+
+1. [罗一舟唐九洲 常驻综艺](https://s.weibo.com//weibo?q=%E7%BD%97%E4%B8%80%E8%88%9F%E5%94%90%E4%B9%9D%E6%B4%B2%20%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA&Refer=top)
+
+1. [篮网被雄鹿淘汰的主要原因是什么](https://s.weibo.com//weibo?q=%23%E7%AF%AE%E7%BD%91%E8%A2%AB%E9%9B%84%E9%B9%BF%E6%B7%98%E6%B1%B0%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [电动自行车换电成新宠](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8D%A2%E7%94%B5%E6%88%90%E6%96%B0%E5%AE%A0%23&Refer=top)
+
+1. [航天员这个称呼是钱学森提出的](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%99%E4%B8%AA%E7%A7%B0%E5%91%BC%E6%98%AF%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%8F%90%E5%87%BA%E7%9A%84%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [申军良父亲节收到儿子的信](https://s.weibo.com//weibo?q=%23%E7%94%B3%E5%86%9B%E8%89%AF%E7%88%B6%E4%BA%B2%E8%8A%82%E6%94%B6%E5%88%B0%E5%84%BF%E5%AD%90%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [父亲节我爸竟然在看这个](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E6%88%91%E7%88%B8%E7%AB%9F%E7%84%B6%E5%9C%A8%E7%9C%8B%E8%BF%99%E4%B8%AA%23&Refer=top)
+
+1. [C罗小头像](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E5%B0%8F%E5%A4%B4%E5%83%8F%23&Refer=top)
+
+1. [彩虹厚切酸奶冻冻](https://s.weibo.com//weibo?q=%23%E5%BD%A9%E8%99%B9%E5%8E%9A%E5%88%87%E9%85%B8%E5%A5%B6%E5%86%BB%E5%86%BB%23&Refer=top)
+
+1. [我国新冠疫苗接种剂次超10亿](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%89%82%E6%AC%A1%E8%B6%8510%E4%BA%BF%23&Refer=top)
+
+1. [武警小哥哥对父亲说的心里话](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E8%AD%A6%E5%B0%8F%E5%93%A5%E5%93%A5%E5%AF%B9%E7%88%B6%E4%BA%B2%E8%AF%B4%E7%9A%84%E5%BF%83%E9%87%8C%E8%AF%9D%23&Refer=top)
+
+1. [古人如何称呼父亲](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BA%BA%E5%A6%82%E4%BD%95%E7%A7%B0%E5%91%BC%E7%88%B6%E4%BA%B2%23&Refer=top)
+
+1. [走进北京李大钊故居](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E5%8C%97%E4%BA%AC%E6%9D%8E%E5%A4%A7%E9%92%8A%E6%95%85%E5%B1%85%23&Refer=top)
 
