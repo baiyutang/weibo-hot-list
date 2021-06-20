@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 10:41:33
+## 微博今日热榜 更新于 2021-06-20 11:07:26
 1. [百年相册看什么关键看气质](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%9B%B8%E5%86%8C%E7%9C%8B%E4%BB%80%E4%B9%88%E5%85%B3%E9%94%AE%E7%9C%8B%E6%B0%94%E8%B4%A8%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -330,4 +330,6 @@
 1. [全国城市噪声污染排行榜](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%9F%8E%E5%B8%82%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E6%8E%92%E8%A1%8C%E6%A6%9C%23&Refer=top)
 
 1. [医生奶爸致敬自己的医生爸爸](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E5%A5%B6%E7%88%B8%E8%87%B4%E6%95%AC%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8C%BB%E7%94%9F%E7%88%B8%E7%88%B8%23&Refer=top)
+
+1. [父亲节反而被爸爸送礼物](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E5%8F%8D%E8%80%8C%E8%A2%AB%E7%88%B8%E7%88%B8%E9%80%81%E7%A4%BC%E7%89%A9%23&Refer=top)
 
