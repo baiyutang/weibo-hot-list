@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 16:03:36
+## 微博今日热榜 更新于 2021-06-20 17:03:16
 1. [百年相册看什么关键看气质](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%9B%B8%E5%86%8C%E7%9C%8B%E4%BB%80%E4%B9%88%E5%85%B3%E9%94%AE%E7%9C%8B%E6%B0%94%E8%B4%A8%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -498,4 +498,38 @@
 1. [傅首尔 底气比勇气更重要](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E5%BA%95%E6%B0%94%E6%AF%94%E5%8B%87%E6%B0%94%E6%9B%B4%E9%87%8D%E8%A6%81&Refer=top)
 
 1. [家庭里爸爸的角色有多重要](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E5%BA%AD%E9%87%8C%E7%88%B8%E7%88%B8%E7%9A%84%E8%A7%92%E8%89%B2%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [张智霖袁咏仪儿子的腿](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E5%84%BF%E5%AD%90%E7%9A%84%E8%85%BF%23&Refer=top)
+
+1. [男友领证前给爸爸发的短信](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%8F%8B%E9%A2%86%E8%AF%81%E5%89%8D%E7%BB%99%E7%88%B8%E7%88%B8%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1%23&Refer=top)
+
+1. [张杰分享父亲节礼物清单](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E5%88%86%E4%BA%AB%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%E6%B8%85%E5%8D%95&Refer=top)
+
+1. [陈飞宇晒与陈凯歌旧照](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%99%92%E4%B8%8E%E9%99%88%E5%87%AF%E6%AD%8C%E6%97%A7%E7%85%A7%23&Refer=top)
+
+1. [陈坤舒淇同框电影感](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%9D%A4%E8%88%92%E6%B7%87%E5%90%8C%E6%A1%86%E7%94%B5%E5%BD%B1%E6%84%9F%23&Refer=top)
+
+1. [王源紫色错落拼接毛衣](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%B4%AB%E8%89%B2%E9%94%99%E8%90%BD%E6%8B%BC%E6%8E%A5%E6%AF%9B%E8%A1%A3%23&Refer=top)
+
+1. [郭晶晶入驻微博](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [叛逆者 be美学](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85%20be%E7%BE%8E%E5%AD%A6&Refer=top)
+
+1. [今天可以抓父亲回来吃饭吗](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%AF%E4%BB%A5%E6%8A%93%E7%88%B6%E4%BA%B2%E5%9B%9E%E6%9D%A5%E5%90%83%E9%A5%AD%E5%90%97%23&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [应采儿 陈小春年轻时候我还是个孩子](https://s.weibo.com//weibo?q=%E5%BA%94%E9%87%87%E5%84%BF%20%E9%99%88%E5%B0%8F%E6%98%A5%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E6%88%91%E8%BF%98%E6%98%AF%E4%B8%AA%E5%AD%A9%E5%AD%90&Refer=top)
+
+1. [3个月萌娃打针秒变表情包](https://s.weibo.com//weibo?q=%233%E4%B8%AA%E6%9C%88%E8%90%8C%E5%A8%83%E6%89%93%E9%92%88%E7%A7%92%E5%8F%98%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [当你和爸爸说父亲节快乐后](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%92%8C%E7%88%B8%E7%88%B8%E8%AF%B4%E7%88%B6%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%E5%90%8E%23&Refer=top)
+
+1. [给爸爸发我爱你得到的回复五花八门](https://s.weibo.com//weibo?q=%23%E7%BB%99%E7%88%B8%E7%88%B8%E5%8F%91%E6%88%91%E7%88%B1%E4%BD%A0%E5%BE%97%E5%88%B0%E7%9A%84%E5%9B%9E%E5%A4%8D%E4%BA%94%E8%8A%B1%E5%85%AB%E9%97%A8%23&Refer=top)
+
+1. [上海中考](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E8%80%83&Refer=top)
+
+1. [女儿婚礼上的爸爸](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E7%88%B8%E7%88%B8%23&Refer=top)
+
+1. [梁洁说爸爸养狗后自己失宠了](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%B4%81%E8%AF%B4%E7%88%B8%E7%88%B8%E5%85%BB%E7%8B%97%E5%90%8E%E8%87%AA%E5%B7%B1%E5%A4%B1%E5%AE%A0%E4%BA%86%23&Refer=top)
 
