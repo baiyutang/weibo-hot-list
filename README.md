@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-21 00:08:01
+## 微博今日热榜 更新于 2021-06-21 01:18:57
 1. [18件藏品讲述百年党史故事](https://s.weibo.com//weibo?q=%2318%E4%BB%B6%E8%97%8F%E5%93%81%E8%AE%B2%E8%BF%B0%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [李钟硕剪短发](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
@@ -106,4 +106,28 @@
 1. [爸妈生我的真正原因](https://s.weibo.com//weibo?q=%23%E7%88%B8%E5%A6%88%E7%94%9F%E6%88%91%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%23&Refer=top)
 
 1. [保利尼奥告别广州队](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%88%A9%E5%B0%BC%E5%A5%A5%E5%91%8A%E5%88%AB%E5%B9%BF%E5%B7%9E%E9%98%9F%23&Refer=top)
+
+1. [党史展览馆五组艺术雕塑的细节和寓意](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E4%BA%94%E7%BB%84%E8%89%BA%E6%9C%AF%E9%9B%95%E5%A1%91%E7%9A%84%E7%BB%86%E8%8A%82%E5%92%8C%E5%AF%93%E6%84%8F%23&Refer=new_time)
+
+1. [朴树yyds](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%A0%91yyds%23&Refer=top)
+
+1. [C罗鼓励葡萄牙队](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E9%BC%93%E5%8A%B1%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%23&Refer=top)
+
+1. [李晨 爸爸不敢去医院才觉得自己长大了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%99%A8%20%E7%88%B8%E7%88%B8%E4%B8%8D%E6%95%A2%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%89%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E9%95%BF%E5%A4%A7%E4%BA%86&Refer=top)
+
+1. [一诺的公孙离](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E5%85%AC%E5%AD%99%E7%A6%BB%23&Refer=top)
+
+1. [佘诗曼谈爱情](https://s.weibo.com//weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%B0%88%E7%88%B1%E6%83%85%23&Refer=top)
+
+1. [父母的内疚式教育对孩子影响有多大](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9A%84%E5%86%85%E7%96%9A%E5%BC%8F%E6%95%99%E8%82%B2%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [意大利 威尔士](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E5%A8%81%E5%B0%94%E5%A3%AB&Refer=top)
+
+1. [中国女排战胜美国女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23&Refer=top)
+
+1. [广州队与保利尼奥解约](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%98%9F%E4%B8%8E%E4%BF%9D%E5%88%A9%E5%B0%BC%E5%A5%A5%E8%A7%A3%E7%BA%A6%23&Refer=top)
+
+1. [瑞士 土耳其](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%20%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
 
