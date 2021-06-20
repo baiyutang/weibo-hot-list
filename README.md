@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 18:03:45
+## 微博今日热榜 更新于 2021-06-20 19:02:56
 1. [百年相册看什么关键看气质](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%9B%B8%E5%86%8C%E7%9C%8B%E4%BB%80%E4%B9%88%E5%85%B3%E9%94%AE%E7%9C%8B%E6%B0%94%E8%B4%A8%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -560,4 +560,32 @@
 1. [80秒看疫苗接种的中国速度](https://s.weibo.com//weibo?q=%2380%E7%A7%92%E7%9C%8B%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6%23&Refer=top)
 
 1. [东京奥运会海外代表团现首例新冠病例](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%8E%B0%E9%A6%96%E4%BE%8B%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [幼儿园把小朋友裹起来让父亲猜盲盒](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8A%8A%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%A3%B9%E8%B5%B7%E6%9D%A5%E8%AE%A9%E7%88%B6%E4%BA%B2%E7%8C%9C%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [国宝从小美到大是什么体验](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%9D%E4%BB%8E%E5%B0%8F%E7%BE%8E%E5%88%B0%E5%A4%A7%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [杨紫晒和父亲比耶旧照](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%99%92%E5%92%8C%E7%88%B6%E4%BA%B2%E6%AF%94%E8%80%B6%E6%97%A7%E7%85%A7%23&Refer=top)
+
+1. [特斯拉前高管抛售2.7亿美元股票](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%89%8D%E9%AB%98%E7%AE%A1%E6%8A%9B%E5%94%AE2.7%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8%23&Refer=top)
+
+1. [央视曝儿童滑板车近三成不合格](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%84%BF%E7%AB%A5%E6%BB%91%E6%9D%BF%E8%BD%A6%E8%BF%91%E4%B8%89%E6%88%90%E4%B8%8D%E5%90%88%E6%A0%BC%23&Refer=top)
+
+1. [原来马笑起来是这样的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E7%AC%91%E8%B5%B7%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&Refer=top)
+
+1. [人是有多喜欢凑热闹](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%98%AF%E6%9C%89%E5%A4%9A%E5%96%9C%E6%AC%A2%E5%87%91%E7%83%AD%E9%97%B9%23&Refer=top)
+
+1. [粉丝给荣梓杉评论中考答案](https://s.weibo.com//weibo?q=%23%E7%B2%89%E4%B8%9D%E7%BB%99%E8%8D%A3%E6%A2%93%E6%9D%89%E8%AF%84%E8%AE%BA%E4%B8%AD%E8%80%83%E7%AD%94%E6%A1%88%23&Refer=top)
+
+1. [王祖蓝父亲节亲自下厨](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E7%88%B6%E4%BA%B2%E8%8A%82%E4%BA%B2%E8%87%AA%E4%B8%8B%E5%8E%A8%23&Refer=top)
+
+1. [蔡英文悼念拜登死去的狗](https://s.weibo.com//weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E6%82%BC%E5%BF%B5%E6%8B%9C%E7%99%BB%E6%AD%BB%E5%8E%BB%E7%9A%84%E7%8B%97%23&Refer=top)
+
+1. [希尔 自由人](https://s.weibo.com//weibo?q=%E5%B8%8C%E5%B0%94%20%E8%87%AA%E7%94%B1%E4%BA%BA&Refer=top)
+
+1. [爸妈生我的真正原因](https://s.weibo.com//weibo?q=%23%E7%88%B8%E5%A6%88%E7%94%9F%E6%88%91%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [结石姐确诊梅尼埃病](https://s.weibo.com//weibo?q=%23%E7%BB%93%E7%9F%B3%E5%A7%90%E7%A1%AE%E8%AF%8A%E6%A2%85%E5%B0%BC%E5%9F%83%E7%97%85%23&Refer=top)
+
+1. [课本上印象深刻的父亲](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E4%B8%8A%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E7%88%B6%E4%BA%B2%23&Refer=top)
 
