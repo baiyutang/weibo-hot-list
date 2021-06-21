@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-21 11:07:15
+## 微博今日热榜 更新于 2021-06-21 12:04:54
 1. [18件藏品讲述百年党史故事](https://s.weibo.com//weibo?q=%2318%E4%BB%B6%E8%97%8F%E5%93%81%E8%AE%B2%E8%BF%B0%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [李钟硕剪短发](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
@@ -280,4 +280,38 @@
 1. [布克赛后第一时间与保罗视频](https://s.weibo.com//weibo?q=%23%E5%B8%83%E5%85%8B%E8%B5%9B%E5%90%8E%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E4%BF%9D%E7%BD%97%E8%A7%86%E9%A2%91%23&Refer=top)
 
 1. [烈士陵园那张照片不是父亲而是我](https://s.weibo.com//weibo?q=%23%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD%E9%82%A3%E5%BC%A0%E7%85%A7%E7%89%87%E4%B8%8D%E6%98%AF%E7%88%B6%E4%BA%B2%E8%80%8C%E6%98%AF%E6%88%91%23&Refer=top)
+
+1. [郑秀妍被列为被执行人](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E8%A2%AB%E5%88%97%E4%B8%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
+
+1. [过量食用荔枝易得荔枝病](https://s.weibo.com//weibo?q=%23%E8%BF%87%E9%87%8F%E9%A3%9F%E7%94%A8%E8%8D%94%E6%9E%9D%E6%98%93%E5%BE%97%E8%8D%94%E6%9E%9D%E7%97%85%23&Refer=top)
+
+1. [奶奶将患病孙女绑在身上看病](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%B0%86%E6%82%A3%E7%97%85%E5%AD%99%E5%A5%B3%E7%BB%91%E5%9C%A8%E8%BA%AB%E4%B8%8A%E7%9C%8B%E7%97%85%23&Refer=top)
+
+1. [蔡英文](https://s.weibo.com//weibo?q=%E8%94%A1%E8%8B%B1%E6%96%87&Refer=top)
+
+1. [你能接受衣鞋混合机洗吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E8%A1%A3%E9%9E%8B%E6%B7%B7%E5%90%88%E6%9C%BA%E6%B4%97%E5%90%97%23&Refer=top)
+
+1. [消防员路过爸爸门店被投食](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%B7%AF%E8%BF%87%E7%88%B8%E7%88%B8%E9%97%A8%E5%BA%97%E8%A2%AB%E6%8A%95%E9%A3%9F%23&Refer=top)
+
+1. [士兵突击 翻拍](https://s.weibo.com//weibo?q=%E5%A3%AB%E5%85%B5%E7%AA%81%E5%87%BB%20%E7%BF%BB%E6%8B%8D&Refer=top)
+
+1. [刘学义说没人懂天启](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E8%AF%B4%E6%B2%A1%E4%BA%BA%E6%87%82%E5%A4%A9%E5%90%AF%23&Refer=top)
+
+1. [男子因与他人纠纷迁怒踩死小猫](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B8%8E%E4%BB%96%E4%BA%BA%E7%BA%A0%E7%BA%B7%E8%BF%81%E6%80%92%E8%B8%A9%E6%AD%BB%E5%B0%8F%E7%8C%AB%23&Refer=top)
+
+1. [建议延长带薪父亲陪产假](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BB%B6%E9%95%BF%E5%B8%A6%E8%96%AA%E7%88%B6%E4%BA%B2%E9%99%AA%E4%BA%A7%E5%81%87%23&Refer=top)
+
+1. [杭州阿姨组团在售楼处为子女相亲](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%98%BF%E5%A7%A8%E7%BB%84%E5%9B%A2%E5%9C%A8%E5%94%AE%E6%A5%BC%E5%A4%84%E4%B8%BA%E5%AD%90%E5%A5%B3%E7%9B%B8%E4%BA%B2%23&Refer=top)
+
+1. [体育老师走廊摆摊修眼镜](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%B5%B0%E5%BB%8A%E6%91%86%E6%91%8A%E4%BF%AE%E7%9C%BC%E9%95%9C%23&Refer=top)
+
+1. [不分享就是疏离的开始](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%88%86%E4%BA%AB%E5%B0%B1%E6%98%AF%E7%96%8F%E7%A6%BB%E7%9A%84%E5%BC%80%E5%A7%8B%23&Refer=top)
+
+1. [消防员徒步5小时救爬山中暑驴友](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%BE%92%E6%AD%A55%E5%B0%8F%E6%97%B6%E6%95%91%E7%88%AC%E5%B1%B1%E4%B8%AD%E6%9A%91%E9%A9%B4%E5%8F%8B%23&Refer=top)
+
+1. [半导体ETF份额遭遇大幅赎回](https://s.weibo.com//weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93ETF%E4%BB%BD%E9%A2%9D%E9%81%AD%E9%81%87%E5%A4%A7%E5%B9%85%E8%B5%8E%E5%9B%9E&Refer=top)
+
+1. [什么名能拯救梅这个姓](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E5%90%8D%E8%83%BD%E6%8B%AF%E6%95%91%E6%A2%85%E8%BF%99%E4%B8%AA%E5%A7%93%23&Refer=top)
+
+1. [董明珠员工持股计划浮盈8个亿](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%91%98%E5%B7%A5%E6%8C%81%E8%82%A1%E8%AE%A1%E5%88%92%E6%B5%AE%E7%9B%888%E4%B8%AA%E4%BA%BF%23&Refer=top)
 
