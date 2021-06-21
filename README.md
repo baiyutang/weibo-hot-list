@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-21 20:07:07
+## 微博今日热榜 更新于 2021-06-21 21:22:33
 1. [18件藏品讲述百年党史故事](https://s.weibo.com//weibo?q=%2318%E4%BB%B6%E8%97%8F%E5%93%81%E8%AE%B2%E8%BF%B0%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [李钟硕剪短发](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
@@ -626,4 +626,54 @@
 1. [嫩江1号洪水形成](https://s.weibo.com//weibo?q=%E5%AB%A9%E6%B1%9F1%E5%8F%B7%E6%B4%AA%E6%B0%B4%E5%BD%A2%E6%88%90&Refer=top)
 
 1. [全国东魁杨梅出自黄岩180岁母树](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%9C%E9%AD%81%E6%9D%A8%E6%A2%85%E5%87%BA%E8%87%AA%E9%BB%84%E5%B2%A9180%E5%B2%81%E6%AF%8D%E6%A0%91%23&Refer=top)
+
+1. [美国至少有50万人遭受现代奴役](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E8%87%B3%E5%B0%91%E6%9C%8950%E4%B8%87%E4%BA%BA%E9%81%AD%E5%8F%97%E7%8E%B0%E4%BB%A3%E5%A5%B4%E5%BD%B9&Refer=top)
+
+1. [不接种新冠疫苗无法现场看世界杯](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%97%A0%E6%B3%95%E7%8E%B0%E5%9C%BA%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top)
+
+1. [最强大脑总导演王运庆去世](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E6%80%BB%E5%AF%BC%E6%BC%94%E7%8E%8B%E8%BF%90%E5%BA%86%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [复旦杀害学院书记教师被批捕](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E6%9D%80%E5%AE%B3%E5%AD%A6%E9%99%A2%E4%B9%A6%E8%AE%B0%E6%95%99%E5%B8%88%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
+
+1. [广东疫情](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E7%96%AB%E6%83%85&Refer=top)
+
+1. [吉克隽逸 大家现在晒到什么程度了](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%20%E5%A4%A7%E5%AE%B6%E7%8E%B0%E5%9C%A8%E6%99%92%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&Refer=top)
+
+1. [这才是番茄炒蛋该有的样子](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B%E8%AF%A5%E6%9C%89%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top)
+
+1. [余男剧抛脸](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%94%B7%E5%89%A7%E6%8A%9B%E8%84%B8%23&Refer=top)
+
+1. [这是蜜雪冰城新歌吗](https://s.weibo.com//weibo?q=%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E6%AD%8C%E5%90%97&Refer=top)
+
+1. [朱珠可算坐下来了](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%8F%AF%E7%AE%97%E5%9D%90%E4%B8%8B%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [时代少年团新歌预告](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [Puff五杀](https://s.weibo.com//weibo?q=Puff%E4%BA%94%E6%9D%80&Refer=top)
+
+1. [曹县汉服卖家说一天挣万把块很简单](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E5%8E%BF%E6%B1%89%E6%9C%8D%E5%8D%96%E5%AE%B6%E8%AF%B4%E4%B8%80%E5%A4%A9%E6%8C%A3%E4%B8%87%E6%8A%8A%E5%9D%97%E5%BE%88%E7%AE%80%E5%8D%95%23&Refer=top)
+
+1. [深圳新增本土确诊1例](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%23&Refer=top)
+
+1. [轿车在两大车间强行变道被撞飞](https://s.weibo.com//weibo?q=%23%E8%BD%BF%E8%BD%A6%E5%9C%A8%E4%B8%A4%E5%A4%A7%E8%BD%A6%E9%97%B4%E5%BC%BA%E8%A1%8C%E5%8F%98%E9%81%93%E8%A2%AB%E6%92%9E%E9%A3%9E%23&Refer=top)
+
+1. [元气温柔奶醉妆](https://s.weibo.com//weibo?q=%23%E5%85%83%E6%B0%94%E6%B8%A9%E6%9F%94%E5%A5%B6%E9%86%89%E5%A6%86%23&Refer=top)
+
+1. [专家称印度第三波疫情不可避免](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8D%B0%E5%BA%A6%E7%AC%AC%E4%B8%89%E6%B3%A2%E7%96%AB%E6%83%85%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%23&Refer=top)
+
+1. [iG2比0UP](https://s.weibo.com//weibo?q=iG2%E6%AF%940UP&Refer=top)
+
+1. [进球庆祝动作大赏](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E7%90%83%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [南部战区空军多机型攻防演练](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E7%A9%BA%E5%86%9B%E5%A4%9A%E6%9C%BA%E5%9E%8B%E6%94%BB%E9%98%B2%E6%BC%94%E7%BB%83%23&Refer=top)
+
+1. [中国航天史有多振奋人心](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%B2%E6%9C%89%E5%A4%9A%E6%8C%AF%E5%A5%8B%E4%BA%BA%E5%BF%83%23&Refer=top)
+
+1. [球迷赛后行为大赏](https://s.weibo.com//weibo?q=%23%E7%90%83%E8%BF%B7%E8%B5%9B%E5%90%8E%E8%A1%8C%E4%B8%BA%E5%A4%A7%E8%B5%8F%23&Refer=top)
+
+1. [为什么在线教育会迎来裁员大潮](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E4%BC%9A%E8%BF%8E%E6%9D%A5%E8%A3%81%E5%91%98%E5%A4%A7%E6%BD%AE%23&Refer=top)
+
+1. [有你们在广州一定会好噶](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%BD%A0%E4%BB%AC%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%A5%BD%E5%99%B6%23&Refer=top)
 
