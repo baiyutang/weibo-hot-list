@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-22 04:03:36
+## 微博今日热榜 更新于 2021-06-22 05:03:00
 1. [上海这百年如何惊艳世界](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E7%99%BE%E5%B9%B4%E5%A6%82%E4%BD%95%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&Refer=new_time)
 
 1. [这是蜜雪冰城新歌吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E6%AD%8C%E5%90%97%23&Refer=top)
