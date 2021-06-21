@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-22 03:04:36
+## 微博今日热榜 更新于 2021-06-22 04:03:36
 1. [上海这百年如何惊艳世界](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E7%99%BE%E5%B9%B4%E5%A6%82%E4%BD%95%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&Refer=new_time)
 
 1. [这是蜜雪冰城新歌吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E6%AD%8C%E5%90%97%23&Refer=top)
@@ -146,4 +146,12 @@
 1. [深圳疫情](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85&Refer=top)
 
 1. [7岁乔治小王子身高](https://s.weibo.com//weibo?q=7%E5%B2%81%E4%B9%94%E6%B2%BB%E5%B0%8F%E7%8E%8B%E5%AD%90%E8%BA%AB%E9%AB%98&Refer=top)
+
+1. [金子涵生图状态](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [奥地利进球](https://s.weibo.com//weibo?q=%E5%A5%A5%E5%9C%B0%E5%88%A9%E8%BF%9B%E7%90%83&Refer=top)
+
+1. [千古玦尘](https://s.weibo.com//weibo?q=%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98&Refer=top)
+
+1. [35岁退役战士为救落水者牺牲](https://s.weibo.com//weibo?q=%2335%E5%B2%81%E9%80%80%E5%BD%B9%E6%88%98%E5%A3%AB%E4%B8%BA%E6%95%91%E8%90%BD%E6%B0%B4%E8%80%85%E7%89%BA%E7%89%B2%23&Refer=top)
 
