@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-22 02:08:25
+## 微博今日热榜 更新于 2021-06-22 03:04:36
 1. [上海这百年如何惊艳世界](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E7%99%BE%E5%B9%B4%E5%A6%82%E4%BD%95%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&Refer=new_time)
 
 1. [这是蜜雪冰城新歌吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E6%AD%8C%E5%90%97%23&Refer=top)
@@ -134,4 +134,16 @@
 1. [朱一龙一镜到底哭戏](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E5%93%AD%E6%88%8F%23&Refer=top)
 
 1. [荷兰赠送潘德夫球衣](https://s.weibo.com//weibo?q=%23%E8%8D%B7%E5%85%B0%E8%B5%A0%E9%80%81%E6%BD%98%E5%BE%B7%E5%A4%AB%E7%90%83%E8%A1%A3%23&Refer=top)
+
+1. [思政课要追求四率](https://s.weibo.com//weibo?q=%23%E6%80%9D%E6%94%BF%E8%AF%BE%E8%A6%81%E8%BF%BD%E6%B1%82%E5%9B%9B%E7%8E%87%23&Refer=new_time)
+
+1. [俄罗斯 丹麦](https://s.weibo.com//weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%20%E4%B8%B9%E9%BA%A6&Refer=top)
+
+1. [刘彰分享歌词vlog](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BD%B0%E5%88%86%E4%BA%AB%E6%AD%8C%E8%AF%8Dvlog%23&Refer=top)
+
+1. [比利时 芬兰](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E8%8A%AC%E5%85%B0&Refer=top)
+
+1. [深圳疫情](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [7岁乔治小王子身高](https://s.weibo.com//weibo?q=7%E5%B2%81%E4%B9%94%E6%B2%BB%E5%B0%8F%E7%8E%8B%E5%AD%90%E8%BA%AB%E9%AB%98&Refer=top)
 
