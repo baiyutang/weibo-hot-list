@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-21 18:08:39
+## 微博今日热榜 更新于 2021-06-21 19:06:21
 1. [18件藏品讲述百年党史故事](https://s.weibo.com//weibo?q=%2318%E4%BB%B6%E8%97%8F%E5%93%81%E8%AE%B2%E8%BF%B0%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [李钟硕剪短发](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
@@ -552,4 +552,42 @@
 1. [夏至这样吃可宁心安神](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E8%87%B3%E8%BF%99%E6%A0%B7%E5%90%83%E5%8F%AF%E5%AE%81%E5%BF%83%E5%AE%89%E7%A5%9E%23&Refer=top)
 
 1. [为祖国激动得热泪盈眶瞬间](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%A5%96%E5%9B%BD%E6%BF%80%E5%8A%A8%E5%BE%97%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [敢教日月换新天](https://s.weibo.com//weibo?q=%23%E6%95%A2%E6%95%99%E6%97%A5%E6%9C%88%E6%8D%A2%E6%96%B0%E5%A4%A9%23&Refer=new_time)
+
+1. [吴磊对张子枫撒娇](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E5%AF%B9%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%92%92%E5%A8%87%23&Refer=top)
+
+1. [重庆发现4.23亿年前袖珍边城鱼](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%8F%91%E7%8E%B04.23%E4%BA%BF%E5%B9%B4%E5%89%8D%E8%A2%96%E7%8F%8D%E8%BE%B9%E5%9F%8E%E9%B1%BC&Refer=top)
+
+1. [小朋友悄悄给蹲着喂饭的老师搬凳子](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%82%84%E6%82%84%E7%BB%99%E8%B9%B2%E7%9D%80%E5%96%82%E9%A5%AD%E7%9A%84%E8%80%81%E5%B8%88%E6%90%AC%E5%87%B3%E5%AD%90%23&Refer=top)
+
+1. [货车司机冒死将着火车辆驶离学校](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%86%92%E6%AD%BB%E5%B0%86%E7%9D%80%E7%81%AB%E8%BD%A6%E8%BE%86%E9%A9%B6%E7%A6%BB%E5%AD%A6%E6%A0%A1%23&Refer=top)
+
+1. [张雪迎眼睛长了个麦粒肿](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%AA%E8%BF%8E%E7%9C%BC%E7%9D%9B%E9%95%BF%E4%BA%86%E4%B8%AA%E9%BA%A6%E7%B2%92%E8%82%BF%23&Refer=top)
+
+1. [张小斐的腰](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9A%84%E8%85%B0%23&Refer=top)
+
+1. [阚清子夏至浆果流纱长裙](https://s.weibo.com//weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%A4%8F%E8%87%B3%E6%B5%86%E6%9E%9C%E6%B5%81%E7%BA%B1%E9%95%BF%E8%A3%99%23&Refer=top)
+
+1. [广东一鸵鸟在车流中优雅前行](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%B8%B5%E9%B8%9F%E5%9C%A8%E8%BD%A6%E6%B5%81%E4%B8%AD%E4%BC%98%E9%9B%85%E5%89%8D%E8%A1%8C%23&Refer=top)
+
+1. [老师的星期一有多冒火](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E6%98%9F%E6%9C%9F%E4%B8%80%E6%9C%89%E5%A4%9A%E5%86%92%E7%81%AB%23&Refer=top)
+
+1. [原来这才是长智齿的原因](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E9%95%BF%E6%99%BA%E9%BD%BF%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [海南严打离岛免税套购走私行为](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E4%B8%A5%E6%89%93%E7%A6%BB%E5%B2%9B%E5%85%8D%E7%A8%8E%E5%A5%97%E8%B4%AD%E8%B5%B0%E7%A7%81%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [国家防总启动防汛IV级应急响应](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%B2%E6%80%BB%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9BIV%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&Refer=top)
+
+1. [女生的内心活动有多可爱](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E7%9A%84%E5%86%85%E5%BF%83%E6%B4%BB%E5%8A%A8%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [为何游戏卡牌拍卖30分钟价破8000万](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%8D%A1%E7%89%8C%E6%8B%8D%E5%8D%9630%E5%88%86%E9%92%9F%E4%BB%B7%E7%A0%B48000%E4%B8%87%23&Refer=top)
+
+1. [登贝莱因伤告别欧洲杯](https://s.weibo.com//weibo?q=%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BC%A4%E5%91%8A%E5%88%AB%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [深圳宝安区所有餐饮服务单位暂停堂食](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E5%8C%BA%E6%89%80%E6%9C%89%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%E5%8D%95%E4%BD%8D%E6%9A%82%E5%81%9C%E5%A0%82%E9%A3%9F&Refer=top)
+
+1. [当凉拌遇上虾](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%87%89%E6%8B%8C%E9%81%87%E4%B8%8A%E8%99%BE%23&Refer=top)
+
+1. [深圳核酸采样医护交班时发现天亮了](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E5%8C%BB%E6%8A%A4%E4%BA%A4%E7%8F%AD%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%A9%E4%BA%AE%E4%BA%86%23&Refer=top)
 
