@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-22 09:48:23
+## 微博今日热榜 更新于 2021-06-22 10:24:19
 1. [上海这百年如何惊艳世界](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E7%99%BE%E5%B9%B4%E5%A6%82%E4%BD%95%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&Refer=new_time)
 
 1. [这是蜜雪冰城新歌吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E6%AD%8C%E5%90%97%23&Refer=top)
@@ -234,4 +234,26 @@
 1. [大学教授回应推翻爱因斯坦相对论](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%9B%9E%E5%BA%94%E6%8E%A8%E7%BF%BB%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9B%B8%E5%AF%B9%E8%AE%BA&Refer=top)
 
 1. [律师解读游戏卡牌拍卖价破8000万](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E5%8D%A1%E7%89%8C%E6%8B%8D%E5%8D%96%E4%BB%B7%E7%A0%B48000%E4%B8%87%23&Refer=top)
+
+1. [丁磊称大多数中国学生不具备独立思考能力](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A3%8A%E7%A7%B0%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%85%B7%E5%A4%87%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [将剃过毛的狗误认成狮子报警求助](https://s.weibo.com//weibo?q=%23%E5%B0%86%E5%89%83%E8%BF%87%E6%AF%9B%E7%9A%84%E7%8B%97%E8%AF%AF%E8%AE%A4%E6%88%90%E7%8B%AE%E5%AD%90%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%23&Refer=top)
+
+1. [迪拜驾校针对豪车开设驾驶课](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E6%8B%9C%E9%A9%BE%E6%A0%A1%E9%92%88%E5%AF%B9%E8%B1%AA%E8%BD%A6%E5%BC%80%E8%AE%BE%E9%A9%BE%E9%A9%B6%E8%AF%BE%23&Refer=top)
+
+1. [柳真女儿的同学因为吴允熙不跟她玩](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E7%9C%9F%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8C%E5%AD%A6%E5%9B%A0%E4%B8%BA%E5%90%B4%E5%85%81%E7%86%99%E4%B8%8D%E8%B7%9F%E5%A5%B9%E7%8E%A9%23&Refer=top)
+
+1. [哈登承诺参加东京奥运会](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E6%89%BF%E8%AF%BA%E5%8F%82%E5%8A%A0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [王源为时代少年团写歌](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%BA%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%86%99%E6%AD%8C%23&Refer=top)
+
+1. [董明珠称重新考虑员工分房产权问题](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E5%91%98%E5%B7%A5%E5%88%86%E6%88%BF%E4%BA%A7%E6%9D%83%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [李佳航演的冼星海](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%BC%94%E7%9A%84%E5%86%BC%E6%98%9F%E6%B5%B7&Refer=top)
+
+1. [大象用鼻子拽住逃跑小象尾巴](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E7%94%A8%E9%BC%BB%E5%AD%90%E6%8B%BD%E4%BD%8F%E9%80%83%E8%B7%91%E5%B0%8F%E8%B1%A1%E5%B0%BE%E5%B7%B4%23&Refer=top)
+
+1. [民警陪妻子逛街顺手擒拿偷拍贼](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E9%99%AA%E5%A6%BB%E5%AD%90%E9%80%9B%E8%A1%97%E9%A1%BA%E6%89%8B%E6%93%92%E6%8B%BF%E5%81%B7%E6%8B%8D%E8%B4%BC%23&Refer=top)
+
+1. [祖孙三代接力当乡村教师52年](https://s.weibo.com//weibo?q=%23%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E6%8E%A5%E5%8A%9B%E5%BD%93%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%8852%E5%B9%B4%23&Refer=top)
 
