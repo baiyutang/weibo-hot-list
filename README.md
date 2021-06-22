@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 06:04:09
+## 微博今日热榜 更新于 2021-06-23 07:03:36
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -148,4 +148,6 @@
 1. [克罗地亚3比1苏格兰](https://s.weibo.com//weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A3%E6%AF%941%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top)
 
 1. [8旬奶奶空箱子举重演技炸裂](https://s.weibo.com//weibo?q=8%E6%97%AC%E5%A5%B6%E5%A5%B6%E7%A9%BA%E7%AE%B1%E5%AD%90%E4%B8%BE%E9%87%8D%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82&Refer=top)
+
+1. [邓伦复古氛围感](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%A4%8D%E5%8F%A4%E6%B0%9B%E5%9B%B4%E6%84%9F%23&Refer=top)
 
