@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-22 18:09:27
+## 微博今日热榜 更新于 2021-06-22 19:03:01
 1. [上海这百年如何惊艳世界](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%99%E7%99%BE%E5%B9%B4%E5%A6%82%E4%BD%95%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%23&Refer=new_time)
 
 1. [这是蜜雪冰城新歌吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E6%AD%8C%E5%90%97%23&Refer=top)
@@ -550,4 +550,26 @@
 1. [九旬奶奶穿病号服在医院弹钢琴](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E6%97%AC%E5%A5%B6%E5%A5%B6%E7%A9%BF%E7%97%85%E5%8F%B7%E6%9C%8D%E5%9C%A8%E5%8C%BB%E9%99%A2%E5%BC%B9%E9%92%A2%E7%90%B4%23&Refer=top)
 
 1. [疫情封闭期间被邻居妹妹爱心投喂](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E5%B0%81%E9%97%AD%E6%9C%9F%E9%97%B4%E8%A2%AB%E9%82%BB%E5%B1%85%E5%A6%B9%E5%A6%B9%E7%88%B1%E5%BF%83%E6%8A%95%E5%96%82%23&Refer=top)
+
+1. [党旗耀朝阳](https://s.weibo.com//weibo?q=%23%E5%85%9A%E6%97%97%E8%80%80%E6%9C%9D%E9%98%B3%23&Refer=new_time)
+
+1. [彩票中奖发朋友圈炫耀奖金被冒领](https://s.weibo.com//weibo?q=%23%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%AB%E8%80%80%E5%A5%96%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%86%23&Refer=top)
+
+1. [余华第一天上班故意迟到了两个小时](https://s.weibo.com//weibo?q=%23%E4%BD%99%E5%8D%8E%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E7%8F%AD%E6%95%85%E6%84%8F%E8%BF%9F%E5%88%B0%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [冰块炸鸡](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%9D%97%E7%82%B8%E9%B8%A1%23&Refer=top)
+
+1. [小小孩](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%B0%8F%E5%AD%A9&Refer=top)
+
+1. [拜托了冰箱轰趴季定档](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E6%89%98%E4%BA%86%E5%86%B0%E7%AE%B1%E8%BD%B0%E8%B6%B4%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [中国男篮奥运落选赛大名单](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A5%A5%E8%BF%90%E8%90%BD%E9%80%89%E8%B5%9B%E5%A4%A7%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [小学生们最讨厌的网络用语](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%AC%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%23&Refer=top)
+
+1. [深圳4例本土病例均感染Dalta变异株](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B34%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%E5%9D%87%E6%84%9F%E6%9F%93Dalta%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
+
+1. [2米03小伙拍毕业照成全班中轴线](https://s.weibo.com//weibo?q=%232%E7%B1%B303%E5%B0%8F%E4%BC%99%E6%8B%8D%E6%AF%95%E4%B8%9A%E7%85%A7%E6%88%90%E5%85%A8%E7%8F%AD%E4%B8%AD%E8%BD%B4%E7%BA%BF%23&Refer=top)
+
+1. [被骗后搜解决方法泄露信息再被骗](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%AA%97%E5%90%8E%E6%90%9C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%B3%84%E9%9C%B2%E4%BF%A1%E6%81%AF%E5%86%8D%E8%A2%AB%E9%AA%97%23&Refer=top)
 
