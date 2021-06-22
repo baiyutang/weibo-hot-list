@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 00:14:30
+## 微博今日热榜 更新于 2021-06-23 01:20:37
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [彩票中奖发朋友圈炫耀奖金被冒领](https://s.weibo.com//weibo?q=%23%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%82%AB%E8%80%80%E5%A5%96%E9%87%91%E8%A2%AB%E5%86%92%E9%A2%86%23&Refer=top)
 
 1. [RA偷家](https://s.weibo.com//weibo?q=%23RA%E5%81%B7%E5%AE%B6%23&Refer=top)
+
+1. [3分钟看浙江百年路](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E7%9C%8B%E6%B5%99%E6%B1%9F%E7%99%BE%E5%B9%B4%E8%B7%AF%23&Refer=new_time)
+
+1. [吴磊的冰箱好像表情包](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9A%84%E5%86%B0%E7%AE%B1%E5%A5%BD%E5%83%8F%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
 
