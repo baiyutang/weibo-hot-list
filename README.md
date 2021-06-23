@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 02:08:31
+## 微博今日热榜 更新于 2021-06-24 03:02:24
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -134,4 +134,10 @@
 1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
 
 1. [莱万梅开二度](https://s.weibo.com//weibo?q=%E8%8E%B1%E4%B8%87%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [法国 葡萄牙](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%20%E8%91%A1%E8%90%84%E7%89%99&Refer=top)
+
+1. [德国 匈牙利](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD%20%E5%8C%88%E7%89%99%E5%88%A9&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
 
