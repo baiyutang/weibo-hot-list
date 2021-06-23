@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 17:03:31
+## 微博今日热榜 更新于 2021-06-23 18:09:24
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -502,4 +502,48 @@
 1. [整颗荔枝酸奶冻冻](https://s.weibo.com//weibo?q=%23%E6%95%B4%E9%A2%97%E8%8D%94%E6%9E%9D%E9%85%B8%E5%A5%B6%E5%86%BB%E5%86%BB%23&Refer=top)
 
 1. [河南师大一个人的毕业典礼](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B8%88%E5%A4%A7%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&Refer=top)
+
+1. [男生超一本线52分激动捶桌流泪](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E8%B6%85%E4%B8%80%E6%9C%AC%E7%BA%BF52%E5%88%86%E6%BF%80%E5%8A%A8%E6%8D%B6%E6%A1%8C%E6%B5%81%E6%B3%AA%23&Refer=top)
+
+1. [上海月最低工资标准涨到2590元](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%88%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%E6%B6%A8%E5%88%B02590%E5%85%83%23&Refer=top)
+
+1. [台湾地区新冠致死率远超全球平均水平](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E6%96%B0%E5%86%A0%E8%87%B4%E6%AD%BB%E7%8E%87%E8%BF%9C%E8%B6%85%E5%85%A8%E7%90%83%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&Refer=top)
+
+1. [4人在台确诊仍登机赴厦门](https://s.weibo.com//weibo?q=%234%E4%BA%BA%E5%9C%A8%E5%8F%B0%E7%A1%AE%E8%AF%8A%E4%BB%8D%E7%99%BB%E6%9C%BA%E8%B5%B4%E5%8E%A6%E9%97%A8%23&Refer=top)
+
+1. [阿娇认为谈恋爱要简单点](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A8%87%E8%AE%A4%E4%B8%BA%E8%B0%88%E6%81%8B%E7%88%B1%E8%A6%81%E7%AE%80%E5%8D%95%E7%82%B9%23&Refer=top)
+
+1. [王一博加盟湖南卫视毕业礼](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8A%A0%E7%9B%9F%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%AF%95%E4%B8%9A%E7%A4%BC%23&Refer=top)
+
+1. [秦海璐镜头下的刘涛](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%88%98%E6%B6%9B%23&Refer=top)
+
+1. [90多国在联合国人权理事会挺华](https://s.weibo.com//weibo?q=%2390%E5%A4%9A%E5%9B%BD%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E7%90%86%E4%BA%8B%E4%BC%9A%E6%8C%BA%E5%8D%8E%23&Refer=top)
+
+1. [小朋友哄起人来有多可爱](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%93%84%E8%B5%B7%E4%BA%BA%E6%9D%A5%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [朱丹 身上的肉肉是我生娃的勋章](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%B8%B9%20%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%82%89%E8%82%89%E6%98%AF%E6%88%91%E7%94%9F%E5%A8%83%E7%9A%84%E5%8B%8B%E7%AB%A0&Refer=top)
+
+1. [德尔塔毒株究竟有多厉害](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%B0%94%E5%A1%94%E6%AF%92%E6%A0%AA%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3&Refer=top)
+
+1. [妈妈获赠免费雪糕7旬儿子坚持付款](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E8%8E%B7%E8%B5%A0%E5%85%8D%E8%B4%B9%E9%9B%AA%E7%B3%957%E6%97%AC%E5%84%BF%E5%AD%90%E5%9D%9A%E6%8C%81%E4%BB%98%E6%AC%BE%23&Refer=top)
+
+1. [复兴号智能动车组增设自动售货机](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E5%85%B4%E5%8F%B7%E6%99%BA%E8%83%BD%E5%8A%A8%E8%BD%A6%E7%BB%84%E5%A2%9E%E8%AE%BE%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%23&Refer=top)
+
+1. [建党百年文艺演出首次专场演出](https://s.weibo.com//weibo?q=%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E9%A6%96%E6%AC%A1%E4%B8%93%E5%9C%BA%E6%BC%94%E5%87%BA&Refer=top)
+
+1. [德邦快递被约谈](https://s.weibo.com//weibo?q=%E5%BE%B7%E9%82%A6%E5%BF%AB%E9%80%92%E8%A2%AB%E7%BA%A6%E8%B0%88&Refer=top)
+
+1. [云南37公斤警犬嗅出56.35公斤毒品](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%9737%E5%85%AC%E6%96%A4%E8%AD%A6%E7%8A%AC%E5%97%85%E5%87%BA56.35%E5%85%AC%E6%96%A4%E6%AF%92%E5%93%81%23&Refer=top)
+
+1. [三星堆95后坑长](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%8695%E5%90%8E%E5%9D%91%E9%95%BF%23&Refer=top)
+
+1. [欧阳娜娜侧颜照](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E4%BE%A7%E9%A2%9C%E7%85%A7%23&Refer=top)
+
+1. [广东高考6月25日上午放榜](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%836%E6%9C%8825%E6%97%A5%E4%B8%8A%E5%8D%88%E6%94%BE%E6%A6%9C%23&Refer=top)
+
+1. [公司将资助带娃送单的女跑腿师傅](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%8F%B8%E5%B0%86%E8%B5%84%E5%8A%A9%E5%B8%A6%E5%A8%83%E9%80%81%E5%8D%95%E7%9A%84%E5%A5%B3%E8%B7%91%E8%85%BF%E5%B8%88%E5%82%85%23&Refer=top)
+
+1. [新冠疫情在以色列重新暴发](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%87%8D%E6%96%B0%E6%9A%B4%E5%8F%91%23&Refer=top)
+
+1. [原来PPT还能这样用](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5PPT%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E7%94%A8%23&Refer=top)
 
