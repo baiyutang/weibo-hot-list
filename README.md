@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 03:02:24
+## 微博今日热榜 更新于 2021-06-24 04:03:33
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -140,4 +140,12 @@
 1. [德国 匈牙利](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD%20%E5%8C%88%E7%89%99%E5%88%A9&Refer=top)
 
 1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [C罗点球破门](https://s.weibo.com//weibo?q=C%E7%BD%97%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [本泽马点球破门](https://s.weibo.com//weibo?q=%E6%9C%AC%E6%B3%BD%E9%A9%AC%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [洛里拳击达尼洛](https://s.weibo.com//weibo?q=%E6%B4%9B%E9%87%8C%E6%8B%B3%E5%87%BB%E8%BE%BE%E5%B0%BC%E6%B4%9B&Refer=top)
+
+1. [C罗本泽马交换球衣](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%9C%AC%E6%B3%BD%E9%A9%AC%E4%BA%A4%E6%8D%A2%E7%90%83%E8%A1%A3&Refer=top)
 
