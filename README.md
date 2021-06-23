@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 05:02:40
+## 微博今日热榜 更新于 2021-06-24 06:03:12
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -158,4 +158,22 @@
 1. [C罗国家队109个进球](https://s.weibo.com//weibo?q=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F109%E4%B8%AA%E8%BF%9B%E7%90%83&Refer=top)
 
 1. [高考分数线](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
+
+1. [C罗梅开二度](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
+
+1. [莱万哭了](https://s.weibo.com//weibo?q=%E8%8E%B1%E4%B8%87%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [葡萄牙2比2法国](https://s.weibo.com//weibo?q=%E8%91%A1%E8%90%84%E7%89%992%E6%AF%942%E6%B3%95%E5%9B%BD&Refer=top)
+
+1. [18岁的C罗有多帅](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E7%9A%84C%E7%BD%97%E6%9C%89%E5%A4%9A%E5%B8%85%23&Refer=top)
+
+1. [F组好刺激](https://s.weibo.com//weibo?q=F%E7%BB%84%E5%A5%BD%E5%88%BA%E6%BF%80&Refer=top)
+
+1. [法国德国葡萄牙出线](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E5%BE%B7%E5%9B%BD%E8%91%A1%E8%90%84%E7%89%99%E5%87%BA%E7%BA%BF&Refer=top)
+
+1. [欧洲杯淘汰赛对阵](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%AF%B9%E9%98%B5&Refer=top)
+
+1. [葡萄牙将对阵比利时](https://s.weibo.com//weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%B0%86%E5%AF%B9%E9%98%B5%E6%AF%94%E5%88%A9%E6%97%B6&Refer=top)
+
+1. [萨内状态](https://s.weibo.com//weibo?q=%E8%90%A8%E5%86%85%E7%8A%B6%E6%80%81&Refer=top)
 
