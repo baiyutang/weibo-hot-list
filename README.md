@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 01:11:58
+## 微博今日热榜 更新于 2021-06-24 02:08:31
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -116,4 +116,22 @@
 1. [陈思铭看方彬涵的眼神](https://s.weibo.com//weibo?q=%E9%99%88%E6%80%9D%E9%93%AD%E7%9C%8B%E6%96%B9%E5%BD%AC%E6%B6%B5%E7%9A%84%E7%9C%BC%E7%A5%9E&Refer=top)
 
 1. [拉波尔特破门](https://s.weibo.com//weibo?q=%E6%8B%89%E6%B3%A2%E5%B0%94%E7%89%B9%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [习近平与神舟十二号航天员通话](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D%23&Refer=new_time)
+
+1. [张柏芝不当明星会当幼儿园老师](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E4%B8%8D%E5%BD%93%E6%98%8E%E6%98%9F%E4%BC%9A%E5%BD%93%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%23&Refer=top)
+
+1. [瑞典西班牙出线](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%87%BA%E7%BA%BF&Refer=top)
+
+1. [西班牙5比0斯洛伐克](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%995%E6%AF%940%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B&Refer=top)
+
+1. [田勇牺牲](https://s.weibo.com//weibo?q=%23%E7%94%B0%E5%8B%87%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [GAI晒儿子摇摆视频](https://s.weibo.com//weibo?q=%23GAI%E6%99%92%E5%84%BF%E5%AD%90%E6%91%87%E6%91%86%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [瑞典绝杀波兰](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%E7%BB%9D%E6%9D%80%E6%B3%A2%E5%85%B0&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [莱万梅开二度](https://s.weibo.com//weibo?q=%E8%8E%B1%E4%B8%87%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
 
