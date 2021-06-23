@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 21:13:23
+## 微博今日热榜 更新于 2021-06-23 22:03:10
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -642,4 +642,34 @@
 1. [成都天台山发现雌光萤](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A9%E5%8F%B0%E5%B1%B1%E5%8F%91%E7%8E%B0%E9%9B%8C%E5%85%89%E8%90%A4%23&Refer=top)
 
 1. [脑瘫博士靠3根手指研发无障碍地图](https://s.weibo.com//weibo?q=%23%E8%84%91%E7%98%AB%E5%8D%9A%E5%A3%AB%E9%9D%A03%E6%A0%B9%E6%89%8B%E6%8C%87%E7%A0%94%E5%8F%91%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%9C%B0%E5%9B%BE%23&Refer=top)
+
+1. [张晨光 谁看了不想哭](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%99%A8%E5%85%89%20%E8%B0%81%E7%9C%8B%E4%BA%86%E4%B8%8D%E6%83%B3%E5%93%AD&Refer=top)
+
+1. [程潇演的童谣](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E6%BD%87%E6%BC%94%E7%9A%84%E7%AB%A5%E8%B0%A3%23&Refer=top)
+
+1. [心动的信号](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&Refer=top)
+
+1. [Angelababy说被劝多喝热水还挺开心](https://s.weibo.com//weibo?q=%23Angelababy%E8%AF%B4%E8%A2%AB%E5%8A%9D%E5%A4%9A%E5%96%9D%E7%83%AD%E6%B0%B4%E8%BF%98%E6%8C%BA%E5%BC%80%E5%BF%83%23&Refer=top)
+
+1. [李沁张云龙cp感](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E5%BC%A0%E4%BA%91%E9%BE%99cp%E6%84%9F%23&Refer=top)
+
+1. [薇娅带丁真游西湖](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%B8%A6%E4%B8%81%E7%9C%9F%E6%B8%B8%E8%A5%BF%E6%B9%96%23&Refer=top)
+
+1. [虎扑崩了](https://s.weibo.com//weibo?q=%E8%99%8E%E6%89%91%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [丁真薇娅直播](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [陆思诚童谣电梯初见](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%80%9D%E8%AF%9A%E7%AB%A5%E8%B0%A3%E7%94%B5%E6%A2%AF%E5%88%9D%E8%A7%81%23&Refer=top)
+
+1. [成都点亮全城庆祝建党百年](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%82%B9%E4%BA%AE%E5%85%A8%E5%9F%8E%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top)
+
+1. [丁真成立工作室](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&Refer=top)
+
+1. [米热演的明神](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E7%83%AD%E6%BC%94%E7%9A%84%E6%98%8E%E7%A5%9E%23&Refer=top)
+
+1. [航天总师向香港青年发出真诚邀请](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E6%80%BB%E5%B8%88%E5%90%91%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E5%8F%91%E5%87%BA%E7%9C%9F%E8%AF%9A%E9%82%80%E8%AF%B7%23&Refer=top)
+
+1. [一粒片仔癀售卖近千元](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%B2%92%E7%89%87%E4%BB%94%E7%99%80%E5%94%AE%E5%8D%96%E8%BF%91%E5%8D%83%E5%85%83%23&Refer=top)
+
+1. [德邦快递回应被约谈](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E9%82%A6%E5%BF%AB%E9%80%92%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
 
