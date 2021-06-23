@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 12:04:04
+## 微博今日热榜 更新于 2021-06-23 13:02:52
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -310,4 +310,30 @@
 1. [班主任把全班45位同学名字写成诗](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8A%8A%E5%85%A8%E7%8F%AD45%E4%BD%8D%E5%90%8C%E5%AD%A6%E5%90%8D%E5%AD%97%E5%86%99%E6%88%90%E8%AF%97%23&Refer=top)
 
 1. [便利新冠疫苗异地接种](https://s.weibo.com//weibo?q=%23%E4%BE%BF%E5%88%A9%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%BC%82%E5%9C%B0%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [严浩翔少年说唱企划路透](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%B0%91%E5%B9%B4%E8%AF%B4%E5%94%B1%E4%BC%81%E5%88%92%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [连淮伟签约留白](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E6%B7%AE%E4%BC%9F%E7%AD%BE%E7%BA%A6%E7%95%99%E7%99%BD%23&Refer=top)
+
+1. [卖瓜人的一生之敌](https://s.weibo.com//weibo?q=%23%E5%8D%96%E7%93%9C%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E4%B9%8B%E6%95%8C%23&Refer=top)
+
+1. [关晓彤新专辑23](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B0%E4%B8%93%E8%BE%9123%23&Refer=top)
+
+1. [西电送毕业生自研芯片相框](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%94%B5%E9%80%81%E6%AF%95%E4%B8%9A%E7%94%9F%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87%E7%9B%B8%E6%A1%86%23&Refer=top)
+
+1. [艾顿绝杀快船](https://s.weibo.com//weibo?q=%23%E8%89%BE%E9%A1%BF%E7%BB%9D%E6%9D%80%E5%BF%AB%E8%88%B9%23&Refer=top)
+
+1. [广州中考7月10日至12日举行](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%AD%E8%80%837%E6%9C%8810%E6%97%A5%E8%87%B312%E6%97%A5%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [觉醒年代热播年轻人与烈士隔空对话](https://s.weibo.com//weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E7%83%AD%E6%92%AD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8E%E7%83%88%E5%A3%AB%E9%9A%94%E7%A9%BA%E5%AF%B9%E8%AF%9D%23&Refer=top)
+
+1. [女子防监控拍摄走光打伞上班被开除](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%B2%E7%9B%91%E6%8E%A7%E6%8B%8D%E6%91%84%E8%B5%B0%E5%85%89%E6%89%93%E4%BC%9E%E4%B8%8A%E7%8F%AD%E8%A2%AB%E5%BC%80%E9%99%A4%23&Refer=top)
+
+1. [清冷淡颜古风妆](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%86%B7%E6%B7%A1%E9%A2%9C%E5%8F%A4%E9%A3%8E%E5%A6%86%23&Refer=top)
+
+1. [ofo被强制执行1341万](https://s.weibo.com//weibo?q=%23ofo%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C1341%E4%B8%87%23&Refer=top)
+
+1. [西安一高校全班29人有26人读研](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E9%AB%98%E6%A0%A1%E5%85%A8%E7%8F%AD29%E4%BA%BA%E6%9C%8926%E4%BA%BA%E8%AF%BB%E7%A0%94%23&Refer=top)
+
+1. [2021云南高考分数线公布](https://s.weibo.com//weibo?q=%232021%E4%BA%91%E5%8D%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%23&Refer=top)
 
