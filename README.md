@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 07:03:36
+## 微博今日热榜 更新于 2021-06-23 08:15:59
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -150,4 +150,34 @@
 1. [8旬奶奶空箱子举重演技炸裂](https://s.weibo.com//weibo?q=8%E6%97%AC%E5%A5%B6%E5%A5%B6%E7%A9%BA%E7%AE%B1%E5%AD%90%E4%B8%BE%E9%87%8D%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82&Refer=top)
 
 1. [邓伦复古氛围感](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E5%A4%8D%E5%8F%A4%E6%B0%9B%E5%9B%B4%E6%84%9F%23&Refer=top)
+
+1. [高考成绩](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23&Refer=top)
+
+1. [大鹏瘦了好多](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%B9%8F%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23&Refer=top)
+
+1. [丁磊称专业比学校更重要](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A3%8A%E7%A7%B0%E4%B8%93%E4%B8%9A%E6%AF%94%E5%AD%A6%E6%A0%A1%E6%9B%B4%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [孙杨被禁赛四年意味着什么](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A8%E8%A2%AB%E7%A6%81%E8%B5%9B%E5%9B%9B%E5%B9%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [不说再见](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81%23&Refer=top)
+
+1. [云南小象跳水还玩花样游泳](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%8F%E8%B1%A1%E8%B7%B3%E6%B0%B4%E8%BF%98%E7%8E%A9%E8%8A%B1%E6%A0%B7%E6%B8%B8%E6%B3%B3%23&Refer=top)
+
+1. [广东无新增本土确诊和本土无症状](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%97%A0%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E5%92%8C%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [朱一龙 十年后我还是我](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%8D%81%E5%B9%B4%E5%90%8E%E6%88%91%E8%BF%98%E6%98%AF%E6%88%91&Refer=top)
+
+1. [四川绵阳市江油市3.8级地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E5%B8%82%E6%B1%9F%E6%B2%B9%E5%B8%823.8%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [高考志愿填报最全知识点](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%9C%80%E5%85%A8%E7%9F%A5%E8%AF%86%E7%82%B9%23&Refer=top)
+
+1. [榨个果汁也太难了](https://s.weibo.com//weibo?q=%23%E6%A6%A8%E4%B8%AA%E6%9E%9C%E6%B1%81%E4%B9%9F%E5%A4%AA%E9%9A%BE%E4%BA%86%23&Refer=top)
+
+1. [黄浦江上演主题光影秀](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B5%A6%E6%B1%9F%E4%B8%8A%E6%BC%94%E4%B8%BB%E9%A2%98%E5%85%89%E5%BD%B1%E7%A7%80%23&Refer=top)
+
+1. [英格兰小组第一出线](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF%23&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
 
