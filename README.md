@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 06:03:12
+## 微博今日热榜 更新于 2021-06-24 07:03:30
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -176,4 +176,8 @@
 1. [葡萄牙将对阵比利时](https://s.weibo.com//weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%B0%86%E5%AF%B9%E9%98%B5%E6%AF%94%E5%88%A9%E6%97%B6&Refer=top)
 
 1. [萨内状态](https://s.weibo.com//weibo?q=%E8%90%A8%E5%86%85%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [郭麒麟马伯骞抢单也不忘salute](https://s.weibo.com//weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%8A%A2%E5%8D%95%E4%B9%9F%E4%B8%8D%E5%BF%98salute%23&Refer=top)
+
+1. [王珞丹演的刘梦鸢](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%8F%9E%E4%B8%B9%E6%BC%94%E7%9A%84%E5%88%98%E6%A2%A6%E9%B8%A2%23&Refer=top)
 
