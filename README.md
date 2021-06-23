@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 00:10:47
+## 微博今日热榜 更新于 2021-06-24 01:11:58
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -106,4 +106,14 @@
 1. [比特大陆暂停现货矿机销售](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%A4%A7%E9%99%86%E6%9A%82%E5%81%9C%E7%8E%B0%E8%B4%A7%E7%9F%BF%E6%9C%BA%E9%94%80%E5%94%AE%23&Refer=top)
 
 1. [见过最可爱的金鱼](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E9%87%91%E9%B1%BC%23&Refer=top)
+
+1. [斯洛伐克乌龙球](https://s.weibo.com//weibo?q=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E4%B9%8C%E9%BE%99%E7%90%83&Refer=top)
+
+1. [童谣看陈情令](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E8%B0%A3%E7%9C%8B%E9%99%88%E6%83%85%E4%BB%A4%23&Refer=top)
+
+1. [梁牧泽手艺人](https://s.weibo.com//weibo?q=%23%E6%A2%81%E7%89%A7%E6%B3%BD%E6%89%8B%E8%89%BA%E4%BA%BA%23&Refer=top)
+
+1. [陈思铭看方彬涵的眼神](https://s.weibo.com//weibo?q=%E9%99%88%E6%80%9D%E9%93%AD%E7%9C%8B%E6%96%B9%E5%BD%AC%E6%B6%B5%E7%9A%84%E7%9C%BC%E7%A5%9E&Refer=top)
+
+1. [拉波尔特破门](https://s.weibo.com//weibo?q=%E6%8B%89%E6%B3%A2%E5%B0%94%E7%89%B9%E7%A0%B4%E9%97%A8&Refer=top)
 
