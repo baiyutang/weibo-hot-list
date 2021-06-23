@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 11:03:09
+## 微博今日热榜 更新于 2021-06-23 12:04:04
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -280,4 +280,34 @@
 1. [一时竟分不清是猪还是狗](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%97%B6%E7%AB%9F%E5%88%86%E4%B8%8D%E6%B8%85%E6%98%AF%E7%8C%AA%E8%BF%98%E6%98%AF%E7%8B%97%23&Refer=top)
 
 1. [套个圈把老板套走了](https://s.weibo.com//weibo?q=%23%E5%A5%97%E4%B8%AA%E5%9C%88%E6%8A%8A%E8%80%81%E6%9D%BF%E5%A5%97%E8%B5%B0%E4%BA%86%23&Refer=top)
+
+1. [教育部要求严禁炒作高考状元](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%A5%E7%A6%81%E7%82%92%E4%BD%9C%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23&Refer=top)
+
+1. [航天员太空吃播](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E5%90%83%E6%92%AD%23&Refer=top)
+
+1. [薛之谦新歌被人](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B0%E6%AD%8C%E8%A2%AB%E4%BA%BA%23&Refer=top)
+
+1. [卡鲁索 被捕](https://s.weibo.com//weibo?q=%E5%8D%A1%E9%B2%81%E7%B4%A2%20%E8%A2%AB%E6%8D%95&Refer=top)
+
+1. [被唐三藏师徒虐哭了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%94%90%E4%B8%89%E8%97%8F%E5%B8%88%E5%BE%92%E8%99%90%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [嘉人带错超话](https://s.weibo.com//weibo?q=%23%E5%98%89%E4%BA%BA%E5%B8%A6%E9%94%99%E8%B6%85%E8%AF%9D%23&Refer=top)
+
+1. [奥斯卡说快来救救我](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E8%AF%B4%E5%BF%AB%E6%9D%A5%E6%95%91%E6%95%91%E6%88%91%23&Refer=top)
+
+1. [黄明昊红发](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E7%BA%A2%E5%8F%91%23&Refer=top)
+
+1. [杭州某楼盘应援式宣传](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9F%90%E6%A5%BC%E7%9B%98%E5%BA%94%E6%8F%B4%E5%BC%8F%E5%AE%A3%E4%BC%A0%23&Refer=top)
+
+1. [中国航天员的vlog](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E7%9A%84vlog%23&Refer=top)
+
+1. [布克被贝弗利撞出血](https://s.weibo.com//weibo?q=%23%E5%B8%83%E5%85%8B%E8%A2%AB%E8%B4%9D%E5%BC%97%E5%88%A9%E6%92%9E%E5%87%BA%E8%A1%80%23&Refer=top)
+
+1. [江苏公布2021年普通高校招生计划](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%85%AC%E5%B8%832021%E5%B9%B4%E6%99%AE%E9%80%9A%E9%AB%98%E6%A0%A1%E6%8B%9B%E7%94%9F%E8%AE%A1%E5%88%92%23&Refer=top)
+
+1. [神舟十二航天员展示舱外航天服](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E8%88%AA%E5%A4%A9%E5%91%98%E5%B1%95%E7%A4%BA%E8%88%B1%E5%A4%96%E8%88%AA%E5%A4%A9%E6%9C%8D%23&Refer=top)
+
+1. [班主任把全班45位同学名字写成诗](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8A%8A%E5%85%A8%E7%8F%AD45%E4%BD%8D%E5%90%8C%E5%AD%A6%E5%90%8D%E5%AD%97%E5%86%99%E6%88%90%E8%AF%97%23&Refer=top)
+
+1. [便利新冠疫苗异地接种](https://s.weibo.com//weibo?q=%23%E4%BE%BF%E5%88%A9%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%BC%82%E5%9C%B0%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
