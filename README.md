@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 00:11:31
+## 微博今日热榜 更新于 2021-06-25 01:12:40
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [德尔塔变异毒株有多毒](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E6%9C%89%E5%A4%9A%E6%AF%92%23&Refer=top)
 
 1. [安徽励志考生回应上清华](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E5%8A%B1%E5%BF%97%E8%80%83%E7%94%9F%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
+
+1. [麦穗没收到短信](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E7%A9%97%E6%B2%A1%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%23&Refer=top)
+
+1. [如何看待主人搬家看门狗被遗弃](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%BB%E4%BA%BA%E6%90%AC%E5%AE%B6%E7%9C%8B%E9%97%A8%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%23&Refer=top)
+
+1. [为何神药炒作屡屡发生](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BD%95%E7%A5%9E%E8%8D%AF%E7%82%92%E4%BD%9C%E5%B1%A1%E5%B1%A1%E5%8F%91%E7%94%9F%23&Refer=top)
 
