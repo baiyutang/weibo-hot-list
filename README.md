@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 17:08:36
+## 微博今日热榜 更新于 2021-06-24 18:08:38
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -552,4 +552,28 @@
 1. [黑钻烤奶冻乳茶](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%92%BB%E7%83%A4%E5%A5%B6%E5%86%BB%E4%B9%B3%E8%8C%B6%23&Refer=top)
 
 1. [离群独象使坏现场](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E7%BE%A4%E7%8B%AC%E8%B1%A1%E4%BD%BF%E5%9D%8F%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [湖南高考分数](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0&Refer=top)
+
+1. [大象失联后排一字队形追山羊玩](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E5%A4%B1%E8%81%94%E5%90%8E%E6%8E%92%E4%B8%80%E5%AD%97%E9%98%9F%E5%BD%A2%E8%BF%BD%E5%B1%B1%E7%BE%8A%E7%8E%A9%23&Refer=top)
+
+1. [刘亦菲9年没更新朋友圈](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B29%E5%B9%B4%E6%B2%A1%E6%9B%B4%E6%96%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [兰州疫情](https://s.weibo.com//weibo?q=%E5%85%B0%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
+
+1. [欧阳娜娜跨界艺术展](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%B7%A8%E7%95%8C%E8%89%BA%E6%9C%AF%E5%B1%95%23&Refer=top)
+
+1. [四岁男童遭狗啃脸主人称怪他挑逗](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B2%81%E7%94%B7%E7%AB%A5%E9%81%AD%E7%8B%97%E5%95%83%E8%84%B8%E4%B8%BB%E4%BA%BA%E7%A7%B0%E6%80%AA%E4%BB%96%E6%8C%91%E9%80%97%23&Refer=top)
+
+1. [内蒙古一高校院长毕业致辞仅3句话](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E9%AB%98%E6%A0%A1%E9%99%A2%E9%95%BF%E6%AF%95%E4%B8%9A%E8%87%B4%E8%BE%9E%E4%BB%853%E5%8F%A5%E8%AF%9D%23&Refer=top)
+
+1. [王嘉尔真丝衬衫大片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%9C%9F%E4%B8%9D%E8%A1%AC%E8%A1%AB%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [孙芮徒手扛斯外戈](https://s.weibo.com//weibo?q=%23%E5%AD%99%E8%8A%AE%E5%BE%92%E6%89%8B%E6%89%9B%E6%96%AF%E5%A4%96%E6%88%88%23&Refer=top)
+
+1. [大学校长毕业典礼追忆殉职扶贫校友落泪](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%BF%BD%E5%BF%86%E6%AE%89%E8%81%8C%E6%89%B6%E8%B4%AB%E6%A0%A1%E5%8F%8B%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [RNG RW](https://s.weibo.com//weibo?q=RNG%20RW&Refer=top)
+
+1. [原来平衡车还能这么用](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B9%B3%E8%A1%A1%E8%BD%A6%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%94%A8%23&Refer=top)
 
