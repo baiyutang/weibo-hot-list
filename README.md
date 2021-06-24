@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 10:14:24
+## 微博今日热榜 更新于 2021-06-24 11:03:56
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -284,4 +284,46 @@
 1. [你们要的全装星空迷彩来了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BB%AC%E8%A6%81%E7%9A%84%E5%85%A8%E8%A3%85%E6%98%9F%E7%A9%BA%E8%BF%B7%E5%BD%A9%E6%9D%A5%E4%BA%86%23&Refer=top)
 
 1. [高考分数不理想男生拉二胡解忧](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E4%B8%8D%E7%90%86%E6%83%B3%E7%94%B7%E7%94%9F%E6%8B%89%E4%BA%8C%E8%83%A1%E8%A7%A3%E5%BF%A7%23&Refer=top)
+
+1. [广州出现最短14秒传播病例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%87%BA%E7%8E%B0%E6%9C%80%E7%9F%AD14%E7%A7%92%E4%BC%A0%E6%92%AD%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [梁实明年想换文科](https://s.weibo.com//weibo?q=%23%E6%A2%81%E5%AE%9E%E6%98%8E%E5%B9%B4%E6%83%B3%E6%8D%A2%E6%96%87%E7%A7%91%23&Refer=top)
+
+1. [杀毒软件之父死于巴塞罗那监狱](https://s.weibo.com//weibo?q=%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6%E4%B9%8B%E7%88%B6%E6%AD%BB%E4%BA%8E%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E7%9B%91%E7%8B%B1&Refer=top)
+
+1. [河南分数线](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E5%88%86%E6%95%B0%E7%BA%BF&Refer=top)
+
+1. [许凯程潇合体](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%87%AF%E7%A8%8B%E6%BD%87%E5%90%88%E4%BD%93%23&Refer=top)
+
+1. [你能接受外卖提前点送达吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%A4%96%E5%8D%96%E6%8F%90%E5%89%8D%E7%82%B9%E9%80%81%E8%BE%BE%E5%90%97%23&Refer=top)
+
+1. [陕西分数线](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
+
+1. [巴菲特退出盖茨基金会](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%8F%B2%E7%89%B9%E9%80%80%E5%87%BA%E7%9B%96%E8%8C%A8%E5%9F%BA%E9%87%91%E4%BC%9A%23&Refer=top)
+
+1. [严浩翔下车气场](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%8B%E8%BD%A6%E6%B0%94%E5%9C%BA%23&Refer=top)
+
+1. [日本高院判定夫妇必须同姓合宪](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E9%99%A2%E5%88%A4%E5%AE%9A%E5%A4%AB%E5%A6%87%E5%BF%85%E9%A1%BB%E5%90%8C%E5%A7%93%E5%90%88%E5%AE%AA%23&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [林峯写给张馨月的信](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%B3%AF%E5%86%99%E7%BB%99%E5%BC%A0%E9%A6%A8%E6%9C%88%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [银河基金声明](https://s.weibo.com//weibo?q=%23%E9%93%B6%E6%B2%B3%E5%9F%BA%E9%87%91%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [美国疫情](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E7%96%AB%E6%83%85&Refer=top)
+
+1. [吴京的责任感有多强](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E7%9A%84%E8%B4%A3%E4%BB%BB%E6%84%9F%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [百年之诗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E4%B9%8B%E8%AF%97%23&Refer=top)
+
+1. [仅3指能动的脑瘫学子博士毕业](https://s.weibo.com//weibo?q=%23%E4%BB%853%E6%8C%87%E8%83%BD%E5%8A%A8%E7%9A%84%E8%84%91%E7%98%AB%E5%AD%A6%E5%AD%90%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%23&Refer=top)
+
+1. [追星赢家姆巴佩](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E8%B5%A2%E5%AE%B6%E5%A7%86%E5%B7%B4%E4%BD%A9%23&Refer=top)
+
+1. [河南抗癌漫画女孩毕业了](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8A%97%E7%99%8C%E6%BC%AB%E7%94%BB%E5%A5%B3%E5%AD%A9%E6%AF%95%E4%B8%9A%E4%BA%86%23&Refer=top)
+
+1. [服务员社死现场](https://s.weibo.com//weibo?q=%23%E6%9C%8D%E5%8A%A1%E5%91%98%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [毕业生租房注意事项](https://s.weibo.com//weibo?q=%23%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%9F%E6%88%BF%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23&Refer=top)
 
