@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-24 18:08:38
+## 微博今日热榜 更新于 2021-06-24 19:02:59
 1. [冬奥知否](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%A5%E5%90%A6%23&Refer=new_time)
 
 1. [宋祖儿 男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
@@ -576,4 +576,24 @@
 1. [RNG RW](https://s.weibo.com//weibo?q=RNG%20RW&Refer=top)
 
 1. [原来平衡车还能这么用](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B9%B3%E8%A1%A1%E8%BD%A6%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%94%A8%23&Refer=top)
+
+1. [被罗翔的三观惊艳到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%BD%97%E7%BF%94%E7%9A%84%E4%B8%89%E8%A7%82%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [姚琛微博改名](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%23&Refer=top)
+
+1. [李紫婷赖美云重聚](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%B4%AB%E5%A9%B7%E8%B5%96%E7%BE%8E%E4%BA%91%E9%87%8D%E8%81%9A%23&Refer=top)
+
+1. [复兴号实现31个省区市全覆盖](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E5%85%B4%E5%8F%B7%E5%AE%9E%E7%8E%B031%E4%B8%AA%E7%9C%81%E5%8C%BA%E5%B8%82%E5%85%A8%E8%A6%86%E7%9B%96%23&Refer=top)
+
+1. [大四女生毕设为姥爷造智能水壶](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E6%AF%95%E8%AE%BE%E4%B8%BA%E5%A7%A5%E7%88%B7%E9%80%A0%E6%99%BA%E8%83%BD%E6%B0%B4%E5%A3%B6%23&Refer=top)
+
+1. [英国近期确诊中99%感染德尔塔变异株](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%BF%91%E6%9C%9F%E7%A1%AE%E8%AF%8A%E4%B8%AD99%25%E6%84%9F%E6%9F%93%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
+
+1. [夫妻骑行1459公里参加儿子毕业典礼](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E9%AA%91%E8%A1%8C1459%E5%85%AC%E9%87%8C%E5%8F%82%E5%8A%A0%E5%84%BF%E5%AD%90%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&Refer=top)
+
+1. [夏日荔枝白桃乌龙冰茶](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E8%8D%94%E6%9E%9D%E7%99%BD%E6%A1%83%E4%B9%8C%E9%BE%99%E5%86%B0%E8%8C%B6%23&Refer=top)
+
+1. [快手7月将取消大小周](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E6%89%8B7%E6%9C%88%E5%B0%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%23&Refer=top)
+
+1. [美国40头奶牛逃离屠宰场](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD40%E5%A4%B4%E5%A5%B6%E7%89%9B%E9%80%83%E7%A6%BB%E5%B1%A0%E5%AE%B0%E5%9C%BA%23&Refer=top)
 
