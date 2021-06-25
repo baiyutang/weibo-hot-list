@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 10:23:01
+## 微博今日热榜 更新于 2021-06-25 11:03:48
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -240,4 +240,26 @@
 1. [北京高考成绩](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
 
 1. [超朋克的下班方法](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%9C%8B%E5%85%8B%E7%9A%84%E4%B8%8B%E7%8F%AD%E6%96%B9%E6%B3%95%23&Refer=top)
+
+1. [张新成今年最佳女主角没你我不看](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E4%BB%8A%E5%B9%B4%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%B2%A1%E4%BD%A0%E6%88%91%E4%B8%8D%E7%9C%8B%23&Refer=top)
+
+1. [张馨予承诺不再沉迷种花种菜](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%89%BF%E8%AF%BA%E4%B8%8D%E5%86%8D%E6%B2%89%E8%BF%B7%E7%A7%8D%E8%8A%B1%E7%A7%8D%E8%8F%9C%23&Refer=top)
+
+1. [重紫开机](https://s.weibo.com//weibo?q=%23%E9%87%8D%E7%B4%AB%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [萧敬腾在上海接种第二针新冠疫苗](https://s.weibo.com//weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%8E%A5%E7%A7%8D%E7%AC%AC%E4%BA%8C%E9%92%88%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [北京分数线](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%88%86%E6%95%B0%E7%BA%BF&Refer=top)
+
+1. [恋爱长跑就像多米诺骨牌](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1%E9%95%BF%E8%B7%91%E5%B0%B1%E5%83%8F%E5%A4%9A%E7%B1%B3%E8%AF%BA%E9%AA%A8%E7%89%8C%23&Refer=top)
+
+1. [中国新型政党制度白皮书](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9E%8B%E6%94%BF%E5%85%9A%E5%88%B6%E5%BA%A6%E7%99%BD%E7%9A%AE%E4%B9%A6%23&Refer=top)
+
+1. [马达加斯加百万人需食物援助](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E7%99%BE%E4%B8%87%E4%BA%BA%E9%9C%80%E9%A3%9F%E7%89%A9%E6%8F%B4%E5%8A%A9%23&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [国新办新闻发布会](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [00后飞人百米10秒06夺冠](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E9%A3%9E%E4%BA%BA%E7%99%BE%E7%B1%B310%E7%A7%9206%E5%A4%BA%E5%86%A0%23&Refer=top)
 
