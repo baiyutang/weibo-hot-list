@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 16:03:57
+## 微博今日热榜 更新于 2021-06-25 17:08:38
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -450,4 +450,40 @@
 1. [四川松潘千亩薰衣草花海](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9D%BE%E6%BD%98%E5%8D%83%E4%BA%A9%E8%96%B0%E8%A1%A3%E8%8D%89%E8%8A%B1%E6%B5%B7%23&Refer=top)
 
 1. [男子科一考试动用多种设备作弊](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%91%E4%B8%80%E8%80%83%E8%AF%95%E5%8A%A8%E7%94%A8%E5%A4%9A%E7%A7%8D%E8%AE%BE%E5%A4%87%E4%BD%9C%E5%BC%8A%23&Refer=top)
+
+1. [山东高考成绩](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23&Refer=top)
+
+1. [农村弟弟短视频创业供姐上大学](https://s.weibo.com//weibo?q=%23%E5%86%9C%E6%9D%91%E5%BC%9F%E5%BC%9F%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%9B%E4%B8%9A%E4%BE%9B%E5%A7%90%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&Refer=top)
+
+1. [山东分数线](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
+
+1. [程潇 童谣行为请勿上升本人](https://s.weibo.com//weibo?q=%E7%A8%8B%E6%BD%87%20%E7%AB%A5%E8%B0%A3%E8%A1%8C%E4%B8%BA%E8%AF%B7%E5%8B%BF%E4%B8%8A%E5%8D%87%E6%9C%AC%E4%BA%BA&Refer=top)
+
+1. [杜淳王灿合体首封](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B7%B3%E7%8E%8B%E7%81%BF%E5%90%88%E4%BD%93%E9%A6%96%E5%B0%81%23&Refer=top)
+
+1. [霍思燕失恋阵线联盟](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E5%A4%B1%E6%81%8B%E9%98%B5%E7%BA%BF%E8%81%94%E7%9B%9F%23&Refer=top)
+
+1. [学医到底有多香](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E5%8C%BB%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%A6%99%23&Refer=top)
+
+1. [雪顶啵啵葡萄撞撞奶](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E9%A1%B6%E5%95%B5%E5%95%B5%E8%91%A1%E8%90%84%E6%92%9E%E6%92%9E%E5%A5%B6%23&Refer=top)
+
+1. [舒畅李滨再合体](https://s.weibo.com//weibo?q=%23%E8%88%92%E7%95%85%E6%9D%8E%E6%BB%A8%E5%86%8D%E5%90%88%E4%BD%93%23&Refer=top)
+
+1. [ATM跨行取现手续费每笔不超过3.5元](https://s.weibo.com//weibo?q=%23ATM%E8%B7%A8%E8%A1%8C%E5%8F%96%E7%8E%B0%E6%89%8B%E7%BB%AD%E8%B4%B9%E6%AF%8F%E7%AC%94%E4%B8%8D%E8%B6%85%E8%BF%873.5%E5%85%83%23&Refer=top)
+
+1. [刘亦菲杨幂同框旧照](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E5%B9%82%E5%90%8C%E6%A1%86%E6%97%A7%E7%85%A7%23&Refer=top)
+
+1. [西瓜快乐桶](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%93%9C%E5%BF%AB%E4%B9%90%E6%A1%B6%23&Refer=top)
+
+1. [微软CEO暗讽苹果](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E8%BD%AFCEO%E6%9A%97%E8%AE%BD%E8%8B%B9%E6%9E%9C%23&Refer=top)
+
+1. [女生化妆后到底有多美](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8C%96%E5%A6%86%E5%90%8E%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
+
+1. [片仔癀回应一粒难求](https://s.weibo.com//weibo?q=%23%E7%89%87%E4%BB%94%E7%99%80%E5%9B%9E%E5%BA%94%E4%B8%80%E7%B2%92%E9%9A%BE%E6%B1%82%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [AI修复课本中白求恩救治伤员场景](https://s.weibo.com//weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E8%AF%BE%E6%9C%AC%E4%B8%AD%E7%99%BD%E6%B1%82%E6%81%A9%E6%95%91%E6%B2%BB%E4%BC%A4%E5%91%98%E5%9C%BA%E6%99%AF%23&Refer=top)
+
+1. [朱一龙白宇同框](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%99%BD%E5%AE%87%E5%90%8C%E6%A1%86&Refer=top)
 
