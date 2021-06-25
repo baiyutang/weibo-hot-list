@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 15:03:25
+## 微博今日热榜 更新于 2021-06-25 16:03:57
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -406,4 +406,48 @@
 1. [LV发布虚假广告被罚20万](https://s.weibo.com//weibo?q=%23LV%E5%8F%91%E5%B8%83%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A20%E4%B8%87%23&Refer=top)
 
 1. [中消协点名钟薛高](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%82%B9%E5%90%8D%E9%92%9F%E8%96%9B%E9%AB%98%23&Refer=top)
+
+1. [武磊感染新冠后一度想放弃留洋](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E7%A3%8A%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8E%E4%B8%80%E5%BA%A6%E6%83%B3%E6%94%BE%E5%BC%83%E7%95%99%E6%B4%8B%23&Refer=top)
+
+1. [安徽高考684分截肢考生母亲回应](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83684%E5%88%86%E6%88%AA%E8%82%A2%E8%80%83%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [杨洋帮赵露思喷驱蚊水](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%B8%AE%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%96%B7%E9%A9%B1%E8%9A%8A%E6%B0%B4%23&Refer=top)
+
+1. [男子叫了代驾仍酒驾被查](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%AB%E4%BA%86%E4%BB%A3%E9%A9%BE%E4%BB%8D%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%23&Refer=top)
+
+1. [11岁男孩泳池教科书式救幼童](https://s.weibo.com//weibo?q=%2311%E5%B2%81%E7%94%B7%E5%AD%A9%E6%B3%B3%E6%B1%A0%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E6%95%91%E5%B9%BC%E7%AB%A5%23&Refer=top)
+
+1. [中国恢复联合国合法席位50周年主题标识](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%81%A2%E5%A4%8D%E8%81%94%E5%90%88%E5%9B%BD%E5%90%88%E6%B3%95%E5%B8%AD%E4%BD%8D50%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%A0%87%E8%AF%86%23&Refer=top)
+
+1. [央视曝致幻毒品蘑菇伪装成巧克力](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%87%B4%E5%B9%BB%E6%AF%92%E5%93%81%E8%98%91%E8%8F%87%E4%BC%AA%E8%A3%85%E6%88%90%E5%B7%A7%E5%85%8B%E5%8A%9B%23&Refer=top)
+
+1. [孕育一厘米适合耕种的土地要上百年](https://s.weibo.com//weibo?q=%23%E5%AD%95%E8%82%B2%E4%B8%80%E5%8E%98%E7%B1%B3%E9%80%82%E5%90%88%E8%80%95%E7%A7%8D%E7%9A%84%E5%9C%9F%E5%9C%B0%E8%A6%81%E4%B8%8A%E7%99%BE%E5%B9%B4%23&Refer=top)
+
+1. [加拿大又一学校发现751个无名墓](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%88%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%8E%B0751%E4%B8%AA%E6%97%A0%E5%90%8D%E5%A2%93%23&Refer=top)
+
+1. [拜登故意对记者窃窃私语](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E6%95%85%E6%84%8F%E5%AF%B9%E8%AE%B0%E8%80%85%E7%AA%83%E7%AA%83%E7%A7%81%E8%AF%AD%23&Refer=top)
+
+1. [比伯游客自拍是林更新教的吗](https://s.weibo.com//weibo?q=%23%E6%AF%94%E4%BC%AF%E6%B8%B8%E5%AE%A2%E8%87%AA%E6%8B%8D%E6%98%AF%E6%9E%97%E6%9B%B4%E6%96%B0%E6%95%99%E7%9A%84%E5%90%97%23&Refer=top)
+
+1. [中消协点名七度空间和驴嫂夫妇](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%82%B9%E5%90%8D%E4%B8%83%E5%BA%A6%E7%A9%BA%E9%97%B4%E5%92%8C%E9%A9%B4%E5%AB%82%E5%A4%AB%E5%A6%87%23&Refer=top)
+
+1. [大熊猫奔袭时速超40公里](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%A5%94%E8%A2%AD%E6%97%B6%E9%80%9F%E8%B6%8540%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [中消协点名快递不送货上门](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%82%B9%E5%90%8D%E5%BF%AB%E9%80%92%E4%B8%8D%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%23&Refer=top)
+
+1. [中国百年对比视频](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%99%BE%E5%B9%B4%E5%AF%B9%E6%AF%94%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [防溺水爷爷](https://s.weibo.com//weibo?q=%23%E9%98%B2%E6%BA%BA%E6%B0%B4%E7%88%B7%E7%88%B7%23&Refer=top)
+
+1. [济南将正式命名王尽美路邓恩铭路](https://s.weibo.com//weibo?q=%E6%B5%8E%E5%8D%97%E5%B0%86%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E7%8E%8B%E5%B0%BD%E7%BE%8E%E8%B7%AF%E9%82%93%E6%81%A9%E9%93%AD%E8%B7%AF&Refer=top)
+
+1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
+
+1. [100年前她坐船头守护中共一大召开](https://s.weibo.com//weibo?q=%23100%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%9D%90%E8%88%B9%E5%A4%B4%E5%AE%88%E6%8A%A4%E4%B8%AD%E5%85%B1%E4%B8%80%E5%A4%A7%E5%8F%AC%E5%BC%80%23&Refer=top)
+
+1. [女生拥有了少年感能有多帅](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8B%A5%E6%9C%89%E4%BA%86%E5%B0%91%E5%B9%B4%E6%84%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B8%85%23&Refer=top)
+
+1. [四川松潘千亩薰衣草花海](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9D%BE%E6%BD%98%E5%8D%83%E4%BA%A9%E8%96%B0%E8%A1%A3%E8%8D%89%E8%8A%B1%E6%B5%B7%23&Refer=top)
+
+1. [男子科一考试动用多种设备作弊](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%91%E4%B8%80%E8%80%83%E8%AF%95%E5%8A%A8%E7%94%A8%E5%A4%9A%E7%A7%8D%E8%AE%BE%E5%A4%87%E4%BD%9C%E5%BC%8A%23&Refer=top)
 
