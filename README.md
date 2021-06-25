@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 00:06:30
+## 微博今日热榜 更新于 2021-06-26 01:18:27
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -106,4 +106,24 @@
 1. [变成你的那一天](https://s.weibo.com//weibo?q=%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9&Refer=top)
 
 1. [全国失散时间最长的兄弟团圆](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%B1%E6%95%A3%E6%97%B6%E9%97%B4%E6%9C%80%E9%95%BF%E7%9A%84%E5%85%84%E5%BC%9F%E5%9B%A2%E5%9C%86%23&Refer=top)
+
+1. [福建提前打铃高考考点多人被处理](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%8F%90%E5%89%8D%E6%89%93%E9%93%83%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23&Refer=top)
+
+1. [师傅 他就是梁靖康](https://s.weibo.com//weibo?q=%E5%B8%88%E5%82%85%20%E4%BB%96%E5%B0%B1%E6%98%AF%E6%A2%81%E9%9D%96%E5%BA%B7&Refer=top)
+
+1. [锡京是秀莲亲生女儿](https://s.weibo.com//weibo?q=%23%E9%94%A1%E4%BA%AC%E6%98%AF%E7%A7%80%E8%8E%B2%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%23&Refer=top)
+
+1. [支付宝收钱码免费提现服务再延长](https://s.weibo.com//weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E9%92%B1%E7%A0%81%E5%85%8D%E8%B4%B9%E6%8F%90%E7%8E%B0%E6%9C%8D%E5%8A%A1%E5%86%8D%E5%BB%B6%E9%95%BF%23&Refer=top)
+
+1. [支付宝财付通响应降费倡议](https://s.weibo.com//weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B4%A2%E4%BB%98%E9%80%9A%E5%93%8D%E5%BA%94%E9%99%8D%E8%B4%B9%E5%80%A1%E8%AE%AE%23&Refer=top)
+
+1. [多犹豫一秒就是不尊重马云](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E7%8A%B9%E8%B1%AB%E4%B8%80%E7%A7%92%E5%B0%B1%E6%98%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E9%A9%AC%E4%BA%91%23&Refer=top)
+
+1. [张艺兴namanana灵感来自彭彭和丁满](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4namanana%E7%81%B5%E6%84%9F%E6%9D%A5%E8%87%AA%E5%BD%AD%E5%BD%AD%E5%92%8C%E4%B8%81%E6%BB%A1%23&Refer=top)
+
+1. [蔡徐坤好聪明](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A5%BD%E8%81%AA%E6%98%8E%23&Refer=top)
+
+1. [蓝心洁给林楠笙做的最后一顿饭](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%BB%99%E6%9E%97%E6%A5%A0%E7%AC%99%E5%81%9A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%BF%E9%A5%AD%23&Refer=top)
+
+1. [刑侦日记](https://s.weibo.com//weibo?q=%E5%88%91%E4%BE%A6%E6%97%A5%E8%AE%B0&Refer=top)
 
