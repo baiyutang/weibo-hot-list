@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 19:03:00
+## 微博今日热榜 更新于 2021-06-25 20:05:38
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -560,4 +560,24 @@
 1. [宿舍阿姨给的安全感](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E8%88%8D%E9%98%BF%E5%A7%A8%E7%BB%99%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23&Refer=top)
 
 1. [高校保安自学英语做外贸月入上万](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E4%BF%9D%E5%AE%89%E8%87%AA%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%81%9A%E5%A4%96%E8%B4%B8%E6%9C%88%E5%85%A5%E4%B8%8A%E4%B8%87%23&Refer=top)
+
+1. [怎样判断宾馆里是否被安装摄像头](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E5%88%A4%E6%96%AD%E5%AE%BE%E9%A6%86%E9%87%8C%E6%98%AF%E5%90%A6%E8%A2%AB%E5%AE%89%E8%A3%85%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
+
+1. [浙江分数线](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
+
+1. [3分钟9名医生冲出抢救心梗男子](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F9%E5%90%8D%E5%8C%BB%E7%94%9F%E5%86%B2%E5%87%BA%E6%8A%A2%E6%95%91%E5%BF%83%E6%A2%97%E7%94%B7%E5%AD%90%23&Refer=top)
+
+1. [男生毕业典礼上对全系女生道歉](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E5%AF%B9%E5%85%A8%E7%B3%BB%E5%A5%B3%E7%94%9F%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [岳阳统计局鼓励顺产缩短生育周期](https://s.weibo.com//weibo?q=%23%E5%B2%B3%E9%98%B3%E7%BB%9F%E8%AE%A1%E5%B1%80%E9%BC%93%E5%8A%B1%E9%A1%BA%E4%BA%A7%E7%BC%A9%E7%9F%AD%E7%94%9F%E8%82%B2%E5%91%A8%E6%9C%9F%23&Refer=top)
+
+1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
+
+1. [官兵沙漠吃上四菜一汤](https://s.weibo.com//weibo?q=%23%E5%AE%98%E5%85%B5%E6%B2%99%E6%BC%A0%E5%90%83%E4%B8%8A%E5%9B%9B%E8%8F%9C%E4%B8%80%E6%B1%A4%23&Refer=top)
+
+1. [离群公象进村在屋檐下呼呼大睡](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E7%BE%A4%E5%85%AC%E8%B1%A1%E8%BF%9B%E6%9D%91%E5%9C%A8%E5%B1%8B%E6%AA%90%E4%B8%8B%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%23&Refer=top)
+
+1. [东京奥运海外代表团6人确诊](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%A1%A8%E5%9B%A26%E4%BA%BA%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [C罗教迷你罗念名字结果被整懵](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%95%99%E8%BF%B7%E4%BD%A0%E7%BD%97%E5%BF%B5%E5%90%8D%E5%AD%97%E7%BB%93%E6%9E%9C%E8%A2%AB%E6%95%B4%E6%87%B5%23&Refer=top)
 
