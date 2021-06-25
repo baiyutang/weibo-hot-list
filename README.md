@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 22:08:44
+## 微博今日热榜 更新于 2021-06-25 23:03:40
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -664,4 +664,38 @@
 1. [赵立坚祝大家周末愉快](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%A5%9D%E5%A4%A7%E5%AE%B6%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%23&Refer=top)
 
 1. [台州至金华只需1.5小时](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%B7%9E%E8%87%B3%E9%87%91%E5%8D%8E%E5%8F%AA%E9%9C%801.5%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [李沁 每次穿上白衣我都热血沸腾](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%B2%81%20%E6%AF%8F%E6%AC%A1%E7%A9%BF%E4%B8%8A%E7%99%BD%E8%A1%A3%E6%88%91%E9%83%BD%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE&Refer=top)
+
+1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [郑乃馨问细思极恐和司机的关系](https://s.weibo.com//weibo?q=%23%E9%83%91%E4%B9%83%E9%A6%A8%E9%97%AE%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E5%92%8C%E5%8F%B8%E6%9C%BA%E7%9A%84%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [原来王嘉尔张哲瀚早就认识](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8E%8B%E5%98%89%E5%B0%94%E5%BC%A0%E5%93%B2%E7%80%9A%E6%97%A9%E5%B0%B1%E8%AE%A4%E8%AF%86%23&Refer=top)
+
+1. [杨迪杨紫版猪八戒背媳妇](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%9D%A8%E7%B4%AB%E7%89%88%E7%8C%AA%E5%85%AB%E6%88%92%E8%83%8C%E5%AA%B3%E5%A6%87%23&Refer=top)
+
+1. [航天员入住天宫一周了](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%85%A5%E4%BD%8F%E5%A4%A9%E5%AE%AB%E4%B8%80%E5%91%A8%E4%BA%86%23&Refer=top)
+
+1. [王嘉尔挑战悬崖秋千](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%8C%91%E6%88%98%E6%82%AC%E5%B4%96%E7%A7%8B%E5%8D%83%23&Refer=top)
+
+1. [南方地区将现入汛来最强降雨过程](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E5%9C%B0%E5%8C%BA%E5%B0%86%E7%8E%B0%E5%85%A5%E6%B1%9B%E6%9D%A5%E6%9C%80%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%BF%87%E7%A8%8B%23&Refer=top)
+
+1. [萌探探探案](https://s.weibo.com//weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top)
+
+1. [宋妍霏 谁能想到全家在这里吹唢呐](https://s.weibo.com//weibo?q=%E5%AE%8B%E5%A6%8D%E9%9C%8F%20%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E5%85%A8%E5%AE%B6%E5%9C%A8%E8%BF%99%E9%87%8C%E5%90%B9%E5%94%A2%E5%91%90&Refer=top)
+
+1. [流鼻血时仰头是错误止血方法](https://s.weibo.com//weibo?q=%23%E6%B5%81%E9%BC%BB%E8%A1%80%E6%97%B6%E4%BB%B0%E5%A4%B4%E6%98%AF%E9%94%99%E8%AF%AF%E6%AD%A2%E8%A1%80%E6%96%B9%E6%B3%95%23&Refer=top)
+
+1. [张晚意演讲烈士的告白](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%BC%94%E8%AE%B2%E7%83%88%E5%A3%AB%E7%9A%84%E5%91%8A%E7%99%BD%23&Refer=top)
+
+1. [江熠余声声双向告白](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%86%A0%E4%BD%99%E5%A3%B0%E5%A3%B0%E5%8F%8C%E5%90%91%E5%91%8A%E7%99%BD%23&Refer=top)
+
+1. [妈妈背上学的女孩高考超本科线80分](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E8%83%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E8%B6%85%E6%9C%AC%E7%A7%91%E7%BA%BF80%E5%88%86%23&Refer=top)
+
+1. [百度芯片业务成立独立芯片公司](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%BA%A6%E8%8A%AF%E7%89%87%E4%B8%9A%E5%8A%A1%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [纪中原牺牲](https://s.weibo.com//weibo?q=%23%E7%BA%AA%E4%B8%AD%E5%8E%9F%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [赵本山女儿答应男友求婚](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E7%AD%94%E5%BA%94%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A%23&Refer=top)
 
