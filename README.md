@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 11:03:48
+## 微博今日热榜 更新于 2021-06-25 12:04:40
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -262,4 +262,40 @@
 1. [国新办新闻发布会](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
 
 1. [00后飞人百米10秒06夺冠](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E9%A3%9E%E4%BA%BA%E7%99%BE%E7%B1%B310%E7%A7%9206%E5%A4%BA%E5%86%A0%23&Refer=top)
+
+1. [四川同校两个陈静怡高考高分](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%90%8C%E6%A0%A1%E4%B8%A4%E4%B8%AA%E9%99%88%E9%9D%99%E6%80%A1%E9%AB%98%E8%80%83%E9%AB%98%E5%88%86%23&Refer=top)
+
+1. [HPV疫苗是如何起作用的](https://s.weibo.com//weibo?q=%23HPV%E7%96%AB%E8%8B%97%E6%98%AF%E5%A6%82%E4%BD%95%E8%B5%B7%E4%BD%9C%E7%94%A8%E7%9A%84%23&Refer=top)
+
+1. [科学家一度委屈到哭](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E5%BA%A6%E5%A7%94%E5%B1%88%E5%88%B0%E5%93%AD%23&Refer=top)
+
+1. [张新成梁洁一日情侣生活](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%A2%81%E6%B4%81%E4%B8%80%E6%97%A5%E6%83%85%E4%BE%A3%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [都暻秀将solo出道](https://s.weibo.com//weibo?q=%23%E9%83%BD%E6%9A%BB%E7%A7%80%E5%B0%86solo%E5%87%BA%E9%81%93%23&Refer=top)
+
+1. [高考分数不好你如何解忧的](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E4%B8%8D%E5%A5%BD%E4%BD%A0%E5%A6%82%E4%BD%95%E8%A7%A3%E5%BF%A7%E7%9A%84%23&Refer=top)
+
+1. [你们那好好说中文得判几年](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BB%AC%E9%82%A3%E5%A5%BD%E5%A5%BD%E8%AF%B4%E4%B8%AD%E6%96%87%E5%BE%97%E5%88%A4%E5%87%A0%E5%B9%B4%23&Refer=top)
+
+1. [北京高考前20名考生成绩暂不公布](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%89%8D20%E5%90%8D%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E6%9A%82%E4%B8%8D%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [郑州大玉米惊艳灯光秀](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A7%E7%8E%89%E7%B1%B3%E6%83%8A%E8%89%B3%E7%81%AF%E5%85%89%E7%A7%80%23&Refer=top)
+
+1. [乔治压哨三分](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%B2%BB%E5%8E%8B%E5%93%A8%E4%B8%89%E5%88%86%23&Refer=top)
+
+1. [佩恩受伤](https://s.weibo.com//weibo?q=%23%E4%BD%A9%E6%81%A9%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [蒙古包版的肯德基](https://s.weibo.com//weibo?q=%E8%92%99%E5%8F%A4%E5%8C%85%E7%89%88%E7%9A%84%E8%82%AF%E5%BE%B7%E5%9F%BA&Refer=top)
+
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top)
+
+1. [我和我们在一起定档](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E4%BB%AC%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [外卖人员有义务帮扔垃圾吗](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%8D%96%E4%BA%BA%E5%91%98%E6%9C%89%E4%B9%89%E5%8A%A1%E5%B8%AE%E6%89%94%E5%9E%83%E5%9C%BE%E5%90%97%23&Refer=top)
+
+1. [跳远社死现场](https://s.weibo.com//weibo?q=%23%E8%B7%B3%E8%BF%9C%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [猝不及防的进球瞬间](https://s.weibo.com//weibo?q=%23%E7%8C%9D%E4%B8%8D%E5%8F%8A%E9%98%B2%E7%9A%84%E8%BF%9B%E7%90%83%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [偶遇山鸡云南野象群保护象宝宝](https://s.weibo.com//weibo?q=%23%E5%81%B6%E9%81%87%E5%B1%B1%E9%B8%A1%E4%BA%91%E5%8D%97%E9%87%8E%E8%B1%A1%E7%BE%A4%E4%BF%9D%E6%8A%A4%E8%B1%A1%E5%AE%9D%E5%AE%9D%23&Refer=top)
 
