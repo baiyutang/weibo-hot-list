@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 09:52:18
+## 微博今日热榜 更新于 2021-06-25 10:23:01
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -222,4 +222,22 @@
 1. [田勇 意难平](https://s.weibo.com//weibo?q=%E7%94%B0%E5%8B%87%20%E6%84%8F%E9%9A%BE%E5%B9%B3&Refer=top)
 
 1. [保罗复出](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E7%BD%97%E5%A4%8D%E5%87%BA%23&Refer=top)
+
+1. [地球可能已被外星系观察好多年了](https://s.weibo.com//weibo?q=%23%E5%9C%B0%E7%90%83%E5%8F%AF%E8%83%BD%E5%B7%B2%E8%A2%AB%E5%A4%96%E6%98%9F%E7%B3%BB%E8%A7%82%E5%AF%9F%E5%A5%BD%E5%A4%9A%E5%B9%B4%E4%BA%86%23&Refer=top)
+
+1. [78年王阳状态](https://s.weibo.com//weibo?q=%2378%E5%B9%B4%E7%8E%8B%E9%98%B3%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [骑车玩手机撞损宾利女子被找到](https://s.weibo.com//weibo?q=%23%E9%AA%91%E8%BD%A6%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%92%9E%E6%8D%9F%E5%AE%BE%E5%88%A9%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%89%BE%E5%88%B0%23&Refer=top)
+
+1. [许凯 你带我回家吧](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%87%AF%20%E4%BD%A0%E5%B8%A6%E6%88%91%E5%9B%9E%E5%AE%B6%E5%90%A7&Refer=top)
+
+1. [广东高考分数线](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
+
+1. [小龙虾价格低位反弹](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%B7%E6%A0%BC%E4%BD%8E%E4%BD%8D%E5%8F%8D%E5%BC%B9%23&Refer=top)
+
+1. [西藏拉林铁路全线通车](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E6%8B%89%E6%9E%97%E9%93%81%E8%B7%AF%E5%85%A8%E7%BA%BF%E9%80%9A%E8%BD%A6%23&Refer=top)
+
+1. [北京高考成绩](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [超朋克的下班方法](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%9C%8B%E5%85%8B%E7%9A%84%E4%B8%8B%E7%8F%AD%E6%96%B9%E6%B3%95%23&Refer=top)
 
