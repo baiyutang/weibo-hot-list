@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 17:08:38
+## 微博今日热榜 更新于 2021-06-25 18:04:35
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
@@ -486,4 +486,32 @@
 1. [AI修复课本中白求恩救治伤员场景](https://s.weibo.com//weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E8%AF%BE%E6%9C%AC%E4%B8%AD%E7%99%BD%E6%B1%82%E6%81%A9%E6%95%91%E6%B2%BB%E4%BC%A4%E5%91%98%E5%9C%BA%E6%99%AF%23&Refer=top)
 
 1. [朱一龙白宇同框](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%99%BD%E5%AE%87%E5%90%8C%E6%A1%86&Refer=top)
+
+1. [班主任送12名660分以上学生7日游](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%80%8112%E5%90%8D660%E5%88%86%E4%BB%A5%E4%B8%8A%E5%AD%A6%E7%94%9F7%E6%97%A5%E6%B8%B8%23&Refer=top)
+
+1. [女孩高考数学满分妈妈回应扎心了](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%89%8E%E5%BF%83%E4%BA%86%23&Refer=top)
+
+1. [中餐厅5路透](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%855%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [陈学冬买好看的黄景瑜买好用的](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%AD%A6%E5%86%AC%E4%B9%B0%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%BB%84%E6%99%AF%E7%91%9C%E4%B9%B0%E5%A5%BD%E7%94%A8%E7%9A%84%23&Refer=top)
+
+1. [两大象抢饭打架和好发现象群走了](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%A4%A7%E8%B1%A1%E6%8A%A2%E9%A5%AD%E6%89%93%E6%9E%B6%E5%92%8C%E5%A5%BD%E5%8F%91%E7%8E%B0%E8%B1%A1%E7%BE%A4%E8%B5%B0%E4%BA%86%23&Refer=top)
+
+1. [四川发布毒蘑菇风险预警](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%91%E5%B8%83%E6%AF%92%E8%98%91%E8%8F%87%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [以色列发现未知人类化石](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E7%8E%B0%E6%9C%AA%E7%9F%A5%E4%BA%BA%E7%B1%BB%E5%8C%96%E7%9F%B3%23&Refer=top)
+
+1. [象群去哪象宝宝说了算](https://s.weibo.com//weibo?q=%23%E8%B1%A1%E7%BE%A4%E5%8E%BB%E5%93%AA%E8%B1%A1%E5%AE%9D%E5%AE%9D%E8%AF%B4%E4%BA%86%E7%AE%97%23&Refer=top)
+
+1. [日本拉面店只能站着吃](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E5%8F%AA%E8%83%BD%E7%AB%99%E7%9D%80%E5%90%83%23&Refer=top)
+
+1. [女医生跪地心肺复苏膝盖磨破化脓](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E8%B7%AA%E5%9C%B0%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E8%86%9D%E7%9B%96%E7%A3%A8%E7%A0%B4%E5%8C%96%E8%84%93%23&Refer=top)
+
+1. [北京明白回应网友关注](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%85%B3%E6%B3%A8%23&Refer=top)
+
+1. [糊弄学大师都不敢这样聊天](https://s.weibo.com//weibo?q=%23%E7%B3%8A%E5%BC%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E9%83%BD%E4%B8%8D%E6%95%A2%E8%BF%99%E6%A0%B7%E8%81%8A%E5%A4%A9%23&Refer=top)
+
+1. [彩虹啵啵椰青果冻](https://s.weibo.com//weibo?q=%23%E5%BD%A9%E8%99%B9%E5%95%B5%E5%95%B5%E6%A4%B0%E9%9D%92%E6%9E%9C%E5%86%BB%23&Refer=top)
+
+1. [男子高价买装备驾考作弊被抓](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E4%BB%B7%E4%B9%B0%E8%A3%85%E5%A4%87%E9%A9%BE%E8%80%83%E4%BD%9C%E5%BC%8A%E8%A2%AB%E6%8A%93%23&Refer=top)
 
