@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 06:03:40
+## 微博今日热榜 更新于 2021-06-26 07:03:32
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -134,4 +134,6 @@
 1. [陈楚生陆虎合唱水星记](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E9%99%86%E8%99%8E%E5%90%88%E5%94%B1%E6%B0%B4%E6%98%9F%E8%AE%B0%23&Refer=top)
 
 1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
+
+1. [林允酷飒黑色露肩背心裙](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%85%81%E9%85%B7%E9%A3%92%E9%BB%91%E8%89%B2%E9%9C%B2%E8%82%A9%E8%83%8C%E5%BF%83%E8%A3%99%23&Refer=top)
 
