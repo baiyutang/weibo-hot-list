@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 03:02:36
+## 微博今日热榜 更新于 2021-06-27 04:03:22
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -132,4 +132,6 @@
 1. [意大利 奥地利](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E5%A5%A5%E5%9C%B0%E5%88%A9&Refer=top)
 
 1. [丹麦4比0威尔士](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E9%BA%A64%E6%AF%940%E5%A8%81%E5%B0%94%E5%A3%AB%23&Refer=top)
+
+1. [心疼贝尔](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E8%B4%9D%E5%B0%94&Refer=top)
 
