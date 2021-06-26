@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 07:03:32
+## 微博今日热榜 更新于 2021-06-26 08:14:27
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -136,4 +136,22 @@
 1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
 
 1. [林允酷飒黑色露肩背心裙](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%85%81%E9%85%B7%E9%A3%92%E9%BB%91%E8%89%B2%E9%9C%B2%E8%82%A9%E8%83%8C%E5%BF%83%E8%A3%99%23&Refer=top)
+
+1. [钟南山呼吁未成年人和老人加强疫苗接种](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E5%91%BC%E5%90%81%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%92%8C%E8%80%81%E4%BA%BA%E5%8A%A0%E5%BC%BA%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=top)
+
+1. [2岁宝宝突然告白萌化老爸](https://s.weibo.com//weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%AA%81%E7%84%B6%E5%91%8A%E7%99%BD%E8%90%8C%E5%8C%96%E8%80%81%E7%88%B8%23&Refer=top)
+
+1. [马嘉祺 我没有达到文化课分数线](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%20%E6%88%91%E6%B2%A1%E6%9C%89%E8%BE%BE%E5%88%B0%E6%96%87%E5%8C%96%E8%AF%BE%E5%88%86%E6%95%B0%E7%BA%BF&Refer=top)
+
+1. [新疆那拉提夏日美景如画](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E9%82%A3%E6%8B%89%E6%8F%90%E5%A4%8F%E6%97%A5%E7%BE%8E%E6%99%AF%E5%A6%82%E7%94%BB%23&Refer=top)
+
+1. [1921](https://s.weibo.com//weibo?q=1921&Refer=top)
+
+1. [张新成太苏了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%A4%AA%E8%8B%8F%E4%BA%86%23&Refer=top)
+
+1. [彭昱畅开除草机翻车](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E5%BC%80%E9%99%A4%E8%8D%89%E6%9C%BA%E7%BF%BB%E8%BD%A6%23&Refer=top)
+
+1. [广东连续4天无新增本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BF%9E%E7%BB%AD4%E5%A4%A9%E6%97%A0%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
 
