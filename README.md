@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 21:10:42
+## 微博今日热榜 更新于 2021-06-26 22:02:59
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -556,4 +556,40 @@
 1. [林楠笙朱怡贞负伤落水](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%A5%A0%E7%AC%99%E6%9C%B1%E6%80%A1%E8%B4%9E%E8%B4%9F%E4%BC%A4%E8%90%BD%E6%B0%B4%23&Refer=top)
 
 1. [FPX扳平比分](https://s.weibo.com//weibo?q=%23FPX%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86%23&Refer=top)
+
+1. [马嘉祺 什么是快乐星球](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%20%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83&Refer=top)
+
+1. [张翰宋丹丹回应尴尬名场面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%9B%9E%E5%BA%94%E5%B0%B4%E5%B0%AC%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [鹿晗紫发造型](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%B4%AB%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [清华老教师与年轻人合唱](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E8%80%81%E6%95%99%E5%B8%88%E4%B8%8E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%88%E5%94%B1%23&Refer=top)
+
+1. [杨紫 魔术克星](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E9%AD%94%E6%9C%AF%E5%85%8B%E6%98%9F&Refer=top)
+
+1. [刘德华那英时隔24年再唱东方之珠](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E9%82%A3%E8%8B%B1%E6%97%B6%E9%9A%9424%E5%B9%B4%E5%86%8D%E5%94%B1%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%8F%A0%23&Refer=top)
+
+1. [广州海关依法退运72.4吨洋垃圾](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E5%85%B3%E4%BE%9D%E6%B3%95%E9%80%80%E8%BF%9072.4%E5%90%A8%E6%B4%8B%E5%9E%83%E5%9C%BE%23&Refer=top)
+
+1. [江南百景图 徽州](https://s.weibo.com//weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE%20%E5%BE%BD%E5%B7%9E&Refer=top)
+
+1. [变成你是成年人的爱情](https://s.weibo.com//weibo?q=%23%E5%8F%98%E6%88%90%E4%BD%A0%E6%98%AF%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top)
+
+1. [邓炳强脱下警服后参观月壤](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%82%B3%E5%BC%BA%E8%84%B1%E4%B8%8B%E8%AD%A6%E6%9C%8D%E5%90%8E%E5%8F%82%E8%A7%82%E6%9C%88%E5%A3%A4%23&Refer=top)
+
+1. [小男孩拿奖状表情大起大落](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BF%E5%A5%96%E7%8A%B6%E8%A1%A8%E6%83%85%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD%23&Refer=top)
+
+1. [无畏的兰陵王](https://s.weibo.com//weibo?q=%23%E6%97%A0%E7%95%8F%E7%9A%84%E5%85%B0%E9%99%B5%E7%8E%8B%23&Refer=top)
+
+1. [饲养员给熊猫宝宝福宝量体重](https://s.weibo.com//weibo?q=%23%E9%A5%B2%E5%85%BB%E5%91%98%E7%BB%99%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E7%A6%8F%E5%AE%9D%E9%87%8F%E4%BD%93%E9%87%8D%23&Refer=top)
+
+1. [成都天府国际机场另类大片](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%E5%8F%A6%E7%B1%BB%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [Hero拿下赛点](https://s.weibo.com//weibo?q=%23Hero%E6%8B%BF%E4%B8%8B%E8%B5%9B%E7%82%B9%23&Refer=top)
+
+1. [FPX战胜RNG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CRNG%23&Refer=top)
+
+1. [周冬雨许凯好甜](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E8%AE%B8%E5%87%AF%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [FPX1换5](https://s.weibo.com//weibo?q=%23FPX1%E6%8D%A25%23&Refer=top)
 
