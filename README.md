@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 09:42:58
+## 微博今日热榜 更新于 2021-06-26 10:17:13
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -204,4 +204,10 @@
 1. [面对好友表白该如何处理](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E5%AF%B9%E5%A5%BD%E5%8F%8B%E8%A1%A8%E7%99%BD%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23&Refer=top)
 
 1. [吉利汽车撤回科创板上市申请](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E6%92%A4%E5%9B%9E%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82%E7%94%B3%E8%AF%B7%23&Refer=top)
+
+1. [赵露思微博直播](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [王嘉尔光盘行动](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%85%89%E7%9B%98%E8%A1%8C%E5%8A%A8%23&Refer=top)
+
+1. [老鹰 雄鹿](https://s.weibo.com//weibo?q=%E8%80%81%E9%B9%B0%20%E9%9B%84%E9%B9%BF&Refer=top)
 
