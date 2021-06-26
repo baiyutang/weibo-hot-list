@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 16:03:48
+## 微博今日热榜 更新于 2021-06-26 17:03:08
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -368,4 +368,50 @@
 1. [陈延年墓收到数百封来信](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%BB%B6%E5%B9%B4%E5%A2%93%E6%94%B6%E5%88%B0%E6%95%B0%E7%99%BE%E5%B0%81%E6%9D%A5%E4%BF%A1%23&Refer=top)
 
 1. [每日优鲜上市首日暴跌25%](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E6%97%A5%E4%BC%98%E9%B2%9C%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E8%B7%8C25%25%23&Refer=top)
+
+1. [EXO和凤凰传奇的共同特点](https://s.weibo.com//weibo?q=%23EXO%E5%92%8C%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%9A%84%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9%23&Refer=top)
+
+1. [广东考生考654分家长送牛感谢学校](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%80%83%E7%94%9F%E8%80%83654%E5%88%86%E5%AE%B6%E9%95%BF%E9%80%81%E7%89%9B%E6%84%9F%E8%B0%A2%E5%AD%A6%E6%A0%A1%23&Refer=top)
+
+1. [广州全市均为低风险地区](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%85%A8%E5%B8%82%E5%9D%87%E4%B8%BA%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [广州市中风险地区清零](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B8%82%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E6%B8%85%E9%9B%B6%23&Refer=top)
+
+1. [男子4S店花百万买到事故车](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%904S%E5%BA%97%E8%8A%B1%E7%99%BE%E4%B8%87%E4%B9%B0%E5%88%B0%E4%BA%8B%E6%95%85%E8%BD%A6%23&Refer=top)
+
+1. [时代少年团永远跟党走文艺汇演](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0%E6%96%87%E8%89%BA%E6%B1%87%E6%BC%94%23&Refer=top)
+
+1. [成都神鸟flyflyfly](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%A5%9E%E9%B8%9Fflyflyfly%23&Refer=top)
+
+1. [研究称不学数学影响大脑发育](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%8D%E5%AD%A6%E6%95%B0%E5%AD%A6%E5%BD%B1%E5%93%8D%E5%A4%A7%E8%84%91%E5%8F%91%E8%82%B2%23&Refer=top)
+
+1. [王智浪姐一周年发歌](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%99%BA%E6%B5%AA%E5%A7%90%E4%B8%80%E5%91%A8%E5%B9%B4%E5%8F%91%E6%AD%8C%23&Refer=top)
+
+1. [上海大学录取通知书送黑科技芯片](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%80%81%E9%BB%91%E7%A7%91%E6%8A%80%E8%8A%AF%E7%89%87%23&Refer=top)
+
+1. [共产党宣言首个中文全译本印刷所旧址](https://s.weibo.com//weibo?q=%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80%E9%A6%96%E4%B8%AA%E4%B8%AD%E6%96%87%E5%85%A8%E8%AF%91%E6%9C%AC%E5%8D%B0%E5%88%B7%E6%89%80%E6%97%A7%E5%9D%80&Refer=top)
+
+1. [科学家将14.6万年前新人种命名为龙人](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%B0%8614.6%E4%B8%87%E5%B9%B4%E5%89%8D%E6%96%B0%E4%BA%BA%E7%A7%8D%E5%91%BD%E5%90%8D%E4%B8%BA%E9%BE%99%E4%BA%BA%23&Refer=top)
+
+1. [19岁女孩抗癌2年高考考出533分](https://s.weibo.com//weibo?q=%2319%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8A%97%E7%99%8C2%E5%B9%B4%E9%AB%98%E8%80%83%E8%80%83%E5%87%BA533%E5%88%86%23&Refer=top)
+
+1. [当你有个比你还美的妈妈](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E6%9C%89%E4%B8%AA%E6%AF%94%E4%BD%A0%E8%BF%98%E7%BE%8E%E7%9A%84%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [弗洛伊德家人对量刑结果失望](https://s.weibo.com//weibo?q=%23%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E5%AE%B6%E4%BA%BA%E5%AF%B9%E9%87%8F%E5%88%91%E7%BB%93%E6%9E%9C%E5%A4%B1%E6%9C%9B%23&Refer=top)
+
+1. [爷爷奶奶家的茶几](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E5%AE%B6%E7%9A%84%E8%8C%B6%E5%87%A0%23&Refer=top)
+
+1. [飞机上将有5G网络了](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%B0%86%E6%9C%895G%E7%BD%91%E7%BB%9C%E4%BA%86%23&Refer=top)
+
+1. [日本大阪2栋民宅相继倒塌](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA2%E6%A0%8B%E6%B0%91%E5%AE%85%E7%9B%B8%E7%BB%A7%E5%80%92%E5%A1%8C%23&Refer=top)
+
+1. [退伍军人托举落水女童40分钟](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E6%89%98%E4%B8%BE%E8%90%BD%E6%B0%B4%E5%A5%B3%E7%AB%A540%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [烈士25岁牺牲寄回的家书让人泪目](https://s.weibo.com//weibo?q=%23%E7%83%88%E5%A3%AB25%E5%B2%81%E7%89%BA%E7%89%B2%E5%AF%84%E5%9B%9E%E7%9A%84%E5%AE%B6%E4%B9%A6%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&Refer=top)
+
+1. [大熊猫吧唧嘴太治愈](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%90%A7%E5%94%A7%E5%98%B4%E5%A4%AA%E6%B2%BB%E6%84%88%23&Refer=top)
+
+1. [海军博物馆开馆](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E9%A6%86%23&Refer=top)
+
+1. [女护士打哈欠下巴脱臼](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%89%93%E5%93%88%E6%AC%A0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC%23&Refer=top)
 
