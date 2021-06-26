@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 04:03:22
+## 微博今日热榜 更新于 2021-06-27 05:02:57
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -134,4 +134,14 @@
 1. [丹麦4比0威尔士](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E9%BA%A64%E6%AF%940%E5%A8%81%E5%B0%94%E5%A3%AB%23&Refer=top)
 
 1. [心疼贝尔](https://s.weibo.com//weibo?q=%E5%BF%83%E7%96%BC%E8%B4%9D%E5%B0%94&Refer=top)
+
+1. [百名院士入党心声](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E9%99%A2%E5%A3%AB%E5%85%A5%E5%85%9A%E5%BF%83%E5%A3%B0%23&Refer=new_time)
+
+1. [宋祖儿王子异小名都叫小狗](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E7%8E%8B%E5%AD%90%E5%BC%82%E5%B0%8F%E5%90%8D%E9%83%BD%E5%8F%AB%E5%B0%8F%E7%8B%97%23&Refer=top)
+
+1. [江熠余声声官宣](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%86%A0%E4%BD%99%E5%A3%B0%E5%A3%B0%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [阿瑙托维奇进球无效](https://s.weibo.com//weibo?q=%E9%98%BF%E7%91%99%E6%89%98%E7%BB%B4%E5%A5%87%E8%BF%9B%E7%90%83%E6%97%A0%E6%95%88&Refer=top)
+
+1. [黄子韬宋亚轩拉勾](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%8B%89%E5%8B%BE%23&Refer=top)
 
