@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 22:02:59
+## 微博今日热榜 更新于 2021-06-26 23:03:15
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -592,4 +592,44 @@
 1. [周冬雨许凯好甜](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E8%AE%B8%E5%87%AF%E5%A5%BD%E7%94%9C%23&Refer=top)
 
 1. [FPX1换5](https://s.weibo.com//weibo?q=%23FPX1%E6%8D%A25%23&Refer=top)
+
+1. [全男四胞胎高考最高626分](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%94%B7%E5%9B%9B%E8%83%9E%E8%83%8E%E9%AB%98%E8%80%83%E6%9C%80%E9%AB%98626%E5%88%86%23&Refer=top)
+
+1. [孟子义性格](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%80%A7%E6%A0%BC%23&Refer=top)
+
+1. [Cryin状态](https://s.weibo.com//weibo?q=%23Cryin%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [狗狗吃个药学会了说唱](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%90%83%E4%B8%AA%E8%8D%AF%E5%AD%A6%E4%BC%9A%E4%BA%86%E8%AF%B4%E5%94%B1%23&Refer=top)
+
+1. [大象一天80%时间在吃东西](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E4%B8%80%E5%A4%A980%25%E6%97%B6%E9%97%B4%E5%9C%A8%E5%90%83%E4%B8%9C%E8%A5%BF%23&Refer=top)
+
+1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
+
+1. [江熠余声声吻戏好欲](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%86%A0%E4%BD%99%E5%A3%B0%E5%A3%B0%E5%90%BB%E6%88%8F%E5%A5%BD%E6%AC%B2%23&Refer=top)
+
+1. [宋亚轩露牙笑一秒破功](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E9%9C%B2%E7%89%99%E7%AC%91%E4%B8%80%E7%A7%92%E7%A0%B4%E5%8A%9F%23&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [五十公里桃花坞](https://s.weibo.com//weibo?q=%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E&Refer=top)
+
+1. [潘玮柏带老婆现身孟佳演唱会](https://s.weibo.com//weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%B8%A6%E8%80%81%E5%A9%86%E7%8E%B0%E8%BA%AB%E5%AD%9F%E4%BD%B3%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+
+1. [朱怡贞得知林楠笙是邮差](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%80%A1%E8%B4%9E%E5%BE%97%E7%9F%A5%E6%9E%97%E6%A5%A0%E7%AC%99%E6%98%AF%E9%82%AE%E5%B7%AE%23&Refer=top)
+
+1. [崔普闵是整容了吗](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%99%AE%E9%97%B5%E6%98%AF%E6%95%B4%E5%AE%B9%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [清清的露娜](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%B8%85%E7%9A%84%E9%9C%B2%E5%A8%9C%23&Refer=top)
+
+1. [深入骨髓的四川话](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%85%A5%E9%AA%A8%E9%AB%93%E7%9A%84%E5%9B%9B%E5%B7%9D%E8%AF%9D%23&Refer=top)
+
+1. [朱一龙童瑶互称同志](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%AB%A5%E7%91%B6%E4%BA%92%E7%A7%B0%E5%90%8C%E5%BF%97%23&Refer=top)
+
+1. [与哈士奇格格不入的金毛](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E5%93%88%E5%A3%AB%E5%A5%87%E6%A0%BC%E6%A0%BC%E4%B8%8D%E5%85%A5%E7%9A%84%E9%87%91%E6%AF%9B%23&Refer=top)
+
+1. [华中农大举办昆虫宴送别毕业生](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E4%B8%BE%E5%8A%9E%E6%98%86%E8%99%AB%E5%AE%B4%E9%80%81%E5%88%AB%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top)
+
+1. [多地上演灯光秀庆祝建党百年](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%BC%94%E7%81%AF%E5%85%89%E7%A7%80%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top)
+
+1. [孟佳粉丝见面会](https://s.weibo.com//weibo?q=%E5%AD%9F%E4%BD%B3%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A&Refer=top)
 
