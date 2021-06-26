@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 17:03:08
+## 微博今日热榜 更新于 2021-06-26 18:03:28
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -414,4 +414,44 @@
 1. [海军博物馆开馆](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BC%80%E9%A6%86%23&Refer=top)
 
 1. [女护士打哈欠下巴脱臼](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%89%93%E5%93%88%E6%AC%A0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC%23&Refer=top)
+
+1. [男生考649分福利院阿姨激动落泪](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83649%E5%88%86%E7%A6%8F%E5%88%A9%E9%99%A2%E9%98%BF%E5%A7%A8%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [广东接种过疫苗感染者均未发生重症](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%8E%A5%E7%A7%8D%E8%BF%87%E7%96%AB%E8%8B%97%E6%84%9F%E6%9F%93%E8%80%85%E5%9D%87%E6%9C%AA%E5%8F%91%E7%94%9F%E9%87%8D%E7%97%87%23&Refer=top)
+
+1. [高考志愿捡漏是什么体验](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E6%8D%A1%E6%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [她退休30年仍有学生上门找她谈心](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E9%80%80%E4%BC%9130%E5%B9%B4%E4%BB%8D%E6%9C%89%E5%AD%A6%E7%94%9F%E4%B8%8A%E9%97%A8%E6%89%BE%E5%A5%B9%E8%B0%88%E5%BF%83%23&Refer=top)
+
+1. [权珉娥公开恋情](https://s.weibo.com//weibo?q=%23%E6%9D%83%E7%8F%89%E5%A8%A5%E5%85%AC%E5%BC%80%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [黄磊有门不走偏要翻窗](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%A3%8A%E6%9C%89%E9%97%A8%E4%B8%8D%E8%B5%B0%E5%81%8F%E8%A6%81%E7%BF%BB%E7%AA%97%23&Refer=top)
+
+1. [张颂文安慰马嘉祺](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E5%AE%89%E6%85%B0%E9%A9%AC%E5%98%89%E7%A5%BA%23&Refer=top)
+
+1. [刘宇再跳化身孤岛的鲸](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%86%8D%E8%B7%B3%E5%8C%96%E8%BA%AB%E5%AD%A4%E5%B2%9B%E7%9A%84%E9%B2%B8%23&Refer=top)
+
+1. [海底一万米到底有什么](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%BA%95%E4%B8%80%E4%B8%87%E7%B1%B3%E5%88%B0%E5%BA%95%E6%9C%89%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [整颗椰子河粉](https://s.weibo.com//weibo?q=%23%E6%95%B4%E9%A2%97%E6%A4%B0%E5%AD%90%E6%B2%B3%E7%B2%89%23&Refer=top)
+
+1. [主人摔倒电动车自动拐弯避开行人](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%91%94%E5%80%92%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%87%AA%E5%8A%A8%E6%8B%90%E5%BC%AF%E9%81%BF%E5%BC%80%E8%A1%8C%E4%BA%BA%23&Refer=top)
+
+1. [浙江温岭上百条海豚迎风逐浪](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%B8%A9%E5%B2%AD%E4%B8%8A%E7%99%BE%E6%9D%A1%E6%B5%B7%E8%B1%9A%E8%BF%8E%E9%A3%8E%E9%80%90%E6%B5%AA%23&Refer=top)
+
+1. [外星人会在哪观测地球](https://s.weibo.com//weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E4%BC%9A%E5%9C%A8%E5%93%AA%E8%A7%82%E6%B5%8B%E5%9C%B0%E7%90%83%23&Refer=top)
+
+1. [我国首次获得飞秒尺度的X光照片](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E8%8E%B7%E5%BE%97%E9%A3%9E%E7%A7%92%E5%B0%BA%E5%BA%A6%E7%9A%84X%E5%85%89%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [女儿把自己装进盲盒给老爸过生日](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%8A%E8%87%AA%E5%B7%B1%E8%A3%85%E8%BF%9B%E7%9B%B2%E7%9B%92%E7%BB%99%E8%80%81%E7%88%B8%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top)
+
+1. [高校毕业生辞高薪工作返乡捡陨石](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E8%BE%9E%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E8%BF%94%E4%B9%A1%E6%8D%A1%E9%99%A8%E7%9F%B3%23&Refer=top)
+
+1. [杨丞琳晒狗](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%99%92%E7%8B%97%23&Refer=top)
+
+1. [干脆面拉丝热狗](https://s.weibo.com//weibo?q=%23%E5%B9%B2%E8%84%86%E9%9D%A2%E6%8B%89%E4%B8%9D%E7%83%AD%E7%8B%97%23&Refer=top)
+
+1. [罗云熙画的鸭脖和热干面](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E7%94%BB%E7%9A%84%E9%B8%AD%E8%84%96%E5%92%8C%E7%83%AD%E5%B9%B2%E9%9D%A2%23&Refer=top)
+
+1. [人类幼崽的演技可以有多绝](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E6%BC%94%E6%8A%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
 
