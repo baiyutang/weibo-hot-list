@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-26 12:04:15
+## 微博今日热榜 更新于 2021-06-26 13:02:50
 1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
 
 1. [蓝心洁牺牲](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%BF%83%E6%B4%81%E7%89%BA%E7%89%B2%23&Refer=top)
@@ -244,4 +244,30 @@
 1. [投资人阎焱称看人主要看面相](https://s.weibo.com//weibo?q=%23%E6%8A%95%E8%B5%84%E4%BA%BA%E9%98%8E%E7%84%B1%E7%A7%B0%E7%9C%8B%E4%BA%BA%E4%B8%BB%E8%A6%81%E7%9C%8B%E9%9D%A2%E7%9B%B8%23&Refer=top)
 
 1. [深圳中考](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E4%B8%AD%E8%80%83&Refer=top)
+
+1. [百名院士入党心声](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E9%99%A2%E5%A3%AB%E5%85%A5%E5%85%9A%E5%BF%83%E5%A3%B0%23&Refer=new_time)
+
+1. [美国发布UFO调查报告](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83UFO%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [龚俊为中传毕业生送祝福](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E4%B8%BA%E4%B8%AD%E4%BC%A0%E6%AF%95%E4%B8%9A%E7%94%9F%E9%80%81%E7%A5%9D%E7%A6%8F%23&Refer=top)
+
+1. [乌合麒麟道歉](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [关晓彤回应走路像大爷遛弯](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%9B%9E%E5%BA%94%E8%B5%B0%E8%B7%AF%E5%83%8F%E5%A4%A7%E7%88%B7%E9%81%9B%E5%BC%AF%23&Refer=top)
+
+1. [苏青 妆白化了活没白干](https://s.weibo.com//weibo?q=%E8%8B%8F%E9%9D%92%20%E5%A6%86%E7%99%BD%E5%8C%96%E4%BA%86%E6%B4%BB%E6%B2%A1%E7%99%BD%E5%B9%B2&Refer=top)
+
+1. [原来黑袜子有隐身效果](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%BB%91%E8%A2%9C%E5%AD%90%E6%9C%89%E9%9A%90%E8%BA%AB%E6%95%88%E6%9E%9C%23&Refer=top)
+
+1. [字母哥25分](https://s.weibo.com//weibo?q=%23%E5%AD%97%E6%AF%8D%E5%93%A525%E5%88%86%23&Refer=top)
+
+1. [雄鹿20比0攻击波](https://s.weibo.com//weibo?q=%23%E9%9B%84%E9%B9%BF20%E6%AF%940%E6%94%BB%E5%87%BB%E6%B3%A2%23&Refer=top)
+
+1. [巧克力果冻也可能是毒品](https://s.weibo.com//weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%9E%9C%E5%86%BB%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E6%AF%92%E5%93%81%23&Refer=top)
+
+1. [雅思难度](https://s.weibo.com//weibo?q=%E9%9B%85%E6%80%9D%E9%9A%BE%E5%BA%A6&Refer=top)
+
+1. [清华学子唱少年中国说](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%AD%90%E5%94%B1%E5%B0%91%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%AF%B4%23&Refer=top)
+
+1. [喵请许愿定档](https://s.weibo.com//weibo?q=%23%E5%96%B5%E8%AF%B7%E8%AE%B8%E6%84%BF%E5%AE%9A%E6%A1%A3%23&Refer=top)
 
