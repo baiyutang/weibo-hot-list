@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 06:03:11
+## 微博今日热榜 更新于 2021-06-27 07:03:05
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -154,4 +154,10 @@
 1. [基耶萨破门](https://s.weibo.com//weibo?q=%E5%9F%BA%E8%80%B6%E8%90%A8%E7%A0%B4%E9%97%A8&Refer=top)
 
 1. [奥地利扳回一球](https://s.weibo.com//weibo?q=%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%89%B3%E5%9B%9E%E4%B8%80%E7%90%83&Refer=top)
+
+1. [如何评价TTG输给Hero](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7TTG%E8%BE%93%E7%BB%99Hero%23&Refer=top)
+
+1. [梁洁好适合甜剧](https://s.weibo.com//weibo?q=%23%E6%A2%81%E6%B4%81%E5%A5%BD%E9%80%82%E5%90%88%E7%94%9C%E5%89%A7%23&Refer=top)
+
+1. [朱怡贞得知林楠笙是邮差](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%80%A1%E8%B4%9E%E5%BE%97%E7%9F%A5%E6%9E%97%E6%A5%A0%E7%AC%99%E6%98%AF%E9%82%AE%E5%B7%AE%23&Refer=top)
 
