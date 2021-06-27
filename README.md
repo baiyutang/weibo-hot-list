@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 21:10:56
+## 微博今日热榜 更新于 2021-06-27 22:02:48
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -616,4 +616,40 @@
 1. [雨刮器的节奏感都比我强](https://s.weibo.com//weibo?q=%23%E9%9B%A8%E5%88%AE%E5%99%A8%E7%9A%84%E8%8A%82%E5%A5%8F%E6%84%9F%E9%83%BD%E6%AF%94%E6%88%91%E5%BC%BA%23&Refer=top)
 
 1. [广州队0比3泰港](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%98%9F0%E6%AF%943%E6%B3%B0%E6%B8%AF%23&Refer=top)
+
+1. [张若昀陈说今日之中国](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E9%99%88%E8%AF%B4%E4%BB%8A%E6%97%A5%E4%B9%8B%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [杨利伟回忆生死26秒惊险时刻](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9B%9E%E5%BF%86%E7%94%9F%E6%AD%BB26%E7%A7%92%E6%83%8A%E9%99%A9%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [孟美岐吴谨言花儿为什么这样红](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%90%B4%E8%B0%A8%E8%A8%80%E8%8A%B1%E5%84%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E6%A0%B7%E7%BA%A2%23&Refer=top)
+
+1. [架不住女友哭闹无证骑摩托出游](https://s.weibo.com//weibo?q=%23%E6%9E%B6%E4%B8%8D%E4%BD%8F%E5%A5%B3%E5%8F%8B%E5%93%AD%E9%97%B9%E6%97%A0%E8%AF%81%E9%AA%91%E6%91%A9%E6%89%98%E5%87%BA%E6%B8%B8%23&Refer=top)
+
+1. [17岁28岁33岁的刘亦菲](https://s.weibo.com//weibo?q=%2317%E5%B2%8128%E5%B2%8133%E5%B2%81%E7%9A%84%E5%88%98%E4%BA%A6%E8%8F%B2%23&Refer=top)
+
+1. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
+
+1. [中国共产党一百年大事记将出版](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%80%E7%99%BE%E5%B9%B4%E5%A4%A7%E4%BA%8B%E8%AE%B0%E5%B0%86%E5%87%BA%E7%89%88%23&Refer=top)
+
+1. [郎君不如意](https://s.weibo.com//weibo?q=%E9%83%8E%E5%90%9B%E4%B8%8D%E5%A6%82%E6%84%8F&Refer=top)
+
+1. [龙樱](https://s.weibo.com//weibo?q=%E9%BE%99%E6%A8%B1&Refer=top)
+
+1. [张嘉元 我没染头](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%98%89%E5%85%83%20%E6%88%91%E6%B2%A1%E6%9F%93%E5%A4%B4&Refer=top)
+
+1. [陆思诚童谣好甜](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%80%9D%E8%AF%9A%E7%AB%A5%E8%B0%A3%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [爸爸对你表情包的理解](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E5%AF%B9%E4%BD%A0%E8%A1%A8%E6%83%85%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3%23&Refer=top)
+
+1. [庆怜直播](https://s.weibo.com//weibo?q=%23%E5%BA%86%E6%80%9C%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [Twins给新浪员工做奶茶](https://s.weibo.com//weibo?q=%23Twins%E7%BB%99%E6%96%B0%E6%B5%AA%E5%91%98%E5%B7%A5%E5%81%9A%E5%A5%B6%E8%8C%B6%23&Refer=top)
+
+1. [高校用战狼2同款设备拍千人毕业照](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%A8%E6%88%98%E7%8B%BC2%E5%90%8C%E6%AC%BE%E8%AE%BE%E5%A4%87%E6%8B%8D%E5%8D%83%E4%BA%BA%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top)
+
+1. [广西深613米大石围天坑](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B7%B1613%E7%B1%B3%E5%A4%A7%E7%9F%B3%E5%9B%B4%E5%A4%A9%E5%9D%91%23&Refer=top)
+
+1. [我国成年人失眠率近四成](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%B9%B4%E4%BA%BA%E5%A4%B1%E7%9C%A0%E7%8E%87%E8%BF%91%E5%9B%9B%E6%88%90%23&Refer=top)
+
+1. [EDG战胜JDG](https://s.weibo.com//weibo?q=%23EDG%E6%88%98%E8%83%9CJDG%23&Refer=top)
 
