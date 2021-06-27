@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 11:03:32
+## 微博今日热榜 更新于 2021-06-27 12:04:17
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -260,4 +260,38 @@
 1. [意大利欧洲杯能夺冠吗](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E6%AC%A7%E6%B4%B2%E6%9D%AF%E8%83%BD%E5%A4%BA%E5%86%A0%E5%90%97%23&Refer=top)
 
 1. [毕业典礼父母穿儿子学士服圆梦](https://s.weibo.com//weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E7%88%B6%E6%AF%8D%E7%A9%BF%E5%84%BF%E5%AD%90%E5%AD%A6%E5%A3%AB%E6%9C%8D%E5%9C%86%E6%A2%A6%23&Refer=top)
+
+1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
+
+1. [女孩做迷你婚纱最小57厘米](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%9A%E8%BF%B7%E4%BD%A0%E5%A9%9A%E7%BA%B1%E6%9C%80%E5%B0%8F57%E5%8E%98%E7%B1%B3%23&Refer=top)
+
+1. [军人遇堵车1分钟疏通](https://s.weibo.com//weibo?q=%23%E5%86%9B%E4%BA%BA%E9%81%87%E5%A0%B5%E8%BD%A61%E5%88%86%E9%92%9F%E7%96%8F%E9%80%9A%23&Refer=top)
+
+1. [日本为何迟迟未研发出新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E8%BF%9F%E8%BF%9F%E6%9C%AA%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [鞠婧祎郭俊辰花戎开机路透](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%83%AD%E4%BF%8A%E8%BE%B0%E8%8A%B1%E6%88%8E%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [虞书欣暗影宫廷风plog](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%9A%97%E5%BD%B1%E5%AE%AB%E5%BB%B7%E9%A3%8Eplog%23&Refer=top)
+
+1. [杨清柠毛宸宸分手](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%E6%AF%9B%E5%AE%B8%E5%AE%B8%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [快船太阳球迷打架](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E8%88%B9%E5%A4%AA%E9%98%B3%E7%90%83%E8%BF%B7%E6%89%93%E6%9E%B6%23&Refer=top)
+
+1. [美国见义勇为者反被警察开枪打死](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%80%85%E5%8F%8D%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&Refer=top)
+
+1. [如果外星人真来地球了](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%9E%9C%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9C%9F%E6%9D%A5%E5%9C%B0%E7%90%83%E4%BA%86%23&Refer=top)
+
+1. [印度象群误入村庄遭鞭炮驱赶](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%B1%A1%E7%BE%A4%E8%AF%AF%E5%85%A5%E6%9D%91%E5%BA%84%E9%81%AD%E9%9E%AD%E7%82%AE%E9%A9%B1%E8%B5%B6%23&Refer=top)
+
+1. [刘芸妈妈水下照眼神](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8A%B8%E5%A6%88%E5%A6%88%E6%B0%B4%E4%B8%8B%E7%85%A7%E7%9C%BC%E7%A5%9E%23&Refer=top)
+
+1. [点赞视频欲赚外快被套路损失十万](https://s.weibo.com//weibo?q=%23%E7%82%B9%E8%B5%9E%E8%A7%86%E9%A2%91%E6%AC%B2%E8%B5%9A%E5%A4%96%E5%BF%AB%E8%A2%AB%E5%A5%97%E8%B7%AF%E6%8D%9F%E5%A4%B1%E5%8D%81%E4%B8%87%23&Refer=top)
+
+1. [布克六犯离场](https://s.weibo.com//weibo?q=%23%E5%B8%83%E5%85%8B%E5%85%AD%E7%8A%AF%E7%A6%BB%E5%9C%BA%23&Refer=top)
+
+1. [德尚被困在酒店顶楼阳台](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B0%9A%E8%A2%AB%E5%9B%B0%E5%9C%A8%E9%85%92%E5%BA%97%E9%A1%B6%E6%A5%BC%E9%98%B3%E5%8F%B0%23&Refer=top)
+
+1. [东莞发布解封通告](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%8E%9E%E5%8F%91%E5%B8%83%E8%A7%A3%E5%B0%81%E9%80%9A%E5%91%8A&Refer=top)
+
+1. [人类特倒霉时刻](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%89%B9%E5%80%92%E9%9C%89%E6%97%B6%E5%88%BB%23&Refer=top)
 
