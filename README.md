@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 03:02:31
+## 微博今日热榜 更新于 2021-06-28 04:03:18
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -136,4 +136,14 @@
 1. [洗碗机内部是如何工作的](https://s.weibo.com//weibo?q=%E6%B4%97%E7%A2%97%E6%9C%BA%E5%86%85%E9%83%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84&Refer=top)
 
 1. [杨利伟的太空一日](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E7%9A%84%E5%A4%AA%E7%A9%BA%E4%B8%80%E6%97%A5%23&Refer=top)
+
+1. [比利时 葡萄牙](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E8%91%A1%E8%90%84%E7%89%99&Refer=top)
+
+1. [荷兰国际大赛首次0射正](https://s.weibo.com//weibo?q=%E8%8D%B7%E5%85%B0%E5%9B%BD%E9%99%85%E5%A4%A7%E8%B5%9B%E9%A6%96%E6%AC%A10%E5%B0%84%E6%AD%A3&Refer=top)
+
+1. [捷克2比0荷兰](https://s.weibo.com//weibo?q=%E6%8D%B7%E5%85%8B2%E6%AF%940%E8%8D%B7%E5%85%B0&Refer=top)
+
+1. [德里赫特红牌](https://s.weibo.com//weibo?q=%E5%BE%B7%E9%87%8C%E8%B5%AB%E7%89%B9%E7%BA%A2%E7%89%8C&Refer=top)
+
+1. [小阿扎尔破门](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%98%BF%E6%89%8E%E5%B0%94%E7%A0%B4%E9%97%A8&Refer=top)
 
