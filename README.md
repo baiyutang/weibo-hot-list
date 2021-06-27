@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 02:03:19
+## 微博今日热榜 更新于 2021-06-28 03:02:31
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -126,4 +126,14 @@
 1. [白敬亭新买的跑鞋被种草了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%96%B0%E4%B9%B0%E7%9A%84%E8%B7%91%E9%9E%8B%E8%A2%AB%E7%A7%8D%E8%8D%89%E4%BA%86&Refer=top)
 
 1. [1921](https://s.weibo.com//weibo?q=1921&Refer=top)
+
+1. [七一勋章是如何铸成的](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E6%98%AF%E5%A6%82%E4%BD%95%E9%93%B8%E6%88%90%E7%9A%84%23&Refer=new_time)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%23&Refer=top)
+
+1. [我国成年人失眠率近四成](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%B9%B4%E4%BA%BA%E5%A4%B1%E7%9C%A0%E7%8E%87%E8%BF%91%E5%9B%9B%E6%88%90%23&Refer=top)
+
+1. [洗碗机内部是如何工作的](https://s.weibo.com//weibo?q=%E6%B4%97%E7%A2%97%E6%9C%BA%E5%86%85%E9%83%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84&Refer=top)
+
+1. [杨利伟的太空一日](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E7%9A%84%E5%A4%AA%E7%A9%BA%E4%B8%80%E6%97%A5%23&Refer=top)
 
