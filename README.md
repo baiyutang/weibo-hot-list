@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 06:03:08
+## 微博今日热榜 更新于 2021-06-28 07:03:29
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -166,4 +166,6 @@
 1. [C罗拥抱卢卡库](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%8B%A5%E6%8A%B1%E5%8D%A2%E5%8D%A1%E5%BA%93&Refer=top)
 
 1. [革命者](https://s.weibo.com//weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top)
+
+1. [捷克是欧洲杯最大黑马吗](https://s.weibo.com//weibo?q=%23%E6%8D%B7%E5%85%8B%E6%98%AF%E6%AC%A7%E6%B4%B2%E6%9D%AF%E6%9C%80%E5%A4%A7%E9%BB%91%E9%A9%AC%E5%90%97%23&Refer=top)
 
