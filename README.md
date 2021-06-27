@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 12:04:17
+## 微博今日热榜 更新于 2021-06-27 13:02:45
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -294,4 +294,32 @@
 1. [东莞发布解封通告](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%8E%9E%E5%8F%91%E5%B8%83%E8%A7%A3%E5%B0%81%E9%80%9A%E5%91%8A&Refer=top)
 
 1. [人类特倒霉时刻](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%89%B9%E5%80%92%E9%9C%89%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [女孩考692分想当程序员](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83692%E5%88%86%E6%83%B3%E5%BD%93%E7%A8%8B%E5%BA%8F%E5%91%98%23&Refer=top)
+
+1. [张翰孟子义cp感](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%AD%9F%E5%AD%90%E4%B9%89cp%E6%84%9F%23&Refer=top)
+
+1. [贝尔被记者惹怒](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E5%B0%94%E8%A2%AB%E8%AE%B0%E8%80%85%E6%83%B9%E6%80%92%23&Refer=top)
+
+1. [专家提醒慎用除甲醛小魔盒](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%E9%99%A4%E7%94%B2%E9%86%9B%E5%B0%8F%E9%AD%94%E7%9B%92%23&Refer=top)
+
+1. [没想到社死还可以传递](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%A4%BE%E6%AD%BB%E8%BF%98%E5%8F%AF%E4%BB%A5%E4%BC%A0%E9%80%92%23&Refer=top)
+
+1. [在摩尔庄园开了一家驾校](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E5%BC%80%E4%BA%86%E4%B8%80%E5%AE%B6%E9%A9%BE%E6%A0%A1%23&Refer=top)
+
+1. [刘宇宁不说再见片尾曲](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81%E7%89%87%E5%B0%BE%E6%9B%B2%23&Refer=top)
+
+1. [成都进入双机场时代](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%BF%9B%E5%85%A5%E5%8F%8C%E6%9C%BA%E5%9C%BA%E6%97%B6%E4%BB%A3%23&Refer=top)
+
+1. [志愿军烈士被安葬时头朝祖国方向](https://s.weibo.com//weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E8%A2%AB%E5%AE%89%E8%91%AC%E6%97%B6%E5%A4%B4%E6%9C%9D%E7%A5%96%E5%9B%BD%E6%96%B9%E5%90%91%23&Refer=top)
+
+1. [保罗制胜罚球](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E7%BD%97%E5%88%B6%E8%83%9C%E7%BD%9A%E7%90%83%23&Refer=top)
+
+1. [被宿管阿姨阻挡的爱情](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%AE%BF%E7%AE%A1%E9%98%BF%E5%A7%A8%E9%98%BB%E6%8C%A1%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top)
+
+1. [太阳战胜快船](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E9%98%B3%E6%88%98%E8%83%9C%E5%BF%AB%E8%88%B9%23&Refer=top)
+
+1. [团建社死现场](https://s.weibo.com//weibo?q=%23%E5%9B%A2%E5%BB%BA%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [考辛斯罚球违例](https://s.weibo.com//weibo?q=%23%E8%80%83%E8%BE%9B%E6%96%AF%E7%BD%9A%E7%90%83%E8%BF%9D%E4%BE%8B%23&Refer=top)
 
