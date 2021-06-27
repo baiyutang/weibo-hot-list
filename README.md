@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 22:02:48
+## 微博今日热榜 更新于 2021-06-27 23:03:10
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -652,4 +652,26 @@
 1. [我国成年人失眠率近四成](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%B9%B4%E4%BA%BA%E5%A4%B1%E7%9C%A0%E7%8E%87%E8%BF%91%E5%9B%9B%E6%88%90%23&Refer=top)
 
 1. [EDG战胜JDG](https://s.weibo.com//weibo?q=%23EDG%E6%88%98%E8%83%9CJDG%23&Refer=top)
+
+1. [Cindy瘦了](https://s.weibo.com//weibo?q=%23Cindy%E7%98%A6%E4%BA%86%23&Refer=top)
+
+1. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+
+1. [高考623分外卖小哥获万元奖励](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83623%E5%88%86%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%8E%B7%E4%B8%87%E5%85%83%E5%A5%96%E5%8A%B1%23&Refer=top)
+
+1. [F1](https://s.weibo.com//weibo?q=F1&Refer=top)
+
+1. [K神 饭堂](https://s.weibo.com//weibo?q=K%E7%A5%9E%20%E9%A5%AD%E5%A0%82&Refer=top)
+
+1. [扬州一公园为孵蛋小鸟叫停除草](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E4%B8%80%E5%85%AC%E5%9B%AD%E4%B8%BA%E5%AD%B5%E8%9B%8B%E5%B0%8F%E9%B8%9F%E5%8F%AB%E5%81%9C%E9%99%A4%E8%8D%89%23&Refer=top)
+
+1. [PeRo夺冠](https://s.weibo.com//weibo?q=%23PeRo%E5%A4%BA%E5%86%A0%23&Refer=top)
+
+1. [阿Sa说东北话](https://s.weibo.com//weibo?q=%23%E9%98%BFSa%E8%AF%B4%E4%B8%9C%E5%8C%97%E8%AF%9D%23&Refer=top)
+
+1. [邓稼先离家前用三个不回答妻子](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%A8%BC%E5%85%88%E7%A6%BB%E5%AE%B6%E5%89%8D%E7%94%A8%E4%B8%89%E4%B8%AA%E4%B8%8D%E5%9B%9E%E7%AD%94%E5%A6%BB%E5%AD%90%23&Refer=top)
+
+1. [小学生领奖表情大起大落](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%A2%86%E5%A5%96%E8%A1%A8%E6%83%85%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD%23&Refer=top)
+
+1. [高考623分外卖小哥回应退学打工经历](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83623%E5%88%86%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E9%80%80%E5%AD%A6%E6%89%93%E5%B7%A5%E7%BB%8F%E5%8E%86%23&Refer=top)
 
