@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 04:03:18
+## 微博今日热榜 更新于 2021-06-28 05:02:56
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -146,4 +146,16 @@
 1. [德里赫特红牌](https://s.weibo.com//weibo?q=%E5%BE%B7%E9%87%8C%E8%B5%AB%E7%89%B9%E7%BA%A2%E7%89%8C&Refer=top)
 
 1. [小阿扎尔破门](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%98%BF%E6%89%8E%E5%B0%94%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [德布劳内受伤](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [比利时1比0葡萄牙](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B61%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99&Refer=top)
+
+1. [佩佩卢卡库冲突](https://s.weibo.com//weibo?q=%E4%BD%A9%E4%BD%A9%E5%8D%A2%E5%8D%A1%E5%BA%93%E5%86%B2%E7%AA%81&Refer=top)
+
+1. [比利时晋级八强](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&Refer=top)
+
+1. [若塔错失良机](https://s.weibo.com//weibo?q=%E8%8B%A5%E5%A1%94%E9%94%99%E5%A4%B1%E8%89%AF%E6%9C%BA&Refer=top)
+
+1. [阿扎尔受伤](https://s.weibo.com//weibo?q=%E9%98%BF%E6%89%8E%E5%B0%94%E5%8F%97%E4%BC%A4&Refer=top)
 
