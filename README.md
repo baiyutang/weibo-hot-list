@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 01:11:01
+## 微博今日热榜 更新于 2021-06-28 02:03:19
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [景涧到底有多八卦](https://s.weibo.com//weibo?q=%23%E6%99%AF%E6%B6%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%85%AB%E5%8D%A6%23&Refer=top)
 
 1. [电影之歌](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B9%8B%E6%AD%8C%23&Refer=top)
+
+1. [白敬亭新买的跑鞋被种草了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%96%B0%E4%B9%B0%E7%9A%84%E8%B7%91%E9%9E%8B%E8%A2%AB%E7%A7%8D%E8%8D%89%E4%BA%86&Refer=top)
+
+1. [1921](https://s.weibo.com//weibo?q=1921&Refer=top)
 
