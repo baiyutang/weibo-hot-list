@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 05:02:56
+## 微博今日热榜 更新于 2021-06-28 06:03:08
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -158,4 +158,12 @@
 1. [若塔错失良机](https://s.weibo.com//weibo?q=%E8%8B%A5%E5%A1%94%E9%94%99%E5%A4%B1%E8%89%AF%E6%9C%BA&Refer=top)
 
 1. [阿扎尔受伤](https://s.weibo.com//weibo?q=%E9%98%BF%E6%89%8E%E5%B0%94%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [C罗怒摔袖标](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%80%92%E6%91%94%E8%A2%96%E6%A0%87%23&Refer=top)
+
+1. [C罗欧洲杯之旅结束了](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%AC%A7%E6%B4%B2%E6%9D%AF%E4%B9%8B%E6%97%85%E7%BB%93%E6%9D%9F%E4%BA%86&Refer=top)
+
+1. [C罗拥抱卢卡库](https://s.weibo.com//weibo?q=C%E7%BD%97%E6%8B%A5%E6%8A%B1%E5%8D%A2%E5%8D%A1%E5%BA%93&Refer=top)
+
+1. [革命者](https://s.weibo.com//weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top)
 
