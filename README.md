@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-27 13:02:45
+## 微博今日热榜 更新于 2021-06-27 14:04:21
 1. [唢呐一响穿越百年](https://s.weibo.com//weibo?q=%23%E5%94%A2%E5%91%90%E4%B8%80%E5%93%8D%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&Refer=new_time)
 
 1. [考出668分好成绩女孩怀疑加错了](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top)
@@ -322,4 +322,40 @@
 1. [团建社死现场](https://s.weibo.com//weibo?q=%23%E5%9B%A2%E5%BB%BA%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
 1. [考辛斯罚球违例](https://s.weibo.com//weibo?q=%23%E8%80%83%E8%BE%9B%E6%96%AF%E7%BD%9A%E7%90%83%E8%BF%9D%E4%BE%8B%23&Refer=top)
+
+1. [外孙女出嫁外公不舍大哭送出门](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%AD%99%E5%A5%B3%E5%87%BA%E5%AB%81%E5%A4%96%E5%85%AC%E4%B8%8D%E8%88%8D%E5%A4%A7%E5%93%AD%E9%80%81%E5%87%BA%E9%97%A8%23&Refer=top)
+
+1. [我国五大最高荣誉即将颁齐](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%94%E5%A4%A7%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%E5%8D%B3%E5%B0%86%E9%A2%81%E9%BD%90%23&Refer=top)
+
+1. [今年新增37个本科专业](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%96%B0%E5%A2%9E37%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%23&Refer=top)
+
+1. [骗子冒充领导让财务转账238万](https://s.weibo.com//weibo?q=%23%E9%AA%97%E5%AD%90%E5%86%92%E5%85%85%E9%A2%86%E5%AF%BC%E8%AE%A9%E8%B4%A2%E5%8A%A1%E8%BD%AC%E8%B4%A6238%E4%B8%87%23&Refer=top)
+
+1. [Lisa好辣](https://s.weibo.com//weibo?q=%23Lisa%E5%A5%BD%E8%BE%A3%23&Refer=top)
+
+1. [金圣圭确诊感染新冠](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%9C%A3%E5%9C%AD%E7%A1%AE%E8%AF%8A%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
+
+1. [农夫山泉 福岛水果](https://s.weibo.com//weibo?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%20%E7%A6%8F%E5%B2%9B%E6%B0%B4%E6%9E%9C&Refer=top)
+
+1. [武汉暴雨](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [男子救老人前录像喊话别讹我](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%91%E8%80%81%E4%BA%BA%E5%89%8D%E5%BD%95%E5%83%8F%E5%96%8A%E8%AF%9D%E5%88%AB%E8%AE%B9%E6%88%91%23&Refer=top)
+
+1. [海关在饼干里查出5张LSD致幻剂](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%85%B3%E5%9C%A8%E9%A5%BC%E5%B9%B2%E9%87%8C%E6%9F%A5%E5%87%BA5%E5%BC%A0LSD%E8%87%B4%E5%B9%BB%E5%89%82%23&Refer=top)
+
+1. [论文选题能有多有趣](https://s.weibo.com//weibo?q=%23%E8%AE%BA%E6%96%87%E9%80%89%E9%A2%98%E8%83%BD%E6%9C%89%E5%A4%9A%E6%9C%89%E8%B6%A3%23&Refer=top)
+
+1. [乌合麒麟收回道歉](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%94%B6%E5%9B%9E%E9%81%93%E6%AD%89&Refer=top)
+
+1. [年轻演员合唱少年](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E6%BC%94%E5%91%98%E5%90%88%E5%94%B1%E5%B0%91%E5%B9%B4%23&Refer=top)
+
+1. [艾顿19分22篮板](https://s.weibo.com//weibo?q=%E8%89%BE%E9%A1%BF19%E5%88%8622%E7%AF%AE%E6%9D%BF&Refer=top)
+
+1. [不对症人群久服片仔癀有毒副作用](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%AF%B9%E7%97%87%E4%BA%BA%E7%BE%A4%E4%B9%85%E6%9C%8D%E7%89%87%E4%BB%94%E7%99%80%E6%9C%89%E6%AF%92%E5%89%AF%E4%BD%9C%E7%94%A8%23&Refer=top)
+
+1. [广东中考数学](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%23&Refer=top)
+
+1. [90后工程师6年参加15次航天发射](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B7%A5%E7%A8%8B%E5%B8%886%E5%B9%B4%E5%8F%82%E5%8A%A015%E6%AC%A1%E8%88%AA%E5%A4%A9%E5%8F%91%E5%B0%84%23&Refer=top)
+
+1. [许凯花絮好皮](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%87%AF%E8%8A%B1%E7%B5%AE%E5%A5%BD%E7%9A%AE%23&Refer=top)
 
