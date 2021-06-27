@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 00:04:59
+## 微博今日热榜 更新于 2021-06-28 01:11:01
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -106,4 +106,20 @@
 1. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
 
 1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [邓紫棋卷发](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%B7%E5%8F%91%23&Refer=top)
+
+1. [张云龙 背锅是我的强项](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BA%91%E9%BE%99%20%E8%83%8C%E9%94%85%E6%98%AF%E6%88%91%E7%9A%84%E5%BC%BA%E9%A1%B9&Refer=top)
+
+1. [SNH48总选速报](https://s.weibo.com//weibo?q=%23SNH48%E6%80%BB%E9%80%89%E9%80%9F%E6%8A%A5%23&Refer=top)
+
+1. [庆怜谈穿高跟鞋感受](https://s.weibo.com//weibo?q=%23%E5%BA%86%E6%80%9C%E8%B0%88%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%84%9F%E5%8F%97%23&Refer=top)
+
+1. [张哲瀚拍松鼠吃开心果](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E6%8B%8D%E6%9D%BE%E9%BC%A0%E5%90%83%E5%BC%80%E5%BF%83%E6%9E%9C%23&Refer=top)
+
+1. [宋茜落泪读信](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%90%BD%E6%B3%AA%E8%AF%BB%E4%BF%A1%23&Refer=top)
+
+1. [景涧到底有多八卦](https://s.weibo.com//weibo?q=%23%E6%99%AF%E6%B6%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%85%AB%E5%8D%A6%23&Refer=top)
+
+1. [电影之歌](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B9%8B%E6%AD%8C%23&Refer=top)
 
