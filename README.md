@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 12:06:04
+## 微博今日热榜 更新于 2021-06-28 13:02:56
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -322,4 +322,26 @@
 1. [美国佛州住宅楼坍塌事故死亡人数升至9人](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E4%BD%8F%E5%AE%85%E6%A5%BC%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B39%E4%BA%BA%23&Refer=top)
 
 1. [50余页英军机密文件被放在公交站](https://s.weibo.com//weibo?q=%2350%E4%BD%99%E9%A1%B5%E8%8B%B1%E5%86%9B%E6%9C%BA%E5%AF%86%E6%96%87%E4%BB%B6%E8%A2%AB%E6%94%BE%E5%9C%A8%E5%85%AC%E4%BA%A4%E7%AB%99%23&Refer=top)
+
+1. [厦大录取通知书含大师手记](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%90%AB%E5%A4%A7%E5%B8%88%E6%89%8B%E8%AE%B0%23&Refer=top)
+
+1. [中国共产党的朋友遍天下](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E6%9C%8B%E5%8F%8B%E9%81%8D%E5%A4%A9%E4%B8%8B%23&Refer=top)
+
+1. [国家队下凡神仙表演](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%8B%E5%87%A1%E7%A5%9E%E4%BB%99%E8%A1%A8%E6%BC%94%23&Refer=top)
+
+1. [国产疫苗对德尔塔变异株仍有效](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7%E7%96%AB%E8%8B%97%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BB%8D%E6%9C%89%E6%95%88%23&Refer=top)
+
+1. [当孩子无事献殷勤](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%AD%A9%E5%AD%90%E6%97%A0%E4%BA%8B%E7%8C%AE%E6%AE%B7%E5%8B%A4%23&Refer=top)
+
+1. [老鹰球迷为字母哥罚球倒数](https://s.weibo.com//weibo?q=%23%E8%80%81%E9%B9%B0%E7%90%83%E8%BF%B7%E4%B8%BA%E5%AD%97%E6%AF%8D%E5%93%A5%E7%BD%9A%E7%90%83%E5%80%92%E6%95%B0%23&Refer=top)
+
+1. [广东连续6日本土无新增](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BF%9E%E7%BB%AD6%E6%97%A5%E6%9C%AC%E5%9C%9F%E6%97%A0%E6%96%B0%E5%A2%9E%23&Refer=top)
+
+1. [1米9男生挨个举女同学拍毕业照](https://s.weibo.com//weibo?q=%231%E7%B1%B39%E7%94%B7%E7%94%9F%E6%8C%A8%E4%B8%AA%E4%B8%BE%E5%A5%B3%E5%90%8C%E5%AD%A6%E6%8B%8D%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top)
+
+1. [84岁大爷驾考科目三满分过](https://s.weibo.com//weibo?q=%2384%E5%B2%81%E5%A4%A7%E7%88%B7%E9%A9%BE%E8%80%83%E7%A7%91%E7%9B%AE%E4%B8%89%E6%BB%A1%E5%88%86%E8%BF%87%23&Refer=top)
+
+1. [欧洲杯凌晨奶茶外卖订单涨2倍](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%87%8C%E6%99%A8%E5%A5%B6%E8%8C%B6%E5%A4%96%E5%8D%96%E8%AE%A2%E5%8D%95%E6%B6%A82%E5%80%8D%23&Refer=top)
+
+1. [张颂文听李大钊夫人遭遇现场落泪](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%90%AC%E6%9D%8E%E5%A4%A7%E9%92%8A%E5%A4%AB%E4%BA%BA%E9%81%AD%E9%81%87%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA&Refer=top)
 
