@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 16:09:33
+## 微博今日热榜 更新于 2021-06-28 17:08:22
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -446,4 +446,28 @@
 1. [90岁教授备氧气瓶参加毕业礼](https://s.weibo.com//weibo?q=%2390%E5%B2%81%E6%95%99%E6%8E%88%E5%A4%87%E6%B0%A7%E6%B0%94%E7%93%B6%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E7%A4%BC%23&Refer=top)
 
 1. [武汉暴雨后现棉花白云海](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8%E5%90%8E%E7%8E%B0%E6%A3%89%E8%8A%B1%E7%99%BD%E4%BA%91%E6%B5%B7%23&Refer=top)
+
+1. [开飞机的小姐姐](https://s.weibo.com//weibo?q=%23%E5%BC%80%E9%A3%9E%E6%9C%BA%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%23&Refer=top)
+
+1. [印度新冠死亡人数或达200万人](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E6%88%96%E8%BE%BE200%E4%B8%87%E4%BA%BA%23&Refer=top)
+
+1. [奥运落选赛中国男篮12人名单](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E8%90%BD%E9%80%89%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE12%E4%BA%BA%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [原来孔雀是这样飞的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AD%94%E9%9B%80%E6%98%AF%E8%BF%99%E6%A0%B7%E9%A3%9E%E7%9A%84%23&Refer=top)
+
+1. [葡萄牙队史首次未进欧洲杯八强](https://s.weibo.com//weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E5%8F%B2%E9%A6%96%E6%AC%A1%E6%9C%AA%E8%BF%9B%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%85%AB%E5%BC%BA%23&Refer=top)
+
+1. [见过最整齐的毕业照](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E6%95%B4%E9%BD%90%E7%9A%84%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top)
+
+1. [初三女生为全班手绘漫画毕业贺卡](https://s.weibo.com//weibo?q=%23%E5%88%9D%E4%B8%89%E5%A5%B3%E7%94%9F%E4%B8%BA%E5%85%A8%E7%8F%AD%E6%89%8B%E7%BB%98%E6%BC%AB%E7%94%BB%E6%AF%95%E4%B8%9A%E8%B4%BA%E5%8D%A1%23&Refer=top)
+
+1. [消防员用冰棍冰敷滚烫双脸](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%94%A8%E5%86%B0%E6%A3%8D%E5%86%B0%E6%95%B7%E6%BB%9A%E7%83%AB%E5%8F%8C%E8%84%B8%23&Refer=top)
+
+1. [我的叔叔是超人](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%94%E5%8F%94%E6%98%AF%E8%B6%85%E4%BA%BA%23&Refer=top)
+
+1. [央美的跳蚤市场](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E7%BE%8E%E7%9A%84%E8%B7%B3%E8%9A%A4%E5%B8%82%E5%9C%BA%23&Refer=top)
+
+1. [红歌百年唱给党MV发布](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E6%AD%8C%E7%99%BE%E5%B9%B4%E5%94%B1%E7%BB%99%E5%85%9AMV%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [160秒看山东这百年](https://s.weibo.com//weibo?q=%23160%E7%A7%92%E7%9C%8B%E5%B1%B1%E4%B8%9C%E8%BF%99%E7%99%BE%E5%B9%B4%23&Refer=top)
 
