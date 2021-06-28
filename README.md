@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 05:02:59
+## 微博今日热榜 更新于 2021-06-29 06:03:34
 1. [红色百年路](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E7%99%BE%E5%B9%B4%E8%B7%AF%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -160,4 +160,12 @@
 1. [法国瑞士加时赛](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E7%91%9E%E5%A3%AB%E5%8A%A0%E6%97%B6%E8%B5%9B&Refer=top)
 
 1. [塞费罗维奇梅开二度](https://s.weibo.com//weibo?q=%E5%A1%9E%E8%B4%B9%E7%BD%97%E7%BB%B4%E5%A5%87%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [法国瑞士点球大战](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E7%91%9E%E5%A3%AB%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&Refer=top)
+
+1. [姆巴佩点球不进](https://s.weibo.com//weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%82%B9%E7%90%83%E4%B8%8D%E8%BF%9B&Refer=top)
+
+1. [瑞士点球战胜法国](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E6%B3%95%E5%9B%BD&Refer=top)
+
+1. [今天起中国邮政全面提速](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%B5%B7%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%85%A8%E9%9D%A2%E6%8F%90%E9%80%9F%23&Refer=top)
 
