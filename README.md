@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 14:05:19
+## 微博今日热榜 更新于 2021-06-28 15:03:02
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -376,4 +376,26 @@
 1. [晕倒羊有多惨](https://s.weibo.com//weibo?q=%23%E6%99%95%E5%80%92%E7%BE%8A%E6%9C%89%E5%A4%9A%E6%83%A8%23&Refer=top)
 
 1. [体育场的椅子是怎么翻新的](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E5%9C%BA%E7%9A%84%E6%A4%85%E5%AD%90%E6%98%AF%E6%80%8E%E4%B9%88%E7%BF%BB%E6%96%B0%E7%9A%84%23&Refer=top)
+
+1. [拜登下令空袭伊拉克叙利亚边境地区](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%8B%89%E5%85%8B%E5%8F%99%E5%88%A9%E4%BA%9A%E8%BE%B9%E5%A2%83%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [录取通知书](https://s.weibo.com//weibo?q=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6&Refer=top)
+
+1. [老师做矿泉水变色实验看呆小学生](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E5%81%9A%E7%9F%BF%E6%B3%89%E6%B0%B4%E5%8F%98%E8%89%B2%E5%AE%9E%E9%AA%8C%E7%9C%8B%E5%91%86%E5%B0%8F%E5%AD%A6%E7%94%9F%23&Refer=top)
+
+1. [生母愿意让失散23年儿子与养母生活](https://s.weibo.com//weibo?q=%23%E7%94%9F%E6%AF%8D%E6%84%BF%E6%84%8F%E8%AE%A9%E5%A4%B1%E6%95%A323%E5%B9%B4%E5%84%BF%E5%AD%90%E4%B8%8E%E5%85%BB%E6%AF%8D%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [北京6月28日地铁运营调整](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC6%E6%9C%8828%E6%97%A5%E5%9C%B0%E9%93%81%E8%BF%90%E8%90%A5%E8%B0%83%E6%95%B4%23&Refer=top)
+
+1. [寒号鸟真的不是鸟](https://s.weibo.com//weibo?q=%23%E5%AF%92%E5%8F%B7%E9%B8%9F%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E9%B8%9F%23&Refer=top)
+
+1. [对话火场救弟致残高考生](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E8%AF%9D%E7%81%AB%E5%9C%BA%E6%95%91%E5%BC%9F%E8%87%B4%E6%AE%8B%E9%AB%98%E8%80%83%E7%94%9F%23&Refer=top)
+
+1. [美国频现排队加价抢房](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A2%91%E7%8E%B0%E6%8E%92%E9%98%9F%E5%8A%A0%E4%BB%B7%E6%8A%A2%E6%88%BF%23&Refer=top)
+
+1. [生活中唱歌好听是加分项吗](https://s.weibo.com//weibo?q=%23%E7%94%9F%E6%B4%BB%E4%B8%AD%E5%94%B1%E6%AD%8C%E5%A5%BD%E5%90%AC%E6%98%AF%E5%8A%A0%E5%88%86%E9%A1%B9%E5%90%97%23&Refer=top)
+
+1. [歼20与红日绝美同框](https://s.weibo.com//weibo?q=%E6%AD%BC20%E4%B8%8E%E7%BA%A2%E6%97%A5%E7%BB%9D%E7%BE%8E%E5%90%8C%E6%A1%86&Refer=top)
+
+1. [暴雨突袭女子请老人小孩进店避雨](https://s.weibo.com//weibo?q=%E6%9A%B4%E9%9B%A8%E7%AA%81%E8%A2%AD%E5%A5%B3%E5%AD%90%E8%AF%B7%E8%80%81%E4%BA%BA%E5%B0%8F%E5%AD%A9%E8%BF%9B%E5%BA%97%E9%81%BF%E9%9B%A8&Refer=top)
 
