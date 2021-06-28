@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 22:07:37
+## 微博今日热榜 更新于 2021-06-28 23:08:23
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -626,4 +626,38 @@
 1. [比利时足球如何迅速逆袭](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E8%B6%B3%E7%90%83%E5%A6%82%E4%BD%95%E8%BF%85%E9%80%9F%E9%80%86%E8%A2%AD%23&Refer=top)
 
 1. [温网2021](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E7%BD%912021%23&Refer=top)
+
+1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
+
+1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
+
+1. [周恩来穿过的风衣及中山装首次亮相](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%81%A9%E6%9D%A5%E7%A9%BF%E8%BF%87%E7%9A%84%E9%A3%8E%E8%A1%A3%E5%8F%8A%E4%B8%AD%E5%B1%B1%E8%A3%85%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&Refer=top)
+
+1. [陈独秀开会最多十五分钟](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%8B%AC%E7%A7%80%E5%BC%80%E4%BC%9A%E6%9C%80%E5%A4%9A%E5%8D%81%E4%BA%94%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [燕子一家八口在监控死角安家](https://s.weibo.com//weibo?q=%23%E7%87%95%E5%AD%90%E4%B8%80%E5%AE%B6%E5%85%AB%E5%8F%A3%E5%9C%A8%E7%9B%91%E6%8E%A7%E6%AD%BB%E8%A7%92%E5%AE%89%E5%AE%B6%23&Refer=top)
+
+1. [南京少女上课爱发呆被确诊癫痫](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%B0%91%E5%A5%B3%E4%B8%8A%E8%AF%BE%E7%88%B1%E5%8F%91%E5%91%86%E8%A2%AB%E7%A1%AE%E8%AF%8A%E7%99%AB%E7%97%AB%23&Refer=top)
+
+1. [150多位国家元首政府首脑向建党百年道贺](https://s.weibo.com//weibo?q=%23150%E5%A4%9A%E4%BD%8D%E5%9B%BD%E5%AE%B6%E5%85%83%E9%A6%96%E6%94%BF%E5%BA%9C%E9%A6%96%E8%84%91%E5%90%91%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E9%81%93%E8%B4%BA%23&Refer=top)
+
+1. [英雄联盟电竞经理版号获批](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%94%B5%E7%AB%9E%E7%BB%8F%E7%90%86%E7%89%88%E5%8F%B7%E8%8E%B7%E6%89%B9%23&Refer=top)
+
+1. [中国共产党党徽党旗条例](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%9A%E5%BE%BD%E5%85%9A%E6%97%97%E6%9D%A1%E4%BE%8B&Refer=top)
+
+1. [玩摩尔庄园职业病犯了](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E8%81%8C%E4%B8%9A%E7%97%85%E7%8A%AF%E4%BA%86%23&Refer=top)
+
+1. [侯明昊演的蔡博真](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E7%9A%84%E8%94%A1%E5%8D%9A%E7%9C%9F%23&Refer=top)
+
+1. [多名乘客占服务区停车位跳广场舞](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8D%A0%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%81%9C%E8%BD%A6%E4%BD%8D%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E%23&Refer=top)
+
+1. [高中老师谈高分外卖小哥考前状态](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%AD%E8%80%81%E5%B8%88%E8%B0%88%E9%AB%98%E5%88%86%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%80%83%E5%89%8D%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [翟潇闻演的简阳](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E6%BC%94%E7%9A%84%E7%AE%80%E9%98%B3%23&Refer=top)
+
+1. [谢华安院士坚守水稻育种47年](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%8D%8E%E5%AE%89%E9%99%A2%E5%A3%AB%E5%9D%9A%E5%AE%88%E6%B0%B4%E7%A8%BB%E8%82%B2%E7%A7%8D47%E5%B9%B4%23&Refer=top)
+
+1. [克罗地亚 西班牙](https://s.weibo.com//weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top)
+
+1. [一图了解我国最高荣誉勋章](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E6%88%91%E5%9B%BD%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%E5%8B%8B%E7%AB%A0%23&Refer=top)
 
