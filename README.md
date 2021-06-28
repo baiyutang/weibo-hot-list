@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 02:20:25
+## 微博今日热榜 更新于 2021-06-29 03:10:27
 1. [红色百年路](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E7%99%BE%E5%B9%B4%E8%B7%AF%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -132,4 +132,12 @@
 1. [西班牙克罗地亚加时赛](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%8A%A0%E6%97%B6%E8%B5%9B&Refer=top)
 
 1. [莫拉塔破门](https://s.weibo.com//weibo?q=%E8%8E%AB%E6%8B%89%E5%A1%94%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [西班牙5比3克罗地亚](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%995%E6%AF%943%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&Refer=top)
+
+1. [法国 瑞士](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%20%E7%91%9E%E5%A3%AB&Refer=top)
+
+1. [西班牙晋级八强](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&Refer=top)
+
+1. [谢华安院士坚守水稻育种47年](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%8D%8E%E5%AE%89%E9%99%A2%E5%A3%AB%E5%9D%9A%E5%AE%88%E6%B0%B4%E7%A8%BB%E8%82%B2%E7%A7%8D47%E5%B9%B4%23&Refer=top)
 
