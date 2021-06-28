@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 09:49:03
+## 微博今日热榜 更新于 2021-06-28 10:21:23
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -242,4 +242,22 @@
 1. [香港黑色暴雨警告](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E9%BB%91%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A&Refer=top)
 
 1. [多位海外代表团成员抵日后被感染新冠](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E5%91%98%E6%8A%B5%E6%97%A5%E5%90%8E%E8%A2%AB%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
+
+1. [杨利伟曾在太空中产生180度颠倒错觉](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E6%9B%BE%E5%9C%A8%E5%A4%AA%E7%A9%BA%E4%B8%AD%E4%BA%A7%E7%94%9F180%E5%BA%A6%E9%A2%A0%E5%80%92%E9%94%99%E8%A7%89%23&Refer=top)
+
+1. [钉钉崩了](https://s.weibo.com//weibo?q=%23%E9%92%89%E9%92%89%E5%B4%A9%E4%BA%86%23&Refer=top)
+
+1. [长泽雅美新垣结衣同框](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B3%BD%E9%9B%85%E7%BE%8E%E6%96%B0%E5%9E%A3%E7%BB%93%E8%A1%A3%E5%90%8C%E6%A1%86%23&Refer=top)
+
+1. [港交所取消上午时段交易](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E4%BA%A4%E6%89%80%E5%8F%96%E6%B6%88%E4%B8%8A%E5%8D%88%E6%97%B6%E6%AE%B5%E4%BA%A4%E6%98%93%23&Refer=top)
+
+1. [青岛大学毕业典礼学生神仙翻唱](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%AD%A6%E7%94%9F%E7%A5%9E%E4%BB%99%E7%BF%BB%E5%94%B1%23&Refer=top)
+
+1. [雄鹿vs老鹰](https://s.weibo.com//weibo?q=%23%E9%9B%84%E9%B9%BFvs%E8%80%81%E9%B9%B0%23&Refer=top)
+
+1. [C罗憾别欧洲杯](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%86%BE%E5%88%AB%E6%AC%A7%E6%B4%B2%E6%9D%AF%23&Refer=top)
+
+1. [马伦单刀不进](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%BC%A6%E5%8D%95%E5%88%80%E4%B8%8D%E8%BF%9B&Refer=top)
+
+1. [食用冰镇西瓜或引发胃损伤](https://s.weibo.com//weibo?q=%23%E9%A3%9F%E7%94%A8%E5%86%B0%E9%95%87%E8%A5%BF%E7%93%9C%E6%88%96%E5%BC%95%E5%8F%91%E8%83%83%E6%8D%9F%E4%BC%A4%23&Refer=top)
 
