@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 06:03:34
+## 微博今日热榜 更新于 2021-06-29 07:03:30
 1. [红色百年路](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E7%99%BE%E5%B9%B4%E8%B7%AF%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -168,4 +168,8 @@
 1. [瑞士点球战胜法国](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E6%B3%95%E5%9B%BD&Refer=top)
 
 1. [今天起中国邮政全面提速](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%B5%B7%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%85%A8%E9%9D%A2%E6%8F%90%E9%80%9F%23&Refer=top)
+
+1. [人民就是江山](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B0%B1%E6%98%AF%E6%B1%9F%E5%B1%B1%23&Refer=new_time)
+
+1. [双世宠妃为何能拍到第三季](https://s.weibo.com//weibo?q=%E5%8F%8C%E4%B8%96%E5%AE%A0%E5%A6%83%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8B%8D%E5%88%B0%E7%AC%AC%E4%B8%89%E5%AD%A3&Refer=top)
 
