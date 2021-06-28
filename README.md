@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 18:08:33
+## 微博今日热榜 更新于 2021-06-28 19:07:42
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -510,4 +510,42 @@
 1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
 
 1. [90后小伙为寻母3年拍摄近千条视频](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E5%AF%BB%E6%AF%8D3%E5%B9%B4%E6%8B%8D%E6%91%84%E8%BF%91%E5%8D%83%E6%9D%A1%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [三个月大婴儿因神似英首相约翰逊](https://s.weibo.com//weibo?q=%E4%B8%89%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E5%9B%A0%E7%A5%9E%E4%BC%BC%E8%8B%B1%E9%A6%96%E7%9B%B8%E7%BA%A6%E7%BF%B0%E9%80%8A&Refer=top)
+
+1. [杨利伟说当年为训练买了台挺贵的摄像机](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E8%AF%B4%E5%BD%93%E5%B9%B4%E4%B8%BA%E8%AE%AD%E7%BB%83%E4%B9%B0%E4%BA%86%E5%8F%B0%E6%8C%BA%E8%B4%B5%E7%9A%84%E6%91%84%E5%83%8F%E6%9C%BA%23&Refer=top)
+
+1. [现实版勇敢牛牛不怕困难](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E5%8B%87%E6%95%A2%E7%89%9B%E7%89%9B%E4%B8%8D%E6%80%95%E5%9B%B0%E9%9A%BE&Refer=top)
+
+1. [扬州大学推出轻食减脂餐4元起](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E6%8E%A8%E5%87%BA%E8%BD%BB%E9%A3%9F%E5%87%8F%E8%84%82%E9%A4%904%E5%85%83%E8%B5%B7%23&Refer=top)
+
+1. [2PM回归](https://s.weibo.com//weibo?q=%232PM%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [996职场妈妈备考半年考上复旦MBA](https://s.weibo.com//weibo?q=%23996%E8%81%8C%E5%9C%BA%E5%A6%88%E5%A6%88%E5%A4%87%E8%80%83%E5%8D%8A%E5%B9%B4%E8%80%83%E4%B8%8A%E5%A4%8D%E6%97%A6MBA%23&Refer=top)
+
+1. [姜云升鞠婧祎梦幻联动](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E4%BA%91%E5%8D%87%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23&Refer=top)
+
+1. [河南电视台注册洛神水赋商标](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E6%B3%A8%E5%86%8C%E6%B4%9B%E7%A5%9E%E6%B0%B4%E8%B5%8B%E5%95%86%E6%A0%87%23&Refer=top)
+
+1. [山东教师夫妻2分钟救2名落水群众](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%95%99%E5%B8%88%E5%A4%AB%E5%A6%BB2%E5%88%86%E9%92%9F%E6%95%912%E5%90%8D%E8%90%BD%E6%B0%B4%E7%BE%A4%E4%BC%97%23&Refer=top)
+
+1. [航天员上肢力量不亚于专业运动员](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%8A%E8%82%A2%E5%8A%9B%E9%87%8F%E4%B8%8D%E4%BA%9A%E4%BA%8E%E4%B8%93%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top)
+
+1. [假如男友是球星穿搭图鉴](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E7%94%B7%E5%8F%8B%E6%98%AF%E7%90%83%E6%98%9F%E7%A9%BF%E6%90%AD%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [黑熊偷吃村民蜂蜜后爬上树睡着](https://s.weibo.com//weibo?q=%23%E9%BB%91%E7%86%8A%E5%81%B7%E5%90%83%E6%9D%91%E6%B0%91%E8%9C%82%E8%9C%9C%E5%90%8E%E7%88%AC%E4%B8%8A%E6%A0%91%E7%9D%A1%E7%9D%80%23&Refer=top)
+
+1. [水墨国画奥特曼](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E5%A2%A8%E5%9B%BD%E7%94%BB%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top)
+
+1. [130秒全景展现世界在建最大水电站](https://s.weibo.com//weibo?q=%23130%E7%A7%92%E5%85%A8%E6%99%AF%E5%B1%95%E7%8E%B0%E4%B8%96%E7%95%8C%E5%9C%A8%E5%BB%BA%E6%9C%80%E5%A4%A7%E6%B0%B4%E7%94%B5%E7%AB%99%23&Refer=top)
+
+1. [全息影像裸眼3D还原一大召开场景](https://s.weibo.com//weibo?q=%23%E5%85%A8%E6%81%AF%E5%BD%B1%E5%83%8F%E8%A3%B8%E7%9C%BC3D%E8%BF%98%E5%8E%9F%E4%B8%80%E5%A4%A7%E5%8F%AC%E5%BC%80%E5%9C%BA%E6%99%AF%23&Refer=top)
+
+1. [航班滑回廊桥接走急捐干细胞男子](https://s.weibo.com//weibo?q=%23%E8%88%AA%E7%8F%AD%E6%BB%91%E5%9B%9E%E5%BB%8A%E6%A1%A5%E6%8E%A5%E8%B5%B0%E6%80%A5%E6%8D%90%E5%B9%B2%E7%BB%86%E8%83%9E%E7%94%B7%E5%AD%90%23&Refer=top)
+
+1. [本人讲价水平](https://s.weibo.com//weibo?q=%E6%9C%AC%E4%BA%BA%E8%AE%B2%E4%BB%B7%E6%B0%B4%E5%B9%B3&Refer=top)
+
+1. [C罗说我们会以更强的姿态回归](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E8%AF%B4%E6%88%91%E4%BB%AC%E4%BC%9A%E4%BB%A5%E6%9B%B4%E5%BC%BA%E7%9A%84%E5%A7%BF%E6%80%81%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [新品茅台渠道价一瓶5500元](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%93%81%E8%8C%85%E5%8F%B0%E6%B8%A0%E9%81%93%E4%BB%B7%E4%B8%80%E7%93%B65500%E5%85%83%23&Refer=top)
 
