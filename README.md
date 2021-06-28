@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 17:08:22
+## 微博今日热榜 更新于 2021-06-28 18:08:33
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -470,4 +470,44 @@
 1. [红歌百年唱给党MV发布](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E6%AD%8C%E7%99%BE%E5%B9%B4%E5%94%B1%E7%BB%99%E5%85%9AMV%E5%8F%91%E5%B8%83%23&Refer=top)
 
 1. [160秒看山东这百年](https://s.weibo.com//weibo?q=%23160%E7%A7%92%E7%9C%8B%E5%B1%B1%E4%B8%9C%E8%BF%99%E7%99%BE%E5%B9%B4%23&Refer=top)
+
+1. [苹果客服回应iPhone12Mini停产](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone12Mini%E5%81%9C%E4%BA%A7%23&Refer=top)
+
+1. [2名毕业生毫不犹豫扶起摔倒老人](https://s.weibo.com//weibo?q=%232%E5%90%8D%E6%AF%95%E4%B8%9A%E7%94%9F%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E6%89%B6%E8%B5%B7%E6%91%94%E5%80%92%E8%80%81%E4%BA%BA%23&Refer=top)
+
+1. [2颗鸡蛋拌饭](https://s.weibo.com//weibo?q=%232%E9%A2%97%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD%23&Refer=top)
+
+1. [只有广东人才听得懂的话](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%89%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%89%8D%E5%90%AC%E5%BE%97%E6%87%82%E7%9A%84%E8%AF%9D%23&Refer=top)
+
+1. [厦门变更暴雨红色预警](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E5%8F%98%E6%9B%B4%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [印度部长抨击美电商巨头傲慢](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E9%83%A8%E9%95%BF%E6%8A%A8%E5%87%BB%E7%BE%8E%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E5%82%B2%E6%85%A2%23&Refer=top)
+
+1. [中俄睦邻友好合作条约延期](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%9D%A6%E9%82%BB%E5%8F%8B%E5%A5%BD%E5%90%88%E4%BD%9C%E6%9D%A1%E7%BA%A6%E5%BB%B6%E6%9C%9F%23&Refer=top)
+
+1. [为什么科技公司都想造车](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E9%83%BD%E6%83%B3%E9%80%A0%E8%BD%A6%23&Refer=top)
+
+1. [钉钉回应电脑端出故障](https://s.weibo.com//weibo?q=%23%E9%92%89%E9%92%89%E5%9B%9E%E5%BA%94%E7%94%B5%E8%84%91%E7%AB%AF%E5%87%BA%E6%95%85%E9%9A%9C%23&Refer=top)
+
+1. [油价年内第9涨](https://s.weibo.com//weibo?q=%23%E6%B2%B9%E4%BB%B7%E5%B9%B4%E5%86%85%E7%AC%AC9%E6%B6%A8%23&Refer=top)
+
+1. [中国共产党的第一声广播从窑洞里发出](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A3%B0%E5%B9%BF%E6%92%AD%E4%BB%8E%E7%AA%91%E6%B4%9E%E9%87%8C%E5%8F%91%E5%87%BA%23&Refer=top)
+
+1. [深圳人社局回应保留大专直接落户](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E7%A4%BE%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BF%9D%E7%95%99%E5%A4%A7%E4%B8%93%E7%9B%B4%E6%8E%A5%E8%90%BD%E6%88%B7%23&Refer=top)
+
+1. [上个世纪的化妆品有多精致](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8C%96%E5%A6%86%E5%93%81%E6%9C%89%E5%A4%9A%E7%B2%BE%E8%87%B4%23&Refer=top)
+
+1. [奇奇怪怪的体育选课](https://s.weibo.com//weibo?q=%23%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E4%BD%93%E8%82%B2%E9%80%89%E8%AF%BE%23&Refer=top)
+
+1. [荷兰队解雇主帅德波尔](https://s.weibo.com//weibo?q=%23%E8%8D%B7%E5%85%B0%E9%98%9F%E8%A7%A3%E9%9B%87%E4%B8%BB%E5%B8%85%E5%BE%B7%E6%B3%A2%E5%B0%94%23&Refer=top)
+
+1. [男子回应先录视频自证清白后救人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%85%88%E5%BD%95%E8%A7%86%E9%A2%91%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%E5%90%8E%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [入境日本前需连测7天核酸](https://s.weibo.com//weibo?q=%23%E5%85%A5%E5%A2%83%E6%97%A5%E6%9C%AC%E5%89%8D%E9%9C%80%E8%BF%9E%E6%B5%8B7%E5%A4%A9%E6%A0%B8%E9%85%B8%23&Refer=top)
+
+1. [首列中国标准地铁列车在郑州下线](https://s.weibo.com//weibo?q=%23%E9%A6%96%E5%88%97%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86%E5%9C%B0%E9%93%81%E5%88%97%E8%BD%A6%E5%9C%A8%E9%83%91%E5%B7%9E%E4%B8%8B%E7%BA%BF%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [90后小伙为寻母3年拍摄近千条视频](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E5%AF%BB%E6%AF%8D3%E5%B9%B4%E6%8B%8D%E6%91%84%E8%BF%91%E5%8D%83%E6%9D%A1%E8%A7%86%E9%A2%91%23&Refer=top)
 
