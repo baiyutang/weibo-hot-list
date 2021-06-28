@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 21:17:33
+## 微博今日热榜 更新于 2021-06-28 22:07:37
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -602,4 +602,28 @@
 1. [大象熟练地掀开井盖喝水](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E7%86%9F%E7%BB%83%E5%9C%B0%E6%8E%80%E5%BC%80%E4%BA%95%E7%9B%96%E5%96%9D%E6%B0%B4%23&Refer=top)
 
 1. [钱学森自述憋着一肚子气搞导弹研发](https://s.weibo.com//weibo?q=%23%E9%92%B1%E5%AD%A6%E6%A3%AE%E8%87%AA%E8%BF%B0%E6%86%8B%E7%9D%80%E4%B8%80%E8%82%9A%E5%AD%90%E6%B0%94%E6%90%9E%E5%AF%BC%E5%BC%B9%E7%A0%94%E5%8F%91%23&Refer=top)
+
+1. [东大录取通知书会唱歌会发光](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%BC%9A%E5%94%B1%E6%AD%8C%E4%BC%9A%E5%8F%91%E5%85%89%23&Refer=top)
+
+1. [郑渊洁回答找男朋友的用处](https://s.weibo.com//weibo?q=%23%E9%83%91%E6%B8%8A%E6%B4%81%E5%9B%9E%E7%AD%94%E6%89%BE%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E7%94%A8%E5%A4%84%23&Refer=top)
+
+1. [心疼简阳](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E7%AE%80%E9%98%B3%23&Refer=top)
+
+1. [童谣照顾陆思诚](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E8%B0%A3%E7%85%A7%E9%A1%BE%E9%99%86%E6%80%9D%E8%AF%9A%23&Refer=top)
+
+1. [朱一龙告别林楠笙](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%91%8A%E5%88%AB%E6%9E%97%E6%A5%A0%E7%AC%99%23&Refer=top)
+
+1. [宁德时代与特斯拉签订协议](https://s.weibo.com//weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%AD%BE%E8%AE%A2%E5%8D%8F%E8%AE%AE%23&Refer=top)
+
+1. [王俊凯来地球挺忙的](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%9D%A5%E5%9C%B0%E7%90%83%E6%8C%BA%E5%BF%99%E7%9A%84%23&Refer=top)
+
+1. [复旦送新生一盏小灯笼](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E9%80%81%E6%96%B0%E7%94%9F%E4%B8%80%E7%9B%8F%E5%B0%8F%E7%81%AF%E7%AC%BC%23&Refer=top)
+
+1. [高考623分外卖小哥自称反面教材](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83623%E5%88%86%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%87%AA%E7%A7%B0%E5%8F%8D%E9%9D%A2%E6%95%99%E6%9D%90&Refer=top)
+
+1. [鹤园小区医护人员工作记录曝光](https://s.weibo.com//weibo?q=%23%E9%B9%A4%E5%9B%AD%E5%B0%8F%E5%8C%BA%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23&Refer=top)
+
+1. [比利时足球如何迅速逆袭](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E8%B6%B3%E7%90%83%E5%A6%82%E4%BD%95%E8%BF%85%E9%80%9F%E9%80%86%E8%A2%AD%23&Refer=top)
+
+1. [温网2021](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E7%BD%912021%23&Refer=top)
 
