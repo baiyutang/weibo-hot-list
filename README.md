@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 11:04:09
+## 微博今日热榜 更新于 2021-06-28 12:06:04
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -284,4 +284,42 @@
 1. [宋茜读赵一曼遗书哽咽](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%AF%BB%E8%B5%B5%E4%B8%80%E6%9B%BC%E9%81%97%E4%B9%A6%E5%93%BD%E5%92%BD%23&Refer=top)
 
 1. [专家建议高血压患者夏季不要随意停药](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%A1%80%E5%8E%8B%E6%82%A3%E8%80%85%E5%A4%8F%E5%AD%A3%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E5%81%9C%E8%8D%AF%23&Refer=top)
+
+1. [从1921到2021](https://s.weibo.com//weibo?q=%23%E4%BB%8E1921%E5%88%B02021%23&Refer=new_time)
+
+1. [王俊凯受刑戏份](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%97%E5%88%91%E6%88%8F%E4%BB%BD%23&Refer=top)
+
+1. [农夫山泉市值暴跌2800亿](https://s.weibo.com//weibo?q=%23%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%B8%82%E5%80%BC%E6%9A%B4%E8%B7%8C2800%E4%BA%BF%23&Refer=top)
+
+1. [18岁喜欢的人28岁还在身边](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA28%E5%B2%81%E8%BF%98%E5%9C%A8%E8%BA%AB%E8%BE%B9%23&Refer=top)
+
+1. [多地银行暂停新房二手房房贷](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%93%B6%E8%A1%8C%E6%9A%82%E5%81%9C%E6%96%B0%E6%88%BF%E4%BA%8C%E6%89%8B%E6%88%BF%E6%88%BF%E8%B4%B7%23&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [男子网恋花14万女友实为同事扮演](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%8A%B114%E4%B8%87%E5%A5%B3%E5%8F%8B%E5%AE%9E%E4%B8%BA%E5%90%8C%E4%BA%8B%E6%89%AE%E6%BC%94%23&Refer=top)
+
+1. [台湾退役中将分析台湾只是美国棋子](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%80%80%E5%BD%B9%E4%B8%AD%E5%B0%86%E5%88%86%E6%9E%90%E5%8F%B0%E6%B9%BE%E5%8F%AA%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%A3%8B%E5%AD%90%23&Refer=top)
+
+1. [男子突发心梗被清洁工按压救回](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E8%A2%AB%E6%B8%85%E6%B4%81%E5%B7%A5%E6%8C%89%E5%8E%8B%E6%95%91%E5%9B%9E%23&Refer=top)
+
+1. [特朗普卸任后首场集会](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%B8%E4%BB%BB%E5%90%8E%E9%A6%96%E5%9C%BA%E9%9B%86%E4%BC%9A%23&Refer=top)
+
+1. [大连市民出海游玩拍到虎鲸](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%B8%82%E6%B0%91%E5%87%BA%E6%B5%B7%E6%B8%B8%E7%8E%A9%E6%8B%8D%E5%88%B0%E8%99%8E%E9%B2%B8%23&Refer=top)
+
+1. [董明珠称明年不会退休](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%98%8E%E5%B9%B4%E4%B8%8D%E4%BC%9A%E9%80%80%E4%BC%91%23&Refer=top)
+
+1. [得了诺贝尔奖能保研吗](https://s.weibo.com//weibo?q=%23%E5%BE%97%E4%BA%86%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E8%83%BD%E4%BF%9D%E7%A0%94%E5%90%97%23&Refer=top)
+
+1. [百年芳华](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E8%8A%B3%E5%8D%8E%23&Refer=top)
+
+1. [米德尔顿末节20分](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%BE%B7%E5%B0%94%E9%A1%BF%E6%9C%AB%E8%8A%8220%E5%88%86&Refer=top)
+
+1. [23岁刑警小花的反诈征途](https://s.weibo.com//weibo?q=%2323%E5%B2%81%E5%88%91%E8%AD%A6%E5%B0%8F%E8%8A%B1%E7%9A%84%E5%8F%8D%E8%AF%88%E5%BE%81%E9%80%94%23&Refer=top)
+
+1. [母子同被拐卖31年后重逢](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E5%AD%90%E5%90%8C%E8%A2%AB%E6%8B%90%E5%8D%9631%E5%B9%B4%E5%90%8E%E9%87%8D%E9%80%A2%23&Refer=top)
+
+1. [美国佛州住宅楼坍塌事故死亡人数升至9人](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E4%BD%8F%E5%AE%85%E6%A5%BC%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B39%E4%BA%BA%23&Refer=top)
+
+1. [50余页英军机密文件被放在公交站](https://s.weibo.com//weibo?q=%2350%E4%BD%99%E9%A1%B5%E8%8B%B1%E5%86%9B%E6%9C%BA%E5%AF%86%E6%96%87%E4%BB%B6%E8%A2%AB%E6%94%BE%E5%9C%A8%E5%85%AC%E4%BA%A4%E7%AB%99%23&Refer=top)
 
