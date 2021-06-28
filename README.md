@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 13:02:56
+## 微博今日热榜 更新于 2021-06-28 14:05:19
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -344,4 +344,36 @@
 1. [欧洲杯凌晨奶茶外卖订单涨2倍](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%87%8C%E6%99%A8%E5%A5%B6%E8%8C%B6%E5%A4%96%E5%8D%96%E8%AE%A2%E5%8D%95%E6%B6%A82%E5%80%8D%23&Refer=top)
 
 1. [张颂文听李大钊夫人遭遇现场落泪](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%90%AC%E6%9D%8E%E5%A4%A7%E9%92%8A%E5%A4%AB%E4%BA%BA%E9%81%AD%E9%81%87%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA&Refer=top)
+
+1. [74岁女婿跨越千里看望90岁丈母娘](https://s.weibo.com//weibo?q=%2374%E5%B2%81%E5%A5%B3%E5%A9%BF%E8%B7%A8%E8%B6%8A%E5%8D%83%E9%87%8C%E7%9C%8B%E6%9C%9B90%E5%B2%81%E4%B8%88%E6%AF%8D%E5%A8%98%23&Refer=top)
+
+1. [长沙橘子洲烟花将于6月30日晚回归](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E6%A9%98%E5%AD%90%E6%B4%B2%E7%83%9F%E8%8A%B1%E5%B0%86%E4%BA%8E6%E6%9C%8830%E6%97%A5%E6%99%9A%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [腾讯获推荐婚恋对象专利授权](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%8E%B7%E6%8E%A8%E8%8D%90%E5%A9%9A%E6%81%8B%E5%AF%B9%E8%B1%A1%E4%B8%93%E5%88%A9%E6%8E%88%E6%9D%83%23&Refer=top)
+
+1. [语文教材中杨利伟文章的第一个小标题](https://s.weibo.com//weibo?q=%23%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E4%B8%AD%E6%9D%A8%E5%88%A9%E4%BC%9F%E6%96%87%E7%AB%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B0%8F%E6%A0%87%E9%A2%98%23&Refer=top)
+
+1. [东大录取通知书公布](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [茅台葡萄酒一盒3299元](https://s.weibo.com//weibo?q=%23%E8%8C%85%E5%8F%B0%E8%91%A1%E8%90%84%E9%85%92%E4%B8%80%E7%9B%923299%E5%85%83%23&Refer=top)
+
+1. [警犬考试有多严格](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E7%8A%AC%E8%80%83%E8%AF%95%E6%9C%89%E5%A4%9A%E4%B8%A5%E6%A0%BC%23&Refer=top)
+
+1. [全班看忠犬八公哭到撕心裂肺](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%8F%AD%E7%9C%8B%E5%BF%A0%E7%8A%AC%E5%85%AB%E5%85%AC%E5%93%AD%E5%88%B0%E6%92%95%E5%BF%83%E8%A3%82%E8%82%BA%23&Refer=top)
+
+1. [腾讯申请毛雪汪商标](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E7%94%B3%E8%AF%B7%E6%AF%9B%E9%9B%AA%E6%B1%AA%E5%95%86%E6%A0%87%23&Refer=top)
+
+1. [大熊猫有多想把自己装筐里](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%9C%89%E5%A4%9A%E6%83%B3%E6%8A%8A%E8%87%AA%E5%B7%B1%E8%A3%85%E7%AD%90%E9%87%8C%23&Refer=top)
+
+1. [我国人均国民收入超1万美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%9D%87%E5%9B%BD%E6%B0%91%E6%94%B6%E5%85%A5%E8%B6%851%E4%B8%87%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [公安部刑侦局我心依旧MV](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AE%89%E9%83%A8%E5%88%91%E4%BE%A6%E5%B1%80%E6%88%91%E5%BF%83%E4%BE%9D%E6%97%A7MV%23&Refer=top)
+
+1. [袋鼠视力是不是不好](https://s.weibo.com//weibo?q=%23%E8%A2%8B%E9%BC%A0%E8%A7%86%E5%8A%9B%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%8D%E5%A5%BD%23&Refer=top)
+
+1. [韩媒曝福岛食物将出现在奥运村](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9D%E7%A6%8F%E5%B2%9B%E9%A3%9F%E7%89%A9%E5%B0%86%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%A5%A5%E8%BF%90%E6%9D%91%23&Refer=top)
+
+1. [晕倒羊有多惨](https://s.weibo.com//weibo?q=%23%E6%99%95%E5%80%92%E7%BE%8A%E6%9C%89%E5%A4%9A%E6%83%A8%23&Refer=top)
+
+1. [体育场的椅子是怎么翻新的](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E5%9C%BA%E7%9A%84%E6%A4%85%E5%AD%90%E6%98%AF%E6%80%8E%E4%B9%88%E7%BF%BB%E6%96%B0%E7%9A%84%23&Refer=top)
 
