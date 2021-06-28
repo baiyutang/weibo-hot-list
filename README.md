@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 04:03:22
+## 微博今日热榜 更新于 2021-06-29 05:02:59
 1. [红色百年路](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E7%99%BE%E5%B9%B4%E8%B7%AF%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -146,4 +146,18 @@
 1. [秦岭现百岁野生猕猴桃树王](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%AD%E7%8E%B0%E7%99%BE%E5%B2%81%E9%87%8E%E7%94%9F%E7%8C%95%E7%8C%B4%E6%A1%83%E6%A0%91%E7%8E%8B%23&Refer=top)
 
 1. [珠江七一主题灯光秀](https://s.weibo.com//weibo?q=%23%E7%8F%A0%E6%B1%9F%E4%B8%83%E4%B8%80%E4%B8%BB%E9%A2%98%E7%81%AF%E5%85%89%E7%A7%80%23&Refer=top)
+
+1. [今天的北斗星光来自100年前](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%9D%A5%E8%87%AA100%E5%B9%B4%E5%89%8D%23&Refer=new_time)
+
+1. [本泽马梅开二度](https://s.weibo.com//weibo?q=%E6%9C%AC%E6%B3%BD%E9%A9%AC%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
+
+1. [博格巴世界波](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E6%A0%BC%E5%B7%B4%E4%B8%96%E7%95%8C%E6%B3%A2%23&Refer=top)
+
+1. [瑞士绝平](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%E7%BB%9D%E5%B9%B3&Refer=top)
+
+1. [瑞士点球被扑出](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%E7%82%B9%E7%90%83%E8%A2%AB%E6%89%91%E5%87%BA&Refer=top)
+
+1. [法国瑞士加时赛](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E7%91%9E%E5%A3%AB%E5%8A%A0%E6%97%B6%E8%B5%9B&Refer=top)
+
+1. [塞费罗维奇梅开二度](https://s.weibo.com//weibo?q=%E5%A1%9E%E8%B4%B9%E7%BD%97%E7%BB%B4%E5%A5%87%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
 
