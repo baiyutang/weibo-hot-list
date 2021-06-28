@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-28 10:21:23
+## 微博今日热榜 更新于 2021-06-28 11:04:09
 1. [用好红色资源赓续红色血脉](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%A5%BD%E7%BA%A2%E8%89%B2%E8%B5%84%E6%BA%90%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [高尚全逝世](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B0%9A%E5%85%A8%E9%80%9D%E4%B8%96%23&Refer=top)
@@ -260,4 +260,28 @@
 1. [马伦单刀不进](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%BC%A6%E5%8D%95%E5%88%80%E4%B8%8D%E8%BF%9B&Refer=top)
 
 1. [食用冰镇西瓜或引发胃损伤](https://s.weibo.com//weibo?q=%23%E9%A3%9F%E7%94%A8%E5%86%B0%E9%95%87%E8%A5%BF%E7%93%9C%E6%88%96%E5%BC%95%E5%8F%91%E8%83%83%E6%8D%9F%E4%BC%A4%23&Refer=top)
+
+1. [苹果日报主笔冯伟光被捕](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%E4%B8%BB%E7%AC%94%E5%86%AF%E4%BC%9F%E5%85%89%E8%A2%AB%E6%8D%95%23&Refer=top)
+
+1. [钟睒睒身家暴跌2246亿](https://s.weibo.com//weibo?q=%23%E9%92%9F%E7%9D%92%E7%9D%92%E8%BA%AB%E5%AE%B6%E6%9A%B4%E8%B7%8C2246%E4%BA%BF%23&Refer=top)
+
+1. [特雷杨受伤](https://s.weibo.com//weibo?q=%23%E7%89%B9%E9%9B%B7%E6%9D%A8%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [100年前我们的同龄人](https://s.weibo.com//weibo?q=%23100%E5%B9%B4%E5%89%8D%E6%88%91%E4%BB%AC%E7%9A%84%E5%90%8C%E9%BE%84%E4%BA%BA%23&Refer=top)
+
+1. [百名学生党员传递100平方米党旗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E5%AD%A6%E7%94%9F%E5%85%9A%E5%91%98%E4%BC%A0%E9%80%92100%E5%B9%B3%E6%96%B9%E7%B1%B3%E5%85%9A%E6%97%97%23&Refer=top)
+
+1. [中国航天推出太空寄信服务](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%8E%A8%E5%87%BA%E5%A4%AA%E7%A9%BA%E5%AF%84%E4%BF%A1%E6%9C%8D%E5%8A%A1%23&Refer=top)
+
+1. [昆明一团支书用胶带绑听筒打电话](https://s.weibo.com//weibo?q=%23%E6%98%86%E6%98%8E%E4%B8%80%E5%9B%A2%E6%94%AF%E4%B9%A6%E7%94%A8%E8%83%B6%E5%B8%A6%E7%BB%91%E5%90%AC%E7%AD%92%E6%89%93%E7%94%B5%E8%AF%9D%23&Refer=top)
+
+1. [午睡不超过1小时减缓大脑早衰](https://s.weibo.com//weibo?q=%23%E5%8D%88%E7%9D%A1%E4%B8%8D%E8%B6%85%E8%BF%871%E5%B0%8F%E6%97%B6%E5%87%8F%E7%BC%93%E5%A4%A7%E8%84%91%E6%97%A9%E8%A1%B0%23&Refer=top)
+
+1. [遇到特殊姓氏时该如何称呼](https://s.weibo.com//weibo?q=%23%E9%81%87%E5%88%B0%E7%89%B9%E6%AE%8A%E5%A7%93%E6%B0%8F%E6%97%B6%E8%AF%A5%E5%A6%82%E4%BD%95%E7%A7%B0%E5%91%BC%23&Refer=top)
+
+1. [七一勋章什么样](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
+
+1. [宋茜读赵一曼遗书哽咽](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%AF%BB%E8%B5%B5%E4%B8%80%E6%9B%BC%E9%81%97%E4%B9%A6%E5%93%BD%E5%92%BD%23&Refer=top)
+
+1. [专家建议高血压患者夏季不要随意停药](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%A1%80%E5%8E%8B%E6%82%A3%E8%80%85%E5%A4%8F%E5%AD%A3%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E5%81%9C%E8%8D%AF%23&Refer=top)
 
