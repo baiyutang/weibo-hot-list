@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-30 00:10:48
+## 微博今日热榜 更新于 2021-06-30 01:18:05
 1. [七一勋章获得者都是平凡英雄](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%83%BD%E6%98%AF%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [新闻联播](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [天和与月亮同框照](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%92%8C%E4%B8%8E%E6%9C%88%E4%BA%AE%E5%90%8C%E6%A1%86%E7%85%A7%23&Refer=top)
 
 1. [足球解说名场面](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E7%90%83%E8%A7%A3%E8%AF%B4%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [心中有信仰脚下有力量](https://s.weibo.com//weibo?q=%23%E5%BF%83%E4%B8%AD%E6%9C%89%E4%BF%A1%E4%BB%B0%E8%84%9A%E4%B8%8B%E6%9C%89%E5%8A%9B%E9%87%8F%23&Refer=new_time)
+
+1. [贝克汉姆黄老板同框](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%BB%84%E8%80%81%E6%9D%BF%E5%90%8C%E6%A1%86&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [穆勒失误](https://s.weibo.com//weibo?q=%E7%A9%86%E5%8B%92%E5%A4%B1%E8%AF%AF&Refer=top)
 
