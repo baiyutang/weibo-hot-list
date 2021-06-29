@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 22:06:18
+## 微博今日热榜 更新于 2021-06-29 23:08:29
 1. [红色百年路](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E7%99%BE%E5%B9%B4%E8%B7%AF%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -654,4 +654,46 @@
 1. [新疆果子沟大桥的夏天也太美了](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E6%9E%9C%E5%AD%90%E6%B2%9F%E5%A4%A7%E6%A1%A5%E7%9A%84%E5%A4%8F%E5%A4%A9%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86&Refer=top)
 
 1. [百位主持人唱支山歌给党听](https://s.weibo.com//weibo?q=%23%E7%99%BE%E4%BD%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top)
+
+1. [老人被卷公交车底众人抬车施救](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%8D%B7%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%BA%95%E4%BC%97%E4%BA%BA%E6%8A%AC%E8%BD%A6%E6%96%BD%E6%95%91%23&Refer=top)
+
+1. [孟美岐千里同好唱河南](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%8D%83%E9%87%8C%E5%90%8C%E5%A5%BD%E5%94%B1%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [大乔白鹤梁神女](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%B9%94%E7%99%BD%E9%B9%A4%E6%A2%81%E7%A5%9E%E5%A5%B3%23&Refer=top)
+
+1. [爷爷收到在党50年纪念章的反应](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E6%94%B6%E5%88%B0%E5%9C%A8%E5%85%9A50%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%AB%A0%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [祖父李大钊的心愿实现了](https://s.weibo.com//weibo?q=%23%E7%A5%96%E7%88%B6%E6%9D%8E%E5%A4%A7%E9%92%8A%E7%9A%84%E5%BF%83%E6%84%BF%E5%AE%9E%E7%8E%B0%E4%BA%86%23&Refer=top)
+
+1. [成全张桂梅的人](https://s.weibo.com//weibo?q=%23%E6%88%90%E5%85%A8%E5%BC%A0%E6%A1%82%E6%A2%85%E7%9A%84%E4%BA%BA%23&Refer=top)
+
+1. [Rookie状态](https://s.weibo.com//weibo?q=%23Rookie%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [郁可唯阿兰版唱支山歌给党听](https://s.weibo.com//weibo?q=%23%E9%83%81%E5%8F%AF%E5%94%AF%E9%98%BF%E5%85%B0%E7%89%88%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top)
+
+1. [新闻联播 破晓](https://s.weibo.com//weibo?q=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%20%E7%A0%B4%E6%99%93&Refer=top)
+
+1. [日本最大核电站因安全缺陷无法重启](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E5%9B%A0%E5%AE%89%E5%85%A8%E7%BC%BA%E9%99%B7%E6%97%A0%E6%B3%95%E9%87%8D%E5%90%AF%23&Refer=top)
+
+1. [今日顶流张桂梅校长](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E6%97%A5%E9%A1%B6%E6%B5%81%E5%BC%A0%E6%A1%82%E6%A2%85%E6%A0%A1%E9%95%BF%23&Refer=top)
+
+1. [张桂梅说她是代全国党员在台上汇报](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E5%A5%B9%E6%98%AF%E4%BB%A3%E5%85%A8%E5%9B%BD%E5%85%9A%E5%91%98%E5%9C%A8%E5%8F%B0%E4%B8%8A%E6%B1%87%E6%8A%A5%23&Refer=top)
+
+1. [韩国出土1000多个汉字金属活字](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%87%BA%E5%9C%9F1000%E5%A4%9A%E4%B8%AA%E6%B1%89%E5%AD%97%E9%87%91%E5%B1%9E%E6%B4%BB%E5%AD%97%23&Refer=top)
+
+1. [100的背后有多少种美好](https://s.weibo.com//weibo?q=%23100%E7%9A%84%E8%83%8C%E5%90%8E%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E7%BE%8E%E5%A5%BD%23&Refer=top)
+
+1. [德国 英格兰](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0&Refer=top)
+
+1. [王俊凯1921原声花絮](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF1921%E5%8E%9F%E5%A3%B0%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [毕业典礼遇大雨校领导幽默致辞](https://s.weibo.com//weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E9%81%87%E5%A4%A7%E9%9B%A8%E6%A0%A1%E9%A2%86%E5%AF%BC%E5%B9%BD%E9%BB%98%E8%87%B4%E8%BE%9E%23&Refer=top)
+
+1. [黄鹤楼上亮起巨型党徽](https://s.weibo.com//weibo?q=%23%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%B8%8A%E4%BA%AE%E8%B5%B7%E5%B7%A8%E5%9E%8B%E5%85%9A%E5%BE%BD%23&Refer=top)
+
+1. [高校男生记录恋爱中每次分别](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E8%AE%B0%E5%BD%95%E6%81%8B%E7%88%B1%E4%B8%AD%E6%AF%8F%E6%AC%A1%E5%88%86%E5%88%AB%23&Refer=top)
+
+1. [足球解说名场面](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E7%90%83%E8%A7%A3%E8%AF%B4%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [叛逆者1921互称同志](https://s.weibo.com//weibo?q=%23%E5%8F%9B%E9%80%86%E8%80%851921%E4%BA%92%E7%A7%B0%E5%90%8C%E5%BF%97%23&Refer=top)
 
