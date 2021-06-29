@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-30 01:18:05
+## 微博今日热榜 更新于 2021-06-30 02:08:29
 1. [七一勋章获得者都是平凡英雄](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%83%BD%E6%98%AF%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [新闻联播](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&Refer=top)
@@ -114,4 +114,22 @@
 1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
 
 1. [穆勒失误](https://s.weibo.com//weibo?q=%E7%A9%86%E5%8B%92%E5%A4%B1%E8%AF%AF&Refer=top)
+
+1. [穆勒单刀不进](https://s.weibo.com//weibo?q=%E7%A9%86%E5%8B%92%E5%8D%95%E5%88%80%E4%B8%8D%E8%BF%9B&Refer=top)
+
+1. [英格兰2比0德国](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B02%E6%AF%940%E5%BE%B7%E5%9B%BD%23&Refer=top)
+
+1. [死亡之组全部死亡](https://s.weibo.com//weibo?q=%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [凯恩破门](https://s.weibo.com//weibo?q=%E5%87%AF%E6%81%A9%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [斯特林破门](https://s.weibo.com//weibo?q=%E6%96%AF%E7%89%B9%E6%9E%97%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [格纳布里 伦敦之王](https://s.weibo.com//weibo?q=%E6%A0%BC%E7%BA%B3%E5%B8%83%E9%87%8C%20%E4%BC%A6%E6%95%A6%E4%B9%8B%E7%8E%8B&Refer=top)
+
+1. [勒夫最后一场国家队比赛](https://s.weibo.com//weibo?q=%E5%8B%92%E5%A4%AB%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%AF%94%E8%B5%9B&Refer=top)
+
+1. [英格兰晋级八强](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23&Refer=top)
+
+1. [德波尔下课](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E6%B3%A2%E5%B0%94%E4%B8%8B%E8%AF%BE%23&Refer=top)
 
