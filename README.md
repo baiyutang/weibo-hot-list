@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-30 18:08:39
+## 微博今日热榜 更新于 2021-06-30 19:07:28
 1. [七一勋章获得者都是平凡英雄](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%83%BD%E6%98%AF%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [新闻联播](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&Refer=top)
@@ -438,4 +438,34 @@
 1. [中国蓝盔组字100为党庆生](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%93%9D%E7%9B%94%E7%BB%84%E5%AD%97100%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F%23&Refer=top)
 
 1. [一对红隼在公安局外挂机上生崽](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AF%B9%E7%BA%A2%E9%9A%BC%E5%9C%A8%E5%85%AC%E5%AE%89%E5%B1%80%E5%A4%96%E6%8C%82%E6%9C%BA%E4%B8%8A%E7%94%9F%E5%B4%BD%23&Refer=top)
+
+1. [学校禁止的发型](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E7%9A%84%E5%8F%91%E5%9E%8B%23&Refer=top)
+
+1. [张若昀发文致敬革命先烈](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%8F%91%E6%96%87%E8%87%B4%E6%95%AC%E9%9D%A9%E5%91%BD%E5%85%88%E7%83%88%23&Refer=top)
+
+1. [古巴退役飞行员哼唱中国歌曲](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E5%B7%B4%E9%80%80%E5%BD%B9%E9%A3%9E%E8%A1%8C%E5%91%98%E5%93%BC%E5%94%B1%E4%B8%AD%E5%9B%BD%E6%AD%8C%E6%9B%B2%23&Refer=top)
+
+1. [考生雨天打不到车当街拦车求助](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E9%9B%A8%E5%A4%A9%E6%89%93%E4%B8%8D%E5%88%B0%E8%BD%A6%E5%BD%93%E8%A1%97%E6%8B%A6%E8%BD%A6%E6%B1%82%E5%8A%A9%23&Refer=top)
+
+1. [蓝天野原名叫王润森](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%A4%A9%E9%87%8E%E5%8E%9F%E5%90%8D%E5%8F%AB%E7%8E%8B%E6%B6%A6%E6%A3%AE%23&Refer=top)
+
+1. [因为1921所以2021](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA1921%E6%89%80%E4%BB%A52021%23&Refer=top)
+
+1. [如何成为一名共产党员](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=top)
+
+1. [救心梗男子的女清洁工曾是工程老板](https://s.weibo.com//weibo?q=%23%E6%95%91%E5%BF%83%E6%A2%97%E7%94%B7%E5%AD%90%E7%9A%84%E5%A5%B3%E6%B8%85%E6%B4%81%E5%B7%A5%E6%9B%BE%E6%98%AF%E5%B7%A5%E7%A8%8B%E8%80%81%E6%9D%BF%23&Refer=top)
+
+1. [基金交易经手费收费下调](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%E4%BA%A4%E6%98%93%E7%BB%8F%E6%89%8B%E8%B4%B9%E6%94%B6%E8%B4%B9%E4%B8%8B%E8%B0%83%23&Refer=top)
+
+1. [当老师看到我的论文时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%88%E7%9C%8B%E5%88%B0%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87%E6%97%B6%23&Refer=top)
+
+1. [足球假摔能有多好笑](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E7%90%83%E5%81%87%E6%91%94%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [董明珠回应格力业绩问题](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%A0%BC%E5%8A%9B%E4%B8%9A%E7%BB%A9%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [英国网红整容18次后宣布变成韩国人](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%95%B4%E5%AE%B918%E6%AC%A1%E5%90%8E%E5%AE%A3%E5%B8%83%E5%8F%98%E6%88%90%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&Refer=top)
+
+1. [RNG TES](https://s.weibo.com//weibo?q=RNG%20TES&Refer=top)
+
+1. [长沙橘子洲烟花](https://s.weibo.com//weibo?q=%E9%95%BF%E6%B2%99%E6%A9%98%E5%AD%90%E6%B4%B2%E7%83%9F%E8%8A%B1&Refer=top)
 
