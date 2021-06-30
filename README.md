@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-01 04:04:01
+## 微博今日热榜 更新于 2021-07-01 05:02:53
 1. [党内最高荣誉授予这些平凡英雄](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%86%85%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%E6%8E%88%E4%BA%88%E8%BF%99%E4%BA%9B%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [长沙烟花](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E7%83%9F%E8%8A%B1%23&Refer=top)
