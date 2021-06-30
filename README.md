@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-30 16:09:41
+## 微博今日热榜 更新于 2021-06-30 17:08:45
 1. [七一勋章获得者都是平凡英雄](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%83%BD%E6%98%AF%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [新闻联播](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&Refer=top)
@@ -376,4 +376,38 @@
 1. [枪王通过镜子瞄准用手枪击灭火苗](https://s.weibo.com//weibo?q=%23%E6%9E%AA%E7%8E%8B%E9%80%9A%E8%BF%87%E9%95%9C%E5%AD%90%E7%9E%84%E5%87%86%E7%94%A8%E6%89%8B%E6%9E%AA%E5%87%BB%E7%81%AD%E7%81%AB%E8%8B%97%23&Refer=top)
 
 1. [海鸥被吸入挪威客机瞬间蒸发](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%B8%A5%E8%A2%AB%E5%90%B8%E5%85%A5%E6%8C%AA%E5%A8%81%E5%AE%A2%E6%9C%BA%E7%9E%AC%E9%97%B4%E8%92%B8%E5%8F%91%23&Refer=top)
+
+1. [两度割皮救父的少年最想报军校](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%BA%A6%E5%89%B2%E7%9A%AE%E6%95%91%E7%88%B6%E7%9A%84%E5%B0%91%E5%B9%B4%E6%9C%80%E6%83%B3%E6%8A%A5%E5%86%9B%E6%A0%A1%23&Refer=top)
+
+1. [新冠疫苗接种率达77.6%意味什么](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%8E%87%E8%BE%BE77.6%25%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [被细高跟鞋支配的恐惧](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%BB%86%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%94%AF%E9%85%8D%E7%9A%84%E6%81%90%E6%83%A7%23&Refer=top)
+
+1. [65岁大妈科目一到科目四全部一把过](https://s.weibo.com//weibo?q=%2365%E5%B2%81%E5%A4%A7%E5%A6%88%E7%A7%91%E7%9B%AE%E4%B8%80%E5%88%B0%E7%A7%91%E7%9B%AE%E5%9B%9B%E5%85%A8%E9%83%A8%E4%B8%80%E6%8A%8A%E8%BF%87%23&Refer=top)
+
+1. [当我只是摸了一下头发时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%88%91%E5%8F%AA%E6%98%AF%E6%91%B8%E4%BA%86%E4%B8%80%E4%B8%8B%E5%A4%B4%E5%8F%91%E6%97%B6%23&Refer=top)
+
+1. [AI修复让李大钊陈延年们露出微笑](https://s.weibo.com//weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E8%AE%A9%E6%9D%8E%E5%A4%A7%E9%92%8A%E9%99%88%E5%BB%B6%E5%B9%B4%E4%BB%AC%E9%9C%B2%E5%87%BA%E5%BE%AE%E7%AC%91%23&Refer=top)
+
+1. [买房契税9月1日上涨是谣言](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E6%88%BF%E5%A5%91%E7%A8%8E9%E6%9C%881%E6%97%A5%E4%B8%8A%E6%B6%A8%E6%98%AF%E8%B0%A3%E8%A8%80%23&Refer=top)
+
+1. [张哲瀚献唱电影红船主题曲](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E7%8C%AE%E5%94%B1%E7%94%B5%E5%BD%B1%E7%BA%A2%E8%88%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top)
+
+1. [新乡冰雹](https://s.weibo.com//weibo?q=%E6%96%B0%E4%B9%A1%E5%86%B0%E9%9B%B9&Refer=top)
+
+1. [马毛姐的勋章将送到渡江战役纪念馆](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%AF%9B%E5%A7%90%E7%9A%84%E5%8B%8B%E7%AB%A0%E5%B0%86%E9%80%81%E5%88%B0%E6%B8%A1%E6%B1%9F%E6%88%98%E5%BD%B9%E7%BA%AA%E5%BF%B5%E9%A6%86&Refer=top)
+
+1. [只有板仔才懂的痛](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%89%E6%9D%BF%E4%BB%94%E6%89%8D%E6%87%82%E7%9A%84%E7%97%9B%23&Refer=top)
+
+1. [土木工程女生少的原因](https://s.weibo.com//weibo?q=%23%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E5%A5%B3%E7%94%9F%E5%B0%91%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [妈妈改造后的女儿](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%B9%E9%80%A0%E5%90%8E%E7%9A%84%E5%A5%B3%E5%84%BF%23&Refer=top)
+
+1. [张彬彬 生在中国太幸福了](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%20%E7%94%9F%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%AA%E5%B9%B8%E7%A6%8F%E4%BA%86&Refer=top)
+
+1. [日本近2成硕士负债逾300万日元](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%912%E6%88%90%E7%A1%95%E5%A3%AB%E8%B4%9F%E5%80%BA%E9%80%BE300%E4%B8%87%E6%97%A5%E5%85%83%23&Refer=top)
+
+1. [油画里的动感百年](https://s.weibo.com//weibo?q=%23%E6%B2%B9%E7%94%BB%E9%87%8C%E7%9A%84%E5%8A%A8%E6%84%9F%E7%99%BE%E5%B9%B4%23&Refer=top)
+
+1. [那英演唱革命者主题曲](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E9%9D%A9%E5%91%BD%E8%80%85%E4%B8%BB%E9%A2%98%E6%9B%B2%23&Refer=top)
 
