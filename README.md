@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-30 21:17:25
+## 微博今日热榜 更新于 2021-06-30 22:08:44
 1. [七一勋章获得者都是平凡英雄](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%83%BD%E6%98%AF%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [新闻联播](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&Refer=top)
@@ -506,4 +506,20 @@
 1. [韩民众为抢先打疫苗纷纷报名高考](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B0%91%E4%BC%97%E4%B8%BA%E6%8A%A2%E5%85%88%E6%89%93%E7%96%AB%E8%8B%97%E7%BA%B7%E7%BA%B7%E6%8A%A5%E5%90%8D%E9%AB%98%E8%80%83%23&Refer=top)
 
 1. [谭松韵演的王会悟](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%BC%94%E7%9A%84%E7%8E%8B%E4%BC%9A%E6%82%9F%23&Refer=top)
+
+1. [航天员在太空祝党生日快乐](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%A5%9D%E5%85%9A%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [百年青史就是他们的一生](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E9%9D%92%E5%8F%B2%E5%B0%B1%E6%98%AF%E4%BB%96%E4%BB%AC%E7%9A%84%E4%B8%80%E7%94%9F%23&Refer=top)
+
+1. [英雄城市用中国红致敬建党百年](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9F%8E%E5%B8%82%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%87%B4%E6%95%AC%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top)
+
+1. [还记得你入党时的样子吗](https://s.weibo.com//weibo?q=%23%E8%BF%98%E8%AE%B0%E5%BE%97%E4%BD%A0%E5%85%A5%E5%85%9A%E6%97%B6%E7%9A%84%E6%A0%B7%E5%AD%90%E5%90%97%23&Refer=top)
+
+1. [入党全流程](https://s.weibo.com//weibo?q=%23%E5%85%A5%E5%85%9A%E5%85%A8%E6%B5%81%E7%A8%8B%23&Refer=top)
+
+1. [维和官兵组字100为党庆生](https://s.weibo.com//weibo?q=%23%E7%BB%B4%E5%92%8C%E5%AE%98%E5%85%B5%E7%BB%84%E5%AD%97100%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [杨紫革命者接力朗读](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%9D%A9%E5%91%BD%E8%80%85%E6%8E%A5%E5%8A%9B%E6%9C%97%E8%AF%BB%23&Refer=top)
+
+1. [理想照耀中国青春之歌开播](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E9%9D%92%E6%98%A5%E4%B9%8B%E6%AD%8C%E5%BC%80%E6%92%AD%23&Refer=top)
 
