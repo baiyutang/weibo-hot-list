@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-30 22:08:44
+## 微博今日热榜 更新于 2021-06-30 23:08:34
 1. [七一勋章获得者都是平凡英雄](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85%E9%83%BD%E6%98%AF%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [新闻联播](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&Refer=top)
@@ -522,4 +522,26 @@
 1. [杨紫革命者接力朗读](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%9D%A9%E5%91%BD%E8%80%85%E6%8E%A5%E5%8A%9B%E6%9C%97%E8%AF%BB%23&Refer=top)
 
 1. [理想照耀中国青春之歌开播](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E9%9D%92%E6%98%A5%E4%B9%8B%E6%AD%8C%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [党内最高荣誉授予这些平凡英雄](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%86%85%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%E6%8E%88%E4%BA%88%E8%BF%99%E4%BA%9B%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
+
+1. [中国共产党自述我的理想](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E8%87%AA%E8%BF%B0%E6%88%91%E7%9A%84%E7%90%86%E6%83%B3%23&Refer=top)
+
+1. [老党员寄语年轻人](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%85%9A%E5%91%98%E5%AF%84%E8%AF%AD%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top)
+
+1. [这幅手书彰显中国共产党的奋斗精神](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B9%85%E6%89%8B%E4%B9%A6%E5%BD%B0%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E5%A5%8B%E6%96%97%E7%B2%BE%E7%A5%9E%23&Refer=top)
+
+1. [我心中最闪耀的红星](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%BF%83%E4%B8%AD%E6%9C%80%E9%97%AA%E8%80%80%E7%9A%84%E7%BA%A2%E6%98%9F%23&Refer=top)
+
+1. [710多万名党员获光荣在党50年纪念章](https://s.weibo.com//weibo?q=%23710%E5%A4%9A%E4%B8%87%E5%90%8D%E5%85%9A%E5%91%98%E8%8E%B7%E5%85%89%E8%8D%A3%E5%9C%A8%E5%85%9A50%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%AB%A0%23&Refer=top)
+
+1. [一场虚拟的特殊面试](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9C%BA%E8%99%9A%E6%8B%9F%E7%9A%84%E7%89%B9%E6%AE%8A%E9%9D%A2%E8%AF%95%23&Refer=top)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [黄轩说王俊凯在片场话不多](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%BD%A9%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9C%A8%E7%89%87%E5%9C%BA%E8%AF%9D%E4%B8%8D%E5%A4%9A%23&Refer=top)
+
+1. [深圳光影秀把党徽打在星空上](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%89%E5%BD%B1%E7%A7%80%E6%8A%8A%E5%85%9A%E5%BE%BD%E6%89%93%E5%9C%A8%E6%98%9F%E7%A9%BA%E4%B8%8A%23&Refer=top)
+
+1. [他们为什么建党](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E5%85%9A%23&Refer=top)
 
