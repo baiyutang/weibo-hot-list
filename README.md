@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-02 02:07:40
+## 微博今日热榜 更新于 2021-07-02 03:07:25
 1. [百年初心映党旗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%88%9D%E5%BF%83%E6%98%A0%E5%85%9A%E6%97%97%23&Refer=new_time)
 
 1. [他看见了](https://s.weibo.com//weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [全国多地光影秀庆祝建党百年](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%85%89%E5%BD%B1%E7%A7%80%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top)
 
 1. [中国共产党根基在人民](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%A0%B9%E5%9F%BA%E5%9C%A8%E4%BA%BA%E6%B0%91%23&Refer=new_time)
+
+1. [这些熟悉的面孔都在庆祝大会现场](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BA%9B%E7%86%9F%E6%82%89%E7%9A%84%E9%9D%A2%E5%AD%94%E9%83%BD%E5%9C%A8%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [一图认全71架飞越天安门战鹰](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AE%A4%E5%85%A871%E6%9E%B6%E9%A3%9E%E8%B6%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E6%88%98%E9%B9%B0%23&Refer=top)
 
