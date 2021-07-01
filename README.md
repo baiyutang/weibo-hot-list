@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-01 10:19:51
+## 微博今日热榜 更新于 2021-07-01 11:03:53
 1. [党内最高荣誉授予这些平凡英雄](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%86%85%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%E6%8E%88%E4%BA%88%E8%BF%99%E4%BA%9B%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=new_time)
 
 1. [长沙烟花](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E7%83%9F%E8%8A%B1%23&Refer=top)
@@ -284,4 +284,14 @@
 1. [革命者](https://s.weibo.com//weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top)
 
 1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [粤港歌手联唱演绎大湾区百年巨变](https://s.weibo.com//weibo?q=%23%E7%B2%A4%E6%B8%AF%E6%AD%8C%E6%89%8B%E8%81%94%E5%94%B1%E6%BC%94%E7%BB%8E%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%99%BE%E5%B9%B4%E5%B7%A8%E5%8F%98%23&Refer=top)
+
+1. [坚决清除一切侵蚀党的健康肌体的病毒](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E6%B8%85%E9%99%A4%E4%B8%80%E5%88%87%E4%BE%B5%E8%9A%80%E5%85%9A%E7%9A%84%E5%81%A5%E5%BA%B7%E8%82%8C%E4%BD%93%E7%9A%84%E7%97%85%E6%AF%92%23&Refer=top)
+
+1. [高校为自习学生送千份消暑盲盒](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E4%B8%BA%E8%87%AA%E4%B9%A0%E5%AD%A6%E7%94%9F%E9%80%81%E5%8D%83%E4%BB%BD%E6%B6%88%E6%9A%91%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [这就是伟大建党精神](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BC%9F%E5%A4%A7%E5%BB%BA%E5%85%9A%E7%B2%BE%E7%A5%9E%23&Refer=top)
+
+1. [建党百年庆祝大会中的平凡英雄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E4%B8%AD%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=top)
 
