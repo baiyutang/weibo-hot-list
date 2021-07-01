@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-02 00:10:26
+## 微博今日热榜 更新于 2021-07-02 01:14:14
 1. [百年初心映党旗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%88%9D%E5%BF%83%E6%98%A0%E5%85%9A%E6%97%97%23&Refer=new_time)
 
 1. [他看见了](https://s.weibo.com//weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [警医民地铁联手接生宝宝](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%8C%BB%E6%B0%91%E5%9C%B0%E9%93%81%E8%81%94%E6%89%8B%E6%8E%A5%E7%94%9F%E5%AE%9D%E5%AE%9D%23&Refer=top)
 
 1. [革命者](https://s.weibo.com//weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top)
+
+1. [这就是伟大建党精神](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BC%9F%E5%A4%A7%E5%BB%BA%E5%85%9A%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
+
+1. [总书记建党百年庆祝大会讲话全文](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E8%AE%B2%E8%AF%9D%E5%85%A8%E6%96%87%23&Refer=top)
+
+1. [以青春之我耀信仰之光](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E9%9D%92%E6%98%A5%E4%B9%8B%E6%88%91%E8%80%80%E4%BF%A1%E4%BB%B0%E4%B9%8B%E5%85%89%23&Refer=top)
+
+1. [伟大征程将被拍成电影](https://s.weibo.com//weibo?q=%23%E4%BC%9F%E5%A4%A7%E5%BE%81%E7%A8%8B%E5%B0%86%E8%A2%AB%E6%8B%8D%E6%88%90%E7%94%B5%E5%BD%B1%23&Refer=top)
+
+1. [全国多地光影秀庆祝建党百年](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%85%89%E5%BD%B1%E7%A7%80%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%23&Refer=top)
 
