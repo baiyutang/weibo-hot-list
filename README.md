@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-02 22:05:34
+## 微博今日热榜 更新于 2021-07-02 23:04:22
 1. [百年初心映党旗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%88%9D%E5%BF%83%E6%98%A0%E5%85%9A%E6%97%97%23&Refer=new_time)
 
 1. [他看见了](https://s.weibo.com//weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top)
@@ -496,4 +496,32 @@
 1. [在社交APP上找对象靠谱吗](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E7%A4%BE%E4%BA%A4APP%E4%B8%8A%E6%89%BE%E5%AF%B9%E8%B1%A1%E9%9D%A0%E8%B0%B1%E5%90%97%23&Refer=top)
 
 1. [被偷走的明天开机](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%81%B7%E8%B5%B0%E7%9A%84%E6%98%8E%E5%A4%A9%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [心动的信号4](https://s.weibo.com//weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74%23&Refer=top)
+
+1. [一架波音737货机在夏威夷坠海](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%9E%B6%E6%B3%A2%E9%9F%B3737%E8%B4%A7%E6%9C%BA%E5%9C%A8%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%9D%A0%E6%B5%B7%23&Refer=top)
+
+1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [宿舍的空调有多给力](https://s.weibo.com//weibo?q=%23%E5%AE%BF%E8%88%8D%E7%9A%84%E7%A9%BA%E8%B0%83%E6%9C%89%E5%A4%9A%E7%BB%99%E5%8A%9B%23&Refer=top)
+
+1. [坐地铁停电是什么体验](https://s.weibo.com//weibo?q=%23%E5%9D%90%E5%9C%B0%E9%93%81%E5%81%9C%E7%94%B5%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [王一博的自拍靳东果然没入镜](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E8%87%AA%E6%8B%8D%E9%9D%B3%E4%B8%9C%E6%9E%9C%E7%84%B6%E6%B2%A1%E5%85%A5%E9%95%9C&Refer=top)
+
+1. [原来藏獒也会吸猫](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%97%8F%E7%8D%92%E4%B9%9F%E4%BC%9A%E5%90%B8%E7%8C%AB%23&Refer=top)
+
+1. [林志颖晒孩子们居家友爱日常](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%99%92%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%B1%85%E5%AE%B6%E5%8F%8B%E7%88%B1%E6%97%A5%E5%B8%B8%23&Refer=top)
+
+1. [克罗斯对于德国队有多重要](https://s.weibo.com//weibo?q=%23%E5%85%8B%E7%BD%97%E6%96%AF%E5%AF%B9%E4%BA%8E%E5%BE%B7%E5%9B%BD%E9%98%9F%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [北京新生代农民工超20%本科学历](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E7%94%9F%E4%BB%A3%E5%86%9C%E6%B0%91%E5%B7%A5%E8%B6%8520%25%E6%9C%AC%E7%A7%91%E5%AD%A6%E5%8E%86%23&Refer=top)
+
+1. [香奈儿韩国再提价](https://s.weibo.com//weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E9%9F%A9%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BB%B7%23&Refer=top)
+
+1. [职场中什么样的人会被领导偏爱](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%9C%BA%E4%B8%AD%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E4%BC%9A%E8%A2%AB%E9%A2%86%E5%AF%BC%E5%81%8F%E7%88%B1%23&Refer=top)
+
+1. [人脸识别一定要穿上衣服](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E4%B8%80%E5%AE%9A%E8%A6%81%E7%A9%BF%E4%B8%8A%E8%A1%A3%E6%9C%8D%23&Refer=top)
+
+1. [100岁老党员唱支山歌给党听](https://s.weibo.com//weibo?q=%23100%E5%B2%81%E8%80%81%E5%85%9A%E5%91%98%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top)
 
