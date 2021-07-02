@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-02 11:03:51
+## 微博今日热榜 更新于 2021-07-02 12:04:34
 1. [百年初心映党旗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%88%9D%E5%BF%83%E6%98%A0%E5%85%9A%E6%97%97%23&Refer=new_time)
 
 1. [他看见了](https://s.weibo.com//weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top)
@@ -222,4 +222,20 @@
 1. [中国心愿正一步步实现](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BF%83%E6%84%BF%E6%AD%A3%E4%B8%80%E6%AD%A5%E6%AD%A5%E5%AE%9E%E7%8E%B0%23&Refer=top)
 
 1. [他驾驶歼10备飞在表演前返航](https://s.weibo.com//weibo?q=%23%E4%BB%96%E9%A9%BE%E9%A9%B6%E6%AD%BC10%E5%A4%87%E9%A3%9E%E5%9C%A8%E8%A1%A8%E6%BC%94%E5%89%8D%E8%BF%94%E8%88%AA%23&Refer=top)
+
+1. [东风快递用莫尔斯码祝福党百年华诞](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E7%94%A8%E8%8E%AB%E5%B0%94%E6%96%AF%E7%A0%81%E7%A5%9D%E7%A6%8F%E5%85%9A%E7%99%BE%E5%B9%B4%E5%8D%8E%E8%AF%9E%23&Refer=top)
+
+1. [唱支rap给党听](https://s.weibo.com//weibo?q=%23%E5%94%B1%E6%94%AFrap%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top)
+
+1. [我使馆回应英国政客涉港言论](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%AE%A2%E6%B6%89%E6%B8%AF%E8%A8%80%E8%AE%BA%23&Refer=top)
+
+1. [91岁老党员捐30万元特殊党费](https://s.weibo.com//weibo?q=%2391%E5%B2%81%E8%80%81%E5%85%9A%E5%91%98%E6%8D%9030%E4%B8%87%E5%85%83%E7%89%B9%E6%AE%8A%E5%85%9A%E8%B4%B9%23&Refer=top)
+
+1. [Henri Bureau镜头下的周恩来](https://s.weibo.com//weibo?q=Henri%20Bureau%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%91%A8%E6%81%A9%E6%9D%A5&Refer=top)
+
+1. [张学友新歌为中国奥运健儿加油](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%96%B0%E6%AD%8C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [七一广场献词团共训练526个小时](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%B9%BF%E5%9C%BA%E7%8C%AE%E8%AF%8D%E5%9B%A2%E5%85%B1%E8%AE%AD%E7%BB%83526%E4%B8%AA%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [领诵员冯琳为酝酿情感曾去参观红船](https://s.weibo.com//weibo?q=%23%E9%A2%86%E8%AF%B5%E5%91%98%E5%86%AF%E7%90%B3%E4%B8%BA%E9%85%9D%E9%85%BF%E6%83%85%E6%84%9F%E6%9B%BE%E5%8E%BB%E5%8F%82%E8%A7%82%E7%BA%A2%E8%88%B9%23&Refer=top)
 
