@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 01:10:29
+## 微博今日热榜 更新于 2021-07-04 02:03:32
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -120,4 +120,12 @@
 1. [周雨彤分享日常碎片](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%88%86%E4%BA%AB%E6%97%A5%E5%B8%B8%E7%A2%8E%E7%89%87%23&Refer=top)
 
 1. [费德勒表现](https://s.weibo.com//weibo?q=%E8%B4%B9%E5%BE%B7%E5%8B%92%E8%A1%A8%E7%8E%B0&Refer=top)
+
+1. [中国全面建成小康社会是怎样的壮举](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%BB%BA%E6%88%90%E5%B0%8F%E5%BA%B7%E7%A4%BE%E4%BC%9A%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E5%A3%AE%E4%B8%BE%23&Refer=new_time)
+
+1. [希克欧洲杯第五个进球](https://s.weibo.com//weibo?q=%E5%B8%8C%E5%85%8B%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%AC%AC%E4%BA%94%E4%B8%AA%E8%BF%9B%E7%90%83&Refer=top)
+
+1. [窦骁哭戏让人心疼](https://s.weibo.com//weibo?q=%23%E7%AA%A6%E9%AA%81%E5%93%AD%E6%88%8F%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&Refer=top)
+
+1. [丹麦淘汰捷克](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%B7%98%E6%B1%B0%E6%8D%B7%E5%85%8B&Refer=top)
 
