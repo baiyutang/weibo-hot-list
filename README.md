@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 03:02:34
+## 微博今日热榜 更新于 2021-07-04 04:03:31
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -136,4 +136,12 @@
 1. [丹麦捷克 裁判判罚](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%8D%B7%E5%85%8B%20%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&Refer=top)
 
 1. [一百响礼炮声炼成的背后](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%99%BE%E5%93%8D%E7%A4%BC%E7%82%AE%E5%A3%B0%E7%82%BC%E6%88%90%E7%9A%84%E8%83%8C%E5%90%8E%23&Refer=top)
+
+1. [钟南山称打开国门需要全世界共同努力](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E6%89%93%E5%BC%80%E5%9B%BD%E9%97%A8%E9%9C%80%E8%A6%81%E5%85%A8%E4%B8%96%E7%95%8C%E5%85%B1%E5%90%8C%E5%8A%AA%E5%8A%9B%23&Refer=top)
+
+1. [凯恩破门](https://s.weibo.com//weibo?q=%E5%87%AF%E6%81%A9%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [那些再难聚齐的神仙阵容](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E5%86%8D%E9%9A%BE%E8%81%9A%E9%BD%90%E7%9A%84%E7%A5%9E%E4%BB%99%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [德莱尼破门](https://s.weibo.com//weibo?q=%E5%BE%B7%E8%8E%B1%E5%B0%BC%E7%A0%B4%E9%97%A8&Refer=top)
 
