@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 00:05:00
+## 微博今日热榜 更新于 2021-07-04 01:10:29
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -106,4 +106,18 @@
 1. [你能接受团建式相亲吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%9B%A2%E5%BB%BA%E5%BC%8F%E7%9B%B8%E4%BA%B2%E5%90%97%23&Refer=top)
 
 1. [玩密室逃脱可以有多害怕](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%AE%B3%E6%80%95%23&Refer=top)
+
+1. [丹麦 捷克](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%20%E6%8D%B7%E5%85%8B&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [幼儿园毕业典礼萌娃不按套路出牌](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%90%8C%E5%A8%83%E4%B8%8D%E6%8C%89%E5%A5%97%E8%B7%AF%E5%87%BA%E7%89%8C%23&Refer=top)
+
+1. [利路修怒吼一声跳水](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E6%80%92%E5%90%BC%E4%B8%80%E5%A3%B0%E8%B7%B3%E6%B0%B4%23&Refer=top)
+
+1. [汪峰我爱你中国万人大合唱](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B3%B0%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E4%B8%87%E4%BA%BA%E5%A4%A7%E5%90%88%E5%94%B1%23&Refer=top)
+
+1. [周雨彤分享日常碎片](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%88%86%E4%BA%AB%E6%97%A5%E5%B8%B8%E7%A2%8E%E7%89%87%23&Refer=top)
+
+1. [费德勒表现](https://s.weibo.com//weibo?q=%E8%B4%B9%E5%BE%B7%E5%8B%92%E8%A1%A8%E7%8E%B0&Refer=top)
 
