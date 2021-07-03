@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 04:03:31
+## 微博今日热榜 更新于 2021-07-04 05:02:31
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -144,4 +144,14 @@
 1. [那些再难聚齐的神仙阵容](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E5%86%8D%E9%9A%BE%E8%81%9A%E9%BD%90%E7%9A%84%E7%A5%9E%E4%BB%99%E9%98%B5%E5%AE%B9%23&Refer=top)
 
 1. [德莱尼破门](https://s.weibo.com//weibo?q=%E5%BE%B7%E8%8E%B1%E5%B0%BC%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [乌克兰球迷哭了](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E7%90%83%E8%BF%B7%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [英格兰淘汰乌克兰](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B7%98%E6%B1%B0%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top)
+
+1. [凯恩梅开二度](https://s.weibo.com//weibo?q=%23%E5%87%AF%E6%81%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
+
+1. [马奎尔破门](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%A5%8E%E5%B0%94%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [英格兰将对阵丹麦](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%B0%86%E5%AF%B9%E9%98%B5%E4%B8%B9%E9%BA%A6&Refer=top)
 
