@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 02:03:32
+## 微博今日热榜 更新于 2021-07-04 03:02:34
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -128,4 +128,12 @@
 1. [窦骁哭戏让人心疼](https://s.weibo.com//weibo?q=%23%E7%AA%A6%E9%AA%81%E5%93%AD%E6%88%8F%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&Refer=top)
 
 1. [丹麦淘汰捷克](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%B7%98%E6%B1%B0%E6%8D%B7%E5%85%8B&Refer=top)
+
+1. [百年前他们梦想的那个新中国有多美](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%89%8D%E4%BB%96%E4%BB%AC%E6%A2%A6%E6%83%B3%E7%9A%84%E9%82%A3%E4%B8%AA%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=new_time)
+
+1. [乌克兰 英格兰](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%20%E8%8B%B1%E6%A0%BC%E5%85%B0&Refer=top)
+
+1. [丹麦捷克 裁判判罚](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%8D%B7%E5%85%8B%20%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&Refer=top)
+
+1. [一百响礼炮声炼成的背后](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%99%BE%E5%93%8D%E7%A4%BC%E7%82%AE%E5%A3%B0%E7%82%BC%E6%88%90%E7%9A%84%E8%83%8C%E5%90%8E%23&Refer=top)
 
