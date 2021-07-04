@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 07:03:06
+## 微博今日热榜 更新于 2021-07-04 08:14:28
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -158,4 +158,38 @@
 1. [英格兰零丢球](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%9B%B6%E4%B8%A2%E7%90%83&Refer=top)
 
 1. [张可盈港风造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8F%AF%E7%9B%88%E6%B8%AF%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [制片人否认张小斐耍大牌](https://s.weibo.com//weibo?q=%23%E5%88%B6%E7%89%87%E4%BA%BA%E5%90%A6%E8%AE%A4%E5%BC%A0%E5%B0%8F%E6%96%90%E8%80%8D%E5%A4%A7%E7%89%8C%23&Refer=top)
+
+1. [陈延年烈士牺牲94周年](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%BB%B6%E5%B9%B4%E7%83%88%E5%A3%AB%E7%89%BA%E7%89%B294%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [郭晶晶为霍启刚庆生](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E4%B8%BA%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [棕熊凌晨四川县城内狂奔](https://s.weibo.com//weibo?q=%23%E6%A3%95%E7%86%8A%E5%87%8C%E6%99%A8%E5%9B%9B%E5%B7%9D%E5%8E%BF%E5%9F%8E%E5%86%85%E7%8B%82%E5%A5%94%23&Refer=top)
+
+1. [焦虑会导致激素水平紊乱](https://s.weibo.com//weibo?q=%23%E7%84%A6%E8%99%91%E4%BC%9A%E5%AF%BC%E8%87%B4%E6%BF%80%E7%B4%A0%E6%B0%B4%E5%B9%B3%E7%B4%8A%E4%B9%B1%23&Refer=top)
+
+1. [周杰给奥特曼配过音](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9D%B0%E7%BB%99%E5%A5%A5%E7%89%B9%E6%9B%BC%E9%85%8D%E8%BF%87%E9%9F%B3%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [任嘉伦说十八岁之前的梦想是装暖气](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%AF%B4%E5%8D%81%E5%85%AB%E5%B2%81%E4%B9%8B%E5%89%8D%E7%9A%84%E6%A2%A6%E6%83%B3%E6%98%AF%E8%A3%85%E6%9A%96%E6%B0%94%23&Refer=top)
+
+1. [朱志鑫甩花砸到李飞](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%94%A9%E8%8A%B1%E7%A0%B8%E5%88%B0%E6%9D%8E%E9%A3%9E%23&Refer=top)
+
+1. [民警冲下河90秒救起落水者](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E5%86%B2%E4%B8%8B%E6%B2%B390%E7%A7%92%E6%95%91%E8%B5%B7%E8%90%BD%E6%B0%B4%E8%80%85%23&Refer=top)
+
+1. [AI修复重现70年前志愿军战士笑容](https://s.weibo.com//weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E9%87%8D%E7%8E%B070%E5%B9%B4%E5%89%8D%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E5%A3%AB%E7%AC%91%E5%AE%B9%23&Refer=top)
+
+1. [温网](https://s.weibo.com//weibo?q=%E6%B8%A9%E7%BD%91&Refer=top)
+
+1. [焦虑真的会让人发胖](https://s.weibo.com//weibo?q=%23%E7%84%A6%E8%99%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%91%E8%83%96%23&Refer=top)
+
+1. [NBA季后赛](https://s.weibo.com//weibo?q=%23NBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [美洲杯](https://s.weibo.com//weibo?q=%E7%BE%8E%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [四川严禁强制学生购买平板电脑](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E4%B8%A5%E7%A6%81%E5%BC%BA%E5%88%B6%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91&Refer=top)
+
+1. [李小冉侧颜](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%BE%A7%E9%A2%9C%23&Refer=top)
 
