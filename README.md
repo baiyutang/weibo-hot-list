@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 22:03:10
+## 微博今日热榜 更新于 2021-07-04 23:03:00
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -582,4 +582,30 @@
 1. [广西现黄金瀑布](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%BB%84%E9%87%91%E7%80%91%E5%B8%83%23&Refer=top)
 
 1. [国际油价涨至高点](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%B6%A8%E8%87%B3%E9%AB%98%E7%82%B9%23&Refer=top)
+
+1. [王一博干杯舞台](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B9%B2%E6%9D%AF%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [妈妈安慰女儿不要身材焦虑](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%AE%89%E6%85%B0%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E8%BA%AB%E6%9D%90%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [INTO1毕业礼舞台](https://s.weibo.com//weibo?q=%23INTO1%E6%AF%95%E4%B8%9A%E7%A4%BC%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [神七出舱时哪怕牺牲也要展示国旗](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E4%B8%83%E5%87%BA%E8%88%B1%E6%97%B6%E5%93%AA%E6%80%95%E7%89%BA%E7%89%B2%E4%B9%9F%E8%A6%81%E5%B1%95%E7%A4%BA%E5%9B%BD%E6%97%97%23&Refer=top)
+
+1. [电竞解说把许嵩认成faker](https://s.weibo.com//weibo?q=%23%E7%94%B5%E7%AB%9E%E8%A7%A3%E8%AF%B4%E6%8A%8A%E8%AE%B8%E5%B5%A9%E8%AE%A4%E6%88%90faker%23&Refer=top)
+
+1. [这张漫画又破防了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BC%A0%E6%BC%AB%E7%94%BB%E5%8F%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
+
+1. [这猫怎么虎里虎气的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8C%AB%E6%80%8E%E4%B9%88%E8%99%8E%E9%87%8C%E8%99%8E%E6%B0%94%E7%9A%84%23&Refer=top)
+
+1. [出生仅4天婴儿被蜱虫咬伤](https://s.weibo.com//weibo?q=%23%E5%87%BA%E7%94%9F%E4%BB%854%E5%A4%A9%E5%A9%B4%E5%84%BF%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%23&Refer=top)
+
+1. [男子健身后手脚并用爬进电梯](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E5%90%8E%E6%89%8B%E8%84%9A%E5%B9%B6%E7%94%A8%E7%88%AC%E8%BF%9B%E7%94%B5%E6%A2%AF%23&Refer=top)
+
+1. [SN战胜RNG](https://s.weibo.com//weibo?q=%23SN%E6%88%98%E8%83%9CRNG%23&Refer=top)
+
+1. [Xiaohu单杀Bin](https://s.weibo.com//weibo?q=%23Xiaohu%E5%8D%95%E6%9D%80Bin%23&Refer=top)
+
+1. [云南盈江疫情](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%9B%88%E6%B1%9F%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [出云南盈江须72小时内核酸阴性](https://s.weibo.com//weibo?q=%23%E5%87%BA%E4%BA%91%E5%8D%97%E7%9B%88%E6%B1%9F%E9%A1%BB72%E5%B0%8F%E6%97%B6%E5%86%85%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%23&Refer=top)
 
