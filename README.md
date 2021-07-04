@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 17:02:50
+## 微博今日热榜 更新于 2021-07-04 18:03:34
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -452,4 +452,32 @@
 1. [面馆开业免费请40名环卫工吃饭](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E9%A6%86%E5%BC%80%E4%B8%9A%E5%85%8D%E8%B4%B9%E8%AF%B740%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%90%83%E9%A5%AD%23&Refer=top)
 
 1. [航天员舱外航天服背后有面国旗](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%A4%96%E8%88%AA%E5%A4%A9%E6%9C%8D%E8%83%8C%E5%90%8E%E6%9C%89%E9%9D%A2%E5%9B%BD%E6%97%97%23&Refer=top)
+
+1. [这狗怎么猴里猴气的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8B%97%E6%80%8E%E4%B9%88%E7%8C%B4%E9%87%8C%E7%8C%B4%E6%B0%94%E7%9A%84%23&Refer=top)
+
+1. [赵雅芝看不出已经67岁了](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E7%9C%8B%E4%B8%8D%E5%87%BA%E5%B7%B2%E7%BB%8F67%E5%B2%81%E4%BA%86%23&Refer=top)
+
+1. [李佳琦牛仔背带裤套装造型](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%89%9B%E4%BB%94%E8%83%8C%E5%B8%A6%E8%A3%A4%E5%A5%97%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [这就是文化自信](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1%23&Refer=top)
+
+1. [N3考试](https://s.weibo.com//weibo?q=N3%E8%80%83%E8%AF%95&Refer=top)
+
+1. [1921台词](https://s.weibo.com//weibo?q=%231921%E5%8F%B0%E8%AF%8D%23&Refer=top)
+
+1. [贪玩小象午休时间捣乱](https://s.weibo.com//weibo?q=%23%E8%B4%AA%E7%8E%A9%E5%B0%8F%E8%B1%A1%E5%8D%88%E4%BC%91%E6%97%B6%E9%97%B4%E6%8D%A3%E4%B9%B1%23&Refer=top)
+
+1. [INTO1录制生图](https://s.weibo.com//weibo?q=%23INTO1%E5%BD%95%E5%88%B6%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [高寒你微笑时很美ost](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%AF%92%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8Eost%23&Refer=top)
+
+1. [TES EDG](https://s.weibo.com//weibo?q=%23TES%20EDG%23&Refer=top)
+
+1. [出舱日航天员加餐鲜花包五香牛肉](https://s.weibo.com//weibo?q=%23%E5%87%BA%E8%88%B1%E6%97%A5%E8%88%AA%E5%A4%A9%E5%91%98%E5%8A%A0%E9%A4%90%E9%B2%9C%E8%8A%B1%E5%8C%85%E4%BA%94%E9%A6%99%E7%89%9B%E8%82%89%23&Refer=top)
+
+1. [菲律宾坠毁军机已致17人遇难](https://s.weibo.com//weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9D%A0%E6%AF%81%E5%86%9B%E6%9C%BA%E5%B7%B2%E8%87%B417%E4%BA%BA%E9%81%87%E9%9A%BE&Refer=top)
+
+1. [当代网友有多热心](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E7%BD%91%E5%8F%8B%E6%9C%89%E5%A4%9A%E7%83%AD%E5%BF%83%23&Refer=top)
+
+1. [被幸福催打的台湾女孩](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%B9%B8%E7%A6%8F%E5%82%AC%E6%89%93%E7%9A%84%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%23&Refer=top)
 
