@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 21:09:06
+## 微博今日热榜 更新于 2021-07-04 22:03:10
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -550,4 +550,36 @@
 1. [李紫婷回忆火箭少女初舞台](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%B4%AB%E5%A9%B7%E5%9B%9E%E5%BF%86%E7%81%AB%E7%AE%AD%E5%B0%91%E5%A5%B3%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top)
 
 1. [SN RNG](https://s.weibo.com//weibo?q=SN%20RNG&Refer=top)
+
+1. [新闻主播辞职回家卖保险照顾病母](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E5%8D%96%E4%BF%9D%E9%99%A9%E7%85%A7%E9%A1%BE%E7%97%85%E6%AF%8D%23&Refer=top)
+
+1. [美国两名不满十岁男孩被控枪杀一男子](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%90%8D%E4%B8%8D%E6%BB%A1%E5%8D%81%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%8E%A7%E6%9E%AA%E6%9D%80%E4%B8%80%E7%94%B7%E5%AD%90%23&Refer=top)
+
+1. [宋亚轩养狗了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%85%BB%E7%8B%97%E4%BA%86%23&Refer=top)
+
+1. [航天员在中国空间站内的日常](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%86%85%E7%9A%84%E6%97%A5%E5%B8%B8%23&Refer=top)
+
+1. [滴滴回应APP被下架](https://s.weibo.com//weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%9B%9E%E5%BA%94APP%E8%A2%AB%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [龚俊扯领带动作](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%89%AF%E9%A2%86%E5%B8%A6%E5%8A%A8%E4%BD%9C%23&Refer=top)
+
+1. [他打退38次进攻全身38个弹孔](https://s.weibo.com//weibo?q=%23%E4%BB%96%E6%89%93%E9%80%8038%E6%AC%A1%E8%BF%9B%E6%94%BB%E5%85%A8%E8%BA%AB38%E4%B8%AA%E5%BC%B9%E5%AD%94%23&Refer=top)
+
+1. [沈月双马尾校园风写真](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E5%8F%8C%E9%A9%AC%E5%B0%BE%E6%A0%A1%E5%9B%AD%E9%A3%8E%E5%86%99%E7%9C%9F%23&Refer=top)
+
+1. [极限挑战宝藏行](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%AE%9D%E8%97%8F%E8%A1%8C&Refer=top)
+
+1. [成毅哭戏秒落泪](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E5%93%AD%E6%88%8F%E7%A7%92%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [刘耀文舞蹈控制力](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%88%9E%E8%B9%88%E6%8E%A7%E5%88%B6%E5%8A%9B%23&Refer=top)
+
+1. [湖南卫视毕业礼](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%AF%95%E4%B8%9A%E7%A4%BC&Refer=top)
+
+1. [杨迪 有时认不出我是艺人真不怪别人](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%BF%AA%20%E6%9C%89%E6%97%B6%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%88%91%E6%98%AF%E8%89%BA%E4%BA%BA%E7%9C%9F%E4%B8%8D%E6%80%AA%E5%88%AB%E4%BA%BA&Refer=top)
+
+1. [热浪袭击美国加拿大数百人丧生](https://s.weibo.com//weibo?q=%23%E7%83%AD%E6%B5%AA%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%95%B0%E7%99%BE%E4%BA%BA%E4%B8%A7%E7%94%9F%23&Refer=top)
+
+1. [广西现黄金瀑布](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%8E%B0%E9%BB%84%E9%87%91%E7%80%91%E5%B8%83%23&Refer=top)
+
+1. [国际油价涨至高点](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%B6%A8%E8%87%B3%E9%AB%98%E7%82%B9%23&Refer=top)
 
