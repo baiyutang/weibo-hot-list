@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 20:06:08
+## 微博今日热榜 更新于 2021-07-04 21:09:06
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -528,4 +528,26 @@
 1. [袁隆平杂交水稻论文原始手稿](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E8%AE%BA%E6%96%87%E5%8E%9F%E5%A7%8B%E6%89%8B%E7%A8%BF%23&Refer=top)
 
 1. [TES战胜EDG](https://s.weibo.com//weibo?q=%23TES%E6%88%98%E8%83%9CEDG%23&Refer=top)
+
+1. [滴滴出行App下架](https://s.weibo.com//weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8CApp%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [加拿大鹅将弃用毛皮](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E5%B0%86%E5%BC%83%E7%94%A8%E6%AF%9B%E7%9A%AE%23&Refer=top)
+
+1. [滴滴发票](https://s.weibo.com//weibo?q=%E6%BB%B4%E6%BB%B4%E5%8F%91%E7%A5%A8&Refer=top)
+
+1. [周也回应与彭楚粤被称为娱乐圈救赎文](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BD%AD%E6%A5%9A%E7%B2%A4%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%A8%B1%E4%B9%90%E5%9C%88%E6%95%91%E8%B5%8E%E6%96%87%23&Refer=top)
+
+1. [王嘉尔工作人员在公司门口理发](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9C%A8%E5%85%AC%E5%8F%B8%E9%97%A8%E5%8F%A3%E7%90%86%E5%8F%91%23&Refer=top)
+
+1. [张彬彬让王迅签保证书](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E8%AE%A9%E7%8E%8B%E8%BF%85%E7%AD%BE%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
+
+1. [孩子打小就爱干净](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%93%E5%B0%8F%E5%B0%B1%E7%88%B1%E5%B9%B2%E5%87%80%23&Refer=top)
+
+1. [虽然我知道](https://s.weibo.com//weibo?q=%E8%99%BD%E7%84%B6%E6%88%91%E7%9F%A5%E9%81%93&Refer=top)
+
+1. [摩尔蛋糕做成了魔鬼蛋糕](https://s.weibo.com//weibo?q=%23%E6%91%A9%E5%B0%94%E8%9B%8B%E7%B3%95%E5%81%9A%E6%88%90%E4%BA%86%E9%AD%94%E9%AC%BC%E8%9B%8B%E7%B3%95%23&Refer=top)
+
+1. [李紫婷回忆火箭少女初舞台](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%B4%AB%E5%A9%B7%E5%9B%9E%E5%BF%86%E7%81%AB%E7%AE%AD%E5%B0%91%E5%A5%B3%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [SN RNG](https://s.weibo.com//weibo?q=SN%20RNG&Refer=top)
 
