@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 10:15:34
+## 微博今日热榜 更新于 2021-07-04 11:03:52
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -258,4 +258,32 @@
 1. [若是陈延年目睹墓前的花](https://s.weibo.com//weibo?q=%23%E8%8B%A5%E6%98%AF%E9%99%88%E5%BB%B6%E5%B9%B4%E7%9B%AE%E7%9D%B9%E5%A2%93%E5%89%8D%E7%9A%84%E8%8A%B1%23&Refer=top)
 
 1. [业主忘带钥匙爬楼被卡防盗窗](https://s.weibo.com//weibo?q=%23%E4%B8%9A%E4%B8%BB%E5%BF%98%E5%B8%A6%E9%92%A5%E5%8C%99%E7%88%AC%E6%A5%BC%E8%A2%AB%E5%8D%A1%E9%98%B2%E7%9B%97%E7%AA%97%23&Refer=top)
+
+1. [郑渊洁回复鹿晗女友粉晓彤好](https://s.weibo.com//weibo?q=%23%E9%83%91%E6%B8%8A%E6%B4%81%E5%9B%9E%E5%A4%8D%E9%B9%BF%E6%99%97%E5%A5%B3%E5%8F%8B%E7%B2%89%E6%99%93%E5%BD%A4%E5%A5%BD%23&Refer=top)
+
+1. [刘伯明出舱后感叹太漂亮了](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BC%AF%E6%98%8E%E5%87%BA%E8%88%B1%E5%90%8E%E6%84%9F%E5%8F%B9%E5%A4%AA%E6%BC%82%E4%BA%AE%E4%BA%86%23&Refer=top)
+
+1. [100年后的课本](https://s.weibo.com//weibo?q=%23100%E5%B9%B4%E5%90%8E%E7%9A%84%E8%AF%BE%E6%9C%AC%23&Refer=top)
+
+1. [航天员刘伯明出舱画面](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%88%98%E4%BC%AF%E6%98%8E%E5%87%BA%E8%88%B1%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [医生醉酒后给自己配药扎针](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E9%86%89%E9%85%92%E5%90%8E%E7%BB%99%E8%87%AA%E5%B7%B1%E9%85%8D%E8%8D%AF%E6%89%8E%E9%92%88%23&Refer=top)
+
+1. [两名航天员出舱任务](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E8%88%B1%E4%BB%BB%E5%8A%A1%23&Refer=top)
+
+1. [当年14岁的她划船送解放军过长江](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B9%B414%E5%B2%81%E7%9A%84%E5%A5%B9%E5%88%92%E8%88%B9%E9%80%81%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%87%E9%95%BF%E6%B1%9F%23&Refer=top)
+
+1. [神十二航天员出舱任务是什么](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%8C%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E8%88%B1%E4%BB%BB%E5%8A%A1%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [太空出舱三位航天员如何分工](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%87%BA%E8%88%B1%E4%B8%89%E4%BD%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%A6%82%E4%BD%95%E5%88%86%E5%B7%A5%23&Refer=top)
+
+1. [白俄罗斯关闭与乌克兰边境](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%B3%E9%97%AD%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BE%B9%E5%A2%83%23&Refer=top)
+
+1. [航天员身着新一代飞天舱外航天服出舱](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E8%BA%AB%E7%9D%80%E6%96%B0%E4%B8%80%E4%BB%A3%E9%A3%9E%E5%A4%A9%E8%88%B1%E5%A4%96%E8%88%AA%E5%A4%A9%E6%9C%8D%E5%87%BA%E8%88%B1%23&Refer=top)
+
+1. [他们没见到光明但他们就是光明](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%B2%A1%E8%A7%81%E5%88%B0%E5%85%89%E6%98%8E%E4%BD%86%E4%BB%96%E4%BB%AC%E5%B0%B1%E6%98%AF%E5%85%89%E6%98%8E%23&Refer=top)
+
+1. [N1](https://s.weibo.com//weibo?q=N1&Refer=top)
+
+1. [黑板也限制不了数学老师](https://s.weibo.com//weibo?q=%23%E9%BB%91%E6%9D%BF%E4%B9%9F%E9%99%90%E5%88%B6%E4%B8%8D%E4%BA%86%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%88%23&Refer=top)
 
