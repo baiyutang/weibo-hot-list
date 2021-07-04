@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 13:02:49
+## 微博今日热榜 更新于 2021-07-04 14:04:09
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -352,4 +352,38 @@
 1. [阿米尔汗离婚](https://s.weibo.com//weibo?q=%23%E9%98%BF%E7%B1%B3%E5%B0%94%E6%B1%97%E7%A6%BB%E5%A9%9A%23&Refer=top)
 
 1. [东京奥运会将调整开闭幕式时间](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%B0%86%E8%B0%83%E6%95%B4%E5%BC%80%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%B6%E9%97%B4&Refer=top)
+
+1. [刘亦菲这个哭戏我见犹怜](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%BF%99%E4%B8%AA%E5%93%AD%E6%88%8F%E6%88%91%E8%A7%81%E7%8A%B9%E6%80%9C%23&Refer=top)
+
+1. [广州奶奶去了巴黎有多可爱](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%BA%86%E5%B7%B4%E9%BB%8E%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [狠狠懂了](https://s.weibo.com//weibo?q=%23%E7%8B%A0%E7%8B%A0%E6%87%82%E4%BA%86%23&Refer=top)
+
+1. [王一博下台阶扶着韩磊](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8B%E5%8F%B0%E9%98%B6%E6%89%B6%E7%9D%80%E9%9F%A9%E7%A3%8A%23&Refer=top)
+
+1. [湖南卫视毕业礼节目单](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%AF%95%E4%B8%9A%E7%A4%BC%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
+
+1. [汤洪波太空吃播能有多少种姿势](https://s.weibo.com//weibo?q=%23%E6%B1%A4%E6%B4%AA%E6%B3%A2%E5%A4%AA%E7%A9%BA%E5%90%83%E6%92%AD%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E5%A7%BF%E5%8A%BF%23&Refer=top)
+
+1. [谭松韵分享风景照](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%86%E4%BA%AB%E9%A3%8E%E6%99%AF%E7%85%A7%23&Refer=top)
+
+1. [菲律宾一架载有85人的军机坠毁](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%80%E6%9E%B6%E8%BD%BD%E6%9C%8985%E4%BA%BA%E7%9A%84%E5%86%9B%E6%9C%BA%E5%9D%A0%E6%AF%81%23&Refer=top)
+
+1. [周韦彤的腰好细](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9F%A6%E5%BD%A4%E7%9A%84%E8%85%B0%E5%A5%BD%E7%BB%86%23&Refer=top)
+
+1. [深圳天气](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94&Refer=top)
+
+1. [梅西距离贝利纪录仅1球](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%A5%BF%E8%B7%9D%E7%A6%BB%E8%B4%9D%E5%88%A9%E7%BA%AA%E5%BD%95%E4%BB%851%E7%90%83%23&Refer=top)
+
+1. [袁文康受角色感染提交入党申请书](https://s.weibo.com//weibo?q=%23%E8%A2%81%E6%96%87%E5%BA%B7%E5%8F%97%E8%A7%92%E8%89%B2%E6%84%9F%E6%9F%93%E6%8F%90%E4%BA%A4%E5%85%A5%E5%85%9A%E7%94%B3%E8%AF%B7%E4%B9%A6%23&Refer=top)
+
+1. [杨蓉告别文秀](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%93%89%E5%91%8A%E5%88%AB%E6%96%87%E7%A7%80%23&Refer=top)
+
+1. [聂海胜问有没有看到满天繁星](https://s.weibo.com//weibo?q=%23%E8%81%82%E6%B5%B7%E8%83%9C%E9%97%AE%E6%9C%89%E6%B2%A1%E6%9C%89%E7%9C%8B%E5%88%B0%E6%BB%A1%E5%A4%A9%E7%B9%81%E6%98%9F%23&Refer=top)
+
+1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
+
+1. [台湾民众狂奔争抢疫苗残剂](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%8B%82%E5%A5%94%E4%BA%89%E6%8A%A2%E7%96%AB%E8%8B%97%E6%AE%8B%E5%89%82%23&Refer=top)
+
+1. [用嫩豆腐雕刻出水上芭蕾](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%AB%A9%E8%B1%86%E8%85%90%E9%9B%95%E5%88%BB%E5%87%BA%E6%B0%B4%E4%B8%8A%E8%8A%AD%E8%95%BE%23&Refer=top)
 
