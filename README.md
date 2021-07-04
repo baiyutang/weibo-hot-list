@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 19:02:37
+## 微博今日热榜 更新于 2021-07-04 20:06:08
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -508,4 +508,24 @@
 1. [消防员街头巡逻小男孩跑来牵手](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%A1%97%E5%A4%B4%E5%B7%A1%E9%80%BB%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%B7%91%E6%9D%A5%E7%89%B5%E6%89%8B%23&Refer=top)
 
 1. [小猫碰瓷现场](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%A2%B0%E7%93%B7%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [李子柒签约公司获字节入股](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E7%AD%BE%E7%BA%A6%E5%85%AC%E5%8F%B8%E8%8E%B7%E5%AD%97%E8%8A%82%E5%85%A5%E8%82%A1%23&Refer=top)
+
+1. [Win11死机蓝屏改成黑屏](https://s.weibo.com//weibo?q=%23Win11%E6%AD%BB%E6%9C%BA%E8%93%9D%E5%B1%8F%E6%94%B9%E6%88%90%E9%BB%91%E5%B1%8F%23&Refer=top)
+
+1. [患病老兵误把山竹当炸弹飞扑压住](https://s.weibo.com//weibo?q=%23%E6%82%A3%E7%97%85%E8%80%81%E5%85%B5%E8%AF%AF%E6%8A%8A%E5%B1%B1%E7%AB%B9%E5%BD%93%E7%82%B8%E5%BC%B9%E9%A3%9E%E6%89%91%E5%8E%8B%E4%BD%8F%23&Refer=top)
+
+1. [韩剧我的女孩 翻拍](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%89%A7%E6%88%91%E7%9A%84%E5%A5%B3%E5%AD%A9%20%E7%BF%BB%E6%8B%8D&Refer=top)
+
+1. [杨超越踩高跷十级选手](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%B8%A9%E9%AB%98%E8%B7%B7%E5%8D%81%E7%BA%A7%E9%80%89%E6%89%8B%23&Refer=top)
+
+1. [张子枫的少年感绝了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E7%9A%84%E5%B0%91%E5%B9%B4%E6%84%9F%E7%BB%9D%E4%BA%86%23&Refer=top)
+
+1. [杨利伟点评神舟十二号航天员表现](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E7%82%B9%E8%AF%84%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E8%A1%A8%E7%8E%B0%23&Refer=top)
+
+1. [小可爱为这个家付出太多](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8F%AF%E7%88%B1%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%AE%B6%E4%BB%98%E5%87%BA%E5%A4%AA%E5%A4%9A%23&Refer=top)
+
+1. [袁隆平杂交水稻论文原始手稿](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E8%AE%BA%E6%96%87%E5%8E%9F%E5%A7%8B%E6%89%8B%E7%A8%BF%23&Refer=top)
+
+1. [TES战胜EDG](https://s.weibo.com//weibo?q=%23TES%E6%88%98%E8%83%9CEDG%23&Refer=top)
 
