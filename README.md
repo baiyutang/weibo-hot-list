@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-04 16:04:33
+## 微博今日热榜 更新于 2021-07-04 17:02:50
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
@@ -424,4 +424,32 @@
 1. [我们接受教育的真正含义](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E6%8E%A5%E5%8F%97%E6%95%99%E8%82%B2%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%90%AB%E4%B9%89%23&Refer=top)
 
 1. [极限挑战宝藏行藏头诗官宣](https://s.weibo.com//weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E5%AE%9D%E8%97%8F%E8%A1%8C%E8%97%8F%E5%A4%B4%E8%AF%97%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [一百年一切为了人民](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%99%BE%E5%B9%B4%E4%B8%80%E5%88%87%E4%B8%BA%E4%BA%86%E4%BA%BA%E6%B0%91%23&Refer=new_time)
+
+1. [租户儿子高考608分房东免租4年](https://s.weibo.com//weibo?q=%23%E7%A7%9F%E6%88%B7%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83608%E5%88%86%E6%88%BF%E4%B8%9C%E5%85%8D%E7%A7%9F4%E5%B9%B4%23&Refer=top)
+
+1. [赖冠霖因合约官司停工163天](https://s.weibo.com//weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E5%9B%A0%E5%90%88%E7%BA%A6%E5%AE%98%E5%8F%B8%E5%81%9C%E5%B7%A5163%E5%A4%A9%23&Refer=top)
+
+1. [新西兰男运动员变性后参加女子举重](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E7%94%B7%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%98%E6%80%A7%E5%90%8E%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E4%B8%BE%E9%87%8D%23&Refer=top)
+
+1. [网购百香果需谨慎](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E7%99%BE%E9%A6%99%E6%9E%9C%E9%9C%80%E8%B0%A8%E6%85%8E%23&Refer=top)
+
+1. [韩美娟最感谢的人是奶奶](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E6%9C%80%E6%84%9F%E8%B0%A2%E7%9A%84%E4%BA%BA%E6%98%AF%E5%A5%B6%E5%A5%B6%23&Refer=top)
+
+1. [老了也想成为这样的老太太](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%86%E4%B9%9F%E6%83%B3%E6%88%90%E4%B8%BA%E8%BF%99%E6%A0%B7%E7%9A%84%E8%80%81%E5%A4%AA%E5%A4%AA%23&Refer=top)
+
+1. [刘伯明进舱前感谢全国人民](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BC%AF%E6%98%8E%E8%BF%9B%E8%88%B1%E5%89%8D%E6%84%9F%E8%B0%A2%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%23&Refer=top)
+
+1. [航天服为什么是白色的](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%99%BD%E8%89%B2%E7%9A%84%23&Refer=top)
+
+1. [300年老屋一屋跨广东广西](https://s.weibo.com//weibo?q=%23300%E5%B9%B4%E8%80%81%E5%B1%8B%E4%B8%80%E5%B1%8B%E8%B7%A8%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%23&Refer=top)
+
+1. [航天员出舱完整视频](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E8%88%B1%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [刘伯明把东北话带到了太空](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BC%AF%E6%98%8E%E6%8A%8A%E4%B8%9C%E5%8C%97%E8%AF%9D%E5%B8%A6%E5%88%B0%E4%BA%86%E5%A4%AA%E7%A9%BA%23&Refer=top)
+
+1. [面馆开业免费请40名环卫工吃饭](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E9%A6%86%E5%BC%80%E4%B8%9A%E5%85%8D%E8%B4%B9%E8%AF%B740%E5%90%8D%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%90%83%E9%A5%AD%23&Refer=top)
+
+1. [航天员舱外航天服背后有面国旗](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%A4%96%E8%88%AA%E5%A4%A9%E6%9C%8D%E8%83%8C%E5%90%8E%E6%9C%89%E9%9D%A2%E5%9B%BD%E6%97%97%23&Refer=top)
 
