@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 01:12:43
+## 微博今日热榜 更新于 2021-07-06 02:03:55
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -116,4 +116,6 @@
 1. [林俊杰连麦自己的蜡像](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%BF%9E%E9%BA%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E8%9C%A1%E5%83%8F%23&Refer=top)
 
 1. [景涧的温润如玉](https://s.weibo.com//weibo?q=%23%E6%99%AF%E6%B6%A7%E7%9A%84%E6%B8%A9%E6%B6%A6%E5%A6%82%E7%8E%89%23&Refer=top)
+
+1. [中国女排12人超燃暴扣](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%9212%E4%BA%BA%E8%B6%85%E7%87%83%E6%9A%B4%E6%89%A3%23&Refer=top)
 
