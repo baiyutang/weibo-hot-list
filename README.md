@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 04:03:47
+## 微博今日热榜 更新于 2021-07-06 05:03:03
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -126,4 +126,8 @@
 1. [佟丽娅角色跨度](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%A7%92%E8%89%B2%E8%B7%A8%E5%BA%A6%23&Refer=top)
 
 1. [布氏鲸现身深圳大鹏湾](https://s.weibo.com//weibo?q=%23%E5%B8%83%E6%B0%8F%E9%B2%B8%E7%8E%B0%E8%BA%AB%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E6%B9%BE%23&Refer=top)
+
+1. [一万封寄往太空的信](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%87%E5%B0%81%E5%AF%84%E5%BE%80%E5%A4%AA%E7%A9%BA%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [你微笑时很美评分](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8E%E8%AF%84%E5%88%86%23&Refer=top)
 
