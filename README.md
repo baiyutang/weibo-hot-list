@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 06:03:25
+## 微博今日热榜 更新于 2021-07-06 07:03:34
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -132,4 +132,8 @@
 1. [你微笑时很美评分](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8E%E8%AF%84%E5%88%86%23&Refer=top)
 
 1. [长沙87岁老人自费40万环游世界](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%9987%E5%B2%81%E8%80%81%E4%BA%BA%E8%87%AA%E8%B4%B940%E4%B8%87%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C%23&Refer=top)
+
+1. [彭昱畅状态](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [工匠手工打造神舟十二号的火箭零件](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E5%8C%A0%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E7%9A%84%E7%81%AB%E7%AE%AD%E9%9B%B6%E4%BB%B6%23&Refer=top)
 
