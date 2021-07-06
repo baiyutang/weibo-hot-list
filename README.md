@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 21:12:21
+## 微博今日热榜 更新于 2021-07-06 22:04:39
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -600,4 +600,26 @@
 1. [男朋友手写的旅游攻略](https://s.weibo.com//weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%89%8B%E5%86%99%E7%9A%84%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%23&Refer=top)
 
 1. [写给肖思远爱过你是我最幸运的事](https://s.weibo.com//weibo?q=%23%E5%86%99%E7%BB%99%E8%82%96%E6%80%9D%E8%BF%9C%E7%88%B1%E8%BF%87%E4%BD%A0%E6%98%AF%E6%88%91%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E4%BA%8B%23&Refer=top)
+
+1. [银行存100万5年后剩1块钱](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%AD%98100%E4%B8%875%E5%B9%B4%E5%90%8E%E5%89%A91%E5%9D%97%E9%92%B1%23&Refer=top)
+
+1. [Switch新机型](https://s.weibo.com//weibo?q=%23Switch%E6%96%B0%E6%9C%BA%E5%9E%8B%23&Refer=top)
+
+1. [学校的简称能有多好笑](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%9A%84%E7%AE%80%E7%A7%B0%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [吴尊晒一家四口亲亲照](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E6%99%92%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E4%BA%B2%E4%BA%B2%E7%85%A7%23&Refer=top)
+
+1. [女主播入职第一天偷走百万名表](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%A5%E8%81%8C%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E5%90%8D%E8%A1%A8%23&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [72岁王薇薇状态](https://s.weibo.com//weibo?q=72%E5%B2%81%E7%8E%8B%E8%96%87%E8%96%87%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [暑托班怎么托](https://s.weibo.com//weibo?q=%23%E6%9A%91%E6%89%98%E7%8F%AD%E6%80%8E%E4%B9%88%E6%89%98%23&Refer=top)
+
+1. [日系清冷厌世妆](https://s.weibo.com//weibo?q=%23%E6%97%A5%E7%B3%BB%E6%B8%85%E5%86%B7%E5%8E%8C%E4%B8%96%E5%A6%86%23&Refer=top)
+
+1. [你微笑时很美全员颜值](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8E%E5%85%A8%E5%91%98%E9%A2%9C%E5%80%BC%23&Refer=top)
+
+1. [雄安高铁站是全亚洲最大高铁站](https://s.weibo.com//weibo?q=%23%E9%9B%84%E5%AE%89%E9%AB%98%E9%93%81%E7%AB%99%E6%98%AF%E5%85%A8%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%A4%A7%E9%AB%98%E9%93%81%E7%AB%99%23&Refer=top)
 
