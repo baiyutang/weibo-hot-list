@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 07:03:34
+## 微博今日热榜 更新于 2021-07-06 08:15:37
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -136,4 +136,28 @@
 1. [彭昱畅状态](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E7%8A%B6%E6%80%81%23&Refer=top)
 
 1. [工匠手工打造神舟十二号的火箭零件](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E5%8C%A0%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E7%9A%84%E7%81%AB%E7%AE%AD%E9%9B%B6%E4%BB%B6%23&Refer=top)
+
+1. [孩子偷拿100元被父母揪进派出所](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E5%81%B7%E6%8B%BF100%E5%85%83%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8F%AA%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%23&Refer=top)
+
+1. [萧亚轩 谢谢你你的一切再见](https://s.weibo.com//weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%20%E8%B0%A2%E8%B0%A2%E4%BD%A0%E4%BD%A0%E7%9A%84%E4%B8%80%E5%88%87%E5%86%8D%E8%A7%81&Refer=top)
+
+1. [英国宣布7月19日基本取消新冠管控措施](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E5%AE%A3%E5%B8%837%E6%9C%8819%E6%97%A5%E5%9F%BA%E6%9C%AC%E5%8F%96%E6%B6%88%E6%96%B0%E5%86%A0%E7%AE%A1%E6%8E%A7%E6%8E%AA%E6%96%BD&Refer=top)
+
+1. [云南新增3例本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [如何评价中国女排奥运名单](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A5%A5%E8%BF%90%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [你微笑时很美预告](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8E%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [青岛凤凰音乐节](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E5%87%A4%E5%87%B0%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top)
+
+1. [埃及完成首批中国科兴疫苗本地化生产](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E5%AE%8C%E6%88%90%E9%A6%96%E6%89%B9%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97%E6%9C%AC%E5%9C%B0%E5%8C%96%E7%94%9F%E4%BA%A7%23&Refer=top)
+
+1. [贝索斯卸任亚马逊CEO](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E7%B4%A2%E6%96%AF%E5%8D%B8%E4%BB%BB%E4%BA%9A%E9%A9%AC%E9%80%8ACEO%23&Refer=top)
+
+1. [肖思远父亲的留言是思远我想你](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%80%9D%E8%BF%9C%E7%88%B6%E4%BA%B2%E7%9A%84%E7%95%99%E8%A8%80%E6%98%AF%E6%80%9D%E8%BF%9C%E6%88%91%E6%83%B3%E4%BD%A0%23&Refer=top)
+
+1. [跟父母沟通无效的崩溃瞬间](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E7%88%B6%E6%AF%8D%E6%B2%9F%E9%80%9A%E6%97%A0%E6%95%88%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [4岁男童落水81岁老人跳水救人](https://s.weibo.com//weibo?q=%234%E5%B2%81%E7%94%B7%E7%AB%A5%E8%90%BD%E6%B0%B481%E5%B2%81%E8%80%81%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%23&Refer=top)
 
