@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 08:15:37
+## 微博今日热榜 更新于 2021-07-06 09:50:01
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -160,4 +160,42 @@
 1. [跟父母沟通无效的崩溃瞬间](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E7%88%B6%E6%AF%8D%E6%B2%9F%E9%80%9A%E6%97%A0%E6%95%88%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4%23&Refer=top)
 
 1. [4岁男童落水81岁老人跳水救人](https://s.weibo.com//weibo?q=%234%E5%B2%81%E7%94%B7%E7%AB%A5%E8%90%BD%E6%B0%B481%E5%B2%81%E8%80%81%E4%BA%BA%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [央视镜头下的杨超越](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&Refer=top)
+
+1. [印度农村地区女方嫁妆约为男方彩礼7倍](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%86%9C%E6%9D%91%E5%9C%B0%E5%8C%BA%E5%A5%B3%E6%96%B9%E5%AB%81%E5%A6%86%E7%BA%A6%E4%B8%BA%E7%94%B7%E6%96%B9%E5%BD%A9%E7%A4%BC7%E5%80%8D%23&Refer=top)
+
+1. [横店群演注册人数超10万](https://s.weibo.com//weibo?q=%23%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E6%B3%A8%E5%86%8C%E4%BA%BA%E6%95%B0%E8%B6%8510%E4%B8%87%23&Refer=top)
+
+1. [居民隔空吼退5楼爬窗男童](https://s.weibo.com//weibo?q=%23%E5%B1%85%E6%B0%91%E9%9A%94%E7%A9%BA%E5%90%BC%E9%80%805%E6%A5%BC%E7%88%AC%E7%AA%97%E7%94%B7%E7%AB%A5%23&Refer=top)
+
+1. [客车司机身体绑256枚英特尔CPU走私](https://s.weibo.com//weibo?q=%23%E5%AE%A2%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BA%AB%E4%BD%93%E7%BB%91256%E6%9E%9A%E8%8B%B1%E7%89%B9%E5%B0%94CPU%E8%B5%B0%E7%A7%81%23&Refer=top)
+
+1. [德尔塔变异毒株已传遍美国50个州](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E5%B7%B2%E4%BC%A0%E9%81%8D%E7%BE%8E%E5%9B%BD50%E4%B8%AA%E5%B7%9E%23&Refer=top)
+
+1. [幼儿园的作息能有多安逸](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E4%BD%9C%E6%81%AF%E8%83%BD%E6%9C%89%E5%A4%9A%E5%AE%89%E9%80%B8%23&Refer=top)
+
+1. [关晓彤对自己蜡像的锁骨很满意](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%9C%A1%E5%83%8F%E7%9A%84%E9%94%81%E9%AA%A8%E5%BE%88%E6%BB%A1%E6%84%8F%23&Refer=top)
+
+1. [赵小棠探班虞书欣](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%B0%8F%E6%A3%A0%E6%8E%A2%E7%8F%AD%E8%99%9E%E4%B9%A6%E6%AC%A3%23&Refer=top)
+
+1. [巴西 秘鲁](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%A5%BF%20%E7%A7%98%E9%B2%81&Refer=top)
+
+1. [净渊抢亲](https://s.weibo.com//weibo?q=%23%E5%87%80%E6%B8%8A%E6%8A%A2%E4%BA%B2%23&Refer=top)
+
+1. [你见过最奇葩的宿舍装扮](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E5%A5%87%E8%91%A9%E7%9A%84%E5%AE%BF%E8%88%8D%E8%A3%85%E6%89%AE%23&Refer=top)
+
+1. [中国移动成立芯片公司](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E6%88%90%E7%AB%8B%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [上海电气被立案调查](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%94%B5%E6%B0%94%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&Refer=top)
+
+1. [故宫绣娘修复文物百余件](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E7%BB%A3%E5%A8%98%E4%BF%AE%E5%A4%8D%E6%96%87%E7%89%A9%E7%99%BE%E4%BD%99%E4%BB%B6%23&Refer=top)
+
+1. [刚出生的小羊驼长啥样](https://s.weibo.com//weibo?q=%23%E5%88%9A%E5%87%BA%E7%94%9F%E7%9A%84%E5%B0%8F%E7%BE%8A%E9%A9%BC%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top)
+
+1. [云南大象会不会吃到毒蘑菇](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E8%B1%A1%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%90%83%E5%88%B0%E6%AF%92%E8%98%91%E8%8F%87%23&Refer=top)
+
+1. [第一次租房能有多难](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A7%9F%E6%88%BF%E8%83%BD%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [小学男生毕业礼哭着感谢父母](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%B7%E7%94%9F%E6%AF%95%E4%B8%9A%E7%A4%BC%E5%93%AD%E7%9D%80%E6%84%9F%E8%B0%A2%E7%88%B6%E6%AF%8D%23&Refer=top)
 
