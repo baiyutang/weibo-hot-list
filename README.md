@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-07 06:03:30
+## 微博今日热榜 更新于 2021-07-07 07:03:18
 1. [中国最希望发展好自己不是取代别人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E5%8F%91%E5%B1%95%E5%A5%BD%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%8F%96%E4%BB%A3%E5%88%AB%E4%BA%BA%23&Refer=new_time)
 
 1. [银行存100万5年后剩1块钱](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%AD%98100%E4%B8%875%E5%B9%B4%E5%90%8E%E5%89%A91%E5%9D%97%E9%92%B1%23&Refer=top)
