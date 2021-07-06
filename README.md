@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 11:03:55
+## 微博今日热榜 更新于 2021-07-06 12:05:12
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -228,4 +228,30 @@
 1. [无人机拍下小象花式练功](https://s.weibo.com//weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8B%8D%E4%B8%8B%E5%B0%8F%E8%B1%A1%E8%8A%B1%E5%BC%8F%E7%BB%83%E5%8A%9F%23&Refer=top)
 
 1. [美洲杯](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%B4%B2%E6%9D%AF%23&Refer=top)
+
+1. [美团外卖崩了](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [中国游泳队公布奥运名单](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E5%85%AC%E5%B8%83%E5%A5%A5%E8%BF%90%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [基金走势](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E9%87%91%E8%B5%B0%E5%8A%BF%23&Refer=top)
+
+1. [腿毛长的好处就是防蚊](https://s.weibo.com//weibo?q=%23%E8%85%BF%E6%AF%9B%E9%95%BF%E7%9A%84%E5%A5%BD%E5%A4%84%E5%B0%B1%E6%98%AF%E9%98%B2%E8%9A%8A%23&Refer=top)
+
+1. [泰国一化工厂爆炸20余人受伤](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B820%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [两只狗用中文聊天的原因](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%8F%AA%E7%8B%97%E7%94%A8%E4%B8%AD%E6%96%87%E8%81%8A%E5%A4%A9%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [宋亚轩扮NPC吓人失败](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%89%AENPC%E5%90%93%E4%BA%BA%E5%A4%B1%E8%B4%A5%23&Refer=top)
+
+1. [黄河小浪底水库排沙现流鱼奇观](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%B2%B3%E5%B0%8F%E6%B5%AA%E5%BA%95%E6%B0%B4%E5%BA%93%E6%8E%92%E6%B2%99%E7%8E%B0%E6%B5%81%E9%B1%BC%E5%A5%87%E8%A7%82%23&Refer=top)
+
+1. [上海电信回应IPTV开机广告关不掉](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E5%9B%9E%E5%BA%94IPTV%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E5%85%B3%E4%B8%8D%E6%8E%89%23&Refer=top)
+
+1. [美国独立日长周末发生400多起枪案](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%8B%AC%E7%AB%8B%E6%97%A5%E9%95%BF%E5%91%A8%E6%9C%AB%E5%8F%91%E7%94%9F400%E5%A4%9A%E8%B5%B7%E6%9E%AA%E6%A1%88%23&Refer=top)
+
+1. [还好西瓜绑了安全带](https://s.weibo.com//weibo?q=%23%E8%BF%98%E5%A5%BD%E8%A5%BF%E7%93%9C%E7%BB%91%E4%BA%86%E5%AE%89%E5%85%A8%E5%B8%A6%23&Refer=top)
+
+1. [周迅上班图氛围感](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%8A%E7%8F%AD%E5%9B%BE%E6%B0%9B%E5%9B%B4%E6%84%9F%23&Refer=top)
+
+1. [12只海豚搁浅台州海域](https://s.weibo.com//weibo?q=%2312%E5%8F%AA%E6%B5%B7%E8%B1%9A%E6%90%81%E6%B5%85%E5%8F%B0%E5%B7%9E%E6%B5%B7%E5%9F%9F%23&Refer=top)
 
