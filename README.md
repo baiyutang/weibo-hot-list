@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-06 13:02:57
+## 微博今日热榜 更新于 2021-07-06 14:04:16
 1. [课本里的共产党员](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time)
 
 1. [谢娜侄子考上清华](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%BE%84%E5%AD%90%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
@@ -298,4 +298,28 @@
 1. [贺峻霖被提醒买鲱鱼罐头](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%A2%AB%E6%8F%90%E9%86%92%E4%B9%B0%E9%B2%B1%E9%B1%BC%E7%BD%90%E5%A4%B4%23&Refer=top)
 
 1. [有情调的人是怎么生活的](https://s.weibo.com//weibo?q=%23%E6%9C%89%E6%83%85%E8%B0%83%E7%9A%84%E4%BA%BA%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%9F%E6%B4%BB%E7%9A%84%23&Refer=top)
+
+1. [中国最希望发展好自己不是取代别人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E5%8F%91%E5%B1%95%E5%A5%BD%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%8F%96%E4%BB%A3%E5%88%AB%E4%BA%BA%23&Refer=new_time)
+
+1. [妻子为罗永浩签字担保近亿债务](https://s.weibo.com//weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%BA%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%AD%BE%E5%AD%97%E6%8B%85%E4%BF%9D%E8%BF%91%E4%BA%BF%E5%80%BA%E5%8A%A1%23&Refer=top)
+
+1. [印度火葬场拿新冠死者骨灰建公园](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%91%AC%E5%9C%BA%E6%8B%BF%E6%96%B0%E5%86%A0%E6%AD%BB%E8%80%85%E9%AA%A8%E7%81%B0%E5%BB%BA%E5%85%AC%E5%9B%AD%23&Refer=top)
+
+1. [郭麒麟对待友情的方式](https://s.weibo.com//weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E5%AF%B9%E5%BE%85%E5%8F%8B%E6%83%85%E7%9A%84%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [女孩未能救活老人遗憾落泪](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%9C%AA%E8%83%BD%E6%95%91%E6%B4%BB%E8%80%81%E4%BA%BA%E9%81%97%E6%86%BE%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [吴亦凡巨型兔子大片](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%B7%A8%E5%9E%8B%E5%85%94%E5%AD%90%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [现在的小说越来越难理解了](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E8%AF%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E7%90%86%E8%A7%A3%E4%BA%86%23&Refer=top)
+
+1. [拜托了冰箱轰趴季评分](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E6%89%98%E4%BA%86%E5%86%B0%E7%AE%B1%E8%BD%B0%E8%B6%B4%E5%AD%A3%E8%AF%84%E5%88%86%23&Refer=top)
+
+1. [研究人员发现海水中鲸鲨的基因秘密](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E5%8F%91%E7%8E%B0%E6%B5%B7%E6%B0%B4%E4%B8%AD%E9%B2%B8%E9%B2%A8%E7%9A%84%E5%9F%BA%E5%9B%A0%E7%A7%98%E5%AF%86%23&Refer=top)
+
+1. [这是西游记小钻风真身吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%B0%8F%E9%92%BB%E9%A3%8E%E7%9C%9F%E8%BA%AB%E5%90%A7%23&Refer=top)
+
+1. [俄罗斯一架载有20余人的飞机失联](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E6%9E%B6%E8%BD%BD%E6%9C%8920%E4%BD%99%E4%BA%BA%E7%9A%84%E9%A3%9E%E6%9C%BA%E5%A4%B1%E8%81%94%23&Refer=top)
+
+1. [跳水队东京奥运会名单](https://s.weibo.com//weibo?q=%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95&Refer=top)
 
