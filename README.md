@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-07 05:03:19
+## 微博今日热榜 更新于 2021-07-07 06:03:30
 1. [中国最希望发展好自己不是取代别人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E5%8F%91%E5%B1%95%E5%A5%BD%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%8F%96%E4%BB%A3%E5%88%AB%E4%BA%BA%23&Refer=new_time)
 
 1. [银行存100万5年后剩1块钱](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%AD%98100%E4%B8%875%E5%B9%B4%E5%90%8E%E5%89%A91%E5%9D%97%E9%92%B1%23&Refer=top)
@@ -140,4 +140,14 @@
 1. [莫拉塔成西班牙欧洲杯队史射手王](https://s.weibo.com//weibo?q=%E8%8E%AB%E6%8B%89%E5%A1%94%E6%88%90%E8%A5%BF%E7%8F%AD%E7%89%99%E6%AC%A7%E6%B4%B2%E6%9D%AF%E9%98%9F%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B&Refer=top)
 
 1. [航天员系统地面保障人员24小时值班](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E7%B3%BB%E7%BB%9F%E5%9C%B0%E9%9D%A2%E4%BF%9D%E9%9A%9C%E4%BA%BA%E5%91%9824%E5%B0%8F%E6%97%B6%E5%80%BC%E7%8F%AD%23&Refer=top)
+
+1. [意大利西班牙点球大战](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A5%BF%E7%8F%AD%E7%89%99%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&Refer=top)
+
+1. [莫拉塔点球不进](https://s.weibo.com//weibo?q=%E8%8E%AB%E6%8B%89%E5%A1%94%E7%82%B9%E7%90%83%E4%B8%8D%E8%BF%9B&Refer=top)
+
+1. [意大利点球战胜西班牙](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top)
+
+1. [成也莫拉塔败也莫拉塔](https://s.weibo.com//weibo?q=%E6%88%90%E4%B9%9F%E8%8E%AB%E6%8B%89%E5%A1%94%E8%B4%A5%E4%B9%9F%E8%8E%AB%E6%8B%89%E5%A1%94&Refer=top)
+
+1. [意大利晋级决赛](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top)
 
