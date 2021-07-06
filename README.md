@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-07 00:10:29
+## 微博今日热榜 更新于 2021-07-07 01:16:42
 1. [中国最希望发展好自己不是取代别人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E5%8F%91%E5%B1%95%E5%A5%BD%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%8F%96%E4%BB%A3%E5%88%AB%E4%BA%BA%23&Refer=new_time)
 
 1. [银行存100万5年后剩1块钱](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%AD%98100%E4%B8%875%E5%B9%B4%E5%90%8E%E5%89%A91%E5%9D%97%E9%92%B1%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [两头瓜头鲸放归深海](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%A4%B4%E7%93%9C%E5%A4%B4%E9%B2%B8%E6%94%BE%E5%BD%92%E6%B7%B1%E6%B5%B7%23&Refer=top)
 
 1. [海洋馆表演谢幕少了个人](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E6%B4%8B%E9%A6%86%E8%A1%A8%E6%BC%94%E8%B0%A2%E5%B9%95%E5%B0%91%E4%BA%86%E4%B8%AA%E4%BA%BA%23&Refer=top)
+
+1. [为人类命运共同体提供中国方案](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E6%8F%90%E4%BE%9B%E4%B8%AD%E5%9B%BD%E6%96%B9%E6%A1%88%23&Refer=new_time)
+
+1. [从严打击证券违法活动](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E4%B8%A5%E6%89%93%E5%87%BB%E8%AF%81%E5%88%B8%E8%BF%9D%E6%B3%95%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [中国空间站航天员首次出舱全记录](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E5%87%BA%E8%88%B1%E5%85%A8%E8%AE%B0%E5%BD%95%23&Refer=top)
 
