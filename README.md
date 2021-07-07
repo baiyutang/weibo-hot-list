@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 06:03:18
+## 微博今日热榜 更新于 2021-07-08 07:03:27
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -140,4 +140,8 @@
 1. [七七事变84周年](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%83%E4%BA%8B%E5%8F%9884%E5%91%A8%E5%B9%B4%23&Refer=top)
 
 1. [英格兰意大利会师决赛](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [陆思诚童谣太甜了](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%80%9D%E8%AF%9A%E7%AB%A5%E8%B0%A3%E5%A4%AA%E7%94%9C%E4%BA%86%23&Refer=top)
+
+1. [斯特林是假摔吗](https://s.weibo.com//weibo?q=%23%E6%96%AF%E7%89%B9%E6%9E%97%E6%98%AF%E5%81%87%E6%91%94%E5%90%97%23&Refer=top)
 
