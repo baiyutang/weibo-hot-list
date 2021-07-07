@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 01:22:23
+## 微博今日热榜 更新于 2021-07-08 02:05:17
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
