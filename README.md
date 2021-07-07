@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 05:02:44
+## 微博今日热榜 更新于 2021-07-08 06:03:18
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -130,4 +130,14 @@
 1. [本届欧洲杯第一个直接任意球破门](https://s.weibo.com//weibo?q=%E6%9C%AC%E5%B1%8A%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%9B%B4%E6%8E%A5%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top)
 
 1. [南京举行撞响和平大钟仪式](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%BE%E8%A1%8C%E6%92%9E%E5%93%8D%E5%92%8C%E5%B9%B3%E5%A4%A7%E9%92%9F%E4%BB%AA%E5%BC%8F%23&Refer=top)
+
+1. [英格兰丹麦加时赛](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%B9%E9%BA%A6%E5%8A%A0%E6%97%B6%E8%B5%9B&Refer=top)
+
+1. [凯恩破门](https://s.weibo.com//weibo?q=%23%E5%87%AF%E6%81%A9%E7%A0%B4%E9%97%A8%23&Refer=top)
+
+1. [英格兰淘汰丹麦](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B7%98%E6%B1%B0%E4%B8%B9%E9%BA%A6%23&Refer=top)
+
+1. [七七事变84周年](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%83%E4%BA%8B%E5%8F%9884%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [英格兰意大利会师决赛](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B&Refer=top)
 
