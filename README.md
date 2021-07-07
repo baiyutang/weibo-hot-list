@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-07 09:48:26
+## 微博今日热榜 更新于 2021-07-07 10:17:57
 1. [中国最希望发展好自己不是取代别人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B8%8C%E6%9C%9B%E5%8F%91%E5%B1%95%E5%A5%BD%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%8F%96%E4%BB%A3%E5%88%AB%E4%BA%BA%23&Refer=new_time)
 
 1. [银行存100万5年后剩1块钱](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E5%AD%98100%E4%B8%875%E5%B9%B4%E5%90%8E%E5%89%A91%E5%9D%97%E9%92%B1%23&Refer=top)
@@ -236,4 +236,22 @@
 1. [女子骑平衡车摔亡家人索赔213万](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%91%E5%B9%B3%E8%A1%A1%E8%BD%A6%E6%91%94%E4%BA%A1%E5%AE%B6%E4%BA%BA%E7%B4%A2%E8%B5%94213%E4%B8%87%23&Refer=top)
 
 1. [阿根廷vs哥伦比亚](https://s.weibo.com//weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%23&Refer=top)
+
+1. [中国人民公安大学](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%AE%89%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [这就是中国共产党员的手](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E7%9A%84%E6%89%8B%23&Refer=top)
+
+1. [田馥甄 谢了的爱情花无以为继](https://s.weibo.com//weibo?q=%E7%94%B0%E9%A6%A5%E7%94%84%20%E8%B0%A2%E4%BA%86%E7%9A%84%E7%88%B1%E6%83%85%E8%8A%B1%E6%97%A0%E4%BB%A5%E4%B8%BA%E7%BB%A7&Refer=top)
+
+1. [94岁退休教师义务为学生补课24年](https://s.weibo.com//weibo?q=%2394%E5%B2%81%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E4%B9%89%E5%8A%A1%E4%B8%BA%E5%AD%A6%E7%94%9F%E8%A1%A5%E8%AF%BE24%E5%B9%B4%23&Refer=top)
+
+1. [武汉MF8008航班](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89MF8008%E8%88%AA%E7%8F%AD&Refer=top)
+
+1. [小学生进店吃面遇老师撒腿就跑](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9B%E5%BA%97%E5%90%83%E9%9D%A2%E9%81%87%E8%80%81%E5%B8%88%E6%92%92%E8%85%BF%E5%B0%B1%E8%B7%91%23&Refer=top)
+
+1. [纽约州因枪支暴力进入紧急状态](https://s.weibo.com//weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%B7%9E%E5%9B%A0%E6%9E%AA%E6%94%AF%E6%9A%B4%E5%8A%9B%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [梅雨天将结束](https://s.weibo.com//weibo?q=%23%E6%A2%85%E9%9B%A8%E5%A4%A9%E5%B0%86%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [河北全省今日上午10时试鸣防空警报](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E5%85%A8%E7%9C%81%E4%BB%8A%E6%97%A5%E4%B8%8A%E5%8D%8810%E6%97%B6%E8%AF%95%E9%B8%A3%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&Refer=top)
 
