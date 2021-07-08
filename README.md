@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 21:19:30
+## 微博今日热榜 更新于 2021-07-08 22:08:29
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -596,4 +596,10 @@
 1. [心动的信号4](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74&Refer=top)
 
 1. [东京奥运会部分赛事以空场形式举办](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%83%A8%E5%88%86%E8%B5%9B%E4%BA%8B%E4%BB%A5%E7%A9%BA%E5%9C%BA%E5%BD%A2%E5%BC%8F%E4%B8%BE%E5%8A%9E%23&Refer=top)
+
+1. [孩子沉迷手机短视频该如何应对](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%E7%9F%AD%E8%A7%86%E9%A2%91%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%23&Refer=top)
+
+1. [当飞机飞越彩虹](https://s.weibo.com//weibo?q=%23%E5%BD%93%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%B6%8A%E5%BD%A9%E8%99%B9%23&Refer=top)
+
+1. [全网最简单录取通知书](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E7%AE%80%E5%8D%95%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&Refer=top)
 
