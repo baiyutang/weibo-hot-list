@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 11:03:16
+## 微博今日热榜 更新于 2021-07-08 12:04:57
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -278,4 +278,42 @@
 1. [消防员火场分享面包吃完相视一笑](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E5%88%86%E4%BA%AB%E9%9D%A2%E5%8C%85%E5%90%83%E5%AE%8C%E7%9B%B8%E8%A7%86%E4%B8%80%E7%AC%91%23&Refer=top)
 
 1. [成都一游乐园开设水上麻将](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%BC%80%E8%AE%BE%E6%B0%B4%E4%B8%8A%E9%BA%BB%E5%B0%86%23&Refer=top)
+
+1. [教育部称高考录取不存在内部指标](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E7%A7%B0%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%86%85%E9%83%A8%E6%8C%87%E6%A0%87%23&Refer=top)
+
+1. [金智秀公示照](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E5%85%AC%E7%A4%BA%E7%85%A7%23&Refer=top)
+
+1. [搜救犬发现幸存者时的表情](https://s.weibo.com//weibo?q=%23%E6%90%9C%E6%95%91%E7%8A%AC%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98%E8%80%85%E6%97%B6%E7%9A%84%E8%A1%A8%E6%83%85%23&Refer=top)
+
+1. [云顶天宫定档](https://s.weibo.com//weibo?q=%23%E4%BA%91%E9%A1%B6%E5%A4%A9%E5%AE%AB%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [湘潭大学 航天服](https://s.weibo.com//weibo?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%20%E8%88%AA%E5%A4%A9%E6%9C%8D&Refer=top)
+
+1. [牛气满满的哥哥阵容](https://s.weibo.com//weibo?q=%23%E7%89%9B%E6%B0%94%E6%BB%A1%E6%BB%A1%E7%9A%84%E5%93%A5%E5%93%A5%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [特斯拉Model Y标准续航版](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89Model%20Y%E6%A0%87%E5%87%86%E7%BB%AD%E8%88%AA%E7%89%88&Refer=top)
+
+1. [我国渔民这些年捞了不少好东西](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E6%B8%94%E6%B0%91%E8%BF%99%E4%BA%9B%E5%B9%B4%E6%8D%9E%E4%BA%86%E4%B8%8D%E5%B0%91%E5%A5%BD%E4%B8%9C%E8%A5%BF&Refer=top)
+
+1. [小米集团拟发行12亿美元债券](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E6%8B%9F%E5%8F%91%E8%A1%8C12%E4%BA%BF%E7%BE%8E%E5%85%83%E5%80%BA%E5%88%B8%23&Refer=top)
+
+1. [海地总统遇刺现场画面](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%9C%B0%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2&Refer=top)
+
+1. [换发型后痛失女友](https://s.weibo.com//weibo?q=%23%E6%8D%A2%E5%8F%91%E5%9E%8B%E5%90%8E%E7%97%9B%E5%A4%B1%E5%A5%B3%E5%8F%8B%23&Refer=top)
+
+1. [官方回复延乔路设烈士雕塑](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%A4%8D%E5%BB%B6%E4%B9%94%E8%B7%AF%E8%AE%BE%E7%83%88%E5%A3%AB%E9%9B%95%E5%A1%91%23&Refer=top)
+
+1. [哈工程教师挥雨伞制服猥琐男](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B7%A5%E7%A8%8B%E6%95%99%E5%B8%88%E6%8C%A5%E9%9B%A8%E4%BC%9E%E5%88%B6%E6%9C%8D%E7%8C%A5%E7%90%90%E7%94%B7%23&Refer=top)
+
+1. [日本东京新宿现巨大3D猫咪](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E6%96%B0%E5%AE%BF%E7%8E%B0%E5%B7%A8%E5%A4%A73D%E7%8C%AB%E5%92%AA%23&Refer=top)
+
+1. [重庆棒棒数量锐减](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%A3%92%E6%A3%92%E6%95%B0%E9%87%8F%E9%94%90%E5%87%8F%23&Refer=top)
+
+1. [北非高温60度一只骆驼热晕在路边](https://s.weibo.com//weibo?q=%23%E5%8C%97%E9%9D%9E%E9%AB%98%E6%B8%A960%E5%BA%A6%E4%B8%80%E5%8F%AA%E9%AA%86%E9%A9%BC%E7%83%AD%E6%99%95%E5%9C%A8%E8%B7%AF%E8%BE%B9%23&Refer=top)
+
+1. [比利时11岁男孩仅用1年大学毕业](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B611%E5%B2%81%E7%94%B7%E5%AD%A9%E4%BB%85%E7%94%A81%E5%B9%B4%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23&Refer=top)
+
+1. [电瓶车爆燃受伤女婴致永久性残疾](https://s.weibo.com//weibo?q=%23%E7%94%B5%E7%93%B6%E8%BD%A6%E7%88%86%E7%87%83%E5%8F%97%E4%BC%A4%E5%A5%B3%E5%A9%B4%E8%87%B4%E6%B0%B8%E4%B9%85%E6%80%A7%E6%AE%8B%E7%96%BE%23&Refer=top)
+
+1. [斯特林否认假摔骗点球](https://s.weibo.com//weibo?q=%E6%96%AF%E7%89%B9%E6%9E%97%E5%90%A6%E8%AE%A4%E5%81%87%E6%91%94%E9%AA%97%E7%82%B9%E7%90%83&Refer=top)
 
