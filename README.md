@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 17:08:35
+## 微博今日热榜 更新于 2021-07-08 18:08:34
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -504,4 +504,32 @@
 1. [简历能有多好笑](https://s.weibo.com//weibo?q=%23%E7%AE%80%E5%8E%86%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
 
 1. [当社恐人去餐厅](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%A4%BE%E6%81%90%E4%BA%BA%E5%8E%BB%E9%A4%90%E5%8E%85%23&Refer=top)
+
+1. [关于中国共产党的8件事](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%848%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
+
+1. [肖华希望NBA继续在中国转播](https://s.weibo.com//weibo?q=%23%E8%82%96%E5%8D%8E%E5%B8%8C%E6%9C%9BNBA%E7%BB%A7%E7%BB%AD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%AC%E6%92%AD%23&Refer=top)
+
+1. [展羽 家暴](https://s.weibo.com//weibo?q=%E5%B1%95%E7%BE%BD%20%E5%AE%B6%E6%9A%B4&Refer=top)
+
+1. [母亲晕倒2岁女童冷静求助警察](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%99%95%E5%80%922%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%86%B7%E9%9D%99%E6%B1%82%E5%8A%A9%E8%AD%A6%E5%AF%9F%23&Refer=top)
+
+1. [大学的人脉真的很重要吗](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%9A%84%E4%BA%BA%E8%84%89%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%E5%90%97%23&Refer=top)
+
+1. [刘宪华录制街舞4](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%BD%95%E5%88%B6%E8%A1%97%E8%88%9E4%23&Refer=top)
+
+1. [黄奕说自己创业初期是很卑微的](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A5%95%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%88%9B%E4%B8%9A%E5%88%9D%E6%9C%9F%E6%98%AF%E5%BE%88%E5%8D%91%E5%BE%AE%E7%9A%84%23&Refer=top)
+
+1. [员工长期加班后猝死公司担责二成](https://s.weibo.com//weibo?q=%23%E5%91%98%E5%B7%A5%E9%95%BF%E6%9C%9F%E5%8A%A0%E7%8F%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%E5%85%AC%E5%8F%B8%E6%8B%85%E8%B4%A3%E4%BA%8C%E6%88%90%23&Refer=top)
+
+1. [阚清子回应频上综艺质疑](https://s.weibo.com//weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%9E%E5%BA%94%E9%A2%91%E4%B8%8A%E7%BB%BC%E8%89%BA%E8%B4%A8%E7%96%91%23&Refer=top)
+
+1. [没有腰的大熊猫长什么样](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%9C%89%E8%85%B0%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
+
+1. [李沁告别夏初](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E5%91%8A%E5%88%AB%E5%A4%8F%E5%88%9D%23&Refer=top)
+
+1. [外国人看1921点赞中国抗疫精神](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%8B1921%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E6%8A%97%E7%96%AB%E7%B2%BE%E7%A5%9E%23&Refer=top)
+
+1. [餐馆回应游客4道菜花费近千元](https://s.weibo.com//weibo?q=%23%E9%A4%90%E9%A6%86%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A24%E9%81%93%E8%8F%9C%E8%8A%B1%E8%B4%B9%E8%BF%91%E5%8D%83%E5%85%83%23&Refer=top)
+
+1. [XYG 东莞Wz](https://s.weibo.com//weibo?q=XYG%20%E4%B8%9C%E8%8E%9EWz&Refer=top)
 
