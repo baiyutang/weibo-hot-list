@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-09 03:02:36
+## 微博今日热榜 更新于 2021-07-09 04:04:13
 1. [解码中国共产党的成功秘诀](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E6%88%90%E5%8A%9F%E7%A7%98%E8%AF%80%23&Refer=new_time)
 
 1. [插上吸管就能喝的水蜜桃一个能卖128元](https://s.weibo.com//weibo?q=%23%E6%8F%92%E4%B8%8A%E5%90%B8%E7%AE%A1%E5%B0%B1%E8%83%BD%E5%96%9D%E7%9A%84%E6%B0%B4%E8%9C%9C%E6%A1%83%E4%B8%80%E4%B8%AA%E8%83%BD%E5%8D%96128%E5%85%83%23&Refer=top)
@@ -118,4 +118,10 @@
 1. [建党精神](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E5%85%9A%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [东京奥运会部分赛事以空场形式举办](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%83%A8%E5%88%86%E8%B5%9B%E4%BA%8B%E4%BB%A5%E7%A9%BA%E5%9C%BA%E5%BD%A2%E5%BC%8F%E4%B8%BE%E5%8A%9E%23&Refer=top)
+
+1. [关于中国共产党的8件事](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%848%E4%BB%B6%E4%BA%8B%23&Refer=new_time)
+
+1. [张钧甯希望40岁结婚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E5%B8%8C%E6%9C%9B40%E5%B2%81%E7%BB%93%E5%A9%9A%23&Refer=top)
+
+1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
 
