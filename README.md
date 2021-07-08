@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 20:07:59
+## 微博今日热榜 更新于 2021-07-08 21:19:30
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -572,4 +572,28 @@
 1. [理想照耀中国收官](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E6%94%B6%E5%AE%98%23&Refer=top)
 
 1. [中科大通知书送新生父母科学家勋章](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%91%E5%A4%A7%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%80%81%E6%96%B0%E7%94%9F%E7%88%B6%E6%AF%8D%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8B%8B%E7%AB%A0%23&Refer=top)
+
+1. [女儿被妈妈用农药焗头驱虱进ICU](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%A6%88%E5%A6%88%E7%94%A8%E5%86%9C%E8%8D%AF%E7%84%97%E5%A4%B4%E9%A9%B1%E8%99%B1%E8%BF%9BICU%23&Refer=top)
+
+1. [王一博方起诉造谣者](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85%23&Refer=top)
+
+1. [邱天 脸受伤](https://s.weibo.com//weibo?q=%E9%82%B1%E5%A4%A9%20%E8%84%B8%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [吴亦凡方律师声明](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [龚俊撒娇宣传新剧](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%92%92%E5%A8%87%E5%AE%A3%E4%BC%A0%E6%96%B0%E5%89%A7%23&Refer=top)
+
+1. [张钧甯阮经天连麦](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E9%98%AE%E7%BB%8F%E5%A4%A9%E8%BF%9E%E9%BA%A6%23&Refer=top)
+
+1. [董思成生图](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%80%9D%E6%88%90%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [变成你的那一天收官](https://s.weibo.com//weibo?q=%23%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [男子救出落水者发现对方是逃犯](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%91%E5%87%BA%E8%90%BD%E6%B0%B4%E8%80%85%E5%8F%91%E7%8E%B0%E5%AF%B9%E6%96%B9%E6%98%AF%E9%80%83%E7%8A%AF%23&Refer=top)
+
+1. [4年7次起诉离婚女子提起第8次诉讼](https://s.weibo.com//weibo?q=%234%E5%B9%B47%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E5%A5%B3%E5%AD%90%E6%8F%90%E8%B5%B7%E7%AC%AC8%E6%AC%A1%E8%AF%89%E8%AE%BC%23&Refer=top)
+
+1. [心动的信号4](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74&Refer=top)
+
+1. [东京奥运会部分赛事以空场形式举办](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%83%A8%E5%88%86%E8%B5%9B%E4%BA%8B%E4%BB%A5%E7%A9%BA%E5%9C%BA%E5%BD%A2%E5%BC%8F%E4%B8%BE%E5%8A%9E%23&Refer=top)
 
