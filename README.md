@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 00:10:38
+## 微博今日热榜 更新于 2021-07-10 01:13:35
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -106,4 +106,16 @@
 1. [养边牧的正确打开方式](https://s.weibo.com//weibo?q=%23%E5%85%BB%E8%BE%B9%E7%89%A7%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top)
 
 1. [萌探探探案版小欢喜](https://s.weibo.com//weibo?q=%23%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%E7%89%88%E5%B0%8F%E6%AC%A2%E5%96%9C%23&Refer=top)
+
+1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
+
+1. [马伯骞 我们家的家训是让妈妈高兴](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%BC%AF%E9%AA%9E%20%E6%88%91%E4%BB%AC%E5%AE%B6%E7%9A%84%E5%AE%B6%E8%AE%AD%E6%98%AF%E8%AE%A9%E5%A6%88%E5%A6%88%E9%AB%98%E5%85%B4&Refer=top)
+
+1. [宋亚轩猜错什么是快乐星球](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8C%9C%E9%94%99%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [中学老师每周请留守学生来家吃饭](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%AF%8F%E5%91%A8%E8%AF%B7%E7%95%99%E5%AE%88%E5%AD%A6%E7%94%9F%E6%9D%A5%E5%AE%B6%E5%90%83%E9%A5%AD%23&Refer=top)
+
+1. [这座绿富美的村庄曾被村民嫌弃](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BA%A7%E7%BB%BF%E5%AF%8C%E7%BE%8E%E7%9A%84%E6%9D%91%E5%BA%84%E6%9B%BE%E8%A2%AB%E6%9D%91%E6%B0%91%E5%AB%8C%E5%BC%83%23&Refer=top)
+
+1. [怦然心动20岁收官见面会](https://s.weibo.com//weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%E6%94%B6%E5%AE%98%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top)
 
