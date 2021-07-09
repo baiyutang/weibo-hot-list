@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 05:03:04
+## 微博今日热榜 更新于 2021-07-10 06:03:29
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -136,4 +136,6 @@
 1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
 
 1. [朱亚文 医生演一次不够](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%BA%9A%E6%96%87%20%E5%8C%BB%E7%94%9F%E6%BC%94%E4%B8%80%E6%AC%A1%E4%B8%8D%E5%A4%9F&Refer=top)
+
+1. [致辞走红教授说我说的是有激情的废话](https://s.weibo.com//weibo?q=%23%E8%87%B4%E8%BE%9E%E8%B5%B0%E7%BA%A2%E6%95%99%E6%8E%88%E8%AF%B4%E6%88%91%E8%AF%B4%E7%9A%84%E6%98%AF%E6%9C%89%E6%BF%80%E6%83%85%E7%9A%84%E5%BA%9F%E8%AF%9D%23&Refer=top)
 
