@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-09 21:10:47
+## 微博今日热榜 更新于 2021-07-09 22:08:33
 1. [解码中国共产党的成功秘诀](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E6%88%90%E5%8A%9F%E7%A7%98%E8%AF%80%23&Refer=new_time)
 
 1. [插上吸管就能喝的水蜜桃一个能卖128元](https://s.weibo.com//weibo?q=%23%E6%8F%92%E4%B8%8A%E5%90%B8%E7%AE%A1%E5%B0%B1%E8%83%BD%E5%96%9D%E7%9A%84%E6%B0%B4%E8%9C%9C%E6%A1%83%E4%B8%80%E4%B8%AA%E8%83%BD%E5%8D%96128%E5%85%83%23&Refer=top)
@@ -582,4 +582,28 @@
 1. [你是为了什么来到北京](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BB%80%E4%B9%88%E6%9D%A5%E5%88%B0%E5%8C%97%E4%BA%AC%23&Refer=top)
 
 1. [谁是宝藏歌手](https://s.weibo.com//weibo?q=%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B&Refer=top)
+
+1. [蔡徐坤 那我走](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%20%E9%82%A3%E6%88%91%E8%B5%B0&Refer=top)
+
+1. [顶楼3](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC3%23&Refer=top)
+
+1. [当北京人的语音转为文字](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%8C%97%E4%BA%AC%E4%BA%BA%E7%9A%84%E8%AF%AD%E9%9F%B3%E8%BD%AC%E4%B8%BA%E6%96%87%E5%AD%97%23&Refer=top)
+
+1. [用牙刷刷小猫咪的额头](https://s.weibo.com//weibo?q=%23%E7%94%A8%E7%89%99%E5%88%B7%E5%88%B7%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%9A%84%E9%A2%9D%E5%A4%B4%23&Refer=top)
+
+1. [小时候烦唐僧的原因](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E7%83%A6%E5%94%90%E5%83%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [空间站机械臂如何与目标适配器对接](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E9%97%B4%E7%AB%99%E6%9C%BA%E6%A2%B0%E8%87%82%E5%A6%82%E4%BD%95%E4%B8%8E%E7%9B%AE%E6%A0%87%E9%80%82%E9%85%8D%E5%99%A8%E5%AF%B9%E6%8E%A5%23&Refer=top)
+
+1. [非正式会谈收官](https://s.weibo.com//weibo?q=%23%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%B0%88%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [奔跑吧黎明行动](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E9%BB%8E%E6%98%8E%E8%A1%8C%E5%8A%A8&Refer=top)
+
+1. [2头搁浅海豚终于游向大海](https://s.weibo.com//weibo?q=%232%E5%A4%B4%E6%90%81%E6%B5%85%E6%B5%B7%E8%B1%9A%E7%BB%88%E4%BA%8E%E6%B8%B8%E5%90%91%E5%A4%A7%E6%B5%B7%23&Refer=top)
+
+1. [Windows的怀旧之旅](https://s.weibo.com//weibo?q=Windows%E7%9A%84%E6%80%80%E6%97%A7%E4%B9%8B%E6%97%85&Refer=top)
+
+1. [甘肃平凉现二次元奶酪云](https://s.weibo.com//weibo?q=%23%E7%94%98%E8%82%83%E5%B9%B3%E5%87%89%E7%8E%B0%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A5%B6%E9%85%AA%E4%BA%91%23&Refer=top)
+
+1. [异物入眼时切勿随手揉](https://s.weibo.com//weibo?q=%23%E5%BC%82%E7%89%A9%E5%85%A5%E7%9C%BC%E6%97%B6%E5%88%87%E5%8B%BF%E9%9A%8F%E6%89%8B%E6%8F%89%23&Refer=top)
 
