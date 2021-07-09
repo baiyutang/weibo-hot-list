@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 01:13:35
+## 微博今日热榜 更新于 2021-07-10 02:06:17
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -118,4 +118,14 @@
 1. [这座绿富美的村庄曾被村民嫌弃](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BA%A7%E7%BB%BF%E5%AF%8C%E7%BE%8E%E7%9A%84%E6%9D%91%E5%BA%84%E6%9B%BE%E8%A2%AB%E6%9D%91%E6%B0%91%E5%AB%8C%E5%BC%83%23&Refer=top)
 
 1. [怦然心动20岁收官见面会](https://s.weibo.com//weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%E6%94%B6%E5%AE%98%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top)
+
+1. [彭昱畅蹭奥特曼合影](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E8%B9%AD%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%90%88%E5%BD%B1%23&Refer=top)
+
+1. [汪涵模仿王一博河南话](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%B6%B5%E6%A8%A1%E4%BB%BF%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B2%B3%E5%8D%97%E8%AF%9D%23&Refer=top)
+
+1. [对你的爱很美定档](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E4%BD%A0%E7%9A%84%E7%88%B1%E5%BE%88%E7%BE%8E%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [黄子韬回忆父亲痛哭](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BF%86%E7%88%B6%E4%BA%B2%E7%97%9B%E5%93%AD%23&Refer=top)
+
+1. [黄子韬以为杨迪妈妈是演员](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BB%A5%E4%B8%BA%E6%9D%A8%E8%BF%AA%E5%A6%88%E5%A6%88%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top)
 
