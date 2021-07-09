@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 03:02:43
+## 微博今日热榜 更新于 2021-07-10 04:04:02
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -132,4 +132,6 @@
 1. [小小邮票话党史方寸之间显辉煌](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%B0%8F%E9%82%AE%E7%A5%A8%E8%AF%9D%E5%85%9A%E5%8F%B2%E6%96%B9%E5%AF%B8%E4%B9%8B%E9%97%B4%E6%98%BE%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [不要喊妈条约](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E5%96%8A%E5%A6%88%E6%9D%A1%E7%BA%A6%23&Refer=top)
+
+1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
 
