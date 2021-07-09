@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 02:06:17
+## 微博今日热榜 更新于 2021-07-10 03:02:43
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -128,4 +128,8 @@
 1. [黄子韬回忆父亲痛哭](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BF%86%E7%88%B6%E4%BA%B2%E7%97%9B%E5%93%AD%23&Refer=top)
 
 1. [黄子韬以为杨迪妈妈是演员](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BB%A5%E4%B8%BA%E6%9D%A8%E8%BF%AA%E5%A6%88%E5%A6%88%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [小小邮票话党史方寸之间显辉煌](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%B0%8F%E9%82%AE%E7%A5%A8%E8%AF%9D%E5%85%9A%E5%8F%B2%E6%96%B9%E5%AF%B8%E4%B9%8B%E9%97%B4%E6%98%BE%E8%BE%89%E7%85%8C%23&Refer=new_time)
+
+1. [不要喊妈条约](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E5%96%8A%E5%A6%88%E6%9D%A1%E7%BA%A6%23&Refer=top)
 
