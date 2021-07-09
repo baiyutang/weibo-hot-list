@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-09 09:50:14
+## 微博今日热榜 更新于 2021-07-09 10:18:53
 1. [解码中国共产党的成功秘诀](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E6%88%90%E5%8A%9F%E7%A7%98%E8%AF%80%23&Refer=new_time)
 
 1. [插上吸管就能喝的水蜜桃一个能卖128元](https://s.weibo.com//weibo?q=%23%E6%8F%92%E4%B8%8A%E5%90%B8%E7%AE%A1%E5%B0%B1%E8%83%BD%E5%96%9D%E7%9A%84%E6%B0%B4%E8%9C%9C%E6%A1%83%E4%B8%80%E4%B8%AA%E8%83%BD%E5%8D%96128%E5%85%83%23&Refer=top)
@@ -204,4 +204,16 @@
 1. [成都90后妹子水下打太极](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD90%E5%90%8E%E5%A6%B9%E5%AD%90%E6%B0%B4%E4%B8%8B%E6%89%93%E5%A4%AA%E6%9E%81%23&Refer=top)
 
 1. [焦点访谈](https://s.weibo.com//weibo?q=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88&Refer=top)
+
+1. [林生斌 大儿子](https://s.weibo.com//weibo?q=%E6%9E%97%E7%94%9F%E6%96%8C%20%E5%A4%A7%E5%84%BF%E5%AD%90&Refer=top)
+
+1. [林生斌亡妻哥哥发声](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E4%BA%A1%E5%A6%BB%E5%93%A5%E5%93%A5%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [微软将为员工发放1500美元奖金](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E8%BD%AF%E5%B0%86%E4%B8%BA%E5%91%98%E5%B7%A5%E5%8F%91%E6%94%BE1500%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&Refer=top)
+
+1. [把菜做成了考古现场](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E8%8F%9C%E5%81%9A%E6%88%90%E4%BA%86%E8%80%83%E5%8F%A4%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [离群独象一回家就玩水洗澡](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E7%BE%A4%E7%8B%AC%E8%B1%A1%E4%B8%80%E5%9B%9E%E5%AE%B6%E5%B0%B1%E7%8E%A9%E6%B0%B4%E6%B4%97%E6%BE%A1%23&Refer=top)
+
+1. [100万存银行5年后剩1元](https://s.weibo.com//weibo?q=%23100%E4%B8%87%E5%AD%98%E9%93%B6%E8%A1%8C5%E5%B9%B4%E5%90%8E%E5%89%A91%E5%85%83%23&Refer=top)
 
