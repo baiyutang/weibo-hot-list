@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 09:44:02
+## 微博今日热榜 更新于 2021-07-10 10:17:14
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -224,4 +224,32 @@
 1. [原来真有能坐人的莲叶](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E8%83%BD%E5%9D%90%E4%BA%BA%E7%9A%84%E8%8E%B2%E5%8F%B6%23&Refer=top)
 
 1. [博茨瓦纳再现超1000克拉巨钻](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%BA%B3%E5%86%8D%E7%8E%B0%E8%B6%851000%E5%85%8B%E6%8B%89%E5%B7%A8%E9%92%BB%23&Refer=top)
+
+1. [3岁男孩熟睡被抱走26年后终回家](https://s.weibo.com//weibo?q=%233%E5%B2%81%E7%94%B7%E5%AD%A9%E7%86%9F%E7%9D%A1%E8%A2%AB%E6%8A%B1%E8%B5%B026%E5%B9%B4%E5%90%8E%E7%BB%88%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [男子篡改同学高考志愿被行拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%AF%A1%E6%94%B9%E5%90%8C%E5%AD%A6%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [5元抗癌厨房被爱心物资塞满了](https://s.weibo.com//weibo?q=%235%E5%85%83%E6%8A%97%E7%99%8C%E5%8E%A8%E6%88%BF%E8%A2%AB%E7%88%B1%E5%BF%83%E7%89%A9%E8%B5%84%E5%A1%9E%E6%BB%A1%E4%BA%86%23&Refer=top)
+
+1. [曾毅不会用复制键玲花笑的好大声](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E6%AF%85%E4%B8%8D%E4%BC%9A%E7%94%A8%E5%A4%8D%E5%88%B6%E9%94%AE%E7%8E%B2%E8%8A%B1%E7%AC%91%E7%9A%84%E5%A5%BD%E5%A4%A7%E5%A3%B0%23&Refer=top)
+
+1. [女租客失联房屋堆满垃圾](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%A7%9F%E5%AE%A2%E5%A4%B1%E8%81%94%E6%88%BF%E5%B1%8B%E5%A0%86%E6%BB%A1%E5%9E%83%E5%9C%BE%23&Refer=top)
+
+1. [孟子义的摩斯密码](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%9A%84%E6%91%A9%E6%96%AF%E5%AF%86%E7%A0%81%23&Refer=top)
+
+1. [夏东海的教育方式有多惊艳](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E4%B8%9C%E6%B5%B7%E7%9A%84%E6%95%99%E8%82%B2%E6%96%B9%E5%BC%8F%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top)
+
+1. [女子科目二一把过空翻出考场](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%91%E7%9B%AE%E4%BA%8C%E4%B8%80%E6%8A%8A%E8%BF%87%E7%A9%BA%E7%BF%BB%E5%87%BA%E8%80%83%E5%9C%BA%23&Refer=top)
+
+1. [美国男子教堂纵火后上演跑酷逃亡](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%95%99%E5%A0%82%E7%BA%B5%E7%81%AB%E5%90%8E%E4%B8%8A%E6%BC%94%E8%B7%91%E9%85%B7%E9%80%83%E4%BA%A1%23&Refer=top)
+
+1. [男子把摄像头绑鞋上偷拍被行拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%8A%E6%91%84%E5%83%8F%E5%A4%B4%E7%BB%91%E9%9E%8B%E4%B8%8A%E5%81%B7%E6%8B%8D%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [女孩被小区内被未栓绳狗狗狂追](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%B0%8F%E5%8C%BA%E5%86%85%E8%A2%AB%E6%9C%AA%E6%A0%93%E7%BB%B3%E7%8B%97%E7%8B%97%E7%8B%82%E8%BF%BD%23&Refer=top)
+
+1. [向往的生活预告](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [俩男子激流中托举12岁男孩1小时](https://s.weibo.com//weibo?q=%23%E4%BF%A9%E7%94%B7%E5%AD%90%E6%BF%80%E6%B5%81%E4%B8%AD%E6%89%98%E4%B8%BE12%E5%B2%81%E7%94%B7%E5%AD%A91%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [72岁波波维奇参加折返跑](https://s.weibo.com//weibo?q=%2372%E5%B2%81%E6%B3%A2%E6%B3%A2%E7%BB%B4%E5%A5%87%E5%8F%82%E5%8A%A0%E6%8A%98%E8%BF%94%E8%B7%91%23&Refer=top)
 
