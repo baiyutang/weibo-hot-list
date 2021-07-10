@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 06:03:32
+## 微博今日热榜 更新于 2021-07-11 07:03:23
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -134,4 +134,6 @@
 1. [高海拔宇宙线观测站公布新成果](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%B5%B7%E6%8B%94%E5%AE%87%E5%AE%99%E7%BA%BF%E8%A7%82%E6%B5%8B%E7%AB%99%E5%85%AC%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C%23&Refer=new_time)
 
 1. [朱亚文与中国医生原型合影](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%BA%9A%E6%96%87%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8E%9F%E5%9E%8B%E5%90%88%E5%BD%B1%23&Refer=top)
+
+1. [张雨绮说杨迪是自己的盖世英雄](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4%E6%9D%A8%E8%BF%AA%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9B%96%E4%B8%96%E8%8B%B1%E9%9B%84%23&Refer=top)
 
