@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 21:09:07
+## 微博今日热榜 更新于 2021-07-10 22:03:01
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -582,4 +582,30 @@
 1. [懒人芒果糯米饭](https://s.weibo.com//weibo?q=%23%E6%87%92%E4%BA%BA%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3%E9%A5%AD%23&Refer=top)
 
 1. [小虎单杀Rookie](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%99%8E%E5%8D%95%E6%9D%80Rookie%23&Refer=top)
+
+1. [苏芒 道理我都懂就是心里疼](https://s.weibo.com//weibo?q=%E8%8B%8F%E8%8A%92%20%E9%81%93%E7%90%86%E6%88%91%E9%83%BD%E6%87%82%E5%B0%B1%E6%98%AF%E5%BF%83%E9%87%8C%E7%96%BC&Refer=top)
+
+1. [金晨两根手指拧开瓶盖](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E6%8B%A7%E5%BC%80%E7%93%B6%E7%9B%96%23&Refer=top)
+
+1. [刘亦菲居家随性照](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%B1%85%E5%AE%B6%E9%9A%8F%E6%80%A7%E7%85%A7%23&Refer=top)
+
+1. [多地将遇今年最强降雨](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%B0%86%E9%81%87%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%BC%BA%E9%99%8D%E9%9B%A8%23&Refer=top)
+
+1. [全军首个空中医院](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%86%9B%E9%A6%96%E4%B8%AA%E7%A9%BA%E4%B8%AD%E5%8C%BB%E9%99%A2%23&Refer=top)
+
+1. [警方通报宝马占路虎车位被堵158天](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AE%9D%E9%A9%AC%E5%8D%A0%E8%B7%AF%E8%99%8E%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%A0%B5158%E5%A4%A9%23&Refer=top)
+
+1. [马龙刘诗雯碰拍的笑](https://s.weibo.com//weibo?q=%E9%A9%AC%E9%BE%99%E5%88%98%E8%AF%97%E9%9B%AF%E7%A2%B0%E6%8B%8D%E7%9A%84%E7%AC%91&Refer=top)
+
+1. [螺蛳粉的不同读法](https://s.weibo.com//weibo?q=%23%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9A%84%E4%B8%8D%E5%90%8C%E8%AF%BB%E6%B3%95%23&Refer=top)
+
+1. [供养女考研袖珍男子婉拒捐款](https://s.weibo.com//weibo?q=%23%E4%BE%9B%E5%85%BB%E5%A5%B3%E8%80%83%E7%A0%94%E8%A2%96%E7%8F%8D%E7%94%B7%E5%AD%90%E5%A9%89%E6%8B%92%E6%8D%90%E6%AC%BE%23&Refer=top)
+
+1. [南京双彩虹](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E5%8F%8C%E5%BD%A9%E8%99%B9&Refer=top)
+
+1. [黄明昊音乐节舞台](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E9%9F%B3%E4%B9%90%E8%8A%82%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [青海茫崖翡翠湖绚烂如油画](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E8%8C%AB%E5%B4%96%E7%BF%A1%E7%BF%A0%E6%B9%96%E7%BB%9A%E7%83%82%E5%A6%82%E6%B2%B9%E7%94%BB%23&Refer=top)
+
+1. [阿富汗民众质问美挑起战争凭啥不负责](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%91%E4%BC%97%E8%B4%A8%E9%97%AE%E7%BE%8E%E6%8C%91%E8%B5%B7%E6%88%98%E4%BA%89%E5%87%AD%E5%95%A5%E4%B8%8D%E8%B4%9F%E8%B4%A3%23&Refer=top)
 
