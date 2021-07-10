@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 20:05:33
+## 微博今日热榜 更新于 2021-07-10 21:09:07
 1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -560,4 +560,26 @@
 1. [Wink状态](https://s.weibo.com//weibo?q=%23Wink%E7%8A%B6%E6%80%81%23&Refer=top)
 
 1. [RNG打出1换5](https://s.weibo.com//weibo?q=%23RNG%E6%89%93%E5%87%BA1%E6%8D%A25%23&Refer=top)
+
+1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
+
+1. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
+
+1. [管泽元余霜连麦](https://s.weibo.com//weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%E8%BF%9E%E9%BA%A6%23&Refer=top)
+
+1. [同事关系秒变婆媳关系](https://s.weibo.com//weibo?q=%23%E5%90%8C%E4%BA%8B%E5%85%B3%E7%B3%BB%E7%A7%92%E5%8F%98%E5%A9%86%E5%AA%B3%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [本人看帅哥视频流出](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E4%BA%BA%E7%9C%8B%E5%B8%85%E5%93%A5%E8%A7%86%E9%A2%91%E6%B5%81%E5%87%BA%23&Refer=top)
+
+1. [iG状态](https://s.weibo.com//weibo?q=iG%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [RNG战胜iG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CiG%23&Refer=top)
+
+1. [54岁泥瓦工大学毕业](https://s.weibo.com//weibo?q=%2354%E5%B2%81%E6%B3%A5%E7%93%A6%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23&Refer=top)
+
+1. [海上繁花](https://s.weibo.com//weibo?q=%E6%B5%B7%E4%B8%8A%E7%B9%81%E8%8A%B1&Refer=top)
+
+1. [懒人芒果糯米饭](https://s.weibo.com//weibo?q=%23%E6%87%92%E4%BA%BA%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3%E9%A5%AD%23&Refer=top)
+
+1. [小虎单杀Rookie](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%99%8E%E5%8D%95%E6%9D%80Rookie%23&Refer=top)
 
