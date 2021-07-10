@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 01:10:30
+## 微博今日热榜 更新于 2021-07-11 02:03:45
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -116,4 +116,6 @@
 1. [龚俊敬礼](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%95%AC%E7%A4%BC%23&Refer=top)
 
 1. [张翰告别桃花坞](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%91%8A%E5%88%AB%E6%A1%83%E8%8A%B1%E5%9D%9E%23&Refer=top)
+
+1. [世卫组织表示部分地区出现死亡浪潮](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E8%A1%A8%E7%A4%BA%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%87%BA%E7%8E%B0%E6%AD%BB%E4%BA%A1%E6%B5%AA%E6%BD%AE%23&Refer=top)
 
