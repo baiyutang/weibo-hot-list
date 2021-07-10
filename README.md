@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 04:03:13
+## 微博今日热榜 更新于 2021-07-11 06:03:32
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [黑寡妇](https://s.weibo.com//weibo?q=%E9%BB%91%E5%AF%A1%E5%A6%87&Refer=top)
 
 1. [阿富汗民众质问美挑起战争凭啥不负责](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%91%E4%BC%97%E8%B4%A8%E9%97%AE%E7%BE%8E%E6%8C%91%E8%B5%B7%E6%88%98%E4%BA%89%E5%87%AD%E5%95%A5%E4%B8%8D%E8%B4%9F%E8%B4%A3%23&Refer=top)
+
+1. [高海拔宇宙线观测站公布新成果](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%B5%B7%E6%8B%94%E5%AE%87%E5%AE%99%E7%BA%BF%E8%A7%82%E6%B5%8B%E7%AB%99%E5%85%AC%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C%23&Refer=new_time)
+
+1. [朱亚文与中国医生原型合影](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%BA%9A%E6%96%87%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8E%9F%E5%9E%8B%E5%90%88%E5%BD%B1%23&Refer=top)
 
