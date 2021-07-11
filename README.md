@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-12 04:03:30
+## 微博今日热榜 更新于 2021-07-12 05:03:02
 1. [江淮大地的百年沧桑巨变](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%B7%AE%E5%A4%A7%E5%9C%B0%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B2%A7%E6%A1%91%E5%B7%A8%E5%8F%98%23&Refer=new_time)
 
 1. [误把空调开制热九旬老人中暑昏迷](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E6%8A%8A%E7%A9%BA%E8%B0%83%E5%BC%80%E5%88%B6%E7%83%AD%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E6%98%8F%E8%BF%B7%23&Refer=top)
@@ -156,4 +156,10 @@
 1. [男子盗窃一只鸡来试探是否装监控](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E4%B8%80%E5%8F%AA%E9%B8%A1%E6%9D%A5%E8%AF%95%E6%8E%A2%E6%98%AF%E5%90%A6%E8%A3%85%E7%9B%91%E6%8E%A7%23&Refer=top)
 
 1. [维珍银河创始人布兰森上太空](https://s.weibo.com//weibo?q=%23%E7%BB%B4%E7%8F%8D%E9%93%B6%E6%B2%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E5%85%B0%E6%A3%AE%E4%B8%8A%E5%A4%AA%E7%A9%BA%23&Refer=top)
+
+1. [意大利扳平比分](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86&Refer=top)
+
+1. [古君为后池殒命](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E5%90%9B%E4%B8%BA%E5%90%8E%E6%B1%A0%E6%AE%92%E5%91%BD%23&Refer=top)
+
+1. [英格兰意大利加时赛](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8A%A0%E6%97%B6%E8%B5%9B&Refer=top)
 
