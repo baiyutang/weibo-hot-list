@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 18:03:49
+## 微博今日热榜 更新于 2021-07-11 20:05:56
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -430,4 +430,62 @@
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
 1. [你好火焰蓝原型消防员之一求婚成功](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E7%81%AB%E7%84%B0%E8%93%9D%E5%8E%9F%E5%9E%8B%E6%B6%88%E9%98%B2%E5%91%98%E4%B9%8B%E4%B8%80%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23&Refer=top)
+
+1. [洱海坠机烈士儿子还在等父亲归家](https://s.weibo.com//weibo?q=%23%E6%B4%B1%E6%B5%B7%E5%9D%A0%E6%9C%BA%E7%83%88%E5%A3%AB%E5%84%BF%E5%AD%90%E8%BF%98%E5%9C%A8%E7%AD%89%E7%88%B6%E4%BA%B2%E5%BD%92%E5%AE%B6%23&Refer=top)
+
+1. [你微笑时很美剧组呼吁理性追剧](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8E%E5%89%A7%E7%BB%84%E5%91%BC%E5%90%81%E7%90%86%E6%80%A7%E8%BF%BD%E5%89%A7%23&Refer=top)
+
+1. [中央气象台发布暴雨橙色预警](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [女孩放弃港大奖学金去北大读马克思](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%94%BE%E5%BC%83%E6%B8%AF%E5%A4%A7%E5%A5%96%E5%AD%A6%E9%87%91%E5%8E%BB%E5%8C%97%E5%A4%A7%E8%AF%BB%E9%A9%AC%E5%85%8B%E6%80%9D%23&Refer=top)
+
+1. [男子无聊手动检查969颗瓜子](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%97%A0%E8%81%8A%E6%89%8B%E5%8A%A8%E6%A3%80%E6%9F%A5969%E9%A2%97%E7%93%9C%E5%AD%90%23&Refer=top)
+
+1. [海地第一夫人遇袭后首次发声](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%9C%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E9%81%87%E8%A2%AD%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [北京最低工资增加120元](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E5%A2%9E%E5%8A%A0120%E5%85%83%23&Refer=top)
+
+1. [厦门晚霞](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%99%9A%E9%9C%9E%23&Refer=top)
+
+1. [宋祖儿解释烤冷面和鸡蛋灌饼的区别](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A7%A3%E9%87%8A%E7%83%A4%E5%86%B7%E9%9D%A2%E5%92%8C%E9%B8%A1%E8%9B%8B%E7%81%8C%E9%A5%BC%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [李佳琦 小众也是值得被看见的](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%20%E5%B0%8F%E4%BC%97%E4%B9%9F%E6%98%AF%E5%80%BC%E5%BE%97%E8%A2%AB%E7%9C%8B%E8%A7%81%E7%9A%84&Refer=top)
+
+1. [戴小雨发现未婚夫没离婚](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B0%8F%E9%9B%A8%E5%8F%91%E7%8E%B0%E6%9C%AA%E5%A9%9A%E5%A4%AB%E6%B2%A1%E7%A6%BB%E5%A9%9A%23&Refer=top)
+
+1. [语文考试的最后15分钟](https://s.weibo.com//weibo?q=%23%E8%AF%AD%E6%96%87%E8%80%83%E8%AF%95%E7%9A%84%E6%9C%80%E5%90%8E15%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [北京暴雨](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [夏天穿洞洞鞋的烦恼](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%A9%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E7%83%A6%E6%81%BC%23&Refer=top)
+
+1. [吴昕 谢谢海燕姐让我蹭热度](https://s.weibo.com//weibo?q=%E5%90%B4%E6%98%95%20%E8%B0%A2%E8%B0%A2%E6%B5%B7%E7%87%95%E5%A7%90%E8%AE%A9%E6%88%91%E8%B9%AD%E7%83%AD%E5%BA%A6&Refer=top)
+
+1. [去电音节看保安](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E7%94%B5%E9%9F%B3%E8%8A%82%E7%9C%8B%E4%BF%9D%E5%AE%89%23&Refer=top)
+
+1. [今天真是太热啦](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9C%9F%E6%98%AF%E5%A4%AA%E7%83%AD%E5%95%A6%23&Refer=top)
+
+1. [京津冀将遭遇极端性暴雨](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E6%B4%A5%E5%86%80%E5%B0%86%E9%81%AD%E9%81%87%E6%9E%81%E7%AB%AF%E6%80%A7%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [孟鹤堂周九良新剧演搭档](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E9%B9%A4%E5%A0%82%E5%91%A8%E4%B9%9D%E8%89%AF%E6%96%B0%E5%89%A7%E6%BC%94%E6%90%AD%E6%A1%A3%23&Refer=top)
+
+1. [北京大暴雨建议弹性或错峰上下班](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%BB%BA%E8%AE%AE%E5%BC%B9%E6%80%A7%E6%88%96%E9%94%99%E5%B3%B0%E4%B8%8A%E4%B8%8B%E7%8F%AD%23&Refer=top)
+
+1. [15人拿到南大首批录取通知书](https://s.weibo.com//weibo?q=%2315%E4%BA%BA%E6%8B%BF%E5%88%B0%E5%8D%97%E5%A4%A7%E9%A6%96%E6%89%B9%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&Refer=top)
+
+1. [太空稻种长成金灿灿的稻穗](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E7%A8%BB%E7%A7%8D%E9%95%BF%E6%88%90%E9%87%91%E7%81%BF%E7%81%BF%E7%9A%84%E7%A8%BB%E7%A9%97%23&Refer=top)
+
+1. [贵州15年绿了好几度](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E15%E5%B9%B4%E7%BB%BF%E4%BA%86%E5%A5%BD%E5%87%A0%E5%BA%A6%23&Refer=top)
+
+1. [河北暴雨男子急流中救出被困者](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%9A%B4%E9%9B%A8%E7%94%B7%E5%AD%90%E6%80%A5%E6%B5%81%E4%B8%AD%E6%95%91%E5%87%BA%E8%A2%AB%E5%9B%B0%E8%80%85%23&Refer=top)
+
+1. [广州晚霞](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%99%9A%E9%9C%9E%23&Refer=top)
+
+1. [五台山山洪致1死3伤](https://s.weibo.com//weibo?q=%E4%BA%94%E5%8F%B0%E5%B1%B1%E5%B1%B1%E6%B4%AA%E8%87%B41%E6%AD%BB3%E4%BC%A4&Refer=top)
+
+1. [降雨到达房山](https://s.weibo.com//weibo?q=%E9%99%8D%E9%9B%A8%E5%88%B0%E8%BE%BE%E6%88%BF%E5%B1%B1&Refer=top)
+
+1. [保定暴雨](https://s.weibo.com//weibo?q=%E4%BF%9D%E5%AE%9A%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [小男孩推滑板车走3公里给消防员送水](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8E%A8%E6%BB%91%E6%9D%BF%E8%BD%A6%E8%B5%B03%E5%85%AC%E9%87%8C%E7%BB%99%E6%B6%88%E9%98%B2%E5%91%98%E9%80%81%E6%B0%B4%23&Refer=top)
 
