@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 07:03:23
+## 微博今日热榜 更新于 2021-07-11 08:15:52
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -136,4 +136,30 @@
 1. [朱亚文与中国医生原型合影](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%BA%9A%E6%96%87%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8E%9F%E5%9E%8B%E5%90%88%E5%BD%B1%23&Refer=top)
 
 1. [张雨绮说杨迪是自己的盖世英雄](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4%E6%9D%A8%E8%BF%AA%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9B%96%E4%B8%96%E8%8B%B1%E9%9B%84%23&Refer=top)
+
+1. [梁朝伟刘嘉玲 社恐遇到社交达人](https://s.weibo.com//weibo?q=%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%88%98%E5%98%89%E7%8E%B2%20%E7%A4%BE%E6%81%90%E9%81%87%E5%88%B0%E7%A4%BE%E4%BA%A4%E8%BE%BE%E4%BA%BA&Refer=top)
+
+1. [徽州宴已暂停接待散客](https://s.weibo.com//weibo?q=%23%E5%BE%BD%E5%B7%9E%E5%AE%B4%E5%B7%B2%E6%9A%82%E5%81%9C%E6%8E%A5%E5%BE%85%E6%95%A3%E5%AE%A2%23&Refer=top)
+
+1. [马天宇说该死的温柔没有成就我](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E8%AF%A5%E6%AD%BB%E7%9A%84%E6%B8%A9%E6%9F%94%E6%B2%A1%E6%9C%89%E6%88%90%E5%B0%B1%E6%88%91%23&Refer=top)
+
+1. [云南新增12例本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E12%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [阿根廷 巴西](https://s.weibo.com//weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E5%B7%B4%E8%A5%BF&Refer=top)
+
+1. [顶楼3](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC3&Refer=top)
+
+1. [航拍柴达木盆地恶魔之眼](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E6%9F%B4%E8%BE%BE%E6%9C%A8%E7%9B%86%E5%9C%B0%E6%81%B6%E9%AD%94%E4%B9%8B%E7%9C%BC%23&Refer=top)
+
+1. [入伏](https://s.weibo.com//weibo?q=%23%E5%85%A5%E4%BC%8F%23&Refer=top)
+
+1. [沙溢说自己12岁听林依轮唱爱情鸟](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E8%AF%B4%E8%87%AA%E5%B7%B112%E5%B2%81%E5%90%AC%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%94%B1%E7%88%B1%E6%83%85%E9%B8%9F%23&Refer=top)
+
+1. [真实感受到自己被爱的瞬间](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97%E5%88%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E7%88%B1%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [大国重器涂装熊猫皮肤](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%B6%82%E8%A3%85%E7%86%8A%E7%8C%AB%E7%9A%AE%E8%82%A4%23&Refer=top)
+
+1. [美洲杯决赛](https://s.weibo.com//weibo?q=%E7%BE%8E%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [巴蒂首夺温网冠军](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%92%82%E9%A6%96%E5%A4%BA%E6%B8%A9%E7%BD%91%E5%86%A0%E5%86%9B%23&Refer=top)
 
