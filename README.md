@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 10:18:58
+## 微博今日热榜 更新于 2021-07-11 11:04:01
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -224,4 +224,30 @@
 1. [最早版本的西游记](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%97%A9%E7%89%88%E6%9C%AC%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0%23&Refer=top)
 
 1. [云南新增4例境外输入确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E4%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [杨丞琳连续七年为李荣浩庆生](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E8%BF%9E%E7%BB%AD%E4%B8%83%E5%B9%B4%E4%B8%BA%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [孟美岐把烧烤签当发簪](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%8A%8A%E7%83%A7%E7%83%A4%E7%AD%BE%E5%BD%93%E5%8F%91%E7%B0%AA%23&Refer=top)
+
+1. [美国男篮热身赛不敌尼日利亚](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B%E4%B8%8D%E6%95%8C%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%23&Refer=top)
+
+1. [邓恩熙追剧狂魔](https://s.weibo.com//weibo?q=%23%E9%82%93%E6%81%A9%E7%86%99%E8%BF%BD%E5%89%A7%E7%8B%82%E9%AD%94%23&Refer=top)
+
+1. [雪花推出500元一瓶高端啤酒](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E8%8A%B1%E6%8E%A8%E5%87%BA500%E5%85%83%E4%B8%80%E7%93%B6%E9%AB%98%E7%AB%AF%E5%95%A4%E9%85%92%23&Refer=top)
+
+1. [论新开的上海天文馆有多远](https://s.weibo.com//weibo?q=%E8%AE%BA%E6%96%B0%E5%BC%80%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%A4%A9%E6%96%87%E9%A6%86%E6%9C%89%E5%A4%9A%E8%BF%9C&Refer=top)
+
+1. [像极了坐上电瓶车座的我](https://s.weibo.com//weibo?q=%23%E5%83%8F%E6%9E%81%E4%BA%86%E5%9D%90%E4%B8%8A%E7%94%B5%E7%93%B6%E8%BD%A6%E5%BA%A7%E7%9A%84%E6%88%91%23&Refer=top)
+
+1. [梅西内马尔拥抱](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E5%86%85%E9%A9%AC%E5%B0%94%E6%8B%A5%E6%8A%B1&Refer=top)
+
+1. [大量海地居民涌入美国大使馆](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%87%8F%E6%B5%B7%E5%9C%B0%E5%B1%85%E6%B0%91%E6%B6%8C%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%23&Refer=top)
+
+1. [日本福岛县改为空场办奥运](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E5%8E%BF%E6%94%B9%E4%B8%BA%E7%A9%BA%E5%9C%BA%E5%8A%9E%E5%A5%A5%E8%BF%90%23&Refer=top)
+
+1. [被晒黑过最无语的地方](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%99%92%E9%BB%91%E8%BF%87%E6%9C%80%E6%97%A0%E8%AF%AD%E7%9A%84%E5%9C%B0%E6%96%B9%23&Refer=top)
+
+1. [梅西内马尔当选美洲杯最佳球员](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%A5%BF%E5%86%85%E9%A9%AC%E5%B0%94%E5%BD%93%E9%80%89%E7%BE%8E%E6%B4%B2%E6%9D%AF%E6%9C%80%E4%BD%B3%E7%90%83%E5%91%98%23&Refer=top)
+
+1. [中国航海日](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B5%B7%E6%97%A5&Refer=top)
 
