@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-12 01:10:37
+## 微博今日热榜 更新于 2021-07-12 02:03:26
 1. [江淮大地的百年沧桑巨变](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%B7%AE%E5%A4%A7%E5%9C%B0%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B2%A7%E6%A1%91%E5%B7%A8%E5%8F%98%23&Refer=new_time)
 
 1. [误把空调开制热九旬老人中暑昏迷](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E6%8A%8A%E7%A9%BA%E8%B0%83%E5%BC%80%E5%88%B6%E7%83%AD%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E6%98%8F%E8%BF%B7%23&Refer=top)
@@ -128,4 +128,8 @@
 1. [温网](https://s.weibo.com//weibo?q=%E6%B8%A9%E7%BD%91&Refer=top)
 
 1. [暴雨中的橙色身影](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%A9%99%E8%89%B2%E8%BA%AB%E5%BD%B1%23&Refer=top)
+
+1. [梦比优斯黑化了 展羽](https://s.weibo.com//weibo?q=%E6%A2%A6%E6%AF%94%E4%BC%98%E6%96%AF%E9%BB%91%E5%8C%96%E4%BA%86%20%E5%B1%95%E7%BE%BD&Refer=top)
+
+1. [千古玦尘预告](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98%E9%A2%84%E5%91%8A%23&Refer=top)
 
