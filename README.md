@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-12 06:03:34
+## 微博今日热榜 更新于 2021-07-12 07:03:11
 1. [江淮大地的百年沧桑巨变](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%B7%AE%E5%A4%A7%E5%9C%B0%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B2%A7%E6%A1%91%E5%B7%A8%E5%8F%98%23&Refer=new_time)
 
 1. [误把空调开制热九旬老人中暑昏迷](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E6%8A%8A%E7%A9%BA%E8%B0%83%E5%BC%80%E5%88%B6%E7%83%AD%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E6%98%8F%E8%BF%B7%23&Refer=top)
@@ -178,4 +178,14 @@
 1. [黄健翔解说](https://s.weibo.com//weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94%E8%A7%A3%E8%AF%B4&Refer=top)
 
 1. [贝洛蒂点球不进](https://s.weibo.com//weibo?q=%E8%B4%9D%E6%B4%9B%E8%92%82%E7%82%B9%E7%90%83%E4%B8%8D%E8%BF%9B&Refer=top)
+
+1. [C罗夺得欧洲杯金靴](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E5%A4%BA%E5%BE%97%E6%AC%A7%E6%B4%B2%E6%9D%AF%E9%87%91%E9%9D%B4%23&Refer=top)
+
+1. [英国乔治小王子表情](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%B9%94%E6%B2%BB%E5%B0%8F%E7%8E%8B%E5%AD%90%E8%A1%A8%E6%83%85%23&Refer=top)
+
+1. [英格兰队员光速摘下奖牌](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E5%91%98%E5%85%89%E9%80%9F%E6%91%98%E4%B8%8B%E5%A5%96%E7%89%8C%23&Refer=top)
+
+1. [萨卡哭了](https://s.weibo.com//weibo?q=%E8%90%A8%E5%8D%A1%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [网友说李荣浩眼睛跟井柏然卧蚕一样大](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%B4%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%9C%BC%E7%9D%9B%E8%B7%9F%E4%BA%95%E6%9F%8F%E7%84%B6%E5%8D%A7%E8%9A%95%E4%B8%80%E6%A0%B7%E5%A4%A7%23&Refer=top)
 
