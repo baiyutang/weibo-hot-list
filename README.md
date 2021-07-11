@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-11 09:51:55
+## 微博今日热榜 更新于 2021-07-11 10:18:58
 1. [青菜咸盐也曾作党费](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%8F%9C%E5%92%B8%E7%9B%90%E4%B9%9F%E6%9B%BE%E4%BD%9C%E5%85%9A%E8%B4%B9%23&Refer=new_time)
 
 1. [保证书](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E8%AF%81%E4%B9%A6%23&Refer=top)
@@ -210,4 +210,18 @@
 1. [北京入汛以来最大暴雨](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%A5%E6%B1%9B%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E6%9A%B4%E9%9B%A8%23&Refer=top)
 
 1. [迪玛利亚破门](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E7%8E%9B%E5%88%A9%E4%BA%9A%E7%A0%B4%E9%97%A8%23&Refer=top)
+
+1. [阿根廷夺冠](https://s.weibo.com//weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0&Refer=top)
+
+1. [武契奇回忆抗疫初期匈牙利总理建议](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9B%9E%E5%BF%86%E6%8A%97%E7%96%AB%E5%88%9D%E6%9C%9F%E5%8C%88%E7%89%99%E5%88%A9%E6%80%BB%E7%90%86%E5%BB%BA%E8%AE%AE%23&Refer=top)
+
+1. [巴西进球被吹](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%23&Refer=top)
+
+1. [梅西终于圆梦了](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E7%BB%88%E4%BA%8E%E5%9C%86%E6%A2%A6%E4%BA%86&Refer=top)
+
+1. [内马尔赛后哭了](https://s.weibo.com//weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%B5%9B%E5%90%8E%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [最早版本的西游记](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%97%A9%E7%89%88%E6%9C%AC%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0%23&Refer=top)
+
+1. [云南新增4例境外输入确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E4%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
