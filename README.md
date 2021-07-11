@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-12 03:02:59
+## 微博今日热榜 更新于 2021-07-12 04:03:30
 1. [江淮大地的百年沧桑巨变](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%B7%AE%E5%A4%A7%E5%9C%B0%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B2%A7%E6%A1%91%E5%B7%A8%E5%8F%98%23&Refer=new_time)
 
 1. [误把空调开制热九旬老人中暑昏迷](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E6%8A%8A%E7%A9%BA%E8%B0%83%E5%BC%80%E5%88%B6%E7%83%AD%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E6%98%8F%E8%BF%B7%23&Refer=top)
@@ -144,4 +144,16 @@
 1. [球迷迷惑行为图鉴](https://s.weibo.com//weibo?q=%23%E7%90%83%E8%BF%B7%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA%E5%9B%BE%E9%89%B4%23&Refer=top)
 
 1. [太空稻种长成金灿灿的稻穗](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E7%A8%BB%E7%A7%8D%E9%95%BF%E6%88%90%E9%87%91%E7%81%BF%E7%81%BF%E7%9A%84%E7%A8%BB%E7%A9%97%23&Refer=top)
+
+1. [鹿晗解说欧洲杯决赛](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E8%A7%A3%E8%AF%B4%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [贝克汉姆阿汤哥同框](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%98%BF%E6%B1%A4%E5%93%A5%E5%90%8C%E6%A1%86&Refer=top)
+
+1. [卢克肖破门](https://s.weibo.com//weibo?q=%E5%8D%A2%E5%85%8B%E8%82%96%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [欧洲杯决赛最快进球](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B%E6%9C%80%E5%BF%AB%E8%BF%9B%E7%90%83&Refer=top)
+
+1. [男子盗窃一只鸡来试探是否装监控](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E4%B8%80%E5%8F%AA%E9%B8%A1%E6%9D%A5%E8%AF%95%E6%8E%A2%E6%98%AF%E5%90%A6%E8%A3%85%E7%9B%91%E6%8E%A7%23&Refer=top)
+
+1. [维珍银河创始人布兰森上太空](https://s.weibo.com//weibo?q=%23%E7%BB%B4%E7%8F%8D%E9%93%B6%E6%B2%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E5%85%B0%E6%A3%AE%E4%B8%8A%E5%A4%AA%E7%A9%BA%23&Refer=top)
 
