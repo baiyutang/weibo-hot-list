@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-12 16:09:42
+## 微博今日热榜 更新于 2021-07-12 17:09:40
 1. [江淮大地的百年沧桑巨变](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%B7%AE%E5%A4%A7%E5%9C%B0%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B2%A7%E6%A1%91%E5%B7%A8%E5%8F%98%23&Refer=new_time)
 
 1. [误把空调开制热九旬老人中暑昏迷](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E6%8A%8A%E7%A9%BA%E8%B0%83%E5%BC%80%E5%88%B6%E7%83%AD%E4%B9%9D%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E6%98%8F%E8%BF%B7%23&Refer=top)
@@ -538,4 +538,26 @@
 1. [23岁兵哥哥回村当支书代言家乡葡萄](https://s.weibo.com//weibo?q=%2323%E5%B2%81%E5%85%B5%E5%93%A5%E5%93%A5%E5%9B%9E%E6%9D%91%E5%BD%93%E6%94%AF%E4%B9%A6%E4%BB%A3%E8%A8%80%E5%AE%B6%E4%B9%A1%E8%91%A1%E8%90%84%23&Refer=top)
 
 1. [国风毕设能有多美](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%A3%8E%E6%AF%95%E8%AE%BE%E8%83%BD%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
+
+1. [特斯拉大降价引发车市连锁反应](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%A4%A7%E9%99%8D%E4%BB%B7%E5%BC%95%E5%8F%91%E8%BD%A6%E5%B8%82%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [赵立坚呵呵回应所谓美国抗疫全球第一](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%91%B5%E5%91%B5%E5%9B%9E%E5%BA%94%E6%89%80%E8%B0%93%E7%BE%8E%E5%9B%BD%E6%8A%97%E7%96%AB%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [关晓彤妈妈气质](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%A6%88%E5%A6%88%E6%B0%94%E8%B4%A8%23&Refer=top)
+
+1. [张小龙认为做PC版微信是一种破坏](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%AE%A4%E4%B8%BA%E5%81%9APC%E7%89%88%E5%BE%AE%E4%BF%A1%E6%98%AF%E4%B8%80%E7%A7%8D%E7%A0%B4%E5%9D%8F%23&Refer=top)
+
+1. [9.9万名台胞已在大陆接种新冠疫苗](https://s.weibo.com//weibo?q=%239.9%E4%B8%87%E5%90%8D%E5%8F%B0%E8%83%9E%E5%B7%B2%E5%9C%A8%E5%A4%A7%E9%99%86%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [江苏8地高温37度](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F8%E5%9C%B0%E9%AB%98%E6%B8%A937%E5%BA%A6%23&Refer=top)
+
+1. [成都试点暑期小学生托管服务](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%AF%95%E7%82%B9%E6%9A%91%E6%9C%9F%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%89%98%E7%AE%A1%E6%9C%8D%E5%8A%A1%23&Refer=top)
+
+1. [Levis以次充好被没收66万](https://s.weibo.com//weibo?q=%23Levis%E4%BB%A5%E6%AC%A1%E5%85%85%E5%A5%BD%E8%A2%AB%E6%B2%A1%E6%94%B666%E4%B8%87%23&Refer=top)
+
+1. [四川渠县洪峰过后清淤消杀现场](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B8%A0%E5%8E%BF%E6%B4%AA%E5%B3%B0%E8%BF%87%E5%90%8E%E6%B8%85%E6%B7%A4%E6%B6%88%E6%9D%80%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [我的邻居长不大开播](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E9%82%BB%E5%B1%85%E9%95%BF%E4%B8%8D%E5%A4%A7%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [杭州试点小学生暑期托管服务](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AF%95%E7%82%B9%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%9A%91%E6%9C%9F%E6%89%98%E7%AE%A1%E6%9C%8D%E5%8A%A1%23&Refer=top)
 
