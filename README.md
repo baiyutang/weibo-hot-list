@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-13 00:10:34
+## 微博今日热榜 更新于 2021-07-13 01:19:25
 1. [纪念馆里的党史](https://s.weibo.com//weibo?q=%23%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%87%8C%E7%9A%84%E5%85%9A%E5%8F%B2%23&Refer=new_time)
 
 1. [张艺兴用筷子的另一头夹面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E7%9A%84%E5%8F%A6%E4%B8%80%E5%A4%B4%E5%A4%B9%E9%9D%A2%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [天气预报中的暴雨是怎么界定的](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E4%B8%AD%E7%9A%84%E6%9A%B4%E9%9B%A8%E6%98%AF%E6%80%8E%E4%B9%88%E7%95%8C%E5%AE%9A%E7%9A%84%23&Refer=top)
 
 1. [赵立坚呵呵回应所谓美国抗疫全球第一](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%91%B5%E5%91%B5%E5%9B%9E%E5%BA%94%E6%89%80%E8%B0%93%E7%BE%8E%E5%9B%BD%E6%8A%97%E7%96%AB%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [林更新把老师称呼改成弟弟](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%8A%8A%E8%80%81%E5%B8%88%E7%A7%B0%E5%91%BC%E6%94%B9%E6%88%90%E5%BC%9F%E5%BC%9F%23&Refer=top)
+
+1. [伊能静女儿腿长](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%A5%B3%E5%84%BF%E8%85%BF%E9%95%BF%23&Refer=top)
+
+1. [北辙南辕的角色有多真实](https://s.weibo.com//weibo?q=%23%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95%E7%9A%84%E8%A7%92%E8%89%B2%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E%23&Refer=top)
+
+1. [范世錡演的杨竞](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E6%BC%94%E7%9A%84%E6%9D%A8%E7%AB%9E%23&Refer=top)
+
+1. [北辙南辕](https://s.weibo.com//weibo?q=%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95&Refer=top)
 
