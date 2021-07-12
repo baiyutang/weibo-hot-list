@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-13 01:19:25
+## 微博今日热榜 更新于 2021-07-13 04:08:38
 1. [纪念馆里的党史](https://s.weibo.com//weibo?q=%23%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%87%8C%E7%9A%84%E5%85%9A%E5%8F%B2%23&Refer=new_time)
 
 1. [张艺兴用筷子的另一头夹面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E7%9A%84%E5%8F%A6%E4%B8%80%E5%A4%B4%E5%A4%B9%E9%9D%A2%23&Refer=top)
@@ -116,4 +116,10 @@
 1. [范世錡演的杨竞](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E6%BC%94%E7%9A%84%E6%9D%A8%E7%AB%9E%23&Refer=top)
 
 1. [北辙南辕](https://s.weibo.com//weibo?q=%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95&Refer=top)
+
+1. [罗芊怡失忆](https://s.weibo.com//weibo?q=%23%E7%BD%97%E8%8A%8A%E6%80%A1%E5%A4%B1%E5%BF%86%23&Refer=top)
+
+1. [直击苏州坍塌酒店救援现场](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E5%87%BB%E8%8B%8F%E5%B7%9E%E5%9D%8D%E5%A1%8C%E9%85%92%E5%BA%97%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [贺先生全员花式催更](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%85%88%E7%94%9F%E5%85%A8%E5%91%98%E8%8A%B1%E5%BC%8F%E5%82%AC%E6%9B%B4%23&Refer=top)
 
