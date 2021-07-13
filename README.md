@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-14 05:02:53
+## 微博今日热榜 更新于 2021-07-14 07:03:34
 1. [中国开展第12次北极科学考察](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E7%AC%AC12%E6%AC%A1%E5%8C%97%E6%9E%81%E7%A7%91%E5%AD%A6%E8%80%83%E5%AF%9F%23&Refer=new_time)
 
 1. [b站崩了](https://s.weibo.com//weibo?q=%23b%E7%AB%99%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [说唱听我的第二季定档](https://s.weibo.com//weibo?q=%23%E8%AF%B4%E5%94%B1%E5%90%AC%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&Refer=top)
 
 1. [看虞书欣吃播好满足](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%83%E6%92%AD%E5%A5%BD%E6%BB%A1%E8%B6%B3%23&Refer=top)
+
+1. [因为有家](https://s.weibo.com//weibo?q=%E5%9B%A0%E4%B8%BA%E6%9C%89%E5%AE%B6&Refer=top)
 
