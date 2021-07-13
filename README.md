@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-13 18:08:38
+## 微博今日热榜 更新于 2021-07-13 19:07:33
 1. [纪念馆里的党史](https://s.weibo.com//weibo?q=%23%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%87%8C%E7%9A%84%E5%85%9A%E5%8F%B2%23&Refer=new_time)
 
 1. [张艺兴用筷子的另一头夹面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E7%9A%84%E5%8F%A6%E4%B8%80%E5%A4%B4%E5%A4%B9%E9%9D%A2%23&Refer=top)
@@ -466,4 +466,34 @@
 1. [男子酒后电梯内暴打女友被行拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E7%94%B5%E6%A2%AF%E5%86%85%E6%9A%B4%E6%89%93%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
 
 1. [广西的水果有多便宜](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%9A%84%E6%B0%B4%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%BE%BF%E5%AE%9C%23&Refer=top)
+
+1. [比尔盖茨承认是自己搞砸了婚姻](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E6%89%BF%E8%AE%A4%E6%98%AF%E8%87%AA%E5%B7%B1%E6%90%9E%E7%A0%B8%E4%BA%86%E5%A9%9A%E5%A7%BB%23&Refer=top)
+
+1. [谷嘉诚 切走半块香皂](https://s.weibo.com//weibo?q=%E8%B0%B7%E5%98%89%E8%AF%9A%20%E5%88%87%E8%B5%B0%E5%8D%8A%E5%9D%97%E9%A6%99%E7%9A%82&Refer=top)
+
+1. [请回答1988真的太好哭了](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [梅桢放弃华东政法大学任教机会](https://s.weibo.com//weibo?q=%23%E6%A2%85%E6%A1%A2%E6%94%BE%E5%BC%83%E5%8D%8E%E4%B8%9C%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E4%BB%BB%E6%95%99%E6%9C%BA%E4%BC%9A%23&Refer=top)
+
+1. [人大武大毕业卷香烟](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%A4%A7%E6%AD%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%8D%B7%E9%A6%99%E7%83%9F%23&Refer=top)
+
+1. [上海一初中暑假给学生发搓衣板](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%88%9D%E4%B8%AD%E6%9A%91%E5%81%87%E7%BB%99%E5%AD%A6%E7%94%9F%E5%8F%91%E6%90%93%E8%A1%A3%E6%9D%BF%23&Refer=top)
+
+1. [外交部回应福岛核废弃物多次泄漏](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E5%BC%83%E7%89%A9%E5%A4%9A%E6%AC%A1%E6%B3%84%E6%BC%8F%23&Refer=top)
+
+1. [张嘉元一个人就是一个乐队](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%98%89%E5%85%83%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E4%B9%90%E9%98%9F%23&Refer=top)
+
+1. [宁艺卓短发造型](https://s.weibo.com//weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E7%9F%AD%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [人为什么一定要善良](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E5%96%84%E8%89%AF%23&Refer=top)
+
+1. [凡是我的学生都不能辍学](https://s.weibo.com//weibo?q=%23%E5%87%A1%E6%98%AF%E6%88%91%E7%9A%84%E5%AD%A6%E7%94%9F%E9%83%BD%E4%B8%8D%E8%83%BD%E8%BE%8D%E5%AD%A6%23&Refer=top)
+
+1. [河北承德暴雨诱发山洪](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%89%BF%E5%BE%B7%E6%9A%B4%E9%9B%A8%E8%AF%B1%E5%8F%91%E5%B1%B1%E6%B4%AA%23&Refer=top)
+
+1. [苏州吴江塌楼因私自对房屋结构进行改造](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%90%B4%E6%B1%9F%E5%A1%8C%E6%A5%BC%E5%9B%A0%E7%A7%81%E8%87%AA%E5%AF%B9%E6%88%BF%E5%B1%8B%E7%BB%93%E6%9E%84%E8%BF%9B%E8%A1%8C%E6%94%B9%E9%80%A0%23&Refer=top)
+
+1. [比尔盖茨首谈离婚差点哭了](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%A6%96%E8%B0%88%E7%A6%BB%E5%A9%9A%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [司机劝阻乘客争吵反遭连扇耳光](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%8A%9D%E9%98%BB%E4%B9%98%E5%AE%A2%E4%BA%89%E5%90%B5%E5%8F%8D%E9%81%AD%E8%BF%9E%E6%89%87%E8%80%B3%E5%85%89%23&Refer=top)
 
