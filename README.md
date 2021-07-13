@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-13 09:50:37
+## 微博今日热榜 更新于 2021-07-13 10:18:41
 1. [纪念馆里的党史](https://s.weibo.com//weibo?q=%23%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%87%8C%E7%9A%84%E5%85%9A%E5%8F%B2%23&Refer=new_time)
 
 1. [张艺兴用筷子的另一头夹面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E7%9A%84%E5%8F%A6%E4%B8%80%E5%A4%B4%E5%A4%B9%E9%9D%A2%23&Refer=top)
@@ -198,4 +198,10 @@
 1. [江苏新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
 1. [貂蝉仲夏夜之梦优化好丑](https://s.weibo.com//weibo?q=%E8%B2%82%E8%9D%89%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E6%A2%A6%E4%BC%98%E5%8C%96%E5%A5%BD%E4%B8%91&Refer=top)
+
+1. [许晴演过86版西游记里的炼丹童子](https://s.weibo.com//weibo?q=%E8%AE%B8%E6%99%B4%E6%BC%94%E8%BF%8786%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E9%87%8C%E7%9A%84%E7%82%BC%E4%B8%B9%E7%AB%A5%E5%AD%90&Refer=top)
+
+1. [新疆禾木美成山水画卷](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E7%A6%BE%E6%9C%A8%E7%BE%8E%E6%88%90%E5%B1%B1%E6%B0%B4%E7%94%BB%E5%8D%B7%23&Refer=top)
+
+1. [江苏疫情](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E7%96%AB%E6%83%85&Refer=top)
 
