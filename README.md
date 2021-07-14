@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-15 05:02:57
+## 微博今日热榜 更新于 2021-07-15 06:03:24
 1. [我国建成5G基站超91万个](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%8591%E4%B8%87%E4%B8%AA%23&Refer=new_time)
 
 1. [汶川4.8级地震](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
