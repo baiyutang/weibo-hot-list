@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-15 02:08:37
+## 微博今日热榜 更新于 2021-07-15 03:05:20
 1. [我国建成5G基站超91万个](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%8591%E4%B8%87%E4%B8%AA%23&Refer=new_time)
 
 1. [汶川4.8级地震](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [反诈预警短信12381正式上线](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E8%AF%88%E9%A2%84%E8%AD%A6%E7%9F%AD%E4%BF%A112381%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&Refer=top)
 
 1. [巴基斯坦外交部称班车因机械故障爆炸](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%8F%AD%E8%BD%A6%E5%9B%A0%E6%9C%BA%E6%A2%B0%E6%95%85%E9%9A%9C%E7%88%86%E7%82%B8%23&Refer=top)
+
+1. [东京奥运会获奖运动员自己戴奖牌](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%8E%B7%E5%A5%96%E8%BF%90%E5%8A%A8%E5%91%98%E8%87%AA%E5%B7%B1%E6%88%B4%E5%A5%96%E7%89%8C%23&Refer=top)
+
+1. [东京奥运会中国代表团名单](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
 
