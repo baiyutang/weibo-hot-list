@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-14 07:03:34
+## 微博今日热榜 更新于 2021-07-14 08:14:49
 1. [中国开展第12次北极科学考察](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E7%AC%AC12%E6%AC%A1%E5%8C%97%E6%9E%81%E7%A7%91%E5%AD%A6%E8%80%83%E5%AF%9F%23&Refer=new_time)
 
 1. [b站崩了](https://s.weibo.com//weibo?q=%23b%E7%AB%99%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -130,4 +130,34 @@
 1. [看虞书欣吃播好满足](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%83%E6%92%AD%E5%A5%BD%E6%BB%A1%E8%B6%B3%23&Refer=top)
 
 1. [因为有家](https://s.weibo.com//weibo?q=%E5%9B%A0%E4%B8%BA%E6%9C%89%E5%AE%B6&Refer=top)
+
+1. [B站服务器机房故障造成无法访问](https://s.weibo.com//weibo?q=%23B%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9C%BA%E6%88%BF%E6%95%85%E9%9A%9C%E9%80%A0%E6%88%90%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%23&Refer=top)
+
+1. [央视主播提醒有些人别动歪脑筋](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E6%8F%90%E9%86%92%E6%9C%89%E4%BA%9B%E4%BA%BA%E5%88%AB%E5%8A%A8%E6%AD%AA%E8%84%91%E7%AD%8B%23&Refer=top)
+
+1. [离家六年阳台长出两棵大树](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%AE%B6%E5%85%AD%E5%B9%B4%E9%98%B3%E5%8F%B0%E9%95%BF%E5%87%BA%E4%B8%A4%E6%A3%B5%E5%A4%A7%E6%A0%91%23&Refer=top)
+
+1. [上海消防称B站大楼未见火情](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%B6%88%E9%98%B2%E7%A7%B0B%E7%AB%99%E5%A4%A7%E6%A5%BC%E6%9C%AA%E8%A7%81%E7%81%AB%E6%83%85&Refer=top)
+
+1. [东京奥运乒乓球比赛不许手触球台或吹球](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B%E4%B8%8D%E8%AE%B8%E6%89%8B%E8%A7%A6%E7%90%83%E5%8F%B0%E6%88%96%E5%90%B9%E7%90%83%23&Refer=top)
+
+1. [苹果MagSafe外接电池来了](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9CMagSafe%E5%A4%96%E6%8E%A5%E7%94%B5%E6%B1%A0%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [公交车主题出租房](https://s.weibo.com//weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%BB%E9%A2%98%E5%87%BA%E7%A7%9F%E6%88%BF%23&Refer=top)
+
+1. [李易峰晒自拍照](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E6%99%92%E8%87%AA%E6%8B%8D%E7%85%A7%23&Refer=top)
+
+1. [当你养了一只仓鼠](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%85%BB%E4%BA%86%E4%B8%80%E5%8F%AA%E4%BB%93%E9%BC%A0%23&Refer=top)
+
+1. [马来西亚一疫苗接种点200余工作人员确诊](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%80%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%82%B9200%E4%BD%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [2008年的北京一夜](https://s.weibo.com//weibo?q=%232008%E5%B9%B4%E7%9A%84%E5%8C%97%E4%BA%AC%E4%B8%80%E5%A4%9C%23&Refer=top)
+
+1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
+
+1. [奥斯卡获奖导演拍中国小康纪录片](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E8%8E%B7%E5%A5%96%E5%AF%BC%E6%BC%94%E6%8B%8D%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%BA%B7%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top)
+
+1. [费德勒退出东京奥运会](https://s.weibo.com//weibo?q=%E8%B4%B9%E5%BE%B7%E5%8B%92%E9%80%80%E5%87%BA%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [云南新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 
