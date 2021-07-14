@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-15 00:10:41
+## 微博今日热榜 更新于 2021-07-15 02:08:37
 1. [我国建成5G基站超91万个](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%8591%E4%B8%87%E4%B8%AA%23&Refer=new_time)
 
 1. [汶川4.8级地震](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [巴基斯坦爆炸9名中国公民遇难](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%88%86%E7%82%B89%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E9%9A%BE%23&Refer=top)
 
 1. [王者世冠奖金5000万](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%96%E5%86%A0%E5%A5%96%E9%87%915000%E4%B8%87%23&Refer=top)
+
+1. [张柏芝对儿子进娱乐圈的态度](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%AF%B9%E5%84%BF%E5%AD%90%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9A%84%E6%80%81%E5%BA%A6%23&Refer=top)
+
+1. [心惊肉跳的同居](https://s.weibo.com//weibo?q=%E5%BF%83%E6%83%8A%E8%82%89%E8%B7%B3%E7%9A%84%E5%90%8C%E5%B1%85&Refer=top)
+
+1. [何运晨画的猫像席瑞](https://s.weibo.com//weibo?q=%23%E4%BD%95%E8%BF%90%E6%99%A8%E7%94%BB%E7%9A%84%E7%8C%AB%E5%83%8F%E5%B8%AD%E7%91%9E%23&Refer=top)
+
+1. [刑侦日记全员治愈](https://s.weibo.com//weibo?q=%23%E5%88%91%E4%BE%A6%E6%97%A5%E8%AE%B0%E5%85%A8%E5%91%98%E6%B2%BB%E6%84%88%23&Refer=top)
+
+1. [反诈预警短信12381正式上线](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E8%AF%88%E9%A2%84%E8%AD%A6%E7%9F%AD%E4%BF%A112381%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [巴基斯坦外交部称班车因机械故障爆炸](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E7%8F%AD%E8%BD%A6%E5%9B%A0%E6%9C%BA%E6%A2%B0%E6%95%85%E9%9A%9C%E7%88%86%E7%82%B8%23&Refer=top)
 
