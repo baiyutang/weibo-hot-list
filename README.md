@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-16 05:02:58
+## 微博今日热榜 更新于 2021-07-16 06:03:18
 1. [中国共产党历史展览馆正式开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [金毛Siri](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9BSiri%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [总台转播车现身东京街头](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E8%BD%AC%E6%92%AD%E8%BD%A6%E7%8E%B0%E8%BA%AB%E4%B8%9C%E4%BA%AC%E8%A1%97%E5%A4%B4%23&Refer=top)
 
 1. [南京冰雹](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%86%B0%E9%9B%B9%23&Refer=top)
+
+1. [海军飞行员第一视角看超美晚霞](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8B%E8%B6%85%E7%BE%8E%E6%99%9A%E9%9C%9E&Refer=top)
+
+1. [张杰学院风造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%AD%A6%E9%99%A2%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
 
