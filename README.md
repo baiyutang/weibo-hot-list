@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-16 01:12:54
+## 微博今日热榜 更新于 2021-07-16 02:04:07
 1. [中国共产党历史展览馆正式开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [金毛Siri](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9BSiri%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [乡村老教师曾从安徽骑车到南京家访](https://s.weibo.com//weibo?q=%23%E4%B9%A1%E6%9D%91%E8%80%81%E6%95%99%E5%B8%88%E6%9B%BE%E4%BB%8E%E5%AE%89%E5%BE%BD%E9%AA%91%E8%BD%A6%E5%88%B0%E5%8D%97%E4%BA%AC%E5%AE%B6%E8%AE%BF%23&Refer=top)
 
 1. [强生旗下两品牌防晒喷雾检出致癌物](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E7%94%9F%E6%97%97%E4%B8%8B%E4%B8%A4%E5%93%81%E7%89%8C%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%23&Refer=top)
+
+1. [反诈预警短信12381正式上线](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E8%AF%88%E9%A2%84%E8%AD%A6%E7%9F%AD%E4%BF%A112381%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&Refer=new_time)
+
+1. [1分钟速览中国55项世界遗产](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E9%80%9F%E8%A7%88%E4%B8%AD%E5%9B%BD55%E9%A1%B9%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%23&Refer=top)
 
