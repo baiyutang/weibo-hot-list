@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-16 09:51:11
+## 微博今日热榜 更新于 2021-07-16 10:19:52
 1. [中国共产党历史展览馆正式开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [金毛Siri](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9BSiri%23&Refer=top)
@@ -206,4 +206,18 @@
 1. [王楚然红毯造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 1. [周笔畅造型](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [暗杀海地总统嫌犯曾接受美军训练](https://s.weibo.com//weibo?q=%23%E6%9A%97%E6%9D%80%E6%B5%B7%E5%9C%B0%E6%80%BB%E7%BB%9F%E5%AB%8C%E7%8A%AF%E6%9B%BE%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%86%9B%E8%AE%AD%E7%BB%83%23&Refer=top)
+
+1. [总决赛G4裁判报告](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%86%B3%E8%B5%9BG4%E8%A3%81%E5%88%A4%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [民警找到被拐儿童线索笑开了花](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%89%BE%E5%88%B0%E8%A2%AB%E6%8B%90%E5%84%BF%E7%AB%A5%E7%BA%BF%E7%B4%A2%E7%AC%91%E5%BC%80%E4%BA%86%E8%8A%B1%23&Refer=top)
+
+1. [老法医生前说能还逝者公正我很幸福](https://s.weibo.com//weibo?q=%23%E8%80%81%E6%B3%95%E5%8C%BB%E7%94%9F%E5%89%8D%E8%AF%B4%E8%83%BD%E8%BF%98%E9%80%9D%E8%80%85%E5%85%AC%E6%AD%A3%E6%88%91%E5%BE%88%E5%B9%B8%E7%A6%8F%23&Refer=top)
+
+1. [全国碳排放权交易系统正式上线](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%A2%B3%E6%8E%92%E6%94%BE%E6%9D%83%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [女孩牵导盲犬上地铁乘客帮扶让座](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%89%B5%E5%AF%BC%E7%9B%B2%E7%8A%AC%E4%B8%8A%E5%9C%B0%E9%93%81%E4%B9%98%E5%AE%A2%E5%B8%AE%E6%89%B6%E8%AE%A9%E5%BA%A7%23&Refer=top)
+
+1. [服装外贸企业订单排到11月](https://s.weibo.com//weibo?q=%23%E6%9C%8D%E8%A3%85%E5%A4%96%E8%B4%B8%E4%BC%81%E4%B8%9A%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B011%E6%9C%88%23&Refer=top)
 
