@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-18 01:11:32
+## 微博今日热榜 更新于 2021-07-18 02:03:55
 1. [千年古城与世遗大会相遇](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%9F%8E%E4%B8%8E%E4%B8%96%E9%81%97%E5%A4%A7%E4%BC%9A%E7%9B%B8%E9%81%87%23&Refer=new_time)
 
 1. [王一博扭到我心里了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%AD%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86%23&Refer=top)
@@ -116,4 +116,12 @@
 1. [范丞丞MissedTexts舞台](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9EMissedTexts%E8%88%9E%E5%8F%B0%23&Refer=top)
 
 1. [金子涵功夫小妞舞台](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%8A%9F%E5%A4%AB%E5%B0%8F%E5%A6%9E%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [范丞丞克莱因蓝工装造型](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%8B%E8%8E%B1%E5%9B%A0%E8%93%9D%E5%B7%A5%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [王一博曜夜流影大片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9B%9C%E5%A4%9C%E6%B5%81%E5%BD%B1%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [乐华演唱会大合唱](https://s.weibo.com//weibo?q=%E4%B9%90%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%90%88%E5%94%B1&Refer=top)
+
+1. [王晰晚风绝了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%99%B0%E6%99%9A%E9%A3%8E%E7%BB%9D%E4%BA%86%23&Refer=top)
 
