@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-18 05:02:36
+## 微博今日热榜 更新于 2021-07-18 06:03:37
 1. [千年古城与世遗大会相遇](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%9F%8E%E4%B8%8E%E4%B8%96%E9%81%97%E5%A4%A7%E4%BC%9A%E7%9B%B8%E9%81%87%23&Refer=new_time)
 
 1. [王一博扭到我心里了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%AD%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86%23&Refer=top)
@@ -134,4 +134,8 @@
 1. [香港中联办批美国制裁废纸一张](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%81%94%E5%8A%9E%E6%89%B9%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%BA%9F%E7%BA%B8%E4%B8%80%E5%BC%A0%23&Refer=top)
 
 1. [中国空间站一天生活](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%B8%80%E5%A4%A9%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [乔振宇两小时躲了个寂寞](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%8C%AF%E5%AE%87%E4%B8%A4%E5%B0%8F%E6%97%B6%E8%BA%B2%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [华莱士](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E8%8E%B1%E5%A3%AB%23&Refer=top)
 
