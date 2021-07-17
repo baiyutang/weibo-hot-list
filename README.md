@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-18 04:03:26
+## 微博今日热榜 更新于 2021-07-18 05:02:36
 1. [千年古城与世遗大会相遇](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%9F%8E%E4%B8%8E%E4%B8%96%E9%81%97%E5%A4%A7%E4%BC%9A%E7%9B%B8%E9%81%87%23&Refer=new_time)
 
 1. [王一博扭到我心里了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%AD%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86%23&Refer=top)
