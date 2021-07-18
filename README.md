@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-19 04:03:44
+## 微博今日热榜 更新于 2021-07-19 05:02:57
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top)
@@ -138,4 +138,6 @@
 1. [SNH48总决选中报结果](https://s.weibo.com//weibo?q=%23SNH48%E6%80%BB%E5%86%B3%E9%80%89%E4%B8%AD%E6%8A%A5%E7%BB%93%E6%9E%9C%23&Refer=top)
 
 1. [珠海隧道透水事故最新进展](https://s.weibo.com//weibo?q=%23%E7%8F%A0%E6%B5%B7%E9%9A%A7%E9%81%93%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&Refer=top)
+
+1. [86岁老军医常拿自己做实验](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E8%80%81%E5%86%9B%E5%8C%BB%E5%B8%B8%E6%8B%BF%E8%87%AA%E5%B7%B1%E5%81%9A%E5%AE%9E%E9%AA%8C%23&Refer=top)
 
