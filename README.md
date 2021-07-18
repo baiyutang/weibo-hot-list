@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-18 22:03:11
+## 微博今日热榜 更新于 2021-07-18 23:03:28
 1. [千年古城与世遗大会相遇](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%9F%8E%E4%B8%8E%E4%B8%96%E9%81%97%E5%A4%A7%E4%BC%9A%E7%9B%B8%E9%81%87%23&Refer=new_time)
 
 1. [王一博扭到我心里了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%AD%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86%23&Refer=top)
@@ -592,4 +592,32 @@
 1. [旅游博主亵渎英烈被平台永久封号](https://s.weibo.com//weibo?q=%23%E6%97%85%E6%B8%B8%E5%8D%9A%E4%B8%BB%E4%BA%B5%E6%B8%8E%E8%8B%B1%E7%83%88%E8%A2%AB%E5%B9%B3%E5%8F%B0%E6%B0%B8%E4%B9%85%E5%B0%81%E5%8F%B7%23&Refer=top)
 
 1. [管泽元五杀](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BA%94%E6%9D%80&Refer=top)
+
+1. [杭州烧伤女孩被下两次病危通知](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E8%A2%AB%E4%B8%8B%E4%B8%A4%E6%AC%A1%E7%97%85%E5%8D%B1%E9%80%9A%E7%9F%A5%23&Refer=top)
+
+1. [建议全国女厕所和女更衣室学习](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E5%9B%BD%E5%A5%B3%E5%8E%95%E6%89%80%E5%92%8C%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%AD%A6%E4%B9%A0%23&Refer=top)
+
+1. [良品铺子已终止与吴亦凡合作](https://s.weibo.com//weibo?q=%23%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E5%B7%B2%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [韩束直播间](https://s.weibo.com//weibo?q=%E9%9F%A9%E6%9D%9F%E7%9B%B4%E6%92%AD%E9%97%B4&Refer=top)
+
+1. [你经历过假性亲密关系吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%BB%8F%E5%8E%86%E8%BF%87%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%90%97%23&Refer=top)
+
+1. [潘晓婷现身LPL焦点战](https://s.weibo.com//weibo?q=%23%E6%BD%98%E6%99%93%E5%A9%B7%E7%8E%B0%E8%BA%ABLPL%E7%84%A6%E7%82%B9%E6%88%98%23&Refer=top)
+
+1. [蔡徐坤南京演唱会官宣](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [小孩子的攀比有多好笑](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%9A%84%E6%94%80%E6%AF%94%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [猫咪为这个家操碎了心](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%AE%B6%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83%23&Refer=top)
+
+1. [LPL](https://s.weibo.com//weibo?q=LPL&Refer=top)
+
+1. [白玦替上古应劫](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%A6%E6%9B%BF%E4%B8%8A%E5%8F%A4%E5%BA%94%E5%8A%AB%23&Refer=top)
+
+1. [豆瓣崩了](https://s.weibo.com//weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23&Refer=top)
+
+1. [华莱士被约谈](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E8%8E%B1%E5%A3%AB%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
+
+1. [京阿尼纵火案两周年追悼视频](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E9%98%BF%E5%B0%BC%E7%BA%B5%E7%81%AB%E6%A1%88%E4%B8%A4%E5%91%A8%E5%B9%B4%E8%BF%BD%E6%82%BC%E8%A7%86%E9%A2%91%23&Refer=top)
 
