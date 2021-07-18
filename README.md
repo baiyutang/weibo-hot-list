@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-18 20:05:40
+## 微博今日热榜 更新于 2021-07-18 21:09:34
 1. [千年古城与世遗大会相遇](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%9F%8E%E4%B8%8E%E4%B8%96%E9%81%97%E5%A4%A7%E4%BC%9A%E7%9B%B8%E9%81%87%23&Refer=new_time)
 
 1. [王一博扭到我心里了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%AD%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86%23&Refer=top)
@@ -556,4 +556,24 @@
 1. [爸爸花8小时给娃雕奥特曼豆腐](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E8%8A%B18%E5%B0%8F%E6%97%B6%E7%BB%99%E5%A8%83%E9%9B%95%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%B1%86%E8%85%90%23&Refer=top)
 
 1. [两男孩街头玩火烧毁7辆车](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%A9%E8%A1%97%E5%A4%B4%E7%8E%A9%E7%81%AB%E7%83%A7%E6%AF%817%E8%BE%86%E8%BD%A6%23&Refer=top)
+
+1. [原来剧本杀是个体力活](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%89%A7%E6%9C%AC%E6%9D%80%E6%98%AF%E4%B8%AA%E4%BD%93%E5%8A%9B%E6%B4%BB%23&Refer=top)
+
+1. [安珀wang 没有人逼迫我删微博](https://s.weibo.com//weibo?q=%E5%AE%89%E7%8F%80wang%20%E6%B2%A1%E6%9C%89%E4%BA%BA%E9%80%BC%E8%BF%AB%E6%88%91%E5%88%A0%E5%BE%AE%E5%8D%9A&Refer=top)
+
+1. [小鬼说电竞行业太残酷了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%AC%BC%E8%AF%B4%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A%E5%A4%AA%E6%AE%8B%E9%85%B7%E4%BA%86%23&Refer=top)
+
+1. [杭州一电动车骑行中发生爆炸](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&Refer=top)
+
+1. [EDG RNG](https://s.weibo.com//weibo?q=EDG%20RNG&Refer=top)
+
+1. [20岁老赖冒用他人身份证乘高铁被拘](https://s.weibo.com//weibo?q=%2320%E5%B2%81%E8%80%81%E8%B5%96%E5%86%92%E7%94%A8%E4%BB%96%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B9%98%E9%AB%98%E9%93%81%E8%A2%AB%E6%8B%98%23&Refer=top)
+
+1. [家人让你感到心凉的瞬间](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%BA%BA%E8%AE%A9%E4%BD%A0%E6%84%9F%E5%88%B0%E5%BF%83%E5%87%89%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [沃尔玛解雇残疾员工被判赔1.25亿美元](https://s.weibo.com//weibo?q=%E6%B2%83%E5%B0%94%E7%8E%9B%E8%A7%A3%E9%9B%87%E6%AE%8B%E7%96%BE%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E8%B5%941.25%E4%BA%BF%E7%BE%8E%E5%85%83&Refer=top)
+
+1. [男子为当贴吧吧主向百度员工行贿宝马](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E5%BD%93%E8%B4%B4%E5%90%A7%E5%90%A7%E4%B8%BB%E5%90%91%E7%99%BE%E5%BA%A6%E5%91%98%E5%B7%A5%E8%A1%8C%E8%B4%BF%E5%AE%9D%E9%A9%AC%23&Refer=top)
+
+1. [虽然我知道](https://s.weibo.com//weibo?q=%E8%99%BD%E7%84%B6%E6%88%91%E7%9F%A5%E9%81%93&Refer=top)
 
