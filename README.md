@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-19 21:17:19
+## 微博今日热榜 更新于 2021-07-19 22:08:27
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top)
@@ -550,4 +550,22 @@
 1. [南京夫子庙女子穿和服](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%92%8C%E6%9C%8D&Refer=top)
 
 1. [V5 iG](https://s.weibo.com//weibo?q=%23V5%20iG%23&Refer=top)
+
+1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
+
+1. [乐华全家福](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%8D%8E%E5%85%A8%E5%AE%B6%E7%A6%8F%23&Refer=top)
+
+1. [吴亦凡工作室发澄清](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%BE%84%E6%B8%85&Refer=top)
+
+1. [近视眼手术不是人人都适合](https://s.weibo.com//weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%23&Refer=top)
+
+1. [保时捷终止与吴亦凡合作关系](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [杭州烧伤父亲醒来第一件事是找女儿](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%83%A7%E4%BC%A4%E7%88%B6%E4%BA%B2%E9%86%92%E6%9D%A5%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E6%89%BE%E5%A5%B3%E5%84%BF%23&Refer=top)
+
+1. [许昕吐槽球馆场地跑不开](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&Refer=top)
+
+1. [老人三伏天裹棉衣睡觉中暑险送命](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%89%E4%BC%8F%E5%A4%A9%E8%A3%B9%E6%A3%89%E8%A1%A3%E7%9D%A1%E8%A7%89%E4%B8%AD%E6%9A%91%E9%99%A9%E9%80%81%E5%91%BD%23&Refer=top)
+
+1. [陌生的恋人](https://s.weibo.com//weibo?q=%E9%99%8C%E7%94%9F%E7%9A%84%E6%81%8B%E4%BA%BA&Refer=top)
 
