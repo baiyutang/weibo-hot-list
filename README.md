@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-19 15:03:20
+## 微博今日热榜 更新于 2021-07-19 16:09:38
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top)
@@ -368,4 +368,32 @@
 1. [多家品牌与吴亦凡解约](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%93%81%E7%89%8C%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A7%A3%E7%BA%A6%23&Refer=top)
 
 1. [60岁郎平又带队出征](https://s.weibo.com//weibo?q=%2360%E5%B2%81%E9%83%8E%E5%B9%B3%E5%8F%88%E5%B8%A6%E9%98%9F%E5%87%BA%E5%BE%81%23&Refer=top)
+
+1. [法律是道德的最低标准](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BE%8B%E6%98%AF%E9%81%93%E5%BE%B7%E7%9A%84%E6%9C%80%E4%BD%8E%E6%A0%87%E5%87%86%23&Refer=top)
+
+1. [立白章子怡背景图手势](https://s.weibo.com//weibo?q=%23%E7%AB%8B%E7%99%BD%E7%AB%A0%E5%AD%90%E6%80%A1%E8%83%8C%E6%99%AF%E5%9B%BE%E6%89%8B%E5%8A%BF%23&Refer=top)
+
+1. [安徽一95后侵吞公款近7000万](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E4%B8%8095%E5%90%8E%E4%BE%B5%E5%90%9E%E5%85%AC%E6%AC%BE%E8%BF%917000%E4%B8%87%23&Refer=top)
+
+1. [94年前的今天赵世炎牺牲](https://s.weibo.com//weibo?q=%2394%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E8%B5%B5%E4%B8%96%E7%82%8E%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [医生建议低血糖意识不清别喂食](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E4%BD%8E%E8%A1%80%E7%B3%96%E6%84%8F%E8%AF%86%E4%B8%8D%E6%B8%85%E5%88%AB%E5%96%82%E9%A3%9F%23&Refer=top)
+
+1. [吴亦凡表哥关联的多家公司接连注销清算](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A1%A8%E5%93%A5%E5%85%B3%E8%81%94%E7%9A%84%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8E%A5%E8%BF%9E%E6%B3%A8%E9%94%80%E6%B8%85%E7%AE%97%23&Refer=top)
+
+1. [王者荣耀与吴亦凡结束合作关系](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%93%E6%9D%9F%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [广东一菠萝蜜树果实躺平生长](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E8%8F%A0%E8%90%9D%E8%9C%9C%E6%A0%91%E6%9E%9C%E5%AE%9E%E8%BA%BA%E5%B9%B3%E7%94%9F%E9%95%BF%23&Refer=top)
+
+1. [炸宽粉有多好吃](https://s.weibo.com//weibo?q=%23%E7%82%B8%E5%AE%BD%E7%B2%89%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23&Refer=top)
+
+1. [东奥开幕式作曲者道歉但不辞职](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BD%9C%E6%9B%B2%E8%80%85%E9%81%93%E6%AD%89%E4%BD%86%E4%B8%8D%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [腾讯视频终止与吴亦凡方合作](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E6%96%B9%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [山西一医生向患者要红包被举报](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%8C%BB%E7%94%9F%E5%90%91%E6%82%A3%E8%80%85%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&Refer=top)
+
+1. [怎样评价重庆轨道交通暂不设置女性车厢](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E8%AF%84%E4%BB%B7%E9%87%8D%E5%BA%86%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E6%9A%82%E4%B8%8D%E8%AE%BE%E7%BD%AE%E5%A5%B3%E6%80%A7%E8%BD%A6%E5%8E%A2%23&Refer=top)
+
+1. [中小学校内不得开小卖部超市](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1%E5%86%85%E4%B8%8D%E5%BE%97%E5%BC%80%E5%B0%8F%E5%8D%96%E9%83%A8%E8%B6%85%E5%B8%82%23&Refer=top)
 
