@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-20 01:17:22
+## 微博今日热榜 更新于 2021-07-20 02:05:01
 1. [老百姓的幸福就是共产党的事业](https://s.weibo.com//weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%BA%8B%E4%B8%9A%23&Refer=new_time)
 
 1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [奥运会](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
 
 1. [炸宽粉有多好吃](https://s.weibo.com//weibo?q=%23%E7%82%B8%E5%AE%BD%E7%B2%89%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23&Refer=top)
+
+1. [医生索要红包被记过并停职半年](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%B4%A2%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E8%AE%B0%E8%BF%87%E5%B9%B6%E5%81%9C%E8%81%8C%E5%8D%8A%E5%B9%B4%23&Refer=top)
+
+1. [我是真的爱你今日开播](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&Refer=top)
 
