@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-20 05:03:06
+## 微博今日热榜 更新于 2021-07-20 06:03:39
 1. [老百姓的幸福就是共产党的事业](https://s.weibo.com//weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%BA%8B%E4%B8%9A%23&Refer=new_time)
 
 1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [吴亦凡商业版图仅剩1家公司](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E4%BB%85%E5%89%A91%E5%AE%B6%E5%85%AC%E5%8F%B8%23&Refer=top)
 
 1. [刘涛演的萧嫣好飒](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E6%BC%94%E7%9A%84%E8%90%A7%E5%AB%A3%E5%A5%BD%E9%A3%92%23&Refer=top)
+
+1. [珠海隧道透水事故现场发现2名遇难者](https://s.weibo.com//weibo?q=%23%E7%8F%A0%E6%B5%B7%E9%9A%A7%E9%81%93%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B02%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&Refer=top)
 
