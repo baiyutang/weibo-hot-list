@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-19 07:03:46
+## 微博今日热榜 更新于 2021-07-19 08:15:22
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top)
@@ -144,4 +144,26 @@
 1. [2只大熊猫同日诞下双胞胎](https://s.weibo.com//weibo?q=%232%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%90%8C%E6%97%A5%E8%AF%9E%E4%B8%8B%E5%8F%8C%E8%83%9E%E8%83%8E%23&Refer=top)
 
 1. [孙芮第一](https://s.weibo.com//weibo?q=%E5%AD%99%E8%8A%AE%E7%AC%AC%E4%B8%80&Refer=top)
+
+1. [小G娜事件](https://s.weibo.com//weibo?q=%E5%B0%8FG%E5%A8%9C%E4%BA%8B%E4%BB%B6&Refer=top)
+
+1. [姐姐来了](https://s.weibo.com//weibo?q=%E5%A7%90%E5%A7%90%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [一口热水喝掉5000多块](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%8F%A3%E7%83%AD%E6%B0%B4%E5%96%9D%E6%8E%895000%E5%A4%9A%E5%9D%97%23&Refer=top)
+
+1. [吴亦凡超话](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%B6%85%E8%AF%9D%23&Refer=top)
+
+1. [以前总觉得父亲无所不能](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%89%8D%E6%80%BB%E8%A7%89%E5%BE%97%E7%88%B6%E4%BA%B2%E6%97%A0%E6%89%80%E4%B8%8D%E8%83%BD%23&Refer=top)
+
+1. [张萌说不要向孩子隐瞒至亲离世](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%90%91%E5%AD%A9%E5%AD%90%E9%9A%90%E7%9E%92%E8%87%B3%E4%BA%B2%E7%A6%BB%E4%B8%96%23&Refer=top)
+
+1. [2021第200天](https://s.weibo.com//weibo?q=%232021%E7%AC%AC200%E5%A4%A9%23&Refer=top)
+
+1. [云南新增5例本土确诊病例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [小怡同学清空社交平台](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%23&Refer=top)
+
+1. [虞书欣模仿雷佳音吹蒲公英](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%A8%A1%E4%BB%BF%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%90%B9%E8%92%B2%E5%85%AC%E8%8B%B1%23&Refer=top)
+
+1. [北京2022年冬奥会倒计时200天](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2022%E5%B9%B4%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6200%E5%A4%A9%23&Refer=top)
 
