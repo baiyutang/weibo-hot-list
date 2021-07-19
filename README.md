@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-20 03:03:28
+## 微博今日热榜 更新于 2021-07-20 04:08:49
 1. [老百姓的幸福就是共产党的事业](https://s.weibo.com//weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%BA%8B%E4%B8%9A%23&Refer=new_time)
 
 1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
@@ -116,4 +116,12 @@
 1. [许昕吐槽球馆场地跑不开](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&Refer=top)
 
 1. [吴亦凡回应](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [歼5首飞成功65周年](https://s.weibo.com//weibo?q=%23%E6%AD%BC5%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F65%E5%91%A8%E5%B9%B4%23&Refer=new_time)
+
+1. [柯雷直播道歉](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E9%9B%B7%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [杭州电动车自燃初查系锂电池爆炸](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%87%AA%E7%87%83%E5%88%9D%E6%9F%A5%E7%B3%BB%E9%94%82%E7%94%B5%E6%B1%A0%E7%88%86%E7%82%B8%23&Refer=top)
+
+1. [货车司机高速犯困后车鸣笛护送40里](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%90%8E%E8%BD%A6%E9%B8%A3%E7%AC%9B%E6%8A%A4%E9%80%8140%E9%87%8C%23&Refer=top)
 
