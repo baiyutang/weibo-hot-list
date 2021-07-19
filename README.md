@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-19 09:50:13
+## 微博今日热榜 更新于 2021-07-19 10:19:41
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top)
@@ -208,4 +208,18 @@
 1. [boystory为粉丝挡水](https://s.weibo.com//weibo?q=%23boystory%E4%B8%BA%E7%B2%89%E4%B8%9D%E6%8C%A1%E6%B0%B4%23&Refer=top)
 
 1. [西安地铁会合点](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9C%B0%E9%93%81%E4%BC%9A%E5%90%88%E7%82%B9%23&Refer=top)
+
+1. [你属于性单恋群体吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%B1%9E%E4%BA%8E%E6%80%A7%E5%8D%95%E6%81%8B%E7%BE%A4%E4%BD%93%E5%90%97%23&Refer=top)
+
+1. [建议男明星按照这个标准卷](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%94%B7%E6%98%8E%E6%98%9F%E6%8C%89%E7%85%A7%E8%BF%99%E4%B8%AA%E6%A0%87%E5%87%86%E5%8D%B7%23&Refer=top)
+
+1. [3至17岁可打的新冠疫苗](https://s.weibo.com//weibo?q=%233%E8%87%B317%E5%B2%81%E5%8F%AF%E6%89%93%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [奥运会](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [烧伤女孩妈妈哭着还原事发瞬间](https://s.weibo.com//weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E5%A6%88%E5%A6%88%E5%93%AD%E7%9D%80%E8%BF%98%E5%8E%9F%E4%BA%8B%E5%8F%91%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [女孩公交被裙底偷拍径直告诉司机](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%85%AC%E4%BA%A4%E8%A2%AB%E8%A3%99%E5%BA%95%E5%81%B7%E6%8B%8D%E5%BE%84%E7%9B%B4%E5%91%8A%E8%AF%89%E5%8F%B8%E6%9C%BA%23&Refer=top)
+
+1. [台风](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%A3%8E&Refer=top)
 
