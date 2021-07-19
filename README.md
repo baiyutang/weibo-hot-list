@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-19 20:11:08
+## 微博今日热榜 更新于 2021-07-19 21:17:19
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [都美竹 站出来吧像个男人](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E7%AB%99%E5%87%BA%E6%9D%A5%E5%90%A7%E5%83%8F%E4%B8%AA%E7%94%B7%E4%BA%BA&Refer=top)
@@ -530,4 +530,24 @@
 1. [原来湖北人也爱说倒装句](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B9%96%E5%8C%97%E4%BA%BA%E4%B9%9F%E7%88%B1%E8%AF%B4%E5%80%92%E8%A3%85%E5%8F%A5%23&Refer=top)
 
 1. [和平精英抢票](https://s.weibo.com//weibo?q=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%8A%A2%E7%A5%A8&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [我是真的爱你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%23&Refer=top)
+
+1. [殴打院士董事长被开除党籍](https://s.weibo.com//weibo?q=%23%E6%AE%B4%E6%89%93%E9%99%A2%E5%A3%AB%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&Refer=top)
+
+1. [刘国梁用脚丈量奥运场地](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E7%94%A8%E8%84%9A%E4%B8%88%E9%87%8F%E5%A5%A5%E8%BF%90%E5%9C%BA%E5%9C%B0%23&Refer=top)
+
+1. [贺先生的恋恋不忘](https://s.weibo.com//weibo?q=%E8%B4%BA%E5%85%88%E7%94%9F%E7%9A%84%E6%81%8B%E6%81%8B%E4%B8%8D%E5%BF%98&Refer=top)
+
+1. [张桂梅曾捐100多万元用于办学和扶贫](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%9B%BE%E6%8D%90100%E5%A4%9A%E4%B8%87%E5%85%83%E7%94%A8%E4%BA%8E%E5%8A%9E%E5%AD%A6%E5%92%8C%E6%89%B6%E8%B4%AB%23&Refer=top)
+
+1. [郑州全面实施暑期托管](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E9%9D%A2%E5%AE%9E%E6%96%BD%E6%9A%91%E6%9C%9F%E6%89%98%E7%AE%A1%23&Refer=top)
+
+1. [全国生鲜乳抽检合格率达99.8%](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%9F%E9%B2%9C%E4%B9%B3%E6%8A%BD%E6%A3%80%E5%90%88%E6%A0%BC%E7%8E%87%E8%BE%BE99.8%25%23&Refer=top)
+
+1. [南京夫子庙女子穿和服](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%92%8C%E6%9C%8D&Refer=top)
+
+1. [V5 iG](https://s.weibo.com//weibo?q=%23V5%20iG%23&Refer=top)
 
