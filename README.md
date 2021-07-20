@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-21 06:03:40
+## 微博今日热榜 更新于 2021-07-21 07:03:29
 1. [河南暴雨互助](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&Refer=new_time)
 
 1. [河南暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%23&Refer=top)
@@ -158,4 +158,10 @@
 1. [中国奥运军团超99.6％接种了两针疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%86%9B%E5%9B%A2%E8%B6%8599.6%EF%BC%85%E6%8E%A5%E7%A7%8D%E4%BA%86%E4%B8%A4%E9%92%88%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [青蛇劫起首映](https://s.weibo.com//weibo?q=%23%E9%9D%92%E8%9B%87%E5%8A%AB%E8%B5%B7%E9%A6%96%E6%98%A0%23&Refer=top)
+
+1. [哈利波特系列中有哪些细思极恐的细节](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E7%B3%BB%E5%88%97%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E7%9A%84%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [1.8亿外出劳动力月均收入4290元](https://s.weibo.com//weibo?q=1.8%E4%BA%BF%E5%A4%96%E5%87%BA%E5%8A%B3%E5%8A%A8%E5%8A%9B%E6%9C%88%E5%9D%87%E6%94%B6%E5%85%A54290%E5%85%83&Refer=top)
+
+1. [杨紫学生头造型](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%80%A0%E5%9E%8B%23&Refer=top)
 
