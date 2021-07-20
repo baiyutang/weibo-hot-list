@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-21 01:17:39
+## 微博今日热榜 更新于 2021-07-21 02:08:32
 1. [河南暴雨互助](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&Refer=new_time)
 
 1. [河南暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%23&Refer=top)
@@ -146,4 +146,10 @@
 1. [我可以握着你的手吗](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%8F%AF%E4%BB%A5%E6%8F%A1%E7%9D%80%E4%BD%A0%E7%9A%84%E6%89%8B%E5%90%97%23&Refer=top)
 
 1. [郑州暴雨互助信息](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%E4%BF%A1%E6%81%AF&Refer=top)
+
+1. [37岁的杨丞琳学院风照](https://s.weibo.com//weibo?q=%2337%E5%B2%81%E7%9A%84%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%AD%A6%E9%99%A2%E9%A3%8E%E7%85%A7%23&Refer=top)
+
+1. [外交部回应台湾将在立陶宛设代表处](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%B0%86%E5%9C%A8%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%AE%BE%E4%BB%A3%E8%A1%A8%E5%A4%84%23&Refer=top)
+
+1. [杨紫发文感慨和微博度过的十二年](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E6%96%87%E6%84%9F%E6%85%A8%E5%92%8C%E5%BE%AE%E5%8D%9A%E5%BA%A6%E8%BF%87%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B9%B4%23&Refer=top)
 
