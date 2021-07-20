@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-21 02:08:32
+## 微博今日热榜 更新于 2021-07-21 03:07:26
 1. [河南暴雨互助](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&Refer=new_time)
 
 1. [河南暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%23&Refer=top)
@@ -152,4 +152,8 @@
 1. [外交部回应台湾将在立陶宛设代表处](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%B0%86%E5%9C%A8%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%AE%BE%E4%BB%A3%E8%A1%A8%E5%A4%84%23&Refer=top)
 
 1. [杨紫发文感慨和微博度过的十二年](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E6%96%87%E6%84%9F%E6%85%A8%E5%92%8C%E5%BE%AE%E5%8D%9A%E5%BA%A6%E8%BF%87%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B9%B4%23&Refer=top)
+
+1. [杜淳说女性生育权应该被尊重](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B7%B3%E8%AF%B4%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2%E6%9D%83%E5%BA%94%E8%AF%A5%E8%A2%AB%E5%B0%8A%E9%87%8D%23&Refer=top)
+
+1. [中国奥运军团超99.6％接种了两针疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%86%9B%E5%9B%A2%E8%B6%8599.6%EF%BC%85%E6%8E%A5%E7%A7%8D%E4%BA%86%E4%B8%A4%E9%92%88%E7%96%AB%E8%8B%97%23&Refer=top)
 
