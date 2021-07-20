@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-20 15:03:16
+## 微博今日热榜 更新于 2021-07-20 16:06:32
 1. [老百姓的幸福就是共产党的事业](https://s.weibo.com//weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%BA%8B%E4%B8%9A%23&Refer=new_time)
 
 1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
@@ -418,4 +418,40 @@
 1. [爷爷奔波几百里参加孙女的婚礼](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%94%E6%B3%A2%E5%87%A0%E7%99%BE%E9%87%8C%E5%8F%82%E5%8A%A0%E5%AD%99%E5%A5%B3%E7%9A%84%E5%A9%9A%E7%A4%BC%23&Refer=top)
 
 1. [深圳天气](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94&Refer=top)
+
+1. [女子等离婚判决时被丈夫杀害](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AD%89%E7%A6%BB%E5%A9%9A%E5%88%A4%E5%86%B3%E6%97%B6%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3%23&Refer=top)
+
+1. [向佐晒郭碧婷与女儿合影](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E6%99%92%E9%83%AD%E7%A2%A7%E5%A9%B7%E4%B8%8E%E5%A5%B3%E5%84%BF%E5%90%88%E5%BD%B1%23&Refer=top)
+
+1. [丁真说不火做乞丐都可以](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E8%AF%B4%E4%B8%8D%E7%81%AB%E5%81%9A%E4%B9%9E%E4%B8%90%E9%83%BD%E5%8F%AF%E4%BB%A5%23&Refer=top)
+
+1. [小学教师利用寒暑假支教山区12年](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%88%A9%E7%94%A8%E5%AF%92%E6%9A%91%E5%81%87%E6%94%AF%E6%95%99%E5%B1%B1%E5%8C%BA12%E5%B9%B4%23&Refer=top)
+
+1. [售卖今日头条鱼被判赔134万元](https://s.weibo.com//weibo?q=%23%E5%94%AE%E5%8D%96%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1%E9%B1%BC%E8%A2%AB%E5%88%A4%E8%B5%94134%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [当你发语音没发出去时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%8F%91%E8%AF%AD%E9%9F%B3%E6%B2%A1%E5%8F%91%E5%87%BA%E5%8E%BB%E6%97%B6%23&Refer=top)
+
+1. [蔚来多位车主投诉座椅存缺陷](https://s.weibo.com//weibo?q=%23%E8%94%9A%E6%9D%A5%E5%A4%9A%E4%BD%8D%E8%BD%A6%E4%B8%BB%E6%8A%95%E8%AF%89%E5%BA%A7%E6%A4%85%E5%AD%98%E7%BC%BA%E9%99%B7%23&Refer=top)
+
+1. [走错寝室只是社死的开始](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E9%94%99%E5%AF%9D%E5%AE%A4%E5%8F%AA%E6%98%AF%E7%A4%BE%E6%AD%BB%E7%9A%84%E5%BC%80%E5%A7%8B%23&Refer=top)
+
+1. [跟踪护士女患者家属自认也是受害者](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E8%B8%AA%E6%8A%A4%E5%A3%AB%E5%A5%B3%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E8%87%AA%E8%AE%A4%E4%B9%9F%E6%98%AF%E5%8F%97%E5%AE%B3%E8%80%85%23&Refer=top)
+
+1. [女童攀爬楼道杂物堆从10楼坠亡](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%AB%A5%E6%94%80%E7%88%AC%E6%A5%BC%E9%81%93%E6%9D%82%E7%89%A9%E5%A0%86%E4%BB%8E10%E6%A5%BC%E5%9D%A0%E4%BA%A1%23&Refer=top)
+
+1. [巩义暴雨](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E4%B9%89%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [郑州地铁4号线成水帘洞](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%9C%B0%E9%93%814%E5%8F%B7%E7%BA%BF%E6%88%90%E6%B0%B4%E5%B8%98%E6%B4%9E%23&Refer=top)
+
+1. [好没安全感的老板](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%B2%A1%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E8%80%81%E6%9D%BF%23&Refer=top)
+
+1. [登封暴雨](https://s.weibo.com//weibo?q=%E7%99%BB%E5%B0%81%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [直击台风查帕卡登陆](https://s.weibo.com//weibo?q=%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%9F%A5%E5%B8%95%E5%8D%A1%E7%99%BB%E9%99%86&Refer=top)
+
+1. [牛奶冰糕](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%A5%B6%E5%86%B0%E7%B3%95%23&Refer=top)
+
+1. [师父我要跳舞了第二季开播](https://s.weibo.com//weibo?q=%23%E5%B8%88%E7%88%B6%E6%88%91%E8%A6%81%E8%B7%B3%E8%88%9E%E4%BA%86%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [养猪高利润阶段已经结束](https://s.weibo.com//weibo?q=%23%E5%85%BB%E7%8C%AA%E9%AB%98%E5%88%A9%E6%B6%A6%E9%98%B6%E6%AE%B5%E5%B7%B2%E7%BB%8F%E7%BB%93%E6%9D%9F%23&Refer=top)
 
