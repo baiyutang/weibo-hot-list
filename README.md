@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-21 08:15:23
+## 微博今日热榜 更新于 2021-07-21 09:51:59
 1. [河南暴雨互助](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&Refer=new_time)
 
 1. [河南暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%23&Refer=top)
@@ -228,4 +228,58 @@
 1. [郑州暴雨避险信息](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E9%81%BF%E9%99%A9%E4%BF%A1%E6%81%AF%23&Refer=top)
 
 1. [郑州火车站停运大量旅客滞留](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%E5%81%9C%E8%BF%90%E5%A4%A7%E9%87%8F%E6%97%85%E5%AE%A2%E6%BB%9E%E7%95%99%23&Refer=top)
+
+1. [腾讯宣布捐款1亿元驰援河南](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A3%E5%B8%83%E6%8D%90%E6%AC%BE1%E4%BA%BF%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [郑大一附院院长回应](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E9%99%A2%E9%95%BF%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [郑大一附院ICU已恢复供电](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2ICU%E5%B7%B2%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5%23&Refer=top)
+
+1. [火箭军奔赴郑州](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%AE%AD%E5%86%9B%E5%A5%94%E8%B5%B4%E9%83%91%E5%B7%9E%23&Refer=top)
+
+1. [不要光脚蹚水](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E5%85%89%E8%84%9A%E8%B9%9A%E6%B0%B4%23&Refer=top)
+
+1. [中部战区向郑州派出前方指挥部](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%83%A8%E6%88%98%E5%8C%BA%E5%90%91%E9%83%91%E5%B7%9E%E6%B4%BE%E5%87%BA%E5%89%8D%E6%96%B9%E6%8C%87%E6%8C%A5%E9%83%A8%23&Refer=top)
+
+1. [郑州暴雨原因](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%8E%9F%E5%9B%A0&Refer=top)
+
+1. [郑州东站 音乐是有力量的](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E4%B8%9C%E7%AB%99%20%E9%9F%B3%E4%B9%90%E6%98%AF%E6%9C%89%E5%8A%9B%E9%87%8F%E7%9A%84&Refer=top)
+
+1. [郑州 捐款](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%20%E6%8D%90%E6%AC%BE&Refer=top)
+
+1. [写在死里逃生后](https://s.weibo.com//weibo?q=%E5%86%99%E5%9C%A8%E6%AD%BB%E9%87%8C%E9%80%83%E7%94%9F%E5%90%8E&Refer=top)
+
+1. [黄河花园口河段可能发生编号洪水](https://s.weibo.com//weibo?q=%E9%BB%84%E6%B2%B3%E8%8A%B1%E5%9B%AD%E5%8F%A3%E6%B2%B3%E6%AE%B5%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E7%BC%96%E5%8F%B7%E6%B4%AA%E6%B0%B4&Refer=top)
+
+1. [你会屏蔽晒娃的闺蜜吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%B1%8F%E8%94%BD%E6%99%92%E5%A8%83%E7%9A%84%E9%97%BA%E8%9C%9C%E5%90%97%23&Refer=top)
+
+1. [民宿老板开放50家分店供人避险](https://s.weibo.com//weibo?q=%23%E6%B0%91%E5%AE%BF%E8%80%81%E6%9D%BF%E5%BC%80%E6%94%BE50%E5%AE%B6%E5%88%86%E5%BA%97%E4%BE%9B%E4%BA%BA%E9%81%BF%E9%99%A9%23&Refer=top)
+
+1. [小米捐赠5000万元紧急驰援河南](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%8D%90%E8%B5%A05000%E4%B8%87%E5%85%83%E7%B4%A7%E6%80%A5%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [南京中风险地区和封控区域名单公布](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E5%92%8C%E5%B0%81%E6%8E%A7%E5%8C%BA%E5%9F%9F%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [郑州一小时降雨超100个西湖](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E6%97%B6%E9%99%8D%E9%9B%A8%E8%B6%85100%E4%B8%AA%E8%A5%BF%E6%B9%96%23&Refer=top)
+
+1. [太阳 雄鹿](https://s.weibo.com//weibo?q=%E5%A4%AA%E9%98%B3%20%E9%9B%84%E9%B9%BF&Refer=top)
+
+1. [英雄联盟](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&Refer=top)
+
+1. [涉及南京航线南航航班免费退改签](https://s.weibo.com//weibo?q=%23%E6%B6%89%E5%8F%8A%E5%8D%97%E4%BA%AC%E8%88%AA%E7%BA%BF%E5%8D%97%E8%88%AA%E8%88%AA%E7%8F%AD%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%AD%BE%23&Refer=top)
+
+1. [郑大一附院呼吸机快要没电急需支援](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%91%BC%E5%90%B8%E6%9C%BA%E5%BF%AB%E8%A6%81%E6%B2%A1%E7%94%B5%E6%80%A5%E9%9C%80%E6%94%AF%E6%8F%B4%23&Refer=top)
+
+1. [郑州机场21日12点前不接收进港航班](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%9C%BA%E5%9C%BA21%E6%97%A512%E7%82%B9%E5%89%8D%E4%B8%8D%E6%8E%A5%E6%94%B6%E8%BF%9B%E6%B8%AF%E8%88%AA%E7%8F%AD%23&Refer=top)
+
+1. [暴雨中如何保护自己](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1%23&Refer=top)
+
+1. [郑州暴雨营救进行中](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%E8%90%A5%E6%95%91%E8%BF%9B%E8%A1%8C%E4%B8%AD%23&Refer=top)
+
+1. [七省1800名指战员奔赴河南救援](https://s.weibo.com//weibo?q=%23%E4%B8%83%E7%9C%811800%E5%90%8D%E6%8C%87%E6%88%98%E5%91%98%E5%A5%94%E8%B5%B4%E6%B2%B3%E5%8D%97%E6%95%91%E6%8F%B4%23&Refer=top)
+
+1. [受暴雨影响多条途经郑州地区铁路受影响](https://s.weibo.com//weibo?q=%23%E5%8F%97%E6%9A%B4%E9%9B%A8%E5%BD%B1%E5%93%8D%E5%A4%9A%E6%9D%A1%E9%80%94%E7%BB%8F%E9%83%91%E5%B7%9E%E5%9C%B0%E5%8C%BA%E9%93%81%E8%B7%AF%E5%8F%97%E5%BD%B1%E5%93%8D%23&Refer=top)
+
+1. [登记在册南京大屠杀幸存者仅剩65位](https://s.weibo.com//weibo?q=%23%E7%99%BB%E8%AE%B0%E5%9C%A8%E5%86%8C%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%B9%B8%E5%AD%98%E8%80%85%E4%BB%85%E5%89%A965%E4%BD%8D%23&Refer=top)
+
+1. [失踪乌干达奥运选手被日本警方找到](https://s.weibo.com//weibo?q=%23%E5%A4%B1%E8%B8%AA%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%A5%A5%E8%BF%90%E9%80%89%E6%89%8B%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E6%89%BE%E5%88%B0%23&Refer=top)
 
