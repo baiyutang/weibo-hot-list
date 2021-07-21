@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-22 06:03:35
+## 微博今日热榜 更新于 2021-07-22 07:03:25
 1. [河南暴雨救援](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E6%95%91%E6%8F%B4%23&Refer=new_time)
 
 1. [河南严禁瞒报重要灾情信息](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%A5%E7%A6%81%E7%9E%92%E6%8A%A5%E9%87%8D%E8%A6%81%E7%81%BE%E6%83%85%E4%BF%A1%E6%81%AF%23&Refer=top)
