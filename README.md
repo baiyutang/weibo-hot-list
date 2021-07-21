@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-21 18:08:28
+## 微博今日热榜 更新于 2021-07-21 19:03:01
 1. [河南暴雨互助](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&Refer=new_time)
 
 1. [河南暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%23&Refer=top)
@@ -618,4 +618,36 @@
 1. [手语老师科普听障人士救援方法](https://s.weibo.com//weibo?q=%23%E6%89%8B%E8%AF%AD%E8%80%81%E5%B8%88%E7%A7%91%E6%99%AE%E5%90%AC%E9%9A%9C%E4%BA%BA%E5%A3%AB%E6%95%91%E6%8F%B4%E6%96%B9%E6%B3%95%23&Refer=top)
 
 1. [南京市民顶着烈日做核酸检测](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B0%91%E9%A1%B6%E7%9D%80%E7%83%88%E6%97%A5%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [沈梦雨加盟凯尔特人](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%A6%E9%9B%A8%E5%8A%A0%E7%9B%9F%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%23&Refer=top)
+
+1. [K31次列车1300名被困乘客收到补给物资](https://s.weibo.com//weibo?q=%23K31%E6%AC%A1%E5%88%97%E8%BD%A61300%E5%90%8D%E8%A2%AB%E5%9B%B0%E4%B9%98%E5%AE%A2%E6%94%B6%E5%88%B0%E8%A1%A5%E7%BB%99%E7%89%A9%E8%B5%84%23&Refer=top)
+
+1. [河南巩义聋哑大叔冒险排渠救人](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B7%A9%E4%B9%89%E8%81%8B%E5%93%91%E5%A4%A7%E5%8F%94%E5%86%92%E9%99%A9%E6%8E%92%E6%B8%A0%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [暴雨中路人拍到的感人画面](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E8%B7%AF%E4%BA%BA%E6%8B%8D%E5%88%B0%E7%9A%84%E6%84%9F%E4%BA%BA%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [angelababy捐款50万元驰援河南](https://s.weibo.com//weibo?q=%23angelababy%E6%8D%90%E6%AC%BE50%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [美团免费开放郑州仓库63万件生活物资](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE%E9%83%91%E5%B7%9E%E4%BB%93%E5%BA%9363%E4%B8%87%E4%BB%B6%E7%94%9F%E6%B4%BB%E7%89%A9%E8%B5%84%23&Refer=top)
+
+1. [百度捐赠9000万驰援河南](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%BA%A6%E6%8D%90%E8%B5%A09000%E4%B8%87%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [迪丽热巴捐款50万元驰援河南](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%90%E6%AC%BE50%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [虞书欣捐款50万元驰援河南](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%8D%90%E6%AC%BE50%E4%B8%87%E5%85%83%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [郑州地铁被困者回忆受困噩梦](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%9C%B0%E9%93%81%E8%A2%AB%E5%9B%B0%E8%80%85%E5%9B%9E%E5%BF%86%E5%8F%97%E5%9B%B0%E5%99%A9%E6%A2%A6%23&Refer=top)
+
+1. [中国女足四次打中门框](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%9B%9B%E6%AC%A1%E6%89%93%E4%B8%AD%E9%97%A8%E6%A1%86%23&Refer=top)
+
+1. [河南暴雨橙色预警](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [郑州雷电黄色预警](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E9%9B%B7%E7%94%B5%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [东京奥运会乒乓球抽签](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E6%8A%BD%E7%AD%BE%23&Refer=top)
+
+1. [全力保障河南受灾地区煤电油气运平稳有序](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%8A%9B%E4%BF%9D%E9%9A%9C%E6%B2%B3%E5%8D%97%E5%8F%97%E7%81%BE%E5%9C%B0%E5%8C%BA%E7%85%A4%E7%94%B5%E6%B2%B9%E6%B0%94%E8%BF%90%E5%B9%B3%E7%A8%B3%E6%9C%89%E5%BA%8F%23&Refer=top)
+
+1. [遇暴雨在车内该如何自救](https://s.weibo.com//weibo?q=%23%E9%81%87%E6%9A%B4%E9%9B%A8%E5%9C%A8%E8%BD%A6%E5%86%85%E8%AF%A5%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%23&Refer=top)
 
