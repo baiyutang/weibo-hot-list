@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-23 01:14:22
+## 微博今日热榜 更新于 2021-07-23 02:04:10
 1. [防汛救援第一线](https://s.weibo.com//weibo?q=%23%E9%98%B2%E6%B1%9B%E6%95%91%E6%8F%B4%E7%AC%AC%E4%B8%80%E7%BA%BF%23&Refer=new_time)
 
 1. [鸿星尔克的微博评论好心酸](https://s.weibo.com//weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9A%84%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%A5%BD%E5%BF%83%E9%85%B8%23&Refer=top)
@@ -112,4 +112,8 @@
 1. [脱粉](https://s.weibo.com//weibo?q=%E8%84%B1%E7%B2%89&Refer=top)
 
 1. [救命文档创建者被网友感动落泪](https://s.weibo.com//weibo?q=%23%E6%95%91%E5%91%BD%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA%E8%80%85%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%84%9F%E5%8A%A8%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [环卫工撞保时捷车主放弃索赔](https://s.weibo.com//weibo?q=%23%E7%8E%AF%E5%8D%AB%E5%B7%A5%E6%92%9E%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BD%A6%E4%B8%BB%E6%94%BE%E5%BC%83%E7%B4%A2%E8%B5%94%23&Refer=top)
+
+1. [我在他乡挺好的豆瓣开分](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23&Refer=top)
 
