@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-23 03:02:45
+## 微博今日热榜 更新于 2021-07-23 04:04:14
 1. [防汛救援第一线](https://s.weibo.com//weibo?q=%23%E9%98%B2%E6%B1%9B%E6%95%91%E6%8F%B4%E7%AC%AC%E4%B8%80%E7%BA%BF%23&Refer=new_time)
 
 1. [鸿星尔克的微博评论好心酸](https://s.weibo.com//weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9A%84%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%A5%BD%E5%BF%83%E9%85%B8%23&Refer=top)
@@ -126,4 +126,8 @@
 1. [河南急需这些物资](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%80%A5%E9%9C%80%E8%BF%99%E4%BA%9B%E7%89%A9%E8%B5%84%23&Refer=top)
 
 1. [致敬河南暴雨平民英雄](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%B9%B3%E6%B0%91%E8%8B%B1%E9%9B%84%23&Refer=top)
+
+1. [杭州电动车爆燃救人保安获奖5千元](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%88%86%E7%87%83%E6%95%91%E4%BA%BA%E4%BF%9D%E5%AE%89%E8%8E%B7%E5%A5%965%E5%8D%83%E5%85%83%23&Refer=top)
+
+1. [台风烟花](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top)
 
