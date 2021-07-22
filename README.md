@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-22 15:03:11
+## 微博今日热榜 更新于 2021-07-22 16:04:26
 1. [河南暴雨救援](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E6%95%91%E6%8F%B4%23&Refer=new_time)
 
 1. [河南严禁瞒报重要灾情信息](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%A5%E7%A6%81%E7%9E%92%E6%8A%A5%E9%87%8D%E8%A6%81%E7%81%BE%E6%83%85%E4%BF%A1%E6%81%AF%23&Refer=top)
@@ -424,4 +424,32 @@
 1. [郑州一居民用手电为消防员照明](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E5%B1%85%E6%B0%91%E7%94%A8%E6%89%8B%E7%94%B5%E4%B8%BA%E6%B6%88%E9%98%B2%E5%91%98%E7%85%A7%E6%98%8E%23&Refer=top)
 
 1. [奥运历史奖牌榜中国队位列第7](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E5%8E%86%E5%8F%B2%E5%A5%96%E7%89%8C%E6%A6%9C%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%BD%8D%E5%88%97%E7%AC%AC7%23&Refer=top)
+
+1. [孩子王 希望大家不要放弃我](https://s.weibo.com//weibo?q=%E5%AD%A9%E5%AD%90%E7%8E%8B%20%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E6%94%BE%E5%BC%83%E6%88%91&Refer=top)
+
+1. [女孩6年9次手术后立志学医](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A96%E5%B9%B49%E6%AC%A1%E6%89%8B%E6%9C%AF%E5%90%8E%E7%AB%8B%E5%BF%97%E5%AD%A6%E5%8C%BB%23&Refer=top)
+
+1. [徐才根去世](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%89%8D%E6%A0%B9%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [孩子王退出少年说唱企划录制](https://s.weibo.com//weibo?q=%E5%AD%A9%E5%AD%90%E7%8E%8B%E9%80%80%E5%87%BA%E5%B0%91%E5%B9%B4%E8%AF%B4%E5%94%B1%E4%BC%81%E5%88%92%E5%BD%95%E5%88%B6&Refer=top)
+
+1. [河南大姨霸总式给被困司机发方便面](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%A7%A8%E9%9C%B8%E6%80%BB%E5%BC%8F%E7%BB%99%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%9C%BA%E5%8F%91%E6%96%B9%E4%BE%BF%E9%9D%A2%23&Refer=top)
+
+1. [米河](https://s.weibo.com//weibo?q=%E7%B1%B3%E6%B2%B3&Refer=top)
+
+1. [我在他乡挺好的](https://s.weibo.com//weibo?q=%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84&Refer=top)
+
+1. [河南暴雨互助](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E4%BA%92%E5%8A%A9%23&Refer=top)
+
+1. [郑州地铁通报致12死事故原因](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%9C%B0%E9%93%81%E9%80%9A%E6%8A%A5%E8%87%B412%E6%AD%BB%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [中石化捐款5000万驰援河南](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%9F%B3%E5%8C%96%E6%8D%90%E6%AC%BE5000%E4%B8%87%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [如何看待郑州希岸酒店暴雨后涨价十倍](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%83%91%E5%B7%9E%E5%B8%8C%E5%B2%B8%E9%85%92%E5%BA%97%E6%9A%B4%E9%9B%A8%E5%90%8E%E6%B6%A8%E4%BB%B7%E5%8D%81%E5%80%8D%23&Refer=top)
+
+1. [如何看待东风标致虚假救援](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%9C%E9%A3%8E%E6%A0%87%E8%87%B4%E8%99%9A%E5%81%87%E6%95%91%E6%8F%B4%23&Refer=top)
+
+1. [郑州樱桃沟告急](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%A8%B1%E6%A1%83%E6%B2%9F%E5%91%8A%E6%80%A5%23&Refer=top)
+
+1. [翼龙无人机再次起飞](https://s.weibo.com//weibo?q=%23%E7%BF%BC%E9%BE%99%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%86%8D%E6%AC%A1%E8%B5%B7%E9%A3%9E%23&Refer=top)
 
