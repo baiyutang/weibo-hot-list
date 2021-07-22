@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-22 20:07:11
+## 微博今日热榜 更新于 2021-07-22 21:17:30
 1. [河南暴雨救援](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E6%95%91%E6%8F%B4%23&Refer=new_time)
 
 1. [河南严禁瞒报重要灾情信息](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%A5%E7%A6%81%E7%9E%92%E6%8A%A5%E9%87%8D%E8%A6%81%E7%81%BE%E6%83%85%E4%BF%A1%E6%81%AF%23&Refer=top)
@@ -572,4 +572,42 @@
 1. [谢谢这些最可爱的人](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E8%BF%99%E4%BA%9B%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=top)
 
 1. [奥运会将首次采用阿里云支撑全球转播](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%B0%86%E9%A6%96%E6%AC%A1%E9%87%87%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E6%94%AF%E6%92%91%E5%85%A8%E7%90%83%E8%BD%AC%E6%92%AD%23&Refer=top)
+
+1. [鸿星尔克的微博评论好心酸](https://s.weibo.com//weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9A%84%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%A5%BD%E5%BF%83%E9%85%B8%23&Refer=top)
+
+1. [北京警方通报吴亦凡事件](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [刘某迢](https://s.weibo.com//weibo?q=%E5%88%98%E6%9F%90%E8%BF%A2&Refer=top)
+
+1. [吴亦凡经纪人](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA&Refer=top)
+
+1. [这才是我们需要的企业](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E7%9A%84%E4%BC%81%E4%B8%9A%23&Refer=top)
+
+1. [河南龙门石窟景区完成清淤](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E6%99%AF%E5%8C%BA%E5%AE%8C%E6%88%90%E6%B8%85%E6%B7%A4%23&Refer=top)
+
+1. [18家单位因拒收现金被处罚](https://s.weibo.com//weibo?q=%2318%E5%AE%B6%E5%8D%95%E4%BD%8D%E5%9B%A0%E6%8B%92%E6%94%B6%E7%8E%B0%E9%87%91%E8%A2%AB%E5%A4%84%E7%BD%9A%23&Refer=top)
+
+1. [台风烟花将严重影响苏州](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%E5%B0%86%E4%B8%A5%E9%87%8D%E5%BD%B1%E5%93%8D%E8%8B%8F%E5%B7%9E%23&Refer=top)
+
+1. [新乡人刘国梁为河南加油](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%B9%A1%E4%BA%BA%E5%88%98%E5%9B%BD%E6%A2%81%E4%B8%BA%E6%B2%B3%E5%8D%97%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [淅川](https://s.weibo.com//weibo?q=%E6%B7%85%E5%B7%9D&Refer=top)
+
+1. [暴雨中的科技力量有多硬核](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%9A%84%E7%A7%91%E6%8A%80%E5%8A%9B%E9%87%8F%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&Refer=top)
+
+1. [韩国球员输球后拒与对手握手](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E8%BE%93%E7%90%83%E5%90%8E%E6%8B%92%E4%B8%8E%E5%AF%B9%E6%89%8B%E6%8F%A1%E6%89%8B%23&Refer=top)
+
+1. [坚信爱会赢抗洪致敬版MV](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E4%BF%A1%E7%88%B1%E4%BC%9A%E8%B5%A2%E6%8A%97%E6%B4%AA%E8%87%B4%E6%95%AC%E7%89%88MV%23&Refer=top)
+
+1. [遭遇洪水正确自救是排成纵列](https://s.weibo.com//weibo?q=%23%E9%81%AD%E9%81%87%E6%B4%AA%E6%B0%B4%E6%AD%A3%E7%A1%AE%E8%87%AA%E6%95%91%E6%98%AF%E6%8E%92%E6%88%90%E7%BA%B5%E5%88%97%23&Refer=top)
+
+1. [心动的信号](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&Refer=top)
+
+1. [BLG RA](https://s.weibo.com//weibo?q=%23BLG%20RA%23&Refer=top)
+
+1. [洪水过后要注意哪些事项](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E8%A6%81%E6%B3%A8%E6%84%8F%E5%93%AA%E4%BA%9B%E4%BA%8B%E9%A1%B9%23&Refer=top)
+
+1. [新西兰国奥1比0韩国国奥](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E5%9B%BD%E5%A5%A51%E6%AF%940%E9%9F%A9%E5%9B%BD%E5%9B%BD%E5%A5%A5%23&Refer=top)
+
+1. [长春亚泰2比0北京国安](https://s.weibo.com//weibo?q=%E9%95%BF%E6%98%A5%E4%BA%9A%E6%B3%B02%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89&Refer=top)
 
