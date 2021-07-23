@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-24 01:13:33
+## 微博今日热榜 更新于 2021-07-24 02:04:04
 1. [跟着总书记长见识](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%95%BF%E8%A7%81%E8%AF%86%23&Refer=new_time)
 
 1. [中国代表团登场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%99%BB%E5%9C%BA%23&Refer=top)
@@ -156,4 +156,12 @@
 1. [直20紧急投入河南救灾](https://s.weibo.com//weibo?q=%23%E7%9B%B420%E7%B4%A7%E6%80%A5%E6%8A%95%E5%85%A5%E6%B2%B3%E5%8D%97%E6%95%91%E7%81%BE%23&Refer=top)
 
 1. [郑州一男子隧道涨水前吼出车主](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E9%9A%A7%E9%81%93%E6%B6%A8%E6%B0%B4%E5%89%8D%E5%90%BC%E5%87%BA%E8%BD%A6%E4%B8%BB%23&Refer=top)
+
+1. [暴雨中狗狗躲在树后艰难求生](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%8B%97%E7%8B%97%E8%BA%B2%E5%9C%A8%E6%A0%91%E5%90%8E%E8%89%B0%E9%9A%BE%E6%B1%82%E7%94%9F%23&Refer=top)
+
+1. [明星可以有多接地气](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%8E%A5%E5%9C%B0%E6%B0%94%23&Refer=top)
+
+1. [为中国队加油](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [河南暴雨直击](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E7%9B%B4%E5%87%BB%23&Refer=top)
 
