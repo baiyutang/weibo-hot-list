@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-24 02:04:04
+## 微博今日热榜 更新于 2021-07-24 03:02:51
 1. [跟着总书记长见识](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%95%BF%E8%A7%81%E8%AF%86%23&Refer=new_time)
 
 1. [中国代表团登场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%99%BB%E5%9C%BA%23&Refer=top)
@@ -164,4 +164,8 @@
 1. [为中国队加油](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
 
 1. [河南暴雨直击](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E7%9B%B4%E5%87%BB%23&Refer=top)
+
+1. [向往的生活四重奏我爱你中国](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9B%9B%E9%87%8D%E5%A5%8F%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [四川泸县4.1级地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
 
