@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-24 05:03:11
+## 微博今日热榜 更新于 2021-07-24 06:03:29
 1. [跟着总书记长见识](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%95%BF%E8%A7%81%E8%AF%86%23&Refer=new_time)
 
 1. [中国代表团登场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%99%BB%E5%9C%BA%23&Refer=top)
@@ -170,4 +170,8 @@
 1. [四川泸县4.1级地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
 
 1. [台风烟花](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top)
+
+1. [火炬交接BGM神似鬼子进村](https://s.weibo.com//weibo?q=%E7%81%AB%E7%82%AC%E4%BA%A4%E6%8E%A5BGM%E7%A5%9E%E4%BC%BC%E9%AC%BC%E5%AD%90%E8%BF%9B%E6%9D%91&Refer=top)
+
+1. [数码宝贝BGM](https://s.weibo.com//weibo?q=%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9DBGM&Refer=top)
 
