@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-25 04:03:27
+## 微博今日热榜 更新于 2021-07-25 05:02:56
 1. [我比任何时候更懂你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E6%9B%B4%E6%87%82%E4%BD%A0%23&Refer=new_time)
 
 1. [台风](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%A3%8E&Refer=top)
@@ -154,4 +154,6 @@
 1. [学科类培训机构一律不得上市融资](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%A7%91%E7%B1%BB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E4%B8%80%E5%BE%8B%E4%B8%8D%E5%BE%97%E4%B8%8A%E5%B8%82%E8%9E%8D%E8%B5%84%23&Refer=top)
 
 1. [杭州台风](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%8F%B0%E9%A3%8E&Refer=top)
+
+1. [辣目洋子 老dancer了](https://s.weibo.com//weibo?q=%E8%BE%A3%E7%9B%AE%E6%B4%8B%E5%AD%90%20%E8%80%81dancer%E4%BA%86&Refer=top)
 
