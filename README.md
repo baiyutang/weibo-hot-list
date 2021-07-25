@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-26 03:02:30
+## 微博今日热榜 更新于 2021-07-26 04:03:43
 1. [长城被评为世遗保护管理示范案例](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%9F%8E%E8%A2%AB%E8%AF%84%E4%B8%BA%E4%B8%96%E9%81%97%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E7%A4%BA%E8%8C%83%E6%A1%88%E4%BE%8B%23&Refer=new_time)
 
 1. [郭晶晶现场见证施廷懋王涵夺冠](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E6%96%BD%E5%BB%B7%E6%87%8B%E7%8E%8B%E6%B6%B5%E5%A4%BA%E5%86%A0%23&Refer=top)
@@ -140,4 +140,6 @@
 1. [杭州台风](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8F%B0%E9%A3%8E%23&Refer=top)
 
 1. [台风烟花](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top)
+
+1. [莫铭被诬陷家暴](https://s.weibo.com//weibo?q=%23%E8%8E%AB%E9%93%AD%E8%A2%AB%E8%AF%AC%E9%99%B7%E5%AE%B6%E6%9A%B4%23&Refer=top)
 
