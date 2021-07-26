@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-27 00:10:37
+## 微博今日热榜 更新于 2021-07-27 01:20:09
 1. [其实他们回来过](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E4%BB%96%E4%BB%AC%E5%9B%9E%E6%9D%A5%E8%BF%87%23&Refer=new_time)
 
 1. [许昕刘诗雯获混双银牌](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E8%8E%B7%E6%B7%B7%E5%8F%8C%E9%93%B6%E7%89%8C%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [气象官博催台风烟花快点走](https://s.weibo.com//weibo?q=%23%E6%B0%94%E8%B1%A1%E5%AE%98%E5%8D%9A%E5%82%AC%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%E5%BF%AB%E7%82%B9%E8%B5%B0%23&Refer=top)
 
 1. [林超攀失误](https://s.weibo.com//weibo?q=%23%E6%9E%97%E8%B6%85%E6%94%80%E5%A4%B1%E8%AF%AF%23&Refer=top)
+
+1. [杨紫说许昕刘诗雯依旧是好样的](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E4%BE%9D%E6%97%A7%E6%98%AF%E5%A5%BD%E6%A0%B7%E7%9A%84%23&Refer=top)
+
+1. [你是我的荣耀](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [退伍军人捐5万根玉米送往河南](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E6%8D%905%E4%B8%87%E6%A0%B9%E7%8E%89%E7%B1%B3%E9%80%81%E5%BE%80%E6%B2%B3%E5%8D%97%23&Refer=top)
+
+1. [我在他乡挺好的社死名场面](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84%E7%A4%BE%E6%AD%BB%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [7旬大爷运3车西瓜投河送救援队](https://s.weibo.com//weibo?q=%237%E6%97%AC%E5%A4%A7%E7%88%B7%E8%BF%903%E8%BD%A6%E8%A5%BF%E7%93%9C%E6%8A%95%E6%B2%B3%E9%80%81%E6%95%91%E6%8F%B4%E9%98%9F%23&Refer=top)
+
+1. [台风烟花](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top)
 
