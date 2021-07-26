@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-27 06:03:47
+## 微博今日热榜 更新于 2021-07-27 07:03:20
 1. [其实他们回来过](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E4%BB%96%E4%BB%AC%E5%9B%9E%E6%9D%A5%E8%BF%87%23&Refer=new_time)
 
 1. [许昕刘诗雯获混双银牌](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E8%8E%B7%E6%B7%B7%E5%8F%8C%E9%93%B6%E7%89%8C%23&Refer=top)
@@ -140,4 +140,6 @@
 1. [于途军训式游戏教学](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%94%E5%86%9B%E8%AE%AD%E5%BC%8F%E6%B8%B8%E6%88%8F%E6%95%99%E5%AD%A6%23&Refer=top)
 
 1. [卫辉](https://s.weibo.com//weibo?q=%E5%8D%AB%E8%BE%89&Refer=top)
+
+1. [救51人民警被水冲走10小时后自救归来](https://s.weibo.com//weibo?q=%23%E6%95%9151%E4%BA%BA%E6%B0%91%E8%AD%A6%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B010%E5%B0%8F%E6%97%B6%E5%90%8E%E8%87%AA%E6%95%91%E5%BD%92%E6%9D%A5%23&Refer=top)
 
