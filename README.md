@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-27 01:20:09
+## 微博今日热榜 更新于 2021-07-27 02:03:42
 1. [其实他们回来过](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E4%BB%96%E4%BB%AC%E5%9B%9E%E6%9D%A5%E8%BF%87%23&Refer=new_time)
 
 1. [许昕刘诗雯获混双银牌](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E8%8E%B7%E6%B7%B7%E5%8F%8C%E9%93%B6%E7%89%8C%23&Refer=top)
@@ -118,4 +118,16 @@
 1. [7旬大爷运3车西瓜投河送救援队](https://s.weibo.com//weibo?q=%237%E6%97%AC%E5%A4%A7%E7%88%B7%E8%BF%903%E8%BD%A6%E8%A5%BF%E7%93%9C%E6%8A%95%E6%B2%B3%E9%80%81%E6%95%91%E6%8F%B4%E9%98%9F%23&Refer=top)
 
 1. [台风烟花](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top)
+
+1. [世界遗产名录再添中国项目](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E5%90%8D%E5%BD%95%E5%86%8D%E6%B7%BB%E4%B8%AD%E5%9B%BD%E9%A1%B9%E7%9B%AE%23&Refer=new_time)
+
+1. [韩庚换发型像换了一个人](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%BA%9A%E6%8D%A2%E5%8F%91%E5%9E%8B%E5%83%8F%E6%8D%A2%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA%23&Refer=top)
+
+1. [金晨问我辣吗](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E9%97%AE%E6%88%91%E8%BE%A3%E5%90%97%23&Refer=top)
+
+1. [突如其来的假期](https://s.weibo.com//weibo?q=%E7%AA%81%E5%A6%82%E5%85%B6%E6%9D%A5%E7%9A%84%E5%81%87%E6%9C%9F&Refer=top)
+
+1. [于途80个英雄总教头](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%9480%E4%B8%AA%E8%8B%B1%E9%9B%84%E6%80%BB%E6%95%99%E5%A4%B4%23&Refer=top)
+
+1. [周雨彤细节演技](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E7%BB%86%E8%8A%82%E6%BC%94%E6%8A%80%23&Refer=top)
 
