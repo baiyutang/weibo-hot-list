@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-27 02:03:42
+## 微博今日热榜 更新于 2021-07-27 03:07:25
 1. [其实他们回来过](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E4%BB%96%E4%BB%AC%E5%9B%9E%E6%9D%A5%E8%BF%87%23&Refer=new_time)
 
 1. [许昕刘诗雯获混双银牌](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E8%8E%B7%E6%B7%B7%E5%8F%8C%E9%93%B6%E7%89%8C%23&Refer=top)
@@ -130,4 +130,12 @@
 1. [于途80个英雄总教头](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%9480%E4%B8%AA%E8%8B%B1%E9%9B%84%E6%80%BB%E6%95%99%E5%A4%B4%23&Refer=top)
 
 1. [周雨彤细节演技](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E7%BB%86%E8%8A%82%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [沙溢评论胡可](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E8%AF%84%E8%AE%BA%E8%83%A1%E5%8F%AF%23&Refer=top)
+
+1. [杨洋晒玉兔兵法](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%99%92%E7%8E%89%E5%85%94%E5%85%B5%E6%B3%95%23&Refer=top)
+
+1. [跪求萧嫣搞事业](https://s.weibo.com//weibo?q=%23%E8%B7%AA%E6%B1%82%E8%90%A7%E5%AB%A3%E6%90%9E%E4%BA%8B%E4%B8%9A%23&Refer=top)
+
+1. [于途军训式游戏教学](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%94%E5%86%9B%E8%AE%AD%E5%BC%8F%E6%B8%B8%E6%88%8F%E6%95%99%E5%AD%A6%23&Refer=top)
 
