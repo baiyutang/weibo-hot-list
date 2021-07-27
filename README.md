@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-28 03:02:53
+## 微博今日热榜 更新于 2021-07-28 04:03:28
 1. [志在千秋百年仍是少年](https://s.weibo.com//weibo?q=%23%E5%BF%97%E5%9C%A8%E5%8D%83%E7%A7%8B%E7%99%BE%E5%B9%B4%E4%BB%8D%E6%98%AF%E5%B0%91%E5%B9%B4%23&Refer=new_time)
 
 1. [杨倩回应珍珠美甲](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%9B%9E%E5%BA%94%E7%8F%8D%E7%8F%A0%E7%BE%8E%E7%94%B2%23&Refer=top)
