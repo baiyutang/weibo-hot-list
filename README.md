@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-28 06:03:35
+## 微博今日热榜 更新于 2021-07-28 07:03:41
 1. [志在千秋百年仍是少年](https://s.weibo.com//weibo?q=%23%E5%BF%97%E5%9C%A8%E5%8D%83%E7%A7%8B%E7%99%BE%E5%B9%B4%E4%BB%8D%E6%98%AF%E5%B0%91%E5%B9%B4%23&Refer=new_time)
 
 1. [杨倩回应珍珠美甲](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%9B%9E%E5%BA%94%E7%8F%8D%E7%8F%A0%E7%BE%8E%E7%94%B2%23&Refer=top)
@@ -146,4 +146,10 @@
 1. [竞技体操女子团体决赛](https://s.weibo.com//weibo?q=%23%E7%AB%9E%E6%8A%80%E4%BD%93%E6%93%8D%E5%A5%B3%E5%AD%90%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B%23&Refer=top)
 
 1. [28日起南京鼓楼医院本部门诊正常开诊](https://s.weibo.com//weibo?q=%2328%E6%97%A5%E8%B5%B7%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%E6%9C%AC%E9%83%A8%E9%97%A8%E8%AF%8A%E6%AD%A3%E5%B8%B8%E5%BC%80%E8%AF%8A%23&Refer=top)
+
+1. [聚焦河南极端暴雨](https://s.weibo.com//weibo?q=%23%E8%81%9A%E7%84%A6%E6%B2%B3%E5%8D%97%E6%9E%81%E7%AB%AF%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [荣耀夫妇暧昧糖](https://s.weibo.com//weibo?q=%23%E8%8D%A3%E8%80%80%E5%A4%AB%E5%A6%87%E6%9A%A7%E6%98%A7%E7%B3%96%23&Refer=top)
+
+1. [河南救援小伙买湿疹药却不敢带回](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%95%91%E6%8F%B4%E5%B0%8F%E4%BC%99%E4%B9%B0%E6%B9%BF%E7%96%B9%E8%8D%AF%E5%8D%B4%E4%B8%8D%E6%95%A2%E5%B8%A6%E5%9B%9E%23&Refer=top)
 
