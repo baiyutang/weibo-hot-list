@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-28 10:21:34
+## 微博今日热榜 更新于 2021-07-28 11:03:54
 1. [志在千秋百年仍是少年](https://s.weibo.com//weibo?q=%23%E5%BF%97%E5%9C%A8%E5%8D%83%E7%A7%8B%E7%99%BE%E5%B9%B4%E4%BB%8D%E6%98%AF%E5%B0%91%E5%B9%B4%23&Refer=new_time)
 
 1. [杨倩回应珍珠美甲](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%9B%9E%E5%BA%94%E7%8F%8D%E7%8F%A0%E7%BE%8E%E7%94%B2%23&Refer=top)
@@ -304,4 +304,42 @@
 1. [成都新增3例新冠本土病例](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%96%B0%E5%86%A0%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top)
 
 1. [樊振东VS郑荣植](https://s.weibo.com//weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9CVS%E9%83%91%E8%8D%A3%E6%A4%8D&Refer=top)
+
+1. [女子被父亲3次烧毁录取通知书](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B23%E6%AC%A1%E7%83%A7%E6%AF%81%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&Refer=top)
+
+1. [南京7天内确诊超百例](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC7%E5%A4%A9%E5%86%85%E7%A1%AE%E8%AF%8A%E8%B6%85%E7%99%BE%E4%BE%8B%23&Refer=top)
+
+1. [赛艇解说哭了](https://s.weibo.com//weibo?q=%E8%B5%9B%E8%89%87%E8%A7%A3%E8%AF%B4%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [杭州健康码显示疫苗接种信息](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%81%A5%E5%BA%B7%E7%A0%81%E6%98%BE%E7%A4%BA%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [南京新增47例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%96%B0%E5%A2%9E47%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [成都将于29日启动臭氧黄色预警](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%B0%86%E4%BA%8E29%E6%97%A5%E5%90%AF%E5%8A%A8%E8%87%AD%E6%B0%A7%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top)
+
+1. [羽毛球混双](https://s.weibo.com//weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E6%B7%B7%E5%8F%8C&Refer=top)
+
+1. [郑思维黄雅琼晋级混双四强](https://s.weibo.com//weibo?q=%23%E9%83%91%E6%80%9D%E7%BB%B4%E9%BB%84%E9%9B%85%E7%90%BC%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%E5%9B%9B%E5%BC%BA%23&Refer=top)
+
+1. [德国柔道选手硬核热身方式](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%9F%94%E9%81%93%E9%80%89%E6%89%8B%E7%A1%AC%E6%A0%B8%E7%83%AD%E8%BA%AB%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [赛艇直播画面就中国一条艇](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E8%89%87%E7%9B%B4%E6%92%AD%E7%94%BB%E9%9D%A2%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%B8%80%E6%9D%A1%E8%89%87%23&Refer=top)
+
+1. [卫辉被救助市民得知消防员年龄后落泪](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E8%BE%89%E8%A2%AB%E6%95%91%E5%8A%A9%E5%B8%82%E6%B0%91%E5%BE%97%E7%9F%A5%E6%B6%88%E9%98%B2%E5%91%98%E5%B9%B4%E9%BE%84%E5%90%8E%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [日本男女单打仅剩伊藤美诚](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%A5%B3%E5%8D%95%E6%89%93%E4%BB%85%E5%89%A9%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%23&Refer=top)
+
+1. [南京介绍疫情防控情况](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%BB%8B%E7%BB%8D%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [陈清晨请大家为国羽女双加油](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%B8%85%E6%99%A8%E8%AF%B7%E5%A4%A7%E5%AE%B6%E4%B8%BA%E5%9B%BD%E7%BE%BD%E5%A5%B3%E5%8F%8C%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [樊振东4比0郑荣植晋级4强](https://s.weibo.com//weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%940%E9%83%91%E8%8D%A3%E6%A4%8D%E6%99%8B%E7%BA%A74%E5%BC%BA&Refer=top)
+
+1. [股市下跌](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&Refer=top)
+
+1. [应用程序不得强制索取非必要个人信息](https://s.weibo.com//weibo?q=%23%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%8D%E5%BE%97%E5%BC%BA%E5%88%B6%E7%B4%A2%E5%8F%96%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [最高法发布司法解释规范人脸识别应用](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%8F%91%E5%B8%83%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E8%A7%84%E8%8C%83%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%BA%94%E7%94%A8%23&Refer=top)
+
+1. [四十五年了很想你们](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%8D%81%E4%BA%94%E5%B9%B4%E4%BA%86%E5%BE%88%E6%83%B3%E4%BD%A0%E4%BB%AC%23&Refer=top)
 
