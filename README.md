@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-28 21:20:27
+## 微博今日热榜 更新于 2021-07-28 22:07:52
 1. [志在千秋百年仍是少年](https://s.weibo.com//weibo?q=%23%E5%BF%97%E5%9C%A8%E5%8D%83%E7%A7%8B%E7%99%BE%E5%B9%B4%E4%BB%8D%E6%98%AF%E5%B0%91%E5%B9%B4%23&Refer=new_time)
 
 1. [杨倩回应珍珠美甲](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%9B%9E%E5%BA%94%E7%8F%8D%E7%8F%A0%E7%BE%8E%E7%94%B2%23&Refer=top)
@@ -792,4 +792,32 @@
 1. [白宇帆演的神仙上司](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%87%E5%B8%86%E6%BC%94%E7%9A%84%E7%A5%9E%E4%BB%99%E4%B8%8A%E5%8F%B8%23&Refer=top)
 
 1. [中国女子水球战胜日本女子水球](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B0%B4%E7%90%83%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E6%B0%B4%E7%90%83%23&Refer=top)
+
+1. [肖若腾申诉失败](https://s.weibo.com//weibo?q=%23%E8%82%96%E8%8B%A5%E8%85%BE%E7%94%B3%E8%AF%89%E5%A4%B1%E8%B4%A5%23&Refer=top)
+
+1. [李小鹏 我看得太懂了有点可惜](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%B0%8F%E9%B9%8F%20%E6%88%91%E7%9C%8B%E5%BE%97%E5%A4%AA%E6%87%82%E4%BA%86%E6%9C%89%E7%82%B9%E5%8F%AF%E6%83%9C&Refer=top)
+
+1. [肖若腾单杠14.066分](https://s.weibo.com//weibo?q=%23%E8%82%96%E8%8B%A5%E8%85%BE%E5%8D%95%E6%9D%A014.066%E5%88%86%23&Refer=top)
+
+1. [谌龙VS阿比安](https://s.weibo.com//weibo?q=%23%E8%B0%8C%E9%BE%99VS%E9%98%BF%E6%AF%94%E5%AE%89%23&Refer=top)
+
+1. [石智勇大喊还有谁](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E6%99%BA%E5%8B%87%E5%A4%A7%E5%96%8A%E8%BF%98%E6%9C%89%E8%B0%81%23&Refer=top)
+
+1. [孙炜体操男子个人全能第四](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%82%9C%E4%BD%93%E6%93%8D%E7%94%B7%E5%AD%90%E4%B8%AA%E4%BA%BA%E5%85%A8%E8%83%BD%E7%AC%AC%E5%9B%9B%23&Refer=top)
+
+1. [奖牌榜](https://s.weibo.com//weibo?q=%E5%A5%96%E7%89%8C%E6%A6%9C&Refer=top)
+
+1. [心动的信号4](https://s.weibo.com//weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74%23&Refer=top)
+
+1. [成都召开疫情防控工作发布会](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%8F%AC%E5%BC%80%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B7%A5%E4%BD%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [杨威发博力挺肖若腾孙炜](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%A8%81%E5%8F%91%E5%8D%9A%E5%8A%9B%E6%8C%BA%E8%82%96%E8%8B%A5%E8%85%BE%E5%AD%99%E7%82%9C&Refer=top)
+
+1. [年轻人对日本印象的变化](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8D%B0%E8%B1%A1%E7%9A%84%E5%8F%98%E5%8C%96%23&Refer=top)
+
+1. [中国举重队盛产石智勇](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BE%E9%87%8D%E9%98%9F%E7%9B%9B%E4%BA%A7%E7%9F%B3%E6%99%BA%E5%8B%87%23&Refer=top)
+
+1. [BLG战胜iG](https://s.weibo.com//weibo?q=%23BLG%E6%88%98%E8%83%9CiG%23&Refer=top)
+
+1. [陈一冰说肖若腾就是冠军](https://s.weibo.com//weibo?q=%E9%99%88%E4%B8%80%E5%86%B0%E8%AF%B4%E8%82%96%E8%8B%A5%E8%85%BE%E5%B0%B1%E6%98%AF%E5%86%A0%E5%86%9B&Refer=top)
 
