@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-28 19:02:50
+## 微博今日热榜 更新于 2021-07-28 20:10:14
 1. [志在千秋百年仍是少年](https://s.weibo.com//weibo?q=%23%E5%BF%97%E5%9C%A8%E5%8D%83%E7%A7%8B%E7%99%BE%E5%B9%B4%E4%BB%8D%E6%98%AF%E5%B0%91%E5%B9%B4%23&Refer=new_time)
 
 1. [杨倩回应珍珠美甲](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%9B%9E%E5%BA%94%E7%8F%8D%E7%8F%A0%E7%BE%8E%E7%94%B2%23&Refer=top)
@@ -704,4 +704,46 @@
 1. [赵立坚正告美方政治操弄只会以失败告终](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E6%AD%A3%E5%91%8A%E7%BE%8E%E6%96%B9%E6%94%BF%E6%B2%BB%E6%93%8D%E5%BC%84%E5%8F%AA%E4%BC%9A%E4%BB%A5%E5%A4%B1%E8%B4%A5%E5%91%8A%E7%BB%88%23&Refer=top)
 
 1. [扬州暴雨](https://s.weibo.com//weibo?q=%E6%89%AC%E5%B7%9E%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [最高法发布司法解释保护人脸安全](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%8F%91%E5%B8%83%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E4%BF%9D%E6%8A%A4%E4%BA%BA%E8%84%B8%E5%AE%89%E5%85%A8%23&Refer=new_time)
+
+1. [马龙VS阿萨尔](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99VS%E9%98%BF%E8%90%A8%E5%B0%94%23&Refer=top)
+
+1. [打疫苗后再用吸入疫苗可加强免疫](https://s.weibo.com//weibo?q=%23%E6%89%93%E7%96%AB%E8%8B%97%E5%90%8E%E5%86%8D%E7%94%A8%E5%90%B8%E5%85%A5%E7%96%AB%E8%8B%97%E5%8F%AF%E5%8A%A0%E5%BC%BA%E5%85%8D%E7%96%AB%23&Refer=top)
+
+1. [石智勇好强](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E6%99%BA%E5%8B%87%E5%A5%BD%E5%BC%BA%23&Refer=top)
+
+1. [马龙眼袋好重](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E7%9C%BC%E8%A2%8B%E5%A5%BD%E9%87%8D%23&Refer=top)
+
+1. [石智勇出战举重男子73公斤级决赛](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E6%99%BA%E5%8B%87%E5%87%BA%E6%88%98%E4%B8%BE%E9%87%8D%E7%94%B7%E5%AD%9073%E5%85%AC%E6%96%A4%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [道枝骏佑出道](https://s.weibo.com//weibo?q=%23%E9%81%93%E6%9E%9D%E9%AA%8F%E4%BD%91%E5%87%BA%E9%81%93%23&Refer=top)
+
+1. [预计8月底前我国气候状况总体偏差](https://s.weibo.com//weibo?q=%23%E9%A2%84%E8%AE%A18%E6%9C%88%E5%BA%95%E5%89%8D%E6%88%91%E5%9B%BD%E6%B0%94%E5%80%99%E7%8A%B6%E5%86%B5%E6%80%BB%E4%BD%93%E5%81%8F%E5%B7%AE%23&Refer=top)
+
+1. [这届奥运会有多难](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B1%8A%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [爱看跳水项目的原因](https://s.weibo.com//weibo?q=%23%E7%88%B1%E7%9C%8B%E8%B7%B3%E6%B0%B4%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [郭采洁 我听不见社会时钟的催婚](https://s.weibo.com//weibo?q=%E9%83%AD%E9%87%87%E6%B4%81%20%E6%88%91%E5%90%AC%E4%B8%8D%E8%A7%81%E7%A4%BE%E4%BC%9A%E6%97%B6%E9%92%9F%E7%9A%84%E5%82%AC%E5%A9%9A&Refer=top)
+
+1. [谢思埸爸爸卖厂房全职陪儿训练](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E6%80%9D%E5%9F%B8%E7%88%B8%E7%88%B8%E5%8D%96%E5%8E%82%E6%88%BF%E5%85%A8%E8%81%8C%E9%99%AA%E5%84%BF%E8%AE%AD%E7%BB%83%23&Refer=top)
+
+1. [沈阳一托管中心高温天室外罚站儿童](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E4%B8%80%E6%89%98%E7%AE%A1%E4%B8%AD%E5%BF%83%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%AE%A4%E5%A4%96%E7%BD%9A%E7%AB%99%E5%84%BF%E7%AB%A5%23&Refer=top)
+
+1. [江苏高校3600多名师生支援南京](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E6%A0%A13600%E5%A4%9A%E5%90%8D%E5%B8%88%E7%94%9F%E6%94%AF%E6%8F%B4%E5%8D%97%E4%BA%AC%23&Refer=top)
+
+1. [马龙奥运男单4强](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A5%A5%E8%BF%90%E7%94%B7%E5%8D%954%E5%BC%BA%23&Refer=top)
+
+1. [日本选手压在中国选手身上游](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8E%8B%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E8%BA%AB%E4%B8%8A%E6%B8%B8&Refer=top)
+
+1. [谢思埸妈妈喊话儿子回家吃牛肉丸](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E6%80%9D%E5%9F%B8%E5%A6%88%E5%A6%88%E5%96%8A%E8%AF%9D%E5%84%BF%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%90%83%E7%89%9B%E8%82%89%E4%B8%B8%23&Refer=top)
+
+1. [原来每个十几岁都会有意义](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%AF%8F%E4%B8%AA%E5%8D%81%E5%87%A0%E5%B2%81%E9%83%BD%E4%BC%9A%E6%9C%89%E6%84%8F%E4%B9%89%23&Refer=top)
+
+1. [律师解读郑州奔驰堵住全车库](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E9%83%91%E5%B7%9E%E5%A5%94%E9%A9%B0%E5%A0%B5%E4%BD%8F%E5%85%A8%E8%BD%A6%E5%BA%93%23&Refer=top)
+
+1. [桥本跳马失误](https://s.weibo.com//weibo?q=%23%E6%A1%A5%E6%9C%AC%E8%B7%B3%E9%A9%AC%E5%A4%B1%E8%AF%AF%23&Refer=top)
+
+1. [如何看待父亲3次烧毁女儿录取通知书](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%88%B6%E4%BA%B23%E6%AC%A1%E7%83%A7%E6%AF%81%E5%A5%B3%E5%84%BF%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&Refer=top)
 
