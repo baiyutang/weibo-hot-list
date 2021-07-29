@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-30 02:05:06
+## 微博今日热榜 更新于 2021-07-30 03:07:30
 1. [最低生活保障将不再区分城乡](https://s.weibo.com//weibo?q=%23%E6%9C%80%E4%BD%8E%E7%94%9F%E6%B4%BB%E4%BF%9D%E9%9A%9C%E5%B0%86%E4%B8%8D%E5%86%8D%E5%8C%BA%E5%88%86%E5%9F%8E%E4%B9%A1%23&Refer=new_time)
 
 1. [刘国梁赛后称脑梗都打出来了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%B5%9B%E5%90%8E%E7%A7%B0%E8%84%91%E6%A2%97%E9%83%BD%E6%89%93%E5%87%BA%E6%9D%A5%E4%BA%86%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [嘉人为写错易烊千玺的名字道歉](https://s.weibo.com//weibo?q=%23%E5%98%89%E4%BA%BA%E4%B8%BA%E5%86%99%E9%94%99%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E5%90%8D%E5%AD%97%E9%81%93%E6%AD%89%23&Refer=top)
 
 1. [华为发布会](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [张彬彬不敢看比赛偷偷刷微博首页看比分](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%B8%8D%E6%95%A2%E7%9C%8B%E6%AF%94%E8%B5%9B%E5%81%B7%E5%81%B7%E5%88%B7%E5%BE%AE%E5%8D%9A%E9%A6%96%E9%A1%B5%E7%9C%8B%E6%AF%94%E5%88%86%23&Refer=top)
 
