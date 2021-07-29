@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-30 05:07:43
+## 微博今日热榜 更新于 2021-07-30 06:04:05
 1. [最低生活保障将不再区分城乡](https://s.weibo.com//weibo?q=%23%E6%9C%80%E4%BD%8E%E7%94%9F%E6%B4%BB%E4%BF%9D%E9%9A%9C%E5%B0%86%E4%B8%8D%E5%86%8D%E5%8C%BA%E5%88%86%E5%9F%8E%E4%B9%A1%23&Refer=new_time)
 
 1. [刘国梁赛后称脑梗都打出来了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%B5%9B%E5%90%8E%E7%A7%B0%E8%84%91%E6%A2%97%E9%83%BD%E6%89%93%E5%87%BA%E6%9D%A5%E4%BA%86%23&Refer=top)
