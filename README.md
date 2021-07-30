@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-31 02:04:28
+## 微博今日热榜 更新于 2021-07-31 03:02:40
 1. [中国向世界提供疫苗超7亿剂](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E7%96%AB%E8%8B%97%E8%B6%857%E4%BA%BF%E5%89%82%23&Refer=new_time)
 
 1. [伊藤美诚教练称孙颖莎不按套路打球](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%E6%95%99%E7%BB%83%E7%A7%B0%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E6%8C%89%E5%A5%97%E8%B7%AF%E6%89%93%E7%90%83%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [周也中餐厅的第一顿晚餐](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E4%B8%AD%E9%A4%90%E5%8E%85%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%99%9A%E9%A4%90%23&Refer=top)
 
 1. [好声音都十年了](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E9%83%BD%E5%8D%81%E5%B9%B4%E4%BA%86%23&Refer=top)
+
+1. [石榴花开籽籽同心](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E6%A6%B4%E8%8A%B1%E5%BC%80%E7%B1%BD%E7%B1%BD%E5%90%8C%E5%BF%83%23&Refer=new_time)
 
