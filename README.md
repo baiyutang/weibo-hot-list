@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-31 00:06:03
+## 微博今日热榜 更新于 2021-07-31 01:12:10
 1. [中国向世界提供疫苗超7亿剂](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E7%96%AB%E8%8B%97%E8%B6%857%E4%BA%BF%E5%89%82%23&Refer=new_time)
 
 1. [伊藤美诚教练称孙颖莎不按套路打球](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%E6%95%99%E7%BB%83%E7%A7%B0%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E6%8C%89%E5%A5%97%E8%B7%AF%E6%89%93%E7%90%83%23&Refer=top)
@@ -106,4 +106,22 @@
 1. [中国好声音](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&Refer=top)
 
 1. [用最狠的态度说最卑微的话](https://s.weibo.com//weibo?q=%23%E7%94%A8%E6%9C%80%E7%8B%A0%E7%9A%84%E6%80%81%E5%BA%A6%E8%AF%B4%E6%9C%80%E5%8D%91%E5%BE%AE%E7%9A%84%E8%AF%9D%23&Refer=top)
+
+1. [在声声誓言里致敬精神的力量](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%A3%B0%E5%A3%B0%E8%AA%93%E8%A8%80%E9%87%8C%E8%87%B4%E6%95%AC%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=new_time)
+
+1. [孙红雷劝小演员把学上完](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%8A%9D%E5%B0%8F%E6%BC%94%E5%91%98%E6%8A%8A%E5%AD%A6%E4%B8%8A%E5%AE%8C%23&Refer=top)
+
+1. [林生斌被曝家暴出轨](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E8%A2%AB%E6%9B%9D%E5%AE%B6%E6%9A%B4%E5%87%BA%E8%BD%A8%23&Refer=top)
+
+1. [成都封控小区为1岁宝宝庆生](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%B0%81%E6%8E%A7%E5%B0%8F%E5%8C%BA%E4%B8%BA1%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [林生斌前岳父母首发声](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E5%89%8D%E5%B2%B3%E7%88%B6%E6%AF%8D%E9%A6%96%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [薇娅谢霆锋直播](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E8%B0%A2%E9%9C%86%E9%94%8B%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [那英李健合唱等你下课](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%9D%8E%E5%81%A5%E5%90%88%E5%94%B1%E7%AD%89%E4%BD%A0%E4%B8%8B%E8%AF%BE%23&Refer=top)
+
+1. [致命女人](https://s.weibo.com//weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA&Refer=top)
+
+1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
 
