@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-30 21:17:16
+## 微博今日热榜 更新于 2021-07-30 22:07:47
 1. [最低生活保障将不再区分城乡](https://s.weibo.com//weibo?q=%23%E6%9C%80%E4%BD%8E%E7%94%9F%E6%B4%BB%E4%BF%9D%E9%9A%9C%E5%B0%86%E4%B8%8D%E5%86%8D%E5%8C%BA%E5%88%86%E5%9F%8E%E4%B9%A1%23&Refer=new_time)
 
 1. [刘国梁赛后称脑梗都打出来了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%B5%9B%E5%90%8E%E7%A7%B0%E8%84%91%E6%A2%97%E9%83%BD%E6%89%93%E5%87%BA%E6%9D%A5%E4%BA%86%23&Refer=top)
@@ -844,4 +844,32 @@
 1. [苹果商店打不开](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97%E6%89%93%E4%B8%8D%E5%BC%80%23&Refer=top)
 
 1. [奥运直播](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [马龙夺乒乓球男单金牌](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A4%BA%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95%E9%87%91%E7%89%8C%23&Refer=top)
+
+1. [马龙成首位奥运男单双冠王](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E6%88%90%E9%A6%96%E4%BD%8D%E5%A5%A5%E8%BF%90%E7%94%B7%E5%8D%95%E5%8F%8C%E5%86%A0%E7%8E%8B%23&Refer=top)
+
+1. [樊振东夺乒乓球男单银牌](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%BA%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95%E9%93%B6%E7%89%8C%23&Refer=top)
+
+1. [中国女篮挺进奥运8强](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%8C%BA%E8%BF%9B%E5%A5%A5%E8%BF%908%E5%BC%BA%23&Refer=top)
+
+1. [马龙比心](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E6%AF%94%E5%BF%83%23&Refer=top)
+
+1. [杨舒予直播](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%88%92%E4%BA%88%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [中国第19金](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC19%E9%87%91%23&Refer=top)
+
+1. [乒乓球男单决赛看着好热](https://s.weibo.com//weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%E7%9C%8B%E7%9D%80%E5%A5%BD%E7%83%AD%23&Refer=top)
+
+1. [依加首个好声音八转](https://s.weibo.com//weibo?q=%23%E4%BE%9D%E5%8A%A0%E9%A6%96%E4%B8%AA%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%85%AB%E8%BD%AC%23&Refer=top)
+
+1. [中餐厅](https://s.weibo.com//weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85&Refer=top)
+
+1. [马龙采访](https://s.weibo.com//weibo?q=%E9%A9%AC%E9%BE%99%E9%87%87%E8%AE%BF&Refer=top)
+
+1. [汪顺奥运前练到干呕](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E9%A1%BA%E5%A5%A5%E8%BF%90%E5%89%8D%E7%BB%83%E5%88%B0%E5%B9%B2%E5%91%95%23&Refer=top)
+
+1. [乒乓球颁奖](https://s.weibo.com//weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E9%A2%81%E5%A5%96&Refer=top)
+
+1. [怒火重案](https://s.weibo.com//weibo?q=%E6%80%92%E7%81%AB%E9%87%8D%E6%A1%88&Refer=top)
 
