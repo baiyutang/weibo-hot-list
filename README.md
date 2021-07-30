@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-31 06:03:28
+## 微博今日热榜 更新于 2021-07-31 07:03:27
 1. [中国向世界提供疫苗超7亿剂](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E7%96%AB%E8%8B%97%E8%B6%857%E4%BA%BF%E5%89%82%23&Refer=new_time)
 
 1. [伊藤美诚教练称孙颖莎不按套路打球](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%E6%95%99%E7%BB%83%E7%A7%B0%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E6%8C%89%E5%A5%97%E8%B7%AF%E6%89%93%E7%90%83%23&Refer=top)
@@ -140,4 +140,10 @@
 1. [宁静笑死我了](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86&Refer=top)
 
 1. [看榴莲大哭破防了](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E6%A6%B4%E8%8E%B2%E5%A4%A7%E5%93%AD%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
+
+1. [谢霆锋状态](https://s.weibo.com//weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [女儿们的恋爱4嘉宾](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E4%BB%AC%E7%9A%84%E6%81%8B%E7%88%B14%E5%98%89%E5%AE%BE%23&Refer=top)
+
+1. [巴西女足被淘汰](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%A5%B3%E8%B6%B3%E8%A2%AB%E6%B7%98%E6%B1%B0%23&Refer=top)
 
