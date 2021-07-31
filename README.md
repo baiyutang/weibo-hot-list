@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 01:11:26
+## 微博今日热榜 更新于 2021-08-01 02:04:18
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [向佐沙漠珠峰喊话女儿](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E6%B2%99%E6%BC%A0%E7%8F%A0%E5%B3%B0%E5%96%8A%E8%AF%9D%E5%A5%B3%E5%84%BF%23&Refer=top)
 
 1. [浚县防汛急需这些物资](https://s.weibo.com//weibo?q=%23%E6%B5%9A%E5%8E%BF%E9%98%B2%E6%B1%9B%E6%80%A5%E9%9C%80%E8%BF%99%E4%BA%9B%E7%89%A9%E8%B5%84%23&Refer=top)
+
+1. [金晨丑衣服收割机](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E4%B8%91%E8%A1%A3%E6%9C%8D%E6%94%B6%E5%89%B2%E6%9C%BA%23&Refer=top)
+
+1. [张雨绮 我不想做姐姐](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E6%88%91%E4%B8%8D%E6%83%B3%E5%81%9A%E5%A7%90%E5%A7%90&Refer=top)
+
+1. [宋威龙说自己长开了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%95%BF%E5%BC%80%E4%BA%86%23&Refer=top)
 
