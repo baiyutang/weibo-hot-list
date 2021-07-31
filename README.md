@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 00:05:26
+## 微博今日热榜 更新于 2021-08-01 01:11:26
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -106,4 +106,20 @@
 1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
 
 1. [少年说唱企划开播](https://s.weibo.com//weibo?q=%23%E5%B0%91%E5%B9%B4%E8%AF%B4%E5%94%B1%E4%BC%81%E5%88%92%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [我是一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
+
+1. [周震南像极了吃瓜时的我](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E5%83%8F%E6%9E%81%E4%BA%86%E5%90%83%E7%93%9C%E6%97%B6%E7%9A%84%E6%88%91%23&Refer=top)
+
+1. [网约车司机主动为医护人员免单](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%85%8D%E5%8D%95%23&Refer=top)
+
+1. [虽然我知道](https://s.weibo.com//weibo?q=%E8%99%BD%E7%84%B6%E6%88%91%E7%9F%A5%E9%81%93&Refer=top)
+
+1. [杨迪用四川话解说游泳比赛](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%94%A8%E5%9B%9B%E5%B7%9D%E8%AF%9D%E8%A7%A3%E8%AF%B4%E6%B8%B8%E6%B3%B3%E6%AF%94%E8%B5%9B%23&Refer=top)
+
+1. [施柏宇陈昊宇好甜](https://s.weibo.com//weibo?q=%23%E6%96%BD%E6%9F%8F%E5%AE%87%E9%99%88%E6%98%8A%E5%AE%87%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [向佐沙漠珠峰喊话女儿](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E6%B2%99%E6%BC%A0%E7%8F%A0%E5%B3%B0%E5%96%8A%E8%AF%9D%E5%A5%B3%E5%84%BF%23&Refer=top)
+
+1. [浚县防汛急需这些物资](https://s.weibo.com//weibo?q=%23%E6%B5%9A%E5%8E%BF%E9%98%B2%E6%B1%9B%E6%80%A5%E9%9C%80%E8%BF%99%E4%BA%9B%E7%89%A9%E8%B5%84%23&Refer=top)
 
