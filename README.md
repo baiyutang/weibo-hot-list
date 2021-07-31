@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 04:04:04
+## 微博今日热榜 更新于 2021-08-01 05:02:50
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -132,4 +132,8 @@
 1. [刘涛说妈妈也是普通人](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E8%AF%B4%E5%A6%88%E5%A6%88%E4%B9%9F%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%23&Refer=top)
 
 1. [LPL与PEL官宣联动](https://s.weibo.com//weibo?q=LPL%E4%B8%8EPEL%E5%AE%98%E5%AE%A3%E8%81%94%E5%8A%A8&Refer=top)
+
+1. [张天爱发文告别姐妹俱乐部](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%A7%90%E5%A6%B9%E4%BF%B1%E4%B9%90%E9%83%A8%23&Refer=top)
+
+1. [姐妹俱乐部收官](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%A6%B9%E4%BF%B1%E4%B9%90%E9%83%A8%E6%94%B6%E5%AE%98%23&Refer=top)
 
