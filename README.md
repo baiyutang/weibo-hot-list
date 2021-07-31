@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 05:02:50
+## 微博今日热榜 更新于 2021-08-01 06:03:35
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -136,4 +136,8 @@
 1. [张天爱发文告别姐妹俱乐部](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%A7%90%E5%A6%B9%E4%BF%B1%E4%B9%90%E9%83%A8%23&Refer=top)
 
 1. [姐妹俱乐部收官](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%A6%B9%E4%BF%B1%E4%B9%90%E9%83%A8%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [丁程鑫被北京电影学院录取](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%A2%AB%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E5%AD%A6%E9%99%A2%E5%BD%95%E5%8F%96%23&Refer=top)
+
+1. [网购玫瑰金阿玛尼手表一周后褪色](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E7%8E%AB%E7%91%B0%E9%87%91%E9%98%BF%E7%8E%9B%E5%B0%BC%E6%89%8B%E8%A1%A8%E4%B8%80%E5%91%A8%E5%90%8E%E8%A4%AA%E8%89%B2%23&Refer=top)
 
