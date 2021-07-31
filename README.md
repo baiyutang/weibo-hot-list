@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 02:04:18
+## 微博今日热榜 更新于 2021-08-01 03:02:35
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -128,4 +128,8 @@
 1. [张雨绮 我不想做姐姐](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E6%88%91%E4%B8%8D%E6%83%B3%E5%81%9A%E5%A7%90%E5%A7%90&Refer=top)
 
 1. [宋威龙说自己长开了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%95%BF%E5%BC%80%E4%BA%86%23&Refer=top)
+
+1. [刘涛说妈妈也是普通人](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E8%AF%B4%E5%A6%88%E5%A6%88%E4%B9%9F%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%23&Refer=top)
+
+1. [LPL与PEL官宣联动](https://s.weibo.com//weibo?q=LPL%E4%B8%8EPEL%E5%AE%98%E5%AE%A3%E8%81%94%E5%8A%A8&Refer=top)
 
