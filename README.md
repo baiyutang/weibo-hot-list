@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-02 02:04:00
+## 微博今日热榜 更新于 2021-08-02 03:05:08
 1. [我是一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
 
 1. [吴亦凡微博被封](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%B0%81%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [中央政治局会议透出开局之年重要信号](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E9%80%8F%E5%87%BA%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
 
 1. [陈娇蕊母亲三观好正](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A8%87%E8%95%8A%E6%AF%8D%E4%BA%B2%E4%B8%89%E8%A7%82%E5%A5%BD%E6%AD%A3%23&Refer=top)
+
+1. [吴京夸易烊千玺是天生的电影演员](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E5%A4%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E7%94%B5%E5%BD%B1%E6%BC%94%E5%91%98%23&Refer=top)
 
