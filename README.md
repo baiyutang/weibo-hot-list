@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-02 00:05:37
+## 微博今日热榜 更新于 2021-08-02 01:10:48
 1. [我是一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
 
 1. [吴亦凡微博被封](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%B0%81%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [李白世冠首秀](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%99%BD%E4%B8%96%E5%86%A0%E9%A6%96%E7%A7%80%23&Refer=top)
 
 1. [杭州多所学校建议师生在8月16日前返杭](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%9A%E6%89%80%E5%AD%A6%E6%A0%A1%E5%BB%BA%E8%AE%AE%E5%B8%88%E7%94%9F%E5%9C%A88%E6%9C%8816%E6%97%A5%E5%89%8D%E8%BF%94%E6%9D%AD%23&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [吴京这张敬礼图用了6年](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E8%BF%99%E5%BC%A0%E6%95%AC%E7%A4%BC%E5%9B%BE%E7%94%A8%E4%BA%866%E5%B9%B4%23&Refer=top)
+
+1. [印小天道歉](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%8F%E5%A4%A9%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [朱一龙晒寸头照告别莫老三](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%99%92%E5%AF%B8%E5%A4%B4%E7%85%A7%E5%91%8A%E5%88%AB%E8%8E%AB%E8%80%81%E4%B8%89%23&Refer=top)
+
+1. [吴京易烊千玺对台本](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%AF%B9%E5%8F%B0%E6%9C%AC%23&Refer=top)
 
