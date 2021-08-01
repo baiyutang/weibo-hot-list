@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 21:10:15
+## 微博今日热榜 更新于 2021-08-01 22:02:48
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -690,4 +690,40 @@
 1. [驰援郑州医护带着速溶咖啡应急药品出发](https://s.weibo.com//weibo?q=%23%E9%A9%B0%E6%8F%B4%E9%83%91%E5%B7%9E%E5%8C%BB%E6%8A%A4%E5%B8%A6%E7%9D%80%E9%80%9F%E6%BA%B6%E5%92%96%E5%95%A1%E5%BA%94%E6%80%A5%E8%8D%AF%E5%93%81%E5%87%BA%E5%8F%91%23&Refer=top)
 
 1. [成都连续多日见雪山](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%BF%9E%E7%BB%AD%E5%A4%9A%E6%97%A5%E8%A7%81%E9%9B%AA%E5%B1%B1%23&Refer=top)
+
+1. [陈雨菲羽毛球女单夺冠](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0%23&Refer=top)
+
+1. [马薇薇道歉](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%96%87%E8%96%87%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [奥运会](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [血液样本证欧洲19年秋季已有新冠](https://s.weibo.com//weibo?q=%E8%A1%80%E6%B6%B2%E6%A0%B7%E6%9C%AC%E8%AF%81%E6%AC%A7%E6%B4%B219%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%B7%B2%E6%9C%89%E6%96%B0%E5%86%A0&Refer=top)
+
+1. [中国男子举重获得全部金牌](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%BE%E9%87%8D%E8%8E%B7%E5%BE%97%E5%85%A8%E9%83%A8%E9%87%91%E7%89%8C%23&Refer=top)
+
+1. [人民日报评苏炳添创造历史](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23&Refer=top)
+
+1. [梁静茹想和巩立姣唱勇气](https://s.weibo.com//weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E6%83%B3%E5%92%8C%E5%B7%A9%E7%AB%8B%E5%A7%A3%E5%94%B1%E5%8B%87%E6%B0%94%23&Refer=top)
+
+1. [中国航空从0到1有多难](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E4%BB%8E0%E5%88%B01%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
+
+1. [她仿佛掷出了一颗星球](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E4%BB%BF%E4%BD%9B%E6%8E%B7%E5%87%BA%E4%BA%86%E4%B8%80%E9%A2%97%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [苏炳添完成中国田径梦想](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E7%94%B0%E5%BE%84%E6%A2%A6%E6%83%B3%23&Refer=top)
+
+1. [暂停苏州全市校外培训机构线下培训活动](https://s.weibo.com//weibo?q=%23%E6%9A%82%E5%81%9C%E8%8B%8F%E5%B7%9E%E5%85%A8%E5%B8%82%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E7%BA%BF%E4%B8%8B%E5%9F%B9%E8%AE%AD%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [孩子被打家长该鼓励打回去吗](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A2%AB%E6%89%93%E5%AE%B6%E9%95%BF%E8%AF%A5%E9%BC%93%E5%8A%B1%E6%89%93%E5%9B%9E%E5%8E%BB%E5%90%97%23&Refer=top)
+
+1. [东京奥运赛程过半](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E8%B5%9B%E7%A8%8B%E8%BF%87%E5%8D%8A%23&Refer=top)
+
+1. [陈姐启发我们的人生道理](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A7%90%E5%90%AF%E5%8F%91%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%93%E7%90%86%23&Refer=top)
+
+1. [苏炳添说今天是一辈子最好的回忆](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%AF%B4%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9B%9E%E5%BF%86%23&Refer=top)
+
+1. [当他站上起跑线就已经赢了](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%96%E7%AB%99%E4%B8%8A%E8%B5%B7%E8%B7%91%E7%BA%BF%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%B5%A2%E4%BA%86%23&Refer=top)
+
+1. [重庆菜场管理者霸气提醒严禁涨价](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E8%8F%9C%E5%9C%BA%E7%AE%A1%E7%90%86%E8%80%85%E9%9C%B8%E6%B0%94%E6%8F%90%E9%86%92%E4%B8%A5%E7%A6%81%E6%B6%A8%E4%BB%B7%23&Refer=top)
+
+1. [杭州多所学校建议师生在8月16日前返杭](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%9A%E6%89%80%E5%AD%A6%E6%A0%A1%E5%BB%BA%E8%AE%AE%E5%B8%88%E7%94%9F%E5%9C%A88%E6%9C%8816%E6%97%A5%E5%89%8D%E8%BF%94%E6%9D%AD%23&Refer=top)
 
