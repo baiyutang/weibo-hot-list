@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 10:24:16
+## 微博今日热榜 更新于 2021-08-01 11:03:22
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -250,4 +250,28 @@
 1. [吴卿风获得50米自由泳第5名](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%8D%BF%E9%A3%8E%E8%8E%B7%E5%BE%9750%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E7%AC%AC5%E5%90%8D%23&Refer=top)
 
 1. [航空物流价格暴涨](https://s.weibo.com//weibo?q=%23%E8%88%AA%E7%A9%BA%E7%89%A9%E6%B5%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%23&Refer=top)
+
+1. [巩立姣夺得铅球金牌](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E7%AB%8B%E5%A7%A3%E5%A4%BA%E5%BE%97%E9%93%85%E7%90%83%E9%87%91%E7%89%8C%23&Refer=top)
+
+1. [美国金牌](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E9%87%91%E7%89%8C&Refer=top)
+
+1. [吴亦凡妈妈](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [吴京晒军装照](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E6%99%92%E5%86%9B%E8%A3%85%E7%85%A7%23&Refer=top)
+
+1. [赵露思奥运播报](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%A5%E8%BF%90%E6%92%AD%E6%8A%A5%23&Refer=top)
+
+1. [海口新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8F%A3%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [吕小军10岁就能举起30公斤哑铃](https://s.weibo.com//weibo?q=%23%E5%90%95%E5%B0%8F%E5%86%9B10%E5%B2%81%E5%B0%B1%E8%83%BD%E4%B8%BE%E8%B5%B730%E5%85%AC%E6%96%A4%E5%93%91%E9%93%83%23&Refer=top)
+
+1. [一甜Elaine发博](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9CElaine%E5%8F%91%E5%8D%9A%23&Refer=top)
+
+1. [都美竹否认李恩是其姐姐](https://s.weibo.com//weibo?q=%23%E9%83%BD%E7%BE%8E%E7%AB%B9%E5%90%A6%E8%AE%A4%E6%9D%8E%E6%81%A9%E6%98%AF%E5%85%B6%E5%A7%90%E5%A7%90%23&Refer=top)
+
+1. [河南商丘新增1例本土病例](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%95%86%E4%B8%98%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [长沙暂停一切线下教育教学活动及培训](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E6%9A%82%E5%81%9C%E4%B8%80%E5%88%87%E7%BA%BF%E4%B8%8B%E6%95%99%E8%82%B2%E6%95%99%E5%AD%A6%E6%B4%BB%E5%8A%A8%E5%8F%8A%E5%9F%B9%E8%AE%AD%23&Refer=top)
+
+1. [巩立姣创造个人最好成绩](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E7%AB%8B%E5%A7%A3%E5%88%9B%E9%80%A0%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A5%BD%E6%88%90%E7%BB%A9%23&Refer=top)
 
