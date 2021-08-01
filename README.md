@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 19:03:07
+## 微博今日热榜 更新于 2021-08-01 20:06:11
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -596,4 +596,56 @@
 1. [广州暴雨](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&Refer=top)
 
 1. [厦门暴雨](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [马薇薇被禁言](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%96%87%E8%96%87%E8%A2%AB%E7%A6%81%E8%A8%80%23&Refer=top)
+
+1. [苏炳添比博尔特里约夺冠慢0.02秒](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%AF%94%E5%8D%9A%E5%B0%94%E7%89%B9%E9%87%8C%E7%BA%A6%E5%A4%BA%E5%86%A0%E6%85%A20.02%E7%A7%92%23&Refer=top)
+
+1. [芦玉菲好稳](https://s.weibo.com//weibo?q=%E8%8A%A6%E7%8E%89%E8%8F%B2%E5%A5%BD%E7%A8%B3&Refer=top)
+
+1. [苏芒被禁言](https://s.weibo.com//weibo?q=%E8%8B%8F%E8%8A%92%E8%A2%AB%E7%A6%81%E8%A8%80&Refer=top)
+
+1. [刘翔祝贺苏炳添](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%BF%94%E7%A5%9D%E8%B4%BA%E8%8B%8F%E7%82%B3%E6%B7%BB%23&Refer=top)
+
+1. [乒乓男团中国VS埃及](https://s.weibo.com//weibo?q=%E4%B9%92%E4%B9%93%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BDVS%E5%9F%83%E5%8F%8A&Refer=top)
+
+1. [苏炳添换起跑脚参考了刘翔](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%8D%A2%E8%B5%B7%E8%B7%91%E8%84%9A%E5%8F%82%E8%80%83%E4%BA%86%E5%88%98%E7%BF%94%23&Refer=top)
+
+1. [北京新增感染者曾赴张家界三亚旅游](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E6%9B%BE%E8%B5%B4%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%89%E4%BA%9A%E6%97%85%E6%B8%B8%23&Refer=top)
+
+1. [徐开骋 天道好轮回渣男饶过谁](https://s.weibo.com//weibo?q=%E5%BE%90%E5%BC%80%E9%AA%8B%20%E5%A4%A9%E9%81%93%E5%A5%BD%E8%BD%AE%E5%9B%9E%E6%B8%A3%E7%94%B7%E9%A5%B6%E8%BF%87%E8%B0%81&Refer=top)
+
+1. [刘国梁说我们一直都是最好的时代](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%80%E7%9B%B4%E9%83%BD%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%97%B6%E4%BB%A3%23&Refer=top)
+
+1. [范忆琳失误](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%86%E7%90%B3%E5%A4%B1%E8%AF%AF&Refer=top)
+
+1. [看苏炳添冲刺后庆祝看到泪崩](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%86%B2%E5%88%BA%E5%90%8E%E5%BA%86%E7%A5%9D%E7%9C%8B%E5%88%B0%E6%B3%AA%E5%B4%A9%23&Refer=top)
+
+1. [厦门中山路淹了](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%AD%E5%B1%B1%E8%B7%AF%E6%B7%B9%E4%BA%86%23&Refer=top)
+
+1. [从20米高台跳水是一种什么体验](https://s.weibo.com//weibo?q=%23%E4%BB%8E20%E7%B1%B3%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [中国军队是这样的](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&Refer=top)
+
+1. [湖北红安新增2例无症状感染者](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E7%BA%A2%E5%AE%89%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
+
+1. [长津湖全阵容发布会](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E5%85%A8%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=top)
+
+1. [暨南大学祝贺苏炳添](https://s.weibo.com//weibo?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%A5%9D%E8%B4%BA%E8%8B%8F%E7%82%B3%E6%B7%BB&Refer=top)
+
+1. [济南紧急寻找密接轨迹重合人员](https://s.weibo.com//weibo?q=%23%E6%B5%8E%E5%8D%97%E7%B4%A7%E6%80%A5%E5%AF%BB%E6%89%BE%E5%AF%86%E6%8E%A5%E8%BD%A8%E8%BF%B9%E9%87%8D%E5%90%88%E4%BA%BA%E5%91%98%23&Refer=top)
+
+1. [WE iG](https://s.weibo.com//weibo?q=WE%20iG&Refer=top)
+
+1. [河南药店暂停销售退烧药物](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E8%8D%AF%E5%BA%97%E6%9A%82%E5%81%9C%E9%94%80%E5%94%AE%E9%80%80%E7%83%A7%E8%8D%AF%E7%89%A9&Refer=top)
+
+1. [羽毛球女单决赛](https://s.weibo.com//weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [郑州全员核酸检测已完成采样超百万份](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B7%B2%E5%AE%8C%E6%88%90%E9%87%87%E6%A0%B7%E8%B6%85%E7%99%BE%E4%B8%87%E4%BB%BD%23&Refer=top)
+
+1. [向人民子弟兵致敬](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E8%87%B4%E6%95%AC%23&Refer=top)
+
+1. [八一建军节是何时确定的](https://s.weibo.com//weibo?q=%23%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%E6%98%AF%E4%BD%95%E6%97%B6%E7%A1%AE%E5%AE%9A%E7%9A%84%23&Refer=top)
 
