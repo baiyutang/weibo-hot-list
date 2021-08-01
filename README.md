@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-01 09:55:46
+## 微博今日热榜 更新于 2021-08-01 10:24:16
 1. [确保如期实现建军100年奋斗目标](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A6%82%E6%9C%9F%E5%AE%9E%E7%8E%B0%E5%BB%BA%E5%86%9B100%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [吴亦凡被刑拘](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -232,4 +232,22 @@
 1. [建军节热血大片](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E5%86%9B%E8%8A%82%E7%83%AD%E8%A1%80%E5%A4%A7%E7%89%87%23&Refer=top)
 
 1. [八月文案](https://s.weibo.com//weibo?q=%E5%85%AB%E6%9C%88%E6%96%87%E6%A1%88&Refer=top)
+
+1. [律师称吴亦凡若获刑将在国内服刑](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%90%B4%E4%BA%A6%E5%87%A1%E8%8B%A5%E8%8E%B7%E5%88%91%E5%B0%86%E5%9C%A8%E5%9B%BD%E5%86%85%E6%9C%8D%E5%88%91%23&Refer=top)
+
+1. [郑州此次疫情传播快病毒载量高](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%AD%A4%E6%AC%A1%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD%E5%BF%AB%E7%97%85%E6%AF%92%E8%BD%BD%E9%87%8F%E9%AB%98%23&Refer=top)
+
+1. [吕小军说16年的金牌快要拿回来了](https://s.weibo.com//weibo?q=%23%E5%90%95%E5%B0%8F%E5%86%9B%E8%AF%B416%E5%B9%B4%E7%9A%84%E9%87%91%E7%89%8C%E5%BF%AB%E8%A6%81%E6%8B%BF%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [中国队铅球跳水等项目冲金](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%85%E7%90%83%E8%B7%B3%E6%B0%B4%E7%AD%89%E9%A1%B9%E7%9B%AE%E5%86%B2%E9%87%91%23&Refer=top)
+
+1. [你永远可以相信人民子弟兵](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%23&Refer=top)
+
+1. [女子铅球决赛](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E9%93%85%E7%90%83%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [为什么说北斗了不起](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%8C%97%E6%96%97%E4%BA%86%E4%B8%8D%E8%B5%B7%23&Refer=top)
+
+1. [吴卿风获得50米自由泳第5名](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%8D%BF%E9%A3%8E%E8%8E%B7%E5%BE%9750%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E7%AC%AC5%E5%90%8D%23&Refer=top)
+
+1. [航空物流价格暴涨](https://s.weibo.com//weibo?q=%23%E8%88%AA%E7%A9%BA%E7%89%A9%E6%B5%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%23&Refer=top)
 
