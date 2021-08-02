@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-02 21:17:35
+## 微博今日热榜 更新于 2021-08-02 22:08:29
 1. [我是一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
 
 1. [吴亦凡微博被封](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%B0%81%23&Refer=top)
@@ -798,4 +798,40 @@
 1. [李雯雯比心](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%9B%AF%E9%9B%AF%E6%AF%94%E5%BF%83&Refer=top)
 
 1. [郑州疫情最初感染者与缅甸患者同源](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E7%96%AB%E6%83%85%E6%9C%80%E5%88%9D%E6%84%9F%E6%9F%93%E8%80%85%E4%B8%8E%E7%BC%85%E7%94%B8%E6%82%A3%E8%80%85%E5%90%8C%E6%BA%90%23&Refer=top)
+
+1. [马龙带货失败了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E5%B8%A6%E8%B4%A7%E5%A4%B1%E8%B4%A5%E4%BA%86%23&Refer=top)
+
+1. [肖若腾回应猛男wink是故意的](https://s.weibo.com//weibo?q=%23%E8%82%96%E8%8B%A5%E8%85%BE%E5%9B%9E%E5%BA%94%E7%8C%9B%E7%94%B7wink%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%23&Refer=top)
+
+1. [山西男子从郑州隔离点逃脱](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%94%B7%E5%AD%90%E4%BB%8E%E9%83%91%E5%B7%9E%E9%9A%94%E7%A6%BB%E7%82%B9%E9%80%83%E8%84%B1%23&Refer=top)
+
+1. [中国花样游泳演绎青蛇](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%A0%B7%E6%B8%B8%E6%B3%B3%E6%BC%94%E7%BB%8E%E9%9D%92%E8%9B%87%23&Refer=top)
+
+1. [张雨霏说喜欢看还珠格格](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%AF%B4%E5%96%9C%E6%AC%A2%E7%9C%8B%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23&Refer=top)
+
+1. [郑州市新增本土确诊病例13例](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E5%B8%82%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B13%E4%BE%8B&Refer=top)
+
+1. [男子遛大型犬不栓绳冲向女童](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%81%9B%E5%A4%A7%E5%9E%8B%E7%8A%AC%E4%B8%8D%E6%A0%93%E7%BB%B3%E5%86%B2%E5%90%91%E5%A5%B3%E7%AB%A5%23&Refer=top)
+
+1. [女子5000米冠军哈桑](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%905000%E7%B1%B3%E5%86%A0%E5%86%9B%E5%93%88%E6%A1%91&Refer=top)
+
+1. [喵星人版奥运表情包](https://s.weibo.com//weibo?q=%23%E5%96%B5%E6%98%9F%E4%BA%BA%E7%89%88%E5%A5%A5%E8%BF%90%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [深圳天气](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23&Refer=top)
+
+1. [郑州对确诊患者实施一人一案治疗](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%AF%B9%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E5%AE%9E%E6%96%BD%E4%B8%80%E4%BA%BA%E4%B8%80%E6%A1%88%E6%B2%BB%E7%96%97%23&Refer=top)
+
+1. [赢一起狂输一起扛](https://s.weibo.com//weibo?q=%23%E8%B5%A2%E4%B8%80%E8%B5%B7%E7%8B%82%E8%BE%93%E4%B8%80%E8%B5%B7%E6%89%9B%23&Refer=top)
+
+1. [未来十年AI能干什么](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4AI%E8%83%BD%E5%B9%B2%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [女子感情受挫请茅山道长施法被骗4万多](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%84%9F%E6%83%85%E5%8F%97%E6%8C%AB%E8%AF%B7%E8%8C%85%E5%B1%B1%E9%81%93%E9%95%BF%E6%96%BD%E6%B3%95%E8%A2%AB%E9%AA%974%E4%B8%87%E5%A4%9A%23&Refer=top)
+
+1. [一密接者曾在增城搭公交](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AF%86%E6%8E%A5%E8%80%85%E6%9B%BE%E5%9C%A8%E5%A2%9E%E5%9F%8E%E6%90%AD%E5%85%AC%E4%BA%A4%23&Refer=top)
+
+1. [吕小军被叫绝世美人](https://s.weibo.com//weibo?q=%23%E5%90%95%E5%B0%8F%E5%86%9B%E8%A2%AB%E5%8F%AB%E7%BB%9D%E4%B8%96%E7%BE%8E%E4%BA%BA%23&Refer=top)
+
+1. [武汉高速](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E9%AB%98%E9%80%9F&Refer=top)
+
+1. [整治不良粉丝文化乱象](https://s.weibo.com//weibo?q=%23%E6%95%B4%E6%B2%BB%E4%B8%8D%E8%89%AF%E7%B2%89%E4%B8%9D%E6%96%87%E5%8C%96%E4%B9%B1%E8%B1%A1%23&Refer=top)
 
