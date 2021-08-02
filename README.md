@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-03 04:05:39
+## 微博今日热榜 更新于 2021-08-03 05:07:29
 1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=new_time)
 
 1. [韩国跳水选手跳一半回去了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E8%B7%B3%E4%B8%80%E5%8D%8A%E5%9B%9E%E5%8E%BB%E4%BA%86%23&Refer=top)
