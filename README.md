@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-03 06:03:36
+## 微博今日热榜 更新于 2021-08-03 07:03:25
 1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=new_time)
 
 1. [韩国跳水选手跳一半回去了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E8%B7%B3%E4%B8%80%E5%8D%8A%E5%9B%9E%E5%8E%BB%E4%BA%86%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [青簪行](https://s.weibo.com//weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C&Refer=top)
 
 1. [跨越百年新天路](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E8%B6%8A%E7%99%BE%E5%B9%B4%E6%96%B0%E5%A4%A9%E8%B7%AF%23&Refer=new_time)
+
+1. [宋丹丹被告白害羞了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E5%91%8A%E7%99%BD%E5%AE%B3%E7%BE%9E%E4%BA%86%23&Refer=top)
+
+1. [刘昊然黑色西装](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%23&Refer=top)
 
