@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-03 03:07:29
+## 微博今日热榜 更新于 2021-08-03 04:05:39
 1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=new_time)
 
 1. [韩国跳水选手跳一半回去了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E8%B7%B3%E4%B8%80%E5%8D%8A%E5%9B%9E%E5%8E%BB%E4%BA%86%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [成毅丁程鑫娜扎周雨彤喊你打疫苗](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%81%E7%A8%8B%E9%91%AB%E5%A8%9C%E6%89%8E%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%96%8A%E4%BD%A0%E6%89%93%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [龚俊对角色的仪式感](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%AF%B9%E8%A7%92%E8%89%B2%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23&Refer=top)
+
+1. [青簪行](https://s.weibo.com//weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C&Refer=top)
 
