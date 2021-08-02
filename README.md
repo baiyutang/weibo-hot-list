@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-02 12:05:04
+## 微博今日热榜 更新于 2021-08-02 13:03:09
 1. [我是一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
 
 1. [吴亦凡微博被封](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%B0%81%23&Refer=top)
@@ -328,4 +328,52 @@
 1. [Ning 德云色](https://s.weibo.com//weibo?q=Ning%20%E5%BE%B7%E4%BA%91%E8%89%B2&Refer=top)
 
 1. [南京今日新增均在隔离人群中发现](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E%E5%9D%87%E5%9C%A8%E9%9A%94%E7%A6%BB%E4%BA%BA%E7%BE%A4%E4%B8%AD%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=new_time)
+
+1. [杨旭文](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%97%AD%E6%96%87&Refer=top)
+
+1. [张雨霏霸气回应美国媒体兴奋剂质疑](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E9%9C%B8%E6%B0%94%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%AA%92%E4%BD%93%E5%85%B4%E5%A5%8B%E5%89%82%E8%B4%A8%E7%96%91%23&Refer=top)
+
+1. [做吕小军女儿举高高管够](https://s.weibo.com//weibo?q=%23%E5%81%9A%E5%90%95%E5%B0%8F%E5%86%9B%E5%A5%B3%E5%84%BF%E4%B8%BE%E9%AB%98%E9%AB%98%E7%AE%A1%E5%A4%9F%23&Refer=top)
+
+1. [小男孩哭着给樊振东加油](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%93%AD%E7%9D%80%E7%BB%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [陈清晨贾一凡vs波莉拉哈尤](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%B8%85%E6%99%A8%E8%B4%BE%E4%B8%80%E5%87%A1vs%E6%B3%A2%E8%8E%89%E6%8B%89%E5%93%88%E5%B0%A4%23&Refer=top)
+
+1. [82岁老人医院输错药后离世](https://s.weibo.com//weibo?q=%2382%E5%B2%81%E8%80%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E8%BE%93%E9%94%99%E8%8D%AF%E5%90%8E%E7%A6%BB%E4%B8%96%23&Refer=top)
+
+1. [澳大利亚斥资千万防疫软件仅44人使用](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%96%A5%E8%B5%84%E5%8D%83%E4%B8%87%E9%98%B2%E7%96%AB%E8%BD%AF%E4%BB%B6%E4%BB%8544%E4%BA%BA%E4%BD%BF%E7%94%A8%23&Refer=top)
+
+1. [大学教授遇查酒驾自称加拿大人](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E9%81%87%E6%9F%A5%E9%85%92%E9%A9%BE%E8%87%AA%E7%A7%B0%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BA%BA%23&Refer=top)
+
+1. [杭州疫情](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
+
+1. [扬州11587名在校大学生严格实施封闭管理](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E11587%E5%90%8D%E5%9C%A8%E6%A0%A1%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [杭州拱墅区两名密接者已被集中隔离](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%8B%B1%E5%A2%85%E5%8C%BA%E4%B8%A4%E5%90%8D%E5%AF%86%E6%8E%A5%E8%80%85%E5%B7%B2%E8%A2%AB%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [49岁陈慧琳状态](https://s.weibo.com//weibo?q=%2349%E5%B2%81%E9%99%88%E6%85%A7%E7%90%B3%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [鹿晗粉色西装](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%B2%89%E8%89%B2%E8%A5%BF%E8%A3%85%23&Refer=top)
+
+1. [扬州新增8个中风险地区](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E6%96%B0%E5%A2%9E8%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [朱立伦宣布参选国民党主席](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E7%AB%8B%E4%BC%A6%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%23&Refer=top)
+
+1. [日本连续4天单日新增确诊超万人](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%9E%E7%BB%AD4%E5%A4%A9%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E8%B6%85%E4%B8%87%E4%BA%BA%23&Refer=top)
+
+1. [儿童无外出史发热建议先居家观察](https://s.weibo.com//weibo?q=%23%E5%84%BF%E7%AB%A5%E6%97%A0%E5%A4%96%E5%87%BA%E5%8F%B2%E5%8F%91%E7%83%AD%E5%BB%BA%E8%AE%AE%E5%85%88%E5%B1%85%E5%AE%B6%E8%A7%82%E5%AF%9F%23&Refer=top)
+
+1. [东京奥运日记](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%97%A5%E8%AE%B0%23&Refer=top)
+
+1. [扬州共有1个高风险地区14个中风险地区](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E5%85%B1%E6%9C%891%E4%B8%AA%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA14%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [王进健任扬州市代理市长](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%BF%9B%E5%81%A5%E4%BB%BB%E6%89%AC%E5%B7%9E%E5%B8%82%E4%BB%A3%E7%90%86%E5%B8%82%E9%95%BF%23&Refer=top)
+
+1. [我在他乡挺好的](https://s.weibo.com//weibo?q=%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84&Refer=top)
+
+1. [南京通报新增11例确诊病例详情](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E9%80%9A%E6%8A%A5%E6%96%B0%E5%A2%9E11%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [沉浸式体验奥运项目](https://s.weibo.com//weibo?q=%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%A5%A5%E8%BF%90%E9%A1%B9%E7%9B%AE&Refer=top)
 
