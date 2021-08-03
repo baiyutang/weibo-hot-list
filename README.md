@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-04 06:03:51
+## 微博今日热榜 更新于 2021-08-04 07:03:45
 1. [我国数字经济规模达5.4万亿美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E8%A7%84%E6%A8%A1%E8%BE%BE5.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=new_time)
 
 1. [新发现中药连花清瘟对德尔塔病毒有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%AD%E8%8D%AF%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [江苏社会库存大米32万吨面粉18万吨](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%A4%BE%E4%BC%9A%E5%BA%93%E5%AD%98%E5%A4%A7%E7%B1%B332%E4%B8%87%E5%90%A8%E9%9D%A2%E7%B2%8918%E4%B8%87%E5%90%A8%23&Refer=top)
 
 1. [国务院发布全民健身计划2025](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E5%B8%83%E5%85%A8%E6%B0%91%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%922025%23&Refer=new_time)
+
+1. [高卿尘再唱输入法打可爱按第五](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8D%BF%E5%B0%98%E5%86%8D%E5%94%B1%E8%BE%93%E5%85%A5%E6%B3%95%E6%89%93%E5%8F%AF%E7%88%B1%E6%8C%89%E7%AC%AC%E4%BA%94%23&Refer=top)
+
+1. [黄仁俊和肖俊的永不失联的爱](https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%BB%81%E4%BF%8A%E5%92%8C%E8%82%96%E4%BF%8A%E7%9A%84%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E7%9A%84%E7%88%B1%23&Refer=top)
+
+1. [姚琛吃火锅偶遇赵让](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E5%90%83%E7%81%AB%E9%94%85%E5%81%B6%E9%81%87%E8%B5%B5%E8%AE%A9%23&Refer=top)
 
