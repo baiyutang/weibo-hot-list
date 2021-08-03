@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-04 00:10:55
+## 微博今日热榜 更新于 2021-08-04 01:24:39
 1. [我国数字经济规模达5.4万亿美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E8%A7%84%E6%A8%A1%E8%BE%BE5.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=new_time)
 
 1. [新发现中药连花清瘟对德尔塔病毒有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%AD%E8%8D%AF%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [日本女乒晋级团体决赛](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%B9%92%E6%99%8B%E7%BA%A7%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B%23&Refer=top)
 
 1. [唐茜靖获得女子平衡木银牌](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%8C%9C%E9%9D%96%E8%8E%B7%E5%BE%97%E5%A5%B3%E5%AD%90%E5%B9%B3%E8%A1%A1%E6%9C%A8%E9%93%B6%E7%89%8C%23&Refer=top)
+
+1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=new_time)
+
+1. [撒贝宁跟娃说我永远是你们的同龄人](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E8%B7%9F%E5%A8%83%E8%AF%B4%E6%88%91%E6%B0%B8%E8%BF%9C%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%90%8C%E9%BE%84%E4%BA%BA%23&Refer=top)
+
+1. [乔夕辰简亦繁终于亲了](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%A4%95%E8%BE%B0%E7%AE%80%E4%BA%A6%E7%B9%81%E7%BB%88%E4%BA%8E%E4%BA%B2%E4%BA%86%23&Refer=top)
+
+1. [致敬迎战洪水猛兽的平凡人](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E8%BF%8E%E6%88%98%E6%B4%AA%E6%B0%B4%E7%8C%9B%E5%85%BD%E7%9A%84%E5%B9%B3%E5%87%A1%E4%BA%BA%23&Refer=top)
 
