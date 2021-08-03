@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-04 01:24:39
+## 微博今日热榜 更新于 2021-08-04 02:08:35
 1. [我国数字经济规模达5.4万亿美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E8%A7%84%E6%A8%A1%E8%BE%BE5.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=new_time)
 
 1. [新发现中药连花清瘟对德尔塔病毒有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%AD%E8%8D%AF%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [乔夕辰简亦繁终于亲了](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%A4%95%E8%BE%B0%E7%AE%80%E4%BA%A6%E7%B9%81%E7%BB%88%E4%BA%8E%E4%BA%B2%E4%BA%86%23&Refer=top)
 
 1. [致敬迎战洪水猛兽的平凡人](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E8%BF%8E%E6%88%98%E6%B4%AA%E6%B0%B4%E7%8C%9B%E5%85%BD%E7%9A%84%E5%B9%B3%E5%87%A1%E4%BA%BA%23&Refer=top)
+
+1. [张哲瀚蝴蝶结丝带白衬衫造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E8%9D%B4%E8%9D%B6%E7%BB%93%E4%B8%9D%E5%B8%A6%E7%99%BD%E8%A1%AC%E8%A1%AB%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [我在他乡挺好的](https://s.weibo.com//weibo?q=%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84&Refer=top)
 
