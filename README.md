@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-05 00:11:25
+## 微博今日热榜 更新于 2021-08-05 01:16:39
 1. [奋斗青春无悔抉择](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5%E6%97%A0%E6%82%94%E6%8A%89%E6%8B%A9%23&Refer=new_time)
 
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C&Refer=top)
@@ -106,4 +106,8 @@
 1. [于途兔系男友](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%94%E5%85%94%E7%B3%BB%E7%94%B7%E5%8F%8B%23&Refer=top)
 
 1. [狗子被车撞飞站起后咬伤路边外卖员](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E8%A2%AB%E8%BD%A6%E6%92%9E%E9%A3%9E%E7%AB%99%E8%B5%B7%E5%90%8E%E5%92%AC%E4%BC%A4%E8%B7%AF%E8%BE%B9%E5%A4%96%E5%8D%96%E5%91%98%23&Refer=top)
+
+1. [宋祖儿 两个人发展太快会胆怯](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E4%B8%A4%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95%E5%A4%AA%E5%BF%AB%E4%BC%9A%E8%83%86%E6%80%AF&Refer=top)
+
+1. [腾讯股价年内最大回撤高达45%](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%82%A1%E4%BB%B7%E5%B9%B4%E5%86%85%E6%9C%80%E5%A4%A7%E5%9B%9E%E6%92%A4%E9%AB%98%E8%BE%BE45%25%23&Refer=top)
 
