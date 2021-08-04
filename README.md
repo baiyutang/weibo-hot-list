@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-05 03:11:40
+## 微博今日热榜 更新于 2021-08-05 04:10:17
 1. [奋斗青春无悔抉择](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5%E6%97%A0%E6%82%94%E6%8A%89%E6%8B%A9%23&Refer=new_time)
 
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C&Refer=top)
@@ -120,4 +120,6 @@
 1. [秦皇岛17岁男生因救3个姑娘牺牲](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B17%E5%B2%81%E7%94%B7%E7%94%9F%E5%9B%A0%E6%95%913%E4%B8%AA%E5%A7%91%E5%A8%98%E7%89%BA%E7%89%B2%23&Refer=top)
 
 1. [你是我的荣耀花絮](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [东京奥运会马术比赛场地](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%A9%AC%E6%9C%AF%E6%AF%94%E8%B5%9B%E5%9C%BA%E5%9C%B0%23&Refer=top)
 
