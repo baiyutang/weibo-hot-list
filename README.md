@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-04 09:50:22
+## 微博今日热榜 更新于 2021-08-04 10:20:02
 1. [我国数字经济规模达5.4万亿美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E8%A7%84%E6%A8%A1%E8%BE%BE5.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=new_time)
 
 1. [新发现中药连花清瘟对德尔塔病毒有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%AD%E8%8D%AF%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%23&Refer=top)
@@ -206,4 +206,16 @@
 1. [南京累计报告本土确诊病例223例](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B223%E4%BE%8B%23&Refer=top)
 
 1. [戴小雨可以托付的人到底是谁](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B0%8F%E9%9B%A8%E5%8F%AF%E4%BB%A5%E6%89%98%E4%BB%98%E7%9A%84%E4%BA%BA%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&Refer=top)
+
+1. [妈妈筹钱支持儿子奥运滑板梦](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E7%AD%B9%E9%92%B1%E6%94%AF%E6%8C%81%E5%84%BF%E5%AD%90%E5%A5%A5%E8%BF%90%E6%BB%91%E6%9D%BF%E6%A2%A6%23&Refer=top)
+
+1. [创投大佬称投资游戏是害下一代](https://s.weibo.com//weibo?q=%23%E5%88%9B%E6%8A%95%E5%A4%A7%E4%BD%AC%E7%A7%B0%E6%8A%95%E8%B5%84%E6%B8%B8%E6%88%8F%E6%98%AF%E5%AE%B3%E4%B8%8B%E4%B8%80%E4%BB%A3%23&Refer=top)
+
+1. [澳运动员离开奥运村前疯狂破坏房间](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E8%BF%90%E5%8A%A8%E5%91%98%E7%A6%BB%E5%BC%80%E5%A5%A5%E8%BF%90%E6%9D%91%E5%89%8D%E7%96%AF%E7%8B%82%E7%A0%B4%E5%9D%8F%E6%88%BF%E9%97%B4%23&Refer=top)
+
+1. [北京疫情](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85&Refer=top)
+
+1. [中国奥运赛场的隔空致敬](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%9A%84%E9%9A%94%E7%A9%BA%E8%87%B4%E6%95%AC%23&Refer=top)
+
+1. [陈梦VS索尔佳](https://s.weibo.com//weibo?q=%E9%99%88%E6%A2%A6VS%E7%B4%A2%E5%B0%94%E4%BD%B3&Refer=top)
 
