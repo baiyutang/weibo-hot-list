@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-04 08:18:19
+## 微博今日热榜 更新于 2021-08-04 09:50:22
 1. [我国数字经济规模达5.4万亿美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E8%A7%84%E6%A8%A1%E8%BE%BE5.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=new_time)
 
 1. [新发现中药连花清瘟对德尔塔病毒有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%AD%E8%8D%AF%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%23&Refer=top)
@@ -148,4 +148,62 @@
 1. [中国健儿防疫意识有多强](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E9%98%B2%E7%96%AB%E6%84%8F%E8%AF%86%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
 
 1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
+
+1. [中国乒乓球女团VS德国女团](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2VS%E5%BE%B7%E5%9B%BD%E5%A5%B3%E5%9B%A2%23&Refer=top)
+
+1. [南京疫情](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [北大教授建议推行10年制义务教育](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E6%8E%A8%E8%A1%8C10%E5%B9%B4%E5%88%B6%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%23&Refer=top)
+
+1. [大叔疫情期与失散56年亲人隔屏相认](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%8F%94%E7%96%AB%E6%83%85%E6%9C%9F%E4%B8%8E%E5%A4%B1%E6%95%A356%E5%B9%B4%E4%BA%B2%E4%BA%BA%E9%9A%94%E5%B1%8F%E7%9B%B8%E8%AE%A4%23&Refer=top)
+
+1. [中国女篮VS塞尔维亚女篮](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEVS%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E7%AF%AE%23&Refer=top)
+
+1. [武汉疫情](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [湖南新增15例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E6%96%B0%E5%A2%9E15%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [归化选手郑妮娜力出战七项全能](https://s.weibo.com//weibo?q=%23%E5%BD%92%E5%8C%96%E9%80%89%E6%89%8B%E9%83%91%E5%A6%AE%E5%A8%9C%E5%8A%9B%E5%87%BA%E6%88%98%E4%B8%83%E9%A1%B9%E5%85%A8%E8%83%BD%23&Refer=top)
+
+1. [援郑返粤被骂志愿者回应](https://s.weibo.com//weibo?q=%23%E6%8F%B4%E9%83%91%E8%BF%94%E7%B2%A4%E8%A2%AB%E9%AA%82%E5%BF%97%E6%84%BF%E8%80%85%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [迪丽热巴对乔晶晶说宝你还有我](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AF%B9%E4%B9%94%E6%99%B6%E6%99%B6%E8%AF%B4%E5%AE%9D%E4%BD%A0%E8%BF%98%E6%9C%89%E6%88%91%23&Refer=top)
+
+1. [8月4日东京奥运会看点](https://s.weibo.com//weibo?q=%238%E6%9C%884%E6%97%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%9C%8B%E7%82%B9%23&Refer=top)
+
+1. [烟台疫情](https://s.weibo.com//weibo?q=%E7%83%9F%E5%8F%B0%E7%96%AB%E6%83%85&Refer=top)
+
+1. [江苏新增35例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E35%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [扬州新增32例本土确诊病例](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E6%96%B0%E5%A2%9E32%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [管晨辰说最想要的礼物是保温杯](https://s.weibo.com//weibo?q=%23%E7%AE%A1%E6%99%A8%E8%BE%B0%E8%AF%B4%E6%9C%80%E6%83%B3%E8%A6%81%E7%9A%84%E7%A4%BC%E7%89%A9%E6%98%AF%E4%BF%9D%E6%B8%A9%E6%9D%AF%23&Refer=top)
+
+1. [两岁萌娃爱打乒乓球偶像是马龙](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B2%81%E8%90%8C%E5%A8%83%E7%88%B1%E6%89%93%E4%B9%92%E4%B9%93%E7%90%83%E5%81%B6%E5%83%8F%E6%98%AF%E9%A9%AC%E9%BE%99%23&Refer=top)
+
+1. [明日5一公录制路透](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%97%A55%E4%B8%80%E5%85%AC%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [汪小菲力挺小S](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E5%8A%9B%E6%8C%BA%E5%B0%8FS%23&Refer=top)
+
+1. [安东尼加盟湖人](https://s.weibo.com//weibo?q=%23%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%8A%A0%E7%9B%9F%E6%B9%96%E4%BA%BA%23&Refer=top)
+
+1. [郑州新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [扬州疫情](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [武汉新增9例本土确诊](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%96%B0%E5%A2%9E9%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [31省区市新增71例本土确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E71%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [南京新增3例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [辉瑞和莫德纳新冠疫苗趁势对欧盟涨价](https://s.weibo.com//weibo?q=%23%E8%BE%89%E7%91%9E%E5%92%8C%E8%8E%AB%E5%BE%B7%E7%BA%B3%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%81%E5%8A%BF%E5%AF%B9%E6%AC%A7%E7%9B%9F%E6%B6%A8%E4%BB%B7%23&Refer=top)
+
+1. [张思帆吃鸡式防护](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%80%9D%E5%B8%86%E5%90%83%E9%B8%A1%E5%BC%8F%E9%98%B2%E6%8A%A4%23&Refer=top)
+
+1. [武汉本轮疫情与江苏病例毒株高度同源](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E4%B8%8E%E6%B1%9F%E8%8B%8F%E7%97%85%E4%BE%8B%E6%AF%92%E6%A0%AA%E9%AB%98%E5%BA%A6%E5%90%8C%E6%BA%90%23&Refer=top)
+
+1. [南京累计报告本土确诊病例223例](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B223%E4%BE%8B%23&Refer=top)
+
+1. [戴小雨可以托付的人到底是谁](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B0%8F%E9%9B%A8%E5%8F%AF%E4%BB%A5%E6%89%98%E4%BB%98%E7%9A%84%E4%BA%BA%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&Refer=top)
 
