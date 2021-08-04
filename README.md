@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-05 01:16:39
+## 微博今日热榜 更新于 2021-08-05 02:08:36
 1. [奋斗青春无悔抉择](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5%E6%97%A0%E6%82%94%E6%8A%89%E6%8B%A9%23&Refer=new_time)
 
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C&Refer=top)
@@ -110,4 +110,8 @@
 1. [宋祖儿 两个人发展太快会胆怯](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E4%B8%A4%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95%E5%A4%AA%E5%BF%AB%E4%BC%9A%E8%83%86%E6%80%AF&Refer=top)
 
 1. [腾讯股价年内最大回撤高达45%](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%82%A1%E4%BB%B7%E5%B9%B4%E5%86%85%E6%9C%80%E5%A4%A7%E5%9B%9E%E6%92%A4%E9%AB%98%E8%BE%BE45%25%23&Refer=top)
+
+1. [两部门发文推进适龄人群接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E6%8E%A8%E8%BF%9B%E9%80%82%E9%BE%84%E4%BA%BA%E7%BE%A4%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
+
+1. [深圳康泰生物成功分离德尔塔变异株](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%BA%B7%E6%B3%B0%E7%94%9F%E7%89%A9%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
 
