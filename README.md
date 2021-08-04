@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-04 07:03:45
+## 微博今日热榜 更新于 2021-08-04 08:18:19
 1. [我国数字经济规模达5.4万亿美元](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E8%A7%84%E6%A8%A1%E8%BE%BE5.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=new_time)
 
 1. [新发现中药连花清瘟对德尔塔病毒有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%AD%E8%8D%AF%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%23&Refer=top)
@@ -128,4 +128,24 @@
 1. [黄仁俊和肖俊的永不失联的爱](https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%BB%81%E4%BF%8A%E5%92%8C%E8%82%96%E4%BF%8A%E7%9A%84%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E7%9A%84%E7%88%B1%23&Refer=top)
 
 1. [姚琛吃火锅偶遇赵让](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E5%90%83%E7%81%AB%E9%94%85%E5%81%B6%E9%81%87%E8%B5%B5%E8%AE%A9%23&Refer=top)
+
+1. [井柏然方报警](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E6%96%B9%E6%8A%A5%E8%AD%A6%23&Refer=top)
+
+1. [男子发现小孩野泳当场赶上岸](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%B0%8F%E5%AD%A9%E9%87%8E%E6%B3%B3%E5%BD%93%E5%9C%BA%E8%B5%B6%E4%B8%8A%E5%B2%B8%23&Refer=top)
+
+1. [张家界多名公职人员防疫不力被追责](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%9A%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E8%BF%BD%E8%B4%A3%23&Refer=top)
+
+1. [美国五角大楼附近发生枪击](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%23&Refer=top)
+
+1. [辛鑫获得女子10公里马拉松游泳第8名](https://s.weibo.com//weibo?q=%23%E8%BE%9B%E9%91%AB%E8%8E%B7%E5%BE%97%E5%A5%B3%E5%AD%9010%E5%85%AC%E9%87%8C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%B3%B3%E7%AC%AC8%E5%90%8D%23&Refer=top)
+
+1. [湖南张家界新增3例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [官方通报一交警称罚一次管三个月](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E4%BA%A4%E8%AD%A6%E7%A7%B0%E7%BD%9A%E4%B8%80%E6%AC%A1%E7%AE%A1%E4%B8%89%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [蒲熠星文韬火树三秒答题](https://s.weibo.com//weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E6%96%87%E9%9F%AC%E7%81%AB%E6%A0%91%E4%B8%89%E7%A7%92%E7%AD%94%E9%A2%98%23&Refer=top)
+
+1. [中国健儿防疫意识有多强](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E9%98%B2%E7%96%AB%E6%84%8F%E8%AF%86%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
 
