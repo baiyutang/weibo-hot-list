@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-05 02:08:36
+## 微博今日热榜 更新于 2021-08-05 03:11:40
 1. [奋斗青春无悔抉择](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5%E6%97%A0%E6%82%94%E6%8A%89%E6%8B%A9%23&Refer=new_time)
 
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C&Refer=top)
@@ -114,4 +114,10 @@
 1. [两部门发文推进适龄人群接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E6%8E%A8%E8%BF%9B%E9%80%82%E9%BE%84%E4%BA%BA%E7%BE%A4%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [深圳康泰生物成功分离德尔塔变异株](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%BA%B7%E6%B3%B0%E7%94%9F%E7%89%A9%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
+
+1. [杨紫答应的自拍来了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%AD%94%E5%BA%94%E7%9A%84%E8%87%AA%E6%8B%8D%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [秦皇岛17岁男生因救3个姑娘牺牲](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B17%E5%B2%81%E7%94%B7%E7%94%9F%E5%9B%A0%E6%95%913%E4%B8%AA%E5%A7%91%E5%A8%98%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [你是我的荣耀花絮](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E8%8A%B1%E7%B5%AE%23&Refer=top)
 
