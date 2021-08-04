@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-05 06:08:33
+## 微博今日热榜 更新于 2021-08-05 07:03:32
 1. [奋斗青春无悔抉择](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5%E6%97%A0%E6%82%94%E6%8A%89%E6%8B%A9%23&Refer=new_time)
 
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C&Refer=top)
@@ -124,4 +124,8 @@
 1. [东京奥运会马术比赛场地](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%A9%AC%E6%9C%AF%E6%AF%94%E8%B5%9B%E5%9C%BA%E5%9C%B0%23&Refer=top)
 
 1. [Rihanna成全球最富有女歌手](https://s.weibo.com//weibo?q=%23Rihanna%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%89%E5%A5%B3%E6%AD%8C%E6%89%8B%23&Refer=top)
+
+1. [明星报警维权会成为趋势吗](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E6%8A%A5%E8%AD%A6%E7%BB%B4%E6%9D%83%E4%BC%9A%E6%88%90%E4%B8%BA%E8%B6%8B%E5%8A%BF%E5%90%97%23&Refer=top)
+
+1. [乔晶晶问难道把我删了吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%99%B6%E6%99%B6%E9%97%AE%E9%9A%BE%E9%81%93%E6%8A%8A%E6%88%91%E5%88%A0%E4%BA%86%E5%90%97%23&Refer=top)
 
