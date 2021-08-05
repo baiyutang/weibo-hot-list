@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-06 06:04:02
+## 微博今日热榜 更新于 2021-08-06 07:03:38
 1. [传承红色精神](https://s.weibo.com//weibo?q=%23%E4%BC%A0%E6%89%BF%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [福原爱谈自己对中国的感情](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%B0%88%E8%87%AA%E5%B7%B1%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%9F%E6%83%85%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [刘敏涛宋丹丹祖传人间清醒](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%95%8F%E6%B6%9B%E5%AE%8B%E4%B8%B9%E4%B8%B9%E7%A5%96%E4%BC%A0%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%23&Refer=top)
 
 1. [教练说全红婵在国家队外号叫红姐](https://s.weibo.com//weibo?q=%23%E6%95%99%E7%BB%83%E8%AF%B4%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%A4%96%E5%8F%B7%E5%8F%AB%E7%BA%A2%E5%A7%90%23&Refer=top)
+
+1. [张继科手把手教雪梨打球](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E9%9B%AA%E6%A2%A8%E6%89%93%E7%90%83%23&Refer=top)
+
+1. [王一博少年成长记录](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B0%91%E5%B9%B4%E6%88%90%E9%95%BF%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [梅西离开巴萨](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%A5%BF%E7%A6%BB%E5%BC%80%E5%B7%B4%E8%90%A8%23&Refer=top)
 
