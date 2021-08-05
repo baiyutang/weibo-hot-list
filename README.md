@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-06 03:08:36
+## 微博今日热榜 更新于 2021-08-06 04:04:38
 1. [传承红色精神](https://s.weibo.com//weibo?q=%23%E4%BC%A0%E6%89%BF%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [福原爱谈自己对中国的感情](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%B0%88%E8%87%AA%E5%B7%B1%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%9F%E6%83%85%23&Refer=top)
@@ -112,4 +112,10 @@
 1. [马卡巴卡好虐](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%8D%A1%E5%B7%B4%E5%8D%A1%E5%A5%BD%E8%99%90%23&Refer=top)
 
 1. [爆裂舞台](https://s.weibo.com//weibo?q=%E7%88%86%E8%A3%82%E8%88%9E%E5%8F%B0&Refer=top)
+
+1. [张杰说林以恒是新晋00后颜值担当](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AF%B4%E6%9E%97%E4%BB%A5%E6%81%92%E6%98%AF%E6%96%B0%E6%99%8B00%E5%90%8E%E9%A2%9C%E5%80%BC%E6%8B%85%E5%BD%93%23&Refer=top)
+
+1. [梁靖康要请全红婵吃辣条](https://s.weibo.com//weibo?q=%23%E6%A2%81%E9%9D%96%E5%BA%B7%E8%A6%81%E8%AF%B7%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%83%E8%BE%A3%E6%9D%A1%23&Refer=top)
+
+1. [二哈与他的白猫师尊定档](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%93%88%E4%B8%8E%E4%BB%96%E7%9A%84%E7%99%BD%E7%8C%AB%E5%B8%88%E5%B0%8A%E5%AE%9A%E6%A1%A3%23&Refer=top)
 
