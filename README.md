@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-06 01:15:39
+## 微博今日热榜 更新于 2021-08-06 02:06:40
 1. [传承红色精神](https://s.weibo.com//weibo?q=%23%E4%BC%A0%E6%89%BF%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [福原爱谈自己对中国的感情](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%B0%88%E8%87%AA%E5%B7%B1%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%9F%E6%83%85%23&Refer=top)
