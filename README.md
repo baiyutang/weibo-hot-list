@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-05 12:09:34
+## 微博今日热榜 更新于 2021-08-05 13:03:43
 1. [奋斗青春无悔抉择](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E9%9D%92%E6%98%A5%E6%97%A0%E6%82%94%E6%8A%89%E6%8B%A9%23&Refer=new_time)
 
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C&Refer=top)
@@ -298,4 +298,42 @@
 1. [全国有5个高风险154个中风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%895%E4%B8%AA%E9%AB%98%E9%A3%8E%E9%99%A9154%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
 
 1. [国乒队对时间把控有多精确](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%92%E9%98%9F%E5%AF%B9%E6%97%B6%E9%97%B4%E6%8A%8A%E6%8E%A7%E6%9C%89%E5%A4%9A%E7%B2%BE%E7%A1%AE%23&Refer=top)
+
+1. [福原爱解说每天100万日元](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A7%A3%E8%AF%B4%E6%AF%8F%E5%A4%A9100%E4%B8%87%E6%97%A5%E5%85%83%23&Refer=top)
+
+1. [美国金牌](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E9%87%91%E7%89%8C&Refer=top)
+
+1. [中国香港队获得乒乓球女团铜牌](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E9%98%9F%E8%8E%B7%E5%BE%97%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E9%93%9C%E7%89%8C%23&Refer=top)
+
+1. [吴尊身材](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E8%BA%AB%E6%9D%90%23&Refer=top)
+
+1. [呼伦贝尔报告1例本土确诊](https://s.weibo.com//weibo?q=%23%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E6%8A%A5%E5%91%8A1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [刘翔唱歌也太好听了吧](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%BF%94%E5%94%B1%E6%AD%8C%E4%B9%9F%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%E5%90%A7%23&Refer=top)
+
+1. [扬州慢性病患者取药量可延长至3个月](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E6%85%A2%E6%80%A7%E7%97%85%E6%82%A3%E8%80%85%E5%8F%96%E8%8D%AF%E9%87%8F%E5%8F%AF%E5%BB%B6%E9%95%BF%E8%87%B33%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [郑州10地调为中风险](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E10%E5%9C%B0%E8%B0%83%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [色觉障碍人群眼中的奥运会](https://s.weibo.com//weibo?q=%23%E8%89%B2%E8%A7%89%E9%9A%9C%E7%A2%8D%E4%BA%BA%E7%BE%A4%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
+
+1. [林彦俊新歌休息之道上线](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E6%96%B0%E6%AD%8C%E4%BC%91%E6%81%AF%E4%B9%8B%E9%81%93%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [奖牌榜](https://s.weibo.com//weibo?q=%E5%A5%96%E7%89%8C%E6%A6%9C&Refer=top)
+
+1. [被英语提问的国乒队](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%8B%B1%E8%AF%AD%E6%8F%90%E9%97%AE%E7%9A%84%E5%9B%BD%E4%B9%92%E9%98%9F%23&Refer=top)
+
+1. [听障女画师为奥运冠军手绘漫画像](https://s.weibo.com//weibo?q=%23%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%BB%E5%B8%88%E4%B8%BA%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E6%89%8B%E7%BB%98%E6%BC%AB%E7%94%BB%E5%83%8F%23&Refer=top)
+
+1. [中国领先加拿大千分之2秒](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%83%E5%88%86%E4%B9%8B2%E7%A7%92%23&Refer=top)
+
+1. [苏炳添谢震业太好笑了](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [奥运会滑板比赛好帅](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%BB%91%E6%9D%BF%E6%AF%94%E8%B5%9B%E5%A5%BD%E5%B8%85&Refer=top)
+
+1. [张家齐通过看帅哥来缓解压力](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E9%80%9A%E8%BF%87%E7%9C%8B%E5%B8%85%E5%93%A5%E6%9D%A5%E7%BC%93%E8%A7%A3%E5%8E%8B%E5%8A%9B%23&Refer=top)
+
+1. [湛江妹子全红婵的励志成长之路](https://s.weibo.com//weibo?q=%E6%B9%9B%E6%B1%9F%E5%A6%B9%E5%AD%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E5%8A%B1%E5%BF%97%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF&Refer=top)
+
+1. [王源明日召集人官宣](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%8E%E6%97%A5%E5%8F%AC%E9%9B%86%E4%BA%BA%E5%AE%98%E5%AE%A3%23&Refer=top)
 
