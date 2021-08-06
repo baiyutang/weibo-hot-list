@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-06 07:03:38
+## 微博今日热榜 更新于 2021-08-06 08:16:08
 1. [传承红色精神](https://s.weibo.com//weibo?q=%23%E4%BC%A0%E6%89%BF%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [福原爱谈自己对中国的感情](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%B0%88%E8%87%AA%E5%B7%B1%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%9F%E6%83%85%23&Refer=top)
@@ -128,4 +128,42 @@
 1. [王一博少年成长记录](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B0%91%E5%B9%B4%E6%88%90%E9%95%BF%E8%AE%B0%E5%BD%95%23&Refer=top)
 
 1. [梅西离开巴萨](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%A5%BF%E7%A6%BB%E5%BC%80%E5%B7%B4%E8%90%A8%23&Refer=top)
+
+1. [张怡宁辟谣大会](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%80%A1%E5%AE%81%E8%BE%9F%E8%B0%A3%E5%A4%A7%E4%BC%9A%23&Refer=top)
+
+1. [全红婵没去过动物园和游乐园](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%B2%A1%E5%8E%BB%E8%BF%87%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%92%8C%E6%B8%B8%E4%B9%90%E5%9B%AD%23&Refer=top)
+
+1. [我国成功发射中星2E卫星](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%AD%E6%98%9F2E%E5%8D%AB%E6%98%9F%23&Refer=top)
+
+1. [湖南张家界新增5例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [巴萨解释不续约梅西原因](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%90%A8%E8%A7%A3%E9%87%8A%E4%B8%8D%E7%BB%AD%E7%BA%A6%E6%A2%85%E8%A5%BF%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [王文娟去世](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%96%87%E5%A8%9F%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [TFBOYS组合出道八周年](https://s.weibo.com//weibo?q=%23TFBOYS%E7%BB%84%E5%90%88%E5%87%BA%E9%81%93%E5%85%AB%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [我的青春结束了](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E6%9D%9F%E4%BA%86&Refer=top)
+
+1. [乒乓球男团决赛](https://s.weibo.com//weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [施柏宇陈昊宇体型差好萌](https://s.weibo.com//weibo?q=%23%E6%96%BD%E6%9F%8F%E5%AE%87%E9%99%88%E6%98%8A%E5%AE%87%E4%BD%93%E5%9E%8B%E5%B7%AE%E5%A5%BD%E8%90%8C%23&Refer=top)
+
+1. [蚌埠上百人斑马线上跳广场舞](https://s.weibo.com//weibo?q=%23%E8%9A%8C%E5%9F%A0%E4%B8%8A%E7%99%BE%E4%BA%BA%E6%96%91%E9%A9%AC%E7%BA%BF%E4%B8%8A%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E%23&Refer=top)
+
+1. [罗西宣布赛季结束退役](https://s.weibo.com//weibo?q=%E7%BD%97%E8%A5%BF%E5%AE%A3%E5%B8%83%E8%B5%9B%E5%AD%A3%E7%BB%93%E6%9D%9F%E9%80%80%E5%BD%B9&Refer=top)
+
+1. [未来可期的中国00后健儿](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%E5%81%A5%E5%84%BF%23&Refer=top)
+
+1. [全季酒店男子夜半赤身闯入顾客房间](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%AD%A3%E9%85%92%E5%BA%97%E7%94%B7%E5%AD%90%E5%A4%9C%E5%8D%8A%E8%B5%A4%E8%BA%AB%E9%97%AF%E5%85%A5%E9%A1%BE%E5%AE%A2%E6%88%BF%E9%97%B4%23&Refer=top)
+
+1. [8月6日东京奥运看点](https://s.weibo.com//weibo?q=%238%E6%9C%886%E6%97%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E7%9C%8B%E7%82%B9%23&Refer=top)
+
+1. [男子50公里竞走](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%9050%E5%85%AC%E9%87%8C%E7%AB%9E%E8%B5%B0%23&Refer=top)
+
+1. [巴萨官方视频致敬梅西](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%90%A8%E5%AE%98%E6%96%B9%E8%A7%86%E9%A2%91%E8%87%B4%E6%95%AC%E6%A2%85%E8%A5%BF&Refer=top)
+
+1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
+
+1. [深圳天气](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23&Refer=top)
 
