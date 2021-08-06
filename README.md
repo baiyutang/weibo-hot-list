@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-07 06:03:28
+## 微博今日热榜 更新于 2021-08-07 07:03:39
 1. [确保重要民生商品保供稳价](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E4%BF%9D%E9%87%8D%E8%A6%81%E6%B0%91%E7%94%9F%E5%95%86%E5%93%81%E4%BF%9D%E4%BE%9B%E7%A8%B3%E4%BB%B7%23&Refer=new_time)
 
 1. [奥运冠军终身免费玩欢乐谷](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%8E%A9%E6%AC%A2%E4%B9%90%E8%B0%B7%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [施柏宇陈昊宇一分钟吻戏花絮](https://s.weibo.com//weibo?q=%23%E6%96%BD%E6%9F%8F%E5%AE%87%E9%99%88%E6%98%8A%E5%AE%87%E4%B8%80%E5%88%86%E9%92%9F%E5%90%BB%E6%88%8F%E8%8A%B1%E7%B5%AE%23&Refer=top)
 
 1. [巴西女排战胜韩国晋级奥运会决赛](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E9%9F%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [立秋](https://s.weibo.com//weibo?q=%23%E7%AB%8B%E7%A7%8B%23&Refer=top)
 
