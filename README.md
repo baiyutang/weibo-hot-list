@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-08 03:02:51
+## 微博今日热榜 更新于 2021-08-08 04:04:02
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [孙颖莎3秒不睡就算失眠](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E7%A7%92%E4%B8%8D%E7%9D%A1%E5%B0%B1%E7%AE%97%E5%A4%B1%E7%9C%A0%23&Refer=top)
