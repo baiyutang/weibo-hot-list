@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-09 04:03:34
+## 微博今日热榜 更新于 2021-08-09 05:02:53
 1. [100秒100年](https://s.weibo.com//weibo?q=%23100%E7%A7%92100%E5%B9%B4%23&Refer=new_time)
 
 1. [6000名阿里人关于807事件的联合倡议](https://s.weibo.com//weibo?q=%236000%E5%90%8D%E9%98%BF%E9%87%8C%E4%BA%BA%E5%85%B3%E4%BA%8E807%E4%BA%8B%E4%BB%B6%E7%9A%84%E8%81%94%E5%90%88%E5%80%A1%E8%AE%AE%23&Refer=top)
