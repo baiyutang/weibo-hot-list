@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-08 20:06:41
+## 微博今日热榜 更新于 2021-08-08 21:10:50
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [孙颖莎3秒不睡就算失眠](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E7%A7%92%E4%B8%8D%E7%9D%A1%E5%B0%B1%E7%AE%97%E5%A4%B1%E7%9C%A0%23&Refer=top)
@@ -592,4 +592,66 @@
 1. [用2分钟回顾东京奥运会](https://s.weibo.com//weibo?q=%23%E7%94%A82%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
 
 1. [中国代表团登场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%99%BB%E5%9C%BA%23&Refer=top)
+
+1. [朱婷奥运期间睡不着觉吃不下饭](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%A9%B7%E5%A5%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E7%9D%A1%E4%B8%8D%E7%9D%80%E8%A7%89%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD%23&Refer=top)
+
+1. [吴京 收工了](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%AC%20%E6%94%B6%E5%B7%A5%E4%BA%86&Refer=top)
+
+1. [巴黎八分钟](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%85%AB%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [连听两遍肯尼亚国歌](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E5%90%AC%E4%B8%A4%E9%81%8D%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%9B%BD%E6%AD%8C%23&Refer=top)
+
+1. [闭幕式放欢乐颂](https://s.weibo.com//weibo?q=%E9%97%AD%E5%B9%95%E5%BC%8F%E6%94%BE%E6%AC%A2%E4%B9%90%E9%A2%82&Refer=top)
+
+1. [微信表情都戴医用口罩了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%A1%A8%E6%83%85%E9%83%BD%E6%88%B4%E5%8C%BB%E7%94%A8%E5%8F%A3%E7%BD%A9%E4%BA%86%23&Refer=top)
+
+1. [中共中央国务院向中国体育代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=top)
+
+1. [上海地铁16号线回应改卧铺呼吁](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%8116%E5%8F%B7%E7%BA%BF%E5%9B%9E%E5%BA%94%E6%94%B9%E5%8D%A7%E9%93%BA%E5%91%BC%E5%90%81%23&Refer=top)
+
+1. [男孩喝鲜羊奶感染布鲁氏菌病](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E5%96%9D%E9%B2%9C%E7%BE%8A%E5%A5%B6%E6%84%9F%E6%9F%93%E5%B8%83%E9%B2%81%E6%B0%8F%E8%8F%8C%E7%97%85%23&Refer=top)
+
+1. [中国人看到大场面就想拍照](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%A4%A7%E5%9C%BA%E9%9D%A2%E5%B0%B1%E6%83%B3%E6%8B%8D%E7%85%A7%23&Refer=top)
+
+1. [奥运会闭幕式响起红莲华](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E5%93%8D%E8%B5%B7%E7%BA%A2%E8%8E%B2%E5%8D%8E%23&Refer=top)
+
+1. [闭幕式舞蹈看不懂](https://s.weibo.com//weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E8%88%9E%E8%B9%88%E7%9C%8B%E4%B8%8D%E6%87%82%23&Refer=top)
+
+1. [开始期待冬奥会了](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%A7%8B%E6%9C%9F%E5%BE%85%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%BA%86%23&Refer=top)
+
+1. [糖醋排骨算凉菜吗](https://s.weibo.com//weibo?q=%23%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8%E7%AE%97%E5%87%89%E8%8F%9C%E5%90%97%23&Refer=top)
+
+1. [QG电竞精神](https://s.weibo.com//weibo?q=QG%E7%94%B5%E7%AB%9E%E7%B2%BE%E7%A5%9E&Refer=top)
+
+1. [与君歌](https://s.weibo.com//weibo?q=%E4%B8%8E%E5%90%9B%E6%AD%8C&Refer=top)
+
+1. [闭幕式像极了广场舞](https://s.weibo.com//weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E5%83%8F%E6%9E%81%E4%BA%86%E5%B9%BF%E5%9C%BA%E8%88%9E%23&Refer=top)
+
+1. [郑州新增无症状感染者转确诊40例](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E8%BD%AC%E7%A1%AE%E8%AF%8A40%E4%BE%8B%23&Refer=top)
+
+1. [我们会铭记有过这么一个夏天](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E4%BC%9A%E9%93%AD%E8%AE%B0%E6%9C%89%E8%BF%87%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E5%A4%8F%E5%A4%A9%23&Refer=top)
+
+1. [闭幕式短片里的中国运动员](https://s.weibo.com//weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E7%9F%AD%E7%89%87%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top)
+
+1. [QG对阵Hero](https://s.weibo.com//weibo?q=%23QG%E5%AF%B9%E9%98%B5Hero%23&Refer=top)
+
+1. [东京巴黎交接奥运旗帜](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%B7%B4%E9%BB%8E%E4%BA%A4%E6%8E%A5%E5%A5%A5%E8%BF%90%E6%97%97%E5%B8%9C%23&Refer=top)
+
+1. [中国军团奥运夺金水墨画](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%9B%A2%E5%A5%A5%E8%BF%90%E5%A4%BA%E9%87%91%E6%B0%B4%E5%A2%A8%E7%94%BB%23&Refer=top)
+
+1. [马拉松铜牌得主穿的是匹克](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%93%9C%E7%89%8C%E5%BE%97%E4%B8%BB%E7%A9%BF%E7%9A%84%E6%98%AF%E5%8C%B9%E5%85%8B&Refer=top)
+
+1. [李九解说](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B9%9D%E8%A7%A3%E8%AF%B4&Refer=top)
+
+1. [基普乔格眼神](https://s.weibo.com//weibo?q=%E5%9F%BA%E6%99%AE%E4%B9%94%E6%A0%BC%E7%9C%BC%E7%A5%9E&Refer=top)
+
+1. [致敬为中国拼搏的运动员们](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%8B%BC%E6%90%8F%E7%9A%84%E8%BF%90%E5%8A%A8%E5%91%98%E4%BB%AC%23&Refer=top)
+
+1. [FPX EDG](https://s.weibo.com//weibo?q=%23FPX%20EDG%23&Refer=top)
+
+1. [中国足球事业发展战略与对策研究](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%E4%B8%8E%E5%AF%B9%E7%AD%96%E7%A0%94%E7%A9%B6%23&Refer=top)
+
+1. [四川暴雨致部分列车停运](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9A%B4%E9%9B%A8%E8%87%B4%E9%83%A8%E5%88%86%E5%88%97%E8%BD%A6%E5%81%9C%E8%BF%90%23&Refer=top)
+
+1. [广西一老汉当街持斧砍人后潜逃](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E8%80%81%E6%B1%89%E5%BD%93%E8%A1%97%E6%8C%81%E6%96%A7%E7%A0%8D%E4%BA%BA%E5%90%8E%E6%BD%9C%E9%80%83%23&Refer=top)
 
