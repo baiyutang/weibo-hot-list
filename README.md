@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-08 11:03:58
+## 微博今日热榜 更新于 2021-08-08 12:04:53
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [孙颖莎3秒不睡就算失眠](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E7%A7%92%E4%B8%8D%E7%9D%A1%E5%B0%B1%E7%AE%97%E5%A4%B1%E7%9C%A0%23&Refer=top)
@@ -252,4 +252,36 @@
 1. [国风版奥运会](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%A3%8E%E7%89%88%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
 
 1. [东京奥运会上的神仙解说词](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A5%9E%E4%BB%99%E8%A7%A3%E8%AF%B4%E8%AF%8D%23&Refer=top)
+
+1. [货拉拉跳车事件司机妻子发声](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%B3%E8%BD%A6%E4%BA%8B%E4%BB%B6%E5%8F%B8%E6%9C%BA%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [33岁倪妮状态](https://s.weibo.com//weibo?q=%2333%E5%B2%81%E5%80%AA%E5%A6%AE%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [扬州11个病例去过同一个核酸检测点](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E11%E4%B8%AA%E7%97%85%E4%BE%8B%E5%8E%BB%E8%BF%87%E5%90%8C%E4%B8%80%E4%B8%AA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%82%B9%23&Refer=top)
+
+1. [中国艺体演绎敦煌飞天](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%89%BA%E4%BD%93%E6%BC%94%E7%BB%8E%E6%95%A6%E7%85%8C%E9%A3%9E%E5%A4%A9%23&Refer=top)
+
+1. [美国女篮vs日本女篮](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23&Refer=top)
+
+1. [奥恰洛夫为了战胜马龙有多努力](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E6%81%B0%E6%B4%9B%E5%A4%AB%E4%B8%BA%E4%BA%86%E6%88%98%E8%83%9C%E9%A9%AC%E9%BE%99%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top)
+
+1. [34岁研究生菜市场摆摊卖鸡爪](https://s.weibo.com//weibo?q=%2334%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%91%86%E6%91%8A%E5%8D%96%E9%B8%A1%E7%88%AA%23&Refer=top)
+
+1. [印度得东京奥运第一枚金牌全国沸腾](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%BE%97%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E6%9E%9A%E9%87%91%E7%89%8C%E5%85%A8%E5%9B%BD%E6%B2%B8%E8%85%BE%23&Refer=top)
+
+1. [宋威龙15岁海边照好帅](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%9915%E5%B2%81%E6%B5%B7%E8%BE%B9%E7%85%A7%E5%A5%BD%E5%B8%85%23&Refer=top)
+
+1. [南京新增2例确诊均在集中隔离点发现](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A1%AE%E8%AF%8A%E5%9D%87%E5%9C%A8%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E7%82%B9%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [沈阳疫情](https://s.weibo.com//weibo?q=%E6%B2%88%E9%98%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [邹凯周捷夫妇迎二胎](https://s.weibo.com//weibo?q=%23%E9%82%B9%E5%87%AF%E5%91%A8%E6%8D%B7%E5%A4%AB%E5%A6%87%E8%BF%8E%E4%BA%8C%E8%83%8E%23&Refer=top)
+
+1. [雪中悍刀行动画预告](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%8A%A8%E7%94%BB%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [张杰特别企划原声旁白](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%8E%9F%E5%A3%B0%E6%97%81%E7%99%BD%23&Refer=top)
+
+1. [诛仙动画首支pv](https://s.weibo.com//weibo?q=%23%E8%AF%9B%E4%BB%99%E5%8A%A8%E7%94%BB%E9%A6%96%E6%94%AFpv%23&Refer=top)
+
+1. [许昕不仅是喜剧人](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E4%B8%8D%E4%BB%85%E6%98%AF%E5%96%9C%E5%89%A7%E4%BA%BA%23&Refer=top)
 
