@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-09 01:10:37
+## 微博今日热榜 更新于 2021-08-09 02:04:03
 1. [100秒100年](https://s.weibo.com//weibo?q=%23100%E7%A7%92100%E5%B9%B4%23&Refer=new_time)
 
 1. [6000名阿里人关于807事件的联合倡议](https://s.weibo.com//weibo?q=%236000%E5%90%8D%E9%98%BF%E9%87%8C%E4%BA%BA%E5%85%B3%E4%BA%8E807%E4%BA%8B%E4%BB%B6%E7%9A%84%E8%81%94%E5%90%88%E5%80%A1%E8%AE%AE%23&Refer=top)
@@ -108,4 +108,6 @@
 1. [四川渠县暴雨路人险被冲走](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B8%A0%E5%8E%BF%E6%9A%B4%E9%9B%A8%E8%B7%AF%E4%BA%BA%E9%99%A9%E8%A2%AB%E5%86%B2%E8%B5%B0%23&Refer=top)
 
 1. [云南北移亚洲象群平安回归栖息地](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%8C%97%E7%A7%BB%E4%BA%9A%E6%B4%B2%E8%B1%A1%E7%BE%A4%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%BD%92%E6%A0%96%E6%81%AF%E5%9C%B0%23&Refer=top)
+
+1. [五部委发文规范信用评级](https://s.weibo.com//weibo?q=%23%E4%BA%94%E9%83%A8%E5%A7%94%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7%23&Refer=new_time)
 
