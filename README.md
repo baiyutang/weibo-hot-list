@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-08 09:46:51
+## 微博今日热榜 更新于 2021-08-08 10:15:48
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [孙颖莎3秒不睡就算失眠](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E7%A7%92%E4%B8%8D%E7%9D%A1%E5%B0%B1%E7%AE%97%E5%A4%B1%E7%9C%A0%23&Refer=top)
@@ -216,4 +216,20 @@
 1. [父亲做核酸检测巧遇驰援的儿子](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B7%A7%E9%81%87%E9%A9%B0%E6%8F%B4%E7%9A%84%E5%84%BF%E5%AD%90%23&Refer=top)
 
 1. [男子马拉松决赛](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [韩国男运动员获奖牌免兵役](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E8%BF%90%E5%8A%A8%E5%91%98%E8%8E%B7%E5%A5%96%E7%89%8C%E5%85%8D%E5%85%B5%E5%BD%B9%23&Refer=top)
+
+1. [张国伟只会说对对对的捧哏](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%9B%BD%E4%BC%9F%E5%8F%AA%E4%BC%9A%E8%AF%B4%E5%AF%B9%E5%AF%B9%E5%AF%B9%E7%9A%84%E6%8D%A7%E5%93%8F%23&Refer=top)
+
+1. [李荣浩为灵超放弃投票](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%BA%E7%81%B5%E8%B6%85%E6%94%BE%E5%BC%83%E6%8A%95%E7%A5%A8%23&Refer=top)
+
+1. [东京奥运中国军团破纪录图鉴](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%9B%A2%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [起底德堡惊人黑幕](https://s.weibo.com//weibo?q=%23%E8%B5%B7%E5%BA%95%E5%BE%B7%E5%A0%A1%E6%83%8A%E4%BA%BA%E9%BB%91%E5%B9%95%23&Refer=top)
+
+1. [开封7地调整为高风险](https://s.weibo.com//weibo?q=%E5%BC%80%E5%B0%817%E5%9C%B0%E8%B0%83%E6%95%B4%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9&Refer=top)
+
+1. [安徽含山通报粗暴执法事件](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E5%90%AB%E5%B1%B1%E9%80%9A%E6%8A%A5%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [北京奥运会yyds](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9Ayyds&Refer=top)
 
