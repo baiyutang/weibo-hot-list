@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-08 08:16:58
+## 微博今日热榜 更新于 2021-08-08 09:46:51
 1. [走进乡村看小康](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E4%B9%A1%E6%9D%91%E7%9C%8B%E5%B0%8F%E5%BA%B7%23&Refer=new_time)
 
 1. [孙颖莎3秒不睡就算失眠](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E7%A7%92%E4%B8%8D%E7%9D%A1%E5%B0%B1%E7%AE%97%E5%A4%B1%E7%9C%A0%23&Refer=top)
@@ -170,4 +170,50 @@
 1. [宋昕冉舞台一键换装](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%98%95%E5%86%89%E8%88%9E%E5%8F%B0%E4%B8%80%E9%94%AE%E6%8D%A2%E8%A3%85%23&Refer=top)
 
 1. [北京奥运13年了](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%9013%E5%B9%B4%E4%BA%86%23&Refer=top)
+
+1. [美国总统拜登下令空袭塔利班](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A1%94%E5%88%A9%E7%8F%AD%23&Refer=top)
+
+1. [夫妻二人隐瞒扬州行程被罚](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BA%8C%E4%BA%BA%E9%9A%90%E7%9E%92%E6%89%AC%E5%B7%9E%E8%A1%8C%E7%A8%8B%E8%A2%AB%E7%BD%9A%23&Refer=top)
+
+1. [俄罗斯跳高冠军太优雅了](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%B7%B3%E9%AB%98%E5%86%A0%E5%86%9B%E5%A4%AA%E4%BC%98%E9%9B%85%E4%BA%86%23&Refer=top)
+
+1. [欧尼熊妈妈](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E5%B0%BC%E7%86%8A%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [河南新增24例本土确诊](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E24%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [佟丽娅38岁状态](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%8538%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [德尔塔重新定义密接者](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B0%94%E5%A1%94%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E5%AF%86%E6%8E%A5%E8%80%85%23&Refer=top)
+
+1. [蔡徐坤胡渣自拍](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%83%A1%E6%B8%A3%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [江苏新增38例本土确诊病例](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E38%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [Lisa晒BLACKPINK合照庆出道五周年](https://s.weibo.com//weibo?q=%23Lisa%E6%99%92BLACKPINK%E5%90%88%E7%85%A7%E5%BA%86%E5%87%BA%E9%81%93%E4%BA%94%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [网传武汉江夏阳性86个系谣言](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E6%AD%A6%E6%B1%89%E6%B1%9F%E5%A4%8F%E9%98%B3%E6%80%A786%E4%B8%AA%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top)
+
+1. [我的工作做得就像中国跳水队员](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%81%9A%E5%BE%97%E5%B0%B1%E5%83%8F%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F%E5%91%98%23&Refer=top)
+
+1. [德尔塔与之前病毒株有哪些区别](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B0%94%E5%A1%94%E4%B8%8E%E4%B9%8B%E5%89%8D%E7%97%85%E6%AF%92%E6%A0%AA%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [熊敦瀚愿意为水球放弃美貌](https://s.weibo.com//weibo?q=%23%E7%86%8A%E6%95%A6%E7%80%9A%E6%84%BF%E6%84%8F%E4%B8%BA%E6%B0%B4%E7%90%83%E6%94%BE%E5%BC%83%E7%BE%8E%E8%B2%8C%23&Refer=top)
+
+1. [杨绍辉创奥运会中国马拉松最佳排名](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%BB%8D%E8%BE%89%E5%88%9B%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%9C%80%E4%BD%B3%E6%8E%92%E5%90%8D%23&Refer=top)
+
+1. [没想到国乒还能助眠](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%9B%BD%E4%B9%92%E8%BF%98%E8%83%BD%E5%8A%A9%E7%9C%A0%23&Refer=top)
+
+1. [袁一琦第二](https://s.weibo.com//weibo?q=%23%E8%A2%81%E4%B8%80%E7%90%A6%E7%AC%AC%E4%BA%8C%23&Refer=top)
+
+1. [31省区市新增81例本土确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E81%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
+
+1. [美国制造业缺人或致6.5万亿元损失](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E7%BC%BA%E4%BA%BA%E6%88%96%E8%87%B46.5%E4%B8%87%E4%BA%BF%E5%85%83%E6%8D%9F%E5%A4%B1%23&Refer=top)
+
+1. [张勇阿里内网回应女员工被侵害](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E9%98%BF%E9%87%8C%E5%86%85%E7%BD%91%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%91%98%E5%B7%A5%E8%A2%AB%E4%BE%B5%E5%AE%B3%23&Refer=top)
+
+1. [父亲做核酸检测巧遇驰援的儿子](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B7%A7%E9%81%87%E9%A9%B0%E6%8F%B4%E7%9A%84%E5%84%BF%E5%AD%90%23&Refer=top)
+
+1. [男子马拉松决赛](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%86%B3%E8%B5%9B&Refer=top)
 
