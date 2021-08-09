@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-09 09:47:43
+## 微博今日热榜 更新于 2021-08-09 10:16:50
 1. [100秒100年](https://s.weibo.com//weibo?q=%23100%E7%A7%92100%E5%B9%B4%23&Refer=new_time)
 
 1. [6000名阿里人关于807事件的联合倡议](https://s.weibo.com//weibo?q=%236000%E5%90%8D%E9%98%BF%E9%87%8C%E4%BA%BA%E5%85%B3%E4%BA%8E807%E4%BA%8B%E4%BB%B6%E7%9A%84%E8%81%94%E5%90%88%E5%80%A1%E8%AE%AE%23&Refer=top)
@@ -202,4 +202,20 @@
 1. [成毅演的齐焱](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E6%BC%94%E7%9A%84%E9%BD%90%E7%84%B1%23&Refer=top)
 
 1. [中国空间站飞跃武汉](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%A3%9E%E8%B7%83%E6%AD%A6%E6%B1%89%23&Refer=top)
+
+1. [为什么跳绳不能进奥运](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B7%B3%E7%BB%B3%E4%B8%8D%E8%83%BD%E8%BF%9B%E5%A5%A5%E8%BF%90%23&Refer=top)
+
+1. [时代少年团新歌傻瓜](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E5%82%BB%E7%93%9C%23&Refer=top)
+
+1. [瘦了15斤的李云迪](https://s.weibo.com//weibo?q=%23%E7%98%A6%E4%BA%8615%E6%96%A4%E7%9A%84%E6%9D%8E%E4%BA%91%E8%BF%AA%23&Refer=top)
+
+1. [亚马逊居家办公至2022年](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E8%87%B32022%E5%B9%B4%23&Refer=top)
+
+1. [湖北新增本土确诊3例](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A3%E4%BE%8B%23&Refer=top)
+
+1. [父亲听全红婵说挣钱给妈妈治病很感动](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%90%AC%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%AF%B4%E6%8C%A3%E9%92%B1%E7%BB%99%E5%A6%88%E5%A6%88%E6%B2%BB%E7%97%85%E5%BE%88%E6%84%9F%E5%8A%A8%23&Refer=top)
+
+1. [美国已有1060例拉姆达毒株感染病例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%9C%891060%E4%BE%8B%E6%8B%89%E5%A7%86%E8%BE%BE%E6%AF%92%E6%A0%AA%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [东京奥运会盘点](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%9B%98%E7%82%B9%23&Refer=top)
 
