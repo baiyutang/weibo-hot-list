@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-10 03:03:22
+## 微博今日热榜 更新于 2021-08-10 04:05:12
 1. [书写奥运华章创造新的辉煌](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E5%86%99%E5%A5%A5%E8%BF%90%E5%8D%8E%E7%AB%A0%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [于月仙丈夫发讣告](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AE%A3%E5%91%8A%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [奥运之光永不熄灭](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E4%B9%8B%E5%85%89%E6%B0%B8%E4%B8%8D%E7%86%84%E7%81%AD%23&Refer=new_time)
 
 1. [北京电闪雷鸣如科幻大片](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%94%B5%E9%97%AA%E9%9B%B7%E9%B8%A3%E5%A6%82%E7%A7%91%E5%B9%BB%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [我在他乡挺好的](https://s.weibo.com//weibo?q=%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84&Refer=top)
 
