@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-10 01:18:26
+## 微博今日热榜 更新于 2021-08-10 02:08:25
 1. [书写奥运华章创造新的辉煌](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E5%86%99%E5%A5%A5%E8%BF%90%E5%8D%8E%E7%AB%A0%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [于月仙丈夫发讣告](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AE%A3%E5%91%8A%23&Refer=top)
@@ -110,4 +110,8 @@
 1. [邓超晒小花等等的表白](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E5%B0%8F%E8%8A%B1%E7%AD%89%E7%AD%89%E7%9A%84%E8%A1%A8%E7%99%BD%23&Refer=top)
 
 1. [北京暴雨](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [最高检发布5起涉疫犯罪典型案例](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E5%8F%91%E5%B8%835%E8%B5%B7%E6%B6%89%E7%96%AB%E7%8A%AF%E7%BD%AA%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%23&Refer=new_time)
+
+1. [张艺兴 红雷哥我不是故意的](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E7%BA%A2%E9%9B%B7%E5%93%A5%E6%88%91%E4%B8%8D%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84&Refer=top)
 
