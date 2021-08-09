@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-10 00:11:25
+## 微博今日热榜 更新于 2021-08-10 01:18:26
 1. [书写奥运华章创造新的辉煌](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E5%86%99%E5%A5%A5%E8%BF%90%E5%8D%8E%E7%AB%A0%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [于月仙丈夫发讣告](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AE%A3%E5%91%8A%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [重庆姐弟坠亡案母亲称被告多次狡辩](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E6%AF%8D%E4%BA%B2%E7%A7%B0%E8%A2%AB%E5%91%8A%E5%A4%9A%E6%AC%A1%E7%8B%A1%E8%BE%A9%23&Refer=top)
 
 1. [云南900克松茸卖8600元](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97900%E5%85%8B%E6%9D%BE%E8%8C%B8%E5%8D%968600%E5%85%83%23&Refer=top)
+
+1. [邓超晒小花等等的表白](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E5%B0%8F%E8%8A%B1%E7%AD%89%E7%AD%89%E7%9A%84%E8%A1%A8%E7%99%BD%23&Refer=top)
+
+1. [北京暴雨](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%23&Refer=top)
 
