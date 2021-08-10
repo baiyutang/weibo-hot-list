@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-10 09:50:40
+## 微博今日热榜 更新于 2021-08-10 10:20:43
 1. [书写奥运华章创造新的辉煌](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E5%86%99%E5%A5%A5%E8%BF%90%E5%8D%8E%E7%AB%A0%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [于月仙丈夫发讣告](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AE%A3%E5%91%8A%23&Refer=top)
@@ -194,4 +194,18 @@
 1. [以色列14人打加强针后仍感染新冠](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%9714%E4%BA%BA%E6%89%93%E5%8A%A0%E5%BC%BA%E9%92%88%E5%90%8E%E4%BB%8D%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
 
 1. [傻狗使人快乐](https://s.weibo.com//weibo?q=%23%E5%82%BB%E7%8B%97%E4%BD%BF%E4%BA%BA%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [普通医用口罩可防德尔塔变异株](https://s.weibo.com//weibo?q=%23%E6%99%AE%E9%80%9A%E5%8C%BB%E7%94%A8%E5%8F%A3%E7%BD%A9%E5%8F%AF%E9%98%B2%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
+
+1. [中纪委机关报评网红在全红婵家外直播](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%9C%BA%E5%85%B3%E6%8A%A5%E8%AF%84%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%AE%B6%E5%A4%96%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [当顾漫的书粉有多幸福](https://s.weibo.com//weibo?q=%23%E5%BD%93%E9%A1%BE%E6%BC%AB%E7%9A%84%E4%B9%A6%E7%B2%89%E6%9C%89%E5%A4%9A%E5%B9%B8%E7%A6%8F%23&Refer=top)
+
+1. [张予曦夸成毅是金牌导师](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%A4%B8%E6%88%90%E6%AF%85%E6%98%AF%E9%87%91%E7%89%8C%E5%AF%BC%E5%B8%88%23&Refer=top)
+
+1. [31省区市新增108例本土确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E108%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [江苏疫情](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E7%96%AB%E6%83%85&Refer=top)
+
+1. [司机夜行遇野象袭击教科书式自救](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%A4%9C%E8%A1%8C%E9%81%87%E9%87%8E%E8%B1%A1%E8%A2%AD%E5%87%BB%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E8%87%AA%E6%95%91%23&Refer=top)
 
