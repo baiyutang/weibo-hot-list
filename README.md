@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-11 01:17:30
+## 微博今日热榜 更新于 2021-08-11 02:09:35
 1. [多部门集中治理摄像头偷窥等黑产](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%90%86%E6%91%84%E5%83%8F%E5%A4%B4%E5%81%B7%E7%AA%A5%E7%AD%89%E9%BB%91%E4%BA%A7%23&Refer=new_time)
 
 1. [雷军删掉所有炒股软件](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%86%9B%E5%88%A0%E6%8E%89%E6%89%80%E6%9C%89%E7%82%92%E8%82%A1%E8%BD%AF%E4%BB%B6%23&Refer=top)
@@ -106,4 +106,6 @@
 1. [吴月红孙世杰婚姻危机](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%9C%88%E7%BA%A2%E5%AD%99%E4%B8%96%E6%9D%B0%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA%23&Refer=top)
 
 1. [医生解读如何科学减肥](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%87%8F%E8%82%A5%23&Refer=top)
+
+1. [小米发布会](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
 
