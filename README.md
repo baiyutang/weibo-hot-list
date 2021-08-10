@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-10 07:04:17
+## 微博今日热榜 更新于 2021-08-10 08:19:01
 1. [书写奥运华章创造新的辉煌](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E5%86%99%E5%A5%A5%E8%BF%90%E5%8D%8E%E7%AB%A0%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [于月仙丈夫发讣告](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AE%A3%E5%91%8A%23&Refer=top)
@@ -124,4 +124,38 @@
 1. [荣耀夫妇KTV名场面](https://s.weibo.com//weibo?q=%23%E8%8D%A3%E8%80%80%E5%A4%AB%E5%A6%87KTV%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
 
 1. [夏小橘乌龙告白陆十一](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%B0%8F%E6%A9%98%E4%B9%8C%E9%BE%99%E5%91%8A%E7%99%BD%E9%99%86%E5%8D%81%E4%B8%80%23&Refer=top)
+
+1. [辽宁7名初中生水库游玩2人溺亡](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%817%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E6%B0%B4%E5%BA%93%E6%B8%B8%E7%8E%A92%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top)
+
+1. [挨家挨户发菜的场景太熟悉了](https://s.weibo.com//weibo?q=%23%E6%8C%A8%E5%AE%B6%E6%8C%A8%E6%88%B7%E5%8F%91%E8%8F%9C%E7%9A%84%E5%9C%BA%E6%99%AF%E5%A4%AA%E7%86%9F%E6%82%89%E4%BA%86%23&Refer=top)
+
+1. [美国部分民众只敢偷偷打疫苗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E6%B0%91%E4%BC%97%E5%8F%AA%E6%95%A2%E5%81%B7%E5%81%B7%E6%89%93%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [郑州新增3处中风险地区](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [杨洋好会亲](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B4%8B%E5%A5%BD%E4%BC%9A%E4%BA%B2&Refer=top)
+
+1. [全国现有15地高风险202地中风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%8915%E5%9C%B0%E9%AB%98%E9%A3%8E%E9%99%A9202%E5%9C%B0%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [林少春情商好高](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%B0%91%E6%98%A5%E6%83%85%E5%95%86%E5%A5%BD%E9%AB%98%23&Refer=top)
+
+1. [孙红雷演技细节](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E6%BC%94%E6%8A%80%E7%BB%86%E8%8A%82%23&Refer=top)
+
+1. [俄罗斯现新冠病毒超级传播者](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E8%B6%85%E7%BA%A7%E4%BC%A0%E6%92%AD%E8%80%85%23&Refer=top)
+
+1. [玉楼春](https://s.weibo.com//weibo?q=%E7%8E%89%E6%A5%BC%E6%98%A5&Refer=top)
+
+1. [广西北海渔排侧翻已致8人遇难](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E6%B8%94%E6%8E%92%E4%BE%A7%E7%BF%BB%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top)
+
+1. [弘进轮11名核酸阳性船员被转移治疗](https://s.weibo.com//weibo?q=%23%E5%BC%98%E8%BF%9B%E8%BD%AE11%E5%90%8D%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E8%88%B9%E5%91%98%E8%A2%AB%E8%BD%AC%E7%A7%BB%E6%B2%BB%E7%96%97%23&Refer=top)
+
+1. [奥运赛场上中国人的浪漫](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top)
+
+1. [齐焱程若鱼草坪吻](https://s.weibo.com//weibo?q=%23%E9%BD%90%E7%84%B1%E7%A8%8B%E8%8B%A5%E9%B1%BC%E8%8D%89%E5%9D%AA%E5%90%BB%23&Refer=top)
+
+1. [东契奇续约独行侠](https://s.weibo.com//weibo?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E7%BB%AD%E7%BA%A6%E7%8B%AC%E8%A1%8C%E4%BE%A0&Refer=top)
+
+1. [恒大汽车上半年预亏约48亿](https://s.weibo.com//weibo?q=%23%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A2%84%E4%BA%8F%E7%BA%A648%E4%BA%BF%23&Refer=top)
+
+1. [以色列在研新药5天内治愈九成新冠重症者](https://s.weibo.com//weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E7%A0%94%E6%96%B0%E8%8D%AF5%E5%A4%A9%E5%86%85%E6%B2%BB%E6%84%88%E4%B9%9D%E6%88%90%E6%96%B0%E5%86%A0%E9%87%8D%E7%97%87%E8%80%85&Refer=top)
 
