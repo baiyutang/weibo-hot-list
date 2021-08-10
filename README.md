@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-10 10:20:43
+## 微博今日热榜 更新于 2021-08-10 11:03:48
 1. [书写奥运华章创造新的辉煌](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E5%86%99%E5%A5%A5%E8%BF%90%E5%8D%8E%E7%AB%A0%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E8%BE%89%E7%85%8C%23&Refer=new_time)
 
 1. [于月仙丈夫发讣告](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AE%A3%E5%91%8A%23&Refer=top)
@@ -208,4 +208,24 @@
 1. [江苏疫情](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E7%96%AB%E6%83%85&Refer=top)
 
 1. [司机夜行遇野象袭击教科书式自救](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%A4%9C%E8%A1%8C%E9%81%87%E9%87%8E%E8%B1%A1%E8%A2%AD%E5%87%BB%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E8%87%AA%E6%95%91%23&Refer=top)
+
+1. [广东湛江4名小学生意外溺亡](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F4%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%84%8F%E5%A4%96%E6%BA%BA%E4%BA%A1%23&Refer=top)
+
+1. [38岁的于途](https://s.weibo.com//weibo?q=%2338%E5%B2%81%E7%9A%84%E4%BA%8E%E9%80%94%23&Refer=top)
+
+1. [吉林一低保家庭小伙考上清华](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E4%BD%8E%E4%BF%9D%E5%AE%B6%E5%BA%AD%E5%B0%8F%E4%BC%99%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
+
+1. [湖北疫情](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E7%96%AB%E6%83%85&Refer=top)
+
+1. [武汉疫情](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85&Refer=top)
+
+1. [荆门疫情](https://s.weibo.com//weibo?q=%E8%8D%86%E9%97%A8%E7%96%AB%E6%83%85&Refer=top)
+
+1. [INTO1新歌风暴眼](https://s.weibo.com//weibo?q=%23INTO1%E6%96%B0%E6%AD%8C%E9%A3%8E%E6%9A%B4%E7%9C%BC%23&Refer=top)
+
+1. [南京疫情](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E7%96%AB%E6%83%85&Refer=top)
+
+1. [胡杏儿老公回应被叫软饭王](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%9D%8F%E5%84%BF%E8%80%81%E5%85%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8F%AB%E8%BD%AF%E9%A5%AD%E7%8E%8B%23&Refer=top)
+
+1. [永辉超市回应收1元包装费](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E5%9B%9E%E5%BA%94%E6%94%B61%E5%85%83%E5%8C%85%E8%A3%85%E8%B4%B9%23&Refer=top)
 
