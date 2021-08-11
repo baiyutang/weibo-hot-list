@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 02:09:23
+## 微博今日热榜 更新于 2021-08-12 03:07:25
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [黄西 脱口秀大会](https://s.weibo.com//weibo?q=%E9%BB%84%E8%A5%BF%20%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A&Refer=top)
 
 1. [张智霖说袁咏仪是节目组的卧底](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%AF%B4%E8%A2%81%E5%92%8F%E4%BB%AA%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E7%9A%84%E5%8D%A7%E5%BA%95%23&Refer=top)
+
+1. [你是我的荣耀](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80&Refer=top)
 
