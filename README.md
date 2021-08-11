@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 00:10:53
+## 微博今日热榜 更新于 2021-08-12 01:18:33
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
 
 1. [国务院 若发生疫情定点医院48小时内腾空](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%20%E8%8B%A5%E5%8F%91%E7%94%9F%E7%96%AB%E6%83%85%E5%AE%9A%E7%82%B9%E5%8C%BB%E9%99%A248%E5%B0%8F%E6%97%B6%E5%86%85%E8%85%BE%E7%A9%BA&Refer=top)
+
+1. [全国新冠疫苗接种剂次超18亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%89%82%E6%AC%A1%E8%B6%8518%E4%BA%BF%23&Refer=new_time)
+
+1. [于月仙告别仪式初定13日举行](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%88%E4%BB%99%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%88%9D%E5%AE%9A13%E6%97%A5%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [庞博段子来自汪苏泷发的表情包](https://s.weibo.com//weibo?q=%23%E5%BA%9E%E5%8D%9A%E6%AE%B5%E5%AD%90%E6%9D%A5%E8%87%AA%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8F%91%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [徐英子好惨](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%8B%B1%E5%AD%90%E5%A5%BD%E6%83%A8%23&Refer=top)
+
+1. [洪成成恋爱风景论](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E6%88%90%E6%88%90%E6%81%8B%E7%88%B1%E9%A3%8E%E6%99%AF%E8%AE%BA%23&Refer=top)
+
+1. [黄西 脱口秀大会](https://s.weibo.com//weibo?q=%E9%BB%84%E8%A5%BF%20%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A&Refer=top)
 
