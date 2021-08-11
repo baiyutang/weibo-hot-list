@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 03:07:25
+## 微博今日热榜 更新于 2021-08-12 04:08:15
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
