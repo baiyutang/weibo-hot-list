@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 06:03:58
+## 微博今日热榜 更新于 2021-08-12 07:04:13
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -128,4 +128,12 @@
 1. [赵文卓再现名场面](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%96%87%E5%8D%93%E5%86%8D%E7%8E%B0%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
 
 1. [直击成都封闭区解封](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E5%87%BB%E6%88%90%E9%83%BD%E5%B0%81%E9%97%AD%E5%8C%BA%E8%A7%A3%E5%B0%81%23&Refer=top)
+
+1. [韩国研发成功变色龙软体机器人](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E7%A0%94%E5%8F%91%E6%88%90%E5%8A%9F%E5%8F%98%E8%89%B2%E9%BE%99%E8%BD%AF%E4%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA&Refer=top)
+
+1. [邓超微博评论区太搞笑了](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [尹正扫码式交友](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%AD%A3%E6%89%AB%E7%A0%81%E5%BC%8F%E4%BA%A4%E5%8F%8B%23&Refer=top)
+
+1. [柳碧云的台词太戳人了](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E7%A2%A7%E4%BA%91%E7%9A%84%E5%8F%B0%E8%AF%8D%E5%A4%AA%E6%88%B3%E4%BA%BA%E4%BA%86%23&Refer=top)
 
