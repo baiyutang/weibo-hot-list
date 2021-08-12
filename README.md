@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 13:03:19
+## 微博今日热榜 更新于 2021-08-12 14:06:05
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -350,4 +350,42 @@
 1. [呼和浩特倡议接种疫苗当日可休假](https://s.weibo.com//weibo?q=%23%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%80%A1%E8%AE%AE%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E5%BD%93%E6%97%A5%E5%8F%AF%E4%BC%91%E5%81%87%23&Refer=top)
 
 1. [工行上海分行原行长一审被判无期](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E8%A1%8C%E4%B8%8A%E6%B5%B7%E5%88%86%E8%A1%8C%E5%8E%9F%E8%A1%8C%E9%95%BF%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&Refer=top)
+
+1. [李前宽去世](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%89%8D%E5%AE%BD%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [文咏珊演王语嫣](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E6%BC%94%E7%8E%8B%E8%AF%AD%E5%AB%A3%23&Refer=top)
+
+1. [张智霖状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [新东方转型培训父母](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%B8%9C%E6%96%B9%E8%BD%AC%E5%9E%8B%E5%9F%B9%E8%AE%AD%E7%88%B6%E6%AF%8D%23&Refer=top)
+
+1. [塔利班或90天内攻占阿富汗首都](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E6%88%9690%E5%A4%A9%E5%86%85%E6%94%BB%E5%8D%A0%E9%98%BF%E5%AF%8C%E6%B1%97%E9%A6%96%E9%83%BD%23&Refer=top)
+
+1. [被陈小春笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%99%88%E5%B0%8F%E6%98%A5%E7%AC%91%E6%AD%BB%23&Refer=top)
+
+1. [扬州270例确诊病例在南京治疗](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E270%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%9C%A8%E5%8D%97%E4%BA%AC%E6%B2%BB%E7%96%97%23&Refer=top)
+
+1. [伊能静庾恩利母子大片](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%BA%BE%E6%81%A9%E5%88%A9%E6%AF%8D%E5%AD%90%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [赵露思粉发齐刘海造型](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%B2%89%E5%8F%91%E9%BD%90%E5%88%98%E6%B5%B7%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [成都的偶像包袱有多重](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%9A%84%E5%81%B6%E5%83%8F%E5%8C%85%E8%A2%B1%E6%9C%89%E5%A4%9A%E9%87%8D%23&Refer=top)
+
+1. [华为重发任正非5年前旧文](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%8F%91%E4%BB%BB%E6%AD%A3%E9%9D%9E5%E5%B9%B4%E5%89%8D%E6%97%A7%E6%96%87%23&Refer=top)
+
+1. [杭州电动车爆燃烧伤父亲恢复清醒](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%88%86%E7%87%83%E7%83%A7%E4%BC%A4%E7%88%B6%E4%BA%B2%E6%81%A2%E5%A4%8D%E6%B8%85%E9%86%92%23&Refer=top)
+
+1. [言承旭唱流星雨 青春回来了](https://s.weibo.com//weibo?q=%E8%A8%80%E6%89%BF%E6%97%AD%E5%94%B1%E6%B5%81%E6%98%9F%E9%9B%A8%20%E9%9D%92%E6%98%A5%E5%9B%9E%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [张艺兴古风高马尾造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%8F%A4%E9%A3%8E%E9%AB%98%E9%A9%AC%E5%B0%BE%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [王一博黑绿机能风套装](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%BB%91%E7%BB%BF%E6%9C%BA%E8%83%BD%E9%A3%8E%E5%A5%97%E8%A3%85%23&Refer=top)
+
+1. [林志炫全开麦](https://s.weibo.com//weibo?q=%E6%9E%97%E5%BF%97%E7%82%AB%E5%85%A8%E5%BC%80%E9%BA%A6&Refer=top)
+
+1. [李承铉天上飞舞台](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%A4%A9%E4%B8%8A%E9%A3%9E%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [5岁男孩在小区游泳池3分钟溺亡](https://s.weibo.com//weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%B0%8F%E5%8C%BA%E6%B8%B8%E6%B3%B3%E6%B1%A03%E5%88%86%E9%92%9F%E6%BA%BA%E4%BA%A1%23&Refer=top)
+
+1. [不得擅自升级新增汽车自动驾驶功能](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E5%8D%87%E7%BA%A7%E6%96%B0%E5%A2%9E%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8A%9F%E8%83%BD%23&Refer=top)
 
