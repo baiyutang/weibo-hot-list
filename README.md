@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 22:09:18
+## 微博今日热榜 更新于 2021-08-12 23:08:49
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -652,4 +652,30 @@
 1. [Hero扳回一局](https://s.weibo.com//weibo?q=%23Hero%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80%23&Refer=top)
 
 1. [亲爱的爸妈](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E7%88%B8%E5%A6%88%23&Refer=top)
+
+1. [偷渡人员境外悲惨遭遇视频画面](https://s.weibo.com//weibo?q=%23%E5%81%B7%E6%B8%A1%E4%BA%BA%E5%91%98%E5%A2%83%E5%A4%96%E6%82%B2%E6%83%A8%E9%81%AD%E9%81%87%E8%A7%86%E9%A2%91%E7%94%BB%E9%9D%A2%23&Refer=top)
+
+1. [云南瑞丽新冠孕妇诞下三胞胎](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%91%9E%E4%B8%BD%E6%96%B0%E5%86%A0%E5%AD%95%E5%A6%87%E8%AF%9E%E4%B8%8B%E4%B8%89%E8%83%9E%E8%83%8E%23&Refer=top)
+
+1. [邓亚萍模仿刘国梁马琳教练鼓掌](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E6%A8%A1%E4%BB%BF%E5%88%98%E5%9B%BD%E6%A2%81%E9%A9%AC%E7%90%B3%E6%95%99%E7%BB%83%E9%BC%93%E6%8E%8C%23&Refer=top)
+
+1. [马子佳给孔汝淳发短信](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%AD%90%E4%BD%B3%E7%BB%99%E5%AD%94%E6%B1%9D%E6%B7%B3%E5%8F%91%E7%9F%AD%E4%BF%A1%23&Refer=top)
+
+1. [健身小伙被重物砸中靠肌肉保命](https://s.weibo.com//weibo?q=%23%E5%81%A5%E8%BA%AB%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%87%8D%E7%89%A9%E7%A0%B8%E4%B8%AD%E9%9D%A0%E8%82%8C%E8%82%89%E4%BF%9D%E5%91%BD%23&Refer=top)
+
+1. [马伯骞说对拒绝的人也要负责](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E8%AF%B4%E5%AF%B9%E6%8B%92%E7%BB%9D%E7%9A%84%E4%BA%BA%E4%B9%9F%E8%A6%81%E8%B4%9F%E8%B4%A3%23&Refer=top)
+
+1. [霍尊 朋友圈](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%B0%8A%20%E6%9C%8B%E5%8F%8B%E5%9C%88&Refer=top)
+
+1. [心疼肖顺尧](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E8%82%96%E9%A1%BA%E5%B0%A7%23&Refer=top)
+
+1. [荣耀magic3价格](https://s.weibo.com//weibo?q=%E8%8D%A3%E8%80%80magic3%E4%BB%B7%E6%A0%BC&Refer=top)
+
+1. [荣耀发布会](https://s.weibo.com//weibo?q=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [洪水来袭妻子给丈夫发诀别短信](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E6%B0%B4%E6%9D%A5%E8%A2%AD%E5%A6%BB%E5%AD%90%E7%BB%99%E4%B8%88%E5%A4%AB%E5%8F%91%E8%AF%80%E5%88%AB%E7%9F%AD%E4%BF%A1%23&Refer=top)
+
+1. [洪成成 我一直活在自己的想象之中](https://s.weibo.com//weibo?q=%E6%B4%AA%E6%88%90%E6%88%90%20%E6%88%91%E4%B8%80%E7%9B%B4%E6%B4%BB%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%B3%E8%B1%A1%E4%B9%8B%E4%B8%AD&Refer=top)
+
+1. [撒贝宁在北京的第一个家](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AE%B6%23&Refer=top)
 
