@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-13 04:05:11
+## 微博今日热榜 更新于 2021-08-13 05:03:26
 1. [我国确立今后五年法治政府建设路线图](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%A1%AE%E7%AB%8B%E4%BB%8A%E5%90%8E%E4%BA%94%E5%B9%B4%E6%B3%95%E6%B2%BB%E6%94%BF%E5%BA%9C%E5%BB%BA%E8%AE%BE%E8%B7%AF%E7%BA%BF%E5%9B%BE%23&Refer=new_time)
 
 1. [心疼洪成成](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E6%B4%AA%E6%88%90%E6%88%90%23&Refer=top)
@@ -150,4 +150,10 @@
 1. [苏炳添薇娅连线](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%96%87%E5%A8%85%E8%BF%9E%E7%BA%BF%23&Refer=top)
 
 1. [原来我很爱你](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%91%E5%BE%88%E7%88%B1%E4%BD%A0&Refer=top)
+
+1. [李承铉 谢谢大家对天上飞舞台的喜爱](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%89%BF%E9%93%89%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%AF%B9%E5%A4%A9%E4%B8%8A%E9%A3%9E%E8%88%9E%E5%8F%B0%E7%9A%84%E5%96%9C%E7%88%B1&Refer=top)
+
+1. [孙红雷张艺兴辈分乱了](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%BC%A0%E8%89%BA%E5%85%B4%E8%BE%88%E5%88%86%E4%B9%B1%E4%BA%86%23&Refer=top)
+
+1. [双镜](https://s.weibo.com//weibo?q=%E5%8F%8C%E9%95%9C&Refer=top)
 
