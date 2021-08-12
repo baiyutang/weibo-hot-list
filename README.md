@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 19:05:12
+## 微博今日热榜 更新于 2021-08-12 20:11:29
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -560,4 +560,28 @@
 1. [LPL](https://s.weibo.com//weibo?q=LPL&Refer=top)
 
 1. [披荆斩棘的哥哥好看吗](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%E5%A5%BD%E7%9C%8B%E5%90%97%23&Refer=top)
+
+1. [霍尊粉丝的心路历程](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E5%B0%8A%E7%B2%89%E4%B8%9D%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B%23&Refer=top)
+
+1. [王一博机场出发出了个寂寞](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9C%BA%E5%9C%BA%E5%87%BA%E5%8F%91%E5%87%BA%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [暨大招生专业目录上有苏炳添](https://s.weibo.com//weibo?q=%23%E6%9A%A8%E5%A4%A7%E6%8B%9B%E7%94%9F%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E4%B8%8A%E6%9C%89%E8%8B%8F%E7%82%B3%E6%B7%BB%23&Refer=top)
+
+1. [TheShy道歉](https://s.weibo.com//weibo?q=%23TheShy%E9%81%93%E6%AD%89%23&Refer=top)
+
+1. [李承铉 谢谢大家对天上飞舞台的喜爱](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%89%BF%E9%93%89%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%AF%B9%E5%A4%A9%E4%B8%8A%E9%A3%9E%E8%88%9E%E5%8F%B0%E7%9A%84%E5%96%9C%E7%88%B1&Refer=top)
+
+1. [王曼昱说孙红雷演技真棒](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E5%AD%99%E7%BA%A2%E9%9B%B7%E6%BC%94%E6%8A%80%E7%9C%9F%E6%A3%92%23&Refer=top)
+
+1. [Somi一位](https://s.weibo.com//weibo?q=%23Somi%E4%B8%80%E4%BD%8D%23&Refer=top)
+
+1. [杨子的四肢像刚组装的](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%AD%90%E7%9A%84%E5%9B%9B%E8%82%A2%E5%83%8F%E5%88%9A%E7%BB%84%E8%A3%85%E7%9A%84%23&Refer=top)
+
+1. [教师发布涉疫不良言论被行拘](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%B8%88%E5%8F%91%E5%B8%83%E6%B6%89%E7%96%AB%E4%B8%8D%E8%89%AF%E8%A8%80%E8%AE%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [天龙八部全员过招](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8%E5%85%A8%E5%91%98%E8%BF%87%E6%8B%9B%23&Refer=top)
+
+1. [敖犬失恋阵线联盟舞台](https://s.weibo.com//weibo?q=%23%E6%95%96%E7%8A%AC%E5%A4%B1%E6%81%8B%E9%98%B5%E7%BA%BF%E8%81%94%E7%9B%9F%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [直击北京封控社区现场](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E5%87%BB%E5%8C%97%E4%BA%AC%E5%B0%81%E6%8E%A7%E7%A4%BE%E5%8C%BA%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
