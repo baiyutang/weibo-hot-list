@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-12 09:47:07
+## 微博今日热榜 更新于 2021-08-12 10:16:36
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
 
 1. [苏炳添在奥运闭幕式上手机都没敢带](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9C%A8%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%83%BD%E6%B2%A1%E6%95%A2%E5%B8%A6%23&Refer=top)
@@ -226,4 +226,16 @@
 1. [一看就是当舞狮的料](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%9C%8B%E5%B0%B1%E6%98%AF%E5%BD%93%E8%88%9E%E7%8B%AE%E7%9A%84%E6%96%99%23&Refer=top)
 
 1. [梭子蟹比去年便宜30%](https://s.weibo.com//weibo?q=%23%E6%A2%AD%E5%AD%90%E8%9F%B9%E6%AF%94%E5%8E%BB%E5%B9%B4%E4%BE%BF%E5%AE%9C30%25%23&Refer=top)
+
+1. [南京所有成人确诊病例都用了中药治疗](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%89%80%E6%9C%89%E6%88%90%E4%BA%BA%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E9%83%BD%E7%94%A8%E4%BA%86%E4%B8%AD%E8%8D%AF%E6%B2%BB%E7%96%97%23&Refer=top)
+
+1. [秋季学期学生返校3条硬性标准](https://s.weibo.com//weibo?q=%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%AD%A6%E7%94%9F%E8%BF%94%E6%A0%A13%E6%9D%A1%E7%A1%AC%E6%80%A7%E6%A0%87%E5%87%86&Refer=top)
+
+1. [许言沈子畅分手](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E8%A8%80%E6%B2%88%E5%AD%90%E7%95%85%E5%88%86%E6%89%8B%23&Refer=top)
+
+1. [孙颖莎晒隔离日记](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%92%E9%9A%94%E7%A6%BB%E6%97%A5%E8%AE%B0%23&Refer=top)
+
+1. [甘肃干部电视直播中玩手机被约谈](https://s.weibo.com//weibo?q=%23%E7%94%98%E8%82%83%E5%B9%B2%E9%83%A8%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E4%B8%AD%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
+
+1. [秦皇岛落水被救女孩发声](https://s.weibo.com//weibo?q=%E7%A7%A6%E7%9A%87%E5%B2%9B%E8%90%BD%E6%B0%B4%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%A9%E5%8F%91%E5%A3%B0&Refer=top)
 
