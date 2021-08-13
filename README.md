@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-14 05:03:01
+## 微博今日热榜 更新于 2021-08-14 06:03:48
 1. [藏羚羊降级是人类参与物种保护成功案例](https://s.weibo.com//weibo?q=%23%E8%97%8F%E7%BE%9A%E7%BE%8A%E9%99%8D%E7%BA%A7%E6%98%AF%E4%BA%BA%E7%B1%BB%E5%8F%82%E4%B8%8E%E7%89%A9%E7%A7%8D%E4%BF%9D%E6%8A%A4%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%23&Refer=new_time)
 
 1. [央视评艺人必须知荣辱](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E8%89%BA%E4%BA%BA%E5%BF%85%E9%A1%BB%E7%9F%A5%E8%8D%A3%E8%BE%B1%23&Refer=top)
@@ -150,4 +150,10 @@
 1. [姚安娜教丁真打电话](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%95%99%E4%B8%81%E7%9C%9F%E6%89%93%E7%94%B5%E8%AF%9D%23&Refer=top)
 
 1. [吴宣仪镜头感](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E9%95%9C%E5%A4%B4%E6%84%9F%23&Refer=top)
+
+1. [阚清子 这样真的有点渣了](https://s.weibo.com//weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%20%E8%BF%99%E6%A0%B7%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E6%B8%A3%E4%BA%86&Refer=top)
+
+1. [亲爱的爸妈](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E7%88%B8%E5%A6%88%23&Refer=top)
+
+1. [赵明称荣耀竞争对手是苹果](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%98%8E%E7%A7%B0%E8%8D%A3%E8%80%80%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E6%98%AF%E8%8B%B9%E6%9E%9C%23&Refer=top)
 
