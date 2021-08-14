@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-15 06:03:22
+## 微博今日热榜 更新于 2021-08-15 07:03:22
 1. [透过奥运看中国](https://s.weibo.com//weibo?q=%23%E9%80%8F%E8%BF%87%E5%A5%A5%E8%BF%90%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [杨倩说保研和奖牌无关](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E8%AF%B4%E4%BF%9D%E7%A0%94%E5%92%8C%E5%A5%96%E7%89%8C%E6%97%A0%E5%85%B3%23&Refer=top)
@@ -140,4 +140,6 @@
 1. [英超](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%B6%85&Refer=top)
 
 1. [于途乔晶晶甜蜜比心](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%94%E4%B9%94%E6%99%B6%E6%99%B6%E7%94%9C%E8%9C%9C%E6%AF%94%E5%BF%83%23&Refer=top)
+
+1. [快乐大本营预告](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E9%A2%84%E5%91%8A&Refer=top)
 
