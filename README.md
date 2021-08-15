@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-15 07:03:22
+## 微博今日热榜 更新于 2021-08-15 08:16:55
 1. [透过奥运看中国](https://s.weibo.com//weibo?q=%23%E9%80%8F%E8%BF%87%E5%A5%A5%E8%BF%90%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [杨倩说保研和奖牌无关](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E8%AF%B4%E4%BF%9D%E7%A0%94%E5%92%8C%E5%A5%96%E7%89%8C%E6%97%A0%E5%85%B3%23&Refer=top)
@@ -142,4 +142,58 @@
 1. [于途乔晶晶甜蜜比心](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%94%E4%B9%94%E6%99%B6%E6%99%B6%E7%94%9C%E8%9C%9C%E6%AF%94%E5%BF%83%23&Refer=top)
 
 1. [快乐大本营预告](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [日本投降76周年](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D76%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [央视主播谈有人对历史缺乏基本敬畏](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E8%B0%88%E6%9C%89%E4%BA%BA%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%BC%BA%E4%B9%8F%E5%9F%BA%E6%9C%AC%E6%95%AC%E7%95%8F%23&Refer=top)
+
+1. [红娘说男士择偶永远要求年轻漂亮](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E5%A8%98%E8%AF%B4%E7%94%B7%E5%A3%AB%E6%8B%A9%E5%81%B6%E6%B0%B8%E8%BF%9C%E8%A6%81%E6%B1%82%E5%B9%B4%E8%BD%BB%E6%BC%82%E4%BA%AE%23&Refer=top)
+
+1. [陈露回应霍尊](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%9C%B2%E5%9B%9E%E5%BA%94%E9%9C%8D%E5%B0%8A%23&Refer=top)
+
+1. [张哲瀚微博和张哲瀚工作室被禁言](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E5%BE%AE%E5%8D%9A%E5%92%8C%E5%BC%A0%E5%93%B2%E7%80%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A2%AB%E7%A6%81%E8%A8%80&Refer=top)
+
+1. [日本裕仁天皇宣布投降原声](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A3%95%E4%BB%81%E5%A4%A9%E7%9A%87%E5%AE%A3%E5%B8%83%E6%8A%95%E9%99%8D%E5%8E%9F%E5%A3%B0%23&Refer=top)
+
+1. [扬州未核酸检测将录入失信记录](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E6%9C%AA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B0%86%E5%BD%95%E5%85%A5%E5%A4%B1%E4%BF%A1%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [杨倩说小时候羡慕别人有假期](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E8%AF%B4%E5%B0%8F%E6%97%B6%E5%80%99%E7%BE%A1%E6%85%95%E5%88%AB%E4%BA%BA%E6%9C%89%E5%81%87%E6%9C%9F%23&Refer=top)
+
+1. [海地地震已至304人死亡](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%9C%B0%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B3304%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [吕明星方天宇在一起](https://s.weibo.com//weibo?q=%E5%90%95%E6%98%8E%E6%98%9F%E6%96%B9%E5%A4%A9%E5%AE%87%E5%9C%A8%E4%B8%80%E8%B5%B7&Refer=top)
+
+1. [一诺状态](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [黄子韬 舍不得萌探舍不得所有人](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E8%88%8D%E4%B8%8D%E5%BE%97%E8%90%8C%E6%8E%A2%E8%88%8D%E4%B8%8D%E5%BE%97%E6%89%80%E6%9C%89%E4%BA%BA&Refer=top)
+
+1. [男生七夕送女友亲手种的向日葵](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%83%E5%A4%95%E9%80%81%E5%A5%B3%E5%8F%8B%E4%BA%B2%E6%89%8B%E7%A7%8D%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5%23&Refer=top)
+
+1. [王一博叶音动作同步率](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%B6%E9%9F%B3%E5%8A%A8%E4%BD%9C%E5%90%8C%E6%AD%A5%E7%8E%87%23&Refer=top)
+
+1. [塔利班称攻占阿富汗过半省会城市](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E7%A7%B0%E6%94%BB%E5%8D%A0%E9%98%BF%E5%AF%8C%E6%B1%97%E8%BF%87%E5%8D%8A%E7%9C%81%E4%BC%9A%E5%9F%8E%E5%B8%82%23&Refer=top)
+
+1. [如何看待女性婚恋自由](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A5%B3%E6%80%A7%E5%A9%9A%E6%81%8B%E8%87%AA%E7%94%B1%23&Refer=top)
+
+1. [中韩共同抗日纪念展在韩举行](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%9F%A9%E5%85%B1%E5%90%8C%E6%8A%97%E6%97%A5%E7%BA%AA%E5%BF%B5%E5%B1%95%E5%9C%A8%E9%9F%A9%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [冰冻2.8万年幼狮仍栩栩如生](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%86%BB2.8%E4%B8%87%E5%B9%B4%E5%B9%BC%E7%8B%AE%E4%BB%8D%E6%A0%A9%E6%A0%A9%E5%A6%82%E7%94%9F%23&Refer=top)
+
+1. [扬州12人防疫不力被处理](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E12%E4%BA%BA%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E5%A4%84%E7%90%86%23&Refer=top)
+
+1. [海地进入国家紧急状态](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%9C%B0%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [日本重症新冠患者遭百家医院拒收](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E9%87%8D%E7%97%87%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E9%81%AD%E7%99%BE%E5%AE%B6%E5%8C%BB%E9%99%A2%E6%8B%92%E6%94%B6%23&Refer=top)
+
+1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [央视揭快递理赔骗局](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E5%BF%AB%E9%80%92%E7%90%86%E8%B5%94%E9%AA%97%E5%B1%80%23&Refer=top)
+
+1. [梅西亮相王子公园球场](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E4%BA%AE%E7%9B%B8%E7%8E%8B%E5%AD%90%E5%85%AC%E5%9B%AD%E7%90%83%E5%9C%BA&Refer=top)
+
+1. [当舞蹈遇见中华传统文化](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%88%9E%E8%B9%88%E9%81%87%E8%A7%81%E4%B8%AD%E5%8D%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%23&Refer=top)
+
+1. [95后北大学子还是非遗传承人](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%AD%90%E8%BF%98%E6%98%AF%E9%9D%9E%E9%81%97%E4%BC%A0%E6%89%BF%E4%BA%BA%23&Refer=top)
+
+1. [江西赣州一份进口榴莲外包装检出阳性](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B5%A3%E5%B7%9E%E4%B8%80%E4%BB%BD%E8%BF%9B%E5%8F%A3%E6%A6%B4%E8%8E%B2%E5%A4%96%E5%8C%85%E8%A3%85%E6%A3%80%E5%87%BA%E9%98%B3%E6%80%A7%23&Refer=top)
 
