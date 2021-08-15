@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 00:05:24
+## 微博今日热榜 更新于 2021-08-16 01:10:14
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [翟潇闻演技细节](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E6%BC%94%E6%8A%80%E7%BB%86%E8%8A%82%23&Refer=top)
 
 1. [杨健腹肌开瓶盖](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%81%A5%E8%85%B9%E8%82%8C%E5%BC%80%E7%93%B6%E7%9B%96%23&Refer=top)
+
+1. [我国成功合成可划伤钻石的新型材料](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%90%88%E6%88%90%E5%8F%AF%E5%88%92%E4%BC%A4%E9%92%BB%E7%9F%B3%E7%9A%84%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99%23&Refer=new_time)
+
+1. [江苏常州发生交通事故致2死6伤](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%B8%B8%E5%B7%9E%E5%8F%91%E7%94%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B42%E6%AD%BB6%E4%BC%A4%23&Refer=top)
+
+1. [和好朋友不再联系的原因](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B8%8D%E5%86%8D%E8%81%94%E7%B3%BB%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [家长要不要干预孩子的朋友圈](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E8%A6%81%E4%B8%8D%E8%A6%81%E5%B9%B2%E9%A2%84%E5%AD%A9%E5%AD%90%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
 
