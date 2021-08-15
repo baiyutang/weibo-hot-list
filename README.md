@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 01:10:14
+## 微博今日热榜 更新于 2021-08-16 02:04:14
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [和好朋友不再联系的原因](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B8%8D%E5%86%8D%E8%81%94%E7%B3%BB%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
 
 1. [家长要不要干预孩子的朋友圈](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E8%A6%81%E4%B8%8D%E8%A6%81%E5%B9%B2%E9%A2%84%E5%AD%A9%E5%AD%90%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [而今迈步从头越](https://s.weibo.com//weibo?q=%23%E8%80%8C%E4%BB%8A%E8%BF%88%E6%AD%A5%E4%BB%8E%E5%A4%B4%E8%B6%8A%23&Refer=new_time)
 
