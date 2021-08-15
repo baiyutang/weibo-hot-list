@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-15 19:02:48
+## 微博今日热榜 更新于 2021-08-15 20:06:23
 1. [透过奥运看中国](https://s.weibo.com//weibo?q=%23%E9%80%8F%E8%BF%87%E5%A5%A5%E8%BF%90%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [杨倩说保研和奖牌无关](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E8%AF%B4%E4%BF%9D%E7%A0%94%E5%92%8C%E5%A5%96%E7%89%8C%E6%97%A0%E5%85%B3%23&Refer=top)
@@ -494,4 +494,32 @@
 1. [长春亚泰 大连人](https://s.weibo.com//weibo?q=%E9%95%BF%E6%98%A5%E4%BA%9A%E6%B3%B0%20%E5%A4%A7%E8%BF%9E%E4%BA%BA&Refer=top)
 
 1. [管泽元预测](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B&Refer=top)
+
+1. [阿富汗多家银行民众排队取钱](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E5%8F%96%E9%92%B1%23&Refer=top)
+
+1. [老baby的七夕太上头了](https://s.weibo.com//weibo?q=%23%E8%80%81baby%E7%9A%84%E4%B8%83%E5%A4%95%E5%A4%AA%E4%B8%8A%E5%A4%B4%E4%BA%86%23&Refer=top)
+
+1. [塔利班已前往总统府准备权力移交](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B7%B2%E5%89%8D%E5%BE%80%E6%80%BB%E7%BB%9F%E5%BA%9C%E5%87%86%E5%A4%87%E6%9D%83%E5%8A%9B%E7%A7%BB%E4%BA%A4%23&Refer=top)
+
+1. [阿富汗塔利班宣布将不在喀布尔作战](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%E5%AE%A3%E5%B8%83%E5%B0%86%E4%B8%8D%E5%9C%A8%E5%96%80%E5%B8%83%E5%B0%94%E4%BD%9C%E6%88%98&Refer=top)
+
+1. [胡海泉太贴心了](https://s.weibo.com//weibo?q=%E8%83%A1%E6%B5%B7%E6%B3%89%E5%A4%AA%E8%B4%B4%E5%BF%83%E4%BA%86&Refer=top)
+
+1. [吐司月饼](https://s.weibo.com//weibo?q=%23%E5%90%90%E5%8F%B8%E6%9C%88%E9%A5%BC%23&Refer=top)
+
+1. [邓紫棋工作室生日周边价格](https://s.weibo.com//weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%94%9F%E6%97%A5%E5%91%A8%E8%BE%B9%E4%BB%B7%E6%A0%BC&Refer=top)
+
+1. [贾士凯在杨洋直播间刷礼物](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E5%A3%AB%E5%87%AF%E5%9C%A8%E6%9D%A8%E6%B4%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E5%88%B7%E7%A4%BC%E7%89%A9%23&Refer=top)
+
+1. [阿富汗各国大使馆外民众排队求签证](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%90%84%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%A4%96%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E6%B1%82%E7%AD%BE%E8%AF%81%23&Refer=top)
+
+1. [小朋友的交友方式](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%BA%A4%E5%8F%8B%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [杨幂直播状态](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [WE拿了锐雯](https://s.weibo.com//weibo?q=WE%E6%8B%BF%E4%BA%86%E9%94%90%E9%9B%AF&Refer=top)
+
+1. [阿富汗政府称喀布尔将和平过渡](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%94%BF%E5%BA%9C%E7%A7%B0%E5%96%80%E5%B8%83%E5%B0%94%E5%B0%86%E5%92%8C%E5%B9%B3%E8%BF%87%E6%B8%A1%23&Refer=top)
+
+1. [盖德穆勒去世](https://s.weibo.com//weibo?q=%23%E7%9B%96%E5%BE%B7%E7%A9%86%E5%8B%92%E5%8E%BB%E4%B8%96%23&Refer=top)
 
