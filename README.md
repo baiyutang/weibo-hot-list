@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 12:05:37
+## 微博今日热榜 更新于 2021-08-16 13:03:25
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -308,4 +308,34 @@
 1. [美国总统的阿富汗政策翻车现场](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%9A%84%E9%98%BF%E5%AF%8C%E6%B1%97%E6%94%BF%E7%AD%96%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA&Refer=top)
 
 1. [不期而遇的夏天定档](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%9C%9F%E8%80%8C%E9%81%87%E7%9A%84%E5%A4%8F%E5%A4%A9%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [芒果TV艺人艺德承诺书](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9CTV%E8%89%BA%E4%BA%BA%E8%89%BA%E5%BE%B7%E6%89%BF%E8%AF%BA%E4%B9%A6%23&Refer=top)
+
+1. [宋智孝40岁状态](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%99%BA%E5%AD%9D40%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [美国被曝偷工减料训练阿富汗部队](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99%E8%AE%AD%E7%BB%83%E9%98%BF%E5%AF%8C%E6%B1%97%E9%83%A8%E9%98%9F%23&Refer=top)
+
+1. [迪丽热巴说自己比乔晶晶成熟](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%AF%94%E4%B9%94%E6%99%B6%E6%99%B6%E6%88%90%E7%86%9F%23&Refer=top)
+
+1. [被一根棉签可爱到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%B8%80%E6%A0%B9%E6%A3%89%E7%AD%BE%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [孙红雷51岁状态](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B751%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [大润发回应售卖发臭隔夜肉](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%9B%9E%E5%BA%94%E5%94%AE%E5%8D%96%E5%8F%91%E8%87%AD%E9%9A%94%E5%A4%9C%E8%82%89%23&Refer=top)
+
+1. [倪萍 反尔赛](https://s.weibo.com//weibo?q=%E5%80%AA%E8%90%8D%20%E5%8F%8D%E5%B0%94%E8%B5%9B&Refer=top)
+
+1. [龚俊新歌把未来点亮](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%96%B0%E6%AD%8C%E6%8A%8A%E6%9C%AA%E6%9D%A5%E7%82%B9%E4%BA%AE%23&Refer=top)
+
+1. [阿富汗难民飞抵印度后控诉](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E9%9A%BE%E6%B0%91%E9%A3%9E%E6%8A%B5%E5%8D%B0%E5%BA%A6%E5%90%8E%E6%8E%A7%E8%AF%89%23&Refer=top)
+
+1. [蔚来工作人员私自接触事故车辆被传唤](https://s.weibo.com//weibo?q=%23%E8%94%9A%E6%9D%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%81%E8%87%AA%E6%8E%A5%E8%A7%A6%E4%BA%8B%E6%95%85%E8%BD%A6%E8%BE%86%E8%A2%AB%E4%BC%A0%E5%94%A4%23&Refer=top)
+
+1. [金晨国风刺绣丝绒裙造型](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E5%9B%BD%E9%A3%8E%E5%88%BA%E7%BB%A3%E4%B8%9D%E7%BB%92%E8%A3%99%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [成都一共享单车坐垫被插针](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%9D%90%E5%9E%AB%E8%A2%AB%E6%8F%92%E9%92%88%23&Refer=top)
+
+1. [罗一舟舞蹈生学长官宣](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E8%88%9E%E8%B9%88%E7%94%9F%E5%AD%A6%E9%95%BF%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [阿富汗总统称离开阿富汗是为避免流血冲突](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%A6%BB%E5%BC%80%E9%98%BF%E5%AF%8C%E6%B1%97%E6%98%AF%E4%B8%BA%E9%81%BF%E5%85%8D%E6%B5%81%E8%A1%80%E5%86%B2%E7%AA%81%23&Refer=top)
 
