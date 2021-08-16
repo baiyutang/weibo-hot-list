@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 17:08:45
+## 微博今日热榜 更新于 2021-08-16 18:09:48
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -440,4 +440,40 @@
 1. [大部分在阿富汗中国公民已先期回国](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%83%A8%E5%88%86%E5%9C%A8%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E5%85%88%E6%9C%9F%E5%9B%9E%E5%9B%BD%23&Refer=top)
 
 1. [男子进小区遇封闭天台上睡14天](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%B0%8F%E5%8C%BA%E9%81%87%E5%B0%81%E9%97%AD%E5%A4%A9%E5%8F%B0%E4%B8%8A%E7%9D%A114%E5%A4%A9%23&Refer=top)
+
+1. [外交部回应中方是否承认阿富汗塔利班](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%96%B9%E6%98%AF%E5%90%A6%E6%89%BF%E8%AE%A4%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%23&Refer=top)
+
+1. [吉林一男子乘出租车偶遇300多斤老虎](https://s.weibo.com//weibo?q=%E5%90%89%E6%9E%97%E4%B8%80%E7%94%B7%E5%AD%90%E4%B9%98%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%81%B6%E9%81%87300%E5%A4%9A%E6%96%A4%E8%80%81%E8%99%8E&Refer=top)
+
+1. [杨倩快本再现比心名场面](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%BF%AB%E6%9C%AC%E5%86%8D%E7%8E%B0%E6%AF%94%E5%BF%83%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [Red Velvet回归](https://s.weibo.com//weibo?q=Red%20Velvet%E5%9B%9E%E5%BD%92&Refer=top)
+
+1. [塔利班称在阿外国公民不会受到威胁](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E7%A7%B0%E5%9C%A8%E9%98%BF%E5%A4%96%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%8D%E4%BC%9A%E5%8F%97%E5%88%B0%E5%A8%81%E8%83%81%23&Refer=top)
+
+1. [程潇觉得谈恋爱很麻烦](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E6%BD%87%E8%A7%89%E5%BE%97%E8%B0%88%E6%81%8B%E7%88%B1%E5%BE%88%E9%BA%BB%E7%83%A6%23&Refer=top)
+
+1. [吴彤发宋亚轩表情包为孙红雷庆生](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%BD%A4%E5%8F%91%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%A1%A8%E6%83%85%E5%8C%85%E4%B8%BA%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [我国航天员完成太空离心机组装](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%A4%AA%E7%A9%BA%E7%A6%BB%E5%BF%83%E6%9C%BA%E7%BB%84%E8%A3%85%23&Refer=top)
+
+1. [谌龙跪榴莲都是许昕害的](https://s.weibo.com//weibo?q=%23%E8%B0%8C%E9%BE%99%E8%B7%AA%E6%A6%B4%E8%8E%B2%E9%83%BD%E6%98%AF%E8%AE%B8%E6%98%95%E5%AE%B3%E7%9A%84%23&Refer=top)
+
+1. [隧道里的王嘉尔](https://s.weibo.com//weibo?q=%23%E9%9A%A7%E9%81%93%E9%87%8C%E7%9A%84%E7%8E%8B%E5%98%89%E5%B0%94%23&Refer=top)
+
+1. [把游戏写成小说有多绝](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E6%B8%B8%E6%88%8F%E5%86%99%E6%88%90%E5%B0%8F%E8%AF%B4%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+
+1. [临汾聚仙饭店坍塌事故调查报告](https://s.weibo.com//weibo?q=%23%E4%B8%B4%E6%B1%BE%E8%81%9A%E4%BB%99%E9%A5%AD%E5%BA%97%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [全红婵商标被多方抢注](https://s.weibo.com//weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%95%86%E6%A0%87%E8%A2%AB%E5%A4%9A%E6%96%B9%E6%8A%A2%E6%B3%A8&Refer=top)
+
+1. [阿富汗变天有何影响](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%8F%98%E5%A4%A9%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D%23&Refer=top)
+
+1. [陈若轩西装配小青蛙](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%8B%A5%E8%BD%A9%E8%A5%BF%E8%A3%85%E9%85%8D%E5%B0%8F%E9%9D%92%E8%9B%99%23&Refer=top)
+
+1. [喀布尔机场至少5人死亡](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%B8%83%E5%B0%94%E6%9C%BA%E5%9C%BA%E8%87%B3%E5%B0%915%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [贵州省政协原主席王富玉被开除党籍](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E4%B8%BB%E5%B8%AD%E7%8E%8B%E5%AF%8C%E7%8E%89%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&Refer=top)
+
+1. [校园里最不缺的就是人才](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%9B%AD%E9%87%8C%E6%9C%80%E4%B8%8D%E7%BC%BA%E7%9A%84%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%89%8D%23&Refer=top)
 
