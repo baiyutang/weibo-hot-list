@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-17 03:04:11
+## 微博今日热榜 更新于 2021-08-17 04:08:21
 1. [7月国民经济延续稳定恢复态势](https://s.weibo.com//weibo?q=%237%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%BB%B6%E7%BB%AD%E7%A8%B3%E5%AE%9A%E6%81%A2%E5%A4%8D%E6%80%81%E5%8A%BF%23&Refer=new_time)
 
 1. [吴亦凡被批捕](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
