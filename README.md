@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 15:03:47
+## 微博今日热榜 更新于 2021-08-16 16:05:59
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -386,4 +386,38 @@
 1. [男子将野生中华鲟分解放冰箱](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E9%87%8E%E7%94%9F%E4%B8%AD%E5%8D%8E%E9%B2%9F%E5%88%86%E8%A7%A3%E6%94%BE%E5%86%B0%E7%AE%B1%23&Refer=top)
 
 1. [美国西贡时刻重演](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A5%BF%E8%B4%A1%E6%97%B6%E5%88%BB%E9%87%8D%E6%BC%94%23&Refer=top)
+
+1. [山河令删除张哲瀚名字](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E4%BB%A4%E5%88%A0%E9%99%A4%E5%BC%A0%E5%93%B2%E7%80%9A%E5%90%8D%E5%AD%97%23&Refer=top)
+
+1. [塔利班是什么组织](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E6%98%AF%E4%BB%80%E4%B9%88%E7%BB%84%E7%BB%87%23&Refer=top)
+
+1. [6岁娃赌气要吃100个冰棍妈妈帮实现](https://s.weibo.com//weibo?q=%236%E5%B2%81%E5%A8%83%E8%B5%8C%E6%B0%94%E8%A6%81%E5%90%83100%E4%B8%AA%E5%86%B0%E6%A3%8D%E5%A6%88%E5%A6%88%E5%B8%AE%E5%AE%9E%E7%8E%B0%23&Refer=top)
+
+1. [张哲瀚将ins设为私密账户](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%B0%86ins%E8%AE%BE%E4%B8%BA%E7%A7%81%E5%AF%86%E8%B4%A6%E6%88%B7%23&Refer=top)
+
+1. [鞠婧祎晒wink自拍plog](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%99%92wink%E8%87%AA%E6%8B%8Dplog%23&Refer=top)
+
+1. [同龄人的真实收入是怎样的](https://s.weibo.com//weibo?q=%23%E5%90%8C%E9%BE%84%E4%BA%BA%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%94%B6%E5%85%A5%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&Refer=top)
+
+1. [新能源大跌](https://s.weibo.com//weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E5%A4%A7%E8%B7%8C&Refer=top)
+
+1. [陈漫镜头下的黄轩和邓伦](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%BC%AB%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E9%BB%84%E8%BD%A9%E5%92%8C%E9%82%93%E4%BC%A6%23&Refer=top)
+
+1. [INTO1水手服](https://s.weibo.com//weibo?q=%23INTO1%E6%B0%B4%E6%89%8B%E6%9C%8D%23&Refer=top)
+
+1. [暗格里的秘密提档](https://s.weibo.com//weibo?q=%23%E6%9A%97%E6%A0%BC%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E6%8F%90%E6%A1%A3%23&Refer=top)
+
+1. [李承铉当全职爸爸抑郁了一年多](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%BD%93%E5%85%A8%E8%81%8C%E7%88%B8%E7%88%B8%E6%8A%91%E9%83%81%E4%BA%86%E4%B8%80%E5%B9%B4%E5%A4%9A%23&Refer=top)
+
+1. [阿富汗总统加尼逃亡后首次发声](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%80%BB%E7%BB%9F%E5%8A%A0%E5%B0%BC%E9%80%83%E4%BA%A1%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [美军在喀布尔机场向阿富汗人开火](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%96%80%E5%B8%83%E5%B0%94%E6%9C%BA%E5%9C%BA%E5%90%91%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA%E5%BC%80%E7%81%AB%23&Refer=top)
+
+1. [许魏洲乔欣太嗑了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%AD%8F%E6%B4%B2%E4%B9%94%E6%AC%A3%E5%A4%AA%E5%97%91%E4%BA%86%23&Refer=top)
+
+1. [阿富汗喀布尔机场发生骚乱](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%96%80%E5%B8%83%E5%B0%94%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E9%AA%9A%E4%B9%B1%23&Refer=top)
+
+1. [女子用毛线钩出荷花盆景](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E6%AF%9B%E7%BA%BF%E9%92%A9%E5%87%BA%E8%8D%B7%E8%8A%B1%E7%9B%86%E6%99%AF%23&Refer=top)
+
+1. [长征七号遥四运载火箭运抵发射场](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%BE%81%E4%B8%83%E5%8F%B7%E9%81%A5%E5%9B%9B%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E8%BF%90%E6%8A%B5%E5%8F%91%E5%B0%84%E5%9C%BA%23&Refer=top)
 
