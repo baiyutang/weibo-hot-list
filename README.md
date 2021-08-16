@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 09:44:48
+## 微博今日热榜 更新于 2021-08-16 10:16:05
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -222,4 +222,12 @@
 1. [女子想支持国货嫌贵偷新鞋被抓](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%83%B3%E6%94%AF%E6%8C%81%E5%9B%BD%E8%B4%A7%E5%AB%8C%E8%B4%B5%E5%81%B7%E6%96%B0%E9%9E%8B%E8%A2%AB%E6%8A%93%23&Refer=top)
 
 1. [快船灰熊达成交易](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E8%88%B9%E7%81%B0%E7%86%8A%E8%BE%BE%E6%88%90%E4%BA%A4%E6%98%93%23&Refer=top)
+
+1. [江苏疫情](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E7%96%AB%E6%83%85&Refer=top)
+
+1. [全爸希望全红婵未来能够上大学](https://s.weibo.com//weibo?q=%E5%85%A8%E7%88%B8%E5%B8%8C%E6%9C%9B%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%9C%AA%E6%9D%A5%E8%83%BD%E5%A4%9F%E4%B8%8A%E5%A4%A7%E5%AD%A6&Refer=top)
+
+1. [一图看懂最新防疫要点](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E6%9C%80%E6%96%B0%E9%98%B2%E7%96%AB%E8%A6%81%E7%82%B9%23&Refer=top)
+
+1. [汪炀人类高质量老板](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E7%82%80%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E8%80%81%E6%9D%BF%23&Refer=top)
 
