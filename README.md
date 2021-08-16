@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-16 20:13:38
+## 微博今日热榜 更新于 2021-08-16 21:41:29
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
 
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
@@ -520,4 +520,28 @@
 1. [丁程鑫为严浩翔庆生](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%BA%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%BA%86%E7%94%9F%23&Refer=top)
 
 1. [陈小春是来搞笑的吧](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E6%98%AF%E6%9D%A5%E6%90%9E%E7%AC%91%E7%9A%84%E5%90%A7%23&Refer=top)
+
+1. [吴亦凡被批捕](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
+
+1. [腾讯视频崩了](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [吴亦凡被批捕时间线](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E6%89%B9%E6%8D%95%E6%97%B6%E9%97%B4%E7%BA%BF%23&Refer=top)
+
+1. [煮奶茶千万不要放柠檬](https://s.weibo.com//weibo?q=%23%E7%85%AE%E5%A5%B6%E8%8C%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%94%BE%E6%9F%A0%E6%AA%AC%23&Refer=top)
+
+1. [多平台下架吴亦凡作品](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BD%9C%E5%93%81%23&Refer=top)
+
+1. [中国演出行业协会评吴亦凡被批捕](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%87%BA%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E8%AF%84%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
+
+1. [严浩翔回复时代少年团成员生日祝福](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%9B%9E%E5%A4%8D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%88%90%E5%91%98%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=top)
+
+1. [人间siri林少春](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E9%97%B4siri%E6%9E%97%E5%B0%91%E6%98%A5%23&Refer=top)
+
+1. [北京暴雨](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [李一桐吐槽金晨晒黑了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E5%90%90%E6%A7%BD%E9%87%91%E6%99%A8%E6%99%92%E9%BB%91%E4%BA%86%23&Refer=top)
+
+1. [尼格买提送同事们杨倩同款发卡](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%80%81%E5%90%8C%E4%BA%8B%E4%BB%AC%E6%9D%A8%E5%80%A9%E5%90%8C%E6%AC%BE%E5%8F%91%E5%8D%A1%23&Refer=top)
+
+1. [民警为了宣传防溺水有多拼](https://s.weibo.com//weibo?q=%E6%B0%91%E8%AD%A6%E4%B8%BA%E4%BA%86%E5%AE%A3%E4%BC%A0%E9%98%B2%E6%BA%BA%E6%B0%B4%E6%9C%89%E5%A4%9A%E6%8B%BC&Refer=top)
 
