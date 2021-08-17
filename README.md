@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 00:10:46
+## 微博今日热榜 更新于 2021-08-18 01:15:29
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [校外培训班5大疑问](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E7%8F%AD5%E5%A4%A7%E7%96%91%E9%97%AE%23&Refer=top)
 
 1. [皮皮虾出拳速度只有千分之二秒](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E7%9A%AE%E8%99%BE%E5%87%BA%E6%8B%B3%E9%80%9F%E5%BA%A6%E5%8F%AA%E6%9C%89%E5%8D%83%E5%88%86%E4%B9%8B%E4%BA%8C%E7%A7%92%23&Refer=top)
+
+1. [我国碳卫星公布全球碳通量数据集](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%A2%B3%E5%8D%AB%E6%98%9F%E5%85%AC%E5%B8%83%E5%85%A8%E7%90%83%E7%A2%B3%E9%80%9A%E9%87%8F%E6%95%B0%E6%8D%AE%E9%9B%86%23&Refer=new_time)
+
+1. [樊振东回应不玩社交媒体](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E4%B8%8D%E7%8E%A9%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%23&Refer=top)
+
+1. [儿童药物将无针注射](https://s.weibo.com//weibo?q=%E5%84%BF%E7%AB%A5%E8%8D%AF%E7%89%A9%E5%B0%86%E6%97%A0%E9%92%88%E6%B3%A8%E5%B0%84&Refer=top)
+
+1. [孙俪发弹幕为苏筱加油](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E5%8F%91%E5%BC%B9%E5%B9%95%E4%B8%BA%E8%8B%8F%E7%AD%B1%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [李诞说小佳让脱口秀更有意义](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%AF%9E%E8%AF%B4%E5%B0%8F%E4%BD%B3%E8%AE%A9%E8%84%B1%E5%8F%A3%E7%A7%80%E6%9B%B4%E6%9C%89%E6%84%8F%E4%B9%89%23&Refer=top)
+
+1. [罗云熙发回眸图告别周小山](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%8F%91%E5%9B%9E%E7%9C%B8%E5%9B%BE%E5%91%8A%E5%88%AB%E5%91%A8%E5%B0%8F%E5%B1%B1%23&Refer=top)
 
