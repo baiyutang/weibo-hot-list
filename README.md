@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 00:11:31
+## 微博今日热榜 更新于 2021-08-19 01:16:29
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -106,4 +106,18 @@
 1. [天龙八部豆瓣评分](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%23&Refer=top)
 
 1. [南京一高校院长涉嫌婚内出轨](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E9%AB%98%E6%A0%A1%E9%99%A2%E9%95%BF%E6%B6%89%E5%AB%8C%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%23&Refer=top)
+
+1. [吉娜开口就是老妹儿啊](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%A8%9C%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E8%80%81%E5%A6%B9%E5%84%BF%E5%95%8A%23&Refer=top)
+
+1. [近2万名干警向纪委监委投案](https://s.weibo.com//weibo?q=%E8%BF%912%E4%B8%87%E5%90%8D%E5%B9%B2%E8%AD%A6%E5%90%91%E7%BA%AA%E5%A7%94%E7%9B%91%E5%A7%94%E6%8A%95%E6%A1%88&Refer=top)
+
+1. [陈思铭重现赵琦君名场面](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E9%93%AD%E9%87%8D%E7%8E%B0%E8%B5%B5%E7%90%A6%E5%90%9B%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [郭麒麟 彼此的爱要互相看到](https://s.weibo.com//weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%20%E5%BD%BC%E6%AD%A4%E7%9A%84%E7%88%B1%E8%A6%81%E4%BA%92%E7%9B%B8%E7%9C%8B%E5%88%B0&Refer=top)
+
+1. [洪成成陈思铭麦穗约会落单](https://s.weibo.com//weibo?q=%E6%B4%AA%E6%88%90%E6%88%90%E9%99%88%E6%80%9D%E9%93%AD%E9%BA%A6%E7%A9%97%E7%BA%A6%E4%BC%9A%E8%90%BD%E5%8D%95&Refer=top)
+
+1. [周生辰人设](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E4%BA%BA%E8%AE%BE%23&Refer=top)
+
+1. [钟汉良复古solo舞台好帅](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E5%A4%8D%E5%8F%A4solo%E8%88%9E%E5%8F%B0%E5%A5%BD%E5%B8%85%23&Refer=top)
 
