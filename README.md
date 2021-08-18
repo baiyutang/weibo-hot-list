@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 14:05:21
+## 微博今日热榜 更新于 2021-08-18 15:04:00
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -360,4 +360,38 @@
 1. [明晚金木水火土五星齐现夜空](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%99%9A%E9%87%91%E6%9C%A8%E6%B0%B4%E7%81%AB%E5%9C%9F%E4%BA%94%E6%98%9F%E9%BD%90%E7%8E%B0%E5%A4%9C%E7%A9%BA%23&Refer=top)
 
 1. [男孩暑托班被打成颅脑损伤](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E6%9A%91%E6%89%98%E7%8F%AD%E8%A2%AB%E6%89%93%E6%88%90%E9%A2%85%E8%84%91%E6%8D%9F%E4%BC%A4%23&Refer=top)
+
+1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
+
+1. [卜凡和坤音娱乐合约还未解除](https://s.weibo.com//weibo?q=%E5%8D%9C%E5%87%A1%E5%92%8C%E5%9D%A4%E9%9F%B3%E5%A8%B1%E4%B9%90%E5%90%88%E7%BA%A6%E8%BF%98%E6%9C%AA%E8%A7%A3%E9%99%A4&Refer=top)
+
+1. [19级大学生的痛](https://s.weibo.com//weibo?q=%2319%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%97%9B%23&Refer=top)
+
+1. [武汉一小区遭近千颗钢珠袭击](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%AD%E8%BF%91%E5%8D%83%E9%A2%97%E9%92%A2%E7%8F%A0%E8%A2%AD%E5%87%BB&Refer=top)
+
+1. [香港男子因向蜗牛撒盐被逮捕](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%91%E8%9C%97%E7%89%9B%E6%92%92%E7%9B%90%E8%A2%AB%E9%80%AE%E6%8D%95%23&Refer=top)
+
+1. [孟晚舟案今晚结案](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%A1%88%E4%BB%8A%E6%99%9A%E7%BB%93%E6%A1%88%23&Refer=top)
+
+1. [已婚男为寻刺激强制猥亵男工友](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%B8%BA%E5%AF%BB%E5%88%BA%E6%BF%80%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%E7%94%B7%E5%B7%A5%E5%8F%8B%23&Refer=top)
+
+1. [莆田交警通报蔚来自动驾驶车祸事件](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E8%94%9A%E6%9D%A5%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [郭俊辰神仙造型](https://s.weibo.com//weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E7%A5%9E%E4%BB%99%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [微信群聊天被骂群主不作为或担责](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%A4%A9%E8%A2%AB%E9%AA%82%E7%BE%A4%E4%B8%BB%E4%B8%8D%E4%BD%9C%E4%B8%BA%E6%88%96%E6%8B%85%E8%B4%A3&Refer=top)
+
+1. [侯明昊街头篮球复古氛围感](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E8%A1%97%E5%A4%B4%E7%AF%AE%E7%90%83%E5%A4%8D%E5%8F%A4%E6%B0%9B%E5%9B%B4%E6%84%9F%23&Refer=top)
+
+1. [医师法草案提请三审](https://s.weibo.com//weibo?q=%E5%8C%BB%E5%B8%88%E6%B3%95%E8%8D%89%E6%A1%88%E6%8F%90%E8%AF%B7%E4%B8%89%E5%AE%A1&Refer=top)
+
+1. [鹿晗撸猫花絮](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E6%92%B8%E7%8C%AB%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [海盐绵绵冰淇淋妆](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E7%9B%90%E7%BB%B5%E7%BB%B5%E5%86%B0%E6%B7%87%E6%B7%8B%E5%A6%86%23&Refer=top)
+
+1. [德云社群像大片表现力](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%BE%A4%E5%83%8F%E5%A4%A7%E7%89%87%E8%A1%A8%E7%8E%B0%E5%8A%9B%23&Refer=top)
+
+1. [电商前员工恶意刷单薅走平台45万元](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%95%86%E5%89%8D%E5%91%98%E5%B7%A5%E6%81%B6%E6%84%8F%E5%88%B7%E5%8D%95%E8%96%85%E8%B5%B0%E5%B9%B3%E5%8F%B045%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [当社恐来到了迪士尼](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%A4%BE%E6%81%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&Refer=top)
 
