@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 09:45:20
+## 微博今日热榜 更新于 2021-08-18 10:15:30
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -230,4 +230,26 @@
 1. [西安生态葬可获最多5000元奖励](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E7%94%9F%E6%80%81%E8%91%AC%E5%8F%AF%E8%8E%B7%E6%9C%80%E5%A4%9A5000%E5%85%83%E5%A5%96%E5%8A%B1%23&Refer=top)
 
 1. [贝弗利被交易至森林狼](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E5%BC%97%E5%88%A9%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E6%A3%AE%E6%9E%97%E7%8B%BC%23&Refer=top)
+
+1. [杨幂被路人搭讪](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%90%AD%E8%AE%AA%23&Refer=top)
+
+1. [月薪4万是种什么体验](https://s.weibo.com//weibo?q=%23%E6%9C%88%E8%96%AA4%E4%B8%87%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [刘烨妻子原来这么厉害](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%83%A8%E5%A6%BB%E5%AD%90%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&Refer=top)
+
+1. [阿富汗将停止生产毒品](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B0%86%E5%81%9C%E6%AD%A2%E7%94%9F%E4%BA%A7%E6%AF%92%E5%93%81&Refer=top)
+
+1. [医师自愿参与公共场所救治免责](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%B8%88%E8%87%AA%E6%84%BF%E5%8F%82%E4%B8%8E%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E6%95%91%E6%B2%BB%E5%85%8D%E8%B4%A3%23&Refer=top)
+
+1. [零食吃对了有助延长寿命](https://s.weibo.com//weibo?q=%E9%9B%B6%E9%A3%9F%E5%90%83%E5%AF%B9%E4%BA%86%E6%9C%89%E5%8A%A9%E5%BB%B6%E9%95%BF%E5%AF%BF%E5%91%BD&Refer=top)
+
+1. [90后中国说唱歌手喊话美国](https://s.weibo.com//weibo?q=90%E5%90%8E%E4%B8%AD%E5%9B%BD%E8%AF%B4%E5%94%B1%E6%AD%8C%E6%89%8B%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD&Refer=top)
+
+1. [打开德堡的大门](https://s.weibo.com//weibo?q=%23%E6%89%93%E5%BC%80%E5%BE%B7%E5%A0%A1%E7%9A%84%E5%A4%A7%E9%97%A8%23&Refer=top)
+
+1. [阿富汗总统到底多富有](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E6%80%BB%E7%BB%9F%E5%88%B0%E5%BA%95%E5%A4%9A%E5%AF%8C%E6%9C%89&Refer=top)
+
+1. [小伙嫌女友管太严故意醉驾想坐牢](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AB%8C%E5%A5%B3%E5%8F%8B%E7%AE%A1%E5%A4%AA%E4%B8%A5%E6%95%85%E6%84%8F%E9%86%89%E9%A9%BE%E6%83%B3%E5%9D%90%E7%89%A2%23&Refer=top)
+
+1. [专家预测英国10月可能爆发大规模感染](https://s.weibo.com//weibo?q=%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B%E8%8B%B1%E5%9B%BD10%E6%9C%88%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%84%9F%E6%9F%93&Refer=top)
 
