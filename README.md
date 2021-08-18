@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 12:05:25
+## 微博今日热榜 更新于 2021-08-18 13:03:14
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -304,4 +304,26 @@
 1. [颜怡颜悦双胞胎吐槽夫妻相处](https://s.weibo.com//weibo?q=%23%E9%A2%9C%E6%80%A1%E9%A2%9C%E6%82%A6%E5%8F%8C%E8%83%9E%E8%83%8E%E5%90%90%E6%A7%BD%E5%A4%AB%E5%A6%BB%E7%9B%B8%E5%A4%84%23&Refer=top)
 
 1. [遭男老师猥亵受害学生讲述庭审细节](https://s.weibo.com//weibo?q=%E9%81%AD%E7%94%B7%E8%80%81%E5%B8%88%E7%8C%A5%E4%BA%B5%E5%8F%97%E5%AE%B3%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E5%BA%AD%E5%AE%A1%E7%BB%86%E8%8A%82&Refer=top)
+
+1. [叫了只炸鸡门店发现老鼠屎和蜘蛛网](https://s.weibo.com//weibo?q=%23%E5%8F%AB%E4%BA%86%E5%8F%AA%E7%82%B8%E9%B8%A1%E9%97%A8%E5%BA%97%E5%8F%91%E7%8E%B0%E8%80%81%E9%BC%A0%E5%B1%8E%E5%92%8C%E8%9C%98%E8%9B%9B%E7%BD%91%23&Refer=top)
+
+1. [孙颖莎说每次与伊藤交手都非常开心](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%AF%8F%E6%AC%A1%E4%B8%8E%E4%BC%8A%E8%97%A4%E4%BA%A4%E6%89%8B%E9%83%BD%E9%9D%9E%E5%B8%B8%E5%BC%80%E5%BF%83%23&Refer=top)
+
+1. [魏萌去世涉事公司发布声明](https://s.weibo.com//weibo?q=%23%E9%AD%8F%E8%90%8C%E5%8E%BB%E4%B8%96%E6%B6%89%E4%BA%8B%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [我国超195万人申领电子驾驶证](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%85195%E4%B8%87%E4%BA%BA%E7%94%B3%E9%A2%86%E7%94%B5%E5%AD%90%E9%A9%BE%E9%A9%B6%E8%AF%81%23&Refer=top)
+
+1. [二哈与他的白猫师尊配音](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%93%88%E4%B8%8E%E4%BB%96%E7%9A%84%E7%99%BD%E7%8C%AB%E5%B8%88%E5%B0%8A%E9%85%8D%E9%9F%B3%23&Refer=top)
+
+1. [谭松韵笑容怼脸拍](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%AC%91%E5%AE%B9%E6%80%BC%E8%84%B8%E6%8B%8D%23&Refer=top)
+
+1. [家属回应投资人魏萌离世](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%84%E4%BA%BA%E9%AD%8F%E8%90%8C%E7%A6%BB%E4%B8%96%23&Refer=top)
+
+1. [德云社团综第二季双播定档](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%9B%A2%E7%BB%BC%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%8F%8C%E6%92%AD%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [再见爱人](https://s.weibo.com//weibo?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA&Refer=top)
+
+1. [被本土便利店治愈的瞬间](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%9C%AC%E5%9C%9F%E4%BE%BF%E5%88%A9%E5%BA%97%E6%B2%BB%E6%84%88%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [阿富汗副总统麾下部队正与塔利班作战](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%AF%E6%80%BB%E7%BB%9F%E9%BA%BE%E4%B8%8B%E9%83%A8%E9%98%9F%E6%AD%A3%E4%B8%8E%E5%A1%94%E5%88%A9%E7%8F%AD%E4%BD%9C%E6%88%98&Refer=top)
 
