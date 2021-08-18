@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 16:09:30
+## 微博今日热榜 更新于 2021-08-18 17:08:24
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -430,4 +430,26 @@
 1. [欧阳娜娜浴室翻唱放空](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%B5%B4%E5%AE%A4%E7%BF%BB%E5%94%B1%E6%94%BE%E7%A9%BA%23&Refer=top)
 
 1. [难怪说老人就像小孩一样](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E6%80%AA%E8%AF%B4%E8%80%81%E4%BA%BA%E5%B0%B1%E5%83%8F%E5%B0%8F%E5%AD%A9%E4%B8%80%E6%A0%B7%23&Refer=top)
+
+1. [武汉全员核酸检测发现网上逃犯](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8F%91%E7%8E%B0%E7%BD%91%E4%B8%8A%E9%80%83%E7%8A%AF%23&Refer=top)
+
+1. [肖战登马来西亚报纸头条](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%99%BB%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%8A%A5%E7%BA%B8%E5%A4%B4%E6%9D%A1%23&Refer=top)
+
+1. [王源演唱会暂停举行](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%82%E5%81%9C%E4%B8%BE%E8%A1%8C%23&Refer=top)
+
+1. [湖南卫视818节目单](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86818%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
+
+1. [郑州小区解封居民欢呼场面似跨年](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%B0%8F%E5%8C%BA%E8%A7%A3%E5%B0%81%E5%B1%85%E6%B0%91%E6%AC%A2%E5%91%BC%E5%9C%BA%E9%9D%A2%E4%BC%BC%E8%B7%A8%E5%B9%B4%23&Refer=top)
+
+1. [赵立坚回应美政客呼吁拜登禁用TikTok](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%94%BF%E5%AE%A2%E5%91%BC%E5%90%81%E6%8B%9C%E7%99%BB%E7%A6%81%E7%94%A8TikTok%23&Refer=top)
+
+1. [男子高铁上拒戴口罩连续殴打13人](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E6%8B%92%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%BF%9E%E7%BB%AD%E6%AE%B4%E6%89%9313%E4%BA%BA&Refer=top)
+
+1. [白鹿演的时宜](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%BC%94%E7%9A%84%E6%97%B6%E5%AE%9C%23&Refer=top)
+
+1. [当猫咪长了副大众脸](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%8C%AB%E5%92%AA%E9%95%BF%E4%BA%86%E5%89%AF%E5%A4%A7%E4%BC%97%E8%84%B8%23&Refer=top)
+
+1. [蔚来车主联合声明](https://s.weibo.com//weibo?q=%23%E8%94%9A%E6%9D%A5%E8%BD%A6%E4%B8%BB%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [理想之城里的职场小知识](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E%E9%87%8C%E7%9A%84%E8%81%8C%E5%9C%BA%E5%B0%8F%E7%9F%A5%E8%AF%86%23&Refer=top)
 
