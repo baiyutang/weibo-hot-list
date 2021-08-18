@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 06:03:38
+## 微博今日热榜 更新于 2021-08-19 07:04:06
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -138,4 +138,6 @@
 1. [全国现有29地高风险80地中风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%8929%E5%9C%B0%E9%AB%98%E9%A3%8E%E9%99%A980%E5%9C%B0%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
 
 1. [蔡徐坤复古燕尾服造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%8F%A4%E7%87%95%E5%B0%BE%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [白鹿高质量端水大师](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E9%AB%98%E8%B4%A8%E9%87%8F%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&Refer=top)
 
