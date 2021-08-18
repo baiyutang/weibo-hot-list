@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 17:08:24
+## 微博今日热榜 更新于 2021-08-18 18:09:33
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -452,4 +452,34 @@
 1. [蔚来车主联合声明](https://s.weibo.com//weibo?q=%23%E8%94%9A%E6%9D%A5%E8%BD%A6%E4%B8%BB%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top)
 
 1. [理想之城里的职场小知识](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E%E9%87%8C%E7%9A%84%E8%81%8C%E5%9C%BA%E5%B0%8F%E7%9F%A5%E8%AF%86%23&Refer=top)
+
+1. [北京再次明确不发展共享电单车](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%8D%E6%AC%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%8F%91%E5%B1%95%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8D%95%E8%BD%A6%23&Refer=top)
+
+1. [Siri主人用获赔款买2400斤狗粮捐出](https://s.weibo.com//weibo?q=%23Siri%E4%B8%BB%E4%BA%BA%E7%94%A8%E8%8E%B7%E8%B5%94%E6%AC%BE%E4%B9%B02400%E6%96%A4%E7%8B%97%E7%B2%AE%E6%8D%90%E5%87%BA%23&Refer=top)
+
+1. [中国政法大学原副校长于志刚被公诉](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BA%8E%E5%BF%97%E5%88%9A%E8%A2%AB%E5%85%AC%E8%AF%89%23&Refer=top)
+
+1. [孙怡 这种三观让我生气](https://s.weibo.com//weibo?q=%E5%AD%99%E6%80%A1%20%E8%BF%99%E7%A7%8D%E4%B8%89%E8%A7%82%E8%AE%A9%E6%88%91%E7%94%9F%E6%B0%94&Refer=top)
+
+1. [美主持人不解为何美国要接收阿富汗难民](https://s.weibo.com//weibo?q=%E7%BE%8E%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%8D%E8%A7%A3%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%8E%A5%E6%94%B6%E9%98%BF%E5%AF%8C%E6%B1%97%E9%9A%BE%E6%B0%91&Refer=top)
+
+1. [阿富汗央行行长自述逃跑经过](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E8%87%AA%E8%BF%B0%E9%80%83%E8%B7%91%E7%BB%8F%E8%BF%87&Refer=top)
+
+1. [孟美岐再跳撑腰名场面](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%86%8D%E8%B7%B3%E6%92%91%E8%85%B0%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+
+1. [甘肃一政府人员持刀行凶致2死](https://s.weibo.com//weibo?q=%23%E7%94%98%E8%82%83%E4%B8%80%E6%94%BF%E5%BA%9C%E4%BA%BA%E5%91%98%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%E8%87%B42%E6%AD%BB%23&Refer=top)
+
+1. [还以为吃个宴席都要吊威亚](https://s.weibo.com//weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%90%83%E4%B8%AA%E5%AE%B4%E5%B8%AD%E9%83%BD%E8%A6%81%E5%90%8A%E5%A8%81%E4%BA%9A%23&Refer=top)
+
+1. [浙江卫视818晚会节目单](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86818%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
+
+1. [还是山鸡哥厉害啊](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%98%AF%E5%B1%B1%E9%B8%A1%E5%93%A5%E5%8E%89%E5%AE%B3%E5%95%8A%23&Refer=top)
+
+1. [南信大回应院长被举报婚内出轨](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BF%A1%E5%A4%A7%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%23&Refer=top)
+
+1. [阿富汗最年轻女市长称不会离开](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%B8%82%E9%95%BF%E7%A7%B0%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80%23&Refer=top)
+
+1. [外交部回应阿富汗人权问题](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [南通支云暂停谢晖主教练职务](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%80%9A%E6%94%AF%E4%BA%91%E6%9A%82%E5%81%9C%E8%B0%A2%E6%99%96%E4%B8%BB%E6%95%99%E7%BB%83%E8%81%8C%E5%8A%A1%23&Refer=top)
 
