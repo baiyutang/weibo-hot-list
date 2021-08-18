@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 02:09:41
+## 微博今日热榜 更新于 2021-08-19 03:07:40
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [818](https://s.weibo.com//weibo?q=818&Refer=top)
 
 1. [阿富汗](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97&Refer=top)
+
+1. [上海研发支架口罩戴眼镜不起雾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A0%94%E5%8F%91%E6%94%AF%E6%9E%B6%E5%8F%A3%E7%BD%A9%E6%88%B4%E7%9C%BC%E9%95%9C%E4%B8%8D%E8%B5%B7%E9%9B%BE%23&Refer=top)
 
