@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 01:16:29
+## 微博今日热榜 更新于 2021-08-19 02:09:41
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -120,4 +120,10 @@
 1. [周生辰人设](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E4%BA%BA%E8%AE%BE%23&Refer=top)
 
 1. [钟汉良复古solo舞台好帅](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E5%A4%8D%E5%8F%A4solo%E8%88%9E%E5%8F%B0%E5%A5%BD%E5%B8%85%23&Refer=top)
+
+1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
+
+1. [818](https://s.weibo.com//weibo?q=818&Refer=top)
+
+1. [阿富汗](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97&Refer=top)
 
