@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 22:08:39
+## 微博今日热榜 更新于 2021-08-18 23:08:43
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -628,4 +628,42 @@
 1. [长沙暴雨](https://s.weibo.com//weibo?q=%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8&Refer=top)
 
 1. [哈尔滨一公交司机疑马路飙车](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E7%96%91%E9%A9%AC%E8%B7%AF%E9%A3%99%E8%BD%A6%23&Refer=top)
+
+1. [一跃跨千年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B7%83%E8%B7%A8%E5%8D%83%E5%B9%B4%23&Refer=new_time)
+
+1. [披荆斩棘的姐姐们颜值有多绝](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC%E9%A2%9C%E5%80%BC%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+
+1. [江西警方提醒不要传播未成年人霸凌视频](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E4%BC%A0%E6%92%AD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%9C%B8%E5%87%8C%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [张文宏回应网友关心](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%85%B3%E5%BF%83%23&Refer=top)
+
+1. [宋亚轩wave](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9wave&Refer=top)
+
+1. [蔡徐坤复古燕尾服造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%8F%A4%E7%87%95%E5%B0%BE%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [刘耀文转笛子](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%BD%AC%E7%AC%9B%E5%AD%90%23&Refer=top)
+
+1. [宝可梦](https://s.weibo.com//weibo?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6&Refer=top)
+
+1. [何广智说海王和海狗的区别](https://s.weibo.com//weibo?q=%23%E4%BD%95%E5%B9%BF%E6%99%BA%E8%AF%B4%E6%B5%B7%E7%8E%8B%E5%92%8C%E6%B5%B7%E7%8B%97%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [上海与宁德时代签约](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8E%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E7%AD%BE%E7%BA%A6%23&Refer=top)
+
+1. [时代少年团我喜欢你好甜](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%E5%A5%BD%E7%94%9C&Refer=top)
+
+1. [蔡徐坤感受她首秀舞台](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%84%9F%E5%8F%97%E5%A5%B9%E9%A6%96%E7%A7%80%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [浙江卫视的彩蛋是周杰伦](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E7%9A%84%E5%BD%A9%E8%9B%8B%E6%98%AF%E5%91%A8%E6%9D%B0%E4%BC%A6&Refer=top)
+
+1. [时代少年团朱雀背光大片](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%9C%B1%E9%9B%80%E8%83%8C%E5%85%89%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [逆水寒让剑网3好好做游戏](https://s.weibo.com//weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%E8%AE%A9%E5%89%91%E7%BD%913%E5%A5%BD%E5%A5%BD%E5%81%9A%E6%B8%B8%E6%88%8F%23&Refer=top)
+
+1. [一生一世](https://s.weibo.com//weibo?q=%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96&Refer=top)
+
+1. [为啥文人总是显得不快乐](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%96%87%E4%BA%BA%E6%80%BB%E6%98%AF%E6%98%BE%E5%BE%97%E4%B8%8D%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [刘雨昕镜头捕捉力](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%A8%E6%98%95%E9%95%9C%E5%A4%B4%E6%8D%95%E6%8D%89%E5%8A%9B&Refer=top)
+
+1. [日本东京湾发现残奥会保安浮尸](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E6%B9%BE%E5%8F%91%E7%8E%B0%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%BF%9D%E5%AE%89%E6%B5%AE%E5%B0%B8%23&Refer=top)
 
