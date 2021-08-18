@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 15:04:00
+## 微博今日热榜 更新于 2021-08-18 16:09:30
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -394,4 +394,40 @@
 1. [电商前员工恶意刷单薅走平台45万元](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%95%86%E5%89%8D%E5%91%98%E5%B7%A5%E6%81%B6%E6%84%8F%E5%88%B7%E5%8D%95%E8%96%85%E8%B5%B0%E5%B9%B3%E5%8F%B045%E4%B8%87%E5%85%83%23&Refer=top)
 
 1. [当社恐来到了迪士尼](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%A4%BE%E6%81%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&Refer=top)
+
+1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
+
+1. [杨迪 这是我录过最刺激的综艺](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%BF%AA%20%E8%BF%99%E6%98%AF%E6%88%91%E5%BD%95%E8%BF%87%E6%9C%80%E5%88%BA%E6%BF%80%E7%9A%84%E7%BB%BC%E8%89%BA&Refer=top)
+
+1. [HM国内总公司已被罚22次](https://s.weibo.com//weibo?q=%23HM%E5%9B%BD%E5%86%85%E6%80%BB%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E7%BD%9A22%E6%AC%A1%23&Refer=top)
+
+1. [张杰吃鱼鱼骨卡在食道里](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%90%83%E9%B1%BC%E9%B1%BC%E9%AA%A8%E5%8D%A1%E5%9C%A8%E9%A3%9F%E9%81%93%E9%87%8C%23&Refer=top)
+
+1. [外卖2个馒头收2次打包费](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%8D%962%E4%B8%AA%E9%A6%92%E5%A4%B4%E6%94%B62%E6%AC%A1%E6%89%93%E5%8C%85%E8%B4%B9%23&Refer=top)
+
+1. [孙颖莎晒出奥运会上收集的徽章](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%92%E5%87%BA%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%8A%E6%94%B6%E9%9B%86%E7%9A%84%E5%BE%BD%E7%AB%A0%23&Refer=top)
+
+1. [女子赶地铁包被门夹断只剩包带](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B6%E5%9C%B0%E9%93%81%E5%8C%85%E8%A2%AB%E9%97%A8%E5%A4%B9%E6%96%AD%E5%8F%AA%E5%89%A9%E5%8C%85%E5%B8%A6%23&Refer=top)
+
+1. [喀布尔一袋面粉涨到165元人民币](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%B8%83%E5%B0%94%E4%B8%80%E8%A2%8B%E9%9D%A2%E7%B2%89%E6%B6%A8%E5%88%B0165%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23&Refer=top)
+
+1. [张馨予公路野生大片](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%85%AC%E8%B7%AF%E9%87%8E%E7%94%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [卜凡工作室声明](https://s.weibo.com//weibo?q=%23%E5%8D%9C%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [乔家的儿女好看吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E5%A5%BD%E7%9C%8B%E5%90%97%23&Refer=top)
+
+1. [段誉见到王语嫣后尿裤子了](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E8%AA%89%E8%A7%81%E5%88%B0%E7%8E%8B%E8%AF%AD%E5%AB%A3%E5%90%8E%E5%B0%BF%E8%A3%A4%E5%AD%90%E4%BA%86%23&Refer=top)
+
+1. [kk被群嘲当众离席](https://s.weibo.com//weibo?q=%23kk%E8%A2%AB%E7%BE%A4%E5%98%B2%E5%BD%93%E4%BC%97%E7%A6%BB%E5%B8%AD%23&Refer=top)
+
+1. [辣目洋子罚赫雷跪榴莲](https://s.weibo.com//weibo?q=%23%E8%BE%A3%E7%9B%AE%E6%B4%8B%E5%AD%90%E7%BD%9A%E8%B5%AB%E9%9B%B7%E8%B7%AA%E6%A6%B4%E8%8E%B2%23&Refer=top)
+
+1. [倪萍最好的年龄没穿过连衣裙](https://s.weibo.com//weibo?q=%23%E5%80%AA%E8%90%8D%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B9%B4%E9%BE%84%E6%B2%A1%E7%A9%BF%E8%BF%87%E8%BF%9E%E8%A1%A3%E8%A3%99%23&Refer=top)
+
+1. [吴月红不行复读机](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%9C%88%E7%BA%A2%E4%B8%8D%E8%A1%8C%E5%A4%8D%E8%AF%BB%E6%9C%BA%23&Refer=top)
+
+1. [欧阳娜娜浴室翻唱放空](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%B5%B4%E5%AE%A4%E7%BF%BB%E5%94%B1%E6%94%BE%E7%A9%BA%23&Refer=top)
+
+1. [难怪说老人就像小孩一样](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E6%80%AA%E8%AF%B4%E8%80%81%E4%BA%BA%E5%B0%B1%E5%83%8F%E5%B0%8F%E5%AD%A9%E4%B8%80%E6%A0%B7%23&Refer=top)
 
