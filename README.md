@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-18 18:09:33
+## 微博今日热榜 更新于 2021-08-18 19:03:17
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
 
 1. [黄晓明终究是被磨平了棱角](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%BB%88%E7%A9%B6%E6%98%AF%E8%A2%AB%E7%A3%A8%E5%B9%B3%E4%BA%86%E6%A3%B1%E8%A7%92%23&Refer=top)
@@ -482,4 +482,32 @@
 1. [外交部回应阿富汗人权问题](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98%23&Refer=top)
 
 1. [南通支云暂停谢晖主教练职务](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%80%9A%E6%94%AF%E4%BA%91%E6%9A%82%E5%81%9C%E8%B0%A2%E6%99%96%E4%B8%BB%E6%95%99%E7%BB%83%E8%81%8C%E5%8A%A1%23&Refer=top)
+
+1. [上海疫情](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [沈月爸爸在家庭群宣传新剧](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E7%88%B8%E7%88%B8%E5%9C%A8%E5%AE%B6%E5%BA%AD%E7%BE%A4%E5%AE%A3%E4%BC%A0%E6%96%B0%E5%89%A7%23&Refer=top)
+
+1. [杨洋 吓得我差点设置成半年可见](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B4%8B%20%E5%90%93%E5%BE%97%E6%88%91%E5%B7%AE%E7%82%B9%E8%AE%BE%E7%BD%AE%E6%88%90%E5%8D%8A%E5%B9%B4%E5%8F%AF%E8%A7%81&Refer=top)
+
+1. [华尔街英语高管称12亿学费退费艰难](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97%E8%8B%B1%E8%AF%AD%E9%AB%98%E7%AE%A1%E7%A7%B012%E4%BA%BF%E5%AD%A6%E8%B4%B9%E9%80%80%E8%B4%B9%E8%89%B0%E9%9A%BE%23&Refer=top)
+
+1. [卜凡退出818直播](https://s.weibo.com//weibo?q=%23%E5%8D%9C%E5%87%A1%E9%80%80%E5%87%BA818%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [上海松江中心医院一女护士确诊](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%9D%BE%E6%B1%9F%E4%B8%AD%E5%BF%83%E5%8C%BB%E9%99%A2%E4%B8%80%E5%A5%B3%E6%8A%A4%E5%A3%AB%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [5000名美国公民仍滞留阿富汗](https://s.weibo.com//weibo?q=%235000%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BB%8D%E6%BB%9E%E7%95%99%E9%98%BF%E5%AF%8C%E6%B1%97%23&Refer=top)
+
+1. [李现晒看展plog](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%99%92%E7%9C%8B%E5%B1%95plog%23&Refer=top)
+
+1. [谢谢你中国医生](https://s.weibo.com//weibo?q=%E8%B0%A2%E8%B0%A2%E4%BD%A0%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
+
+1. [周生如故](https://s.weibo.com//weibo?q=%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85&Refer=top)
+
+1. [浙江卫视818彩排](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86818%E5%BD%A9%E6%8E%92%23&Refer=top)
+
+1. [重庆彩虹](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%BD%A9%E8%99%B9&Refer=top)
+
+1. [有一种使命叫课前到书](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E4%BD%BF%E5%91%BD%E5%8F%AB%E8%AF%BE%E5%89%8D%E5%88%B0%E4%B9%A6%23&Refer=top)
+
+1. [新疆3例无症状基因测序为德尔塔毒株](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%863%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8F%E4%B8%BA%E5%BE%B7%E5%B0%94%E5%A1%94%E6%AF%92%E6%A0%AA%23&Refer=top)
 
