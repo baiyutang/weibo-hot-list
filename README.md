@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-20 00:12:13
+## 微博今日热榜 更新于 2021-08-20 01:17:15
 1. [八部门发文保障劳动者权益](https://s.weibo.com//weibo?q=%23%E5%85%AB%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E4%BF%9D%E9%9A%9C%E5%8A%B3%E5%8A%A8%E8%80%85%E6%9D%83%E7%9B%8A%23&Refer=new_time)
 
 1. [中秋放假3天需调休](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E9%9C%80%E8%B0%83%E4%BC%91%23&Refer=top)
@@ -106,4 +106,22 @@
 1. [柳碧云被婆婆扇耳光](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E7%A2%A7%E4%BA%91%E8%A2%AB%E5%A9%86%E5%A9%86%E6%89%87%E8%80%B3%E5%85%89%23&Refer=top)
 
 1. [小车摄像头被新手司机贴鬼影照报复](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%BD%A6%E6%91%84%E5%83%8F%E5%A4%B4%E8%A2%AB%E6%96%B0%E6%89%8B%E5%8F%B8%E6%9C%BA%E8%B4%B4%E9%AC%BC%E5%BD%B1%E7%85%A7%E6%8A%A5%E5%A4%8D%23&Refer=top)
+
+1. [中国最东端高铁开始试运行](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%B8%9C%E7%AB%AF%E9%AB%98%E9%93%81%E5%BC%80%E5%A7%8B%E8%AF%95%E8%BF%90%E8%A1%8C%23&Refer=new_time)
+
+1. [黄子韬劝粉丝玩游戏不要花钱](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8A%9D%E7%B2%89%E4%B8%9D%E7%8E%A9%E6%B8%B8%E6%88%8F%E4%B8%8D%E8%A6%81%E8%8A%B1%E9%92%B1%23&Refer=top)
+
+1. [王嘉尔演出服是自己剪的](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%BC%94%E5%87%BA%E6%9C%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E5%89%AA%E7%9A%84%23&Refer=top)
+
+1. [乔家的儿女小演员选角](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E5%B0%8F%E6%BC%94%E5%91%98%E9%80%89%E8%A7%92%23&Refer=top)
+
+1. [四美回家](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E7%BE%8E%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [刘雨昕尼格买提合唱小幸运](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%90%88%E5%94%B1%E5%B0%8F%E5%B9%B8%E8%BF%90%23&Refer=top)
+
+1. [高明远培养麦佳](https://s.weibo.com//weibo?q=%E9%AB%98%E6%98%8E%E8%BF%9C%E5%9F%B9%E5%85%BB%E9%BA%A6%E4%BD%B3&Refer=top)
+
+1. [周生辰教科书式对待前女友](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%AF%B9%E5%BE%85%E5%89%8D%E5%A5%B3%E5%8F%8B%23&Refer=top)
+
+1. [每日上班前的心理建设](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E6%97%A5%E4%B8%8A%E7%8F%AD%E5%89%8D%E7%9A%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE%23&Refer=top)
 
