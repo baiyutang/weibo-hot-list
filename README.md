@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 22:08:39
+## 微博今日热榜 更新于 2021-08-19 23:08:33
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -596,4 +596,32 @@
 1. [和商家聊天不能乱发表情包](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%95%86%E5%AE%B6%E8%81%8A%E5%A4%A9%E4%B8%8D%E8%83%BD%E4%B9%B1%E5%8F%91%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
 
 1. [四川8岁女孩水花消失术](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D8%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%23&Refer=top)
+
+1. [塔利班领导人下令释放政治囚犯](https://s.weibo.com//weibo?q=%E5%A1%94%E5%88%A9%E7%8F%AD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%8B%E4%BB%A4%E9%87%8A%E6%94%BE%E6%94%BF%E6%B2%BB%E5%9B%9A%E7%8A%AF&Refer=top)
+
+1. [北京暴雨溺水事件两位救人者同名同姓](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E6%BA%BA%E6%B0%B4%E4%BA%8B%E4%BB%B6%E4%B8%A4%E4%BD%8D%E6%95%91%E4%BA%BA%E8%80%85%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%23&Refer=top)
+
+1. [原来马桶是醒花神器](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E6%A1%B6%E6%98%AF%E9%86%92%E8%8A%B1%E7%A5%9E%E5%99%A8%23&Refer=top)
+
+1. [王祖蓝抱老婆人形立牌不撒手](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E6%8A%B1%E8%80%81%E5%A9%86%E4%BA%BA%E5%BD%A2%E7%AB%8B%E7%89%8C%E4%B8%8D%E6%92%92%E6%89%8B%23&Refer=top)
+
+1. [龚俊直播](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%9B%B4%E6%92%AD%23&Refer=top)
+
+1. [感受到中国邮政力量的瞬间](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%8F%97%E5%88%B0%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%8A%9B%E9%87%8F%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [国乒女队直播太好笑了](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E9%98%9F%E7%9B%B4%E6%92%AD%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [中秋放假3天需调休](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E9%9C%80%E8%B0%83%E4%BC%91%23&Refer=top)
+
+1. [任嘉伦白鹿眼神拉丝](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%99%BD%E9%B9%BF%E7%9C%BC%E7%A5%9E%E6%8B%89%E4%B8%9D%23&Refer=top)
+
+1. [周生辰时宜在恋爱边缘疯狂试探](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E6%97%B6%E5%AE%9C%E5%9C%A8%E6%81%8B%E7%88%B1%E8%BE%B9%E7%BC%98%E7%96%AF%E7%8B%82%E8%AF%95%E6%8E%A2%23&Refer=top)
+
+1. [小车摄像头被新手司机贴鬼影照报复](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%BD%A6%E6%91%84%E5%83%8F%E5%A4%B4%E8%A2%AB%E6%96%B0%E6%89%8B%E5%8F%B8%E6%9C%BA%E8%B4%B4%E9%AC%BC%E5%BD%B1%E7%85%A7%E6%8A%A5%E5%A4%8D%23&Refer=top)
+
+1. [3岁小孩失踪2天后出现在山顶](https://s.weibo.com//weibo?q=%233%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%A4%B1%E8%B8%AA2%E5%A4%A9%E5%90%8E%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%B1%B1%E9%A1%B6%23&Refer=top)
+
+1. [辰时cp好笑](https://s.weibo.com//weibo?q=%23%E8%BE%B0%E6%97%B6cp%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [祖孙2人6000里隔空共餐](https://s.weibo.com//weibo?q=%23%E7%A5%96%E5%AD%992%E4%BA%BA6000%E9%87%8C%E9%9A%94%E7%A9%BA%E5%85%B1%E9%A4%90%23&Refer=top)
 
