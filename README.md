@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-20 04:08:46
+## 微博今日热榜 更新于 2021-08-20 05:05:24
 1. [八部门发文保障劳动者权益](https://s.weibo.com//weibo?q=%23%E5%85%AB%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E4%BF%9D%E9%9A%9C%E5%8A%B3%E5%8A%A8%E8%80%85%E6%9D%83%E7%9B%8A%23&Refer=new_time)
 
 1. [中秋放假3天需调休](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E9%9C%80%E8%B0%83%E4%BC%91%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [RNG LNG](https://s.weibo.com//weibo?q=RNG%20LNG&Refer=top)
 
 1. [林彦俊告别苏念衾](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E5%91%8A%E5%88%AB%E8%8B%8F%E5%BF%B5%E8%A1%BE%23&Refer=top)
+
+1. [机智张声明](https://s.weibo.com//weibo?q=%E6%9C%BA%E6%99%BA%E5%BC%A0%E5%A3%B0%E6%98%8E&Refer=top)
 
