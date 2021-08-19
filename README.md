@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 17:10:42
+## 微博今日热榜 更新于 2021-08-19 18:09:51
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -448,4 +448,34 @@
 1. [明天就出伏了](https://s.weibo.com//weibo?q=%23%E6%98%8E%E5%A4%A9%E5%B0%B1%E5%87%BA%E4%BC%8F%E4%BA%86%23&Refer=top)
 
 1. [苹果将在中国生产AirPods3](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E4%BA%A7AirPods3%23&Refer=top)
+
+1. [孟子义嗑到真的了](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%97%91%E5%88%B0%E7%9C%9F%E7%9A%84%E4%BA%86%23&Refer=top)
+
+1. [女生千万不要买的鞋](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%B9%B0%E7%9A%84%E9%9E%8B%23&Refer=top)
+
+1. [老人故意把杯子放电梯口致故障冒烟](https://s.weibo.com//weibo?q=%E8%80%81%E4%BA%BA%E6%95%85%E6%84%8F%E6%8A%8A%E6%9D%AF%E5%AD%90%E6%94%BE%E7%94%B5%E6%A2%AF%E5%8F%A3%E8%87%B4%E6%95%85%E9%9A%9C%E5%86%92%E7%83%9F&Refer=top)
+
+1. [成都要让在家看雪山成为常态](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%A6%81%E8%AE%A9%E5%9C%A8%E5%AE%B6%E7%9C%8B%E9%9B%AA%E5%B1%B1%E6%88%90%E4%B8%BA%E5%B8%B8%E6%80%81%23&Refer=top)
+
+1. [95花事业心](https://s.weibo.com//weibo?q=95%E8%8A%B1%E4%BA%8B%E4%B8%9A%E5%BF%83&Refer=top)
+
+1. [心动的信号4观后感](https://s.weibo.com//weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top)
+
+1. [禁止热饭公司员工发声](https://s.weibo.com//weibo?q=%E7%A6%81%E6%AD%A2%E7%83%AD%E9%A5%AD%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [刘国强一审被控受贿3.5亿余元](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E5%BC%BA%E4%B8%80%E5%AE%A1%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF3.5%E4%BA%BF%E4%BD%99%E5%85%83%23&Refer=top)
+
+1. [杨幂初秋静谧感大片](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%9D%E7%A7%8B%E9%9D%99%E8%B0%A7%E6%84%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [中国队出征东京残奥会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E5%BE%81%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%23&Refer=top)
+
+1. [LPL季后赛](https://s.weibo.com//weibo?q=%23LPL%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top)
+
+1. [懒对一个人的影响有多大](https://s.weibo.com//weibo?q=%23%E6%87%92%E5%AF%B9%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [吴尊晒隔离健身vlog](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E6%99%92%E9%9A%94%E7%A6%BB%E5%81%A5%E8%BA%ABvlog%23&Refer=top)
+
+1. [阿富汗前总理称人民对未来充满希望](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E6%80%BB%E7%90%86%E7%A7%B0%E4%BA%BA%E6%B0%91%E5%AF%B9%E6%9C%AA%E6%9D%A5%E5%85%85%E6%BB%A1%E5%B8%8C%E6%9C%9B%23&Refer=top)
+
+1. [鸡腿腿冰淇淋](https://s.weibo.com//weibo?q=%23%E9%B8%A1%E8%85%BF%E8%85%BF%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top)
 
