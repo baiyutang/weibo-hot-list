@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 07:04:06
+## 微博今日热榜 更新于 2021-08-19 08:15:01
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -140,4 +140,34 @@
 1. [蔡徐坤复古燕尾服造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%8F%A4%E7%87%95%E5%B0%BE%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 1. [白鹿高质量端水大师](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E9%AB%98%E8%B4%A8%E9%87%8F%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&Refer=top)
+
+1. [KK 很抱歉让大家这么生气](https://s.weibo.com//weibo?q=KK%20%E5%BE%88%E6%8A%B1%E6%AD%89%E8%AE%A9%E5%A4%A7%E5%AE%B6%E8%BF%99%E4%B9%88%E7%94%9F%E6%B0%94&Refer=top)
+
+1. [腾讯宣布再投500亿元助力共同富裕](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A3%E5%B8%83%E5%86%8D%E6%8A%95500%E4%BA%BF%E5%85%83%E5%8A%A9%E5%8A%9B%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%23&Refer=top)
+
+1. [孟晚舟引渡案将于10月21日裁决](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BC%95%E6%B8%A1%E6%A1%88%E5%B0%86%E4%BA%8E10%E6%9C%8821%E6%97%A5%E8%A3%81%E5%86%B3%23&Refer=top)
+
+1. [陈露方否认索要分手费](https://s.weibo.com//weibo?q=%E9%99%88%E9%9C%B2%E6%96%B9%E5%90%A6%E8%AE%A4%E7%B4%A2%E8%A6%81%E5%88%86%E6%89%8B%E8%B4%B9&Refer=top)
+
+1. [庆祝西藏和平解放70周年大会](https://s.weibo.com//weibo?q=%E5%BA%86%E7%A5%9D%E8%A5%BF%E8%97%8F%E5%92%8C%E5%B9%B3%E8%A7%A3%E6%94%BE70%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&Refer=top)
+
+1. [古剑奇谭](https://s.weibo.com//weibo?q=%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD&Refer=top)
+
+1. [阿富汗女孩哭求美军放行](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A5%B3%E5%AD%A9%E5%93%AD%E6%B1%82%E7%BE%8E%E5%86%9B%E6%94%BE%E8%A1%8C%23&Refer=top)
+
+1. [杭州警方通报六旬男子捅死29岁男子](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AD%E6%97%AC%E7%94%B7%E5%AD%90%E6%8D%85%E6%AD%BB29%E5%B2%81%E7%94%B7%E5%AD%90%23&Refer=top)
+
+1. [心动的信号真心话好刺激](https://s.weibo.com//weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A5%BD%E5%88%BA%E6%BF%80%23&Refer=top)
+
+1. [我国成功发射天绘二号02组卫星](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%A4%A9%E7%BB%98%E4%BA%8C%E5%8F%B702%E7%BB%84%E5%8D%AB%E6%98%9F%23&Refer=top)
+
+1. [拜登支持率降至上任以来最低](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E7%8E%87%E9%99%8D%E8%87%B3%E4%B8%8A%E4%BB%BB%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%BD%8E%23&Refer=top)
+
+1. [海霞说别把劳动者困于系统绑于算法](https://s.weibo.com//weibo?q=%E6%B5%B7%E9%9C%9E%E8%AF%B4%E5%88%AB%E6%8A%8A%E5%8A%B3%E5%8A%A8%E8%80%85%E5%9B%B0%E4%BA%8E%E7%B3%BB%E7%BB%9F%E7%BB%91%E4%BA%8E%E7%AE%97%E6%B3%95&Refer=top)
+
+1. [周深琵琶对唱大鱼](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E7%90%B5%E7%90%B6%E5%AF%B9%E5%94%B1%E5%A4%A7%E9%B1%BC%23&Refer=top)
+
+1. [2人留守封控村照顾全村猫狗鸡鸭鱼](https://s.weibo.com//weibo?q=2%E4%BA%BA%E7%95%99%E5%AE%88%E5%B0%81%E6%8E%A7%E6%9D%91%E7%85%A7%E9%A1%BE%E5%85%A8%E6%9D%91%E7%8C%AB%E7%8B%97%E9%B8%A1%E9%B8%AD%E9%B1%BC&Refer=top)
+
+1. [崔晓桐说家里的猪在等她](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%99%93%E6%A1%90%E8%AF%B4%E5%AE%B6%E9%87%8C%E7%9A%84%E7%8C%AA%E5%9C%A8%E7%AD%89%E5%A5%B9%23&Refer=top)
 
