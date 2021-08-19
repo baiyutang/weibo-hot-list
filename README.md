@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 12:04:55
+## 微博今日热榜 更新于 2021-08-19 13:03:21
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -290,4 +290,30 @@
 1. [喀布尔多家美容店遮盖女性广告牌](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%B8%83%E5%B0%94%E5%A4%9A%E5%AE%B6%E7%BE%8E%E5%AE%B9%E5%BA%97%E9%81%AE%E7%9B%96%E5%A5%B3%E6%80%A7%E5%B9%BF%E5%91%8A%E7%89%8C%23&Refer=top)
 
 1. [刘翔同名嫌疑犯逃窜几里没跑过民警](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%BF%94%E5%90%8C%E5%90%8D%E5%AB%8C%E7%96%91%E7%8A%AF%E9%80%83%E7%AA%9C%E5%87%A0%E9%87%8C%E6%B2%A1%E8%B7%91%E8%BF%87%E6%B0%91%E8%AD%A6%23&Refer=top)
+
+1. [水谷隼 进军娱乐圈](https://s.weibo.com//weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%20%E8%BF%9B%E5%86%9B%E5%A8%B1%E4%B9%90%E5%9C%88&Refer=top)
+
+1. [年薪二十万是怎样的水平](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%96%AA%E4%BA%8C%E5%8D%81%E4%B8%87%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E6%B0%B4%E5%B9%B3%23&Refer=top)
+
+1. [胜利将上诉](https://s.weibo.com//weibo?q=%23%E8%83%9C%E5%88%A9%E5%B0%86%E4%B8%8A%E8%AF%89%23&Refer=top)
+
+1. [轮到你了电影版预告](https://s.weibo.com//weibo?q=%E8%BD%AE%E5%88%B0%E4%BD%A0%E4%BA%86%E7%94%B5%E5%BD%B1%E7%89%88%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [国乒队比心有多好笑](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%92%E9%98%9F%E6%AF%94%E5%BF%83%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [原来大猫也可以这么萌](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E7%8C%AB%E4%B9%9F%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E8%90%8C%23&Refer=top)
+
+1. [我和我的父辈预告](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%88%B6%E8%BE%88%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [扫黑风暴致敬扫黑英雄](https://s.weibo.com//weibo?q=%23%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E8%87%B4%E6%95%AC%E6%89%AB%E9%BB%91%E8%8B%B1%E9%9B%84%23&Refer=top)
+
+1. [在华留学生讲述全家撤离喀布尔过程](https://s.weibo.com//weibo?q=%E5%9C%A8%E5%8D%8E%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E5%85%A8%E5%AE%B6%E6%92%A4%E7%A6%BB%E5%96%80%E5%B8%83%E5%B0%94%E8%BF%87%E7%A8%8B&Refer=top)
+
+1. [陕西的山到底有多大](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E7%9A%84%E5%B1%B1%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [华东师大家教中心宣布终止业务](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%9C%E5%B8%88%E5%A4%A7%E5%AE%B6%E6%95%99%E4%B8%AD%E5%BF%83%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E4%B8%9A%E5%8A%A1%23&Refer=top)
+
+1. [祝融号的朋友圈](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E5%8F%B7%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [态度恶劣就能提高办事效率](https://s.weibo.com//weibo?q=%23%E6%80%81%E5%BA%A6%E6%81%B6%E5%8A%A3%E5%B0%B1%E8%83%BD%E6%8F%90%E9%AB%98%E5%8A%9E%E4%BA%8B%E6%95%88%E7%8E%87%23&Refer=top)
 
