@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-20 02:04:20
+## 微博今日热榜 更新于 2021-08-20 03:07:28
 1. [八部门发文保障劳动者权益](https://s.weibo.com//weibo?q=%23%E5%85%AB%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E4%BF%9D%E9%9A%9C%E5%8A%B3%E5%8A%A8%E8%80%85%E6%9D%83%E7%9B%8A%23&Refer=new_time)
 
 1. [中秋放假3天需调休](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E9%9C%80%E8%B0%83%E4%BC%91%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [周生辰教科书式对待前女友](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%AF%B9%E5%BE%85%E5%89%8D%E5%A5%B3%E5%8F%8B%23&Refer=top)
 
 1. [每日上班前的心理建设](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E6%97%A5%E4%B8%8A%E7%8F%AD%E5%89%8D%E7%9A%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE%23&Refer=top)
+
+1. [云游中阿博览会](https://s.weibo.com//weibo?q=%23%E4%BA%91%E6%B8%B8%E4%B8%AD%E9%98%BF%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=new_time)
+
+1. [RNG LNG](https://s.weibo.com//weibo?q=RNG%20LNG&Refer=top)
 
