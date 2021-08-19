@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 08:15:01
+## 微博今日热榜 更新于 2021-08-19 09:38:36
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -170,4 +170,42 @@
 1. [2人留守封控村照顾全村猫狗鸡鸭鱼](https://s.weibo.com//weibo?q=2%E4%BA%BA%E7%95%99%E5%AE%88%E5%B0%81%E6%8E%A7%E6%9D%91%E7%85%A7%E9%A1%BE%E5%85%A8%E6%9D%91%E7%8C%AB%E7%8B%97%E9%B8%A1%E9%B8%AD%E9%B1%BC&Refer=top)
 
 1. [崔晓桐说家里的猪在等她](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%99%93%E6%A1%90%E8%AF%B4%E5%AE%B6%E9%87%8C%E7%9A%84%E7%8C%AA%E5%9C%A8%E7%AD%89%E5%A5%B9%23&Refer=top)
+
+1. [微博情绪](https://s.weibo.com//weibo?q=%E5%BE%AE%E5%8D%9A%E6%83%85%E7%BB%AA&Refer=top)
+
+1. [apex](https://s.weibo.com//weibo?q=apex&Refer=top)
+
+1. [江苏新增3例本土确诊病例](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [斯嘉丽约翰逊生下二胎](https://s.weibo.com//weibo?q=%23%E6%96%AF%E5%98%89%E4%B8%BD%E7%BA%A6%E7%BF%B0%E9%80%8A%E7%94%9F%E4%B8%8B%E4%BA%8C%E8%83%8E%23&Refer=top)
+
+1. [这瓜是来报仇的吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%93%9C%E6%98%AF%E6%9D%A5%E6%8A%A5%E4%BB%87%E7%9A%84%E5%90%A7%23&Refer=top)
+
+1. [马伯骞 感情中没有时间轴](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%BC%AF%E9%AA%9E%20%E6%84%9F%E6%83%85%E4%B8%AD%E6%B2%A1%E6%9C%89%E6%97%B6%E9%97%B4%E8%BD%B4&Refer=top)
+
+1. [多年前妈妈受捐角膜如今他捐髓救人](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%A6%88%E5%A6%88%E5%8F%97%E6%8D%90%E8%A7%92%E8%86%9C%E5%A6%82%E4%BB%8A%E4%BB%96%E6%8D%90%E9%AB%93%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [朴树谈粉籍](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%A0%91%E8%B0%88%E7%B2%89%E7%B1%8D%23&Refer=top)
+
+1. [日本动漫产业销售额十年来首降](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E4%BA%A7%E4%B8%9A%E9%94%80%E5%94%AE%E9%A2%9D%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E9%99%8D%23&Refer=top)
+
+1. [夏朗朗为爱放弃985](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%9C%97%E6%9C%97%E4%B8%BA%E7%88%B1%E6%94%BE%E5%BC%83985%23&Refer=top)
+
+1. [今天是第四个中国医师节](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%AC%AC%E5%9B%9B%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82&Refer=top)
+
+1. [让尊医成为自觉](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E5%B0%8A%E5%8C%BB%E6%88%90%E4%B8%BA%E8%87%AA%E8%A7%89%23&Refer=top)
+
+1. [被扫黑风暴大江整笑了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E5%A4%A7%E6%B1%9F%E6%95%B4%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [小孔勇敢](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%AD%94%E5%8B%87%E6%95%A2&Refer=top)
+
+1. [杨洋坐腿抱太甜了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%9D%90%E8%85%BF%E6%8A%B1%E5%A4%AA%E7%94%9C%E4%BA%86%23&Refer=top)
+
+1. [大江好可爱](https://s.weibo.com//weibo?q=%E5%A4%A7%E6%B1%9F%E5%A5%BD%E5%8F%AF%E7%88%B1&Refer=top)
+
+1. [公交司机突发脑梗忍痛救一车人](https://s.weibo.com//weibo?q=%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%BF%8D%E7%97%9B%E6%95%91%E4%B8%80%E8%BD%A6%E4%BA%BA&Refer=top)
+
+1. [他们救人的战场不止在医院](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%95%91%E4%BA%BA%E7%9A%84%E6%88%98%E5%9C%BA%E4%B8%8D%E6%AD%A2%E5%9C%A8%E5%8C%BB%E9%99%A2%23&Refer=top)
+
+1. [居家消毒注意避开8大误区](https://s.weibo.com//weibo?q=%23%E5%B1%85%E5%AE%B6%E6%B6%88%E6%AF%92%E6%B3%A8%E6%84%8F%E9%81%BF%E5%BC%808%E5%A4%A7%E8%AF%AF%E5%8C%BA%23&Refer=top)
 
