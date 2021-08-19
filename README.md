@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 18:09:51
+## 微博今日热榜 更新于 2021-08-19 19:07:42
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -478,4 +478,22 @@
 1. [阿富汗前总理称人民对未来充满希望](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E6%80%BB%E7%90%86%E7%A7%B0%E4%BA%BA%E6%B0%91%E5%AF%B9%E6%9C%AA%E6%9D%A5%E5%85%85%E6%BB%A1%E5%B8%8C%E6%9C%9B%23&Refer=top)
 
 1. [鸡腿腿冰淇淋](https://s.weibo.com//weibo?q=%23%E9%B8%A1%E8%85%BF%E8%85%BF%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top)
+
+1. [第四个中国医师节](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E5%9B%9B%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82%23&Refer=new_time)
+
+1. [陈伟霆说自己的奥特曼发脾气了](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%8F%91%E8%84%BE%E6%B0%94%E4%BA%86%23&Refer=top)
+
+1. [95花都在比着谈恋爱吗](https://s.weibo.com//weibo?q=%2395%E8%8A%B1%E9%83%BD%E5%9C%A8%E6%AF%94%E7%9D%80%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%97%23&Refer=top)
+
+1. [陈小春答错题后的反应](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%AD%94%E9%94%99%E9%A2%98%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+
+1. [2女童坐车顶司机淡定开车打电话](https://s.weibo.com//weibo?q=%232%E5%A5%B3%E7%AB%A5%E5%9D%90%E8%BD%A6%E9%A1%B6%E5%8F%B8%E6%9C%BA%E6%B7%A1%E5%AE%9A%E5%BC%80%E8%BD%A6%E6%89%93%E7%94%B5%E8%AF%9D%23&Refer=top)
+
+1. [恒大集团被约谈](https://s.weibo.com//weibo?q=%23%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
+
+1. [Girls Planet 999](https://s.weibo.com//weibo?q=Girls%20Planet%20999&Refer=top)
+
+1. [侯明昊球场得分机器](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%90%83%E5%9C%BA%E5%BE%97%E5%88%86%E6%9C%BA%E5%99%A8%23&Refer=top)
+
+1. [当狗狗加入了舞狮队](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%8B%97%E7%8B%97%E5%8A%A0%E5%85%A5%E4%BA%86%E8%88%9E%E7%8B%AE%E9%98%9F%23&Refer=top)
 
