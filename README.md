@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-19 21:17:36
+## 微博今日热榜 更新于 2021-08-19 22:08:39
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
 
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
@@ -566,4 +566,34 @@
 1. [王曼昱喜欢易烊千玺](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%96%9C%E6%AC%A2%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&Refer=top)
 
 1. [萌娃犯错后理直气壮式认错](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E7%8A%AF%E9%94%99%E5%90%8E%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%BC%8F%E8%AE%A4%E9%94%99%23&Refer=top)
+
+1. [千叶真一去世](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%8F%B6%E7%9C%9F%E4%B8%80%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [阿富汗总统女儿在美国住豪宅](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%80%BB%E7%BB%9F%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BD%8F%E8%B1%AA%E5%AE%85%23&Refer=top)
+
+1. [薛梅尸体被发现](https://s.weibo.com//weibo?q=%23%E8%96%9B%E6%A2%85%E5%B0%B8%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [洪成成对马子佳说我很幸福](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E6%88%90%E6%88%90%E5%AF%B9%E9%A9%AC%E5%AD%90%E4%BD%B3%E8%AF%B4%E6%88%91%E5%BE%88%E5%B9%B8%E7%A6%8F%23&Refer=top)
+
+1. [海南一越野车撞飞两骑车女子后逃逸](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E4%B8%80%E8%B6%8A%E9%87%8E%E8%BD%A6%E6%92%9E%E9%A3%9E%E4%B8%A4%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E5%90%8E%E9%80%83%E9%80%B8%23&Refer=top)
+
+1. [邓超晒与孙俪合照](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E4%B8%8E%E5%AD%99%E4%BF%AA%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [宋亚轩爱心针织马甲造型](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%88%B1%E5%BF%83%E9%92%88%E7%BB%87%E9%A9%AC%E7%94%B2%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [该不该对单恋的人太好](https://s.weibo.com//weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%AF%B9%E5%8D%95%E6%81%8B%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%A5%BD%23&Refer=top)
+
+1. [周洁琼国风水墨造型](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E5%9B%BD%E9%A3%8E%E6%B0%B4%E5%A2%A8%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [机智的医生生活](https://s.weibo.com//weibo?q=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%8C%BB%E7%94%9F%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [白鹿晒周边为时宜应援](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%99%92%E5%91%A8%E8%BE%B9%E4%B8%BA%E6%97%B6%E5%AE%9C%E5%BA%94%E6%8F%B4%23&Refer=top)
+
+1. [千叶真一演的雄霸](https://s.weibo.com//weibo?q=%E5%8D%83%E5%8F%B6%E7%9C%9F%E4%B8%80%E6%BC%94%E7%9A%84%E9%9B%84%E9%9C%B8&Refer=top)
+
+1. [和商家聊天不能乱发表情包](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%95%86%E5%AE%B6%E8%81%8A%E5%A4%A9%E4%B8%8D%E8%83%BD%E4%B9%B1%E5%8F%91%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [四川8岁女孩水花消失术](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D8%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%23&Refer=top)
 
