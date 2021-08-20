@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 06:03:55
+## 微博今日热榜 更新于 2021-08-21 07:03:54
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
