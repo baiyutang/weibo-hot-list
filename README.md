@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-20 21:17:36
+## 微博今日热榜 更新于 2021-08-20 22:08:46
 1. [八部门发文保障劳动者权益](https://s.weibo.com//weibo?q=%23%E5%85%AB%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E4%BF%9D%E9%9A%9C%E5%8A%B3%E5%8A%A8%E8%80%85%E6%9D%83%E7%9B%8A%23&Refer=new_time)
 
 1. [中秋放假3天需调休](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E9%9C%80%E8%B0%83%E4%BC%91%23&Refer=top)
@@ -524,4 +524,38 @@
 1. [刘端端和陈辉是亲兄弟吗](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%AB%AF%E7%AB%AF%E5%92%8C%E9%99%88%E8%BE%89%E6%98%AF%E4%BA%B2%E5%85%84%E5%BC%9F%E5%90%97%23&Refer=top)
 
 1. [如何让人为你失眠](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BA%BA%E4%B8%BA%E4%BD%A0%E5%A4%B1%E7%9C%A0%23&Refer=top)
+
+1. [半妖倾城](https://s.weibo.com//weibo?q=%E5%8D%8A%E5%A6%96%E5%80%BE%E5%9F%8E&Refer=top)
+
+1. [孟佳看披荆斩棘的哥哥电视突然掉了](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%9C%8B%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%E7%94%B5%E8%A7%86%E7%AA%81%E7%84%B6%E6%8E%89%E4%BA%86%23&Refer=top)
+
+1. [吴宣仪在台上剪头发](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%9C%A8%E5%8F%B0%E4%B8%8A%E5%89%AA%E5%A4%B4%E5%8F%91%23&Refer=top)
+
+1. [南方的朋友请回避一下](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%AF%B7%E5%9B%9E%E9%81%BF%E4%B8%80%E4%B8%8B%23&Refer=top)
+
+1. [广东惠州报告H5N6病例1例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E6%8A%A5%E5%91%8AH5N6%E7%97%85%E4%BE%8B1%E4%BE%8B%23&Refer=top)
+
+1. [刘聪是赵文卓的关门弟子吧](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%81%AA%E6%98%AF%E8%B5%B5%E6%96%87%E5%8D%93%E7%9A%84%E5%85%B3%E9%97%A8%E5%BC%9F%E5%AD%90%E5%90%A7%23&Refer=top)
+
+1. [方陈式cp官宣](https://s.weibo.com//weibo?q=%23%E6%96%B9%E9%99%88%E5%BC%8Fcp%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [男子戴猪八戒面具开车](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E6%88%B4%E7%8C%AA%E5%85%AB%E6%88%92%E9%9D%A2%E5%85%B7%E5%BC%80%E8%BD%A6&Refer=top)
+
+1. [景德镇陶瓷大学保安当众打死流浪狗](https://s.weibo.com//weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E9%99%B6%E7%93%B7%E5%A4%A7%E5%AD%A6%E4%BF%9D%E5%AE%89%E5%BD%93%E4%BC%97%E6%89%93%E6%AD%BB%E6%B5%81%E6%B5%AA%E7%8B%97%23&Refer=top)
+
+1. [麦穗告白大雄被拒](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E7%A9%97%E5%91%8A%E7%99%BD%E5%A4%A7%E9%9B%84%E8%A2%AB%E6%8B%92%23&Refer=top)
+
+1. [陈玘念怎么嫁给刘诗雯弹幕](https://s.weibo.com//weibo?q=%E9%99%88%E7%8E%98%E5%BF%B5%E6%80%8E%E4%B9%88%E5%AB%81%E7%BB%99%E5%88%98%E8%AF%97%E9%9B%AF%E5%BC%B9%E5%B9%95&Refer=top)
+
+1. [中国好声音](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&Refer=top)
+
+1. [赵露思的干饭勺比雪梨还大](https://s.weibo.com//weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9A%84%E5%B9%B2%E9%A5%AD%E5%8B%BA%E6%AF%94%E9%9B%AA%E6%A2%A8%E8%BF%98%E5%A4%A7&Refer=top)
+
+1. [WE战胜RA](https://s.weibo.com//weibo?q=%23WE%E6%88%98%E8%83%9CRA%23&Refer=top)
+
+1. [王皓 训练的时候抱得动樊振东](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%9A%93%20%E8%AE%AD%E7%BB%83%E7%9A%84%E6%97%B6%E5%80%99%E6%8A%B1%E5%BE%97%E5%8A%A8%E6%A8%8A%E6%8C%AF%E4%B8%9C&Refer=top)
+
+1. [广西女护士杀害男医生案二审维持死刑](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E5%AE%B3%E7%94%B7%E5%8C%BB%E7%94%9F%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [德云团综第二季选钢䨻男孩](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E4%BA%91%E5%9B%A2%E7%BB%BC%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%80%89%E9%92%A2%E4%A8%BB%E7%94%B7%E5%AD%A9%23&Refer=top)
 
