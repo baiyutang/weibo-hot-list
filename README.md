@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 04:04:07
+## 微博今日热榜 更新于 2021-08-21 05:03:12
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -150,4 +150,6 @@
 1. [原来李承铉是中文养成系](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9D%8E%E6%89%BF%E9%93%89%E6%98%AF%E4%B8%AD%E6%96%87%E5%85%BB%E6%88%90%E7%B3%BB%23&Refer=top)
 
 1. [中国好声音](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&Refer=top)
+
+1. [刘诗雯妈妈生她前就想让她打球](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF%E5%A6%88%E5%A6%88%E7%94%9F%E5%A5%B9%E5%89%8D%E5%B0%B1%E6%83%B3%E8%AE%A9%E5%A5%B9%E6%89%93%E7%90%83%23&Refer=top)
 
