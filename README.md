@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 03:03:15
+## 微博今日热榜 更新于 2021-08-21 04:04:07
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -146,4 +146,8 @@
 1. [李成阳现学现卖太搞笑了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%88%90%E9%98%B3%E7%8E%B0%E5%AD%A6%E7%8E%B0%E5%8D%96%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86%23&Refer=top)
 
 1. [父子交流少是当下家庭的常态吗](https://s.weibo.com//weibo?q=%23%E7%88%B6%E5%AD%90%E4%BA%A4%E6%B5%81%E5%B0%91%E6%98%AF%E5%BD%93%E4%B8%8B%E5%AE%B6%E5%BA%AD%E7%9A%84%E5%B8%B8%E6%80%81%E5%90%97%23&Refer=top)
+
+1. [原来李承铉是中文养成系](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9D%8E%E6%89%BF%E9%93%89%E6%98%AF%E4%B8%AD%E6%96%87%E5%85%BB%E6%88%90%E7%B3%BB%23&Refer=top)
+
+1. [中国好声音](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&Refer=top)
 
