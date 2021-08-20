@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-20 15:04:13
+## 微博今日热榜 更新于 2021-08-20 16:06:10
 1. [八部门发文保障劳动者权益](https://s.weibo.com//weibo?q=%23%E5%85%AB%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E4%BF%9D%E9%9A%9C%E5%8A%B3%E5%8A%A8%E8%80%85%E6%9D%83%E7%9B%8A%23&Refer=new_time)
 
 1. [中秋放假3天需调休](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E9%9C%80%E8%B0%83%E4%BC%91%23&Refer=top)
@@ -332,4 +332,34 @@
 1. [恒大回应小米入股](https://s.weibo.com//weibo?q=%23%E6%81%92%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E5%85%A5%E8%82%A1%23&Refer=top)
 
 1. [两名航天员在太空中互拍](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E4%B8%AD%E4%BA%92%E6%8B%8D%23&Refer=top)
+
+1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
+
+1. [言承旭 不要再跟我讲好听话](https://s.weibo.com//weibo?q=%E8%A8%80%E6%89%BF%E6%97%AD%20%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B7%9F%E6%88%91%E8%AE%B2%E5%A5%BD%E5%90%AC%E8%AF%9D&Refer=top)
+
+1. [原来樊振东也社恐](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B9%9F%E7%A4%BE%E6%81%90%23&Refer=top)
+
+1. [鲍春来说和林丹比他对自己还不够狠](https://s.weibo.com//weibo?q=%23%E9%B2%8D%E6%98%A5%E6%9D%A5%E8%AF%B4%E5%92%8C%E6%9E%97%E4%B8%B9%E6%AF%94%E4%BB%96%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%BF%98%E4%B8%8D%E5%A4%9F%E7%8B%A0%23&Refer=top)
+
+1. [听不懂陈小春讲话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E4%B8%8D%E6%87%82%E9%99%88%E5%B0%8F%E6%98%A5%E8%AE%B2%E8%AF%9D%23&Refer=top)
+
+1. [丰田大规模停产](https://s.weibo.com//weibo?q=%E4%B8%B0%E7%94%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%81%9C%E4%BA%A7&Refer=top)
+
+1. [被李云迪弹的吵架bgm笑死了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%9D%8E%E4%BA%91%E8%BF%AA%E5%BC%B9%E7%9A%84%E5%90%B5%E6%9E%B6bgm%E7%AC%91%E6%AD%BB%E4%BA%86%23&Refer=top)
+
+1. [李承铉的共情能力](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E7%9A%84%E5%85%B1%E6%83%85%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [充个电把爸爸给吓到了](https://s.weibo.com//weibo?q=%23%E5%85%85%E4%B8%AA%E7%94%B5%E6%8A%8A%E7%88%B8%E7%88%B8%E7%BB%99%E5%90%93%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [腾讯申请微博商标被驳回](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E7%94%B3%E8%AF%B7%E5%BE%AE%E5%8D%9A%E5%95%86%E6%A0%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [对违法失德失范艺人实行零容忍](https://s.weibo.com//weibo?q=%E5%AF%B9%E8%BF%9D%E6%B3%95%E5%A4%B1%E5%BE%B7%E5%A4%B1%E8%8C%83%E8%89%BA%E4%BA%BA%E5%AE%9E%E8%A1%8C%E9%9B%B6%E5%AE%B9%E5%BF%8D&Refer=top)
+
+1. [这榴莲怎么橙里橙气的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A6%B4%E8%8E%B2%E6%80%8E%E4%B9%88%E6%A9%99%E9%87%8C%E6%A9%99%E6%B0%94%E7%9A%84%23&Refer=top)
+
+1. [航天员乘组计划9月中旬返回](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E4%B9%98%E7%BB%84%E8%AE%A1%E5%88%929%E6%9C%88%E4%B8%AD%E6%97%AC%E8%BF%94%E5%9B%9E%23&Refer=top)
+
+1. [太空出差三人组9月中旬回家](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%87%BA%E5%B7%AE%E4%B8%89%E4%BA%BA%E7%BB%849%E6%9C%88%E4%B8%AD%E6%97%AC%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [女子欲跳楼消防员飞腿踢回](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%B7%B3%E6%A5%BC%E6%B6%88%E9%98%B2%E5%91%98%E9%A3%9E%E8%85%BF%E8%B8%A2%E5%9B%9E%23&Refer=top)
 
