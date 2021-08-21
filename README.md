@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-22 05:03:04
+## 微博今日热榜 更新于 2021-08-22 06:03:21
 1. [进藏先遣连用双脚踏出和平之路](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E8%97%8F%E5%85%88%E9%81%A3%E8%BF%9E%E7%94%A8%E5%8F%8C%E8%84%9A%E8%B8%8F%E5%87%BA%E5%92%8C%E5%B9%B3%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
@@ -142,4 +142,6 @@
 1. [韩宇battle制胜分](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%AE%87battle%E5%88%B6%E8%83%9C%E5%88%86&Refer=top)
 
 1. [TTG GK](https://s.weibo.com//weibo?q=TTG%20GK&Refer=top)
+
+1. [杨凯新招王一博没见过](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%87%AF%E6%96%B0%E6%8B%9B%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B2%A1%E8%A7%81%E8%BF%87&Refer=top)
 
