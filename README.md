@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-22 00:05:38
+## 微博今日热榜 更新于 2021-08-22 01:10:15
 1. [进藏先遣连用双脚踏出和平之路](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E8%97%8F%E5%85%88%E9%81%A3%E8%BF%9E%E7%94%A8%E5%8F%8C%E8%84%9A%E8%B8%8F%E5%87%BA%E5%92%8C%E5%B9%B3%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
@@ -106,4 +106,10 @@
 1. [郭晶晶霍启刚cp名郭得刚](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E9%9C%8D%E5%90%AF%E5%88%9Acp%E5%90%8D%E9%83%AD%E5%BE%97%E5%88%9A%23&Refer=top)
 
 1. [嗨放派](https://s.weibo.com//weibo?q=%E5%97%A8%E6%94%BE%E6%B4%BE&Refer=top)
+
+1. [陈昕葳身材好绝](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%98%95%E8%91%B3%E8%BA%AB%E6%9D%90%E5%A5%BD%E7%BB%9D%23&Refer=top)
+
+1. [撒贝宁小尼薇娅各聊各的](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%8F%E5%B0%BC%E8%96%87%E5%A8%85%E5%90%84%E8%81%8A%E5%90%84%E7%9A%84%23&Refer=top)
+
+1. [躺着就能赚钱的懒人大赛](https://s.weibo.com//weibo?q=%23%E8%BA%BA%E7%9D%80%E5%B0%B1%E8%83%BD%E8%B5%9A%E9%92%B1%E7%9A%84%E6%87%92%E4%BA%BA%E5%A4%A7%E8%B5%9B%23&Refer=top)
 
