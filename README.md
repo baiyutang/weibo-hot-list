@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 07:03:54
+## 微博今日热榜 更新于 2021-08-21 08:15:34
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -152,4 +152,30 @@
 1. [中国好声音](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&Refer=top)
 
 1. [刘诗雯妈妈生她前就想让她打球](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF%E5%A6%88%E5%A6%88%E7%94%9F%E5%A5%B9%E5%89%8D%E5%B0%B1%E6%83%B3%E8%AE%A9%E5%A5%B9%E6%89%93%E7%90%83%23&Refer=top)
+
+1. [鸿星尔克向河南博物院捐赠一百万元](https://s.weibo.com//weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%90%91%E6%B2%B3%E5%8D%97%E5%8D%9A%E7%89%A9%E9%99%A2%E6%8D%90%E8%B5%A0%E4%B8%80%E7%99%BE%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [黄子韬最爱的剧是仙剑一](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%9C%80%E7%88%B1%E7%9A%84%E5%89%A7%E6%98%AF%E4%BB%99%E5%89%91%E4%B8%80%23&Refer=top)
+
+1. [去鹤岗买房的年轻人现在怎么样了](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top)
+
+1. [男子上班玩手机工作群辱骂领导被开除](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8A%E7%8F%AD%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%B7%A5%E4%BD%9C%E7%BE%A4%E8%BE%B1%E9%AA%82%E9%A2%86%E5%AF%BC%E8%A2%AB%E5%BC%80%E9%99%A4%23&Refer=top)
+
+1. [千书真死了](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B9%A6%E7%9C%9F%E6%AD%BB%E4%BA%86%23&Refer=top)
+
+1. [6旬大爷种出18米高龙骨](https://s.weibo.com//weibo?q=%236%E6%97%AC%E5%A4%A7%E7%88%B7%E7%A7%8D%E5%87%BA18%E7%B1%B3%E9%AB%98%E9%BE%99%E9%AA%A8%23&Refer=top)
+
+1. [巴基斯坦炸弹袭击致1中国公民受伤](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B41%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%97%E4%BC%A4%23&Refer=top)
+
+1. [北京环球度假区内测期间未向公众售票](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BA%A6%E5%81%87%E5%8C%BA%E5%86%85%E6%B5%8B%E6%9C%9F%E9%97%B4%E6%9C%AA%E5%90%91%E5%85%AC%E4%BC%97%E5%94%AE%E7%A5%A8%23&Refer=top)
+
+1. [暑假余额还剩10天](https://s.weibo.com//weibo?q=%23%E6%9A%91%E5%81%87%E4%BD%99%E9%A2%9D%E8%BF%98%E5%89%A910%E5%A4%A9%23&Refer=top)
+
+1. [山河令下架](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E4%B8%8B%E6%9E%B6&Refer=top)
+
+1. [洗衣机柯基](https://s.weibo.com//weibo?q=%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%9F%AF%E5%9F%BA&Refer=top)
+
+1. [为孩子们开学拼了12个昼夜](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%BC%80%E5%AD%A6%E6%8B%BC%E4%BA%8612%E4%B8%AA%E6%98%BC%E5%A4%9C%23&Refer=top)
+
+1. [哥哥们合唱的氛围太好了](https://s.weibo.com//weibo?q=%23%E5%93%A5%E5%93%A5%E4%BB%AC%E5%90%88%E5%94%B1%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%A4%AA%E5%A5%BD%E4%BA%86%23&Refer=top)
 
