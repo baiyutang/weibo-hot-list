@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 16:04:14
+## 微博今日热榜 更新于 2021-08-21 17:03:17
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -396,4 +396,36 @@
 1. [没想到鲨鱼还能这样捕猎](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%B2%A8%E9%B1%BC%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E6%8D%95%E7%8C%8E%23&Refer=top)
 
 1. [阿富汗喀布尔机场混乱持续](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%96%80%E5%B8%83%E5%B0%94%E6%9C%BA%E5%9C%BA%E6%B7%B7%E4%B9%B1%E6%8C%81%E7%BB%AD&Refer=top)
+
+1. [武汉疫情](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85&Refer=top)
+
+1. [70后海王10年骗财近千万](https://s.weibo.com//weibo?q=%2370%E5%90%8E%E6%B5%B7%E7%8E%8B10%E5%B9%B4%E9%AA%97%E8%B4%A2%E8%BF%91%E5%8D%83%E4%B8%87%23&Refer=top)
+
+1. [阿里女员工案王某文被指定居所监视居住](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E5%A5%B3%E5%91%98%E5%B7%A5%E6%A1%88%E7%8E%8B%E6%9F%90%E6%96%87%E8%A2%AB%E6%8C%87%E5%AE%9A%E5%B1%85%E6%89%80%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F%23&Refer=top)
+
+1. [白举纲是来哥哥练英语的吧](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E6%98%AF%E6%9D%A5%E5%93%A5%E5%93%A5%E7%BB%83%E8%8B%B1%E8%AF%AD%E7%9A%84%E5%90%A7%23&Refer=top)
+
+1. [苹果9月或将举行两场发布会](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C9%E6%9C%88%E6%88%96%E5%B0%86%E4%B8%BE%E8%A1%8C%E4%B8%A4%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
+
+1. [赵文卓 我们相处的很好](https://s.weibo.com//weibo?q=%E8%B5%B5%E6%96%87%E5%8D%93%20%E6%88%91%E4%BB%AC%E7%9B%B8%E5%A4%84%E7%9A%84%E5%BE%88%E5%A5%BD&Refer=top)
+
+1. [孟子义妈妈是隔壁老樊的粉丝](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%A6%88%E5%A6%88%E6%98%AF%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A%E7%9A%84%E7%B2%89%E4%B8%9D%23&Refer=top)
+
+1. [欧阳娜娜机场ktv练歌](https://s.weibo.com//weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%9C%BA%E5%9C%BAktv%E7%BB%83%E6%AD%8C&Refer=top)
+
+1. [杨倩唱rap](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%94%B1rap%23&Refer=top)
+
+1. [武汉江岸区发现1人核酸阳性](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E6%B1%9F%E5%B2%B8%E5%8C%BA%E5%8F%91%E7%8E%B01%E4%BA%BA%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [白敬亭颜文字](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%A2%9C%E6%96%87%E5%AD%97%23&Refer=top)
+
+1. [阿富汗反塔利班力量夺回部分地区](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%8F%8D%E5%A1%94%E5%88%A9%E7%8F%AD%E5%8A%9B%E9%87%8F%E5%A4%BA%E5%9B%9E%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [林志炫的编辑记录](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E7%9A%84%E7%BC%96%E8%BE%91%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [街舞3冠军大秀加长版](https://s.weibo.com//weibo?q=%23%E8%A1%97%E8%88%9E3%E5%86%A0%E5%86%9B%E5%A4%A7%E7%A7%80%E5%8A%A0%E9%95%BF%E7%89%88%23&Refer=top)
+
+1. [可以翻的海昏侯国](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E4%BB%A5%E7%BF%BB%E7%9A%84%E6%B5%B7%E6%98%8F%E4%BE%AF%E5%9B%BD%23&Refer=top)
+
+1. [丁仲礼院士回应被美国制裁](https://s.weibo.com//weibo?q=%E4%B8%81%E4%BB%B2%E7%A4%BC%E9%99%A2%E5%A3%AB%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81&Refer=top)
 
