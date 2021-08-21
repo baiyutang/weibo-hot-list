@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 21:11:04
+## 微博今日热榜 更新于 2021-08-21 22:03:27
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -534,4 +534,24 @@
 1. [RNG处罚Cryin](https://s.weibo.com//weibo?q=RNG%E5%A4%84%E7%BD%9ACryin&Refer=top)
 
 1. [FPX战胜LNG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CLNG%23&Refer=top)
+
+1. [左航因为张杰的天下唱Rap](https://s.weibo.com//weibo?q=%E5%B7%A6%E8%88%AA%E5%9B%A0%E4%B8%BA%E5%BC%A0%E6%9D%B0%E7%9A%84%E5%A4%A9%E4%B8%8B%E5%94%B1Rap&Refer=top)
+
+1. [逃亡总统弟弟宣誓效忠塔利班](https://s.weibo.com//weibo?q=%23%E9%80%83%E4%BA%A1%E6%80%BB%E7%BB%9F%E5%BC%9F%E5%BC%9F%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E5%A1%94%E5%88%A9%E7%8F%AD%23&Refer=top)
+
+1. [TF家族看到张杰的反应](https://s.weibo.com//weibo?q=TF%E5%AE%B6%E6%97%8F%E7%9C%8B%E5%88%B0%E5%BC%A0%E6%9D%B0%E7%9A%84%E5%8F%8D%E5%BA%94&Refer=top)
+
+1. [抖音下架腾讯投诉视频超8000条](https://s.weibo.com//weibo?q=%23%E6%8A%96%E9%9F%B3%E4%B8%8B%E6%9E%B6%E8%85%BE%E8%AE%AF%E6%8A%95%E8%AF%89%E8%A7%86%E9%A2%91%E8%B6%858000%E6%9D%A1%23&Refer=top)
+
+1. [直击河南新一轮暴雨](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E5%87%BB%E6%B2%B3%E5%8D%97%E6%96%B0%E4%B8%80%E8%BD%AE%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [周震南killmonger舞台首秀](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97killmonger%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80%23&Refer=top)
+
+1. [娜扎甜酷挑染双马尾写真](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E7%94%9C%E9%85%B7%E6%8C%91%E6%9F%93%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%86%99%E7%9C%9F%23&Refer=top)
+
+1. [吴红玫为什么还不黑化](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%BA%A2%E7%8E%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E4%B8%8D%E9%BB%91%E5%8C%96%23&Refer=top)
+
+1. [选对理发师到底有多重要](https://s.weibo.com//weibo?q=%23%E9%80%89%E5%AF%B9%E7%90%86%E5%8F%91%E5%B8%88%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [小动物身上也充满了故事感](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8A%A8%E7%89%A9%E8%BA%AB%E4%B8%8A%E4%B9%9F%E5%85%85%E6%BB%A1%E4%BA%86%E6%95%85%E4%BA%8B%E6%84%9F%23&Refer=top)
 
