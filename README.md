@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 11:03:51
+## 微博今日热榜 更新于 2021-08-21 12:05:03
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -260,4 +260,34 @@
 1. [夏日少年派预告](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E5%B0%91%E5%B9%B4%E6%B4%BE%E9%A2%84%E5%91%8A%23&Refer=top)
 
 1. [扫黑风暴有哪些剧情槽点](https://s.weibo.com//weibo?q=%23%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%A7%E6%83%85%E6%A7%BD%E7%82%B9%23&Refer=top)
+
+1. [吉克隽逸洗头洗到一半不敢洗了](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E6%B4%97%E5%A4%B4%E6%B4%97%E5%88%B0%E4%B8%80%E5%8D%8A%E4%B8%8D%E6%95%A2%E6%B4%97%E4%BA%86%23&Refer=top)
+
+1. [被顾魏笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%A1%BE%E9%AD%8F%E7%AC%91%E6%AD%BB%23&Refer=top)
+
+1. [上海市新增3例本土确诊](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [你会介意另一半用优惠券请吃饭吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E4%BB%8B%E6%84%8F%E5%8F%A6%E4%B8%80%E5%8D%8A%E7%94%A8%E4%BC%98%E6%83%A0%E5%88%B8%E8%AF%B7%E5%90%83%E9%A5%AD%E5%90%97%23&Refer=top)
+
+1. [研究称衰老过程始于30多岁](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E8%A1%B0%E8%80%81%E8%BF%87%E7%A8%8B%E5%A7%8B%E4%BA%8E30%E5%A4%9A%E5%B2%81%23&Refer=top)
+
+1. [上海疫情](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85&Refer=top)
+
+1. [格鲁德 身材](https://s.weibo.com//weibo?q=%E6%A0%BC%E9%B2%81%E5%BE%B7%20%E8%BA%AB%E6%9D%90&Refer=top)
+
+1. [扫黑风暴反盗版声明](https://s.weibo.com//weibo?q=%23%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E5%8F%8D%E7%9B%97%E7%89%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [听yamy歌词破防](https://s.weibo.com//weibo?q=%23%E5%90%ACyamy%E6%AD%8C%E8%AF%8D%E7%A0%B4%E9%98%B2%23&Refer=top)
+
+1. [命中注定就是方陈式唯一的解](https://s.weibo.com//weibo?q=%23%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E5%B0%B1%E6%98%AF%E6%96%B9%E9%99%88%E5%BC%8F%E5%94%AF%E4%B8%80%E7%9A%84%E8%A7%A3%23&Refer=top)
+
+1. [上海地铁回应设置女性车厢](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E8%AE%BE%E7%BD%AE%E5%A5%B3%E6%80%A7%E8%BD%A6%E5%8E%A2%23&Refer=top)
+
+1. [裴伟是内鬼吧](https://s.weibo.com//weibo?q=%E8%A3%B4%E4%BC%9F%E6%98%AF%E5%86%85%E9%AC%BC%E5%90%A7&Refer=top)
+
+1. [韩国医美乱象曝光](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%BE%8E%E4%B9%B1%E8%B1%A1%E6%9B%9D%E5%85%89%23&Refer=top)
+
+1. [把刀通上电会是什么效果](https://s.weibo.com//weibo?q=%E6%8A%8A%E5%88%80%E9%80%9A%E4%B8%8A%E7%94%B5%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%95%88%E6%9E%9C&Refer=top)
+
+1. [东风快递发货现场](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E5%8F%91%E8%B4%A7%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
