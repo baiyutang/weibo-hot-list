@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-22 03:02:46
+## 微博今日热榜 更新于 2021-08-22 04:03:45
 1. [进藏先遣连用双脚踏出和平之路](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E8%97%8F%E5%85%88%E9%81%A3%E8%BF%9E%E7%94%A8%E5%8F%8C%E8%84%9A%E8%B8%8F%E5%87%BA%E5%92%8C%E5%B9%B3%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
@@ -134,4 +134,10 @@
 1. [古代榫卯技术有多强](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BB%A3%E6%A6%AB%E5%8D%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
 
 1. [孟美岐初秋落叶妆](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%88%9D%E7%A7%8B%E8%90%BD%E5%8F%B6%E5%A6%86%23&Refer=top)
+
+1. [韩庚刘宪华battle捧脸杀](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%BA%9A%E5%88%98%E5%AE%AA%E5%8D%8Ebattle%E6%8D%A7%E8%84%B8%E6%9D%80%23&Refer=top)
+
+1. [陈建骐金曲奖最佳专辑制作人](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%BB%BA%E9%AA%90%E9%87%91%E6%9B%B2%E5%A5%96%E6%9C%80%E4%BD%B3%E4%B8%93%E8%BE%91%E5%88%B6%E4%BD%9C%E4%BA%BA%23&Refer=top)
+
+1. [韩宇battle制胜分](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%AE%87battle%E5%88%B6%E8%83%9C%E5%88%86&Refer=top)
 
