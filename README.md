@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 19:02:54
+## 微博今日热榜 更新于 2021-08-21 20:06:08
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -488,4 +488,22 @@
 1. [6岁女童练书法半年写出千字长卷](https://s.weibo.com//weibo?q=%236%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%BB%83%E4%B9%A6%E6%B3%95%E5%8D%8A%E5%B9%B4%E5%86%99%E5%87%BA%E5%8D%83%E5%AD%97%E9%95%BF%E5%8D%B7%23&Refer=top)
 
 1. [旅客下车抽烟70万现金跟着高铁跑了](https://s.weibo.com//weibo?q=%23%E6%97%85%E5%AE%A2%E4%B8%8B%E8%BD%A6%E6%8A%BD%E7%83%9F70%E4%B8%87%E7%8E%B0%E9%87%91%E8%B7%9F%E7%9D%80%E9%AB%98%E9%93%81%E8%B7%91%E4%BA%86%23&Refer=top)
+
+1. [赵丽颖机场饭拍](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%BA%E5%9C%BA%E9%A5%AD%E6%8B%8D&Refer=top)
+
+1. [杭州市委书记周江勇被查](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%91%A8%E6%B1%9F%E5%8B%87%E8%A2%AB%E6%9F%A5%23&Refer=top)
+
+1. [第32届金曲奖](https://s.weibo.com//weibo?q=%E7%AC%AC32%E5%B1%8A%E9%87%91%E6%9B%B2%E5%A5%96&Refer=top)
+
+1. [苏炳添能有多严谨](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%83%BD%E6%9C%89%E5%A4%9A%E4%B8%A5%E8%B0%A8%23&Refer=top)
+
+1. [阿富汗矿产资源价值3万亿美元](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E7%9F%BF%E4%BA%A7%E8%B5%84%E6%BA%90%E4%BB%B7%E5%80%BC3%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top)
+
+1. [男子带宠物猫上公交司机提醒被掌掴](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A6%E5%AE%A0%E7%89%A9%E7%8C%AB%E4%B8%8A%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%8F%90%E9%86%92%E8%A2%AB%E6%8E%8C%E6%8E%B4%23&Refer=top)
+
+1. [时代少年团夏日美味vlog](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%A4%8F%E6%97%A5%E7%BE%8E%E5%91%B3vlog%23&Refer=top)
+
+1. [理想之城](https://s.weibo.com//weibo?q=%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E&Refer=top)
+
+1. [买个菜竟然被猫盯上了](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E4%B8%AA%E8%8F%9C%E7%AB%9F%E7%84%B6%E8%A2%AB%E7%8C%AB%E7%9B%AF%E4%B8%8A%E4%BA%86%23&Refer=top)
 
