@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-21 09:43:43
+## 微博今日热榜 更新于 2021-08-21 10:18:47
 1. [高原上那抹闪亮的红](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8E%9F%E4%B8%8A%E9%82%A3%E6%8A%B9%E9%97%AA%E4%BA%AE%E7%9A%84%E7%BA%A2%23&Refer=new_time)
 
 1. [国务院调查组进驻郑州](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E9%A9%BB%E9%83%91%E5%B7%9E%23&Refer=top)
@@ -220,4 +220,14 @@
 1. [女子一边抱娃开车一边直播](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%80%E8%BE%B9%E6%8A%B1%E5%A8%83%E5%BC%80%E8%BD%A6%E4%B8%80%E8%BE%B9%E7%9B%B4%E6%92%AD%23&Refer=top)
 
 1. [陶白白](https://s.weibo.com//weibo?q=%E9%99%B6%E7%99%BD%E7%99%BD&Refer=top)
+
+1. [护理师因不满做家务虐待2个月婴儿](https://s.weibo.com//weibo?q=%E6%8A%A4%E7%90%86%E5%B8%88%E5%9B%A0%E4%B8%8D%E6%BB%A1%E5%81%9A%E5%AE%B6%E5%8A%A1%E8%99%90%E5%BE%852%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF&Refer=top)
+
+1. [河南等8省有大到暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E7%AD%898%E7%9C%81%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [CPA](https://s.weibo.com//weibo?q=CPA&Refer=top)
+
+1. [31省区市新增4例本土确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E4%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [外交部回应中方是否接受阿富汗难民](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%96%B9%E6%98%AF%E5%90%A6%E6%8E%A5%E5%8F%97%E9%98%BF%E5%AF%8C%E6%B1%97%E9%9A%BE%E6%B0%91%23&Refer=top)
 
