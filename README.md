@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-22 20:06:31
+## 微博今日热榜 更新于 2021-08-22 21:11:24
 1. [进藏先遣连用双脚踏出和平之路](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E8%97%8F%E5%85%88%E9%81%A3%E8%BF%9E%E7%94%A8%E5%8F%8C%E8%84%9A%E8%B8%8F%E5%87%BA%E5%92%8C%E5%B9%B3%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
@@ -500,4 +500,24 @@
 1. [中元节禁忌](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%85%83%E8%8A%82%E7%A6%81%E5%BF%8C&Refer=top)
 
 1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
+
+1. [那英退出中国好声音现场录制](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%8E%B0%E5%9C%BA%E5%BD%95%E5%88%B6%23&Refer=top)
+
+1. [芒果TV 恶意剪辑](https://s.weibo.com//weibo?q=%E8%8A%92%E6%9E%9CTV%20%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91&Refer=top)
+
+1. [月亮](https://s.weibo.com//weibo?q=%E6%9C%88%E4%BA%AE&Refer=top)
+
+1. [Faker重回世界赛](https://s.weibo.com//weibo?q=%23Faker%E9%87%8D%E5%9B%9E%E4%B8%96%E7%95%8C%E8%B5%9B%23&Refer=top)
+
+1. [毛晓彤晒三丽同款发型狗狗表情包](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%99%92%E4%B8%89%E4%B8%BD%E5%90%8C%E6%AC%BE%E5%8F%91%E5%9E%8B%E7%8B%97%E7%8B%97%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [张艺兴狼尾头造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%8B%BC%E5%B0%BE%E5%A4%B4%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [廖昌永接棒那英录制好声音](https://s.weibo.com//weibo?q=%E5%BB%96%E6%98%8C%E6%B0%B8%E6%8E%A5%E6%A3%92%E9%82%A3%E8%8B%B1%E5%BD%95%E5%88%B6%E5%A5%BD%E5%A3%B0%E9%9F%B3&Refer=top)
+
+1. [QG eStar](https://s.weibo.com//weibo?q=QG%20eStar&Refer=top)
+
+1. [钟南山研判是否需要打第三针疫苗](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A0%94%E5%88%A4%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E6%89%93%E7%AC%AC%E4%B8%89%E9%92%88%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [T1进入世界赛](https://s.weibo.com//weibo?q=T1%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E8%B5%9B&Refer=top)
 
