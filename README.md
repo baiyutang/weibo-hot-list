@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-22 07:03:17
+## 微博今日热榜 更新于 2021-08-22 08:16:53
 1. [进藏先遣连用双脚踏出和平之路](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E8%97%8F%E5%85%88%E9%81%A3%E8%BF%9E%E7%94%A8%E5%8F%8C%E8%84%9A%E8%B8%8F%E5%87%BA%E5%92%8C%E5%B9%B3%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
@@ -148,4 +148,22 @@
 1. [大熊猫丝滑钻栏杆现场](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%9D%E6%BB%91%E9%92%BB%E6%A0%8F%E6%9D%86%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
 1. [陈珊妮现场科普音乐制作人是干嘛的](https://s.weibo.com//weibo?q=%E9%99%88%E7%8F%8A%E5%A6%AE%E7%8E%B0%E5%9C%BA%E7%A7%91%E6%99%AE%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%E4%BA%BA%E6%98%AF%E5%B9%B2%E5%98%9B%E7%9A%84&Refer=top)
+
+1. [央视9位主持人古装亮相](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%869%E4%BD%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%A4%E8%A3%85%E4%BA%AE%E7%9B%B8%23&Refer=top)
+
+1. [25款APP因严重违法收集个人信息被下架](https://s.weibo.com//weibo?q=%2325%E6%AC%BEAPP%E5%9B%A0%E4%B8%A5%E9%87%8D%E8%BF%9D%E6%B3%95%E6%94%B6%E9%9B%86%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A2%AB%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [宁夏银川确诊一例输入性鼠疫病例](https://s.weibo.com//weibo?q=%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E7%A1%AE%E8%AF%8A%E4%B8%80%E4%BE%8B%E8%BE%93%E5%85%A5%E6%80%A7%E9%BC%A0%E7%96%AB%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [警方通报小学校长涉嫌猥亵学生](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%B6%89%E5%AB%8C%E7%8C%A5%E4%BA%B5%E5%AD%A6%E7%94%9F%23&Refer=top)
+
+1. [西安暴雨](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [杨迪说自己头上还有条鹅命](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%A4%B4%E4%B8%8A%E8%BF%98%E6%9C%89%E6%9D%A1%E9%B9%85%E5%91%BD%23&Refer=top)
+
+1. [天然气价格暴涨会产生哪些影响](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E7%84%B6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E4%BC%9A%E4%BA%A7%E7%94%9F%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D%23&Refer=top)
+
+1. [不然哭了](https://s.weibo.com//weibo?q=%E4%B8%8D%E7%84%B6%E5%93%AD%E4%BA%86&Refer=top)
+
+1. [舞蹈生](https://s.weibo.com//weibo?q=%E8%88%9E%E8%B9%88%E7%94%9F&Refer=top)
 
