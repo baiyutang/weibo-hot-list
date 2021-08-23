@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-24 01:14:08
+## 微博今日热榜 更新于 2021-08-24 02:08:45
 1. [我国JF22超高速风洞预计2022年建成](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BDJF22%E8%B6%85%E9%AB%98%E9%80%9F%E9%A3%8E%E6%B4%9E%E9%A2%84%E8%AE%A12022%E5%B9%B4%E5%BB%BA%E6%88%90%23&Refer=new_time)
 
 1. [孙红雷说扫黑风暴这戏接对了](https://s.weibo.com//weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%AF%B4%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E8%BF%99%E6%88%8F%E6%8E%A5%E5%AF%B9%E4%BA%86&Refer=top)
@@ -116,4 +116,6 @@
 1. [西安一小区流浪猫遭鱼镖刺伤眼](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%B5%81%E6%B5%AA%E7%8C%AB%E9%81%AD%E9%B1%BC%E9%95%96%E5%88%BA%E4%BC%A4%E7%9C%BC%23&Refer=top)
 
 1. [理想之城](https://s.weibo.com//weibo?q=%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E&Refer=top)
+
+1. [我比任何时候更懂你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E6%9B%B4%E6%87%82%E4%BD%A0%23&Refer=new_time)
 
