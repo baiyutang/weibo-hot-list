@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-23 15:09:28
+## 微博今日热榜 更新于 2021-08-23 16:10:32
 1. [奔跑的中国梦](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6%23&Refer=new_time)
 
 1. [央视网评 被透支的粉丝经济该治治了](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%20%E8%A2%AB%E9%80%8F%E6%94%AF%E7%9A%84%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E8%AF%A5%E6%B2%BB%E6%B2%BB%E4%BA%86&Refer=top)
@@ -388,4 +388,14 @@
 1. [女孩救起大黄蜂后将其当宠物养](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%95%91%E8%B5%B7%E5%A4%A7%E9%BB%84%E8%9C%82%E5%90%8E%E5%B0%86%E5%85%B6%E5%BD%93%E5%AE%A0%E7%89%A9%E5%85%BB%23&Refer=top)
 
 1. [美国1新冠患者等床位中死亡](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD1%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E7%AD%89%E5%BA%8A%E4%BD%8D%E4%B8%AD%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [口罩对颜值的重要性](https://s.weibo.com//weibo?q=%23%E5%8F%A3%E7%BD%A9%E5%AF%B9%E9%A2%9C%E5%80%BC%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%23&Refer=top)
+
+1. [豆瓣崩了](https://s.weibo.com//weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&Refer=top)
+
+1. [十个薛之谦的自白](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%AA%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%87%AA%E7%99%BD%23&Refer=top)
+
+1. [市监局调查胖哥俩肉蟹煲](https://s.weibo.com//weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E8%B0%83%E6%9F%A5%E8%83%96%E5%93%A5%E4%BF%A9%E8%82%89%E8%9F%B9%E7%85%B2%23&Refer=top)
+
+1. [塔利班称美国要为混乱局面负责](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E7%A7%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E4%B8%BA%E6%B7%B7%E4%B9%B1%E5%B1%80%E9%9D%A2%E8%B4%9F%E8%B4%A3%23&Refer=top)
 
