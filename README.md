@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-24 18:07:09
+## 微博今日热榜 更新于 2021-08-24 19:07:53
 1. [我国JF22超高速风洞预计2022年建成](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BDJF22%E8%B6%85%E9%AB%98%E9%80%9F%E9%A3%8E%E6%B4%9E%E9%A2%84%E8%AE%A12022%E5%B9%B4%E5%BB%BA%E6%88%90%23&Refer=new_time)
 
 1. [孙红雷说扫黑风暴这戏接对了](https://s.weibo.com//weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%AF%B4%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E8%BF%99%E6%88%8F%E6%8E%A5%E5%AF%B9%E4%BA%86&Refer=top)
@@ -458,4 +458,16 @@
 1. [交个朋友累计向河南捐款1100万](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%B4%AF%E8%AE%A1%E5%90%91%E6%B2%B3%E5%8D%97%E6%8D%90%E6%AC%BE1100%E4%B8%87%23&Refer=top)
 
 1. [刘宇生日微博评论区](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E7%94%9F%E6%97%A5%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%23&Refer=top)
+
+1. [发扬塞罕坝精神](https://s.weibo.com//weibo?q=%23%E5%8F%91%E6%89%AC%E5%A1%9E%E7%BD%95%E5%9D%9D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
+
+1. [东京残奥会开幕式](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top)
+
+1. [湖南卫视暂停钱枫一切工作](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%9A%82%E5%81%9C%E9%92%B1%E6%9E%AB%E4%B8%80%E5%88%87%E5%B7%A5%E4%BD%9C%23&Refer=top)
+
+1. [福岛核污水排放方式基本敲定](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%94%BE%E6%96%B9%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%B2%E5%AE%9A%23&Refer=top)
+
+1. [施廷懋吐槽秦凯飘了](https://s.weibo.com//weibo?q=%23%E6%96%BD%E5%BB%B7%E6%87%8B%E5%90%90%E6%A7%BD%E7%A7%A6%E5%87%AF%E9%A3%98%E4%BA%86%23&Refer=top)
+
+1. [绿地回应裁员40%](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E5%9C%B0%E5%9B%9E%E5%BA%94%E8%A3%81%E5%91%9840%25%23&Refer=top)
 
