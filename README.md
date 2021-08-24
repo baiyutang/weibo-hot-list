@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-25 04:05:09
+## 微博今日热榜 更新于 2021-08-25 05:07:53
 1. [发扬塞罕坝精神](https://s.weibo.com//weibo?q=%23%E5%8F%91%E6%89%AC%E5%A1%9E%E7%BD%95%E5%9D%9D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [人民网评钱枫被指性侵](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%92%B1%E6%9E%AB%E8%A2%AB%E6%8C%87%E6%80%A7%E4%BE%B5%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [换个思路看最好的我们](https://s.weibo.com//weibo?q=%23%E6%8D%A2%E4%B8%AA%E6%80%9D%E8%B7%AF%E7%9C%8B%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%91%E4%BB%AC%23&Refer=top)
 
 1. [福岛核污水排放方式基本敲定](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%94%BE%E6%96%B9%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%B2%E5%AE%9A%23&Refer=top)
+
+1. [孙兴给贺芸过生日](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%85%B4%E7%BB%99%E8%B4%BA%E8%8A%B8%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top)
 
