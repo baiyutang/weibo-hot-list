@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-26 02:04:24
+## 微博今日热榜 更新于 2021-08-26 03:07:23
 1. [专题片同心共筑中国梦](https://s.weibo.com//weibo?q=%23%E4%B8%93%E9%A2%98%E7%89%87%E5%90%8C%E5%BF%83%E5%85%B1%E7%AD%91%E4%B8%AD%E5%9B%BD%E6%A2%A6%23&Refer=new_time)
 
 1. [举报钱枫的账号暂未证明本人身份](https://s.weibo.com//weibo?q=%23%E4%B8%BE%E6%8A%A5%E9%92%B1%E6%9E%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E6%9A%82%E6%9C%AA%E8%AF%81%E6%98%8E%E6%9C%AC%E4%BA%BA%E8%BA%AB%E4%BB%BD%23&Refer=top)
@@ -126,4 +126,10 @@
 1. [塔利班称进入喀布尔是被迫的](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E7%A7%B0%E8%BF%9B%E5%85%A5%E5%96%80%E5%B8%83%E5%B0%94%E6%98%AF%E8%A2%AB%E8%BF%AB%E7%9A%84%23&Refer=top)
 
 1. [残奥会](https://s.weibo.com//weibo?q=%E6%AE%8B%E5%A5%A5%E4%BC%9A&Refer=top)
+
+1. [巴巴多斯女总理回击BBC记者](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%B7%B4%E5%A4%9A%E6%96%AF%E5%A5%B3%E6%80%BB%E7%90%86%E5%9B%9E%E5%87%BBBBC%E8%AE%B0%E8%80%85%23&Refer=top)
+
+1. [齐焱好让人心疼](https://s.weibo.com//weibo?q=%23%E9%BD%90%E7%84%B1%E5%A5%BD%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&Refer=top)
+
+1. [驻香港部队陆海空三军第24次轮换](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E9%A6%99%E6%B8%AF%E9%83%A8%E9%98%9F%E9%99%86%E6%B5%B7%E7%A9%BA%E4%B8%89%E5%86%9B%E7%AC%AC24%E6%AC%A1%E8%BD%AE%E6%8D%A2%23&Refer=top)
 
