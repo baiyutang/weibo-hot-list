@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-27 02:08:54
+## 微博今日热榜 更新于 2021-08-27 03:07:46
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [赵薇超话被封](https://s.weibo.com//weibo?q=%E8%B5%B5%E8%96%87%E8%B6%85%E8%AF%9D%E8%A2%AB%E5%B0%81&Refer=top)
