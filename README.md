@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-27 05:07:29
+## 微博今日热榜 更新于 2021-08-27 06:04:01
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [赵薇超话被封](https://s.weibo.com//weibo?q=%E8%B5%B5%E8%96%87%E8%B6%85%E8%AF%9D%E8%A2%AB%E5%B0%81&Refer=top)
@@ -122,4 +122,6 @@
 1. [Angelababy发文回顾心动的信号](https://s.weibo.com//weibo?q=%23Angelababy%E5%8F%91%E6%96%87%E5%9B%9E%E9%A1%BE%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23&Refer=top)
 
 1. [孙红雷再次集结绿藤市民](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%86%8D%E6%AC%A1%E9%9B%86%E7%BB%93%E7%BB%BF%E8%97%A4%E5%B8%82%E6%B0%91%23&Refer=top)
+
+1. [女子谎报强奸被拘留](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B0%8E%E6%8A%A5%E5%BC%BA%E5%A5%B8%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
 
