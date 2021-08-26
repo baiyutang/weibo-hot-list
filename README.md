@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-26 09:42:21
+## 微博今日热榜 更新于 2021-08-26 10:15:06
 1. [专题片同心共筑中国梦](https://s.weibo.com//weibo?q=%23%E4%B8%93%E9%A2%98%E7%89%87%E5%90%8C%E5%BF%83%E5%85%B1%E7%AD%91%E4%B8%AD%E5%9B%BD%E6%A2%A6%23&Refer=new_time)
 
 1. [举报钱枫的账号暂未证明本人身份](https://s.weibo.com//weibo?q=%23%E4%B8%BE%E6%8A%A5%E9%92%B1%E6%9E%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E6%9A%82%E6%9C%AA%E8%AF%81%E6%98%8E%E6%9C%AC%E4%BA%BA%E8%BA%AB%E4%BB%BD%23&Refer=top)
@@ -188,4 +188,18 @@
 1. [美国无人机空袭阿富汗平民视频](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E8%A2%AD%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B9%B3%E6%B0%91%E8%A7%86%E9%A2%91%23&Refer=top)
 
 1. [视障运动员如何区分金银铜牌](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%9A%9C%E8%BF%90%E5%8A%A8%E5%91%98%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%86%E9%87%91%E9%93%B6%E9%93%9C%E7%89%8C%23&Refer=top)
+
+1. [吴谢宇一审被判死刑](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [四六级成绩](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%23&Refer=top)
+
+1. [日本一过山车已致4人骨折](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%AA%A8%E6%8A%98%23&Refer=top)
+
+1. [河南一大学生在疫情防控中献出生命](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E4%B8%AD%E7%8C%AE%E5%87%BA%E7%94%9F%E5%91%BD%23&Refer=top)
+
+1. [跳江女子获救时大喊再也不敢了](https://s.weibo.com//weibo?q=%23%E8%B7%B3%E6%B1%9F%E5%A5%B3%E5%AD%90%E8%8E%B7%E6%95%91%E6%97%B6%E5%A4%A7%E5%96%8A%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E4%BA%86%23&Refer=top)
+
+1. [塔利班试飞美制黑鹰直升机](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E8%AF%95%E9%A3%9E%E7%BE%8E%E5%88%B6%E9%BB%91%E9%B9%B0%E7%9B%B4%E5%8D%87%E6%9C%BA%23&Refer=top)
+
+1. [北京环球影城内测票炒至五千](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E5%86%85%E6%B5%8B%E7%A5%A8%E7%82%92%E8%87%B3%E4%BA%94%E5%8D%83%23&Refer=top)
 
