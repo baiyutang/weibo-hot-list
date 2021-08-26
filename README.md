@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-27 06:04:01
+## 微博今日热榜 更新于 2021-08-27 07:04:10
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [赵薇超话被封](https://s.weibo.com//weibo?q=%E8%B5%B5%E8%96%87%E8%B6%85%E8%AF%9D%E8%A2%AB%E5%B0%81&Refer=top)
@@ -124,4 +124,8 @@
 1. [孙红雷再次集结绿藤市民](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%86%8D%E6%AC%A1%E9%9B%86%E7%BB%93%E7%BB%BF%E8%97%A4%E5%B8%82%E6%B0%91%23&Refer=top)
 
 1. [女子谎报强奸被拘留](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B0%8E%E6%8A%A5%E5%BC%BA%E5%A5%B8%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
+
+1. [魔幻手机3备案](https://s.weibo.com//weibo?q=%23%E9%AD%94%E5%B9%BB%E6%89%8B%E6%9C%BA3%E5%A4%87%E6%A1%88%23&Refer=top)
+
+1. [秘书否认卡尔扎伊被塔利班软禁](https://s.weibo.com//weibo?q=%23%E7%A7%98%E4%B9%A6%E5%90%A6%E8%AE%A4%E5%8D%A1%E5%B0%94%E6%89%8E%E4%BC%8A%E8%A2%AB%E5%A1%94%E5%88%A9%E7%8F%AD%E8%BD%AF%E7%A6%81%23&Refer=top)
 
