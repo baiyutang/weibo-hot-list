@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-26 22:08:27
+## 微博今日热榜 更新于 2021-08-26 23:05:09
 1. [专题片同心共筑中国梦](https://s.weibo.com//weibo?q=%23%E4%B8%93%E9%A2%98%E7%89%87%E5%90%8C%E5%BF%83%E5%85%B1%E7%AD%91%E4%B8%AD%E5%9B%BD%E6%A2%A6%23&Refer=new_time)
 
 1. [举报钱枫的账号暂未证明本人身份](https://s.weibo.com//weibo?q=%23%E4%B8%BE%E6%8A%A5%E9%92%B1%E6%9E%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E6%9A%82%E6%9C%AA%E8%AF%81%E6%98%8E%E6%9C%AC%E4%BA%BA%E8%BA%AB%E4%BB%BD%23&Refer=top)
@@ -540,4 +540,20 @@
 1. [首次发现2.9亿年前史前巨鲨瓣齿鲨](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B02.9%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%B2%E5%89%8D%E5%B7%A8%E9%B2%A8%E7%93%A3%E9%BD%BF%E9%B2%A8%23&Refer=top)
 
 1. [男子招嫖起争执称被抓也不认500块](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%9B%E5%AB%96%E8%B5%B7%E4%BA%89%E6%89%A7%E7%A7%B0%E8%A2%AB%E6%8A%93%E4%B9%9F%E4%B8%8D%E8%AE%A4500%E5%9D%97%23&Refer=top)
+
+1. [一生一世](https://s.weibo.com//weibo?q=%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96&Refer=top)
+
+1. [97岁老人和3个月大重孙对视](https://s.weibo.com//weibo?q=%2397%E5%B2%81%E8%80%81%E4%BA%BA%E5%92%8C3%E4%B8%AA%E6%9C%88%E5%A4%A7%E9%87%8D%E5%AD%99%E5%AF%B9%E8%A7%86%23&Refer=top)
+
+1. [成年人的思念有多委婉](https://s.weibo.com//weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%80%9D%E5%BF%B5%E6%9C%89%E5%A4%9A%E5%A7%94%E5%A9%89%23&Refer=top)
+
+1. [上海暴雨](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23&Refer=top)
+
+1. [桥本大辉获日本特别功劳表彰](https://s.weibo.com//weibo?q=%23%E6%A1%A5%E6%9C%AC%E5%A4%A7%E8%BE%89%E8%8E%B7%E6%97%A5%E6%9C%AC%E7%89%B9%E5%88%AB%E5%8A%9F%E5%8A%B3%E8%A1%A8%E5%BD%B0%23&Refer=top)
+
+1. [你永远可以相信广场舞大妈](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E5%B9%BF%E5%9C%BA%E8%88%9E%E5%A4%A7%E5%A6%88%23&Refer=top)
+
+1. [任嘉伦白鹿cp感](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%99%BD%E9%B9%BFcp%E6%84%9F%23&Refer=top)
+
+1. [吴磊837帧自拍](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A837%E5%B8%A7%E8%87%AA%E6%8B%8D%23&Refer=top)
 
