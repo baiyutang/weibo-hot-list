@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-28 02:05:16
+## 微博今日热榜 更新于 2021-08-28 03:03:15
 1. [我国耕地面积19.179亿亩](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%80%95%E5%9C%B0%E9%9D%A2%E7%A7%AF19.179%E4%BA%BF%E4%BA%A9%23&Refer=new_time)
 
 1. [赵薇关联香港公司已宣告解散](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E5%85%B3%E8%81%94%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%AE%A3%E5%91%8A%E8%A7%A3%E6%95%A3%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [中国疫苗接种增长动态图](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81%E5%9B%BE%23&Refer=top)
 
 1. [虚竹小天山童姥对手戏](https://s.weibo.com//weibo?q=%23%E8%99%9A%E7%AB%B9%E5%B0%8F%E5%A4%A9%E5%B1%B1%E7%AB%A5%E5%A7%A5%E5%AF%B9%E6%89%8B%E6%88%8F%23&Refer=top)
+
+1. [大连凯旋国际大厦救援现场](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%87%AF%E6%97%8B%E5%9B%BD%E9%99%85%E5%A4%A7%E5%8E%A6%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
