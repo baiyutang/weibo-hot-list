@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-27 11:04:00
+## 微博今日热榜 更新于 2021-08-27 12:05:30
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [赵薇超话被封](https://s.weibo.com//weibo?q=%E8%B5%B5%E8%96%87%E8%B6%85%E8%AF%9D%E8%A2%AB%E5%B0%81&Refer=top)
@@ -226,4 +226,30 @@
 1. [金韩彬被求刑3年](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%9F%A9%E5%BD%AC%E8%A2%AB%E6%B1%82%E5%88%913%E5%B9%B4%23&Refer=top)
 
 1. [广电总局称严肃处理违法违规演艺人员](https://s.weibo.com//weibo?q=%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%A7%B0%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E6%BC%94%E8%89%BA%E4%BA%BA%E5%91%98&Refer=top)
+
+1. [何炅父亲关联公司严重违法失信](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E7%88%B6%E4%BA%B2%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E4%B8%A5%E9%87%8D%E8%BF%9D%E6%B3%95%E5%A4%B1%E4%BF%A1%23&Refer=top)
+
+1. [张杰谢娜接女儿们放学](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%8E%A5%E5%A5%B3%E5%84%BF%E4%BB%AC%E6%94%BE%E5%AD%A6%23&Refer=top)
+
+1. [玩具工厂订单全是盲盒](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E5%85%B7%E5%B7%A5%E5%8E%82%E8%AE%A2%E5%8D%95%E5%85%A8%E6%98%AF%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [周生如故全员催时宜跳城楼](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85%E5%85%A8%E5%91%98%E5%82%AC%E6%97%B6%E5%AE%9C%E8%B7%B3%E5%9F%8E%E6%A5%BC%23&Refer=top)
+
+1. [国内实现7nm芯片试产](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%86%85%E5%AE%9E%E7%8E%B07nm%E8%8A%AF%E7%89%87%E8%AF%95%E4%BA%A7%23&Refer=top)
+
+1. [被救触电司机醒后给8岁儿子留遗言](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%95%91%E8%A7%A6%E7%94%B5%E5%8F%B8%E6%9C%BA%E9%86%92%E5%90%8E%E7%BB%998%E5%B2%81%E5%84%BF%E5%AD%90%E7%95%99%E9%81%97%E8%A8%80%23&Refer=top)
+
+1. [INTO1新歌WonderlandParty舞蹈版](https://s.weibo.com//weibo?q=%23INTO1%E6%96%B0%E6%AD%8CWonderlandParty%E8%88%9E%E8%B9%88%E7%89%88%23&Refer=top)
+
+1. [属于2021的开学第一课](https://s.weibo.com//weibo?q=%23%E5%B1%9E%E4%BA%8E2021%E7%9A%84%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&Refer=top)
+
+1. [追星希望爱有回应而不是报应](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E5%B8%8C%E6%9C%9B%E7%88%B1%E6%9C%89%E5%9B%9E%E5%BA%94%E8%80%8C%E4%B8%8D%E6%98%AF%E6%8A%A5%E5%BA%94%23&Refer=top)
+
+1. [老人买鸡腿不付钱被拦后跳窗骨折](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E4%B9%B0%E9%B8%A1%E8%85%BF%E4%B8%8D%E4%BB%98%E9%92%B1%E8%A2%AB%E6%8B%A6%E5%90%8E%E8%B7%B3%E7%AA%97%E9%AA%A8%E6%8A%98%23&Refer=top)
+
+1. [阿里怎么了](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C%E6%80%8E%E4%B9%88%E4%BA%86&Refer=top)
+
+1. [教育部回应凭家长疫苗接种证明才能返校](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%87%AD%E5%AE%B6%E9%95%BF%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%AF%81%E6%98%8E%E6%89%8D%E8%83%BD%E8%BF%94%E6%A0%A1%23&Refer=top)
+
+1. [峰爆生命至上预告](https://s.weibo.com//weibo?q=%23%E5%B3%B0%E7%88%86%E7%94%9F%E5%91%BD%E8%87%B3%E4%B8%8A%E9%A2%84%E5%91%8A%23&Refer=top)
 
