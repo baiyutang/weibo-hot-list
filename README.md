@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-28 03:03:15
+## 微博今日热榜 更新于 2021-08-28 04:04:52
 1. [我国耕地面积19.179亿亩](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%80%95%E5%9C%B0%E9%9D%A2%E7%A7%AF19.179%E4%BA%BF%E4%BA%A9%23&Refer=new_time)
 
 1. [赵薇关联香港公司已宣告解散](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E5%85%B3%E8%81%94%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%AE%A3%E5%91%8A%E8%A7%A3%E6%95%A3%23&Refer=top)
