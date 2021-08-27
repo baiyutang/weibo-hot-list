@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-27 07:04:10
+## 微博今日热榜 更新于 2021-08-27 08:18:38
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
 
 1. [赵薇超话被封](https://s.weibo.com//weibo?q=%E8%B5%B5%E8%96%87%E8%B6%85%E8%AF%9D%E8%A2%AB%E5%B0%81&Refer=top)
@@ -128,4 +128,24 @@
 1. [魔幻手机3备案](https://s.weibo.com//weibo?q=%23%E9%AD%94%E5%B9%BB%E6%89%8B%E6%9C%BA3%E5%A4%87%E6%A1%88%23&Refer=top)
 
 1. [秘书否认卡尔扎伊被塔利班软禁](https://s.weibo.com//weibo?q=%23%E7%A7%98%E4%B9%A6%E5%90%A6%E8%AE%A4%E5%8D%A1%E5%B0%94%E6%89%8E%E4%BC%8A%E8%A2%AB%E5%A1%94%E5%88%A9%E7%8F%AD%E8%BD%AF%E7%A6%81%23&Refer=top)
+
+1. [喀布尔机场发生两起爆炸](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%B8%83%E5%B0%94%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E4%B8%A4%E8%B5%B7%E7%88%86%E7%82%B8%23&Refer=top)
+
+1. [中国暂列残奥会奖牌榜第一](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9A%82%E5%88%97%E6%AE%8B%E5%A5%A5%E4%BC%9A%E5%A5%96%E7%89%8C%E6%A6%9C%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [79岁T台走秀85岁驾机冲上云霄](https://s.weibo.com//weibo?q=%2379%E5%B2%81T%E5%8F%B0%E8%B5%B0%E7%A7%8085%E5%B2%81%E9%A9%BE%E6%9C%BA%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84%23&Refer=top)
+
+1. [请不要这样错误对待你的口罩](https://s.weibo.com//weibo?q=%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E9%94%99%E8%AF%AF%E5%AF%B9%E5%BE%85%E4%BD%A0%E7%9A%84%E5%8F%A3%E7%BD%A9&Refer=top)
+
+1. [乔二强孙小茉相亲](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%BA%8C%E5%BC%BA%E5%AD%99%E5%B0%8F%E8%8C%89%E7%9B%B8%E4%BA%B2%23&Refer=top)
+
+1. [周生如故](https://s.weibo.com//weibo?q=%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85&Refer=top)
+
+1. [兰迪少儿英语创始人被拘留](https://s.weibo.com//weibo?q=%23%E5%85%B0%E8%BF%AA%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
+
+1. [李冰给江林手写道歉信](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%86%B0%E7%BB%99%E6%B1%9F%E6%9E%97%E6%89%8B%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%23&Refer=top)
+
+1. [当故宫遇上彩虹](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%95%85%E5%AE%AB%E9%81%87%E4%B8%8A%E5%BD%A9%E8%99%B9%23&Refer=top)
+
+1. [CPA考试](https://s.weibo.com//weibo?q=CPA%E8%80%83%E8%AF%95&Refer=top)
 
