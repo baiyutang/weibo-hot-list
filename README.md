@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-28 13:03:20
+## 微博今日热榜 更新于 2021-08-28 14:04:57
 1. [我国耕地面积19.179亿亩](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%80%95%E5%9C%B0%E9%9D%A2%E7%A7%AF19.179%E4%BA%BF%E4%BA%A9%23&Refer=new_time)
 
 1. [赵薇关联香港公司已宣告解散](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E5%85%B3%E8%81%94%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%AE%A3%E5%91%8A%E8%A7%A3%E6%95%A3%23&Refer=top)
@@ -268,4 +268,36 @@
 1. [实地探访喀布尔接收死伤者最多医院](https://s.weibo.com//weibo?q=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E5%96%80%E5%B8%83%E5%B0%94%E6%8E%A5%E6%94%B6%E6%AD%BB%E4%BC%A4%E8%80%85%E6%9C%80%E5%A4%9A%E5%8C%BB%E9%99%A2&Refer=top)
 
 1. [集体玩蜂窝的狗子](https://s.weibo.com//weibo?q=%23%E9%9B%86%E4%BD%93%E7%8E%A9%E8%9C%82%E7%AA%9D%E7%9A%84%E7%8B%97%E5%AD%90%23&Refer=top)
+
+1. [残奥会中国队被取消一金一银](https://s.weibo.com//weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E4%B8%80%E9%87%91%E4%B8%80%E9%93%B6%23&Refer=top)
+
+1. [长时间使用耳机或致耳朵发炎](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%97%B6%E9%97%B4%E4%BD%BF%E7%94%A8%E8%80%B3%E6%9C%BA%E6%88%96%E8%87%B4%E8%80%B3%E6%9C%B5%E5%8F%91%E7%82%8E%23&Refer=top)
+
+1. [灵魂试图回到肉体](https://s.weibo.com//weibo?q=%23%E7%81%B5%E9%AD%82%E8%AF%95%E5%9B%BE%E5%9B%9E%E5%88%B0%E8%82%89%E4%BD%93%23&Refer=top)
+
+1. [赤峰一男子掐死前妻后藏尸冰柜](https://s.weibo.com//weibo?q=%23%E8%B5%A4%E5%B3%B0%E4%B8%80%E7%94%B7%E5%AD%90%E6%8E%90%E6%AD%BB%E5%89%8D%E5%A6%BB%E5%90%8E%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%23&Refer=top)
+
+1. [南巫](https://s.weibo.com//weibo?q=%E5%8D%97%E5%B7%AB&Refer=top)
+
+1. [南方宿舍里的最大威胁](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E5%AE%BF%E8%88%8D%E9%87%8C%E7%9A%84%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81%23&Refer=top)
+
+1. [雅思](https://s.weibo.com//weibo?q=%E9%9B%85%E6%80%9D&Refer=top)
+
+1. [拉苹果货车被指车体超宽交费999元](https://s.weibo.com//weibo?q=%23%E6%8B%89%E8%8B%B9%E6%9E%9C%E8%B4%A7%E8%BD%A6%E8%A2%AB%E6%8C%87%E8%BD%A6%E4%BD%93%E8%B6%85%E5%AE%BD%E4%BA%A4%E8%B4%B9999%E5%85%83%23&Refer=top)
+
+1. [黄贯中回复网友评论](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%B4%AF%E4%B8%AD%E5%9B%9E%E5%A4%8D%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%23&Refer=top)
+
+1. [任嘉伦心疼周生辰](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%BF%83%E7%96%BC%E5%91%A8%E7%94%9F%E8%BE%B0%23&Refer=top)
+
+1. [佟丽娅致简黑白氛围感大片](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%87%B4%E7%AE%80%E9%BB%91%E7%99%BD%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E7%89%87%23&Refer=top)
+
+1. [女子机动车道打电话致3车追尾](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%8A%A8%E8%BD%A6%E9%81%93%E6%89%93%E7%94%B5%E8%AF%9D%E8%87%B43%E8%BD%A6%E8%BF%BD%E5%B0%BE%23&Refer=top)
+
+1. [任嘉伦眼中的周生辰](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%91%A8%E7%94%9F%E8%BE%B0%23&Refer=top)
+
+1. [大连凯旋国际419户居民无人伤亡](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%87%AF%E6%97%8B%E5%9B%BD%E9%99%85419%E6%88%B7%E5%B1%85%E6%B0%91%E6%97%A0%E4%BA%BA%E4%BC%A4%E4%BA%A1%23&Refer=top)
+
+1. [方便观察健康情况的马桶](https://s.weibo.com//weibo?q=%23%E6%96%B9%E4%BE%BF%E8%A7%82%E5%AF%9F%E5%81%A5%E5%BA%B7%E6%83%85%E5%86%B5%E7%9A%84%E9%A9%AC%E6%A1%B6%23&Refer=top)
+
+1. [盲人门球运动员胡明耀好动漫感](https://s.weibo.com//weibo?q=%E7%9B%B2%E4%BA%BA%E9%97%A8%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E8%83%A1%E6%98%8E%E8%80%80%E5%A5%BD%E5%8A%A8%E6%BC%AB%E6%84%9F&Refer=top)
 
