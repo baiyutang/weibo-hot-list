@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-28 12:04:54
+## 微博今日热榜 更新于 2021-08-28 13:03:20
 1. [我国耕地面积19.179亿亩](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%80%95%E5%9C%B0%E9%9D%A2%E7%A7%AF19.179%E4%BA%BF%E4%BA%A9%23&Refer=new_time)
 
 1. [赵薇关联香港公司已宣告解散](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%96%87%E5%85%B3%E8%81%94%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%AE%A3%E5%91%8A%E8%A7%A3%E6%95%A3%23&Refer=top)
@@ -256,4 +256,16 @@
 1. [钟汉良阳光彩虹小白马舞台](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E9%98%B3%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A9%AC%E8%88%9E%E5%8F%B0%23&Refer=top)
 
 1. [陈卓璇高音好上头](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E9%AB%98%E9%9F%B3%E5%A5%BD%E4%B8%8A%E5%A4%B4%23&Refer=top)
+
+1. [央视评主流价值不容做空](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E4%B8%BB%E6%B5%81%E4%BB%B7%E5%80%BC%E4%B8%8D%E5%AE%B9%E5%81%9A%E7%A9%BA%23&Refer=top)
+
+1. [财政部原部长金人庆去世](https://s.weibo.com//weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%8E%9F%E9%83%A8%E9%95%BF%E9%87%91%E4%BA%BA%E5%BA%86%E5%8E%BB%E4%B8%96%23&Refer=top)
+
+1. [刘翠青获残奥会女子400米金牌](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%BF%A0%E9%9D%92%E8%8E%B7%E6%AE%8B%E5%A5%A5%E4%BC%9A%E5%A5%B3%E5%AD%90400%E7%B1%B3%E9%87%91%E7%89%8C%23&Refer=top)
+
+1. [段奥娟被伯克利录取](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%A5%A5%E5%A8%9F%E8%A2%AB%E4%BC%AF%E5%85%8B%E5%88%A9%E5%BD%95%E5%8F%96%23&Refer=top)
+
+1. [实地探访喀布尔接收死伤者最多医院](https://s.weibo.com//weibo?q=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E5%96%80%E5%B8%83%E5%B0%94%E6%8E%A5%E6%94%B6%E6%AD%BB%E4%BC%A4%E8%80%85%E6%9C%80%E5%A4%9A%E5%8C%BB%E9%99%A2&Refer=top)
+
+1. [集体玩蜂窝的狗子](https://s.weibo.com//weibo?q=%23%E9%9B%86%E4%BD%93%E7%8E%A9%E8%9C%82%E7%AA%9D%E7%9A%84%E7%8B%97%E5%AD%90%23&Refer=top)
 
