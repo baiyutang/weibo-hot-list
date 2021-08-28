@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-29 02:04:15
+## 微博今日热榜 更新于 2021-08-29 03:02:36
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [QQ音乐回应专辑限制购买](https://s.weibo.com//weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E5%9B%9E%E5%BA%94%E4%B8%93%E8%BE%91%E9%99%90%E5%88%B6%E8%B4%AD%E4%B9%B0%23&Refer=top)
@@ -118,4 +118,12 @@
 1. [第16届残奥会](https://s.weibo.com//weibo?q=%23%E7%AC%AC16%E5%B1%8A%E6%AE%8B%E5%A5%A5%E4%BC%9A%23&Refer=top)
 
 1. [曼城 阿森纳](https://s.weibo.com//weibo?q=%E6%9B%BC%E5%9F%8E%20%E9%98%BF%E6%A3%AE%E7%BA%B3&Refer=top)
+
+1. [动物有哪些让人觉得神奇的行为](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%89%A9%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AE%A9%E4%BA%BA%E8%A7%89%E5%BE%97%E7%A5%9E%E5%A5%87%E7%9A%84%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [这就是街舞100进49](https://s.weibo.com//weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E100%E8%BF%9B49&Refer=top)
+
+1. [明日5第三期观后感](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%97%A55%E7%AC%AC%E4%B8%89%E6%9C%9F%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top)
+
+1. [这就是街舞轮椅舞](https://s.weibo.com//weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E%E8%BD%AE%E6%A4%85%E8%88%9E&Refer=top)
 
