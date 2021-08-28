@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-29 03:02:36
+## 微博今日热榜 更新于 2021-08-29 04:03:54
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [QQ音乐回应专辑限制购买](https://s.weibo.com//weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E5%9B%9E%E5%BA%94%E4%B8%93%E8%BE%91%E9%99%90%E5%88%B6%E8%B4%AD%E4%B9%B0%23&Refer=top)
