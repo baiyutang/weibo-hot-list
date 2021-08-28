@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-29 01:10:19
+## 微博今日热榜 更新于 2021-08-29 02:04:15
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [QQ音乐回应专辑限制购买](https://s.weibo.com//weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E5%9B%9E%E5%BA%94%E4%B8%93%E8%BE%91%E9%99%90%E5%88%B6%E8%B4%AD%E4%B9%B0%23&Refer=top)
@@ -116,4 +116,6 @@
 1. [残奥会让人动容的瞬间](https://s.weibo.com//weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8A%A8%E5%AE%B9%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
 
 1. [第16届残奥会](https://s.weibo.com//weibo?q=%23%E7%AC%AC16%E5%B1%8A%E6%AE%8B%E5%A5%A5%E4%BC%9A%23&Refer=top)
+
+1. [曼城 阿森纳](https://s.weibo.com//weibo?q=%E6%9B%BC%E5%9F%8E%20%E9%98%BF%E6%A3%AE%E7%BA%B3&Refer=top)
 
