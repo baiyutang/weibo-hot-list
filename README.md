@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-30 01:10:34
+## 微博今日热榜 更新于 2021-08-30 02:04:12
 1. [那时他们正青春](https://s.weibo.com//weibo?q=%23%E9%82%A3%E6%97%B6%E4%BB%96%E4%BB%AC%E6%AD%A3%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [秋季开学将有这些新变化](https://s.weibo.com//weibo?q=%23%E7%A7%8B%E5%AD%A3%E5%BC%80%E5%AD%A6%E5%B0%86%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=top)
@@ -110,4 +110,6 @@
 1. [全国测绘法宣传日](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B5%8B%E7%BB%98%E6%B3%95%E5%AE%A3%E4%BC%A0%E6%97%A5%23&Refer=new_time)
 
 1. [东京残奥会](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%23&Refer=top)
+
+1. [丁真讲述理塘新生活](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E8%AE%B2%E8%BF%B0%E7%90%86%E5%A1%98%E6%96%B0%E7%94%9F%E6%B4%BB%23&Refer=top)
 
