@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-30 10:15:52
+## 微博今日热榜 更新于 2021-08-30 11:05:48
 1. [那时他们正青春](https://s.weibo.com//weibo?q=%23%E9%82%A3%E6%97%B6%E4%BB%96%E4%BB%AC%E6%AD%A3%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [秋季开学将有这些新变化](https://s.weibo.com//weibo?q=%23%E7%A7%8B%E5%AD%A3%E5%BC%80%E5%AD%A6%E5%B0%86%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=top)
@@ -202,4 +202,22 @@
 1. [这些残奥特写太戳了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BA%9B%E6%AE%8B%E5%A5%A5%E7%89%B9%E5%86%99%E5%A4%AA%E6%88%B3%E4%BA%86%23&Refer=top)
 
 1. [阿富汗富人区生活依然平静](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%AF%8C%E4%BA%BA%E5%8C%BA%E7%94%9F%E6%B4%BB%E4%BE%9D%E7%84%B6%E5%B9%B3%E9%9D%99&Refer=top)
+
+1. [小学一二年级不进行纸笔考试](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%B8%80%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8D%E8%BF%9B%E8%A1%8C%E7%BA%B8%E7%AC%94%E8%80%83%E8%AF%95%23&Refer=top)
+
+1. [95岁外公为外孙女手写婚书](https://s.weibo.com//weibo?q=%2395%E5%B2%81%E5%A4%96%E5%85%AC%E4%B8%BA%E5%A4%96%E5%AD%99%E5%A5%B3%E6%89%8B%E5%86%99%E5%A9%9A%E4%B9%A6%23&Refer=top)
+
+1. [教育部要求不得设置重点班](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%8D%E5%BE%97%E8%AE%BE%E7%BD%AE%E9%87%8D%E7%82%B9%E7%8F%AD%23&Refer=top)
+
+1. [不包邮的新疆到底有多大](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%8C%85%E9%82%AE%E7%9A%84%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [不得按考试结果给学生排座位](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%BE%97%E6%8C%89%E8%80%83%E8%AF%95%E7%BB%93%E6%9E%9C%E7%BB%99%E5%AD%A6%E7%94%9F%E6%8E%92%E5%BA%A7%E4%BD%8D%23&Refer=top)
+
+1. [11位抗美援朝老兵讲述朝鲜战场](https://s.weibo.com//weibo?q=%2311%E4%BD%8D%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E8%AE%B2%E8%BF%B0%E6%9C%9D%E9%B2%9C%E6%88%98%E5%9C%BA%23&Refer=top)
+
+1. [警察帮小学生找回未完成暑假作业](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%B8%AE%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%89%BE%E5%9B%9E%E6%9C%AA%E5%AE%8C%E6%88%90%E6%9A%91%E5%81%87%E4%BD%9C%E4%B8%9A%23&Refer=top)
+
+1. [美国火箭升空不到三分钟漂移解体](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%87%E7%A9%BA%E4%B8%8D%E5%88%B0%E4%B8%89%E5%88%86%E9%92%9F%E6%BC%82%E7%A7%BB%E8%A7%A3%E4%BD%93%23&Refer=top)
+
+1. [湖南话能有多上头](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E8%AF%9D%E8%83%BD%E6%9C%89%E5%A4%9A%E4%B8%8A%E5%A4%B4%23&Refer=top)
 
