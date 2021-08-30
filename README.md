@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-31 03:08:21
+## 微博今日热榜 更新于 2021-08-31 04:08:52
 1. [中国共产党活力密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%B4%BB%E5%8A%9B%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [睡觉时一脚踩空是怎么回事](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E4%B8%80%E8%84%9A%E8%B8%A9%E7%A9%BA%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23&Refer=top)
@@ -110,4 +110,10 @@
 1. [1950他们正年轻](https://s.weibo.com//weibo?q=%231950%E4%BB%96%E4%BB%AC%E6%AD%A3%E5%B9%B4%E8%BD%BB%23&Refer=new_time)
 
 1. [辰时cp手语神翻译](https://s.weibo.com//weibo?q=%23%E8%BE%B0%E6%97%B6cp%E6%89%8B%E8%AF%AD%E7%A5%9E%E7%BF%BB%E8%AF%91%23&Refer=top)
+
+1. [震撼实拍美国一飞机进入4级飓风眼](https://s.weibo.com//weibo?q=%23%E9%9C%87%E6%92%BC%E5%AE%9E%E6%8B%8D%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%A3%9E%E6%9C%BA%E8%BF%9B%E5%85%A54%E7%BA%A7%E9%A3%93%E9%A3%8E%E7%9C%BC%23&Refer=top)
+
+1. [3分钟回顾美国20年阿富汗战争](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%BE%8E%E5%9B%BD20%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E4%BA%89%23&Refer=top)
+
+1. [怎样克服开学焦虑](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E5%85%8B%E6%9C%8D%E5%BC%80%E5%AD%A6%E7%84%A6%E8%99%91%23&Refer=top)
 
