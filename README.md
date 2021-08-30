@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-31 01:17:29
+## 微博今日热榜 更新于 2021-08-31 02:09:28
 1. [中国共产党活力密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%B4%BB%E5%8A%9B%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [睡觉时一脚踩空是怎么回事](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E4%B8%80%E8%84%9A%E8%B8%A9%E7%A9%BA%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [吴红玫终于支棱起来了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%BA%A2%E7%8E%AB%E7%BB%88%E4%BA%8E%E6%94%AF%E6%A3%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top)
 
 1. [加强反垄断反不正当竞争监管力度](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8F%8D%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89%E7%9B%91%E7%AE%A1%E5%8A%9B%E5%BA%A6%23&Refer=top)
+
+1. [1950他们正年轻](https://s.weibo.com//weibo?q=%231950%E4%BB%96%E4%BB%AC%E6%AD%A3%E5%B9%B4%E8%BD%BB%23&Refer=new_time)
+
+1. [辰时cp手语神翻译](https://s.weibo.com//weibo?q=%23%E8%BE%B0%E6%97%B6cp%E6%89%8B%E8%AF%AD%E7%A5%9E%E7%BF%BB%E8%AF%91%23&Refer=top)
 
