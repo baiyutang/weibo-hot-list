@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-31 05:03:12
+## 微博今日热榜 更新于 2021-08-31 06:05:34
 1. [中国共产党活力密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%B4%BB%E5%8A%9B%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [睡觉时一脚踩空是怎么回事](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E4%B8%80%E8%84%9A%E8%B8%A9%E7%A9%BA%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23&Refer=top)
