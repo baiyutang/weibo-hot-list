@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-31 06:05:34
+## 微博今日热榜 更新于 2021-08-31 07:04:23
 1. [中国共产党活力密码](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%B4%BB%E5%8A%9B%E5%AF%86%E7%A0%81%23&Refer=new_time)
 
 1. [睡觉时一脚踩空是怎么回事](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E4%B8%80%E8%84%9A%E8%B8%A9%E7%A9%BA%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [3分钟回顾美国20年阿富汗战争](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%BE%8E%E5%9B%BD20%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E4%BA%89%23&Refer=top)
 
 1. [怎样克服开学焦虑](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E5%85%8B%E6%9C%8D%E5%BC%80%E5%AD%A6%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [石磊为了结婚有多努力](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E7%A3%8A%E4%B8%BA%E4%BA%86%E7%BB%93%E5%A9%9A%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top)
+
+1. [乔一成送叶小朗出国](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%80%E6%88%90%E9%80%81%E5%8F%B6%E5%B0%8F%E6%9C%97%E5%87%BA%E5%9B%BD%23&Refer=top)
 
