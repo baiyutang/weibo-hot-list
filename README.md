@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-08-30 11:05:48
+## 微博今日热榜 更新于 2021-08-30 12:06:39
 1. [那时他们正青春](https://s.weibo.com//weibo?q=%23%E9%82%A3%E6%97%B6%E4%BB%96%E4%BB%AC%E6%AD%A3%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [秋季开学将有这些新变化](https://s.weibo.com//weibo?q=%23%E7%A7%8B%E5%AD%A3%E5%BC%80%E5%AD%A6%E5%B0%86%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=top)
@@ -220,4 +220,38 @@
 1. [美国火箭升空不到三分钟漂移解体](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%87%E7%A9%BA%E4%B8%8D%E5%88%B0%E4%B8%89%E5%88%86%E9%92%9F%E6%BC%82%E7%A7%BB%E8%A7%A3%E4%BD%93%23&Refer=top)
 
 1. [湖南话能有多上头](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E8%AF%9D%E8%83%BD%E6%9C%89%E5%A4%9A%E4%B8%8A%E5%A4%B4%23&Refer=top)
+
+1. [67%的中小学生睡眠时间不达标](https://s.weibo.com//weibo?q=%2367%25%E7%9A%84%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E4%B8%8D%E8%BE%BE%E6%A0%87%23&Refer=top)
+
+1. [吴谢宇将提起上诉](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E5%B0%86%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%AF%89%23&Refer=top)
+
+1. [水谷隼将继续职业生涯](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E8%B0%B7%E9%9A%BC%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%23&Refer=top)
+
+1. [一见倾心](https://s.weibo.com//weibo?q=%E4%B8%80%E8%A7%81%E5%80%BE%E5%BF%83&Refer=top)
+
+1. [国乒队结束隔离](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%92%E9%98%9F%E7%BB%93%E6%9D%9F%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [抱阿富汗婴儿的美国女兵被炸身亡](https://s.weibo.com//weibo?q=%23%E6%8A%B1%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A9%B4%E5%84%BF%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%85%B5%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [he和be到底是什么意思](https://s.weibo.com//weibo?q=%23he%E5%92%8Cbe%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23&Refer=top)
+
+1. [云南虫谷终极预告](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [寡姐美队再合作新片](https://s.weibo.com//weibo?q=%23%E5%AF%A1%E5%A7%90%E7%BE%8E%E9%98%9F%E5%86%8D%E5%90%88%E4%BD%9C%E6%96%B0%E7%89%87%23&Refer=top)
+
+1. [双减问题举报平台已收到8000多条举报](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E5%87%8F%E9%97%AE%E9%A2%98%E4%B8%BE%E6%8A%A5%E5%B9%B3%E5%8F%B0%E5%B7%B2%E6%94%B6%E5%88%B08000%E5%A4%9A%E6%9D%A1%E4%B8%BE%E6%8A%A5%23&Refer=top)
+
+1. [皮卡丘新电影定档](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E5%8D%A1%E4%B8%98%E6%96%B0%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [天坑鹰猎开播三周年](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%9D%91%E9%B9%B0%E7%8C%8E%E5%BC%80%E6%92%AD%E4%B8%89%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [对方球员带儿子追星梅西](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%96%B9%E7%90%83%E5%91%98%E5%B8%A6%E5%84%BF%E5%AD%90%E8%BF%BD%E6%98%9F%E6%A2%85%E8%A5%BF%23&Refer=top)
+
+1. [教育部明确对课后服务教师给予补助](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE%E5%AF%B9%E8%AF%BE%E5%90%8E%E6%9C%8D%E5%8A%A1%E6%95%99%E5%B8%88%E7%BB%99%E4%BA%88%E8%A1%A5%E5%8A%A9%23&Refer=top)
+
+1. [夫妻俩工作9年后一起回母校读研](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%B7%A5%E4%BD%9C9%E5%B9%B4%E5%90%8E%E4%B8%80%E8%B5%B7%E5%9B%9E%E6%AF%8D%E6%A0%A1%E8%AF%BB%E7%A0%94%23&Refer=top)
+
+1. [新学期要实现课后服务全覆盖](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%AD%A6%E6%9C%9F%E8%A6%81%E5%AE%9E%E7%8E%B0%E8%AF%BE%E5%90%8E%E6%9C%8D%E5%8A%A1%E5%85%A8%E8%A6%86%E7%9B%96%23&Refer=top)
+
+1. [给大学生的新学期建议](https://s.weibo.com//weibo?q=%23%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%96%B0%E5%AD%A6%E6%9C%9F%E5%BB%BA%E8%AE%AE%23&Refer=top)
 
