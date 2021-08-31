@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 00:11:30
+## 微博今日热榜 更新于 2021-09-01 01:16:35
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [绿藤市民终于盼到了庆功宴](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E8%97%A4%E5%B8%82%E6%B0%91%E7%BB%88%E4%BA%8E%E7%9B%BC%E5%88%B0%E4%BA%86%E5%BA%86%E5%8A%9F%E5%AE%B4%23&Refer=top)
 
 1. [樊振东刘诗雯机场照](https://s.weibo.com//weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%88%98%E8%AF%97%E9%9B%AF%E6%9C%BA%E5%9C%BA%E7%85%A7&Refer=top)
+
+1. [高校回应学生会干部嚣张查寝](https://s.weibo.com//weibo?q=%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BC%9A%E5%B9%B2%E9%83%A8%E5%9A%A3%E5%BC%A0%E6%9F%A5%E5%AF%9D&Refer=top)
+
+1. [影帝们原来都是段子手](https://s.weibo.com//weibo?q=%23%E5%BD%B1%E5%B8%9D%E4%BB%AC%E5%8E%9F%E6%9D%A5%E9%83%BD%E6%98%AF%E6%AE%B5%E5%AD%90%E6%89%8B%23&Refer=top)
+
+1. [20年不懈追凶刑侦队长头发都白了](https://s.weibo.com//weibo?q=%2320%E5%B9%B4%E4%B8%8D%E6%87%88%E8%BF%BD%E5%87%B6%E5%88%91%E4%BE%A6%E9%98%9F%E9%95%BF%E5%A4%B4%E5%8F%91%E9%83%BD%E7%99%BD%E4%BA%86%23&Refer=top)
+
+1. [邱瑞脱口秀吐槽抠门老板好精准](https://s.weibo.com//weibo?q=%23%E9%82%B1%E7%91%9E%E8%84%B1%E5%8F%A3%E7%A7%80%E5%90%90%E6%A7%BD%E6%8A%A0%E9%97%A8%E8%80%81%E6%9D%BF%E5%A5%BD%E7%B2%BE%E5%87%86%23&Refer=top)
 
