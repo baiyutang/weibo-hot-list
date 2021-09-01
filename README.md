@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 07:03:55
+## 微博今日热榜 更新于 2021-09-01 08:19:07
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -116,4 +116,54 @@
 1. [邱瑞脱口秀吐槽抠门老板好精准](https://s.weibo.com//weibo?q=%23%E9%82%B1%E7%91%9E%E8%84%B1%E5%8F%A3%E7%A7%80%E5%90%90%E6%A7%BD%E6%8A%A0%E9%97%A8%E8%80%81%E6%9D%BF%E5%A5%BD%E7%B2%BE%E5%87%86%23&Refer=top)
 
 1. [肆意对他国军事干涉只会以失败收场](https://s.weibo.com//weibo?q=%23%E8%82%86%E6%84%8F%E5%AF%B9%E4%BB%96%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%B9%B2%E6%B6%89%E5%8F%AA%E4%BC%9A%E4%BB%A5%E5%A4%B1%E8%B4%A5%E6%94%B6%E5%9C%BA%23&Refer=top)
+
+1. [我就是普通一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E6%99%AE%E9%80%9A%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
+
+1. [苏炳添杨倩孙颖莎的开学寄语](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9D%A8%E5%80%A9%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9A%84%E5%BC%80%E5%AD%A6%E5%AF%84%E8%AF%AD%23&Refer=top)
+
+1. [开学第一天](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top)
+
+1. [电子驾照来了](https://s.weibo.com//weibo?q=%E7%94%B5%E5%AD%90%E9%A9%BE%E7%85%A7%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [原来喜羊羊和懒羊羊不是一个品种的羊](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%96%9C%E7%BE%8A%E7%BE%8A%E5%92%8C%E6%87%92%E7%BE%8A%E7%BE%8A%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%93%81%E7%A7%8D%E7%9A%84%E7%BE%8A%23&Refer=top)
+
+1. [洗碗机均价破7000元](https://s.weibo.com//weibo?q=%23%E6%B4%97%E7%A2%97%E6%9C%BA%E5%9D%87%E4%BB%B7%E7%A0%B47000%E5%85%83%23&Refer=top)
+
+1. [朱婷担任全运河南代表团旗手](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%A9%B7%E6%8B%85%E4%BB%BB%E5%85%A8%E8%BF%90%E6%B2%B3%E5%8D%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%23&Refer=top)
+
+1. [阿富汗民众说是时候开始重建家园了](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%91%E4%BC%97%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9B%AD%E4%BA%86%23&Refer=top)
+
+1. [人类幼崽的脚有多灵活](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E8%84%9A%E6%9C%89%E5%A4%9A%E7%81%B5%E6%B4%BB%23&Refer=top)
+
+1. [睡觉炸毛的熊猫崽崽有多可爱](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E8%A7%89%E7%82%B8%E6%AF%9B%E7%9A%84%E7%86%8A%E7%8C%AB%E5%B4%BD%E5%B4%BD%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [526斤超级肥胖患者成功实施减重手术](https://s.weibo.com//weibo?q=%23526%E6%96%A4%E8%B6%85%E7%BA%A7%E8%82%A5%E8%83%96%E6%82%A3%E8%80%85%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%23&Refer=top)
+
+1. [全国已有三地报告炭疽确诊病例](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%B7%B2%E6%9C%89%E4%B8%89%E5%9C%B0%E6%8A%A5%E5%91%8A%E7%82%AD%E7%96%BD%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [贵州现罕见局部雨只下一小块](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%8E%B0%E7%BD%95%E8%A7%81%E5%B1%80%E9%83%A8%E9%9B%A8%E5%8F%AA%E4%B8%8B%E4%B8%80%E5%B0%8F%E5%9D%97%23&Refer=top)
+
+1. [日本首次发现德尔塔病毒新变异株](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%BE%B7%E5%B0%94%E5%A1%94%E7%97%85%E6%AF%92%E6%96%B0%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
+
+1. [阿富汗已为全球第一大鸦片生产国](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B2%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E9%B8%A6%E7%89%87%E7%94%9F%E4%BA%A7%E5%9B%BD%23&Refer=top)
+
+1. [C罗为了弗格森重返曼联](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E4%B8%BA%E4%BA%86%E5%BC%97%E6%A0%BC%E6%A3%AE%E9%87%8D%E8%BF%94%E6%9B%BC%E8%81%94%23&Refer=top)
+
+1. [电工爬上燃烧电线杆断电灭火](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%B7%A5%E7%88%AC%E4%B8%8A%E7%87%83%E7%83%A7%E7%94%B5%E7%BA%BF%E6%9D%86%E6%96%AD%E7%94%B5%E7%81%AD%E7%81%AB%23&Refer=top)
+
+1. [9月你好](https://s.weibo.com//weibo?q=%239%E6%9C%88%E4%BD%A0%E5%A5%BD%23&Refer=top)
+
+1. [发现人间可爱的瞬间](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%BA%E9%97%B4%E5%8F%AF%E7%88%B1%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [马素芹乔二强再滑冰](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E7%B4%A0%E8%8A%B9%E4%B9%94%E4%BA%8C%E5%BC%BA%E5%86%8D%E6%BB%91%E5%86%B0%23&Refer=top)
+
+1. [袁祥仁的扫地僧太有武侠味了](https://s.weibo.com//weibo?q=%23%E8%A2%81%E7%A5%A5%E4%BB%81%E7%9A%84%E6%89%AB%E5%9C%B0%E5%83%A7%E5%A4%AA%E6%9C%89%E6%AD%A6%E4%BE%A0%E5%91%B3%E4%BA%86%23&Refer=top)
+
+1. [网友拍到小鸟翻着肚皮躺着晒太阳](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E5%B0%8F%E9%B8%9F%E7%BF%BB%E7%9D%80%E8%82%9A%E7%9A%AE%E8%BA%BA%E7%9D%80%E6%99%92%E5%A4%AA%E9%98%B3%23&Refer=top)
+
+1. [医美低龄化愈演愈烈](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%BE%8E%E4%BD%8E%E9%BE%84%E5%8C%96%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%23&Refer=top)
+
+1. [双减后素质类培训企业暴增](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E5%87%8F%E5%90%8E%E7%B4%A0%E8%B4%A8%E7%B1%BB%E5%9F%B9%E8%AE%AD%E4%BC%81%E4%B8%9A%E6%9A%B4%E5%A2%9E%23&Refer=top)
+
+1. [男子7楼坠落砸到轿车致骨折](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%907%E6%A5%BC%E5%9D%A0%E8%90%BD%E7%A0%B8%E5%88%B0%E8%BD%BF%E8%BD%A6%E8%87%B4%E9%AA%A8%E6%8A%98%23&Refer=top)
 
