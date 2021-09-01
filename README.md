@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 10:20:43
+## 微博今日热榜 更新于 2021-09-01 11:04:16
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -208,4 +208,24 @@
 1. [什么是中国式救援](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%91%E6%8F%B4%23&Refer=top)
 
 1. [女孩手卡抽屉央求消防员别拆桌子](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%89%8B%E5%8D%A1%E6%8A%BD%E5%B1%89%E5%A4%AE%E6%B1%82%E6%B6%88%E9%98%B2%E5%91%98%E5%88%AB%E6%8B%86%E6%A1%8C%E5%AD%90%23&Refer=top)
+
+1. [小狗被遗弃在17楼边缘淋雨2天2夜](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%E5%9C%A817%E6%A5%BC%E8%BE%B9%E7%BC%98%E6%B7%8B%E9%9B%A82%E5%A4%A92%E5%A4%9C%23&Refer=top)
+
+1. [新中国历史上首个教育督导问责文件](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%B8%AA%E6%95%99%E8%82%B2%E7%9D%A3%E5%AF%BC%E9%97%AE%E8%B4%A3%E6%96%87%E4%BB%B6%23&Refer=top)
+
+1. [长津湖定档国庆](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E5%AE%9A%E6%A1%A3%E5%9B%BD%E5%BA%86%23&Refer=top)
+
+1. [HM虚假宣传误导消费者被罚26万](https://s.weibo.com//weibo?q=%23HM%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E8%AF%AF%E5%AF%BC%E6%B6%88%E8%B4%B9%E8%80%85%E8%A2%AB%E7%BD%9A26%E4%B8%87%23&Refer=top)
+
+1. [兰州交大研究生在校园遇害](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E4%BA%A4%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9C%A8%E6%A0%A1%E5%9B%AD%E9%81%87%E5%AE%B3%23&Refer=top)
+
+1. [兰州交大遇害研究生和凶手无交集](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E4%BA%A4%E5%A4%A7%E9%81%87%E5%AE%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%92%8C%E5%87%B6%E6%89%8B%E6%97%A0%E4%BA%A4%E9%9B%86%23&Refer=top)
+
+1. [43岁高位截瘫大哥成吵架情侣传话人](https://s.weibo.com//weibo?q=%2343%E5%B2%81%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%E5%A4%A7%E5%93%A5%E6%88%90%E5%90%B5%E6%9E%B6%E6%83%85%E4%BE%A3%E4%BC%A0%E8%AF%9D%E4%BA%BA%23&Refer=top)
+
+1. [张予曦凤离雪造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%87%A4%E7%A6%BB%E9%9B%AA%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [今年还有10天假期](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%BF%98%E6%9C%8910%E5%A4%A9%E5%81%87%E6%9C%9F%23&Refer=top)
+
+1. [薇娅停止与田园主义全麦面包合作](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E5%81%9C%E6%AD%A2%E4%B8%8E%E7%94%B0%E5%9B%AD%E4%B8%BB%E4%B9%89%E5%85%A8%E9%BA%A6%E9%9D%A2%E5%8C%85%E5%90%88%E4%BD%9C&Refer=top)
 
