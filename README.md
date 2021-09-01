@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 06:03:58
+## 微博今日热榜 更新于 2021-09-02 07:04:11
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [独居男子凌晨突发中风邻居翻窗救人](https://s.weibo.com//weibo?q=%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E7%AA%81%E5%8F%91%E4%B8%AD%E9%A3%8E%E9%82%BB%E5%B1%85%E7%BF%BB%E7%AA%97%E6%95%91%E4%BA%BA&Refer=top)
 
 1. [女儿护爹有多硬核](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8A%A4%E7%88%B9%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&Refer=top)
+
+1. [团伙闲鱼低价卖二手苹果机诈骗141万](https://s.weibo.com//weibo?q=%23%E5%9B%A2%E4%BC%99%E9%97%B2%E9%B1%BC%E4%BD%8E%E4%BB%B7%E5%8D%96%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C%E6%9C%BA%E8%AF%88%E9%AA%97141%E4%B8%87%23&Refer=top)
+
+1. [萌娃放假前后对比太真实了](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E6%94%BE%E5%81%87%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E5%A4%AA%E7%9C%9F%E5%AE%9E%E4%BA%86%23&Refer=top)
 
