@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 21:17:27
+## 微博今日热榜 更新于 2021-09-01 22:06:32
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -492,4 +492,16 @@
 1. [帅哥真的很影响干饭](https://s.weibo.com//weibo?q=%23%E5%B8%85%E5%93%A5%E7%9C%9F%E7%9A%84%E5%BE%88%E5%BD%B1%E5%93%8D%E5%B9%B2%E9%A5%AD%23&Refer=top)
 
 1. [史逸婷女子100米T36级夺冠破世界纪录](https://s.weibo.com//weibo?q=%23%E5%8F%B2%E9%80%B8%E5%A9%B7%E5%A5%B3%E5%AD%90100%E7%B1%B3T36%E7%BA%A7%E5%A4%BA%E5%86%A0%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [乔七七离婚](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%83%E4%B8%83%E7%A6%BB%E5%A9%9A%23&Refer=top)
+
+1. [原来狗狗也会闹脾气](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8B%97%E7%8B%97%E4%B9%9F%E4%BC%9A%E9%97%B9%E8%84%BE%E6%B0%94%23&Refer=top)
+
+1. [退伍武警高铁站求婚等待8年女友](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%8D%E6%AD%A6%E8%AD%A6%E9%AB%98%E9%93%81%E7%AB%99%E6%B1%82%E5%A9%9A%E7%AD%89%E5%BE%858%E5%B9%B4%E5%A5%B3%E5%8F%8B%23&Refer=top)
+
+1. [阿富汗前部长回应在德国送外卖](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%BE%B7%E5%9B%BD%E9%80%81%E5%A4%96%E5%8D%96%23&Refer=top)
+
+1. [腾讯游戏给未成年人捐运动场](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E7%BB%99%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%8D%90%E8%BF%90%E5%8A%A8%E5%9C%BA%23&Refer=top)
+
+1. [拉齐尼](https://s.weibo.com//weibo?q=%E6%8B%89%E9%BD%90%E5%B0%BC&Refer=top)
 
