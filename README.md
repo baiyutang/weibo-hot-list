@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 00:11:31
+## 微博今日热榜 更新于 2021-09-02 01:17:28
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [头等舱男子疑辱骂空姐手脏](https://s.weibo.com//weibo?q=%23%E5%A4%B4%E7%AD%89%E8%88%B1%E7%94%B7%E5%AD%90%E7%96%91%E8%BE%B1%E9%AA%82%E7%A9%BA%E5%A7%90%E6%89%8B%E8%84%8F%23&Refer=top)
 
 1. [亲爱的爸妈大结局](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E7%88%B8%E5%A6%88%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [喝多了千万不要发语音](https://s.weibo.com//weibo?q=%23%E5%96%9D%E5%A4%9A%E4%BA%86%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8F%91%E8%AF%AD%E9%9F%B3%23&Refer=top)
+
+1. [烟织下线](https://s.weibo.com//weibo?q=%23%E7%83%9F%E7%BB%87%E4%B8%8B%E7%BA%BF%23&Refer=top)
+
+1. [东京残奥会](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A&Refer=top)
 
