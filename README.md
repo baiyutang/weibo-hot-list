@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 14:08:08
+## 微博今日热榜 更新于 2021-09-01 15:09:29
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -328,4 +328,26 @@
 1. [视频演示如何申领电子驾照](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA%E5%A6%82%E4%BD%95%E7%94%B3%E9%A2%86%E7%94%B5%E5%AD%90%E9%A9%BE%E7%85%A7%23&Refer=top)
 
 1. [电子驾驶证如何申领](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E9%A9%BE%E9%A9%B6%E8%AF%81%E5%A6%82%E4%BD%95%E7%94%B3%E9%A2%86%23&Refer=top)
+
+1. [学校出现学生欺凌情况将被问责](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%87%BA%E7%8E%B0%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%E6%83%85%E5%86%B5%E5%B0%86%E8%A2%AB%E9%97%AE%E8%B4%A3%23&Refer=top)
+
+1. [部分电竞赛事宣布限制参赛选手年龄](https://s.weibo.com//weibo?q=%23%E9%83%A8%E5%88%86%E7%94%B5%E7%AB%9E%E8%B5%9B%E4%BA%8B%E5%AE%A3%E5%B8%83%E9%99%90%E5%88%B6%E5%8F%82%E8%B5%9B%E9%80%89%E6%89%8B%E5%B9%B4%E9%BE%84%23&Refer=top)
+
+1. [男子酒驾疯狂逃逸妻儿劝说喊破嗓](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E7%96%AF%E7%8B%82%E9%80%83%E9%80%B8%E5%A6%BB%E5%84%BF%E5%8A%9D%E8%AF%B4%E5%96%8A%E7%A0%B4%E5%97%93%23&Refer=top)
+
+1. [体检发现结节怎么办](https://s.weibo.com//weibo?q=%23%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E7%BB%93%E8%8A%82%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top)
+
+1. [英雄联盟10周年表演赛阵容](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F10%E5%91%A8%E5%B9%B4%E8%A1%A8%E6%BC%94%E8%B5%9B%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [爸妈的拍马屁式教育](https://s.weibo.com//weibo?q=%23%E7%88%B8%E5%A6%88%E7%9A%84%E6%8B%8D%E9%A9%AC%E5%B1%81%E5%BC%8F%E6%95%99%E8%82%B2%23&Refer=top)
+
+1. [北京环球度假区玩一趟花多少钱](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BA%A6%E5%81%87%E5%8C%BA%E7%8E%A9%E4%B8%80%E8%B6%9F%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1%23&Refer=top)
+
+1. [五旬大叔忘带钥匙从2楼徒手爬上14楼](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%97%AC%E5%A4%A7%E5%8F%94%E5%BF%98%E5%B8%A6%E9%92%A5%E5%8C%99%E4%BB%8E2%E6%A5%BC%E5%BE%92%E6%89%8B%E7%88%AC%E4%B8%8A14%E6%A5%BC%23&Refer=top)
+
+1. [我和我的父辈新预告](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%88%B6%E8%BE%88%E6%96%B0%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [夏日少年派全员开学](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E5%B0%91%E5%B9%B4%E6%B4%BE%E5%85%A8%E5%91%98%E5%BC%80%E5%AD%A6%23&Refer=top)
+
+1. [祝福郎导未来一切顺利](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E7%A6%8F%E9%83%8E%E5%AF%BC%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%88%87%E9%A1%BA%E5%88%A9%23&Refer=top)
 
