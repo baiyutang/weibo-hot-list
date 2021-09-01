@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 18:09:54
+## 微博今日热榜 更新于 2021-09-01 19:07:39
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -420,4 +420,22 @@
 1. [华坪女高收到一面特殊国旗](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%E6%94%B6%E5%88%B0%E4%B8%80%E9%9D%A2%E7%89%B9%E6%AE%8A%E5%9B%BD%E6%97%97%23&Refer=top)
 
 1. [与君歌的格局有多大](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E5%90%9B%E6%AD%8C%E7%9A%84%E6%A0%BC%E5%B1%80%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [抖音下线明星爱豆榜和明星话题榜](https://s.weibo.com//weibo?q=%23%E6%8A%96%E9%9F%B3%E4%B8%8B%E7%BA%BF%E6%98%8E%E6%98%9F%E7%88%B1%E8%B1%86%E6%A6%9C%E5%92%8C%E6%98%8E%E6%98%9F%E8%AF%9D%E9%A2%98%E6%A6%9C%23&Refer=top)
+
+1. [王一丁丧失生育能力](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E4%B8%81%E4%B8%A7%E5%A4%B1%E7%94%9F%E8%82%B2%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [日本名古屋市长感染新冠](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E9%95%BF%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top)
+
+1. [女孩纯手工复原山海经九尾白狐](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%BA%AF%E6%89%8B%E5%B7%A5%E5%A4%8D%E5%8E%9F%E5%B1%B1%E6%B5%B7%E7%BB%8F%E4%B9%9D%E5%B0%BE%E7%99%BD%E7%8B%90%23&Refer=top)
+
+1. [开学第一天围墙上长满了家长](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%9B%B4%E5%A2%99%E4%B8%8A%E9%95%BF%E6%BB%A1%E4%BA%86%E5%AE%B6%E9%95%BF%23&Refer=top)
+
+1. [掉进医美陷阱里的年轻人](https://s.weibo.com//weibo?q=%23%E6%8E%89%E8%BF%9B%E5%8C%BB%E7%BE%8E%E9%99%B7%E9%98%B1%E9%87%8C%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top)
+
+1. [孙俪拍理想之城跑步戏冲出现场](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E6%8B%8D%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E%E8%B7%91%E6%AD%A5%E6%88%8F%E5%86%B2%E5%87%BA%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [原来小猫咪也有坏心思](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E7%8C%AB%E5%92%AA%E4%B9%9F%E6%9C%89%E5%9D%8F%E5%BF%83%E6%80%9D%23&Refer=top)
+
+1. [你的日常运动都做对了吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84%E6%97%A5%E5%B8%B8%E8%BF%90%E5%8A%A8%E9%83%BD%E5%81%9A%E5%AF%B9%E4%BA%86%E5%90%97%23&Refer=top)
 
