@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 09:51:58
+## 微博今日热榜 更新于 2021-09-01 10:20:43
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -204,4 +204,8 @@
 1. [2021年我们学会了什么](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%88%91%E4%BB%AC%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
 
 1. [感染炭疽病毒会有什么症状](https://s.weibo.com//weibo?q=%23%E6%84%9F%E6%9F%93%E7%82%AD%E7%96%BD%E7%97%85%E6%AF%92%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [什么是中国式救援](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%91%E6%8F%B4%23&Refer=top)
+
+1. [女孩手卡抽屉央求消防员别拆桌子](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%89%8B%E5%8D%A1%E6%8A%BD%E5%B1%89%E5%A4%AE%E6%B1%82%E6%B6%88%E9%98%B2%E5%91%98%E5%88%AB%E6%8B%86%E6%A1%8C%E5%AD%90%23&Refer=top)
 
