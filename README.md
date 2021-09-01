@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-01 17:08:42
+## 微博今日热榜 更新于 2021-09-01 18:09:54
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
 
 1. [巨人教育宣布倒闭](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E6%95%99%E8%82%B2%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD%23&Refer=top)
@@ -394,4 +394,30 @@
 1. [腾讯视频优化超前点播](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E4%BC%98%E5%8C%96%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD&Refer=top)
 
 1. [神十二航天员在太空讲开学第一课](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%8C%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E8%AE%B2%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%23&Refer=top)
+
+1. [4名在韩志愿军烈士找到亲属](https://s.weibo.com//weibo?q=%234%E5%90%8D%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E6%89%BE%E5%88%B0%E4%BA%B2%E5%B1%9E%23&Refer=new_time)
+
+1. [头等舱男子疑辱骂空姐手脏](https://s.weibo.com//weibo?q=%23%E5%A4%B4%E7%AD%89%E8%88%B1%E7%94%B7%E5%AD%90%E7%96%91%E8%BE%B1%E9%AA%82%E7%A9%BA%E5%A7%90%E6%89%8B%E8%84%8F%23&Refer=top)
+
+1. [女子用假表掉包男友40万真表](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E5%81%87%E8%A1%A8%E6%8E%89%E5%8C%85%E7%94%B7%E5%8F%8B40%E4%B8%87%E7%9C%9F%E8%A1%A8%23&Refer=top)
+
+1. [厦门连续送4小时外卖20分钟内不派单](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E8%BF%9E%E7%BB%AD%E9%80%814%E5%B0%8F%E6%97%B6%E5%A4%96%E5%8D%9620%E5%88%86%E9%92%9F%E5%86%85%E4%B8%8D%E6%B4%BE%E5%8D%95%23&Refer=top)
+
+1. [芭莎超模汉服封面](https://s.weibo.com//weibo?q=%E8%8A%AD%E8%8E%8E%E8%B6%85%E6%A8%A1%E6%B1%89%E6%9C%8D%E5%B0%81%E9%9D%A2&Refer=top)
+
+1. [广东一制毒窝点发现542枚恐龙蛋化石](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%88%B6%E6%AF%92%E7%AA%9D%E7%82%B9%E5%8F%91%E7%8E%B0542%E6%9E%9A%E6%81%90%E9%BE%99%E8%9B%8B%E5%8C%96%E7%9F%B3%23&Refer=top)
+
+1. [班主任为1年级新生手写姓名牌](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%BA1%E5%B9%B4%E7%BA%A7%E6%96%B0%E7%94%9F%E6%89%8B%E5%86%99%E5%A7%93%E5%90%8D%E7%89%8C%23&Refer=top)
+
+1. [北京环球影城票价公布](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E7%A5%A8%E4%BB%B7%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [上海消保委点名优酷爱奇艺](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B6%88%E4%BF%9D%E5%A7%94%E7%82%B9%E5%90%8D%E4%BC%98%E9%85%B7%E7%88%B1%E5%A5%87%E8%89%BA%23&Refer=top)
+
+1. [北京环球度假区小黄人雪糕40元一个](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BA%A6%E5%81%87%E5%8C%BA%E5%B0%8F%E9%BB%84%E4%BA%BA%E9%9B%AA%E7%B3%9540%E5%85%83%E4%B8%80%E4%B8%AA%23&Refer=top)
+
+1. [云南德宏州副州长徐琪勇被查](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%B7%9E%E5%89%AF%E5%B7%9E%E9%95%BF%E5%BE%90%E7%90%AA%E5%8B%87%E8%A2%AB%E6%9F%A5%23&Refer=top)
+
+1. [华坪女高收到一面特殊国旗](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%E6%94%B6%E5%88%B0%E4%B8%80%E9%9D%A2%E7%89%B9%E6%AE%8A%E5%9B%BD%E6%97%97%23&Refer=top)
+
+1. [与君歌的格局有多大](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E5%90%9B%E6%AD%8C%E7%9A%84%E6%A0%BC%E5%B1%80%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
 
