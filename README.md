@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 14:05:52
+## 微博今日热榜 更新于 2021-09-02 15:09:54
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -304,4 +304,26 @@
 1. [美国飓风致奶牛被困树上](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A3%93%E9%A3%8E%E8%87%B4%E5%A5%B6%E7%89%9B%E8%A2%AB%E5%9B%B0%E6%A0%91%E4%B8%8A%23&Refer=top)
 
 1. [礼兵认真擦拭烈士棺椁小心覆盖国旗](https://s.weibo.com//weibo?q=%23%E7%A4%BC%E5%85%B5%E8%AE%A4%E7%9C%9F%E6%93%A6%E6%8B%AD%E7%83%88%E5%A3%AB%E6%A3%BA%E6%A4%81%E5%B0%8F%E5%BF%83%E8%A6%86%E7%9B%96%E5%9B%BD%E6%97%97%23&Refer=top)
+
+1. [爷爷看我吃螺蛳粉的样子](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E7%9C%8B%E6%88%91%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top)
+
+1. [网易云音乐去除独家标志](https://s.weibo.com//weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E9%99%A4%E7%8B%AC%E5%AE%B6%E6%A0%87%E5%BF%97%23&Refer=top)
+
+1. [闲鱼回应平台买低价二手苹果机被骗](https://s.weibo.com//weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%B9%B3%E5%8F%B0%E4%B9%B0%E4%BD%8E%E4%BB%B7%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C%E6%9C%BA%E8%A2%AB%E9%AA%97%23&Refer=top)
+
+1. [孙俪发长文告别理想之城](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E7%90%86%E6%83%B3%E4%B9%8B%E5%9F%8E%23&Refer=top)
+
+1. [吃过这些面包的人都长大了吧](https://s.weibo.com//weibo?q=%23%E5%90%83%E8%BF%87%E8%BF%99%E4%BA%9B%E9%9D%A2%E5%8C%85%E7%9A%84%E4%BA%BA%E9%83%BD%E9%95%BF%E5%A4%A7%E4%BA%86%E5%90%A7%23&Refer=top)
+
+1. [俄9岁女孩考上莫斯科国立大学心理学系](https://s.weibo.com//weibo?q=%E4%BF%849%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E8%8E%AB%E6%96%AF%E7%A7%91%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%BF%83%E7%90%86%E5%AD%A6%E7%B3%BB&Refer=top)
+
+1. [林书豪出院](https://s.weibo.com//weibo?q=%E6%9E%97%E4%B9%A6%E8%B1%AA%E5%87%BA%E9%99%A2&Refer=top)
+
+1. [人类幼崽面对开学有多高冷](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E9%9D%A2%E5%AF%B9%E5%BC%80%E5%AD%A6%E6%9C%89%E5%A4%9A%E9%AB%98%E5%86%B7%23&Refer=top)
+
+1. [我们记得他们就活着](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E8%AE%B0%E5%BE%97%E4%BB%96%E4%BB%AC%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
+
+1. [两个人的小森林双人路透](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%E5%8F%8C%E4%BA%BA%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [中演协要求经纪机构承担艺人教育管理责任](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%BC%94%E5%8D%8F%E8%A6%81%E6%B1%82%E7%BB%8F%E7%BA%AA%E6%9C%BA%E6%9E%84%E6%89%BF%E6%8B%85%E8%89%BA%E4%BA%BA%E6%95%99%E8%82%B2%E7%AE%A1%E7%90%86%E8%B4%A3%E4%BB%BB%23&Refer=top)
 
