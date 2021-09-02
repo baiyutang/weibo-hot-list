@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 22:08:28
+## 微博今日热榜 更新于 2021-09-02 23:09:46
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -498,4 +498,28 @@
 1. [乔一成项南方好甜](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%80%E6%88%90%E9%A1%B9%E5%8D%97%E6%96%B9%E5%A5%BD%E7%94%9C%23&Refer=top)
 
 1. [残奥会中国队金牌榜奖牌榜都第一](https://s.weibo.com//weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%87%91%E7%89%8C%E6%A6%9C%E5%A5%96%E7%89%8C%E6%A6%9C%E9%83%BD%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [2岁宝宝不愿上早教撞裂挡风玻璃](https://s.weibo.com//weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E4%B8%8D%E6%84%BF%E4%B8%8A%E6%97%A9%E6%95%99%E6%92%9E%E8%A3%82%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83%23&Refer=top)
+
+1. [Tian状态](https://s.weibo.com//weibo?q=%23Tian%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [全国学联对查寝事件发声](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%AD%A6%E8%81%94%E5%AF%B9%E6%9F%A5%E5%AF%9D%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [爸爸也想爸爸了](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E4%B9%9F%E6%83%B3%E7%88%B8%E7%88%B8%E4%BA%86%23&Refer=top)
+
+1. [找到废话体的祖师爷了](https://s.weibo.com//weibo?q=%23%E6%89%BE%E5%88%B0%E5%BA%9F%E8%AF%9D%E4%BD%93%E7%9A%84%E7%A5%96%E5%B8%88%E7%88%B7%E4%BA%86%23&Refer=top)
+
+1. [乔家的儿女剧情狗血吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E5%89%A7%E6%83%85%E7%8B%97%E8%A1%80%E5%90%97%23&Refer=top)
+
+1. [龚俊 要记住雪中送炭的人](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E8%A6%81%E8%AE%B0%E4%BD%8F%E9%9B%AA%E4%B8%AD%E9%80%81%E7%82%AD%E7%9A%84%E4%BA%BA&Refer=top)
+
+1. [怒火重案票房破11亿](https://s.weibo.com//weibo?q=%23%E6%80%92%E7%81%AB%E9%87%8D%E6%A1%88%E7%A5%A8%E6%88%BF%E7%A0%B411%E4%BA%BF%23&Refer=top)
+
+1. [狐狸的氛围感有多强](https://s.weibo.com//weibo?q=%23%E7%8B%90%E7%8B%B8%E7%9A%84%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
+
+1. [黑怕女孩厂牌热身赛](https://s.weibo.com//weibo?q=%23%E9%BB%91%E6%80%95%E5%A5%B3%E5%AD%A9%E5%8E%82%E7%89%8C%E7%83%AD%E8%BA%AB%E8%B5%9B%23&Refer=top)
+
+1. [心疼Doinb](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BCDoinb%23&Refer=top)
+
+1. [空姐临时改广播词向航班上烈属致敬](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E5%A7%90%E4%B8%B4%E6%97%B6%E6%94%B9%E5%B9%BF%E6%92%AD%E8%AF%8D%E5%90%91%E8%88%AA%E7%8F%AD%E4%B8%8A%E7%83%88%E5%B1%9E%E8%87%B4%E6%95%AC%23&Refer=top)
 
