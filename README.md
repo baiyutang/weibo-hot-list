@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 18:09:34
+## 微博今日热榜 更新于 2021-09-02 19:08:48
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -398,4 +398,22 @@
 1. [孕妇驾车上高速刹车突然失灵](https://s.weibo.com//weibo?q=%23%E5%AD%95%E5%A6%87%E9%A9%BE%E8%BD%A6%E4%B8%8A%E9%AB%98%E9%80%9F%E5%88%B9%E8%BD%A6%E7%AA%81%E7%84%B6%E5%A4%B1%E7%81%B5%23&Refer=top)
 
 1. [阿里将投入1000亿元助力共同富裕](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E5%B0%86%E6%8A%95%E5%85%A51000%E4%BA%BF%E5%85%83%E5%8A%A9%E5%8A%9B%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%23&Refer=top)
+
+1. [郭老师账号全平台封禁](https://s.weibo.com//weibo?q=%E9%83%AD%E8%80%81%E5%B8%88%E8%B4%A6%E5%8F%B7%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%B0%81%E7%A6%81&Refer=top)
+
+1. [6767个账号在西安地铁事件中被禁言](https://s.weibo.com//weibo?q=%236767%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%9C%A8%E8%A5%BF%E5%AE%89%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E4%B8%AD%E8%A2%AB%E7%A6%81%E8%A8%80%23&Refer=top)
+
+1. [见过最好的父女沟通方式](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E7%88%B6%E5%A5%B3%E6%B2%9F%E9%80%9A%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [这个赠品就很离谱](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E8%B5%A0%E5%93%81%E5%B0%B1%E5%BE%88%E7%A6%BB%E8%B0%B1%23&Refer=top)
+
+1. [原来蜜枣的纹路这样来的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9C%9C%E6%9E%A3%E7%9A%84%E7%BA%B9%E8%B7%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84%23&Refer=top)
+
+1. [姚安娜新歌mv好酷](https://s.weibo.com//weibo?q=%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%96%B0%E6%AD%8Cmv%E5%A5%BD%E9%85%B7&Refer=top)
+
+1. [LPL新银龙杯怎么这么眼熟](https://s.weibo.com//weibo?q=%23LPL%E6%96%B0%E9%93%B6%E9%BE%99%E6%9D%AF%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E7%9C%BC%E7%86%9F%23&Refer=top)
+
+1. [湾区升明月阵容](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [jiejie的盲僧](https://s.weibo.com//weibo?q=%23jiejie%E7%9A%84%E7%9B%B2%E5%83%A7%23&Refer=top)
 
