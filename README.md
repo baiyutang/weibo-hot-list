@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 15:09:54
+## 微博今日热榜 更新于 2021-09-02 16:10:48
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -326,4 +326,24 @@
 1. [两个人的小森林双人路透](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%E5%8F%8C%E4%BA%BA%E8%B7%AF%E9%80%8F%23&Refer=top)
 
 1. [中演协要求经纪机构承担艺人教育管理责任](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%BC%94%E5%8D%8F%E8%A6%81%E6%B1%82%E7%BB%8F%E7%BA%AA%E6%9C%BA%E6%9E%84%E6%89%BF%E6%8B%85%E8%89%BA%E4%BA%BA%E6%95%99%E8%82%B2%E7%AE%A1%E7%90%86%E8%B4%A3%E4%BB%BB%23&Refer=top)
+
+1. [西安轨道交通集团7人被处理](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E9%9B%86%E5%9B%A27%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23&Refer=top)
+
+1. [不到2小时的航程他们走了71年](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%88%B02%E5%B0%8F%E6%97%B6%E7%9A%84%E8%88%AA%E7%A8%8B%E4%BB%96%E4%BB%AC%E8%B5%B0%E4%BA%8671%E5%B9%B4%23&Refer=top)
+
+1. [东部机场集团董事长冯军被免职](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%83%A8%E6%9C%BA%E5%9C%BA%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%86%AF%E5%86%9B%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top)
+
+1. [女儿第一天上幼儿园父女俩抱团哭](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%88%B6%E5%A5%B3%E4%BF%A9%E6%8A%B1%E5%9B%A2%E5%93%AD%23&Refer=top)
+
+1. [微博新表情好可爱](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%96%B0%E8%A1%A8%E6%83%85%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [残奥会陪跑员向女选手跪地求婚](https://s.weibo.com//weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E9%99%AA%E8%B7%91%E5%91%98%E5%90%91%E5%A5%B3%E9%80%89%E6%89%8B%E8%B7%AA%E5%9C%B0%E6%B1%82%E5%A9%9A%23&Refer=top)
+
+1. [乔欣用擦完汗的纸给许魏洲擦嘴](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%AC%A3%E7%94%A8%E6%93%A6%E5%AE%8C%E6%B1%97%E7%9A%84%E7%BA%B8%E7%BB%99%E8%AE%B8%E9%AD%8F%E6%B4%B2%E6%93%A6%E5%98%B4%23&Refer=top)
+
+1. [兰州交大遇害研究生家属回应](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E4%BA%A4%E5%A4%A7%E9%81%87%E5%AE%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [骑警车队护送烈士遗骸车队离开机场](https://s.weibo.com//weibo?q=%23%E9%AA%91%E8%AD%A6%E8%BD%A6%E9%98%9F%E6%8A%A4%E9%80%81%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E8%BD%A6%E9%98%9F%E7%A6%BB%E5%BC%80%E6%9C%BA%E5%9C%BA%23&Refer=top)
+
+1. [如何看待00后成为各行业潜力股](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%8500%E5%90%8E%E6%88%90%E4%B8%BA%E5%90%84%E8%A1%8C%E4%B8%9A%E6%BD%9C%E5%8A%9B%E8%82%A1%23&Refer=top)
 
