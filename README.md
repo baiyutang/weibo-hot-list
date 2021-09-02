@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 07:04:11
+## 微博今日热榜 更新于 2021-09-02 08:21:25
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -124,4 +124,28 @@
 1. [团伙闲鱼低价卖二手苹果机诈骗141万](https://s.weibo.com//weibo?q=%23%E5%9B%A2%E4%BC%99%E9%97%B2%E9%B1%BC%E4%BD%8E%E4%BB%B7%E5%8D%96%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C%E6%9C%BA%E8%AF%88%E9%AA%97141%E4%B8%87%23&Refer=top)
 
 1. [萌娃放假前后对比太真实了](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E6%94%BE%E5%81%87%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%E5%A4%AA%E7%9C%9F%E5%AE%9E%E4%BA%86%23&Refer=top)
+
+1. [共和国最高礼遇接志愿军烈士回家](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%80%E9%AB%98%E7%A4%BC%E9%81%87%E6%8E%A5%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [央视曝光钱大妈加盟商亏损内幕](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%92%B1%E5%A4%A7%E5%A6%88%E5%8A%A0%E7%9B%9F%E5%95%86%E4%BA%8F%E6%8D%9F%E5%86%85%E5%B9%95%23&Refer=top)
+
+1. [终于知道丹顶鹤为什么叫仙鹤了](https://s.weibo.com//weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E4%BB%99%E9%B9%A4%E4%BA%86%23&Refer=top)
+
+1. [请再看看你们誓死保卫的家乡](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E5%86%8D%E7%9C%8B%E7%9C%8B%E4%BD%A0%E4%BB%AC%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E7%9A%84%E5%AE%B6%E4%B9%A1%23&Refer=top)
+
+1. [C罗绝杀](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E7%BB%9D%E6%9D%80%23&Refer=top)
+
+1. [戴燕妮发文告别欧阳红](https://s.weibo.com//weibo?q=%23%E6%88%B4%E7%87%95%E5%A6%AE%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%AC%A7%E9%98%B3%E7%BA%A2%23&Refer=top)
+
+1. [云南新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [C罗打破国家队进球纪录](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%89%93%E7%A0%B4%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%BF%9B%E7%90%83%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [周生辰偷偷护送时宜](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E5%81%B7%E5%81%B7%E6%8A%A4%E9%80%81%E6%97%B6%E5%AE%9C%23&Refer=top)
+
+1. [皇甫吃醋周虞打游戏](https://s.weibo.com//weibo?q=%23%E7%9A%87%E7%94%AB%E5%90%83%E9%86%8B%E5%91%A8%E8%99%9E%E6%89%93%E6%B8%B8%E6%88%8F%23&Refer=top)
+
+1. [莱科宁宣布退役](https://s.weibo.com//weibo?q=%23%E8%8E%B1%E7%A7%91%E5%AE%81%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&Refer=top)
+
+1. [硅料价格涨150%](https://s.weibo.com//weibo?q=%23%E7%A1%85%E6%96%99%E4%BB%B7%E6%A0%BC%E6%B6%A8150%25%23&Refer=top)
 
