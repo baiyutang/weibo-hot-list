@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 09:45:35
+## 微博今日热榜 更新于 2021-09-02 10:16:07
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -190,4 +190,18 @@
 1. [中国礼兵手捧烈士棺椁走进运20专机](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A4%BC%E5%85%B5%E6%89%8B%E6%8D%A7%E7%83%88%E5%A3%AB%E6%A3%BA%E6%A4%81%E8%B5%B0%E8%BF%9B%E8%BF%9020%E4%B8%93%E6%9C%BA%23&Refer=top)
 
 1. [山河无恙英雄归家](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99%E8%8B%B1%E9%9B%84%E5%BD%92%E5%AE%B6%23&Refer=top)
+
+1. [英雄回家](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
+
+1. [大学没谈过恋爱会有遗憾吗](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%B2%A1%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%E4%BC%9A%E6%9C%89%E9%81%97%E6%86%BE%E5%90%97%23&Refer=top)
+
+1. [想给监狱里的爸爸留一颗糖](https://s.weibo.com//weibo?q=%23%E6%83%B3%E7%BB%99%E7%9B%91%E7%8B%B1%E9%87%8C%E7%9A%84%E7%88%B8%E7%88%B8%E7%95%99%E4%B8%80%E9%A2%97%E7%B3%96%23&Refer=top)
+
+1. [广电总局要求坚决抵制高价片酬](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E5%9D%9A%E5%86%B3%E6%8A%B5%E5%88%B6%E9%AB%98%E4%BB%B7%E7%89%87%E9%85%AC%23&Refer=top)
+
+1. [广电总局发文加强文艺节目及人员管理](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%8F%91%E6%96%87%E5%8A%A0%E5%BC%BA%E6%96%87%E8%89%BA%E8%8A%82%E7%9B%AE%E5%8F%8A%E4%BA%BA%E5%91%98%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [官方回应开学典礼学生晕倒无人扶](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E5%AD%A6%E7%94%9F%E6%99%95%E5%80%92%E6%97%A0%E4%BA%BA%E6%89%B6%23&Refer=top)
+
+1. [遛狗不牵绳致路人10级伤残](https://s.weibo.com//weibo?q=%23%E9%81%9B%E7%8B%97%E4%B8%8D%E7%89%B5%E7%BB%B3%E8%87%B4%E8%B7%AF%E4%BA%BA10%E7%BA%A7%E4%BC%A4%E6%AE%8B%23&Refer=top)
 
