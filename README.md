@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 20:12:30
+## 微博今日热榜 更新于 2021-09-02 21:17:36
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -440,4 +440,36 @@
 1. [南昌晚霞](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%98%8C%E6%99%9A%E9%9C%9E%23&Refer=top)
 
 1. [未栓绳狗子被捕主人急眼了](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%A0%93%E7%BB%B3%E7%8B%97%E5%AD%90%E8%A2%AB%E6%8D%95%E4%B8%BB%E4%BA%BA%E6%80%A5%E7%9C%BC%E4%BA%86%23&Refer=top)
+
+1. [深圳茶颜悦色将撤出](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%B0%86%E6%92%A4%E5%87%BA%23&Refer=top)
+
+1. [男子吃早餐时打死一对夫妻](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E6%97%A9%E9%A4%90%E6%97%B6%E6%89%93%E6%AD%BB%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%BB%23&Refer=top)
+
+1. [粉丝打投550万奖品近一年未兑现](https://s.weibo.com//weibo?q=%23%E7%B2%89%E4%B8%9D%E6%89%93%E6%8A%95550%E4%B8%87%E5%A5%96%E5%93%81%E8%BF%91%E4%B8%80%E5%B9%B4%E6%9C%AA%E5%85%91%E7%8E%B0%23&Refer=top)
+
+1. [设立北京证券交易所](https://s.weibo.com//weibo?q=%23%E8%AE%BE%E7%AB%8B%E5%8C%97%E4%BA%AC%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%23&Refer=top)
+
+1. [官方称直播晕倒学生周围是新生](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E7%A7%B0%E7%9B%B4%E6%92%AD%E6%99%95%E5%80%92%E5%AD%A6%E7%94%9F%E5%91%A8%E5%9B%B4%E6%98%AF%E6%96%B0%E7%94%9F%23&Refer=top)
+
+1. [蜜雪冰城成立雪王农业公司](https://s.weibo.com//weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%88%90%E7%AB%8B%E9%9B%AA%E7%8E%8B%E5%86%9C%E4%B8%9A%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [乔三丽跳预言家](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%89%E4%B8%BD%E8%B7%B3%E9%A2%84%E8%A8%80%E5%AE%B6%23&Refer=top)
+
+1. [徐州大学生设计7款地标雪糕](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%BE%E8%AE%A17%E6%AC%BE%E5%9C%B0%E6%A0%87%E9%9B%AA%E7%B3%95%23&Refer=top)
+
+1. [14岁初中生考进清华成最小本科生](https://s.weibo.com//weibo?q=%2314%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%80%83%E8%BF%9B%E6%B8%85%E5%8D%8E%E6%88%90%E6%9C%80%E5%B0%8F%E6%9C%AC%E7%A7%91%E7%94%9F%23&Refer=top)
+
+1. [当妈妈是一种什么体验](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%A6%88%E5%A6%88%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [日本0比1不敌阿曼](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC0%E6%AF%941%E4%B8%8D%E6%95%8C%E9%98%BF%E6%9B%BC&Refer=top)
+
+1. [被一只双眼皮贴吓到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%B8%80%E5%8F%AA%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%B4%B4%E5%90%93%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [服贸会全球服务贸易峰会](https://s.weibo.com//weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E5%85%A8%E7%90%83%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%B3%B0%E4%BC%9A%23&Refer=top)
+
+1. [在全国推进实施跨境服务贸易负面清单](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%BF%9B%E5%AE%9E%E6%96%BD%E8%B7%A8%E5%A2%83%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%23&Refer=top)
+
+1. [晕车的人最怕闻什么味](https://s.weibo.com//weibo?q=%23%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%9C%80%E6%80%95%E9%97%BB%E4%BB%80%E4%B9%88%E5%91%B3%23&Refer=top)
+
+1. [警察为了反诈骗有多努力](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B8%BA%E4%BA%86%E5%8F%8D%E8%AF%88%E9%AA%97%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top)
 
