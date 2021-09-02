@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-03 02:04:27
+## 微博今日热榜 更新于 2021-09-03 03:03:25
 1. [青年的样子就是中国的样子](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=new_time)
 
 1. [蜜雪冰城成立雪王农业公司](https://s.weibo.com//weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%88%90%E7%AB%8B%E9%9B%AA%E7%8E%8B%E5%86%9C%E4%B8%9A%E5%85%AC%E5%8F%B8%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [三名援汉护士获国际南丁格尔奖](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%90%8D%E6%8F%B4%E6%B1%89%E6%8A%A4%E5%A3%AB%E8%8E%B7%E5%9B%BD%E9%99%85%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94%E5%A5%96%23&Refer=top)
 
 1. [日本0比1不敌阿曼](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC0%E6%AF%941%E4%B8%8D%E6%95%8C%E9%98%BF%E6%9B%BC%23&Refer=top)
+
+1. [湖南双峰现丁达尔现象](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8F%8C%E5%B3%B0%E7%8E%B0%E4%B8%81%E8%BE%BE%E5%B0%94%E7%8E%B0%E8%B1%A1&Refer=top)
 
