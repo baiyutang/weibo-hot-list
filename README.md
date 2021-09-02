@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 17:08:43
+## 微博今日热榜 更新于 2021-09-02 18:09:34
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -376,4 +376,26 @@
 1. [如何看待猫咖的存在](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%8C%AB%E5%92%96%E7%9A%84%E5%AD%98%E5%9C%A8%23&Refer=top)
 
 1. [西安一路段地面塌陷约200平方米](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E8%B7%AF%E6%AE%B5%E5%9C%B0%E9%9D%A2%E5%A1%8C%E9%99%B7%E7%BA%A6200%E5%B9%B3%E6%96%B9%E7%B1%B3%23&Refer=top)
+
+1. [研究生宿舍的上床下桌](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%BF%E8%88%8D%E7%9A%84%E4%B8%8A%E5%BA%8A%E4%B8%8B%E6%A1%8C%23&Refer=top)
+
+1. [央视评西安通报引发舆论争议](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E8%A5%BF%E5%AE%89%E9%80%9A%E6%8A%A5%E5%BC%95%E5%8F%91%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE%23&Refer=top)
+
+1. [兰州交大已赔偿研究生家属200万](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E4%BA%A4%E5%A4%A7%E5%B7%B2%E8%B5%94%E5%81%BF%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%B6%E5%B1%9E200%E4%B8%87%23&Refer=top)
+
+1. [FPX EDG](https://s.weibo.com//weibo?q=%23FPX%20EDG%23&Refer=top)
+
+1. [开海后的山东可太好吃了](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%B5%B7%E5%90%8E%E7%9A%84%E5%B1%B1%E4%B8%9C%E5%8F%AF%E5%A4%AA%E5%A5%BD%E5%90%83%E4%BA%86%23&Refer=top)
+
+1. [白举纲是取名鬼才吧](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E6%98%AF%E5%8F%96%E5%90%8D%E9%AC%BC%E6%89%8D%E5%90%A7%23&Refer=top)
+
+1. [我不知道啊第一季](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93%E5%95%8A%E7%AC%AC%E4%B8%80%E5%AD%A3%23&Refer=top)
+
+1. [杭州一小学倡议全校上下学不背书包](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E5%80%A1%E8%AE%AE%E5%85%A8%E6%A0%A1%E4%B8%8A%E4%B8%8B%E5%AD%A6%E4%B8%8D%E8%83%8C%E4%B9%A6%E5%8C%85%23&Refer=top)
+
+1. [FPX和EDG谁能夺冠](https://s.weibo.com//weibo?q=%23FPX%E5%92%8CEDG%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0%23&Refer=top)
+
+1. [孕妇驾车上高速刹车突然失灵](https://s.weibo.com//weibo?q=%23%E5%AD%95%E5%A6%87%E9%A9%BE%E8%BD%A6%E4%B8%8A%E9%AB%98%E9%80%9F%E5%88%B9%E8%BD%A6%E7%AA%81%E7%84%B6%E5%A4%B1%E7%81%B5%23&Refer=top)
+
+1. [阿里将投入1000亿元助力共同富裕](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E5%B0%86%E6%8A%95%E5%85%A51000%E4%BA%BF%E5%85%83%E5%8A%A9%E5%8A%9B%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%23&Refer=top)
 
