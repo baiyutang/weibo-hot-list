@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-03 04:09:32
+## 微博今日热榜 更新于 2021-09-03 05:02:56
 1. [青年的样子就是中国的样子](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=new_time)
 
 1. [蜜雪冰城成立雪王农业公司](https://s.weibo.com//weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%88%90%E7%AB%8B%E9%9B%AA%E7%8E%8B%E5%86%9C%E4%B8%9A%E5%85%AC%E5%8F%B8%23&Refer=top)
