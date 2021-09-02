@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-02 21:17:36
+## 微博今日热榜 更新于 2021-09-02 22:08:28
 1. [送英雄回家](https://s.weibo.com//weibo?q=%23%E9%80%81%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [抑郁症女孩跳楼被消防员一把抱下](https://s.weibo.com//weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%A5%BC%E8%A2%AB%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%8A%8A%E6%8A%B1%E4%B8%8B%23&Refer=top)
@@ -472,4 +472,30 @@
 1. [晕车的人最怕闻什么味](https://s.weibo.com//weibo?q=%23%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%9C%80%E6%80%95%E9%97%BB%E4%BB%80%E4%B9%88%E5%91%B3%23&Refer=top)
 
 1. [警察为了反诈骗有多努力](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B8%BA%E4%BA%86%E5%8F%8D%E8%AF%88%E9%AA%97%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top)
+
+1. [EDG夺冠](https://s.weibo.com//weibo?q=%23EDG%E5%A4%BA%E5%86%A0%23&Refer=top)
+
+1. [管泽元是奇异博士吧](https://s.weibo.com//weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E6%98%AF%E5%A5%87%E5%BC%82%E5%8D%9A%E5%A3%AB%E5%90%A7%23&Refer=top)
+
+1. [当学校要求打印身份证](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E6%89%93%E5%8D%B0%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
+
+1. [EDG我失去的东西一定要拿回来](https://s.weibo.com//weibo?q=%23EDG%E6%88%91%E5%A4%B1%E5%8E%BB%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8B%BF%E5%9B%9E%E6%9D%A5%23&Refer=top)
+
+1. [华农兄弟说虫谷的虫子好香](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%86%9C%E5%85%84%E5%BC%9F%E8%AF%B4%E8%99%AB%E8%B0%B7%E7%9A%84%E8%99%AB%E5%AD%90%E5%A5%BD%E9%A6%99%23&Refer=top)
+
+1. [当事人回应作品疑被扫黑风暴片头抄袭](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%BD%9C%E5%93%81%E7%96%91%E8%A2%AB%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E7%89%87%E5%A4%B4%E6%8A%84%E8%A2%AD%23&Refer=top)
+
+1. [刘彰唱你笑起来真好看](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BD%B0%E5%94%B1%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B%23&Refer=top)
+
+1. [Viper三杀](https://s.weibo.com//weibo?q=Viper%E4%B8%89%E6%9D%80&Refer=top)
+
+1. [吃货眼中的云南虫谷](https://s.weibo.com//weibo?q=%23%E5%90%83%E8%B4%A7%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7%23&Refer=top)
+
+1. [李云迪钢琴弹奏保卫黄河](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BA%91%E8%BF%AA%E9%92%A2%E7%90%B4%E5%BC%B9%E5%A5%8F%E4%BF%9D%E5%8D%AB%E9%BB%84%E6%B2%B3%23&Refer=top)
+
+1. [看乔四美流泪好心疼](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%B9%94%E5%9B%9B%E7%BE%8E%E6%B5%81%E6%B3%AA%E5%A5%BD%E5%BF%83%E7%96%BC%23&Refer=top)
+
+1. [乔一成项南方好甜](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%80%E6%88%90%E9%A1%B9%E5%8D%97%E6%96%B9%E5%A5%BD%E7%94%9C%23&Refer=top)
+
+1. [残奥会中国队金牌榜奖牌榜都第一](https://s.weibo.com//weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%87%91%E7%89%8C%E6%A6%9C%E5%A5%96%E7%89%8C%E6%A6%9C%E9%83%BD%E7%AC%AC%E4%B8%80%23&Refer=top)
 
