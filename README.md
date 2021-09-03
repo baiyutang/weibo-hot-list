@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-03 08:16:24
+## 微博今日热榜 更新于 2021-09-03 09:46:22
 1. [青年的样子就是中国的样子](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=new_time)
 
 1. [蜜雪冰城成立雪王农业公司](https://s.weibo.com//weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%88%90%E7%AB%8B%E9%9B%AA%E7%8E%8B%E5%86%9C%E4%B8%9A%E5%85%AC%E5%8F%B8%23&Refer=top)
@@ -162,4 +162,32 @@
 1. [红色通缉令预告](https://s.weibo.com//weibo?q=%E7%BA%A2%E8%89%B2%E9%80%9A%E7%BC%89%E4%BB%A4%E9%A2%84%E5%91%8A&Refer=top)
 
 1. [于大宝状态](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%A4%A7%E5%AE%9D%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
+
+1. [教培机构破产清算家长将承受巨大损失](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%9F%B9%E6%9C%BA%E6%9E%84%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E5%AE%B6%E9%95%BF%E5%B0%86%E6%89%BF%E5%8F%97%E5%B7%A8%E5%A4%A7%E6%8D%9F%E5%A4%B1%23&Refer=top)
+
+1. [恭喜恭喜是首抗日歌曲](https://s.weibo.com//weibo?q=%23%E6%81%AD%E5%96%9C%E6%81%AD%E5%96%9C%E6%98%AF%E9%A6%96%E6%8A%97%E6%97%A5%E6%AD%8C%E6%9B%B2%23&Refer=top)
+
+1. [国足出线概率不足百分之一](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%87%BA%E7%BA%BF%E6%A6%82%E7%8E%87%E4%B8%8D%E8%B6%B3%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%23&Refer=top)
+
+1. [脑子里全是nice](https://s.weibo.com//weibo?q=%23%E8%84%91%E5%AD%90%E9%87%8C%E5%85%A8%E6%98%AFnice%23&Refer=top)
+
+1. [家里最期待开学的是狗子](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%87%8C%E6%9C%80%E6%9C%9F%E5%BE%85%E5%BC%80%E5%AD%A6%E7%9A%84%E6%98%AF%E7%8B%97%E5%AD%90%23&Refer=top)
+
+1. [狗界社交天花板](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%95%8C%E7%A4%BE%E4%BA%A4%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
+
+1. [日学者称731部队罪行无法被掩盖](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%AD%A6%E8%80%85%E7%A7%B0731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%A1%8C%E6%97%A0%E6%B3%95%E8%A2%AB%E6%8E%A9%E7%9B%96%23&Refer=top)
+
+1. [山河已无恙忠骨请安息](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%B2%B3%E5%B7%B2%E6%97%A0%E6%81%99%E5%BF%A0%E9%AA%A8%E8%AF%B7%E5%AE%89%E6%81%AF%23&Refer=top)
+
+1. [周深第一次吊威亚](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%8A%E5%A8%81%E4%BA%9A%23&Refer=top)
+
+1. [他们用生命换来抗日战争胜利](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E7%94%A8%E7%94%9F%E5%91%BD%E6%8D%A2%E6%9D%A5%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A9%23&Refer=top)
+
+1. [如何看待企业响应共同富裕](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BC%81%E4%B8%9A%E5%93%8D%E5%BA%94%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%23&Refer=top)
+
+1. [铭记76年前的胜利](https://s.weibo.com//weibo?q=%23%E9%93%AD%E8%AE%B076%E5%B9%B4%E5%89%8D%E7%9A%84%E8%83%9C%E5%88%A9%23&Refer=top)
+
+1. [扶贫干部被洪水卷走前向同事喊不要下来](https://s.weibo.com//weibo?q=%23%E6%89%B6%E8%B4%AB%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%8D%B7%E8%B5%B0%E5%89%8D%E5%90%91%E5%90%8C%E4%BA%8B%E5%96%8A%E4%B8%8D%E8%A6%81%E4%B8%8B%E6%9D%A5%23&Refer=top)
 
