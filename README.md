@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 06:04:02
+## 微博今日热榜 更新于 2021-09-04 07:03:38
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [美军撤离阿富汗前射击平民画面曝光](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%86%9B%E6%92%A4%E7%A6%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E5%B0%84%E5%87%BB%E5%B9%B3%E6%B0%91%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&Refer=top)
 
 1. [唐宫夜宴中国女团天花板](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AE%AB%E5%A4%9C%E5%AE%B4%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A2%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
+
+1. [男童半夜走丢民警联系家属被当骗子](https://s.weibo.com//weibo?q=%E7%94%B7%E7%AB%A5%E5%8D%8A%E5%A4%9C%E8%B5%B0%E4%B8%A2%E6%B0%91%E8%AD%A6%E8%81%94%E7%B3%BB%E5%AE%B6%E5%B1%9E%E8%A2%AB%E5%BD%93%E9%AA%97%E5%AD%90&Refer=top)
+
+1. [乔四美戚成钢开书店](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E6%88%9A%E6%88%90%E9%92%A2%E5%BC%80%E4%B9%A6%E5%BA%97%23&Refer=top)
 
