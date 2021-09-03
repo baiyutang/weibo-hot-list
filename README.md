@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-03 20:11:23
+## 微博今日热榜 更新于 2021-09-03 21:17:21
 1. [青年的样子就是中国的样子](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=new_time)
 
 1. [蜜雪冰城成立雪王农业公司](https://s.weibo.com//weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%88%90%E7%AB%8B%E9%9B%AA%E7%8E%8B%E5%86%9C%E4%B8%9A%E5%85%AC%E5%8F%B8%23&Refer=top)
@@ -452,4 +452,32 @@
 1. [广西武警退伍军犬咬住背包不让走](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%AD%A6%E8%AD%A6%E9%80%80%E4%BC%8D%E5%86%9B%E7%8A%AC%E5%92%AC%E4%BD%8F%E8%83%8C%E5%8C%85%E4%B8%8D%E8%AE%A9%E8%B5%B0%23&Refer=top)
 
 1. [记者采访作业帮被质疑不是地球人](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E4%BD%9C%E4%B8%9A%E5%B8%AE%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%8D%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA%23&Refer=top)
+
+1. [樊振东刘诗雯最新训练视频来了](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%88%98%E8%AF%97%E9%9B%AF%E6%9C%80%E6%96%B0%E8%AE%AD%E7%BB%83%E8%A7%86%E9%A2%91%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [军用卡车的含义太戳人了](https://s.weibo.com//weibo?q=%23%E5%86%9B%E7%94%A8%E5%8D%A1%E8%BD%A6%E7%9A%84%E5%90%AB%E4%B9%89%E5%A4%AA%E6%88%B3%E4%BA%BA%E4%BA%86%23&Refer=top)
+
+1. [日本男子杀害中国两姐妹被判无期](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%A7%90%E5%A6%B9%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&Refer=top)
+
+1. [Uzi五杀](https://s.weibo.com//weibo?q=%23Uzi%E4%BA%94%E6%9D%80%23&Refer=top)
+
+1. [司机油门当刹车碾压放学母女](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%B2%B9%E9%97%A8%E5%BD%93%E5%88%B9%E8%BD%A6%E7%A2%BE%E5%8E%8B%E6%94%BE%E5%AD%A6%E6%AF%8D%E5%A5%B3%23&Refer=top)
+
+1. [德云斗笑社延期](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E6%96%97%E7%AC%91%E7%A4%BE%E5%BB%B6%E6%9C%9F&Refer=top)
+
+1. [打疫苗的表情太狂野了](https://s.weibo.com//weibo?q=%23%E6%89%93%E7%96%AB%E8%8B%97%E7%9A%84%E8%A1%A8%E6%83%85%E5%A4%AA%E7%8B%82%E9%87%8E%E4%BA%86%23&Refer=top)
+
+1. [印度电视台连线阿塔发言人被打脸](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B5%E8%A7%86%E5%8F%B0%E8%BF%9E%E7%BA%BF%E9%98%BF%E5%A1%94%E5%8F%91%E8%A8%80%E4%BA%BA%E8%A2%AB%E6%89%93%E8%84%B8%23&Refer=top)
+
+1. [盲足队员的鼻梁没有一个完好的](https://s.weibo.com//weibo?q=%23%E7%9B%B2%E8%B6%B3%E9%98%9F%E5%91%98%E7%9A%84%E9%BC%BB%E6%A2%81%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%A5%BD%E7%9A%84%23&Refer=top)
+
+1. [中芯国际周子学辞任董事长](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%91%A8%E5%AD%90%E5%AD%A6%E8%BE%9E%E4%BB%BB%E8%91%A3%E4%BA%8B%E9%95%BF%23&Refer=top)
+
+1. [气血不足的人有多累](https://s.weibo.com//weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%B4%AF%23&Refer=top)
+
+1. [刘墉追案9月4日开播](https://s.weibo.com//weibo?q=%E5%88%98%E5%A2%89%E8%BF%BD%E6%A1%889%E6%9C%884%E6%97%A5%E5%BC%80%E6%92%AD&Refer=top)
+
+1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
+
+1. [礼兵握住刺刀尖以免伤到他人](https://s.weibo.com//weibo?q=%23%E7%A4%BC%E5%85%B5%E6%8F%A1%E4%BD%8F%E5%88%BA%E5%88%80%E5%B0%96%E4%BB%A5%E5%85%8D%E4%BC%A4%E5%88%B0%E4%BB%96%E4%BA%BA%23&Refer=top)
 
