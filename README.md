@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 00:11:22
+## 微博今日热榜 更新于 2021-09-04 01:12:17
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [德云斗笑社延期](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E6%96%97%E7%AC%91%E7%A4%BE%E5%BB%B6%E6%9C%9F&Refer=top)
 
 1. [盲足队员的鼻梁没有一个完好的](https://s.weibo.com//weibo?q=%23%E7%9B%B2%E8%B6%B3%E9%98%9F%E5%91%98%E7%9A%84%E9%BC%BB%E6%A2%81%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%A5%BD%E7%9A%84%23&Refer=top)
+
+1. [当胆小体质遇上医护查房时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%83%86%E5%B0%8F%E4%BD%93%E8%B4%A8%E9%81%87%E4%B8%8A%E5%8C%BB%E6%8A%A4%E6%9F%A5%E6%88%BF%E6%97%B6%23&Refer=top)
+
+1. [纺织服装企业订单暴增](https://s.weibo.com//weibo?q=%23%E7%BA%BA%E7%BB%87%E6%9C%8D%E8%A3%85%E4%BC%81%E4%B8%9A%E8%AE%A2%E5%8D%95%E6%9A%B4%E5%A2%9E%23&Refer=top)
+
+1. [李宇春再不疯狂我们就老了live](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%86%8D%E4%B8%8D%E7%96%AF%E7%8B%82%E6%88%91%E4%BB%AC%E5%B0%B1%E8%80%81%E4%BA%86live%23&Refer=top)
 
