@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 00:06:03
+## 微博今日热榜 更新于 2021-09-05 01:10:43
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -106,4 +106,16 @@
 1. [男子高铁偷拍乘务员裙底被抓现行](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%98%E5%8A%A1%E5%91%98%E8%A3%99%E5%BA%95%E8%A2%AB%E6%8A%93%E7%8E%B0%E8%A1%8C%23&Refer=top)
 
 1. [8年老兵退伍与母亲相拥而泣](https://s.weibo.com//weibo?q=%238%E5%B9%B4%E8%80%81%E5%85%B5%E9%80%80%E4%BC%8D%E4%B8%8E%E6%AF%8D%E4%BA%B2%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3%23&Refer=top)
+
+1. [没想到智齿还能这样长](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%99%BA%E9%BD%BF%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E9%95%BF%23&Refer=top)
+
+1. [原来这就是同人不同命](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD%23&Refer=top)
+
+1. [杨迪张继科合唱失恋阵线联盟](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%90%88%E5%94%B1%E5%A4%B1%E6%81%8B%E9%98%B5%E7%BA%BF%E8%81%94%E7%9B%9F%23&Refer=top)
+
+1. [刘雨昕岳云鹏刘维像极了记重点的我](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%88%98%E7%BB%B4%E5%83%8F%E6%9E%81%E4%BA%86%E8%AE%B0%E9%87%8D%E7%82%B9%E7%9A%84%E6%88%91%23&Refer=top)
+
+1. [跟人说话老脸红是啥体验](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E8%80%81%E8%84%B8%E7%BA%A2%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [韩庚街舞首次即兴battle](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%BA%9A%E8%A1%97%E8%88%9E%E9%A6%96%E6%AC%A1%E5%8D%B3%E5%85%B4battle%23&Refer=top)
 
