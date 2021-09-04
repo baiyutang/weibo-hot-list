@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 05:02:59
+## 微博今日热榜 更新于 2021-09-05 06:03:42
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [十堰一地5000群众转移](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%A0%B0%E4%B8%80%E5%9C%B05000%E7%BE%A4%E4%BC%97%E8%BD%AC%E7%A7%BB%23&Refer=top)
 
 1. [日本为啥打死不认错](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%95%A5%E6%89%93%E6%AD%BB%E4%B8%8D%E8%AE%A4%E9%94%99%23&Refer=top)
+
+1. [人没到公司鞋先到了](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B2%A1%E5%88%B0%E5%85%AC%E5%8F%B8%E9%9E%8B%E5%85%88%E5%88%B0%E4%BA%86%23&Refer=top)
 
