@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 14:05:31
+## 微博今日热榜 更新于 2021-09-04 15:04:09
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -282,4 +282,20 @@
 1. [沙丘口碑](https://s.weibo.com//weibo?q=%23%E6%B2%99%E4%B8%98%E5%8F%A3%E7%A2%91%23&Refer=top)
 
 1. [旅客机上突发疾病遇9位华西专家](https://s.weibo.com//weibo?q=%23%E6%97%85%E5%AE%A2%E6%9C%BA%E4%B8%8A%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E9%81%879%E4%BD%8D%E5%8D%8E%E8%A5%BF%E4%B8%93%E5%AE%B6%23&Refer=top)
+
+1. [孩子捐献遗体后夫妻也签下捐献书](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E6%8D%90%E7%8C%AE%E9%81%97%E4%BD%93%E5%90%8E%E5%A4%AB%E5%A6%BB%E4%B9%9F%E7%AD%BE%E4%B8%8B%E6%8D%90%E7%8C%AE%E4%B9%A6%23&Refer=top)
+
+1. [百灵潭提档](https://s.weibo.com//weibo?q=%23%E7%99%BE%E7%81%B5%E6%BD%AD%E6%8F%90%E6%A1%A3%23&Refer=top)
+
+1. [31岁的郑涛残奥会4金4破纪录](https://s.weibo.com//weibo?q=%2331%E5%B2%81%E7%9A%84%E9%83%91%E6%B6%9B%E6%AE%8B%E5%A5%A5%E4%BC%9A4%E9%87%914%E7%A0%B4%E7%BA%AA%E5%BD%95%23&Refer=top)
+
+1. [2021服贸会](https://s.weibo.com//weibo?q=2021%E6%9C%8D%E8%B4%B8%E4%BC%9A&Refer=top)
+
+1. [原来遮龙寨族长是渡边太君](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%81%AE%E9%BE%99%E5%AF%A8%E6%97%8F%E9%95%BF%E6%98%AF%E6%B8%A1%E8%BE%B9%E5%A4%AA%E5%90%9B%23&Refer=top)
+
+1. [航天员太空用水一部分来自于尿液](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%94%A8%E6%B0%B4%E4%B8%80%E9%83%A8%E5%88%86%E6%9D%A5%E8%87%AA%E4%BA%8E%E5%B0%BF%E6%B6%B2%23&Refer=top)
+
+1. [公安部派工作组赴黑龙江七台河](https://s.weibo.com//weibo?q=%E5%85%AC%E5%AE%89%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%83%E5%8F%B0%E6%B2%B3&Refer=top)
+
+1. [当你忘记把狗狗的毯子打开](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%BF%98%E8%AE%B0%E6%8A%8A%E7%8B%97%E7%8B%97%E7%9A%84%E6%AF%AF%E5%AD%90%E6%89%93%E5%BC%80%23&Refer=top)
 
