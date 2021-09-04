@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 09:46:57
+## 微博今日热榜 更新于 2021-09-04 10:19:43
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -206,4 +206,12 @@
 1. [当服贸会遇到工业风](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%9C%8D%E8%B4%B8%E4%BC%9A%E9%81%87%E5%88%B0%E5%B7%A5%E4%B8%9A%E9%A3%8E%23&Refer=top)
 
 1. [1.7亿建的关公像再花1.55亿搬走](https://s.weibo.com//weibo?q=%231.7%E4%BA%BF%E5%BB%BA%E7%9A%84%E5%85%B3%E5%85%AC%E5%83%8F%E5%86%8D%E8%8A%B11.55%E4%BA%BF%E6%90%AC%E8%B5%B0%23&Refer=top)
+
+1. [幼儿园监控里的暖心一幕](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9B%91%E6%8E%A7%E9%87%8C%E7%9A%84%E6%9A%96%E5%BF%83%E4%B8%80%E5%B9%95%23&Refer=top)
+
+1. [50位东京奥运冠军全员征战全运](https://s.weibo.com//weibo?q=%2350%E4%BD%8D%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%85%A8%E5%91%98%E5%BE%81%E6%88%98%E5%85%A8%E8%BF%90%23&Refer=top)
+
+1. [对手犯规中国选手残奥银牌变金牌](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%89%8B%E7%8A%AF%E8%A7%84%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E6%AE%8B%E5%A5%A5%E9%93%B6%E7%89%8C%E5%8F%98%E9%87%91%E7%89%8C%23&Refer=top)
+
+1. [日本战犯供述刑讯赵一曼经过](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E4%BE%9B%E8%BF%B0%E5%88%91%E8%AE%AF%E8%B5%B5%E4%B8%80%E6%9B%BC%E7%BB%8F%E8%BF%87%23&Refer=top)
 
