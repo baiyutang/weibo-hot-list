@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 16:04:31
+## 微博今日热榜 更新于 2021-09-04 17:03:17
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -310,4 +310,14 @@
 1. [孟子义男嘉宾不理解nbcs](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%94%B7%E5%98%89%E5%AE%BE%E4%B8%8D%E7%90%86%E8%A7%A3nbcs%23&Refer=top)
 
 1. [完美的夏天番外篇开播](https://s.weibo.com//weibo?q=%23%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%A4%8F%E5%A4%A9%E7%95%AA%E5%A4%96%E7%AF%87%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [鱼界的颜值天花板](https://s.weibo.com//weibo?q=%23%E9%B1%BC%E7%95%8C%E7%9A%84%E9%A2%9C%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
+
+1. [梁静茹今天半永久MV](https://s.weibo.com//weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E4%BB%8A%E5%A4%A9%E5%8D%8A%E6%B0%B8%E4%B9%85MV%23&Refer=top)
+
+1. [广西老乡檀健次为中餐厅揽客](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%80%81%E4%B9%A1%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%BA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%8F%BD%E5%AE%A2%23&Refer=top)
+
+1. [康可人旗袍版芒种](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E5%8F%AF%E4%BA%BA%E6%97%97%E8%A2%8D%E7%89%88%E8%8A%92%E7%A7%8D%23&Refer=top)
+
+1. [章子怡新片阵容曝光](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%96%B0%E7%89%87%E9%98%B5%E5%AE%B9%E6%9B%9D%E5%85%89%23&Refer=top)
 
