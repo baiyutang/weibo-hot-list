@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 15:04:09
+## 微博今日热榜 更新于 2021-09-04 16:04:31
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -298,4 +298,16 @@
 1. [公安部派工作组赴黑龙江七台河](https://s.weibo.com//weibo?q=%E5%85%AC%E5%AE%89%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%83%E5%8F%B0%E6%B2%B3&Refer=top)
 
 1. [当你忘记把狗狗的毯子打开](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%BF%98%E8%AE%B0%E6%8A%8A%E7%8B%97%E7%8B%97%E7%9A%84%E6%AF%AF%E5%AD%90%E6%89%93%E5%BC%80%23&Refer=top)
+
+1. [微信拟推出聊天记录付费云存储服务](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%8B%9F%E6%8E%A8%E5%87%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BB%98%E8%B4%B9%E4%BA%91%E5%AD%98%E5%82%A8%E6%9C%8D%E5%8A%A1%23&Refer=top)
+
+1. [南京明确开学返校时间](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%98%8E%E7%A1%AE%E5%BC%80%E5%AD%A6%E8%BF%94%E6%A0%A1%E6%97%B6%E9%97%B4%23&Refer=top)
+
+1. [万茜出演白流苏](https://s.weibo.com//weibo?q=%E4%B8%87%E8%8C%9C%E5%87%BA%E6%BC%94%E7%99%BD%E6%B5%81%E8%8B%8F&Refer=top)
+
+1. [18岁渐冻症男孩离世捐献角膜](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%A9%E7%A6%BB%E4%B8%96%E6%8D%90%E7%8C%AE%E8%A7%92%E8%86%9C%23&Refer=top)
+
+1. [孟子义男嘉宾不理解nbcs](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%94%B7%E5%98%89%E5%AE%BE%E4%B8%8D%E7%90%86%E8%A7%A3nbcs%23&Refer=top)
+
+1. [完美的夏天番外篇开播](https://s.weibo.com//weibo?q=%23%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%A4%8F%E5%A4%A9%E7%95%AA%E5%A4%96%E7%AF%87%E5%BC%80%E6%92%AD%23&Refer=top)
 
