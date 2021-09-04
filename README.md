@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 10:19:43
+## 微博今日热榜 更新于 2021-09-04 11:04:14
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -214,4 +214,16 @@
 1. [对手犯规中国选手残奥银牌变金牌](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%89%8B%E7%8A%AF%E8%A7%84%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E6%AE%8B%E5%A5%A5%E9%93%B6%E7%89%8C%E5%8F%98%E9%87%91%E7%89%8C%23&Refer=top)
 
 1. [日本战犯供述刑讯赵一曼经过](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E4%BE%9B%E8%BF%B0%E5%88%91%E8%AE%AF%E8%B5%B5%E4%B8%80%E6%9B%BC%E7%BB%8F%E8%BF%87%23&Refer=top)
+
+1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
+
+1. [一生一世定档](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [女生因病休学一年后考上清华](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%97%85%E4%BC%91%E5%AD%A6%E4%B8%80%E5%B9%B4%E5%90%8E%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top)
+
+1. [消防员车库发现牛奶饼干立马调监控](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%BD%A6%E5%BA%93%E5%8F%91%E7%8E%B0%E7%89%9B%E5%A5%B6%E9%A5%BC%E5%B9%B2%E7%AB%8B%E9%A9%AC%E8%B0%83%E7%9B%91%E6%8E%A7%23&Refer=top)
+
+1. [新疆和田地区皮山县发生5.1级地震](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%92%8C%E7%94%B0%E5%9C%B0%E5%8C%BA%E7%9A%AE%E5%B1%B1%E5%8E%BF%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
+
+1. [爆裂舞台第二次竞演](https://s.weibo.com//weibo?q=%23%E7%88%86%E8%A3%82%E8%88%9E%E5%8F%B0%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%AB%9E%E6%BC%94%23&Refer=top)
 
