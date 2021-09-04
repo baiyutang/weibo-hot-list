@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 06:03:42
+## 微博今日热榜 更新于 2021-09-05 07:03:24
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -126,4 +126,12 @@
 1. [日本为啥打死不认错](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%95%A5%E6%89%93%E6%AD%BB%E4%B8%8D%E8%AE%A4%E9%94%99%23&Refer=top)
 
 1. [人没到公司鞋先到了](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B2%A1%E5%88%B0%E5%85%AC%E5%8F%B8%E9%9E%8B%E5%85%88%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [央视曝职业学校收费乱象](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1%E6%94%B6%E8%B4%B9%E4%B9%B1%E8%B1%A1%23&Refer=top)
+
+1. [被许嵩薛之谦戴佩妮跳舞笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%AE%B8%E5%B5%A9%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%B4%E4%BD%A9%E5%A6%AE%E8%B7%B3%E8%88%9E%E7%AC%91%E6%AD%BB%23&Refer=top)
+
+1. [哪一瞬间让你决定就是他了](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%B8%80%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E5%86%B3%E5%AE%9A%E5%B0%B1%E6%98%AF%E4%BB%96%E4%BA%86%23&Refer=top)
+
+1. [哈尔滨一公司用废品回收车送学生餐](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E5%85%AC%E5%8F%B8%E7%94%A8%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%E8%BD%A6%E9%80%81%E5%AD%A6%E7%94%9F%E9%A4%90%23&Refer=top)
 
