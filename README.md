@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 17:03:17
+## 微博今日热榜 更新于 2021-09-04 18:04:10
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -320,4 +320,34 @@
 1. [康可人旗袍版芒种](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E5%8F%AF%E4%BA%BA%E6%97%97%E8%A2%8D%E7%89%88%E8%8A%92%E7%A7%8D%23&Refer=top)
 
 1. [章子怡新片阵容曝光](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%96%B0%E7%89%87%E9%98%B5%E5%AE%B9%E6%9B%9D%E5%85%89%23&Refer=top)
+
+1. [塔利班士兵鸣枪庆祝致17死41伤](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E5%A3%AB%E5%85%B5%E9%B8%A3%E6%9E%AA%E5%BA%86%E7%A5%9D%E8%87%B417%E6%AD%BB41%E4%BC%A4%23&Refer=top)
+
+1. [腾讯宣布引进VALORANT](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A3%E5%B8%83%E5%BC%95%E8%BF%9BVALORANT%23&Refer=top)
+
+1. [四川交警护送小猫咪过马路](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%BA%A4%E8%AD%A6%E6%8A%A4%E9%80%81%E5%B0%8F%E7%8C%AB%E5%92%AA%E8%BF%87%E9%A9%AC%E8%B7%AF%23&Refer=top)
+
+1. [男子将工友尸体埋工地淡定寻人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E5%B7%A5%E5%8F%8B%E5%B0%B8%E4%BD%93%E5%9F%8B%E5%B7%A5%E5%9C%B0%E6%B7%A1%E5%AE%9A%E5%AF%BB%E4%BA%BA%23&Refer=top)
+
+1. [他们好像小说里的男女主角](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E5%A5%BD%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92%23&Refer=top)
+
+1. [男子高铁偷拍乘务员裙底被抓现行](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%98%E5%8A%A1%E5%91%98%E8%A3%99%E5%BA%95%E8%A2%AB%E6%8A%93%E7%8E%B0%E8%A1%8C%23&Refer=top)
+
+1. [李莎旻子爸爸被隔壁老樊感动哭](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E7%88%B8%E7%88%B8%E8%A2%AB%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A%E6%84%9F%E5%8A%A8%E5%93%AD%23&Refer=top)
+
+1. [费振翔说云南虫谷是偶像剧](https://s.weibo.com//weibo?q=%23%E8%B4%B9%E6%8C%AF%E7%BF%94%E8%AF%B4%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7%E6%98%AF%E5%81%B6%E5%83%8F%E5%89%A7%23&Refer=top)
+
+1. [乔三丽怀旧国货开箱vlog](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%89%E4%B8%BD%E6%80%80%E6%97%A7%E5%9B%BD%E8%B4%A7%E5%BC%80%E7%AE%B1vlog%23&Refer=top)
+
+1. [莱科宁新冠阳性](https://s.weibo.com//weibo?q=%23%E8%8E%B1%E7%A7%91%E5%AE%81%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [失控玩家票房破3亿](https://s.weibo.com//weibo?q=%23%E5%A4%B1%E6%8E%A7%E7%8E%A9%E5%AE%B6%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF%23&Refer=top)
+
+1. [中国队已获88枚金牌](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B7%B2%E8%8E%B788%E6%9E%9A%E9%87%91%E7%89%8C%23&Refer=top)
+
+1. [连淮伟嘴硬王者](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E6%B7%AE%E4%BC%9F%E5%98%B4%E7%A1%AC%E7%8E%8B%E8%80%85%23&Refer=top)
+
+1. [LNG RA](https://s.weibo.com//weibo?q=%23LNG%20RA%23&Refer=top)
+
+1. [原来猫咪也知道感恩](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8C%AB%E5%92%AA%E4%B9%9F%E7%9F%A5%E9%81%93%E6%84%9F%E6%81%A9%23&Refer=top)
 
