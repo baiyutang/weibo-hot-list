@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 21:10:49
+## 微博今日热榜 更新于 2021-09-04 22:03:19
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -402,4 +402,8 @@
 1. [中级经济法](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%BA%A7%E7%BB%8F%E6%B5%8E%E6%B3%95&Refer=top)
 
 1. [乔四美什么时候能离婚](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E7%A6%BB%E5%A9%9A%23&Refer=top)
+
+1. [张艺兴高难度连续膝降](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%BF%9E%E7%BB%AD%E8%86%9D%E9%99%8D&Refer=top)
+
+1. [千万别去有宠物的公司上班](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8E%BB%E6%9C%89%E5%AE%A0%E7%89%A9%E7%9A%84%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%23&Refer=top)
 
