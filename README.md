@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-04 13:03:14
+## 微博今日热榜 更新于 2021-09-04 14:05:31
 1. [全网接力诵读谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BD%91%E6%8E%A5%E5%8A%9B%E8%AF%B5%E8%AF%BB%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=new_time)
 
 1. [喜茶店员拿错饮料顾客喝下后入院洗胃](https://s.weibo.com//weibo?q=%23%E5%96%9C%E8%8C%B6%E5%BA%97%E5%91%98%E6%8B%BF%E9%94%99%E9%A5%AE%E6%96%99%E9%A1%BE%E5%AE%A2%E5%96%9D%E4%B8%8B%E5%90%8E%E5%85%A5%E9%99%A2%E6%B4%97%E8%83%83%23&Refer=top)
@@ -268,4 +268,18 @@
 1. [沙丘威尼斯全球首映](https://s.weibo.com//weibo?q=%23%E6%B2%99%E4%B8%98%E5%A8%81%E5%B0%BC%E6%96%AF%E5%85%A8%E7%90%83%E9%A6%96%E6%98%A0%23&Refer=top)
 
 1. [17岁志愿军战士牺牲前说没白活17岁](https://s.weibo.com//weibo?q=%2317%E5%B2%81%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E5%A3%AB%E7%89%BA%E7%89%B2%E5%89%8D%E8%AF%B4%E6%B2%A1%E7%99%BD%E6%B4%BB17%E5%B2%81%23&Refer=top)
+
+1. [航天员汤洪波有一顶脑电帽](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%B1%A4%E6%B4%AA%E6%B3%A2%E6%9C%89%E4%B8%80%E9%A1%B6%E8%84%91%E7%94%B5%E5%B8%BD%23&Refer=top)
+
+1. [李柄熹为张雨绮在沙漠里放烟花](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%9F%84%E7%86%B9%E4%B8%BA%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%9C%A8%E6%B2%99%E6%BC%A0%E9%87%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23&Refer=top)
+
+1. [让佟丽娅金晨羡慕的发量](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E4%BD%9F%E4%B8%BD%E5%A8%85%E9%87%91%E6%99%A8%E7%BE%A1%E6%85%95%E7%9A%84%E5%8F%91%E9%87%8F%23&Refer=top)
+
+1. [大有可为的我定档](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA%E7%9A%84%E6%88%91%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [看中餐厅看饿了](https://s.weibo.com//weibo?q=%E7%9C%8B%E4%B8%AD%E9%A4%90%E5%8E%85%E7%9C%8B%E9%A5%BF%E4%BA%86&Refer=top)
+
+1. [沙丘口碑](https://s.weibo.com//weibo?q=%23%E6%B2%99%E4%B8%98%E5%8F%A3%E7%A2%91%23&Refer=top)
+
+1. [旅客机上突发疾病遇9位华西专家](https://s.weibo.com//weibo?q=%23%E6%97%85%E5%AE%A2%E6%9C%BA%E4%B8%8A%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E9%81%879%E4%BD%8D%E5%8D%8E%E8%A5%BF%E4%B8%93%E5%AE%B6%23&Refer=top)
 
