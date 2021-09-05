@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 07:03:24
+## 微博今日热榜 更新于 2021-09-05 08:18:00
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -134,4 +134,12 @@
 1. [哪一瞬间让你决定就是他了](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%B8%80%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E5%86%B3%E5%AE%9A%E5%B0%B1%E6%98%AF%E4%BB%96%E4%BA%86%23&Refer=top)
 
 1. [哈尔滨一公司用废品回收车送学生餐](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E5%85%AC%E5%8F%B8%E7%94%A8%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%E8%BD%A6%E9%80%81%E5%AD%A6%E7%94%9F%E9%A4%90%23&Refer=top)
+
+1. [刘宪华popping创意](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8Epopping%E5%88%9B%E6%84%8F%23&Refer=top)
+
+1. [中秋假期火车票开售](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE%23&Refer=top)
+
+1. [弟弟见到退伍哥哥后激动到流泪](https://s.weibo.com//weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%A7%81%E5%88%B0%E9%80%80%E4%BC%8D%E5%93%A5%E5%93%A5%E5%90%8E%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E6%B3%AA%23&Refer=top)
+
+1. [毛不易若有缘由首唱舞台](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E8%8B%A5%E6%9C%89%E7%BC%98%E7%94%B1%E9%A6%96%E5%94%B1%E8%88%9E%E5%8F%B0%23&Refer=top)
 
