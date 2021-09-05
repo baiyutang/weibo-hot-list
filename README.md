@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 09:49:16
+## 微博今日热榜 更新于 2021-09-05 10:18:11
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -162,4 +162,16 @@
 1. [100秒混剪中国残奥军团名场面](https://s.weibo.com//weibo?q=%23100%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E5%86%9B%E5%9B%A2%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
 
 1. [明日5第四期观后感](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%97%A55%E7%AC%AC%E5%9B%9B%E6%9C%9F%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top)
+
+1. [70后新生报到被误认为家长](https://s.weibo.com//weibo?q=%2370%E5%90%8E%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E5%AE%B6%E9%95%BF%23&Refer=top)
+
+1. [东京残奥闭幕式中国旗手张雪梅](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%AD%E5%9B%BD%E6%97%97%E6%89%8B%E5%BC%A0%E9%9B%AA%E6%A2%85%23&Refer=top)
+
+1. [中国粉丝为韩团成员集资定制飞机应援](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E4%B8%BA%E9%9F%A9%E5%9B%A2%E6%88%90%E5%91%98%E9%9B%86%E8%B5%84%E5%AE%9A%E5%88%B6%E9%A3%9E%E6%9C%BA%E5%BA%94%E6%8F%B4%23&Refer=top)
+
+1. [王者荣耀回应崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E5%B4%A9%E4%BA%86%23&Refer=top)
+
+1. [火箭军小姐姐手势舞变装又美又飒](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%AE%AD%E5%86%9B%E5%B0%8F%E5%A7%90%E5%A7%90%E6%89%8B%E5%8A%BF%E8%88%9E%E5%8F%98%E8%A3%85%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&Refer=top)
+
+1. [黄潇风雨行舞台意境](https://s.weibo.com//weibo?q=%E9%BB%84%E6%BD%87%E9%A3%8E%E9%9B%A8%E8%A1%8C%E8%88%9E%E5%8F%B0%E6%84%8F%E5%A2%83&Refer=top)
 
