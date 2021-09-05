@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 18:03:58
+## 微博今日热榜 更新于 2021-09-05 19:03:09
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -334,4 +334,14 @@
 1. [退伍老兵宣誓现场太戳了](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%E5%AE%A3%E8%AA%93%E7%8E%B0%E5%9C%BA%E5%A4%AA%E6%88%B3%E4%BA%86%23&Refer=top)
 
 1. [与君歌收官](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E5%90%9B%E6%AD%8C%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [北京昌平区发生1.9级地震](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E5%8C%BA%E5%8F%91%E7%94%9F1.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
+
+1. [云南虫谷奇奇怪怪的冷知识](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%23&Refer=top)
+
+1. [奶奶陪读15年助自闭症孙子就业](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E9%99%AA%E8%AF%BB15%E5%B9%B4%E5%8A%A9%E8%87%AA%E9%97%AD%E7%97%87%E5%AD%99%E5%AD%90%E5%B0%B1%E4%B8%9A%23&Refer=top)
+
+1. [小孩子多害怕扎针](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%A4%9A%E5%AE%B3%E6%80%95%E6%89%8E%E9%92%88%23&Refer=top)
+
+1. [WE LNG](https://s.weibo.com//weibo?q=WE%20LNG&Refer=top)
 
