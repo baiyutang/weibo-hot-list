@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 04:04:09
+## 微博今日热榜 更新于 2021-09-06 05:03:12
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -132,4 +132,8 @@
 1. [1岁宝宝摔下沙发致脑出血](https://s.weibo.com//weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%91%94%E4%B8%8B%E6%B2%99%E5%8F%91%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80%23&Refer=top)
 
 1. [东京残奥中国队96金60银51铜收官](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E4%B8%AD%E5%9B%BD%E9%98%9F96%E9%87%9160%E9%93%B651%E9%93%9C%E6%94%B6%E5%AE%98%23&Refer=top)
+
+1. [9位妈妈带心智障碍孩子开小吃店](https://s.weibo.com//weibo?q=%239%E4%BD%8D%E5%A6%88%E5%A6%88%E5%B8%A6%E5%BF%83%E6%99%BA%E9%9A%9C%E7%A2%8D%E5%AD%A9%E5%AD%90%E5%BC%80%E5%B0%8F%E5%90%83%E5%BA%97%23&Refer=top)
+
+1. [为中国残奥代表团比心](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%AF%94%E5%BF%83%23&Refer=top)
 
