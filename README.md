@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 16:06:05
+## 微博今日热榜 更新于 2021-09-05 17:03:32
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -302,4 +302,14 @@
 1. [说唱听我的双子星绑定赛](https://s.weibo.com//weibo?q=%23%E8%AF%B4%E5%94%B1%E5%90%AC%E6%88%91%E7%9A%84%E5%8F%8C%E5%AD%90%E6%98%9F%E7%BB%91%E5%AE%9A%E8%B5%9B%23&Refer=top)
 
 1. [孟佳谈理想中的爱情](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E8%B0%88%E7%90%86%E6%83%B3%E4%B8%AD%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top)
+
+1. [医生等电梯前多看一眼救人一命](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%AD%89%E7%94%B5%E6%A2%AF%E5%89%8D%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD%23&Refer=top)
+
+1. [女孩被卡获救后第一反应致歉消防员](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%8D%A1%E8%8E%B7%E6%95%91%E5%90%8E%E7%AC%AC%E4%B8%80%E5%8F%8D%E5%BA%94%E8%87%B4%E6%AD%89%E6%B6%88%E9%98%B2%E5%91%98%23&Refer=top)
+
+1. [杨紫 我们一起等候和林之校的重逢](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E7%AD%89%E5%80%99%E5%92%8C%E6%9E%97%E4%B9%8B%E6%A0%A1%E7%9A%84%E9%87%8D%E9%80%A2&Refer=top)
+
+1. [唐艺昕分享项南方同款金桔酱vlog](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%88%86%E4%BA%AB%E9%A1%B9%E5%8D%97%E6%96%B9%E5%90%8C%E6%AC%BE%E9%87%91%E6%A1%94%E9%85%B1vlog%23&Refer=top)
+
+1. [1950他们正年轻票房捐老兵](https://s.weibo.com//weibo?q=%231950%E4%BB%96%E4%BB%AC%E6%AD%A3%E5%B9%B4%E8%BD%BB%E7%A5%A8%E6%88%BF%E6%8D%90%E8%80%81%E5%85%B5%23&Refer=top)
 
