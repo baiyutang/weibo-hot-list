@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 19:03:09
+## 微博今日热榜 更新于 2021-09-05 20:06:35
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -344,4 +344,20 @@
 1. [小孩子多害怕扎针](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%A4%9A%E5%AE%B3%E6%80%95%E6%89%8E%E9%92%88%23&Refer=top)
 
 1. [WE LNG](https://s.weibo.com//weibo?q=WE%20LNG&Refer=top)
+
+1. [上海月饼店排队5小时](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%88%E9%A5%BC%E5%BA%97%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%23&Refer=top)
+
+1. [谢霆锋退出加拿大国籍](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E9%80%80%E5%87%BA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9B%BD%E7%B1%8D%23&Refer=top)
+
+1. [安徽一00后高考作弊被判刑](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E4%B8%8000%E5%90%8E%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top)
+
+1. [王一丁万物皆可修](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E4%B8%81%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%BF%AE%23&Refer=top)
+
+1. [土耳其小男孩被总统多次敲头](https://s.weibo.com//weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%80%BB%E7%BB%9F%E5%A4%9A%E6%AC%A1%E6%95%B2%E5%A4%B4&Refer=top)
+
+1. [牛气满满的哥哥观后感](https://s.weibo.com//weibo?q=%23%E7%89%9B%E6%B0%94%E6%BB%A1%E6%BB%A1%E7%9A%84%E5%93%A5%E5%93%A5%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top)
+
+1. [尤长靖像极了上课被点名的我](https://s.weibo.com//weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E5%83%8F%E6%9E%81%E4%BA%86%E4%B8%8A%E8%AF%BE%E8%A2%AB%E7%82%B9%E5%90%8D%E7%9A%84%E6%88%91%23&Refer=top)
+
+1. [为中国残奥代表团比心](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%AF%94%E5%BF%83%23&Refer=top)
 
