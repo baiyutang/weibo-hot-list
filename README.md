@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 10:18:11
+## 微博今日热榜 更新于 2021-09-05 11:04:12
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -174,4 +174,26 @@
 1. [火箭军小姐姐手势舞变装又美又飒](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%AE%AD%E5%86%9B%E5%B0%8F%E5%A7%90%E5%A7%90%E6%89%8B%E5%8A%BF%E8%88%9E%E5%8F%98%E8%A3%85%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&Refer=top)
 
 1. [黄潇风雨行舞台意境](https://s.weibo.com//weibo?q=%E9%BB%84%E6%BD%87%E9%A3%8E%E9%9B%A8%E8%A1%8C%E8%88%9E%E5%8F%B0%E6%84%8F%E5%A2%83&Refer=top)
+
+1. [广州教育局回应小学教材异味大](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90%E5%BC%82%E5%91%B3%E5%A4%A7%23&Refer=top)
+
+1. [你爹没骗你吧](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%88%B9%E6%B2%A1%E9%AA%97%E4%BD%A0%E5%90%A7%23&Refer=top)
+
+1. [当代人有多爱吃螃蟹](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BB%A3%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%88%B1%E5%90%83%E8%9E%83%E8%9F%B9%23&Refer=top)
+
+1. [令人羡慕的四大体质](https://s.weibo.com//weibo?q=%23%E4%BB%A4%E4%BA%BA%E7%BE%A1%E6%85%95%E7%9A%84%E5%9B%9B%E5%A4%A7%E4%BD%93%E8%B4%A8%23&Refer=top)
+
+1. [故宫中轴线上的经典建筑](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E4%B8%AD%E8%BD%B4%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%BB%8F%E5%85%B8%E5%BB%BA%E7%AD%91%23&Refer=top)
+
+1. [男子10米高桥上练跳水被罚200元](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%9010%E7%B1%B3%E9%AB%98%E6%A1%A5%E4%B8%8A%E7%BB%83%E8%B7%B3%E6%B0%B4%E8%A2%AB%E7%BD%9A200%E5%85%83%23&Refer=top)
+
+1. [撒贝宁尼格买提是有多能聊](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%98%AF%E6%9C%89%E5%A4%9A%E8%83%BD%E8%81%8A%23&Refer=top)
+
+1. [丁程鑫的绅士兰花手](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E7%BB%85%E5%A3%AB%E5%85%B0%E8%8A%B1%E6%89%8B%23&Refer=top)
+
+1. [7Z朝鲜语原创rap燃炸舞台](https://s.weibo.com//weibo?q=%237Z%E6%9C%9D%E9%B2%9C%E8%AF%AD%E5%8E%9F%E5%88%9Brap%E7%87%83%E7%82%B8%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [牛气满满的哥哥下期全员古装](https://s.weibo.com//weibo?q=%23%E7%89%9B%E6%B0%94%E6%BB%A1%E6%BB%A1%E7%9A%84%E5%93%A5%E5%93%A5%E4%B8%8B%E6%9C%9F%E5%85%A8%E5%91%98%E5%8F%A4%E8%A3%85%23&Refer=top)
+
+1. [嗨放派全员社交NB症](https://s.weibo.com//weibo?q=%23%E5%97%A8%E6%94%BE%E6%B4%BE%E5%85%A8%E5%91%98%E7%A4%BE%E4%BA%A4NB%E7%97%87%23&Refer=top)
 
