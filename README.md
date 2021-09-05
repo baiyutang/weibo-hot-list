@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 01:10:44
+## 微博今日热榜 更新于 2021-09-06 02:04:13
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -114,4 +114,10 @@
 1. [全麻手术醒后的胡言乱语](https://s.weibo.com//weibo?q=%23%E5%85%A8%E9%BA%BB%E6%89%8B%E6%9C%AF%E9%86%92%E5%90%8E%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD%23&Refer=top)
 
 1. [人类幼崽的友情有多甜](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E5%8F%8B%E6%83%85%E6%9C%89%E5%A4%9A%E7%94%9C%23&Refer=top)
+
+1. [2021服贸会](https://s.weibo.com//weibo?q=%232021%E6%9C%8D%E8%B4%B8%E4%BC%9A%23&Refer=new_time)
+
+1. [扁头最扁能有多夸张](https://s.weibo.com//weibo?q=%23%E6%89%81%E5%A4%B4%E6%9C%80%E6%89%81%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%B8%E5%BC%A0%23&Refer=top)
+
+1. [东京残奥闭幕式](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%23&Refer=top)
 
