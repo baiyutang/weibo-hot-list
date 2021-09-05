@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-05 14:05:25
+## 微博今日热榜 更新于 2021-09-05 15:04:07
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
 
 1. [王者荣耀崩了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -264,4 +264,20 @@
 1. [刘伯明介绍太空餐厅](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BC%AF%E6%98%8E%E4%BB%8B%E7%BB%8D%E5%A4%AA%E7%A9%BA%E9%A4%90%E5%8E%85%23&Refer=top)
 
 1. [羽毛球男子双打WH级中国队夺金](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E7%94%B7%E5%AD%90%E5%8F%8C%E6%89%93WH%E7%BA%A7%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E9%87%91%23&Refer=top)
+
+1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=top)
+
+1. [扫黑风暴人类高质量演技](https://s.weibo.com//weibo?q=%23%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [这就是街舞队长battle观后感](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E%E9%98%9F%E9%95%BFbattle%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top)
+
+1. [周洁琼发文告别爆裂舞台](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E7%88%86%E8%A3%82%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [广州越秀新冠肺炎无症状感染者所感染毒株为德尔塔](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8A%E7%A7%80%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%E6%89%80%E6%84%9F%E6%9F%93%E6%AF%92%E6%A0%AA%E4%B8%BA%E5%BE%B7%E5%B0%94%E5%A1%94%23&Refer=top)
+
+1. [男孩为解游戏防沉迷限制被骗1000多元](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%BA%E8%A7%A3%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E9%99%90%E5%88%B6%E8%A2%AB%E9%AA%971000%E5%A4%9A%E5%85%83%23&Refer=top)
+
+1. [东京残奥闭幕式](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%23&Refer=top)
+
+1. [明星村大拆大建一两年浪费近700万](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E6%9D%91%E5%A4%A7%E6%8B%86%E5%A4%A7%E5%BB%BA%E4%B8%80%E4%B8%A4%E5%B9%B4%E6%B5%AA%E8%B4%B9%E8%BF%91700%E4%B8%87%23&Refer=top)
 
