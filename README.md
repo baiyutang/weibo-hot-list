@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-07 01:12:28
+## 微博今日热榜 更新于 2021-09-07 02:04:42
 1. [第32届国际航空科学大会](https://s.weibo.com//weibo?q=%23%E7%AC%AC32%E5%B1%8A%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [买车3年不知有空调热晕出车祸](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E8%BD%A63%E5%B9%B4%E4%B8%8D%E7%9F%A5%E6%9C%89%E7%A9%BA%E8%B0%83%E7%83%AD%E6%99%95%E5%87%BA%E8%BD%A6%E7%A5%B8%23&Refer=top)
@@ -110,4 +110,10 @@
 1. [54岁砌砖大叔自学考上大学](https://s.weibo.com//weibo?q=%2354%E5%B2%81%E7%A0%8C%E7%A0%96%E5%A4%A7%E5%8F%94%E8%87%AA%E5%AD%A6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&Refer=top)
 
 1. [任嘉伦演的周生辰值得细品](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%BC%94%E7%9A%84%E5%91%A8%E7%94%9F%E8%BE%B0%E5%80%BC%E5%BE%97%E7%BB%86%E5%93%81%23&Refer=top)
+
+1. [见过最离谱的厕所设计](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%8E%95%E6%89%80%E8%AE%BE%E8%AE%A1%23&Refer=top)
+
+1. [学生时代相互暗恋图鉴](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E4%BB%A3%E7%9B%B8%E4%BA%92%E6%9A%97%E6%81%8B%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [蓝盈莹妈妈沉浸式追婆婆的镯子](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%A6%88%E5%A6%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%BF%BD%E5%A9%86%E5%A9%86%E7%9A%84%E9%95%AF%E5%AD%90%23&Refer=top)
 
