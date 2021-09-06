@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 09:52:31
+## 微博今日热榜 更新于 2021-09-06 10:20:42
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -192,4 +192,12 @@
 1. [阿云嘎飞天余温首唱](https://s.weibo.com//weibo?q=%23%E9%98%BF%E4%BA%91%E5%98%8E%E9%A3%9E%E5%A4%A9%E4%BD%99%E6%B8%A9%E9%A6%96%E5%94%B1%23&Refer=top)
 
 1. [中国残奥军团96金高燃混剪](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E5%86%9B%E5%9B%A296%E9%87%91%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%23&Refer=top)
+
+1. [丁宁入学北大](https://s.weibo.com//weibo?q=%E4%B8%81%E5%AE%81%E5%85%A5%E5%AD%A6%E5%8C%97%E5%A4%A7&Refer=top)
+
+1. [爷爷家的狗也内卷了](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E5%AE%B6%E7%9A%84%E7%8B%97%E4%B9%9F%E5%86%85%E5%8D%B7%E4%BA%86%23&Refer=top)
+
+1. [巴西阿根廷比赛中断](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%96%AD%23&Refer=top)
+
+1. [中国最高龄股民](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E9%BE%84%E8%82%A1%E6%B0%91%23&Refer=top)
 
