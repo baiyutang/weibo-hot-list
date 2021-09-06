@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 07:03:41
+## 微博今日热榜 更新于 2021-09-06 08:20:05
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -138,4 +138,16 @@
 1. [为中国残奥代表团比心](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%AF%94%E5%BF%83%23&Refer=top)
 
 1. [郎平卸任后首次接受采访](https://s.weibo.com//weibo?q=%23%E9%83%8E%E5%B9%B3%E5%8D%B8%E4%BB%BB%E5%90%8E%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%23&Refer=top)
+
+1. [学生称被强制要求到工厂实习](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E7%A7%B0%E8%A2%AB%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%88%B0%E5%B7%A5%E5%8E%82%E5%AE%9E%E4%B9%A0%23&Refer=top)
+
+1. [几内亚发生军事政变](https://s.weibo.com//weibo?q=%23%E5%87%A0%E5%86%85%E4%BA%9A%E5%8F%91%E7%94%9F%E5%86%9B%E4%BA%8B%E6%94%BF%E5%8F%98%23&Refer=top)
+
+1. [广东新增本土无症状1例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61%E4%BE%8B%23&Refer=top)
+
+1. [300多年前徐霞客旅游有多硬核](https://s.weibo.com//weibo?q=%23300%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%BE%90%E9%9C%9E%E5%AE%A2%E6%97%85%E6%B8%B8%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&Refer=top)
+
+1. [清华开学典礼演讲走红](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E6%BC%94%E8%AE%B2%E8%B5%B0%E7%BA%A2%23&Refer=top)
+
+1. [王彦霖偷黄明昊的小黄鸭](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BD%A6%E9%9C%96%E5%81%B7%E9%BB%84%E6%98%8E%E6%98%8A%E7%9A%84%E5%B0%8F%E9%BB%84%E9%B8%AD%23&Refer=top)
 
