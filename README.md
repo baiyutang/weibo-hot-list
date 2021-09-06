@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 16:10:39
+## 微博今日热榜 更新于 2021-09-06 17:08:37
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -328,4 +328,22 @@
 1. [律师解读大学生领证1小时闹离婚](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%A2%86%E8%AF%811%E5%B0%8F%E6%97%B6%E9%97%B9%E7%A6%BB%E5%A9%9A%23&Refer=top)
 
 1. [近4万个物种有灭绝危险](https://s.weibo.com//weibo?q=%23%E8%BF%914%E4%B8%87%E4%B8%AA%E7%89%A9%E7%A7%8D%E6%9C%89%E7%81%AD%E7%BB%9D%E5%8D%B1%E9%99%A9%23&Refer=top)
+
+1. [刘国梁说丁宁真正乒乓生涯才刚开始](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%AF%B4%E4%B8%81%E5%AE%81%E7%9C%9F%E6%AD%A3%E4%B9%92%E4%B9%93%E7%94%9F%E6%B6%AF%E6%89%8D%E5%88%9A%E5%BC%80%E5%A7%8B%23&Refer=top)
+
+1. [那个突然手握刺刀尖的战士找到了](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%B8%AA%E7%AA%81%E7%84%B6%E6%89%8B%E6%8F%A1%E5%88%BA%E5%88%80%E5%B0%96%E7%9A%84%E6%88%98%E5%A3%AB%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [中方对德国驻华大使辞世表示哀悼和惋惜](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E5%BE%B7%E5%9B%BD%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E8%BE%9E%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%E5%92%8C%E6%83%8B%E6%83%9C%23&Refer=top)
+
+1. [村民讲述安徽太湖车辆坠崖致12死](https://s.weibo.com//weibo?q=%23%E6%9D%91%E6%B0%91%E8%AE%B2%E8%BF%B0%E5%AE%89%E5%BE%BD%E5%A4%AA%E6%B9%96%E8%BD%A6%E8%BE%86%E5%9D%A0%E5%B4%96%E8%87%B412%E6%AD%BB%23&Refer=top)
+
+1. [中小学生校外培训材料不得超标超前](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9D%90%E6%96%99%E4%B8%8D%E5%BE%97%E8%B6%85%E6%A0%87%E8%B6%85%E5%89%8D%23&Refer=top)
+
+1. [加强义务教育阶段学科类校外培训收费监管](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E9%98%B6%E6%AE%B5%E5%AD%A6%E7%A7%91%E7%B1%BB%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%94%B6%E8%B4%B9%E7%9B%91%E7%AE%A1%23&Refer=top)
+
+1. [陈芋汐赛后采访说全运会的竞争更大](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E8%AF%B4%E5%85%A8%E8%BF%90%E4%BC%9A%E7%9A%84%E7%AB%9E%E4%BA%89%E6%9B%B4%E5%A4%A7%23&Refer=top)
+
+1. [东宫君九龄梦幻联动](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%AE%AB%E5%90%9B%E4%B9%9D%E9%BE%84%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23&Refer=top)
+
+1. [福原爱发文祝福丁宁](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8F%E4%B8%81%E5%AE%81%23&Refer=top)
 
