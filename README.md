@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 18:09:39
+## 微博今日热榜 更新于 2021-09-06 19:08:32
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -362,4 +362,20 @@
 1. [一生一世预告](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%E9%A2%84%E5%91%8A%23&Refer=top)
 
 1. [黄轩欧豪出演长津湖](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%BD%A9%E6%AC%A7%E8%B1%AA%E5%87%BA%E6%BC%94%E9%95%BF%E6%B4%A5%E6%B9%96%23&Refer=top)
+
+1. [豆瓣暂停回复功能](https://s.weibo.com//weibo?q=%23%E8%B1%86%E7%93%A3%E6%9A%82%E5%81%9C%E5%9B%9E%E5%A4%8D%E5%8A%9F%E8%83%BD%23&Refer=top)
+
+1. [加满一箱油多花5.5元](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%A4%9A%E8%8A%B15.5%E5%85%83%23&Refer=top)
+
+1. [外交部驳斥加拿大外长涉华声明](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E9%95%BF%E6%B6%89%E5%8D%8E%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [一生一世开播](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [中央生态环保督察组曝光7起典型案例](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%94%9F%E6%80%81%E7%8E%AF%E4%BF%9D%E7%9D%A3%E5%AF%9F%E7%BB%84%E6%9B%9D%E5%85%897%E8%B5%B7%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%23&Refer=top)
+
+1. [台风康森生成](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%A3%8E%E5%BA%B7%E6%A3%AE%E7%94%9F%E6%88%90&Refer=top)
+
+1. [苏映雪舍命报恩林少春](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E6%98%A0%E9%9B%AA%E8%88%8D%E5%91%BD%E6%8A%A5%E6%81%A9%E6%9E%97%E5%B0%91%E6%98%A5%23&Refer=top)
+
+1. [北大两次发函要求福建一学校更名](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E4%B8%A4%E6%AC%A1%E5%8F%91%E5%87%BD%E8%A6%81%E6%B1%82%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%9B%B4%E5%90%8D%23&Refer=top)
 
