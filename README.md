@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 22:06:34
+## 微博今日热榜 更新于 2021-09-06 23:07:12
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -466,4 +466,38 @@
 1. [中国潮音录制](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BD%AE%E9%9F%B3%E5%BD%95%E5%88%B6%23&Refer=top)
 
 1. [43个国家和地区报告感染缪毒株病例](https://s.weibo.com//weibo?q=%2343%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E6%8A%A5%E5%91%8A%E6%84%9F%E6%9F%93%E7%BC%AA%E6%AF%92%E6%A0%AA%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [买车3年不知有空调热晕出车祸](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E8%BD%A63%E5%B9%B4%E4%B8%8D%E7%9F%A5%E6%9C%89%E7%A9%BA%E8%B0%83%E7%83%AD%E6%99%95%E5%87%BA%E8%BD%A6%E7%A5%B8%23&Refer=top)
+
+1. [乔四美好勇](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E5%A5%BD%E5%8B%87%23&Refer=top)
+
+1. [原来是秦始皇发明了上班](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%8F%91%E6%98%8E%E4%BA%86%E4%B8%8A%E7%8F%AD%23&Refer=top)
+
+1. [母子被困货车内儿子哭求先救我妈](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E5%AD%90%E8%A2%AB%E5%9B%B0%E8%B4%A7%E8%BD%A6%E5%86%85%E5%84%BF%E5%AD%90%E5%93%AD%E6%B1%82%E5%85%88%E6%95%91%E6%88%91%E5%A6%88%23&Refer=top)
+
+1. [樊振东被广东队小队员喊东哥](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A2%AB%E5%B9%BF%E4%B8%9C%E9%98%9F%E5%B0%8F%E9%98%9F%E5%91%98%E5%96%8A%E4%B8%9C%E5%93%A5%23&Refer=top)
+
+1. [韩庚刘宪华再跳supergirl](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%BA%9A%E5%88%98%E5%AE%AA%E5%8D%8E%E5%86%8D%E8%B7%B3supergirl%23&Refer=top)
+
+1. [周生辰向时宜求婚](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E5%90%91%E6%97%B6%E5%AE%9C%E6%B1%82%E5%A9%9A%23&Refer=top)
+
+1. [张艺兴火锅局即兴扇子舞](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%81%AB%E9%94%85%E5%B1%80%E5%8D%B3%E5%85%B4%E6%89%87%E5%AD%90%E8%88%9E%23&Refer=top)
+
+1. [5岁白血病患儿劝妈妈再生一个](https://s.weibo.com//weibo?q=%235%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%84%BF%E5%8A%9D%E5%A6%88%E5%A6%88%E5%86%8D%E7%94%9F%E4%B8%80%E4%B8%AA%23&Refer=top)
+
+1. [劳荣枝案一审将于9月9日再开庭](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%A1%88%E4%B8%80%E5%AE%A1%E5%B0%86%E4%BA%8E9%E6%9C%889%E6%97%A5%E5%86%8D%E5%BC%80%E5%BA%AD%23&Refer=top)
+
+1. [林更新吴奇隆戏中戏](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%90%B4%E5%A5%87%E9%9A%86%E6%88%8F%E4%B8%AD%E6%88%8F%23&Refer=top)
+
+1. [黑龙江勃利县致15死交通事故直接原因](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8B%83%E5%88%A9%E5%8E%BF%E8%87%B415%E6%AD%BB%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [4岁娃边哭边做动作跳下3米台](https://s.weibo.com//weibo?q=%234%E5%B2%81%E5%A8%83%E8%BE%B9%E5%93%AD%E8%BE%B9%E5%81%9A%E5%8A%A8%E4%BD%9C%E8%B7%B3%E4%B8%8B3%E7%B1%B3%E5%8F%B0%23&Refer=top)
+
+1. [女子学通灵魔法被骗5万](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%A6%E9%80%9A%E7%81%B5%E9%AD%94%E6%B3%95%E8%A2%AB%E9%AA%975%E4%B8%87%23&Refer=top)
+
+1. [以色列6名囚犯用勺子挖隧道越狱](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%90%8D%E5%9B%9A%E7%8A%AF%E7%94%A8%E5%8B%BA%E5%AD%90%E6%8C%96%E9%9A%A7%E9%81%93%E8%B6%8A%E7%8B%B1%23&Refer=top)
+
+1. [一生一世太好磕了](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%E5%A4%AA%E5%A5%BD%E7%A3%95%E4%BA%86%23&Refer=top)
+
+1. [樊振东最新视频苦练男双](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%E8%8B%A6%E7%BB%83%E7%94%B7%E5%8F%8C%23&Refer=top)
 
