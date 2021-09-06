@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 20:12:37
+## 微博今日热榜 更新于 2021-09-06 21:18:32
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -412,4 +412,28 @@
 1. [万茜呼吁大家关注原生家庭](https://s.weibo.com//weibo?q=%23%E4%B8%87%E8%8C%9C%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E5%85%B3%E6%B3%A8%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23&Refer=top)
 
 1. [陆十一求婚](https://s.weibo.com//weibo?q=%23%E9%99%86%E5%8D%81%E4%B8%80%E6%B1%82%E5%A9%9A%23&Refer=top)
+
+1. [花33元租号打2小时王者荣耀](https://s.weibo.com//weibo?q=%23%E8%8A%B133%E5%85%83%E7%A7%9F%E5%8F%B7%E6%89%932%E5%B0%8F%E6%97%B6%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top)
+
+1. [新冠变异缪毒株或有更高疫苗耐受性](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E7%BC%AA%E6%AF%92%E6%A0%AA%E6%88%96%E6%9C%89%E6%9B%B4%E9%AB%98%E7%96%AB%E8%8B%97%E8%80%90%E5%8F%97%E6%80%A7%23&Refer=top)
+
+1. [王一丁是人间理想吧](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E4%B8%81%E6%98%AF%E4%BA%BA%E9%97%B4%E7%90%86%E6%83%B3%E5%90%A7%23&Refer=top)
+
+1. [教师谎称卖学位骗取家长11万余元](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%B8%88%E8%B0%8E%E7%A7%B0%E5%8D%96%E5%AD%A6%E4%BD%8D%E9%AA%97%E5%8F%96%E5%AE%B6%E9%95%BF11%E4%B8%87%E4%BD%99%E5%85%83%23&Refer=top)
+
+1. [男子冒充检察官入戏太深](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%92%E5%85%85%E6%A3%80%E5%AF%9F%E5%AE%98%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%23&Refer=top)
+
+1. [世卫组织称缪毒株或让疫苗失效](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E7%A7%B0%E7%BC%AA%E6%AF%92%E6%A0%AA%E6%88%96%E8%AE%A9%E7%96%AB%E8%8B%97%E5%A4%B1%E6%95%88%23&Refer=top)
+
+1. [前海合作区扩展至120.56平方公里](https://s.weibo.com//weibo?q=%23%E5%89%8D%E6%B5%B7%E5%90%88%E4%BD%9C%E5%8C%BA%E6%89%A9%E5%B1%95%E8%87%B3120.56%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [对时间的概念渐渐模糊了](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%97%B6%E9%97%B4%E7%9A%84%E6%A6%82%E5%BF%B5%E6%B8%90%E6%B8%90%E6%A8%A1%E7%B3%8A%E4%BA%86%23&Refer=top)
+
+1. [云南虫谷](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7&Refer=top)
+
+1. [黄子韬录制中国潮音](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BD%95%E5%88%B6%E4%B8%AD%E5%9B%BD%E6%BD%AE%E9%9F%B3%23&Refer=top)
+
+1. [乌镇戏剧节](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E9%95%87%E6%88%8F%E5%89%A7%E8%8A%82%23&Refer=top)
+
+1. [长江附近涌出牛奶水](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B1%9F%E9%99%84%E8%BF%91%E6%B6%8C%E5%87%BA%E7%89%9B%E5%A5%B6%E6%B0%B4%23&Refer=top)
 
