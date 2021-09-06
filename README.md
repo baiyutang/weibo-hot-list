@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-06 11:04:27
+## 微博今日热榜 更新于 2021-09-06 12:06:50
 1. [中共中央国务院向残奥会中国代表团致贺电](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%91%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%B4%E8%B4%BA%E7%94%B5%23&Refer=new_time)
 
 1. [体重18公斤北航新生到校报到](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D18%E5%85%AC%E6%96%A4%E5%8C%97%E8%88%AA%E6%96%B0%E7%94%9F%E5%88%B0%E6%A0%A1%E6%8A%A5%E5%88%B0%23&Refer=top)
@@ -214,4 +214,22 @@
 1. [乔四美爱过戚成钢吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E7%88%B1%E8%BF%87%E6%88%9A%E6%88%90%E9%92%A2%E5%90%97%23&Refer=top)
 
 1. [音乐剧飞天音乐会](https://s.weibo.com//weibo?q=%23%E9%9F%B3%E4%B9%90%E5%89%A7%E9%A3%9E%E5%A4%A9%E9%9F%B3%E4%B9%90%E4%BC%9A%23&Refer=top)
+
+1. [考研生活真有那么苦吗](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E7%94%9F%E6%B4%BB%E7%9C%9F%E6%9C%89%E9%82%A3%E4%B9%88%E8%8B%A6%E5%90%97%23&Refer=top)
+
+1. [街舞冠军杨凯做教练备战亚运会](https://s.weibo.com//weibo?q=%23%E8%A1%97%E8%88%9E%E5%86%A0%E5%86%9B%E6%9D%A8%E5%87%AF%E5%81%9A%E6%95%99%E7%BB%83%E5%A4%87%E6%88%98%E4%BA%9A%E8%BF%90%E4%BC%9A%23&Refer=top)
+
+1. [没有培训班的孩子周末](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%9C%89%E5%9F%B9%E8%AE%AD%E7%8F%AD%E7%9A%84%E5%AD%A9%E5%AD%90%E5%91%A8%E6%9C%AB%23&Refer=top)
+
+1. [当话痨遇上话废](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%AF%9D%E7%97%A8%E9%81%87%E4%B8%8A%E8%AF%9D%E5%BA%9F%23&Refer=top)
+
+1. [上海一公园用彩绘修复51个树洞](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%85%AC%E5%9B%AD%E7%94%A8%E5%BD%A9%E7%BB%98%E4%BF%AE%E5%A4%8D51%E4%B8%AA%E6%A0%91%E6%B4%9E%23&Refer=top)
+
+1. [刘国梁寄语丁宁](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E5%AF%84%E8%AF%AD%E4%B8%81%E5%AE%81%23&Refer=top)
+
+1. [南风知我意你在身边MV](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E4%BD%A0%E5%9C%A8%E8%BA%AB%E8%BE%B9MV%23&Refer=top)
+
+1. [任嘉伦演的化学教授属性是羞萌](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%BC%94%E7%9A%84%E5%8C%96%E5%AD%A6%E6%95%99%E6%8E%88%E5%B1%9E%E6%80%A7%E6%98%AF%E7%BE%9E%E8%90%8C%23&Refer=top)
+
+1. [北大教授戴锦华称不能让流量主导文化生产](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E6%88%B4%E9%94%A6%E5%8D%8E%E7%A7%B0%E4%B8%8D%E8%83%BD%E8%AE%A9%E6%B5%81%E9%87%8F%E4%B8%BB%E5%AF%BC%E6%96%87%E5%8C%96%E7%94%9F%E4%BA%A7%23&Refer=top)
 
