@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-07 14:05:55
+## 微博今日热榜 更新于 2021-09-07 15:04:43
 1. [第32届国际航空科学大会](https://s.weibo.com//weibo?q=%23%E7%AC%AC32%E5%B1%8A%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [买车3年不知有空调热晕出车祸](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E8%BD%A63%E5%B9%B4%E4%B8%8D%E7%9F%A5%E6%9C%89%E7%A9%BA%E8%B0%83%E7%83%AD%E6%99%95%E5%87%BA%E8%BD%A6%E7%A5%B8%23&Refer=top)
@@ -242,4 +242,22 @@
 1. [暗格里的秘密大结局](https://s.weibo.com//weibo?q=%E6%9A%97%E6%A0%BC%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
 
 1. [三星堆古蜀人的厨房用品](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8F%A4%E8%9C%80%E4%BA%BA%E7%9A%84%E5%8E%A8%E6%88%BF%E7%94%A8%E5%93%81%23&Refer=top)
+
+1. [辛丑条约签订120周年](https://s.weibo.com//weibo?q=%23%E8%BE%9B%E4%B8%91%E6%9D%A1%E7%BA%A6%E7%AD%BE%E8%AE%A2120%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [梦境真的可以自我控制吗](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%A2%83%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%87%AA%E6%88%91%E6%8E%A7%E5%88%B6%E5%90%97%23&Refer=top)
+
+1. [自测是否脱发教程](https://s.weibo.com//weibo?q=%23%E8%87%AA%E6%B5%8B%E6%98%AF%E5%90%A6%E8%84%B1%E5%8F%91%E6%95%99%E7%A8%8B%23&Refer=top)
+
+1. [2022北京冬奥会倒计时150天](https://s.weibo.com//weibo?q=%232022%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6150%E5%A4%A9%23&Refer=top)
+
+1. [云南1000亩大象专属食堂即将营业](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%971000%E4%BA%A9%E5%A4%A7%E8%B1%A1%E4%B8%93%E5%B1%9E%E9%A3%9F%E5%A0%82%E5%8D%B3%E5%B0%86%E8%90%A5%E4%B8%9A%23&Refer=top)
+
+1. [良辰嘉话](https://s.weibo.com//weibo?q=%23%E8%89%AF%E8%BE%B0%E5%98%89%E8%AF%9D%23&Refer=top)
+
+1. [徐梦洁发语音告别丁羡](https://s.weibo.com//weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%E5%8F%91%E8%AF%AD%E9%9F%B3%E5%91%8A%E5%88%AB%E4%B8%81%E7%BE%A1%23&Refer=top)
+
+1. [陈哲远发文告别周斯越](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%91%A8%E6%96%AF%E8%B6%8A%23&Refer=top)
+
+1. [孔雪儿加盟爆裂舞台](https://s.weibo.com//weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E5%8A%A0%E7%9B%9F%E7%88%86%E8%A3%82%E8%88%9E%E5%8F%B0%23&Refer=top)
 
