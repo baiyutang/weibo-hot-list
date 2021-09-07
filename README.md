@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-08 05:03:29
+## 微博今日热榜 更新于 2021-09-08 06:04:02
 1. [数字碳中和](https://s.weibo.com//weibo?q=%23%E6%95%B0%E5%AD%97%E7%A2%B3%E4%B8%AD%E5%92%8C%23&Refer=new_time)
 
 1. [国足vs日本](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23&Refer=top)
