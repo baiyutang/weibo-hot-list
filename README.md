@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-08 04:04:31
+## 微博今日热榜 更新于 2021-09-08 05:03:29
 1. [数字碳中和](https://s.weibo.com//weibo?q=%23%E6%95%B0%E5%AD%97%E7%A2%B3%E4%B8%AD%E5%92%8C%23&Refer=new_time)
 
 1. [国足vs日本](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [我国超9.69亿人完成新冠疫苗全程接种](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%859.69%E4%BA%BF%E4%BA%BA%E5%AE%8C%E6%88%90%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%85%A8%E7%A8%8B%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
 1. [世界清洁空气日](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E6%B8%85%E6%B4%81%E7%A9%BA%E6%B0%94%E6%97%A5%23&Refer=top)
+
+1. [相亲相到了初恋](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E4%BA%B2%E7%9B%B8%E5%88%B0%E4%BA%86%E5%88%9D%E6%81%8B%23&Refer=top)
+
+1. [你好检察官全员宣言](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%A3%80%E5%AF%9F%E5%AE%98%E5%85%A8%E5%91%98%E5%AE%A3%E8%A8%80%23&Refer=top)
 
