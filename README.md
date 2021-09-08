@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 02:06:44
+## 微博今日热榜 更新于 2021-09-09 03:03:27
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -118,4 +118,10 @@
 1. [周奇墨听说前任结婚的心理活动](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%A5%87%E5%A2%A8%E5%90%AC%E8%AF%B4%E5%89%8D%E4%BB%BB%E7%BB%93%E5%A9%9A%E7%9A%84%E5%BF%83%E7%90%86%E6%B4%BB%E5%8A%A8%23&Refer=top)
 
 1. [为什么大熊猫被叫滚滚](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%A2%AB%E5%8F%AB%E6%BB%9A%E6%BB%9A%23&Refer=top)
+
+1. [我国长期经济政策方针没有变](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%95%BF%E6%9C%9F%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E6%96%B9%E9%92%88%E6%B2%A1%E6%9C%89%E5%8F%98%23&Refer=new_time)
+
+1. [诗词唱成歌有多好听](https://s.weibo.com//weibo?q=%23%E8%AF%97%E8%AF%8D%E5%94%B1%E6%88%90%E6%AD%8C%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [李铁说微笑面对人生](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%93%81%E8%AF%B4%E5%BE%AE%E7%AC%91%E9%9D%A2%E5%AF%B9%E4%BA%BA%E7%94%9F%23&Refer=top)
 
