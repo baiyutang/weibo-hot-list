@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 03:03:27
+## 微博今日热榜 更新于 2021-09-09 04:04:46
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [诗词唱成歌有多好听](https://s.weibo.com//weibo?q=%23%E8%AF%97%E8%AF%8D%E5%94%B1%E6%88%90%E6%AD%8C%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%AC%23&Refer=top)
 
 1. [李铁说微笑面对人生](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%93%81%E8%AF%B4%E5%BE%AE%E7%AC%91%E9%9D%A2%E5%AF%B9%E4%BA%BA%E7%94%9F%23&Refer=top)
+
+1. [九龄承宇大婚](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E9%BE%84%E6%89%BF%E5%AE%87%E5%A4%A7%E5%A9%9A%23&Refer=top)
+
+1. [海通证券涉嫌违法违规被证监会立案调查](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%80%9A%E8%AF%81%E5%88%B8%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%A2%AB%E8%AF%81%E7%9B%91%E4%BC%9A%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top)
 
