@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-08 17:04:21
+## 微博今日热榜 更新于 2021-09-08 18:08:33
 1. [数字碳中和](https://s.weibo.com//weibo?q=%23%E6%95%B0%E5%AD%97%E7%A2%B3%E4%B8%AD%E5%92%8C%23&Refer=new_time)
 
 1. [国足vs日本](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23&Refer=top)
@@ -284,4 +284,30 @@
 1. [王源用简谱开锁](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%94%A8%E7%AE%80%E8%B0%B1%E5%BC%80%E9%94%81%23&Refer=top)
 
 1. [这正步实在是太难了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%AD%A3%E6%AD%A5%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%A4%AA%E9%9A%BE%E4%BA%86%23&Refer=top)
+
+1. [仅三天可见第二季哪些点很戳你](https://s.weibo.com//weibo?q=%23%E4%BB%85%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%93%AA%E4%BA%9B%E7%82%B9%E5%BE%88%E6%88%B3%E4%BD%A0%23&Refer=top)
+
+1. [樊振东喝上了秋天第一杯奶茶](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%96%9D%E4%B8%8A%E4%BA%86%E7%A7%8B%E5%A4%A9%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&Refer=top)
+
+1. [原国电集团副总经理谢长军被决定逮捕](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E5%9B%BD%E7%94%B5%E9%9B%86%E5%9B%A2%E5%89%AF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B0%A2%E9%95%BF%E5%86%9B%E8%A2%AB%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23&Refer=top)
+
+1. [医院回应窗口职工上班玩电脑游戏](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%AA%97%E5%8F%A3%E8%81%8C%E5%B7%A5%E4%B8%8A%E7%8F%AD%E7%8E%A9%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F%23&Refer=top)
+
+1. [你收到霍格沃茨的电话吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%94%B6%E5%88%B0%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E7%9A%84%E7%94%B5%E8%AF%9D%E5%90%97%23&Refer=top)
+
+1. [汪文斌称美军在阿20年是本活教材](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%9C%A8%E9%98%BF20%E5%B9%B4%E6%98%AF%E6%9C%AC%E6%B4%BB%E6%95%99%E6%9D%90%23&Refer=top)
+
+1. [讨好型人格活得累不累](https://s.weibo.com//weibo?q=%23%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%E6%B4%BB%E5%BE%97%E7%B4%AF%E4%B8%8D%E7%B4%AF%23&Refer=top)
+
+1. [给姐姐准备的新婚礼物](https://s.weibo.com//weibo?q=%23%E7%BB%99%E5%A7%90%E5%A7%90%E5%87%86%E5%A4%87%E7%9A%84%E6%96%B0%E5%A9%9A%E7%A4%BC%E7%89%A9%23&Refer=top)
+
+1. [王者荣耀86版西游记皮肤](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%8086%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%AE%E8%82%A4%23&Refer=top)
+
+1. [刘茵妈妈手撕婆婆](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8C%B5%E5%A6%88%E5%A6%88%E6%89%8B%E6%92%95%E5%A9%86%E5%A9%86%23&Refer=top)
+
+1. [潘粤明曾说过需要注意形象](https://s.weibo.com//weibo?q=%23%E6%BD%98%E7%B2%A4%E6%98%8E%E6%9B%BE%E8%AF%B4%E8%BF%87%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E5%BD%A2%E8%B1%A1%23&Refer=top)
+
+1. [不吃晚餐真的能减肥吗](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%83%E6%99%9A%E9%A4%90%E7%9C%9F%E7%9A%84%E8%83%BD%E5%87%8F%E8%82%A5%E5%90%97%23&Refer=top)
+
+1. [丁真藏语念诵理塘青春](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E8%97%8F%E8%AF%AD%E5%BF%B5%E8%AF%B5%E7%90%86%E5%A1%98%E9%9D%92%E6%98%A5%23&Refer=top)
 
