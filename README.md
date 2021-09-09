@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 09:50:13
+## 微博今日热榜 更新于 2021-09-09 10:19:20
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -172,4 +172,12 @@
 1. [此次三星堆考古已出土文物近万件](https://s.weibo.com//weibo?q=%23%E6%AD%A4%E6%AC%A1%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%B7%B2%E5%87%BA%E5%9C%9F%E6%96%87%E7%89%A9%E8%BF%91%E4%B8%87%E4%BB%B6%23&Refer=top)
 
 1. [航拍镜头看三星堆有多神秘](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E9%95%9C%E5%A4%B4%E7%9C%8B%E4%B8%89%E6%98%9F%E5%A0%86%E6%9C%89%E5%A4%9A%E7%A5%9E%E7%A7%98%23&Refer=top)
+
+1. [劳荣枝一审死刑](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E4%B8%80%E5%AE%A1%E6%AD%BB%E5%88%91%23&Refer=top)
+
+1. [杨洋30岁状态](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B30%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [李维嘉代言茶饮品牌已成老赖](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E4%BB%A3%E8%A8%80%E8%8C%B6%E9%A5%AE%E5%93%81%E7%89%8C%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23&Refer=top)
+
+1. [劳荣枝当庭提出上诉](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%BD%93%E5%BA%AD%E6%8F%90%E5%87%BA%E4%B8%8A%E8%AF%89%23&Refer=top)
 
