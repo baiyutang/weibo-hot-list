@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 00:06:58
+## 微博今日热榜 更新于 2021-09-10 01:11:58
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [拍过最有氛围感的照片](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E8%BF%87%E6%9C%80%E6%9C%89%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top)
 
 1. [电视剧光芒](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%85%89%E8%8A%92%23&Refer=top)
+
+1. [海运费暴涨10倍还抢不到货柜](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E8%BF%90%E8%B4%B9%E6%9A%B4%E6%B6%A810%E5%80%8D%E8%BF%98%E6%8A%A2%E4%B8%8D%E5%88%B0%E8%B4%A7%E6%9F%9C%23&Refer=top)
+
+1. [王冰冰素颜状态](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [黑怕女孩厂牌四进三入围战](https://s.weibo.com//weibo?q=%23%E9%BB%91%E6%80%95%E5%A5%B3%E5%AD%A9%E5%8E%82%E7%89%8C%E5%9B%9B%E8%BF%9B%E4%B8%89%E5%85%A5%E5%9B%B4%E6%88%98%23&Refer=top)
+
+1. [沃尔玛前总裁拟4000亿美元造平等之城](https://s.weibo.com//weibo?q=%23%E6%B2%83%E5%B0%94%E7%8E%9B%E5%89%8D%E6%80%BB%E8%A3%81%E6%8B%9F4000%E4%BA%BF%E7%BE%8E%E5%85%83%E9%80%A0%E5%B9%B3%E7%AD%89%E4%B9%8B%E5%9F%8E%23&Refer=top)
+
+1. [是这样的法官](https://s.weibo.com//weibo?q=%23%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E6%B3%95%E5%AE%98%23&Refer=top)
 
