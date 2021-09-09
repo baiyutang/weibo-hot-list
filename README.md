@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 13:04:05
+## 微博今日热榜 更新于 2021-09-09 14:06:51
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -246,4 +246,32 @@
 1. [如梦之梦杭州站抢票](https://s.weibo.com//weibo?q=%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E6%9D%AD%E5%B7%9E%E7%AB%99%E6%8A%A2%E7%A5%A8&Refer=top)
 
 1. [哈利波特游戏上线](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B8%B8%E6%88%8F%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [劳荣枝二哥支持其上诉](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E4%BA%8C%E5%93%A5%E6%94%AF%E6%8C%81%E5%85%B6%E4%B8%8A%E8%AF%89%23&Refer=top)
+
+1. [乔四美心疼过乔一成吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E5%BF%83%E7%96%BC%E8%BF%87%E4%B9%94%E4%B8%80%E6%88%90%E5%90%97%23&Refer=top)
+
+1. [劳荣枝案受害者女儿称曾像乞丐一样生活](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E5%A5%B3%E5%84%BF%E7%A7%B0%E6%9B%BE%E5%83%8F%E4%B9%9E%E4%B8%90%E4%B8%80%E6%A0%B7%E7%94%9F%E6%B4%BB%23&Refer=top)
+
+1. [劳荣枝听到死刑后当场痛哭](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%90%AC%E5%88%B0%E6%AD%BB%E5%88%91%E5%90%8E%E5%BD%93%E5%9C%BA%E7%97%9B%E5%93%AD%23&Refer=top)
+
+1. [王嘉尔的四重身份](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E5%9B%9B%E9%87%8D%E8%BA%AB%E4%BB%BD%23&Refer=top)
+
+1. [大湾区唱的粤语rap](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%94%B1%E7%9A%84%E7%B2%A4%E8%AF%ADrap%23&Refer=top)
+
+1. [三星堆再曝新发现](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%86%8D%E6%9B%9D%E6%96%B0%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [猫咪打扰主人工作的后果](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E6%89%93%E6%89%B0%E4%B8%BB%E4%BA%BA%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%90%8E%E6%9E%9C%23&Refer=top)
+
+1. [三星堆首次出土完整金面具](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%A6%96%E6%AC%A1%E5%87%BA%E5%9C%9F%E5%AE%8C%E6%95%B4%E9%87%91%E9%9D%A2%E5%85%B7%23&Refer=top)
+
+1. [INTO1明日5学长团官宣](https://s.weibo.com//weibo?q=%23INTO1%E6%98%8E%E6%97%A55%E5%AD%A6%E9%95%BF%E5%9B%A2%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [过敏人群能不能接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E8%BF%87%E6%95%8F%E4%BA%BA%E7%BE%A4%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [飞云之下](https://s.weibo.com//weibo?q=%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B&Refer=top)
+
+1. [姐妹们的奇幻沙龙](https://s.weibo.com//weibo?q=%E5%A7%90%E5%A6%B9%E4%BB%AC%E7%9A%84%E5%A5%87%E5%B9%BB%E6%B2%99%E9%BE%99&Refer=top)
+
+1. [蔡文静新剧短发造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E6%96%B0%E5%89%A7%E7%9F%AD%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
 
