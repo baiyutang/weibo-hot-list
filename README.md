@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 18:04:52
+## 微博今日热榜 更新于 2021-09-09 19:03:10
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -362,4 +362,30 @@
 1. [林志炫胡海泉热狗刘迦飞云之下舞台](https://s.weibo.com//weibo?q=%E6%9E%97%E5%BF%97%E7%82%AB%E8%83%A1%E6%B5%B7%E6%B3%89%E7%83%AD%E7%8B%97%E5%88%98%E8%BF%A6%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B%E8%88%9E%E5%8F%B0&Refer=top)
 
 1. [18名特朗普任命官员被要求辞职](https://s.weibo.com//weibo?q=%2318%E5%90%8D%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E5%91%BD%E5%AE%98%E5%91%98%E8%A2%AB%E8%A6%81%E6%B1%82%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
+
+1. [这不是老公是济公](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%8D%E6%98%AF%E8%80%81%E5%85%AC%E6%98%AF%E6%B5%8E%E5%85%AC%23&Refer=top)
+
+1. [结婚后必须要改口吗](https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A%E5%90%8E%E5%BF%85%E9%A1%BB%E8%A6%81%E6%94%B9%E5%8F%A3%E5%90%97%23&Refer=top)
+
+1. [内蒙古交警一刀切式罚款](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%A4%E8%AD%A6%E4%B8%80%E5%88%80%E5%88%87%E5%BC%8F%E7%BD%9A%E6%AC%BE%23&Refer=top)
+
+1. [格兰芬多现任院长是纳威](https://s.weibo.com//weibo?q=%23%E6%A0%BC%E5%85%B0%E8%8A%AC%E5%A4%9A%E7%8E%B0%E4%BB%BB%E9%99%A2%E9%95%BF%E6%98%AF%E7%BA%B3%E5%A8%81%23&Refer=top)
+
+1. [江苏警方通报运钞车货车相撞事故](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%BF%90%E9%92%9E%E8%BD%A6%E8%B4%A7%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [为什么年轻人都反感相亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%8F%8D%E6%84%9F%E7%9B%B8%E4%BA%B2%23&Refer=top)
+
+1. [泫雅回归](https://s.weibo.com//weibo?q=%E6%B3%AB%E9%9B%85%E5%9B%9E%E5%BD%92&Refer=top)
+
+1. [热狗叫自己温柔的小狗](https://s.weibo.com//weibo?q=%23%E7%83%AD%E7%8B%97%E5%8F%AB%E8%87%AA%E5%B7%B1%E6%B8%A9%E6%9F%94%E7%9A%84%E5%B0%8F%E7%8B%97%23&Refer=top)
+
+1. [我国完成德尔塔灭活疫苗临床前研究](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%AE%8C%E6%88%90%E5%BE%B7%E5%B0%94%E5%A1%94%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E4%B8%B4%E5%BA%8A%E5%89%8D%E7%A0%94%E7%A9%B6%23&Refer=top)
+
+1. [广西一村民家玉米棒晒成爆米花](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%9D%91%E6%B0%91%E5%AE%B6%E7%8E%89%E7%B1%B3%E6%A3%92%E6%99%92%E6%88%90%E7%88%86%E7%B1%B3%E8%8A%B1%23&Refer=top)
+
+1. [黄贯中吉他弹唱喜欢你](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%B4%AF%E4%B8%AD%E5%90%89%E4%BB%96%E5%BC%B9%E5%94%B1%E5%96%9C%E6%AC%A2%E4%BD%A0%23&Refer=top)
+
+1. [千万不要随便剪短发](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%9A%8F%E4%BE%BF%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
 
