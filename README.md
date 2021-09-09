@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 14:06:51
+## 微博今日热榜 更新于 2021-09-09 15:10:04
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -274,4 +274,32 @@
 1. [姐妹们的奇幻沙龙](https://s.weibo.com//weibo?q=%E5%A7%90%E5%A6%B9%E4%BB%AC%E7%9A%84%E5%A5%87%E5%B9%BB%E6%B2%99%E9%BE%99&Refer=top)
 
 1. [蔡文静新剧短发造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E6%96%B0%E5%89%A7%E7%9F%AD%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [全国中小学消防公开课](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%B6%88%E9%98%B2%E5%85%AC%E5%BC%80%E8%AF%BE%23&Refer=new_time)
+
+1. [腾讯回应60岁老人凌晨王者五杀](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%9460%E5%B2%81%E8%80%81%E4%BA%BA%E5%87%8C%E6%99%A8%E7%8E%8B%E8%80%85%E4%BA%94%E6%9D%80%23&Refer=top)
+
+1. [水花今天不上班](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E8%8A%B1%E4%BB%8A%E5%A4%A9%E4%B8%8D%E4%B8%8A%E7%8F%AD%23&Refer=top)
+
+1. [白举纲唱的不是悟空是唐僧吧](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E5%94%B1%E7%9A%84%E4%B8%8D%E6%98%AF%E6%82%9F%E7%A9%BA%E6%98%AF%E5%94%90%E5%83%A7%E5%90%A7%23&Refer=top)
+
+1. [披荆斩棘的哥哥](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&Refer=top)
+
+1. [斛珠夫人发行许可证](https://s.weibo.com//weibo?q=%23%E6%96%9B%E7%8F%A0%E5%A4%AB%E4%BA%BA%E5%8F%91%E8%A1%8C%E8%AE%B8%E5%8F%AF%E8%AF%81%23&Refer=top)
+
+1. [主播回应反诈宣传被称西厂正规军](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E6%92%AD%E5%9B%9E%E5%BA%94%E5%8F%8D%E8%AF%88%E5%AE%A3%E4%BC%A0%E8%A2%AB%E7%A7%B0%E8%A5%BF%E5%8E%82%E6%AD%A3%E8%A7%84%E5%86%9B%23&Refer=top)
+
+1. [三星堆发现国宝级文物青铜神坛](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8F%91%E7%8E%B0%E5%9B%BD%E5%AE%9D%E7%BA%A7%E6%96%87%E7%89%A9%E9%9D%92%E9%93%9C%E7%A5%9E%E5%9D%9B%23&Refer=top)
+
+1. [悟空舞台好燃](https://s.weibo.com//weibo?q=%23%E6%82%9F%E7%A9%BA%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%87%83%23&Refer=top)
+
+1. [张家齐陈芋汐也太默契了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E9%99%88%E8%8A%8B%E6%B1%90%E4%B9%9F%E5%A4%AA%E9%BB%98%E5%A5%91%E4%BA%86%23&Refer=top)
+
+1. [如何体面拒绝追求者](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E4%BD%93%E9%9D%A2%E6%8B%92%E7%BB%9D%E8%BF%BD%E6%B1%82%E8%80%85%23&Refer=top)
+
+1. [张淇戏腔](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%B7%87%E6%88%8F%E8%85%94%23&Refer=top)
+
+1. [三星堆出土直发冲天青铜人像](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E7%9B%B4%E5%8F%91%E5%86%B2%E5%A4%A9%E9%9D%92%E9%93%9C%E4%BA%BA%E5%83%8F%23&Refer=top)
+
+1. [王嘉尔熊猫团mv总导演](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%86%8A%E7%8C%AB%E5%9B%A2mv%E6%80%BB%E5%AF%BC%E6%BC%94%23&Refer=top)
 
