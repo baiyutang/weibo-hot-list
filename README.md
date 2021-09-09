@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 04:05:55
+## 微博今日热榜 更新于 2021-09-10 05:05:09
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -124,4 +124,10 @@
 1. [如何看待因离婚导致的暴力案件](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%9B%A0%E7%A6%BB%E5%A9%9A%E5%AF%BC%E8%87%B4%E7%9A%84%E6%9A%B4%E5%8A%9B%E6%A1%88%E4%BB%B6%23&Refer=top)
 
 1. [何运晨督促老板准时下班](https://s.weibo.com//weibo?q=%23%E4%BD%95%E8%BF%90%E6%99%A8%E7%9D%A3%E4%BF%83%E8%80%81%E6%9D%BF%E5%87%86%E6%97%B6%E4%B8%8B%E7%8F%AD%23&Refer=top)
+
+1. [被陌生人的温暖整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%B8%A9%E6%9A%96%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
+
+1. [赵立坚用6个对比痛批美国](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%94%A86%E4%B8%AA%E5%AF%B9%E6%AF%94%E7%97%9B%E6%89%B9%E7%BE%8E%E5%9B%BD%23&Refer=top)
+
+1. [第三十七个教师节](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E4%B8%AA%E6%95%99%E5%B8%88%E8%8A%82&Refer=top)
 
