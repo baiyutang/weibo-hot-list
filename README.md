@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 11:05:40
+## 微博今日热榜 更新于 2021-09-09 12:06:07
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -188,4 +188,26 @@
 1. [孔雪儿明媒善娶](https://s.weibo.com//weibo?q=%E5%AD%94%E9%9B%AA%E5%84%BF%E6%98%8E%E5%AA%92%E5%96%84%E5%A8%B6&Refer=top)
 
 1. [读博会改变一个人的性格吗](https://s.weibo.com//weibo?q=%23%E8%AF%BB%E5%8D%9A%E4%BC%9A%E6%94%B9%E5%8F%98%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%80%A7%E6%A0%BC%E5%90%97%23&Refer=top)
+
+1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
+
+1. [英雄联盟手游](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8%23&Refer=top)
+
+1. [飞机上的小孔是干嘛用的](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%9A%84%E5%B0%8F%E5%AD%94%E6%98%AF%E5%B9%B2%E5%98%9B%E7%94%A8%E7%9A%84%23&Refer=top)
+
+1. [杨利伟称未来可能会有太空农场](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%88%A9%E4%BC%9F%E7%A7%B0%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9C%89%E5%A4%AA%E7%A9%BA%E5%86%9C%E5%9C%BA%23&Refer=top)
+
+1. [胡歌回母校寄语学弟学妹](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%AD%8C%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%AF%84%E8%AF%AD%E5%AD%A6%E5%BC%9F%E5%AD%A6%E5%A6%B9%23&Refer=top)
+
+1. [张新成张晞临再合作](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%BC%A0%E6%99%9E%E4%B8%B4%E5%86%8D%E5%90%88%E4%BD%9C%23&Refer=top)
+
+1. [视频平台VIP服务应依法合规质价相符](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0VIP%E6%9C%8D%E5%8A%A1%E5%BA%94%E4%BE%9D%E6%B3%95%E5%90%88%E8%A7%84%E8%B4%A8%E4%BB%B7%E7%9B%B8%E7%AC%A6%23&Refer=top)
+
+1. [中消协称视频平台应取消逐集限制](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E7%A7%B0%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E5%BA%94%E5%8F%96%E6%B6%88%E9%80%90%E9%9B%86%E9%99%90%E5%88%B6%23&Refer=top)
+
+1. [视频平台不应向VIP老会员收取超前点播费](https://s.weibo.com//weibo?q=%23%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%BA%94%E5%90%91VIP%E8%80%81%E4%BC%9A%E5%91%98%E6%94%B6%E5%8F%96%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD%E8%B4%B9%23&Refer=top)
+
+1. [我和我的父辈吴京新片阵容](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%88%B6%E8%BE%88%E5%90%B4%E4%BA%AC%E6%96%B0%E7%89%87%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [猪肉价格同比下降44.9%](https://s.weibo.com//weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D44.9%25%23&Refer=top)
 
