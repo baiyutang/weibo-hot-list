@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-09 07:04:10
+## 微博今日热榜 更新于 2021-09-09 08:18:57
 1. [俄塔斯社记者讲述与习主席握手细节](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A1%94%E6%96%AF%E7%A4%BE%E8%AE%B0%E8%80%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%8F%A1%E6%89%8B%E7%BB%86%E8%8A%82%23&Refer=new_time)
 
 1. [香港一名80后打疫苗抽中千万豪宅](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%90%8D80%E5%90%8E%E6%89%93%E7%96%AB%E8%8B%97%E6%8A%BD%E4%B8%AD%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -136,4 +136,22 @@
 1. [一生一世吻戏](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%E5%90%BB%E6%88%8F%23&Refer=top)
 
 1. [乔家的儿女原谅乔祖望了吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E5%8E%9F%E8%B0%85%E4%B9%94%E7%A5%96%E6%9C%9B%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [过半学生可解开游戏防沉迷系统](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%8D%8A%E5%AD%A6%E7%94%9F%E5%8F%AF%E8%A7%A3%E5%BC%80%E6%B8%B8%E6%88%8F%E9%98%B2%E6%B2%89%E8%BF%B7%E7%B3%BB%E7%BB%9F%23&Refer=top)
+
+1. [北京暴雨](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&Refer=top)
+
+1. [乔七七给乔一成换肾](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%B8%83%E4%B8%83%E7%BB%99%E4%B9%94%E4%B8%80%E6%88%90%E6%8D%A2%E8%82%BE%23&Refer=top)
+
+1. [中方向阿富汗提供价值2亿元紧急援助](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E9%98%BF%E5%AF%8C%E6%B1%97%E6%8F%90%E4%BE%9B%E4%BB%B7%E5%80%BC2%E4%BA%BF%E5%85%83%E7%B4%A7%E6%80%A5%E6%8F%B4%E5%8A%A9%23&Refer=top)
+
+1. [英国养猪业半年损失10亿元](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%85%BB%E7%8C%AA%E4%B8%9A%E5%8D%8A%E5%B9%B4%E6%8D%9F%E5%A4%B110%E4%BA%BF%E5%85%83%23&Refer=top)
+
+1. [谭维维绝美空中楼阁舞台](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%E7%BB%9D%E7%BE%8E%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [元宇宙概念股](https://s.weibo.com//weibo?q=%23%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E5%BF%B5%E8%82%A1%23&Refer=top)
+
+1. [汪苏泷新歌伊甸园首唱](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B0%E6%AD%8C%E4%BC%8A%E7%94%B8%E5%9B%AD%E9%A6%96%E5%94%B1%23&Refer=top)
+
+1. [白宇独白戏感染力](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%87%E7%8B%AC%E7%99%BD%E6%88%8F%E6%84%9F%E6%9F%93%E5%8A%9B%23&Refer=top)
 
