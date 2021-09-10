@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 12:06:02
+## 微博今日热榜 更新于 2021-09-10 13:04:23
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -248,4 +248,24 @@
 1. [大自然现象真的很奇妙](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%87%AA%E7%84%B6%E7%8E%B0%E8%B1%A1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%87%E5%A6%99%23&Refer=top)
 
 1. [你有多久没说老师好了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E4%B9%85%E6%B2%A1%E8%AF%B4%E8%80%81%E5%B8%88%E5%A5%BD%E4%BA%86%23&Refer=top)
+
+1. [上学时最奢侈的消费经历](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%AD%A6%E6%97%B6%E6%9C%80%E5%A5%A2%E4%BE%88%E7%9A%84%E6%B6%88%E8%B4%B9%E7%BB%8F%E5%8E%86%23&Refer=top)
+
+1. [且试天下杨洋赵露思教师节海报](https://s.weibo.com//weibo?q=%23%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E6%9D%A8%E6%B4%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%95%99%E5%B8%88%E8%8A%82%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [致女子坠海身亡的飞鱼项目曾被取缔](https://s.weibo.com//weibo?q=%23%E8%87%B4%E5%A5%B3%E5%AD%90%E5%9D%A0%E6%B5%B7%E8%BA%AB%E4%BA%A1%E7%9A%84%E9%A3%9E%E9%B1%BC%E9%A1%B9%E7%9B%AE%E6%9B%BE%E8%A2%AB%E5%8F%96%E7%BC%94%23&Refer=top)
+
+1. [亲爱的吾兄定档](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E5%90%BE%E5%85%84%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [学生教师节送花老师要求背古诗](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E6%95%99%E5%B8%88%E8%8A%82%E9%80%81%E8%8A%B1%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E8%83%8C%E5%8F%A4%E8%AF%97%23&Refer=top)
+
+1. [多个城市出台房价限跌令](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%87%BA%E5%8F%B0%E6%88%BF%E4%BB%B7%E9%99%90%E8%B7%8C%E4%BB%A4%23&Refer=top)
+
+1. [你会选择支教吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E6%94%AF%E6%95%99%E5%90%97%23&Refer=top)
+
+1. [18岁华裔小将晋级美网决赛](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E5%8D%8E%E8%A3%94%E5%B0%8F%E5%B0%86%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [日本放弃2021届世俱杯举办权](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BE%E5%BC%832021%E5%B1%8A%E4%B8%96%E4%BF%B1%E6%9D%AF%E4%B8%BE%E5%8A%9E%E6%9D%83%23&Refer=top)
+
+1. [小米计划2024年出车](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%AE%A1%E5%88%922024%E5%B9%B4%E5%87%BA%E8%BD%A6%23&Refer=top)
 
