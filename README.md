@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 15:04:16
+## 微博今日热榜 更新于 2021-09-10 16:06:13
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -302,4 +302,40 @@
 1. [披荆斩棘的哥哥](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5&Refer=top)
 
 1. [三星堆考古现场的黑科技](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E7%8E%B0%E5%9C%BA%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80%23&Refer=top)
+
+1. [女子怀三胎疑遭单位强行辞退](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E4%B8%89%E8%83%8E%E7%96%91%E9%81%AD%E5%8D%95%E4%BD%8D%E5%BC%BA%E8%A1%8C%E8%BE%9E%E9%80%80%23&Refer=top)
+
+1. [别在打烊时买奶茶](https://s.weibo.com//weibo?q=%23%E5%88%AB%E5%9C%A8%E6%89%93%E7%83%8A%E6%97%B6%E4%B9%B0%E5%A5%B6%E8%8C%B6%23&Refer=top)
+
+1. [美团外卖首次公开骑手配送时间算法](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E9%AA%91%E6%89%8B%E9%85%8D%E9%80%81%E6%97%B6%E9%97%B4%E7%AE%97%E6%B3%95%23&Refer=top)
+
+1. [被子的颜色竟然会影响睡眠](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%AD%90%E7%9A%84%E9%A2%9C%E8%89%B2%E7%AB%9F%E7%84%B6%E4%BC%9A%E5%BD%B1%E5%93%8D%E7%9D%A1%E7%9C%A0%23&Refer=top)
+
+1. [货拉拉跳车事件司机妻子申请换律师](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%B3%E8%BD%A6%E4%BA%8B%E4%BB%B6%E5%8F%B8%E6%9C%BA%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E6%8D%A2%E5%BE%8B%E5%B8%88%23&Refer=top)
+
+1. [拜登要求所有联邦雇员接种疫苗](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E8%A6%81%E6%B1%82%E6%89%80%E6%9C%89%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [暧昧期是怎样聊天的](https://s.weibo.com//weibo?q=%23%E6%9A%A7%E6%98%A7%E6%9C%9F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%81%8A%E5%A4%A9%E7%9A%84%23&Refer=top)
+
+1. [留学生质疑隔离酒店收费不公](https://s.weibo.com//weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E8%B4%A8%E7%96%91%E9%9A%94%E7%A6%BB%E9%85%92%E5%BA%97%E6%94%B6%E8%B4%B9%E4%B8%8D%E5%85%AC%23&Refer=top)
+
+1. [蛋壳公寓被强制执行1.4亿](https://s.weibo.com//weibo?q=%23%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C1.4%E4%BA%BF%23&Refer=top)
+
+1. [吴磊拍马战炸伤脸](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E6%8B%8D%E9%A9%AC%E6%88%98%E7%82%B8%E4%BC%A4%E8%84%B8%23&Refer=top)
+
+1. [央视揭种草下单套路](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%8D%E8%8D%89%E4%B8%8B%E5%8D%95%E5%A5%97%E8%B7%AF%23&Refer=top)
+
+1. [星巴克碎星绿灵感妆](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E7%A2%8E%E6%98%9F%E7%BB%BF%E7%81%B5%E6%84%9F%E5%A6%86%23&Refer=top)
+
+1. [女心理师呼吁关注心理健康](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88%E5%91%BC%E5%90%81%E5%85%B3%E6%B3%A8%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%23&Refer=top)
+
+1. [陈雨菲比赛中脚被割伤](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E6%AF%94%E8%B5%9B%E4%B8%AD%E8%84%9A%E8%A2%AB%E5%89%B2%E4%BC%A4%23&Refer=top)
+
+1. [叶挺生前的愿望](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E6%8C%BA%E7%94%9F%E5%89%8D%E7%9A%84%E6%84%BF%E6%9C%9B%23&Refer=top)
+
+1. [是朋友也是对手是种什么感受](https://s.weibo.com//weibo?q=%23%E6%98%AF%E6%9C%8B%E5%8F%8B%E4%B9%9F%E6%98%AF%E5%AF%B9%E6%89%8B%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E5%8F%97%23&Refer=top)
+
+1. [93岁教师说希望最后一口气留在讲台](https://s.weibo.com//weibo?q=%2393%E5%B2%81%E6%95%99%E5%B8%88%E8%AF%B4%E5%B8%8C%E6%9C%9B%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A3%E6%B0%94%E7%95%99%E5%9C%A8%E8%AE%B2%E5%8F%B0%23&Refer=top)
+
+1. [2021年世界互联网大会](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%23&Refer=top)
 
