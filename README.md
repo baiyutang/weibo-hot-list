@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 03:02:48
+## 微博今日热榜 更新于 2021-09-11 04:04:58
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [塔利班展示占领阿富汗军阀豪宅](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B1%95%E7%A4%BA%E5%8D%A0%E9%A2%86%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%9B%E9%98%80%E8%B1%AA%E5%AE%85%23&Refer=top)
 
 1. [2022年杭州亚运会火炬发布](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [王靖雯原创下一个好听](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9D%96%E9%9B%AF%E5%8E%9F%E5%88%9B%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%90%AC%23&Refer=top)
+
+1. [许家印回应恒大财富兑付危机](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%9B%9E%E5%BA%94%E6%81%92%E5%A4%A7%E8%B4%A2%E5%AF%8C%E5%85%91%E4%BB%98%E5%8D%B1%E6%9C%BA%23&Refer=top)
+
+1. [福建仙游三地划为中风险区域](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E4%B8%89%E5%9C%B0%E5%88%92%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%23&Refer=top)
 
