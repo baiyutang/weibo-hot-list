@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 07:03:51
+## 微博今日热榜 更新于 2021-09-10 08:19:01
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -130,4 +130,18 @@
 1. [赵立坚用6个对比痛批美国](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%94%A86%E4%B8%AA%E5%AF%B9%E6%AF%94%E7%97%9B%E6%89%B9%E7%BE%8E%E5%9B%BD%23&Refer=top)
 
 1. [第三十七个教师节](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E4%B8%AA%E6%95%99%E5%B8%88%E8%8A%82&Refer=top)
+
+1. [工资配不上这个办公室](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E8%B5%84%E9%85%8D%E4%B8%8D%E4%B8%8A%E8%BF%99%E4%B8%AA%E5%8A%9E%E5%85%AC%E5%AE%A4%23&Refer=top)
+
+1. [老师您辛苦了](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E6%82%A8%E8%BE%9B%E8%8B%A6%E4%BA%86%23&Refer=top)
+
+1. [教师节快乐](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top)
+
+1. [老师的绝技](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E7%BB%9D%E6%8A%80%23&Refer=top)
+
+1. [厦门六中合唱团献歌教师节](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E5%85%AD%E4%B8%AD%E5%90%88%E5%94%B1%E5%9B%A2%E7%8C%AE%E6%AD%8C%E6%95%99%E5%B8%88%E8%8A%82%23&Refer=top)
+
+1. [以前很怕你现在很想你](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%89%8D%E5%BE%88%E6%80%95%E4%BD%A0%E7%8E%B0%E5%9C%A8%E5%BE%88%E6%83%B3%E4%BD%A0%23&Refer=top)
+
+1. [老师的十八般武艺](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E5%8D%81%E5%85%AB%E8%88%AC%E6%AD%A6%E8%89%BA%23&Refer=top)
 
