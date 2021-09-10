@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 01:09:21
+## 微博今日热榜 更新于 2021-09-11 02:05:31
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
