@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 02:05:31
+## 微博今日热榜 更新于 2021-09-11 03:02:48
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -116,4 +116,10 @@
 1. [千书真把秀莲推下海](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B9%A6%E7%9C%9F%E6%8A%8A%E7%A7%80%E8%8E%B2%E6%8E%A8%E4%B8%8B%E6%B5%B7%23&Refer=top)
 
 1. [成都地铁在建工地坍塌4死14伤](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%9D%8D%E5%A1%8C4%E6%AD%BB14%E4%BC%A4%23&Refer=top)
+
+1. [男童被喷泉冲至半空摔地后身亡](https://s.weibo.com//weibo?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E5%96%B7%E6%B3%89%E5%86%B2%E8%87%B3%E5%8D%8A%E7%A9%BA%E6%91%94%E5%9C%B0%E5%90%8E%E8%BA%AB%E4%BA%A1&Refer=top)
+
+1. [塔利班展示占领阿富汗军阀豪宅](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B1%95%E7%A4%BA%E5%8D%A0%E9%A2%86%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%9B%E9%98%80%E8%B1%AA%E5%AE%85%23&Refer=top)
+
+1. [2022年杭州亚运会火炬发布](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E5%8F%91%E5%B8%83%23&Refer=top)
 
