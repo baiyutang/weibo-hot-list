@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 16:06:13
+## 微博今日热榜 更新于 2021-09-10 17:05:21
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -338,4 +338,38 @@
 1. [93岁教师说希望最后一口气留在讲台](https://s.weibo.com//weibo?q=%2393%E5%B2%81%E6%95%99%E5%B8%88%E8%AF%B4%E5%B8%8C%E6%9C%9B%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A3%E6%B0%94%E7%95%99%E5%9C%A8%E8%AE%B2%E5%8F%B0%23&Refer=top)
 
 1. [2021年世界互联网大会](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%23&Refer=top)
+
+1. [为什么年轻人越来越反感周报](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%8F%8D%E6%84%9F%E5%91%A8%E6%8A%A5%23&Refer=top)
+
+1. [美国最漫长战争仓皇告终](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%BC%AB%E9%95%BF%E6%88%98%E4%BA%89%E4%BB%93%E7%9A%87%E5%91%8A%E7%BB%88%23&Refer=top)
+
+1. [扬州一座百米长大桥被撞断](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E4%B8%80%E5%BA%A7%E7%99%BE%E7%B1%B3%E9%95%BF%E5%A4%A7%E6%A1%A5%E8%A2%AB%E6%92%9E%E6%96%AD%23&Refer=top)
+
+1. [大湾区水舞台太酷了](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%B0%B4%E8%88%9E%E5%8F%B0%E5%A4%AA%E9%85%B7%E4%BA%86%23&Refer=top)
+
+1. [美国160万住院患者仅1万例接种疫苗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD160%E4%B8%87%E4%BD%8F%E9%99%A2%E6%82%A3%E8%80%85%E4%BB%851%E4%B8%87%E4%BE%8B%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [程序员那么可爱全员一键开机](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%E5%85%A8%E5%91%98%E4%B8%80%E9%94%AE%E5%BC%80%E6%9C%BA%23&Refer=top)
+
+1. [拳力以赴的我们开播](https://s.weibo.com//weibo?q=%23%E6%8B%B3%E5%8A%9B%E4%BB%A5%E8%B5%B4%E7%9A%84%E6%88%91%E4%BB%AC%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [张晋李承铉组鞋子特大号舞台](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%8B%E6%9D%8E%E6%89%BF%E9%93%89%E7%BB%84%E9%9E%8B%E5%AD%90%E7%89%B9%E5%A4%A7%E5%8F%B7%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [程序员那么可爱开播](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%E5%BC%80%E6%92%AD%23&Refer=top)
+
+1. [你要如何我们就如何水舞台](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%A6%81%E5%A6%82%E4%BD%95%E6%88%91%E4%BB%AC%E5%B0%B1%E5%A6%82%E4%BD%95%E6%B0%B4%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [言承旭不舍队友淘汰落泪](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E4%B8%8D%E8%88%8D%E9%98%9F%E5%8F%8B%E6%B7%98%E6%B1%B0%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [烟火影视化](https://s.weibo.com//weibo?q=%23%E7%83%9F%E7%81%AB%E5%BD%B1%E8%A7%86%E5%8C%96%23&Refer=top)
+
+1. [张杰未live巡回演唱会](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%9C%AAlive%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+
+1. [美国新冠实际感染人数或远超官方统计](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E5%AE%9E%E9%99%85%E6%84%9F%E6%9F%93%E4%BA%BA%E6%95%B0%E6%88%96%E8%BF%9C%E8%B6%85%E5%AE%98%E6%96%B9%E7%BB%9F%E8%AE%A1%23&Refer=top)
+
+1. [许佳琪翻唱遇见](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%90%AA%E7%BF%BB%E5%94%B1%E9%81%87%E8%A7%81%23&Refer=top)
+
+1. [教育局回应吉林一学校食堂食物变质](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%90%89%E6%9E%97%E4%B8%80%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E9%A3%9F%E7%89%A9%E5%8F%98%E8%B4%A8%23&Refer=top)
+
+1. [三星堆发现24k纯金小金珠](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8F%91%E7%8E%B024k%E7%BA%AF%E9%87%91%E5%B0%8F%E9%87%91%E7%8F%A0%23&Refer=top)
 
