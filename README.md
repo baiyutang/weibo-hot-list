@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 10:19:33
+## 微博今日热榜 更新于 2021-09-10 11:04:22
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -190,4 +190,14 @@
 1. [央视主播回忆与老师的故事](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E5%9B%9E%E5%BF%86%E4%B8%8E%E8%80%81%E5%B8%88%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top)
 
 1. [教师节表情包](https://s.weibo.com//weibo?q=%E6%95%99%E5%B8%88%E8%8A%82%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top)
+
+1. [兰心大剧院定档](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%BF%83%E5%A4%A7%E5%89%A7%E9%99%A2%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [教师迷惑行为图鉴](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%B8%88%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA%E5%9B%BE%E9%89%B4%23&Refer=top)
+
+1. [阿根廷3比0玻利维亚](https://s.weibo.com//weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%940%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%23&Refer=top)
+
+1. [今天是教师节](https://s.weibo.com//weibo?q=%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%95%99%E5%B8%88%E8%8A%82&Refer=top)
+
+1. [00后在被押法庭路上唱歌](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%9C%A8%E8%A2%AB%E6%8A%BC%E6%B3%95%E5%BA%AD%E8%B7%AF%E4%B8%8A%E5%94%B1%E6%AD%8C%23&Refer=top)
 
