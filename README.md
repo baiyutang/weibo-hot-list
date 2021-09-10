@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 13:04:23
+## 微博今日热榜 更新于 2021-09-10 14:05:58
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -268,4 +268,22 @@
 1. [日本放弃2021届世俱杯举办权](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BE%E5%BC%832021%E5%B1%8A%E4%B8%96%E4%BF%B1%E6%9D%AF%E4%B8%BE%E5%8A%9E%E6%9D%83%23&Refer=top)
 
 1. [小米计划2024年出车](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%AE%A1%E5%88%922024%E5%B9%B4%E5%87%BA%E8%BD%A6%23&Refer=top)
+
+1. [李云迪对热狗说希望没有浪费你的词](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BA%91%E8%BF%AA%E5%AF%B9%E7%83%AD%E7%8B%97%E8%AF%B4%E5%B8%8C%E6%9C%9B%E6%B2%A1%E6%9C%89%E6%B5%AA%E8%B4%B9%E4%BD%A0%E7%9A%84%E8%AF%8D%23&Refer=top)
+
+1. [LISA新歌LALISA](https://s.weibo.com//weibo?q=%23LISA%E6%96%B0%E6%AD%8CLALISA%23&Refer=top)
+
+1. [93岁乡村教师英文发音堪比播音腔](https://s.weibo.com//weibo?q=%2393%E5%B2%81%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%88%E8%8B%B1%E6%96%87%E5%8F%91%E9%9F%B3%E5%A0%AA%E6%AF%94%E6%92%AD%E9%9F%B3%E8%85%94%23&Refer=top)
+
+1. [赵英博演的神仙哥哥](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%8B%B1%E5%8D%9A%E6%BC%94%E7%9A%84%E7%A5%9E%E4%BB%99%E5%93%A5%E5%93%A5%23&Refer=top)
+
+1. [小偷控诉杭州东西太难偷了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%81%B7%E6%8E%A7%E8%AF%89%E6%9D%AD%E5%B7%9E%E4%B8%9C%E8%A5%BF%E5%A4%AA%E9%9A%BE%E5%81%B7%E4%BA%86%23&Refer=top)
+
+1. [兵哥哥教你如何练出8块腹肌](https://s.weibo.com//weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E7%BB%83%E5%87%BA8%E5%9D%97%E8%85%B9%E8%82%8C%23&Refer=top)
+
+1. [教师资格证有哪些福利](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A6%8F%E5%88%A9%23&Refer=top)
+
+1. [80后白发校长也是大厨和维修工](https://s.weibo.com//weibo?q=%2380%E5%90%8E%E7%99%BD%E5%8F%91%E6%A0%A1%E9%95%BF%E4%B9%9F%E6%98%AF%E5%A4%A7%E5%8E%A8%E5%92%8C%E7%BB%B4%E4%BF%AE%E5%B7%A5%23&Refer=top)
+
+1. [张桂梅贴满膏药的双手让人心疼](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%B4%B4%E6%BB%A1%E8%86%8F%E8%8D%AF%E7%9A%84%E5%8F%8C%E6%89%8B%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&Refer=top)
 
