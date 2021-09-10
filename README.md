@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-10 08:19:01
+## 微博今日热榜 更新于 2021-09-10 09:49:55
 1. [金砖国家领导人第十三次会晤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E4%BC%9A%E6%99%A4%23&Refer=new_time)
 
 1. [劳荣枝触目惊心的罪恶](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E8%A7%A6%E7%9B%AE%E6%83%8A%E5%BF%83%E7%9A%84%E7%BD%AA%E6%81%B6%23&Refer=top)
@@ -144,4 +144,36 @@
 1. [以前很怕你现在很想你](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%89%8D%E5%BE%88%E6%80%95%E4%BD%A0%E7%8E%B0%E5%9C%A8%E5%BE%88%E6%83%B3%E4%BD%A0%23&Refer=top)
 
 1. [老师的十八般武艺](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E5%8D%81%E5%85%AB%E8%88%AC%E6%AD%A6%E8%89%BA%23&Refer=top)
+
+1. [感念师恩](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%BF%B5%E5%B8%88%E6%81%A9%23&Refer=new_time)
+
+1. [教师资格证](https://s.weibo.com//weibo?q=%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81&Refer=top)
+
+1. [济南喜悦整形被打当事人发声](https://s.weibo.com//weibo?q=%23%E6%B5%8E%E5%8D%97%E5%96%9C%E6%82%A6%E6%95%B4%E5%BD%A2%E8%A2%AB%E6%89%93%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&Refer=top)
+
+1. [劳荣枝庭审现场连说2句我不服](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E8%8D%A3%E6%9E%9D%E5%BA%AD%E5%AE%A1%E7%8E%B0%E5%9C%BA%E8%BF%9E%E8%AF%B42%E5%8F%A5%E6%88%91%E4%B8%8D%E6%9C%8D%23&Refer=top)
+
+1. [刘奕君发视频告别扫黑风暴](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A5%95%E5%90%9B%E5%8F%91%E8%A7%86%E9%A2%91%E5%91%8A%E5%88%AB%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%23&Refer=top)
+
+1. [马龙对恩师的心里话](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E5%AF%B9%E6%81%A9%E5%B8%88%E7%9A%84%E5%BF%83%E9%87%8C%E8%AF%9D%23&Refer=top)
+
+1. [邮政是不是哪都能送](https://s.weibo.com//weibo?q=%23%E9%82%AE%E6%94%BF%E6%98%AF%E4%B8%8D%E6%98%AF%E5%93%AA%E9%83%BD%E8%83%BD%E9%80%81%23&Refer=top)
+
+1. [水泥路上不要随便加速](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E6%B3%A5%E8%B7%AF%E4%B8%8A%E4%B8%8D%E8%A6%81%E9%9A%8F%E4%BE%BF%E5%8A%A0%E9%80%9F%23&Refer=top)
+
+1. [小乔丹正式加盟湖人](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%B9%94%E4%B8%B9%E6%AD%A3%E5%BC%8F%E5%8A%A0%E7%9B%9F%E6%B9%96%E4%BA%BA%23&Refer=top)
+
+1. [张桂梅说要让每一个孩子接受教育](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%AF%B4%E8%A6%81%E8%AE%A9%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%8E%A5%E5%8F%97%E6%95%99%E8%82%B2%23&Refer=top)
+
+1. [梅西帽子戏法](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&Refer=top)
+
+1. [李兰迪说程了成了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%AF%B4%E7%A8%8B%E4%BA%86%E6%88%90%E4%BA%86%23&Refer=top)
+
+1. [100秒混剪我和老师的难忘瞬间](https://s.weibo.com//weibo?q=%23100%E7%A7%92%E6%B7%B7%E5%89%AA%E6%88%91%E5%92%8C%E8%80%81%E5%B8%88%E7%9A%84%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [110秒回顾老师经典语录](https://s.weibo.com//weibo?q=110%E7%A7%92%E5%9B%9E%E9%A1%BE%E8%80%81%E5%B8%88%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95&Refer=top)
+
+1. [多地景区对教师免门票](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%B9%E6%95%99%E5%B8%88%E5%85%8D%E9%97%A8%E7%A5%A8%23&Refer=top)
+
+1. [王嘉尔包办Drive舞台所有细节](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8C%85%E5%8A%9EDrive%E8%88%9E%E5%8F%B0%E6%89%80%E6%9C%89%E7%BB%86%E8%8A%82%23&Refer=top)
 
