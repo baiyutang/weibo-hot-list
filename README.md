@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 00:06:15
+## 微博今日热榜 更新于 2021-09-11 01:09:21
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -106,4 +106,14 @@
 1. [蔡文静婚纱造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%A9%9A%E7%BA%B1%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 1. [杭州亚运会倒计时一周年主题活动](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%80%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%B4%BB%E5%8A%A8%23&Refer=top)
+
+1. [微观中国东盟博览会](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E8%A7%82%E4%B8%AD%E5%9B%BD%E4%B8%9C%E7%9B%9F%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=new_time)
+
+1. [亚马逊关闭大量刷单电商店铺](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%B3%E9%97%AD%E5%A4%A7%E9%87%8F%E5%88%B7%E5%8D%95%E7%94%B5%E5%95%86%E5%BA%97%E9%93%BA%23&Refer=top)
+
+1. [赵丽颖张碧晨合唱星空剪影](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%90%88%E5%94%B1%E6%98%9F%E7%A9%BA%E5%89%AA%E5%BD%B1%23&Refer=top)
+
+1. [千书真把秀莲推下海](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B9%A6%E7%9C%9F%E6%8A%8A%E7%A7%80%E8%8E%B2%E6%8E%A8%E4%B8%8B%E6%B5%B7%23&Refer=top)
+
+1. [成都地铁在建工地坍塌4死14伤](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%9D%8D%E5%A1%8C4%E6%AD%BB14%E4%BC%A4%23&Refer=top)
 
