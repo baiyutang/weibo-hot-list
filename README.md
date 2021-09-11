@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 12:05:34
+## 微博今日热榜 更新于 2021-09-11 13:03:24
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -252,4 +252,24 @@
 1. [老人获他人帮助两天后10倍奉还](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E8%8E%B7%E4%BB%96%E4%BA%BA%E5%B8%AE%E5%8A%A9%E4%B8%A4%E5%A4%A9%E5%90%8E10%E5%80%8D%E5%A5%89%E8%BF%98%23&Refer=top)
 
 1. [张帅晋级美网女双决赛](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B8%85%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%91%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [小姑娘一做数学就眼睛过敏](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%A7%91%E5%A8%98%E4%B8%80%E5%81%9A%E6%95%B0%E5%AD%A6%E5%B0%B1%E7%9C%BC%E7%9D%9B%E8%BF%87%E6%95%8F&Refer=top)
+
+1. [你永远想不到在春熙路能遇到谁](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E6%83%B3%E4%B8%8D%E5%88%B0%E5%9C%A8%E6%98%A5%E7%86%99%E8%B7%AF%E8%83%BD%E9%81%87%E5%88%B0%E8%B0%81%23&Refer=top)
+
+1. [朱一龙黄志忠互晒峰爆剧照](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BB%84%E5%BF%97%E5%BF%A0%E4%BA%92%E6%99%92%E5%B3%B0%E7%88%86%E5%89%A7%E7%85%A7%23&Refer=top)
+
+1. [汶川地震截肢女孩获授全国五一劳动奖章](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E6%88%AA%E8%82%A2%E5%A5%B3%E5%AD%A9%E8%8E%B7%E6%8E%88%E5%85%A8%E5%9B%BD%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E5%A5%96%E7%AB%A0%23&Refer=top)
+
+1. [如何判断一个人得了心梗](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%BE%97%E4%BA%86%E5%BF%83%E6%A2%97%23&Refer=top)
+
+1. [俄罗斯外交部就俄选举召见美国大使](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E4%BF%84%E9%80%89%E4%B8%BE%E5%8F%AC%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%23&Refer=top)
+
+1. [出生在教师世家是什么体验](https://s.weibo.com//weibo?q=%23%E5%87%BA%E7%94%9F%E5%9C%A8%E6%95%99%E5%B8%88%E4%B8%96%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [当机器人跟狗狗抢食物](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%9F%E7%8B%97%E7%8B%97%E6%8A%A2%E9%A3%9F%E7%89%A9%23&Refer=top)
+
+1. [唱出了口音版杰伦](https://s.weibo.com//weibo?q=%23%E5%94%B1%E5%87%BA%E4%BA%86%E5%8F%A3%E9%9F%B3%E7%89%88%E6%9D%B0%E4%BC%A6%23&Refer=top)
+
+1. [一建考试](https://s.weibo.com//weibo?q=%E4%B8%80%E5%BB%BA%E8%80%83%E8%AF%95&Refer=top)
 
