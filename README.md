@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 05:04:14
+## 微博今日热榜 更新于 2021-09-12 06:03:26
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [小区物业每件快递收5毛保管费](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E6%AF%8F%E4%BB%B6%E5%BF%AB%E9%80%92%E6%94%B65%E6%AF%9B%E4%BF%9D%E7%AE%A1%E8%B4%B9%23&Refer=top)
 
 1. [男子报警称4个妖精放火烧了他家](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B04%E4%B8%AA%E5%A6%96%E7%B2%BE%E6%94%BE%E7%81%AB%E7%83%A7%E4%BA%86%E4%BB%96%E5%AE%B6%23&Refer=top)
+
+1. [中方期待同金砖伙伴深化合作](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85%E5%90%8C%E9%87%91%E7%A0%96%E4%BC%99%E4%BC%B4%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C%23&Refer=new_time)
+
+1. [符龙飞国风新歌献给巾帼英雄](https://s.weibo.com//weibo?q=%23%E7%AC%A6%E9%BE%99%E9%A3%9E%E5%9B%BD%E9%A3%8E%E6%96%B0%E6%AD%8C%E7%8C%AE%E7%BB%99%E5%B7%BE%E5%B8%BC%E8%8B%B1%E9%9B%84%23&Refer=top)
 
