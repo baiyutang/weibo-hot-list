@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 13:03:24
+## 微博今日热榜 更新于 2021-09-11 14:05:43
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -272,4 +272,24 @@
 1. [唱出了口音版杰伦](https://s.weibo.com//weibo?q=%23%E5%94%B1%E5%87%BA%E4%BA%86%E5%8F%A3%E9%9F%B3%E7%89%88%E6%9D%B0%E4%BC%A6%23&Refer=top)
 
 1. [一建考试](https://s.weibo.com//weibo?q=%E4%B8%80%E5%BB%BA%E8%80%83%E8%AF%95&Refer=top)
+
+1. [张雨绮李柄熹的吻跨越黄河](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%9D%8E%E6%9F%84%E7%86%B9%E7%9A%84%E5%90%BB%E8%B7%A8%E8%B6%8A%E9%BB%84%E6%B2%B3%23&Refer=top)
+
+1. [何泓姗晒九龄受伤妆](https://s.weibo.com//weibo?q=%23%E4%BD%95%E6%B3%93%E5%A7%97%E6%99%92%E4%B9%9D%E9%BE%84%E5%8F%97%E4%BC%A4%E5%A6%86%23&Refer=top)
+
+1. [终于知道鱼为什么怕猫了](https://s.weibo.com//weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%B1%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%95%E7%8C%AB%E4%BA%86%23&Refer=top)
+
+1. [狗子的编制不是白拿的](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E7%9A%84%E7%BC%96%E5%88%B6%E4%B8%8D%E6%98%AF%E7%99%BD%E6%8B%BF%E7%9A%84%23&Refer=top)
+
+1. [全世界的闺蜜都是这样吗](https://s.weibo.com//weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E9%97%BA%E8%9C%9C%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E5%90%97&Refer=top)
+
+1. [李兰迪醉酒反应太真实](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E9%86%89%E9%85%92%E5%8F%8D%E5%BA%94%E5%A4%AA%E7%9C%9F%E5%AE%9E%23&Refer=top)
+
+1. [佟丽娅上班用跑的](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E4%B8%8A%E7%8F%AD%E7%94%A8%E8%B7%91%E7%9A%84%23&Refer=top)
+
+1. [周扬青罗昊重回朋友关系](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E7%BD%97%E6%98%8A%E9%87%8D%E5%9B%9E%E6%9C%8B%E5%8F%8B%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [被许嵩薛之谦戴佩妮导师课笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%AE%B8%E5%B5%A9%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%B4%E4%BD%A9%E5%A6%AE%E5%AF%BC%E5%B8%88%E8%AF%BE%E7%AC%91%E6%AD%BB%23&Refer=top)
+
+1. [网友在三星堆里集齐了一座动物园](https://s.weibo.com//weibo?q=%E7%BD%91%E5%8F%8B%E5%9C%A8%E4%B8%89%E6%98%9F%E5%A0%86%E9%87%8C%E9%9B%86%E9%BD%90%E4%BA%86%E4%B8%80%E5%BA%A7%E5%8A%A8%E7%89%A9%E5%9B%AD&Refer=top)
 
