@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 18:04:07
+## 微博今日热榜 更新于 2021-09-11 19:05:10
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -390,4 +390,36 @@
 1. [福建仙游三地升级为中风险](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E4%B8%89%E5%9C%B0%E5%8D%87%E7%BA%A7%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
 
 1. [关于我妈的一切点映](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E5%A6%88%E7%9A%84%E4%B8%80%E5%88%87%E7%82%B9%E6%98%A0%23&Refer=top)
+
+1. [莆田此轮疫情报告24例核酸阳性](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E6%AD%A4%E8%BD%AE%E7%96%AB%E6%83%85%E6%8A%A5%E5%91%8A24%E4%BE%8B%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [大一准备考研会不会太早](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%B8%80%E5%87%86%E5%A4%87%E8%80%83%E7%A0%94%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E6%97%A9%23&Refer=top)
+
+1. [金晨顶碗](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E9%A1%B6%E7%A2%97%23&Refer=top)
+
+1. [初判莆田此次疫情毒株为德尔塔毒株](https://s.weibo.com//weibo?q=%23%E5%88%9D%E5%88%A4%E8%8E%86%E7%94%B0%E6%AD%A4%E6%AC%A1%E7%96%AB%E6%83%85%E6%AF%92%E6%A0%AA%E4%B8%BA%E5%BE%B7%E5%B0%94%E5%A1%94%E6%AF%92%E6%A0%AA%23&Refer=top)
+
+1. [佟丽娅科普新疆舞翻腕儿](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E7%A7%91%E6%99%AE%E6%96%B0%E7%96%86%E8%88%9E%E7%BF%BB%E8%85%95%E5%84%BF%23&Refer=top)
+
+1. [莆田汽车站所有省市际班车停运](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E6%B1%BD%E8%BD%A6%E7%AB%99%E6%89%80%E6%9C%89%E7%9C%81%E5%B8%82%E9%99%85%E7%8F%AD%E8%BD%A6%E5%81%9C%E8%BF%90%23&Refer=top)
+
+1. [张桂梅的学生回到华坪女高教书](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E7%9A%84%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%88%B0%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%E6%95%99%E4%B9%A6%23&Refer=top)
+
+1. [莆田2地高风险5地中风险](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B02%E5%9C%B0%E9%AB%98%E9%A3%8E%E9%99%A95%E5%9C%B0%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [相处多久适合结婚](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E5%A4%84%E5%A4%9A%E4%B9%85%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A%23&Refer=top)
+
+1. [莆田累计发现6例确诊18例无症状](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E7%B4%AF%E8%AE%A1%E5%8F%91%E7%8E%B06%E4%BE%8B%E7%A1%AE%E8%AF%8A18%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
+
+1. [超新星还有赛车项目](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%96%B0%E6%98%9F%E8%BF%98%E6%9C%89%E8%B5%9B%E8%BD%A6%E9%A1%B9%E7%9B%AE%23&Refer=top)
+
+1. [起底美国冠状病毒之父与德堡的关系](https://s.weibo.com//weibo?q=%23%E8%B5%B7%E5%BA%95%E7%BE%8E%E5%9B%BD%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E4%B9%8B%E7%88%B6%E4%B8%8E%E5%BE%B7%E5%A0%A1%E7%9A%84%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [博美犬可以有多敏捷](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E7%BE%8E%E7%8A%AC%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%95%8F%E6%8D%B7%23&Refer=top)
+
+1. [兰州文化一定要来感受下](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E6%96%87%E5%8C%96%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%E6%84%9F%E5%8F%97%E4%B8%8B%23&Refer=top)
+
+1. [20年阿富汗战争致1100万人沦为难民](https://s.weibo.com//weibo?q=%2320%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E4%BA%89%E8%87%B41100%E4%B8%87%E4%BA%BA%E6%B2%A6%E4%B8%BA%E9%9A%BE%E6%B0%91%23&Refer=top)
+
+1. [关于我妈的一切母女特辑](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E5%A6%88%E7%9A%84%E4%B8%80%E5%88%87%E6%AF%8D%E5%A5%B3%E7%89%B9%E8%BE%91%23&Refer=top)
 
