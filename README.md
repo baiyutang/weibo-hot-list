@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 16:04:40
+## 微博今日热榜 更新于 2021-09-11 17:03:27
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -348,4 +348,26 @@
 1. [塔利班已处决阿富汗前副总统的哥哥](https://s.weibo.com//weibo?q=%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B7%B2%E5%A4%84%E5%86%B3%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E7%9A%84%E5%93%A5%E5%93%A5&Refer=top)
 
 1. [C罗将迎回归首秀](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E5%B0%86%E8%BF%8E%E5%9B%9E%E5%BD%92%E9%A6%96%E7%A7%80%23&Refer=top)
+
+1. [阿朵谈李莎旻子不自信的原因](https://s.weibo.com//weibo?q=%23%E9%98%BF%E6%9C%B5%E8%B0%88%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E4%B8%8D%E8%87%AA%E4%BF%A1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [谈恋爱后要融入对方的朋友圈吗](https://s.weibo.com//weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%8E%E8%A6%81%E8%9E%8D%E5%85%A5%E5%AF%B9%E6%96%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97%23&Refer=top)
+
+1. [14家平台将限流禁言清理6类账号](https://s.weibo.com//weibo?q=%2314%E5%AE%B6%E5%B9%B3%E5%8F%B0%E5%B0%86%E9%99%90%E6%B5%81%E7%A6%81%E8%A8%80%E6%B8%85%E7%90%866%E7%B1%BB%E8%B4%A6%E5%8F%B7%23&Refer=top)
+
+1. [微博抖音等将共享严重违规账号信息](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%8A%96%E9%9F%B3%E7%AD%89%E5%B0%86%E5%85%B1%E4%BA%AB%E4%B8%A5%E9%87%8D%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B7%E4%BF%A1%E6%81%AF%23&Refer=top)
+
+1. [演出行业协会联合多平台发起自律公约](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%87%BA%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E8%81%94%E5%90%88%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8F%91%E8%B5%B7%E8%87%AA%E5%BE%8B%E5%85%AC%E7%BA%A6%23&Refer=top)
+
+1. [刘宇蓝色赛车服造型](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E8%93%9D%E8%89%B2%E8%B5%9B%E8%BD%A6%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [许嵩请村民吃长桌宴](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%B5%A9%E8%AF%B7%E6%9D%91%E6%B0%91%E5%90%83%E9%95%BF%E6%A1%8C%E5%AE%B4%23&Refer=top)
+
+1. [福建莆田发现6人核酸阳性](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E5%8F%91%E7%8E%B06%E4%BA%BA%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [上个学把孩子愁成什么样了](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%AA%E5%AD%A6%E6%8A%8A%E5%AD%A9%E5%AD%90%E6%84%81%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top)
+
+1. [行星地质学女博士回应报考社区干事](https://s.weibo.com//weibo?q=%23%E8%A1%8C%E6%98%9F%E5%9C%B0%E8%B4%A8%E5%AD%A6%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%8A%A5%E8%80%83%E7%A4%BE%E5%8C%BA%E5%B9%B2%E4%BA%8B%23&Refer=top)
+
+1. [你三叔还是你三叔](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%B8%89%E5%8F%94%E8%BF%98%E6%98%AF%E4%BD%A0%E4%B8%89%E5%8F%94%23&Refer=top)
 
