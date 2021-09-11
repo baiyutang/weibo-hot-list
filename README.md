@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 21:10:58
+## 微博今日热榜 更新于 2021-09-11 22:03:27
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -478,4 +478,32 @@
 1. [谭警官经典名场面](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E8%AD%A6%E5%AE%98%E7%BB%8F%E5%85%B8%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
 
 1. [谢娜女儿小名小咘芽](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%A5%B3%E5%84%BF%E5%B0%8F%E5%90%8D%E5%B0%8F%E5%92%98%E8%8A%BD%23&Refer=top)
+
+1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
+
+1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
+
+1. [张艺兴说每个学krump的人都是小可爱](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E6%AF%8F%E4%B8%AA%E5%AD%A6krump%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%B0%8F%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [河南老中医免费看病只开药方不卖药](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%81%E4%B8%AD%E5%8C%BB%E5%85%8D%E8%B4%B9%E7%9C%8B%E7%97%85%E5%8F%AA%E5%BC%80%E8%8D%AF%E6%96%B9%E4%B8%8D%E5%8D%96%E8%8D%AF%23&Refer=top)
+
+1. [任嘉伦问我们开始了吗](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E9%97%AE%E6%88%91%E4%BB%AC%E5%BC%80%E5%A7%8B%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [王一博舞台解读能力](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%88%9E%E5%8F%B0%E8%A7%A3%E8%AF%BB%E8%83%BD%E5%8A%9B%23&Refer=top)
+
+1. [父亲送女儿上大学转身抹泪](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%BD%AC%E8%BA%AB%E6%8A%B9%E6%B3%AA%23&Refer=top)
+
+1. [贵州美食为什么以酸代盐](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%BE%8E%E9%A3%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%A5%E9%85%B8%E4%BB%A3%E7%9B%90%23&Refer=top)
+
+1. [王嘉尔的起床仪式感](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E8%B5%B7%E5%BA%8A%E4%BB%AA%E5%BC%8F%E6%84%9F%23&Refer=top)
+
+1. [从白天社死到黑夜](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%99%BD%E5%A4%A9%E7%A4%BE%E6%AD%BB%E5%88%B0%E9%BB%91%E5%A4%9C%23&Refer=top)
+
+1. [军训服能有多不合身](https://s.weibo.com//weibo?q=%23%E5%86%9B%E8%AE%AD%E6%9C%8D%E8%83%BD%E6%9C%89%E5%A4%9A%E4%B8%8D%E5%90%88%E8%BA%AB%23&Refer=top)
+
+1. [成毅沉香如屑饭拍图](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E9%A5%AD%E6%8B%8D%E5%9B%BE%23&Refer=top)
+
+1. [央视揭票务行业乱象](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A5%A8%E5%8A%A1%E8%A1%8C%E4%B8%9A%E4%B9%B1%E8%B1%A1%23&Refer=top)
+
+1. [乌方不排除与俄罗斯爆发战争可能性](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E6%96%B9%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%88%86%E5%8F%91%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E6%80%A7%23&Refer=top)
 
