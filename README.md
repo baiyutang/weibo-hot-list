@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 10:18:34
+## 微博今日热榜 更新于 2021-09-11 11:04:06
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -208,4 +208,24 @@
 1. [灭霸阿姨做蚊虫作息表送顾客](https://s.weibo.com//weibo?q=%23%E7%81%AD%E9%9C%B8%E9%98%BF%E5%A7%A8%E5%81%9A%E8%9A%8A%E8%99%AB%E4%BD%9C%E6%81%AF%E8%A1%A8%E9%80%81%E9%A1%BE%E5%AE%A2%23&Refer=top)
 
 1. [台风灿都影响浙江](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%83%BD%E5%BD%B1%E5%93%8D%E6%B5%99%E6%B1%9F%23&Refer=top)
+
+1. [你能接受舍友的朋友频繁串寝吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E8%88%8D%E5%8F%8B%E7%9A%84%E6%9C%8B%E5%8F%8B%E9%A2%91%E7%B9%81%E4%B8%B2%E5%AF%9D%E5%90%97%23&Refer=top)
+
+1. [五哈已经录完了一期](https://s.weibo.com//weibo?q=%23%E4%BA%94%E5%93%88%E5%B7%B2%E7%BB%8F%E5%BD%95%E5%AE%8C%E4%BA%86%E4%B8%80%E6%9C%9F%23&Refer=top)
+
+1. [钟汉良17岁学生照](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF17%E5%B2%81%E5%AD%A6%E7%94%9F%E7%85%A7%23&Refer=top)
+
+1. [保安脑死亡抢救超48小时不被认定工伤](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%89%E8%84%91%E6%AD%BB%E4%BA%A1%E6%8A%A2%E6%95%91%E8%B6%8548%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4%23&Refer=top)
+
+1. [赵丽颖中餐厅DNA动了](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%AD%E9%A4%90%E5%8E%85DNA%E5%8A%A8%E4%BA%86%23&Refer=top)
+
+1. [小美人鱼真人电影定档](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%E7%9C%9F%E4%BA%BA%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [李云迪抱了又没完全抱](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BA%91%E8%BF%AA%E6%8A%B1%E4%BA%86%E5%8F%88%E6%B2%A1%E5%AE%8C%E5%85%A8%E6%8A%B1%23&Refer=top)
+
+1. [檀健次中餐厅职业微笑](https://s.weibo.com//weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%AD%E9%A4%90%E5%8E%85%E8%81%8C%E4%B8%9A%E5%BE%AE%E7%AC%91%23&Refer=top)
+
+1. [ModelY高性能版涨价1万元](https://s.weibo.com//weibo?q=%23ModelY%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88%E6%B6%A8%E4%BB%B71%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [人类厨艺天花板](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%8E%A8%E8%89%BA%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
 
