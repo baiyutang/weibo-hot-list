@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 17:03:27
+## 微博今日热榜 更新于 2021-09-11 18:04:07
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -370,4 +370,24 @@
 1. [行星地质学女博士回应报考社区干事](https://s.weibo.com//weibo?q=%23%E8%A1%8C%E6%98%9F%E5%9C%B0%E8%B4%A8%E5%AD%A6%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%8A%A5%E8%80%83%E7%A4%BE%E5%8C%BA%E5%B9%B2%E4%BA%8B%23&Refer=top)
 
 1. [你三叔还是你三叔](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%B8%89%E5%8F%94%E8%BF%98%E6%98%AF%E4%BD%A0%E4%B8%89%E5%8F%94%23&Refer=top)
+
+1. [显微镜下的一百块有多美](https://s.weibo.com//weibo?q=%23%E6%98%BE%E5%BE%AE%E9%95%9C%E4%B8%8B%E7%9A%84%E4%B8%80%E7%99%BE%E5%9D%97%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
+
+1. [吉林省委书记省长一起会见雷军](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%B8%80%E8%B5%B7%E4%BC%9A%E8%A7%81%E9%9B%B7%E5%86%9B%23&Refer=top)
+
+1. [广东一女子当街持刀砍伤丈夫](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E6%8C%81%E5%88%80%E7%A0%8D%E4%BC%A4%E4%B8%88%E5%A4%AB%23&Refer=top)
+
+1. [反诈骗已经刻在民警DNA里了](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E8%AF%88%E9%AA%97%E5%B7%B2%E7%BB%8F%E5%88%BB%E5%9C%A8%E6%B0%91%E8%AD%A6DNA%E9%87%8C%E4%BA%86%23&Refer=top)
+
+1. [工信部要求限期解除屏蔽网址链接](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E8%A6%81%E6%B1%82%E9%99%90%E6%9C%9F%E8%A7%A3%E9%99%A4%E5%B1%8F%E8%94%BD%E7%BD%91%E5%9D%80%E9%93%BE%E6%8E%A5%23&Refer=top)
+
+1. [乱港团体香港教协解散](https://s.weibo.com//weibo?q=%23%E4%B9%B1%E6%B8%AF%E5%9B%A2%E4%BD%93%E9%A6%99%E6%B8%AF%E6%95%99%E5%8D%8F%E8%A7%A3%E6%95%A3%23&Refer=top)
+
+1. [福建仙游公交公司所有车辆停运](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E5%85%AC%E4%BA%A4%E5%85%AC%E5%8F%B8%E6%89%80%E6%9C%89%E8%BD%A6%E8%BE%86%E5%81%9C%E8%BF%90%23&Refer=top)
+
+1. [中演协明确发布6类内容将被限流禁言](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%BC%94%E5%8D%8F%E6%98%8E%E7%A1%AE%E5%8F%91%E5%B8%836%E7%B1%BB%E5%86%85%E5%AE%B9%E5%B0%86%E8%A2%AB%E9%99%90%E6%B5%81%E7%A6%81%E8%A8%80%23&Refer=top)
+
+1. [福建仙游三地升级为中风险](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E4%B8%89%E5%9C%B0%E5%8D%87%E7%BA%A7%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+
+1. [关于我妈的一切点映](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E5%A6%88%E7%9A%84%E4%B8%80%E5%88%87%E7%82%B9%E6%98%A0%23&Refer=top)
 
