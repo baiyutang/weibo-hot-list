@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 15:03:47
+## 微博今日热榜 更新于 2021-09-11 16:04:40
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -314,4 +314,38 @@
 1. [东北人说话有多爱加的](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%9C%89%E5%A4%9A%E7%88%B1%E5%8A%A0%E7%9A%84%23&Refer=top)
 
 1. [还以为周杰伦去军训了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8E%BB%E5%86%9B%E8%AE%AD%E4%BA%86%23&Refer=top)
+
+1. [男子报警称4个妖精放火烧了他家](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B04%E4%B8%AA%E5%A6%96%E7%B2%BE%E6%94%BE%E7%81%AB%E7%83%A7%E4%BA%86%E4%BB%96%E5%AE%B6%23&Refer=top)
+
+1. [室友睡过头你会叫醒他们吗](https://s.weibo.com//weibo?q=%23%E5%AE%A4%E5%8F%8B%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BD%A0%E4%BC%9A%E5%8F%AB%E9%86%92%E4%BB%96%E4%BB%AC%E5%90%97%23&Refer=top)
+
+1. [出生6天宝宝被月嫂摔成颅骨骨折](https://s.weibo.com//weibo?q=%23%E5%87%BA%E7%94%9F6%E5%A4%A9%E5%AE%9D%E5%AE%9D%E8%A2%AB%E6%9C%88%E5%AB%82%E6%91%94%E6%88%90%E9%A2%85%E9%AA%A8%E9%AA%A8%E6%8A%98%23&Refer=top)
+
+1. [女子疑整形失败院方称解剖才能证明](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E6%95%B4%E5%BD%A2%E5%A4%B1%E8%B4%A5%E9%99%A2%E6%96%B9%E7%A7%B0%E8%A7%A3%E5%89%96%E6%89%8D%E8%83%BD%E8%AF%81%E6%98%8E%23&Refer=top)
+
+1. [百色地震](https://s.weibo.com//weibo?q=%E7%99%BE%E8%89%B2%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [90后不认识单田芳](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E4%B8%8D%E8%AE%A4%E8%AF%86%E5%8D%95%E7%94%B0%E8%8A%B3%23&Refer=top)
+
+1. [周深回应利路修说自己会武功](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E5%88%A9%E8%B7%AF%E4%BF%AE%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BC%9A%E6%AD%A6%E5%8A%9F%23&Refer=top)
+
+1. [构建清朗网络文化生态自律公约](https://s.weibo.com//weibo?q=%23%E6%9E%84%E5%BB%BA%E6%B8%85%E6%9C%97%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E7%94%9F%E6%80%81%E8%87%AA%E5%BE%8B%E5%85%AC%E7%BA%A6%23&Refer=top)
+
+1. [南京搜爆犬要接受拒食训练](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%90%9C%E7%88%86%E7%8A%AC%E8%A6%81%E6%8E%A5%E5%8F%97%E6%8B%92%E9%A3%9F%E8%AE%AD%E7%BB%83%23&Refer=top)
+
+1. [这香油放了但又没完全放](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A6%99%E6%B2%B9%E6%94%BE%E4%BA%86%E4%BD%86%E5%8F%88%E6%B2%A1%E5%AE%8C%E5%85%A8%E6%94%BE%23&Refer=top)
+
+1. [元龙男二实惨](https://s.weibo.com//weibo?q=%23%E5%85%83%E9%BE%99%E7%94%B7%E4%BA%8C%E5%AE%9E%E6%83%A8%23&Refer=top)
+
+1. [男孩放学没人接请求店主送回家](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E6%94%BE%E5%AD%A6%E6%B2%A1%E4%BA%BA%E6%8E%A5%E8%AF%B7%E6%B1%82%E5%BA%97%E4%B8%BB%E9%80%81%E5%9B%9E%E5%AE%B6%23&Refer=top)
+
+1. [全运会跳水上演神仙打架](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E4%B8%8A%E6%BC%94%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%23&Refer=top)
+
+1. [双探爷青回阵容](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%8E%A2%E7%88%B7%E9%9D%92%E5%9B%9E%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [警方回应多名未成年男生暴力霸凌](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E7%94%9F%E6%9A%B4%E5%8A%9B%E9%9C%B8%E5%87%8C%23&Refer=top)
+
+1. [塔利班已处决阿富汗前副总统的哥哥](https://s.weibo.com//weibo?q=%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B7%B2%E5%A4%84%E5%86%B3%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E7%9A%84%E5%93%A5%E5%93%A5&Refer=top)
+
+1. [C罗将迎回归首秀](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E5%B0%86%E8%BF%8E%E5%9B%9E%E5%BD%92%E9%A6%96%E7%A7%80%23&Refer=top)
 
