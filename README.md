@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 14:05:43
+## 微博今日热榜 更新于 2021-09-11 15:03:47
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -292,4 +292,26 @@
 1. [被许嵩薛之谦戴佩妮导师课笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%AE%B8%E5%B5%A9%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%B4%E4%BD%A9%E5%A6%AE%E5%AF%BC%E5%B8%88%E8%AF%BE%E7%AC%91%E6%AD%BB%23&Refer=top)
 
 1. [网友在三星堆里集齐了一座动物园](https://s.weibo.com//weibo?q=%E7%BD%91%E5%8F%8B%E5%9C%A8%E4%B8%89%E6%98%9F%E5%A0%86%E9%87%8C%E9%9B%86%E9%BD%90%E4%BA%86%E4%B8%80%E5%BA%A7%E5%8A%A8%E7%89%A9%E5%9B%AD&Refer=top)
+
+1. [耳根子软的人不要来西藏](https://s.weibo.com//weibo?q=%23%E8%80%B3%E6%A0%B9%E5%AD%90%E8%BD%AF%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E6%9D%A5%E8%A5%BF%E8%97%8F%23&Refer=top)
+
+1. [孟子义朋友问男嘉宾在立完美人设吗](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9C%8B%E5%8F%8B%E9%97%AE%E7%94%B7%E5%98%89%E5%AE%BE%E5%9C%A8%E7%AB%8B%E5%AE%8C%E7%BE%8E%E4%BA%BA%E8%AE%BE%E5%90%97%23&Refer=top)
+
+1. [全红婵预赛第一晋级半决赛](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%A2%84%E8%B5%9B%E7%AC%AC%E4%B8%80%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [李莎旻子 不努力连输的资格都没有](https://s.weibo.com//weibo?q=%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%20%E4%B8%8D%E5%8A%AA%E5%8A%9B%E8%BF%9E%E8%BE%93%E7%9A%84%E8%B5%84%E6%A0%BC%E9%83%BD%E6%B2%A1%E6%9C%89&Refer=top)
+
+1. [学生回应快递多到把路堵死](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E5%BF%AB%E9%80%92%E5%A4%9A%E5%88%B0%E6%8A%8A%E8%B7%AF%E5%A0%B5%E6%AD%BB%23&Refer=top)
+
+1. [隔壁老樊李莎旻子因即兴弹唱起分歧](https://s.weibo.com//weibo?q=%23%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%9B%A0%E5%8D%B3%E5%85%B4%E5%BC%B9%E5%94%B1%E8%B5%B7%E5%88%86%E6%AD%A7%23&Refer=top)
+
+1. [超新星运动会上班图](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%96%B0%E6%98%9F%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%8A%E7%8F%AD%E5%9B%BE%23&Refer=top)
+
+1. [张家界天门山的索道有多刺激](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%A4%A9%E9%97%A8%E5%B1%B1%E7%9A%84%E7%B4%A2%E9%81%93%E6%9C%89%E5%A4%9A%E5%88%BA%E6%BF%80%23&Refer=top)
+
+1. [皮箱藏尸案嫌疑人朋友圈](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+
+1. [东北人说话有多爱加的](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%9C%89%E5%A4%9A%E7%88%B1%E5%8A%A0%E7%9A%84%23&Refer=top)
+
+1. [还以为周杰伦去军训了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8E%BB%E5%86%9B%E8%AE%AD%E4%BA%86%23&Refer=top)
 
