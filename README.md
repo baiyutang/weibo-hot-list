@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 07:03:39
+## 微博今日热榜 更新于 2021-09-11 08:17:54
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -136,4 +136,34 @@
 1. [张桂梅校长的毕生所愿](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E6%A0%A1%E9%95%BF%E7%9A%84%E6%AF%95%E7%94%9F%E6%89%80%E6%84%BF%23&Refer=top)
 
 1. [零糖饮料并不等于没有糖](https://s.weibo.com//weibo?q=%23%E9%9B%B6%E7%B3%96%E9%A5%AE%E6%96%99%E5%B9%B6%E4%B8%8D%E7%AD%89%E4%BA%8E%E6%B2%A1%E6%9C%89%E7%B3%96%23&Refer=top)
+
+1. [世纪之问中美如何解答](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%BA%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E7%BE%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E7%AD%94%23&Refer=new_time)
+
+1. [男孩当街踹妈妈保安制止反被吼](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E5%BD%93%E8%A1%97%E8%B8%B9%E5%A6%88%E5%A6%88%E4%BF%9D%E5%AE%89%E5%88%B6%E6%AD%A2%E5%8F%8D%E8%A2%AB%E5%90%BC%23&Refer=top)
+
+1. [周也抱孩子的熟练程度](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E6%8A%B1%E5%AD%A9%E5%AD%90%E7%9A%84%E7%86%9F%E7%BB%83%E7%A8%8B%E5%BA%A6%23&Refer=top)
+
+1. [张碧晨我是来干饭的](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%88%91%E6%98%AF%E6%9D%A5%E5%B9%B2%E9%A5%AD%E7%9A%84%23&Refer=top)
+
+1. [911事件20年](https://s.weibo.com//weibo?q=%23911%E4%BA%8B%E4%BB%B620%E5%B9%B4%23&Refer=top)
+
+1. [傅首尔 所有的原生家庭都有问题](https://s.weibo.com//weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%20%E6%89%80%E6%9C%89%E7%9A%84%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E9%83%BD%E6%9C%89%E9%97%AE%E9%A2%98&Refer=top)
+
+1. [重庆一对闺蜜公厕遇害](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%AF%B9%E9%97%BA%E8%9C%9C%E5%85%AC%E5%8E%95%E9%81%87%E5%AE%B3%23&Refer=top)
+
+1. [湖人得到王哲林签约权](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E5%BE%97%E5%88%B0%E7%8E%8B%E5%93%B2%E6%9E%97%E7%AD%BE%E7%BA%A6%E6%9D%83&Refer=top)
+
+1. [高考623分外卖小哥已入学报到](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83623%E5%88%86%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B7%B2%E5%85%A5%E5%AD%A6%E6%8A%A5%E5%88%B0%23&Refer=top)
+
+1. [AG好有钱](https://s.weibo.com//weibo?q=%23AG%E5%A5%BD%E6%9C%89%E9%92%B1%23&Refer=top)
+
+1. [心脏骤停1分钟内人的变化](https://s.weibo.com//weibo?q=%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C1%E5%88%86%E9%92%9F%E5%86%85%E4%BA%BA%E7%9A%84%E5%8F%98%E5%8C%96&Refer=top)
+
+1. [丁真社交尴尬症](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E7%A4%BE%E4%BA%A4%E5%B0%B4%E5%B0%AC%E7%97%87%23&Refer=top)
+
+1. [换乘恋爱](https://s.weibo.com//weibo?q=%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1&Refer=top)
+
+1. [天降水杯插进汽车挡风玻璃](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%99%8D%E6%B0%B4%E6%9D%AF%E6%8F%92%E8%BF%9B%E6%B1%BD%E8%BD%A6%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83%23&Refer=top)
+
+1. [90婚介所神仙售后](https://s.weibo.com//weibo?q=%2390%E5%A9%9A%E4%BB%8B%E6%89%80%E7%A5%9E%E4%BB%99%E5%94%AE%E5%90%8E%23&Refer=top)
 
