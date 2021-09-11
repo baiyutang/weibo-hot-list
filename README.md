@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 08:17:54
+## 微博今日热榜 更新于 2021-09-11 09:44:53
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -166,4 +166,30 @@
 1. [天降水杯插进汽车挡风玻璃](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%99%8D%E6%B0%B4%E6%9D%AF%E6%8F%92%E8%BF%9B%E6%B1%BD%E8%BD%A6%E6%8C%A1%E9%A3%8E%E7%8E%BB%E7%92%83%23&Refer=top)
 
 1. [90婚介所神仙售后](https://s.weibo.com//weibo?q=%2390%E5%A9%9A%E4%BB%8B%E6%89%80%E7%A5%9E%E4%BB%99%E5%94%AE%E5%90%8E%23&Refer=top)
+
+1. [全红婵水花消失术训练集锦](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E8%AE%AD%E7%BB%83%E9%9B%86%E9%94%A6%23&Refer=top)
+
+1. [911后的20年美国怎么了](https://s.weibo.com//weibo?q=%23911%E5%90%8E%E7%9A%8420%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86%23&Refer=top)
+
+1. [大连一住户家中发生爆燃致8死5伤](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E4%B8%80%E4%BD%8F%E6%88%B7%E5%AE%B6%E4%B8%AD%E5%8F%91%E7%94%9F%E7%88%86%E7%87%83%E8%87%B48%E6%AD%BB5%E4%BC%A4%23&Refer=top)
+
+1. [穿衣会影响人的性格吗](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%A1%A3%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BA%BA%E7%9A%84%E6%80%A7%E6%A0%BC%E5%90%97%23&Refer=top)
+
+1. [福建莆田新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [孔雪儿被周笔畅套话](https://s.weibo.com//weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E8%A2%AB%E5%91%A8%E7%AC%94%E7%95%85%E5%A5%97%E8%AF%9D%23&Refer=top)
+
+1. [这西瓜也太像柚子了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%A5%BF%E7%93%9C%E4%B9%9F%E5%A4%AA%E5%83%8F%E6%9F%9A%E5%AD%90%E4%BA%86%23&Refer=top)
+
+1. [周笔畅像极了聚会提前到的我本人](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%83%8F%E6%9E%81%E4%BA%86%E8%81%9A%E4%BC%9A%E6%8F%90%E5%89%8D%E5%88%B0%E7%9A%84%E6%88%91%E6%9C%AC%E4%BA%BA%23&Refer=top)
+
+1. [汤姆猫回复关注函](https://s.weibo.com//weibo?q=%23%E6%B1%A4%E5%A7%86%E7%8C%AB%E5%9B%9E%E5%A4%8D%E5%85%B3%E6%B3%A8%E5%87%BD%23&Refer=top)
+
+1. [2021最后四个月考试日历](https://s.weibo.com//weibo?q=%232021%E6%9C%80%E5%90%8E%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%80%83%E8%AF%95%E6%97%A5%E5%8E%86%23&Refer=top)
+
+1. [世界最大吸碳机](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E5%90%B8%E7%A2%B3%E6%9C%BA%23&Refer=top)
+
+1. [每个人都该会的急救知识](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E4%BC%9A%E7%9A%84%E6%80%A5%E6%95%91%E7%9F%A5%E8%AF%86%23&Refer=top)
+
+1. [北京首批校外培训机构白名单](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E6%89%B9%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E7%99%BD%E5%90%8D%E5%8D%95&Refer=top)
 
