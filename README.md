@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 19:05:10
+## 微博今日热榜 更新于 2021-09-11 20:06:58
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -422,4 +422,36 @@
 1. [20年阿富汗战争致1100万人沦为难民](https://s.weibo.com//weibo?q=%2320%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E4%BA%89%E8%87%B41100%E4%B8%87%E4%BA%BA%E6%B2%A6%E4%B8%BA%E9%9A%BE%E6%B0%91%23&Refer=top)
 
 1. [关于我妈的一切母女特辑](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E5%A6%88%E7%9A%84%E4%B8%80%E5%88%87%E6%AF%8D%E5%A5%B3%E7%89%B9%E8%BE%91%23&Refer=top)
+
+1. [中方期待同金砖伙伴深化合作](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85%E5%90%8C%E9%87%91%E7%A0%96%E4%BC%99%E4%BC%B4%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C%23&Refer=new_time)
+
+1. [福建疫情](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E7%96%AB%E6%83%85&Refer=top)
+
+1. [你能接受比你矮的男朋友吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%AF%94%E4%BD%A0%E7%9F%AE%E7%9A%84%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%90%97%23&Refer=top)
+
+1. [80后女友当奶奶小伙要回彩礼](https://s.weibo.com//weibo?q=%2380%E5%90%8E%E5%A5%B3%E5%8F%8B%E5%BD%93%E5%A5%B6%E5%A5%B6%E5%B0%8F%E4%BC%99%E8%A6%81%E5%9B%9E%E5%BD%A9%E7%A4%BC%23&Refer=top)
+
+1. [可乐土豆鸡煲](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E4%B9%90%E5%9C%9F%E8%B1%86%E9%B8%A1%E7%85%B2%23&Refer=top)
+
+1. [弟弟原来是文字隐藏杀手](https://s.weibo.com//weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%96%87%E5%AD%97%E9%9A%90%E8%97%8F%E6%9D%80%E6%89%8B%23&Refer=top)
+
+1. [熬夜的七大好处](https://s.weibo.com//weibo?q=%E7%86%AC%E5%A4%9C%E7%9A%84%E4%B8%83%E5%A4%A7%E5%A5%BD%E5%A4%84&Refer=top)
+
+1. [福建仙游疫情疑似源头病例曾串门](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E7%96%AB%E6%83%85%E7%96%91%E4%BC%BC%E6%BA%90%E5%A4%B4%E7%97%85%E4%BE%8B%E6%9B%BE%E4%B8%B2%E9%97%A8%23&Refer=top)
+
+1. [44岁辅警为保护战友遭遇车祸殉职](https://s.weibo.com//weibo?q=%2344%E5%B2%81%E8%BE%85%E8%AD%A6%E4%B8%BA%E4%BF%9D%E6%8A%A4%E6%88%98%E5%8F%8B%E9%81%AD%E9%81%87%E8%BD%A6%E7%A5%B8%E6%AE%89%E8%81%8C%23&Refer=top)
+
+1. [河北一羽绒加工厂发生窒息事故致6死](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E7%BE%BD%E7%BB%92%E5%8A%A0%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB%23&Refer=top)
+
+1. [试驾车连人带车从3楼坠落](https://s.weibo.com//weibo?q=%23%E8%AF%95%E9%A9%BE%E8%BD%A6%E8%BF%9E%E4%BA%BA%E5%B8%A6%E8%BD%A6%E4%BB%8E3%E6%A5%BC%E5%9D%A0%E8%90%BD%23&Refer=top)
+
+1. [南北方室友的差异大吗](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%B9%E5%AE%A4%E5%8F%8B%E7%9A%84%E5%B7%AE%E5%BC%82%E5%A4%A7%E5%90%97%23&Refer=top)
+
+1. [牛气满满的哥哥古装群像](https://s.weibo.com//weibo?q=%23%E7%89%9B%E6%B0%94%E6%BB%A1%E6%BB%A1%E7%9A%84%E5%93%A5%E5%93%A5%E5%8F%A4%E8%A3%85%E7%BE%A4%E5%83%8F%23&Refer=top)
+
+1. [什么情况下你会毫不犹豫地辞职](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BD%A0%E4%BC%9A%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E5%9C%B0%E8%BE%9E%E8%81%8C%23&Refer=top)
+
+1. [每日虐腹训练](https://s.weibo.com//weibo?q=%E6%AF%8F%E6%97%A5%E8%99%90%E8%85%B9%E8%AE%AD%E7%BB%83&Refer=top)
+
+1. [程亦治吴丽姿双人舞](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E4%BA%A6%E6%B2%BB%E5%90%B4%E4%B8%BD%E5%A7%BF%E5%8F%8C%E4%BA%BA%E8%88%9E%23&Refer=top)
 
