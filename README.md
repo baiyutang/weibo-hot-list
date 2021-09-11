@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-11 09:44:53
+## 微博今日热榜 更新于 2021-09-11 10:18:34
 1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
 
 1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
@@ -192,4 +192,20 @@
 1. [每个人都该会的急救知识](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%A5%E4%BC%9A%E7%9A%84%E6%80%A5%E6%95%91%E7%9F%A5%E8%AF%86%23&Refer=top)
 
 1. [北京首批校外培训机构白名单](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E6%89%B9%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E7%99%BD%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [美国真的学会应对恐怖主义了吗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%AD%A6%E4%BC%9A%E5%BA%94%E5%AF%B9%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E4%BA%86%E5%90%97%23&Refer=top)
+
+1. [贵州男子深夜爬树吃蜂蛹被困](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E7%88%AC%E6%A0%91%E5%90%83%E8%9C%82%E8%9B%B9%E8%A2%AB%E5%9B%B0%23&Refer=top)
+
+1. [911搜救者和附近人群已确诊约70种癌症](https://s.weibo.com//weibo?q=%23911%E6%90%9C%E6%95%91%E8%80%85%E5%92%8C%E9%99%84%E8%BF%91%E4%BA%BA%E7%BE%A4%E5%B7%B2%E7%A1%AE%E8%AF%8A%E7%BA%A670%E7%A7%8D%E7%99%8C%E7%97%87%23&Refer=top)
+
+1. [这是未来的花滑冠军吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%8A%B1%E6%BB%91%E5%86%A0%E5%86%9B%E5%90%A7%23&Refer=top)
+
+1. [物业回应将猫吊尸示众](https://s.weibo.com//weibo?q=%23%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E5%B0%86%E7%8C%AB%E5%90%8A%E5%B0%B8%E7%A4%BA%E4%BC%97%23&Refer=top)
+
+1. [吴海龙怒斥欧盟驻华大使](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%B5%B7%E9%BE%99%E6%80%92%E6%96%A5%E6%AC%A7%E7%9B%9F%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%23&Refer=top)
+
+1. [灭霸阿姨做蚊虫作息表送顾客](https://s.weibo.com//weibo?q=%23%E7%81%AD%E9%9C%B8%E9%98%BF%E5%A7%A8%E5%81%9A%E8%9A%8A%E8%99%AB%E4%BD%9C%E6%81%AF%E8%A1%A8%E9%80%81%E9%A1%BE%E5%AE%A2%23&Refer=top)
+
+1. [台风灿都影响浙江](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%83%BD%E5%BD%B1%E5%93%8D%E6%B5%99%E6%B1%9F%23&Refer=top)
 
