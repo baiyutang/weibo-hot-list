@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 01:10:06
+## 微博今日热榜 更新于 2021-09-12 02:04:05
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [警犬为什么要接受拒食训练](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E7%8A%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8E%A5%E5%8F%97%E6%8B%92%E9%A3%9F%E8%AE%AD%E7%BB%83%23&Refer=top)
 
 1. [河南老中医免费看病只开药方不卖药](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E8%80%81%E4%B8%AD%E5%8C%BB%E5%85%8D%E8%B4%B9%E7%9C%8B%E7%97%85%E5%8F%AA%E5%BC%80%E8%8D%AF%E6%96%B9%E4%B8%8D%E5%8D%96%E8%8D%AF%23&Refer=top)
+
+1. [美国生物实验室内部影像](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%86%85%E9%83%A8%E5%BD%B1%E5%83%8F%23&Refer=top)
+
+1. [九龄前夫和现任打起来了](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E9%BE%84%E5%89%8D%E5%A4%AB%E5%92%8C%E7%8E%B0%E4%BB%BB%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top)
 
