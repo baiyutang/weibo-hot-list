@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 06:03:26
+## 微博今日热榜 更新于 2021-09-12 07:03:41
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
