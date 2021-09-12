@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 19:03:13
+## 微博今日热榜 更新于 2021-09-12 20:06:52
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
@@ -446,4 +446,42 @@
 1. [法国反疫苗抗议爆发大规模群殴](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD%E5%8F%8D%E7%96%AB%E8%8B%97%E6%8A%97%E8%AE%AE%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%BE%A4%E6%AE%B4%23&Refer=top)
 
 1. [背后抱住晕倒女孩的小姐姐找到了](https://s.weibo.com//weibo?q=%23%E8%83%8C%E5%90%8E%E6%8A%B1%E4%BD%8F%E6%99%95%E5%80%92%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top)
+
+1. [推动中欧班列高质量可持续发展](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%8A%A8%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%23&Refer=new_time)
+
+1. [上海停课一天半](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%81%9C%E8%AF%BE%E4%B8%80%E5%A4%A9%E5%8D%8A%23&Refer=top)
+
+1. [全红婵像不像迟到的你](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%83%8F%E4%B8%8D%E5%83%8F%E8%BF%9F%E5%88%B0%E7%9A%84%E4%BD%A0%23&Refer=top)
+
+1. [全红婵一句话冠军感言](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%86%A0%E5%86%9B%E6%84%9F%E8%A8%80%23&Refer=top)
+
+1. [警方辟谣福建仙游给确诊人员戴手铐](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E7%BB%99%E7%A1%AE%E8%AF%8A%E4%BA%BA%E5%91%98%E6%88%B4%E6%89%8B%E9%93%90%23&Refer=top)
+
+1. [5岁萌娃报警捡到2岁娃](https://s.weibo.com//weibo?q=%235%E5%B2%81%E8%90%8C%E5%A8%83%E6%8A%A5%E8%AD%A6%E6%8D%A1%E5%88%B02%E5%B2%81%E5%A8%83%23&Refer=top)
+
+1. [超强台风灿都](https://s.weibo.com//weibo?q=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%83%BD&Refer=top)
+
+1. [王一博利用休息时间学法语](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%A9%E7%94%A8%E4%BC%91%E6%81%AF%E6%97%B6%E9%97%B4%E5%AD%A6%E6%B3%95%E8%AF%AD%23&Refer=top)
+
+1. [福建泉州泉港区确认4例阳性](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E6%B3%89%E5%B7%9E%E6%B3%89%E6%B8%AF%E5%8C%BA%E7%A1%AE%E8%AE%A44%E4%BE%8B%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [手速慢引发的社死瞬间](https://s.weibo.com//weibo?q=%23%E6%89%8B%E9%80%9F%E6%85%A2%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [程亦治好深情](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E4%BA%A6%E6%B2%BB%E5%A5%BD%E6%B7%B1%E6%83%85%23&Refer=top)
+
+1. [台风灿都在杭州湾徘徊时间将超烟花](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%83%BD%E5%9C%A8%E6%9D%AD%E5%B7%9E%E6%B9%BE%E5%BE%98%E5%BE%8A%E6%97%B6%E9%97%B4%E5%B0%86%E8%B6%85%E7%83%9F%E8%8A%B1%23&Refer=top)
+
+1. [张新成演的程亦治好苏](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E7%9A%84%E7%A8%8B%E4%BA%A6%E6%B2%BB%E5%A5%BD%E8%8B%8F%23&Refer=top)
+
+1. [流浪狗狗赖在消防队8年](https://s.weibo.com//weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8B%97%E7%8B%97%E8%B5%96%E5%9C%A8%E6%B6%88%E9%98%B2%E9%98%9F8%E5%B9%B4%23&Refer=top)
+
+1. [莆田加油厦门来了](https://s.weibo.com//weibo?q=%E8%8E%86%E7%94%B0%E5%8A%A0%E6%B2%B9%E5%8E%A6%E9%97%A8%E6%9D%A5%E4%BA%86&Refer=top)
+
+1. [舞蹈生首映会红毯](https://s.weibo.com//weibo?q=%23%E8%88%9E%E8%B9%88%E7%94%9F%E9%A6%96%E6%98%A0%E4%BC%9A%E7%BA%A2%E6%AF%AF%23&Refer=top)
+
+1. [选高跟凉鞋要注意什么](https://s.weibo.com//weibo?q=%23%E9%80%89%E9%AB%98%E8%B7%9F%E5%87%89%E9%9E%8B%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [英国卡车司机年入5万英镑](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8D%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%B9%B4%E5%85%A55%E4%B8%87%E8%8B%B1%E9%95%91%23&Refer=top)
+
+1. [东博会现场参展商煮起螺蛳粉](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8D%9A%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%8F%82%E5%B1%95%E5%95%86%E7%85%AE%E8%B5%B7%E8%9E%BA%E8%9B%B3%E7%B2%89%23&Refer=top)
 
