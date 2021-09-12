@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 07:03:41
+## 微博今日热榜 更新于 2021-09-12 08:19:33
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
@@ -120,4 +120,20 @@
 1. [中方期待同金砖伙伴深化合作](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85%E5%90%8C%E9%87%91%E7%A0%96%E4%BC%99%E4%BC%B4%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C%23&Refer=new_time)
 
 1. [符龙飞国风新歌献给巾帼英雄](https://s.weibo.com//weibo?q=%23%E7%AC%A6%E9%BE%99%E9%A3%9E%E5%9B%BD%E9%A3%8E%E6%96%B0%E6%AD%8C%E7%8C%AE%E7%BB%99%E5%B7%BE%E5%B8%BC%E8%8B%B1%E9%9B%84%23&Refer=top)
+
+1. [保定致6死羽绒加工厂曾被罚72000元](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%9A%E8%87%B46%E6%AD%BB%E7%BE%BD%E7%BB%92%E5%8A%A0%E5%B7%A5%E5%8E%82%E6%9B%BE%E8%A2%AB%E7%BD%9A72000%E5%85%83%23&Refer=top)
+
+1. [福建仙游疑似源头病例曾跨市流动](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E7%96%91%E4%BC%BC%E6%BA%90%E5%A4%B4%E7%97%85%E4%BE%8B%E6%9B%BE%E8%B7%A8%E5%B8%82%E6%B5%81%E5%8A%A8%23&Refer=top)
+
+1. [女子去弟弟家打扫却收拾了别人家](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E5%BC%9F%E5%BC%9F%E5%AE%B6%E6%89%93%E6%89%AB%E5%8D%B4%E6%94%B6%E6%8B%BE%E4%BA%86%E5%88%AB%E4%BA%BA%E5%AE%B6%23&Refer=top)
+
+1. [薛之谦被感动哭](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%A2%AB%E6%84%9F%E5%8A%A8%E5%93%AD%23&Refer=top)
+
+1. [C罗梅开二度](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
+
+1. [女子哭诉新车被4S店员工撞坏不赔](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E6%96%B0%E8%BD%A6%E8%A2%AB4S%E5%BA%97%E5%91%98%E5%B7%A5%E6%92%9E%E5%9D%8F%E4%B8%8D%E8%B5%94%23&Refer=top)
+
+1. [莆田发公告非必要不离开本市](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E5%8F%91%E5%85%AC%E5%91%8A%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E7%A6%BB%E5%BC%80%E6%9C%AC%E5%B8%82%23&Refer=top)
+
+1. [福建仙游火车站禁止上下客](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E7%81%AB%E8%BD%A6%E7%AB%99%E7%A6%81%E6%AD%A2%E4%B8%8A%E4%B8%8B%E5%AE%A2%23&Refer=top)
 
