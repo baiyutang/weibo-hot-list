@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 17:03:45
+## 微博今日热榜 更新于 2021-09-12 18:03:53
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
@@ -390,4 +390,30 @@
 1. [男子专职给马做美甲月入过万](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%93%E8%81%8C%E7%BB%99%E9%A9%AC%E5%81%9A%E7%BE%8E%E7%94%B2%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%23&Refer=top)
 
 1. [直击莆田抗疫一线](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E5%87%BB%E8%8E%86%E7%94%B0%E6%8A%97%E7%96%AB%E4%B8%80%E7%BA%BF%23&Refer=top)
+
+1. [浙江多地停课](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%81%9C%E8%AF%BE%23&Refer=top)
+
+1. [中国传媒大学2021开学典礼](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A62021%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%23&Refer=top)
+
+1. [小米手机在古巴等六地被禁用](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%8F%A4%E5%B7%B4%E7%AD%89%E5%85%AD%E5%9C%B0%E8%A2%AB%E7%A6%81%E7%94%A8%23&Refer=top)
+
+1. [拜登在911纪念馆外遭人喝倒彩](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%9C%A8911%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%A4%96%E9%81%AD%E4%BA%BA%E5%96%9D%E5%80%92%E5%BD%A9%23&Refer=top)
+
+1. [山东省公安厅交通警察总队总队长主动投案](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E4%BA%A4%E9%80%9A%E8%AD%A6%E5%AF%9F%E6%80%BB%E9%98%9F%E6%80%BB%E9%98%9F%E9%95%BF%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&Refer=top)
+
+1. [没有奶奶缝不了的东西](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%9C%89%E5%A5%B6%E5%A5%B6%E7%BC%9D%E4%B8%8D%E4%BA%86%E7%9A%84%E4%B8%9C%E8%A5%BF%23&Refer=top)
+
+1. [叫姥姥有点费舌头](https://s.weibo.com//weibo?q=%23%E5%8F%AB%E5%A7%A5%E5%A7%A5%E6%9C%89%E7%82%B9%E8%B4%B9%E8%88%8C%E5%A4%B4%23&Refer=top)
+
+1. [王源环球影城vlog](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8Evlog%23&Refer=top)
+
+1. [西安高校定制油泼辣子月饼盲盒](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E9%AB%98%E6%A0%A1%E5%AE%9A%E5%88%B6%E6%B2%B9%E6%B3%BC%E8%BE%A3%E5%AD%90%E6%9C%88%E9%A5%BC%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [乌鸦巧用鲜树叶熄灭起火草堆](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E9%B8%A6%E5%B7%A7%E7%94%A8%E9%B2%9C%E6%A0%91%E5%8F%B6%E7%86%84%E7%81%AD%E8%B5%B7%E7%81%AB%E8%8D%89%E5%A0%86%23&Refer=top)
+
+1. [关注福建新冠疫情](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%B3%A8%E7%A6%8F%E5%BB%BA%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [911遇难者们最后一通电话](https://s.weibo.com//weibo?q=%23911%E9%81%87%E9%9A%BE%E8%80%85%E4%BB%AC%E6%9C%80%E5%90%8E%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%23&Refer=top)
+
+1. [周深一边喝热水一边吹电扇](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%80%E8%BE%B9%E5%96%9D%E7%83%AD%E6%B0%B4%E4%B8%80%E8%BE%B9%E5%90%B9%E7%94%B5%E6%89%87%23&Refer=top)
 
