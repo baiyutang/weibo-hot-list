@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-12 10:19:29
+## 微博今日热榜 更新于 2021-09-12 11:04:50
 1. [2021世界机器人大会](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
 
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
@@ -198,4 +198,20 @@
 1. [莆田一病例此前9次核酸1次血清均阴性](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E4%B8%80%E7%97%85%E4%BE%8B%E6%AD%A4%E5%89%8D9%E6%AC%A1%E6%A0%B8%E9%85%B81%E6%AC%A1%E8%A1%80%E6%B8%85%E5%9D%87%E9%98%B4%E6%80%A7%23&Refer=top)
 
 1. [男子自称国企领导骚扰女乘客被拘留](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%87%AA%E7%A7%B0%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E9%AA%9A%E6%89%B0%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
+
+1. [父子俩高铁占座还光脚架桌板上](https://s.weibo.com//weibo?q=%E7%88%B6%E5%AD%90%E4%BF%A9%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7%E8%BF%98%E5%85%89%E8%84%9A%E6%9E%B6%E6%A1%8C%E6%9D%BF%E4%B8%8A&Refer=top)
+
+1. [武汉大学2021级本科生开学典礼](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A62021%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%23&Refer=top)
+
+1. [7岁男孩爱做饭自学20多道菜](https://s.weibo.com//weibo?q=7%E5%B2%81%E7%94%B7%E5%AD%A9%E7%88%B1%E5%81%9A%E9%A5%AD%E8%87%AA%E5%AD%A620%E5%A4%9A%E9%81%93%E8%8F%9C&Refer=top)
+
+1. [林依轮孟美岐比划松鼠桂鱼太好笑了](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%AF%94%E5%88%92%E6%9D%BE%E9%BC%A0%E6%A1%82%E9%B1%BC%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top)
+
+1. [20世纪初期的西瓜](https://s.weibo.com//weibo?q=%2320%E4%B8%96%E7%BA%AA%E5%88%9D%E6%9C%9F%E7%9A%84%E8%A5%BF%E7%93%9C%23&Refer=top)
+
+1. [莆田疑似源头病例入境38天才确诊](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E7%96%91%E4%BC%BC%E6%BA%90%E5%A4%B4%E7%97%85%E4%BE%8B%E5%85%A5%E5%A2%8338%E5%A4%A9%E6%89%8D%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [高校送谐音梗水果给新生](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%81%E8%B0%90%E9%9F%B3%E6%A2%97%E6%B0%B4%E6%9E%9C%E7%BB%99%E6%96%B0%E7%94%9F%23&Refer=top)
+
+1. [被相信自己唱到破防](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E5%94%B1%E5%88%B0%E7%A0%B4%E9%98%B2%23&Refer=top)
 
