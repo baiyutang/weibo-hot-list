@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 05:03:40
+## 微博今日热榜 更新于 2021-09-14 06:03:54
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
