@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 02:06:11
+## 微博今日热榜 更新于 2021-09-14 04:04:45
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [柚子千万不要冷冻](https://s.weibo.com//weibo?q=%23%E6%9F%9A%E5%AD%90%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%B7%E5%86%BB%23&Refer=top)
 
 1. [陈清晨感谢孙颖莎加油](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%B8%85%E6%99%A8%E6%84%9F%E8%B0%A2%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8A%A0%E6%B2%B9%23&Refer=top)
+
+1. [用鲁迅的文笔描述单身](https://s.weibo.com//weibo?q=%23%E7%94%A8%E9%B2%81%E8%BF%85%E7%9A%84%E6%96%87%E7%AC%94%E6%8F%8F%E8%BF%B0%E5%8D%95%E8%BA%AB%23&Refer=top)
+
+1. [狗狗的条件反射](https://s.weibo.com//weibo?q=%E7%8B%97%E7%8B%97%E7%9A%84%E6%9D%A1%E4%BB%B6%E5%8F%8D%E5%B0%84&Refer=top)
+
+1. [鹰眼预告](https://s.weibo.com//weibo?q=%23%E9%B9%B0%E7%9C%BC%E9%A2%84%E5%91%8A%23&Refer=top)
 
