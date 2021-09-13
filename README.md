@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-13 20:11:12
+## 微博今日热榜 更新于 2021-09-13 21:15:49
 1. [推动中欧班列高质量可持续发展](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%8A%A8%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [男子怀疑凉皮有罂粟报警一查还真有](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%80%E7%96%91%E5%87%89%E7%9A%AE%E6%9C%89%E7%BD%82%E7%B2%9F%E6%8A%A5%E8%AD%A6%E4%B8%80%E6%9F%A5%E8%BF%98%E7%9C%9F%E6%9C%89%23&Refer=top)
@@ -506,4 +506,28 @@
 1. [莆田累计排查密接1577人](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E7%B4%AF%E8%AE%A1%E6%8E%92%E6%9F%A5%E5%AF%86%E6%8E%A51577%E4%BA%BA%23&Refer=top)
 
 1. [励志夫妇婚姻危机](https://s.weibo.com//weibo?q=%23%E5%8A%B1%E5%BF%97%E5%A4%AB%E5%A6%87%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA%23&Refer=top)
+
+1. [厦门本轮疫情累计确诊12例](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A12%E4%BE%8B%23&Refer=top)
+
+1. [这个上床下桌有点离谱](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E4%B8%8A%E5%BA%8A%E4%B8%8B%E6%A1%8C%E6%9C%89%E7%82%B9%E7%A6%BB%E8%B0%B1%23&Refer=top)
+
+1. [莆田公布12日28例新增病例详情](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E5%85%AC%E5%B8%8312%E6%97%A528%E4%BE%8B%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
+
+1. [央视揭呼死你短信轰炸黑产](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E5%91%BC%E6%AD%BB%E4%BD%A0%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8%E9%BB%91%E4%BA%A7%23&Refer=top)
+
+1. [华为发布会](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [广东三孩登记女方可享80天奖励假](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%89%E5%AD%A9%E7%99%BB%E8%AE%B0%E5%A5%B3%E6%96%B9%E5%8F%AF%E4%BA%AB80%E5%A4%A9%E5%A5%96%E5%8A%B1%E5%81%87%23&Refer=top)
+
+1. [双探豆瓣开分7.8](https://s.weibo.com//weibo?q=%E5%8F%8C%E6%8E%A2%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%867.8&Refer=top)
+
+1. [鞠婧祎怼脸拍vlog](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%80%BC%E8%84%B8%E6%8B%8Dvlog%23&Refer=top)
+
+1. [胡慧中入驻微博](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%85%A7%E4%B8%AD%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%23&Refer=top)
+
+1. [毕业最后悔没做的事是什么](https://s.weibo.com//weibo?q=%23%E6%AF%95%E4%B8%9A%E6%9C%80%E5%90%8E%E6%82%94%E6%B2%A1%E5%81%9A%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
+
+1. [小朋友不爱吃饭的主要原因](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B8%8D%E7%88%B1%E5%90%83%E9%A5%AD%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [辰时cp额头吻](https://s.weibo.com//weibo?q=%23%E8%BE%B0%E6%97%B6cp%E9%A2%9D%E5%A4%B4%E5%90%BB%23&Refer=top)
 
