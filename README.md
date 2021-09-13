@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-13 07:03:58
+## 微博今日热榜 更新于 2021-09-13 08:18:08
 1. [推动中欧班列高质量可持续发展](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%8A%A8%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [男子怀疑凉皮有罂粟报警一查还真有](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%80%E7%96%91%E5%87%89%E7%9A%AE%E6%9C%89%E7%BD%82%E7%B2%9F%E6%8A%A5%E8%AD%A6%E4%B8%80%E6%9F%A5%E8%BF%98%E7%9C%9F%E6%9C%89%23&Refer=top)
@@ -122,4 +122,32 @@
 1. [居然被一群猫嘲笑了](https://s.weibo.com//weibo?q=%23%E5%B1%85%E7%84%B6%E8%A2%AB%E4%B8%80%E7%BE%A4%E7%8C%AB%E5%98%B2%E7%AC%91%E4%BA%86%23&Refer=top)
 
 1. [F1意大利大奖赛](https://s.weibo.com//weibo?q=%23F1%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top)
+
+1. [厦门疫情](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E7%96%AB%E6%83%85&Refer=top)
+
+1. [福建疫情已波及66人](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E7%96%AB%E6%83%85%E5%B7%B2%E6%B3%A2%E5%8F%8A66%E4%BA%BA&Refer=top)
+
+1. [厦门大学附属第一医院暂停门急诊](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E6%9A%82%E5%81%9C%E9%97%A8%E6%80%A5%E8%AF%8A&Refer=top)
+
+1. [厦门发现1例核酸阳性](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E5%8F%91%E7%8E%B01%E4%BE%8B%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7&Refer=top)
+
+1. [鸡腿面包真的有鸡腿了](https://s.weibo.com//weibo?q=%23%E9%B8%A1%E8%85%BF%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E6%9C%89%E9%B8%A1%E8%85%BF%E4%BA%86%23&Refer=top)
+
+1. [宋宛颖香港小姐冠军](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%AE%9B%E9%A2%96%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%23&Refer=top)
+
+1. [出租车司机报备交警连闯两红灯救人](https://s.weibo.com//weibo?q=%23%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%8A%A5%E5%A4%87%E4%BA%A4%E8%AD%A6%E8%BF%9E%E9%97%AF%E4%B8%A4%E7%BA%A2%E7%81%AF%E6%95%91%E4%BA%BA%23&Refer=top)
+
+1. [泰国经济跌入20多年以来低谷](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%B7%8C%E5%85%A520%E5%A4%9A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E4%BD%8E%E8%B0%B7%23&Refer=top)
+
+1. [厦门思明区部分区域封闭管理](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E6%80%9D%E6%98%8E%E5%8C%BA%E9%83%A8%E5%88%86%E5%8C%BA%E5%9F%9F%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86&Refer=top)
+
+1. [日本将举行28年来首次大规模军演](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E4%B8%BE%E8%A1%8C28%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%9B%E6%BC%94%23&Refer=top)
+
+1. [穆里尼奥狂奔庆祝绝杀](https://s.weibo.com//weibo?q=%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5%E7%8B%82%E5%A5%94%E5%BA%86%E7%A5%9D%E7%BB%9D%E6%9D%80&Refer=top)
+
+1. [厦门同安区管控区域居民只进不出](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E5%90%8C%E5%AE%89%E5%8C%BA%E7%AE%A1%E6%8E%A7%E5%8C%BA%E5%9F%9F%E5%B1%85%E6%B0%91%E5%8F%AA%E8%BF%9B%E4%B8%8D%E5%87%BA&Refer=top)
+
+1. [同安发布今年第1号通告](https://s.weibo.com//weibo?q=%E5%90%8C%E5%AE%89%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E9%80%9A%E5%91%8A&Refer=top)
+
+1. [中美海运价格暴涨5倍](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%BE%8E%E6%B5%B7%E8%BF%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A85%E5%80%8D&Refer=top)
 
