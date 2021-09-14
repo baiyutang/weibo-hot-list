@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-15 01:11:28
+## 微博今日热榜 更新于 2021-09-15 02:05:15
 1. [习近平在陕西榆林考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [苹果发布会](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
@@ -106,4 +106,16 @@
 1. [医院的打印机有多耐用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E7%9A%84%E6%89%93%E5%8D%B0%E6%9C%BA%E6%9C%89%E5%A4%9A%E8%80%90%E7%94%A8%23&Refer=top)
 
 1. [白举纲和英语角的哥哥们汇合了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E5%92%8C%E8%8B%B1%E8%AF%AD%E8%A7%92%E7%9A%84%E5%93%A5%E5%93%A5%E4%BB%AC%E6%B1%87%E5%90%88%E4%BA%86%23&Refer=top)
+
+1. [iPad mini](https://s.weibo.com//weibo?q=iPad%20mini&Refer=top)
+
+1. [Apple Watch Series 7](https://s.weibo.com//weibo?q=Apple%20Watch%20Series%207&Refer=top)
+
+1. [孔雪儿对镜拍六宫格](https://s.weibo.com//weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E5%AF%B9%E9%95%9C%E6%8B%8D%E5%85%AD%E5%AE%AB%E6%A0%BC%23&Refer=top)
+
+1. [推进公众账号分级分类管理](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E8%BF%9B%E5%85%AC%E4%BC%97%E8%B4%A6%E5%8F%B7%E5%88%86%E7%BA%A7%E5%88%86%E7%B1%BB%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [莆田疫情](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E7%96%AB%E6%83%85%23&Refer=top)
+
+1. [厦门注会考试取消](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E6%B3%A8%E4%BC%9A%E8%80%83%E8%AF%95%E5%8F%96%E6%B6%88&Refer=top)
 
