@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 22:04:11
+## 微博今日热榜 更新于 2021-09-14 23:04:05
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -590,4 +590,38 @@
 1. [飞猪公布环球优速通出票失败解决方案](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E7%8C%AA%E5%85%AC%E5%B8%83%E7%8E%AF%E7%90%83%E4%BC%98%E9%80%9F%E9%80%9A%E5%87%BA%E7%A5%A8%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%23&Refer=top)
 
 1. [全运会女篮奥运联合队夺冠](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A5%B3%E7%AF%AE%E5%A5%A5%E8%BF%90%E8%81%94%E5%90%88%E9%98%9F%E5%A4%BA%E5%86%A0%23&Refer=top)
+
+1. [杨波说迪士尼能治公主病](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B3%A2%E8%AF%B4%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%83%BD%E6%B2%BB%E5%85%AC%E4%B8%BB%E7%97%85%23&Refer=top)
+
+1. [多所高校禁止学生未婚发生性行为](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E6%9C%AA%E5%A9%9A%E5%8F%91%E7%94%9F%E6%80%A7%E8%A1%8C%E4%B8%BA%23&Refer=top)
+
+1. [鼓浪屿关闭岛上所有景点的室内场馆](https://s.weibo.com//weibo?q=%23%E9%BC%93%E6%B5%AA%E5%B1%BF%E5%85%B3%E9%97%AD%E5%B2%9B%E4%B8%8A%E6%89%80%E6%9C%89%E6%99%AF%E7%82%B9%E7%9A%84%E5%AE%A4%E5%86%85%E5%9C%BA%E9%A6%86%23&Refer=top)
+
+1. [周生辰时宜同居](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E6%97%B6%E5%AE%9C%E5%90%8C%E5%B1%85%23&Refer=top)
+
+1. [柳州一益禾堂奶茶店遍布蟑螂](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E5%B7%9E%E4%B8%80%E7%9B%8A%E7%A6%BE%E5%A0%82%E5%A5%B6%E8%8C%B6%E5%BA%97%E9%81%8D%E5%B8%83%E8%9F%91%E8%9E%82%23&Refer=top)
+
+1. [狗子喝个水顺便把澡洗了](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E5%96%9D%E4%B8%AA%E6%B0%B4%E9%A1%BA%E4%BE%BF%E6%8A%8A%E6%BE%A1%E6%B4%97%E4%BA%86%23&Refer=top)
+
+1. [成都塞尔维亚失联女子被找到](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%89%BE%E5%88%B0&Refer=top)
+
+1. [牛骏峰演技反差感](https://s.weibo.com//weibo?q=%23%E7%89%9B%E9%AA%8F%E5%B3%B0%E6%BC%94%E6%8A%80%E5%8F%8D%E5%B7%AE%E6%84%9F%23&Refer=top)
+
+1. [萧闯一口气卖了253台电脑](https://s.weibo.com//weibo?q=%23%E8%90%A7%E9%97%AF%E4%B8%80%E5%8F%A3%E6%B0%94%E5%8D%96%E4%BA%86253%E5%8F%B0%E7%94%B5%E8%84%91%23&Refer=top)
+
+1. [黄志忠说朱一龙壮了好多](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%BF%97%E5%BF%A0%E8%AF%B4%E6%9C%B1%E4%B8%80%E9%BE%99%E5%A3%AE%E4%BA%86%E5%A5%BD%E5%A4%9A%23&Refer=top)
+
+1. [巨人造型垃圾桶](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E4%BA%BA%E9%80%A0%E5%9E%8B%E5%9E%83%E5%9C%BE%E6%A1%B6%23&Refer=top)
+
+1. [28人感染的鞋厂确诊前多人身体不适](https://s.weibo.com//weibo?q=%2328%E4%BA%BA%E6%84%9F%E6%9F%93%E7%9A%84%E9%9E%8B%E5%8E%82%E7%A1%AE%E8%AF%8A%E5%89%8D%E5%A4%9A%E4%BA%BA%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%23&Refer=top)
+
+1. [丹麦1428只海豚遭猎杀海水被染红](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E9%BA%A61428%E5%8F%AA%E6%B5%B7%E8%B1%9A%E9%81%AD%E7%8C%8E%E6%9D%80%E6%B5%B7%E6%B0%B4%E8%A2%AB%E6%9F%93%E7%BA%A2%23&Refer=top)
+
+1. [时宜教周生辰说情话](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%AE%9C%E6%95%99%E5%91%A8%E7%94%9F%E8%BE%B0%E8%AF%B4%E6%83%85%E8%AF%9D%23&Refer=top)
+
+1. [大张伟的烂梗从不让人失望](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9A%84%E7%83%82%E6%A2%97%E4%BB%8E%E4%B8%8D%E8%AE%A9%E4%BA%BA%E5%A4%B1%E6%9C%9B%23&Refer=top)
+
+1. [吴磊侯明昊线上发传单卖电脑](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E4%BE%AF%E6%98%8E%E6%98%8A%E7%BA%BF%E4%B8%8A%E5%8F%91%E4%BC%A0%E5%8D%95%E5%8D%96%E7%94%B5%E8%84%91%23&Refer=top)
+
+1. [中国驻波黑大使馆回应成都女子失联](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%B3%A2%E9%BB%91%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%94%23&Refer=top)
 
