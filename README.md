@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 19:03:25
+## 微博今日热榜 更新于 2021-09-14 20:07:33
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -508,4 +508,32 @@
 1. [还没见过这么孝顺的孙子](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E5%AD%9D%E9%A1%BA%E7%9A%84%E5%AD%99%E5%AD%90%23&Refer=top)
 
 1. [男生之间的庆生能有多敷衍](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%BA%86%E7%94%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E6%95%B7%E8%A1%8D%23&Refer=top)
+
+1. [有的狗是真的狗](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%9A%84%E7%8B%97%E6%98%AF%E7%9C%9F%E7%9A%84%E7%8B%97%23&Refer=top)
+
+1. [把灌汤包从3D蒸成2D](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E7%81%8C%E6%B1%A4%E5%8C%85%E4%BB%8E3D%E8%92%B8%E6%88%902D%23&Refer=top)
+
+1. [当广东人第一次来四川](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E5%9B%9B%E5%B7%9D%23&Refer=top)
+
+1. [普京接触新冠感染者将进行自我隔离](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8E%A5%E8%A7%A6%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%85%E5%B0%86%E8%BF%9B%E8%A1%8C%E8%87%AA%E6%88%91%E9%9A%94%E7%A6%BB%23&Refer=top)
+
+1. [新生儿患罕见病全身散发香味](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E6%82%A3%E7%BD%95%E8%A7%81%E7%97%85%E5%85%A8%E8%BA%AB%E6%95%A3%E5%8F%91%E9%A6%99%E5%91%B3%23&Refer=top)
+
+1. [吴丽姿吃醋](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%B8%BD%E5%A7%BF%E5%90%83%E9%86%8B%23&Refer=top)
+
+1. [机智的上半场大结局](https://s.weibo.com//weibo?q=%23%E6%9C%BA%E6%99%BA%E7%9A%84%E4%B8%8A%E5%8D%8A%E5%9C%BA%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [最后的真相定档](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [李云迪状态](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BA%91%E8%BF%AA%E7%8A%B6%E6%80%81%23&Refer=top)
+
+1. [校方回应老师当堂摔烂手机](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E5%BD%93%E5%A0%82%E6%91%94%E7%83%82%E6%89%8B%E6%9C%BA%23&Refer=top)
+
+1. [南京晚霞](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E6%99%9A%E9%9C%9E&Refer=top)
+
+1. [再困也要陪伴主人](https://s.weibo.com//weibo?q=%23%E5%86%8D%E5%9B%B0%E4%B9%9F%E8%A6%81%E9%99%AA%E4%BC%B4%E4%B8%BB%E4%BA%BA%23&Refer=top)
+
+1. [小伙4进火场救出邻居一家6口](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%994%E8%BF%9B%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B66%E5%8F%A3%23&Refer=top)
+
+1. [工信部正式开通一证通查服务](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A%E4%B8%80%E8%AF%81%E9%80%9A%E6%9F%A5%E6%9C%8D%E5%8A%A1%23&Refer=top)
 
