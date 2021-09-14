@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 15:04:47
+## 微博今日热榜 更新于 2021-09-14 16:06:18
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -396,4 +396,36 @@
 1. [狗狗吃醋起来有多委屈](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%90%83%E9%86%8B%E8%B5%B7%E6%9D%A5%E6%9C%89%E5%A4%9A%E5%A7%94%E5%B1%88%23&Refer=top)
 
 1. [女子接娃放学途中撞人后扬长而去](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8E%A5%E5%A8%83%E6%94%BE%E5%AD%A6%E9%80%94%E4%B8%AD%E6%92%9E%E4%BA%BA%E5%90%8E%E6%89%AC%E9%95%BF%E8%80%8C%E5%8E%BB%23&Refer=top)
+
+1. [习近平总书记在陕西榆林考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9C%A8%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
+
+1. [飞猪致歉声明](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E7%8C%AA%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [优衣库老板跌落日本首富](https://s.weibo.com//weibo?q=%23%E4%BC%98%E8%A1%A3%E5%BA%93%E8%80%81%E6%9D%BF%E8%B7%8C%E8%90%BD%E6%97%A5%E6%9C%AC%E9%A6%96%E5%AF%8C%23&Refer=top)
+
+1. [美国国会警察将在国会大厦外重设围栏](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AD%A6%E5%AF%9F%E5%B0%86%E5%9C%A8%E5%9B%BD%E4%BC%9A%E5%A4%A7%E5%8E%A6%E5%A4%96%E9%87%8D%E8%AE%BE%E5%9B%B4%E6%A0%8F%23&Refer=top)
+
+1. [成毅沉香如屑战损妆](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E6%88%98%E6%8D%9F%E5%A6%86%23&Refer=top)
+
+1. [姐弟俩不想写作业到警察局举报妈妈](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%BC%9F%E4%BF%A9%E4%B8%8D%E6%83%B3%E5%86%99%E4%BD%9C%E4%B8%9A%E5%88%B0%E8%AD%A6%E5%AF%9F%E5%B1%80%E4%B8%BE%E6%8A%A5%E5%A6%88%E5%A6%88%23&Refer=top)
+
+1. [刚和对象在一起的时候](https://s.weibo.com//weibo?q=%23%E5%88%9A%E5%92%8C%E5%AF%B9%E8%B1%A1%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%97%B6%E5%80%99%23&Refer=top)
+
+1. [福建泉州3名密接者活动轨迹涉及深圳多地](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%B3%89%E5%B7%9E3%E5%90%8D%E5%AF%86%E6%8E%A5%E8%80%85%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%E6%B6%89%E5%8F%8A%E6%B7%B1%E5%9C%B3%E5%A4%9A%E5%9C%B0%23&Refer=top)
+
+1. [蔡徐坤硬汉封面造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%A1%AC%E6%B1%89%E5%B0%81%E9%9D%A2%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [9岁娃躺着玩手机患血栓引发肺栓塞](https://s.weibo.com//weibo?q=%239%E5%B2%81%E5%A8%83%E8%BA%BA%E7%9D%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%82%A3%E8%A1%80%E6%A0%93%E5%BC%95%E5%8F%91%E8%82%BA%E6%A0%93%E5%A1%9E%23&Refer=top)
+
+1. [好期待北京今年的第一场雪](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%9C%9F%E5%BE%85%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&Refer=top)
+
+1. [王嘉尔画的MV效果图](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%94%BB%E7%9A%84MV%E6%95%88%E6%9E%9C%E5%9B%BE%23&Refer=top)
+
+1. [原来苦瓜熟了是甜的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%8B%A6%E7%93%9C%E7%86%9F%E4%BA%86%E6%98%AF%E7%94%9C%E7%9A%84%23&Refer=top)
+
+1. [警方通报昆山高压旋喷桩机砸中过路车](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%98%86%E5%B1%B1%E9%AB%98%E5%8E%8B%E6%97%8B%E5%96%B7%E6%A1%A9%E6%9C%BA%E7%A0%B8%E4%B8%AD%E8%BF%87%E8%B7%AF%E8%BD%A6%23&Refer=top)
+
+1. [另一种社死方式](https://s.weibo.com//weibo?q=%23%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%A4%BE%E6%AD%BB%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [舞者不跳舞时反差有多大](https://s.weibo.com//weibo?q=%23%E8%88%9E%E8%80%85%E4%B8%8D%E8%B7%B3%E8%88%9E%E6%97%B6%E5%8F%8D%E5%B7%AE%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
 
