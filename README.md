@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-15 06:03:59
+## 微博今日热榜 更新于 2021-09-15 07:04:03
 1. [习近平在陕西榆林考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [苹果发布会](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
@@ -136,4 +136,6 @@
 1. [霸天虎撤退](https://s.weibo.com//weibo?q=%E9%9C%B8%E5%A4%A9%E8%99%8E%E6%92%A4%E9%80%80&Refer=top)
 
 1. [成都一老小区水池现1.2米长娃娃鱼](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E4%B8%80%E8%80%81%E5%B0%8F%E5%8C%BA%E6%B0%B4%E6%B1%A0%E7%8E%B01.2%E7%B1%B3%E9%95%BF%E5%A8%83%E5%A8%83%E9%B1%BC&Refer=top)
+
+1. [医护人员防护服里储满汗水](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E9%98%B2%E6%8A%A4%E6%9C%8D%E9%87%8C%E5%82%A8%E6%BB%A1%E6%B1%97%E6%B0%B4%23&Refer=top)
 
