@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 16:06:18
+## 微博今日热榜 更新于 2021-09-14 17:03:49
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -428,4 +428,24 @@
 1. [另一种社死方式](https://s.weibo.com//weibo?q=%23%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%A4%BE%E6%AD%BB%E6%96%B9%E5%BC%8F%23&Refer=top)
 
 1. [舞者不跳舞时反差有多大](https://s.weibo.com//weibo?q=%23%E8%88%9E%E8%80%85%E4%B8%8D%E8%B7%B3%E8%88%9E%E6%97%B6%E5%8F%8D%E5%B7%AE%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
+
+1. [福建一男生戴防毒面罩上课](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E7%94%B7%E7%94%9F%E6%88%B4%E9%98%B2%E6%AF%92%E9%9D%A2%E7%BD%A9%E4%B8%8A%E8%AF%BE%23&Refer=top)
+
+1. [福建此轮疫情累计报告139例阳性病例](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%AD%A4%E8%BD%AE%E7%96%AB%E6%83%85%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A139%E4%BE%8B%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%23&Refer=top)
+
+1. [赵立坚回应日本自民党选举频提中国](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%87%AA%E6%B0%91%E5%85%9A%E9%80%89%E4%B8%BE%E9%A2%91%E6%8F%90%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [广东生三孩男方享受15日陪产假](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%9F%E4%B8%89%E5%AD%A9%E7%94%B7%E6%96%B9%E4%BA%AB%E5%8F%9715%E6%97%A5%E9%99%AA%E4%BA%A7%E5%81%87%23&Refer=top)
+
+1. [这到底是met gala还是万圣节](https://s.weibo.com//weibo?q=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AFmet%20gala%E8%BF%98%E6%98%AF%E4%B8%87%E5%9C%A3%E8%8A%82&Refer=top)
+
+1. [瑞丽战疫民警执勤一轮要做45次鼻拭子](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E6%88%98%E7%96%AB%E6%B0%91%E8%AD%A6%E6%89%A7%E5%8B%A4%E4%B8%80%E8%BD%AE%E8%A6%81%E5%81%9A45%E6%AC%A1%E9%BC%BB%E6%8B%AD%E5%AD%90%23&Refer=top)
+
+1. [原来还能这么做核酸](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top)
+
+1. [水星上20多个地貌以中国人名命名](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E6%98%9F%E4%B8%8A20%E5%A4%9A%E4%B8%AA%E5%9C%B0%E8%B2%8C%E4%BB%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%8D%E5%91%BD%E5%90%8D%23&Refer=top)
+
+1. [李沁对第一印象的比喻好形象](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E5%AF%B9%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1%E7%9A%84%E6%AF%94%E5%96%BB%E5%A5%BD%E5%BD%A2%E8%B1%A1%23&Refer=top)
+
+1. [社交中该如何破冰](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E4%BA%A4%E4%B8%AD%E8%AF%A5%E5%A6%82%E4%BD%95%E7%A0%B4%E5%86%B0%23&Refer=top)
 
