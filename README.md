@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 12:06:11
+## 微博今日热榜 更新于 2021-09-14 13:05:53
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -298,4 +298,36 @@
 1. [一绪寿喜烧致歉](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%BB%AA%E5%AF%BF%E5%96%9C%E7%83%A7%E8%87%B4%E6%AD%89%23&Refer=top)
 
 1. [姚明已抵达全运村](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E6%98%8E%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%85%A8%E8%BF%90%E6%9D%91%23&Refer=top)
+
+1. [我国5G终端连接数全球占比超过80%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD5G%E7%BB%88%E7%AB%AF%E8%BF%9E%E6%8E%A5%E6%95%B0%E5%85%A8%E7%90%83%E5%8D%A0%E6%AF%94%E8%B6%85%E8%BF%8780%25%23&Refer=new_time)
+
+1. [赵露思徐开骋身高差好萌](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%BE%90%E5%BC%80%E9%AA%8B%E8%BA%AB%E9%AB%98%E5%B7%AE%E5%A5%BD%E8%90%8C%23&Refer=top)
+
+1. [外交部回应朝鲜试射导弹](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9&Refer=top)
+
+1. [海军军宣顶配宣传片](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E5%86%9B%E5%AE%A3%E9%A1%B6%E9%85%8D%E5%AE%A3%E4%BC%A0%E7%89%87%23&Refer=top)
+
+1. [iPhone13官方保护壳曝光](https://s.weibo.com//weibo?q=%23iPhone13%E5%AE%98%E6%96%B9%E4%BF%9D%E6%8A%A4%E5%A3%B3%E6%9B%9D%E5%85%89%23&Refer=top)
+
+1. [张小斐特别出演沈腾新片](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E7%89%B9%E5%88%AB%E5%87%BA%E6%BC%94%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%23&Refer=top)
+
+1. [50岁女主管被迫退休获赔46万](https://s.weibo.com//weibo?q=%2350%E5%B2%81%E5%A5%B3%E4%B8%BB%E7%AE%A1%E8%A2%AB%E8%BF%AB%E9%80%80%E4%BC%91%E8%8E%B7%E8%B5%9446%E4%B8%87%23&Refer=top)
+
+1. [四川三年内将为游客免押金100亿](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%89%E5%B9%B4%E5%86%85%E5%B0%86%E4%B8%BA%E6%B8%B8%E5%AE%A2%E5%85%8D%E6%8A%BC%E9%87%91100%E4%BA%BF%23&Refer=top)
+
+1. [厦门启动全员核酸检测](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E5%90%AF%E5%8A%A8%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B&Refer=top)
+
+1. [泉州通报3例新增确诊病例轨迹](https://s.weibo.com//weibo?q=%23%E6%B3%89%E5%B7%9E%E9%80%9A%E6%8A%A53%E4%BE%8B%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%BD%A8%E8%BF%B9%23&Refer=top)
+
+1. [奇奇怪怪的耳机名](https://s.weibo.com//weibo?q=%23%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E8%80%B3%E6%9C%BA%E5%90%8D%23&Refer=top)
+
+1. [云南虫谷献王是费振翔演的](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7%E7%8C%AE%E7%8E%8B%E6%98%AF%E8%B4%B9%E6%8C%AF%E7%BF%94%E6%BC%94%E7%9A%84%23&Refer=top)
+
+1. [林依轮沉浸式打卡环球影城vlog](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%89%93%E5%8D%A1%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8Evlog%23&Refer=top)
+
+1. [侯明昊演的理工男](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E7%9A%84%E7%90%86%E5%B7%A5%E7%94%B7%23&Refer=top)
+
+1. [爷爷改编黄梅戏苦劝孙儿别网恋](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E6%94%B9%E7%BC%96%E9%BB%84%E6%A2%85%E6%88%8F%E8%8B%A6%E5%8A%9D%E5%AD%99%E5%84%BF%E5%88%AB%E7%BD%91%E6%81%8B%23&Refer=top)
+
+1. [阿云嘎被征服征服了](https://s.weibo.com//weibo?q=%23%E9%98%BF%E4%BA%91%E5%98%8E%E8%A2%AB%E5%BE%81%E6%9C%8D%E5%BE%81%E6%9C%8D%E4%BA%86%23&Refer=top)
 
