@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-14 20:07:33
+## 微博今日热榜 更新于 2021-09-14 21:13:12
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [4个月婴儿去世其肾脏救活15岁男孩](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E5%8E%BB%E4%B8%96%E5%85%B6%E8%82%BE%E8%84%8F%E6%95%91%E6%B4%BB15%E5%B2%81%E7%94%B7%E5%AD%A9%23&Refer=top)
@@ -536,4 +536,36 @@
 1. [小伙4进火场救出邻居一家6口](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%994%E8%BF%9B%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B66%E5%8F%A3%23&Refer=top)
 
 1. [工信部正式开通一证通查服务](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A%E4%B8%80%E8%AF%81%E9%80%9A%E6%9F%A5%E6%9C%8D%E5%8A%A1%23&Refer=top)
+
+1. [樊振东全红婵的体型差](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E4%BD%93%E5%9E%8B%E5%B7%AE%23&Refer=top)
+
+1. [许昕刘诗雯全运会跨省配对](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%A8%E7%9C%81%E9%85%8D%E5%AF%B9%23&Refer=top)
+
+1. [全红婵看个比赛好忙](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%8B%E4%B8%AA%E6%AF%94%E8%B5%9B%E5%A5%BD%E5%BF%99%23&Refer=top)
+
+1. [医院的打印机有多耐用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E7%9A%84%E6%89%93%E5%8D%B0%E6%9C%BA%E6%9C%89%E5%A4%9A%E8%80%90%E7%94%A8%23&Refer=top)
+
+1. [时宜又双叒摸周生辰美人骨](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%AE%9C%E5%8F%88%E5%8F%8C%E5%8F%92%E6%91%B8%E5%91%A8%E7%94%9F%E8%BE%B0%E7%BE%8E%E4%BA%BA%E9%AA%A8%23&Refer=top)
+
+1. [官方回应网传长沙公职人员网络炫富](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%95%BF%E6%B2%99%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%BD%91%E7%BB%9C%E7%82%AB%E5%AF%8C%23&Refer=top)
+
+1. [莆田确诊包括7名幼小学生](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E7%A1%AE%E8%AF%8A%E5%8C%85%E6%8B%AC7%E5%90%8D%E5%B9%BC%E5%B0%8F%E5%AD%A6%E7%94%9F%23&Refer=top)
+
+1. [原来密室npc也这么胆小](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AF%86%E5%AE%A4npc%E4%B9%9F%E8%BF%99%E4%B9%88%E8%83%86%E5%B0%8F%23&Refer=top)
+
+1. [吉克隽逸说歌手状态比能力重要](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E8%AF%B4%E6%AD%8C%E6%89%8B%E7%8A%B6%E6%80%81%E6%AF%94%E8%83%BD%E5%8A%9B%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [第14届全运会明天开幕](https://s.weibo.com//weibo?q=%23%E7%AC%AC14%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E6%98%8E%E5%A4%A9%E5%BC%80%E5%B9%95%23&Refer=top)
+
+1. [大学生打篮球受伤索赔6.5万元](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%93%E7%AF%AE%E7%90%83%E5%8F%97%E4%BC%A4%E7%B4%A2%E8%B5%946.5%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [蔡徐坤时尚COSMO封面拍摄花絮](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%97%B6%E5%B0%9ACOSMO%E5%B0%81%E9%9D%A2%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
+
+1. [明明刚才还在手里](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%8E%E5%88%9A%E6%89%8D%E8%BF%98%E5%9C%A8%E6%89%8B%E9%87%8C%23&Refer=top)
+
+1. [时宜情话天才](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%AE%9C%E6%83%85%E8%AF%9D%E5%A4%A9%E6%89%8D%23&Refer=top)
+
+1. [杨健跳水男子10米跳台决赛夺金](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%81%A5%E8%B7%B3%E6%B0%B4%E7%94%B7%E5%AD%9010%E7%B1%B3%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%E5%A4%BA%E9%87%91%23&Refer=top)
+
+1. [安徽高院原院长张坚一审获刑15年](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E9%99%A2%E5%8E%9F%E9%99%A2%E9%95%BF%E5%BC%A0%E5%9D%9A%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4%23&Refer=top)
 
