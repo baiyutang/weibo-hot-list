@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-15 10:17:49
+## 微博今日热榜 更新于 2021-09-15 11:04:06
 1. [习近平在陕西榆林考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [苹果发布会](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
@@ -234,4 +234,18 @@
 1. [美妆博主低龄化风潮该刹一刹了](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%A6%86%E5%8D%9A%E4%B8%BB%E4%BD%8E%E9%BE%84%E5%8C%96%E9%A3%8E%E6%BD%AE%E8%AF%A5%E5%88%B9%E4%B8%80%E5%88%B9%E4%BA%86%23&Refer=top)
 
 1. [被学生的聪明才智震惊了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E7%9A%84%E8%81%AA%E6%98%8E%E6%89%8D%E6%99%BA%E9%9C%87%E6%83%8A%E4%BA%86%23&Refer=top)
+
+1. [运动天才安宰贤](https://s.weibo.com//weibo?q=%23%E8%BF%90%E5%8A%A8%E5%A4%A9%E6%89%8D%E5%AE%89%E5%AE%B0%E8%B4%A4%23&Refer=top)
+
+1. [加拿大爆发反对强制接种新冠疫苗抗议](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E5%BC%BA%E5%88%B6%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8A%97%E8%AE%AE%23&Refer=top)
+
+1. [闫妮30秒眼技杀](https://s.weibo.com//weibo?q=%23%E9%97%AB%E5%A6%AE30%E7%A7%92%E7%9C%BC%E6%8A%80%E6%9D%80%23&Refer=top)
+
+1. [巴萨0比3拜仁](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%90%A80%E6%AF%943%E6%8B%9C%E4%BB%81%23&Refer=top)
+
+1. [巴萨全场0射正](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%90%A8%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3%23&Refer=top)
+
+1. [龙劭华去世](https://s.weibo.com//weibo?q=%E9%BE%99%E5%8A%AD%E5%8D%8E%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [留虾女孩收到2大盒虾](https://s.weibo.com//weibo?q=%23%E7%95%99%E8%99%BE%E5%A5%B3%E5%AD%A9%E6%94%B6%E5%88%B02%E5%A4%A7%E7%9B%92%E8%99%BE%23&Refer=top)
 
