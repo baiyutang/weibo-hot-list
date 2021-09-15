@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-15 20:08:38
+## 微博今日热榜 更新于 2021-09-15 21:13:08
 1. [习近平在陕西榆林考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [苹果发布会](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
@@ -582,4 +582,44 @@
 1. [尚雯婕清唱明月千里寄相思](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E6%B8%85%E5%94%B1%E6%98%8E%E6%9C%88%E5%8D%83%E9%87%8C%E5%AF%84%E7%9B%B8%E6%80%9D%23&Refer=top)
 
 1. [莆田学院抗疫日记](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E5%AD%A6%E9%99%A2%E6%8A%97%E7%96%AB%E6%97%A5%E8%AE%B0%23&Refer=top)
+
+1. [大学老师为了教恋爱课有多拼](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%BA%E4%BA%86%E6%95%99%E6%81%8B%E7%88%B1%E8%AF%BE%E6%9C%89%E5%A4%9A%E6%8B%BC&Refer=top)
+
+1. [许昕晒与全红婵合照](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E6%99%92%E4%B8%8E%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [陈芋汐有社交NB症吧](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E6%9C%89%E7%A4%BE%E4%BA%A4NB%E7%97%87%E5%90%A7%23&Refer=top)
+
+1. [杨倩将点燃全运会主火炬](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%B0%86%E7%82%B9%E7%87%83%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC%23&Refer=top)
+
+1. [全红婵入场可可爱爱](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%85%A5%E5%9C%BA%E5%8F%AF%E5%8F%AF%E7%88%B1%E7%88%B1%23&Refer=top)
+
+1. [厦门首例确诊开会未戴口罩致扩散](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E9%A6%96%E4%BE%8B%E7%A1%AE%E8%AF%8A%E5%BC%80%E4%BC%9A%E6%9C%AA%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%87%B4%E6%89%A9%E6%95%A3%23&Refer=top)
+
+1. [陌生女子邀请裸聊反手就是一个敲诈](https://s.weibo.com//weibo?q=%23%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E9%82%80%E8%AF%B7%E8%A3%B8%E8%81%8A%E5%8F%8D%E6%89%8B%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E6%95%B2%E8%AF%88%23&Refer=top)
+
+1. [汪顺挥旗好帅](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E9%A1%BA%E6%8C%A5%E6%97%97%E5%A5%BD%E5%B8%85%23&Refer=top)
+
+1. [中国空军歼16挂弹拦截外国军机](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E6%AD%BC16%E6%8C%82%E5%BC%B9%E6%8B%A6%E6%88%AA%E5%A4%96%E5%9B%BD%E5%86%9B%E6%9C%BA%23&Refer=top)
+
+1. [夫妻吵架点燃车辆在车前打架](https://s.weibo.com//weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E7%82%B9%E7%87%83%E8%BD%A6%E8%BE%86%E5%9C%A8%E8%BD%A6%E5%89%8D%E6%89%93%E6%9E%B6%23&Refer=top)
+
+1. [宋亚轩许愿疫情快结束](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%AE%B8%E6%84%BF%E7%96%AB%E6%83%85%E5%BF%AB%E7%BB%93%E6%9D%9F%23&Refer=top)
+
+1. [河南代表团旗手朱婷亮相](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%E6%9C%B1%E5%A9%B7%E4%BA%AE%E7%9B%B8%23&Refer=top)
+
+1. [校方回应学生蹲校门口喝完半箱奶](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E8%B9%B2%E6%A0%A1%E9%97%A8%E5%8F%A3%E5%96%9D%E5%AE%8C%E5%8D%8A%E7%AE%B1%E5%A5%B6%23&Refer=top)
+
+1. [厦门累计确诊48例](https://s.weibo.com//weibo?q=%E5%8E%A6%E9%97%A8%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A48%E4%BE%8B&Refer=top)
+
+1. [周生辰石榴终于送出去了](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E7%9F%B3%E6%A6%B4%E7%BB%88%E4%BA%8E%E9%80%81%E5%87%BA%E5%8E%BB%E4%BA%86%23&Refer=top)
+
+1. [72岁老人跳钢管舞被质疑年龄](https://s.weibo.com//weibo?q=%2372%E5%B2%81%E8%80%81%E4%BA%BA%E8%B7%B3%E9%92%A2%E7%AE%A1%E8%88%9E%E8%A2%AB%E8%B4%A8%E7%96%91%E5%B9%B4%E9%BE%84%23&Refer=top)
+
+1. [周生辰人间妄想男友](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E4%BA%BA%E9%97%B4%E5%A6%84%E6%83%B3%E7%94%B7%E5%8F%8B%23&Refer=top)
+
+1. [全运会赛程](https://s.weibo.com//weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B5%9B%E7%A8%8B&Refer=top)
+
+1. [全运会开幕式国旗入场太帅了](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%9B%BD%E6%97%97%E5%85%A5%E5%9C%BA%E5%A4%AA%E5%B8%85%E4%BA%86%23&Refer=top)
+
+1. [时宜醉酒告白](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%AE%9C%E9%86%89%E9%85%92%E5%91%8A%E7%99%BD%23&Refer=top)
 
