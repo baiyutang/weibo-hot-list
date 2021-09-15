@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-16 06:04:44
+## 微博今日热榜 更新于 2021-09-16 07:04:21
 1. [关于加强网络文明建设的意见](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E7%9A%84%E6%84%8F%E8%A7%81%23&Refer=new_time)
 
 1. [学生连喝11瓶奶涉事校长被约谈](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%96%9D11%E7%93%B6%E5%A5%B6%E6%B6%89%E4%BA%8B%E6%A0%A1%E9%95%BF%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
@@ -126,4 +126,14 @@
 1. [你最希望公司发的中秋福利](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%9C%80%E5%B8%8C%E6%9C%9B%E5%85%AC%E5%8F%B8%E5%8F%91%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A6%8F%E5%88%A9%23&Refer=top)
 
 1. [李亚鹏否认挖走李子柒团队](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%A6%E8%AE%A4%E6%8C%96%E8%B5%B0%E6%9D%8E%E5%AD%90%E6%9F%92%E5%9B%A2%E9%98%9F%23&Refer=top)
+
+1. [四川泸州6.0级地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
+
+1. [张楠决定回乡工作](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A5%A0%E5%86%B3%E5%AE%9A%E5%9B%9E%E4%B9%A1%E5%B7%A5%E4%BD%9C%23&Refer=top)
+
+1. [四川泸州启动一级应急响应](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&Refer=top)
+
+1. [段奕宏微博直播回忆双探趣事](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%A5%95%E5%AE%8F%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BF%86%E5%8F%8C%E6%8E%A2%E8%B6%A3%E4%BA%8B%23&Refer=top)
+
+1. [刘诗诗央视秋晚采访控场王者](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E9%87%87%E8%AE%BF%E6%8E%A7%E5%9C%BA%E7%8E%8B%E8%80%85%23&Refer=top)
 
