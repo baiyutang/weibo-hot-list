@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-16 03:03:20
+## 微博今日热榜 更新于 2021-09-16 04:04:47
 1. [关于加强网络文明建设的意见](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E7%9A%84%E6%84%8F%E8%A7%81%23&Refer=new_time)
 
 1. [学生连喝11瓶奶涉事校长被约谈](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%96%9D11%E7%93%B6%E5%A5%B6%E6%B6%89%E4%BA%8B%E6%A0%A1%E9%95%BF%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [男子边骑车边看手机撞上电线杆](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BE%B9%E9%AA%91%E8%BD%A6%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%92%9E%E4%B8%8A%E7%94%B5%E7%BA%BF%E6%9D%86%23&Refer=top)
 
 1. [1分钟混剪全运会火炬接力时刻](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E6%B7%B7%E5%89%AA%E5%85%A8%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%8E%A5%E5%8A%9B%E6%97%B6%E5%88%BB%23&Refer=top)
+
+1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
+
+1. [我爱你中国BGM中重现全民抗疫](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BDBGM%E4%B8%AD%E9%87%8D%E7%8E%B0%E5%85%A8%E6%B0%91%E6%8A%97%E7%96%AB%23&Refer=top)
 
