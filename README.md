@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-17 04:04:39
+## 微博今日热榜 更新于 2021-09-17 05:03:40
 1. [吴蓉瑾王红旭被授予时代楷模称号](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%93%89%E7%91%BE%E7%8E%8B%E7%BA%A2%E6%97%AD%E8%A2%AB%E6%8E%88%E4%BA%88%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%E7%A7%B0%E5%8F%B7%23&Refer=new_time)
 
 1. [全红婵靠在巩立姣手臂上](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%9D%A0%E5%9C%A8%E5%B7%A9%E7%AB%8B%E5%A7%A3%E6%89%8B%E8%87%82%E4%B8%8A%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [周深总台秋晚彩排现场深情献唱](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%80%BB%E5%8F%B0%E7%A7%8B%E6%99%9A%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E6%B7%B1%E6%83%85%E7%8C%AE%E5%94%B1%23&Refer=top)
 
 1. [福建的孩子懂事得让人心疼](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%9A%84%E5%AD%A9%E5%AD%90%E6%87%82%E4%BA%8B%E5%BE%97%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&Refer=top)
+
+1. [河南将启动新冠疫苗加强针接种](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B0%86%E5%90%AF%E5%8A%A8%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%8A%A0%E5%BC%BA%E9%92%88%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
