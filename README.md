@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-17 00:06:25
+## 微博今日热榜 更新于 2021-09-17 01:11:00
 1. [吴蓉瑾王红旭被授予时代楷模称号](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%93%89%E7%91%BE%E7%8E%8B%E7%BA%A2%E6%97%AD%E8%A2%AB%E6%8E%88%E4%BA%88%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%E7%A7%B0%E5%8F%B7%23&Refer=new_time)
 
 1. [全红婵靠在巩立姣手臂上](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%9D%A0%E5%9C%A8%E5%B7%A9%E7%AB%8B%E5%A7%A3%E6%89%8B%E8%87%82%E4%B8%8A%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [小朋友的爱简单而真诚](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E7%88%B1%E7%AE%80%E5%8D%95%E8%80%8C%E7%9C%9F%E8%AF%9A%23&Refer=top)
 
 1. [朱婷东京奥运会后首次亮相](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%A9%B7%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&Refer=top)
+
+1. [国运兴则体育兴](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%BF%90%E5%85%B4%E5%88%99%E4%BD%93%E8%82%B2%E5%85%B4%23&Refer=new_time)
+
+1. [2AM将回归](https://s.weibo.com//weibo?q=%232AM%E5%B0%86%E5%9B%9E%E5%BD%92%23&Refer=top)
+
+1. [四川泸州6.0级地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
 
