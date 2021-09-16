@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-16 07:04:21
+## 微博今日热榜 更新于 2021-09-16 08:18:47
 1. [关于加强网络文明建设的意见](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E7%9A%84%E6%84%8F%E8%A7%81%23&Refer=new_time)
 
 1. [学生连喝11瓶奶涉事校长被约谈](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%96%9D11%E7%93%B6%E5%A5%B6%E6%B6%89%E4%BA%8B%E6%A0%A1%E9%95%BF%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
@@ -136,4 +136,38 @@
 1. [段奕宏微博直播回忆双探趣事](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%A5%95%E5%AE%8F%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BF%86%E5%8F%8C%E6%8E%A2%E8%B6%A3%E4%BA%8B%23&Refer=top)
 
 1. [刘诗诗央视秋晚采访控场王者](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E9%87%87%E8%AE%BF%E6%8E%A7%E5%9C%BA%E7%8E%8B%E8%80%85%23&Refer=top)
+
+1. [武汉一女子不戴口罩乘公交车对司机叫嚣](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%88%B4%E5%8F%A3%E7%BD%A9%E4%B9%98%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%AF%B9%E5%8F%B8%E6%9C%BA%E5%8F%AB%E5%9A%A3%23&Refer=top)
+
+1. [四川泸县震中现场照片](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%8E%BF%E9%9C%87%E4%B8%AD%E7%8E%B0%E5%9C%BA%E7%85%A7%E7%89%87%23&Refer=top)
+
+1. [四川泸县地震已致2死](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B42%E6%AD%BB%23&Refer=top)
+
+1. [苏炳添是第一次参与火炬传递](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%82%E4%B8%8E%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%23&Refer=top)
+
+1. [四川杀妻分尸案女方家属索赔70万](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9D%80%E5%A6%BB%E5%88%86%E5%B0%B8%E6%A1%88%E5%A5%B3%E6%96%B9%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87%23&Refer=top)
+
+1. [马龙第一次当全运会火炬手](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BD%93%E5%85%A8%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%89%8B%23&Refer=top)
+
+1. [云南新增1例本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [美国专家拟4至6年内复活猛犸象](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%E6%8B%9F4%E8%87%B36%E5%B9%B4%E5%86%85%E5%A4%8D%E6%B4%BB%E7%8C%9B%E7%8A%B8%E8%B1%A1%23&Refer=top)
+
+1. [北京朝阳临时封控区已解封](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E4%B8%B4%E6%97%B6%E5%B0%81%E6%8E%A7%E5%8C%BA%E5%B7%B2%E8%A7%A3%E5%B0%81%23&Refer=top)
+
+1. [警方通报男子将儿童从29楼扔下](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%B0%86%E5%84%BF%E7%AB%A5%E4%BB%8E29%E6%A5%BC%E6%89%94%E4%B8%8B%23&Refer=top)
+
+1. [泸县地震救援现场](https://s.weibo.com//weibo?q=%E6%B3%B8%E5%8E%BF%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [云南新增22例境外输入确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E22%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [中秋奇妙游全阵容](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8%E5%85%A8%E9%98%B5%E5%AE%B9%23&Refer=top)
+
+1. [职场中你遇到的好老板](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%9C%BA%E4%B8%AD%E4%BD%A0%E9%81%87%E5%88%B0%E7%9A%84%E5%A5%BD%E8%80%81%E6%9D%BF%23&Refer=top)
+
+1. [泸州震中居民一边避险一边避雨](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E5%B7%9E%E9%9C%87%E4%B8%AD%E5%B1%85%E6%B0%91%E4%B8%80%E8%BE%B9%E9%81%BF%E9%99%A9%E4%B8%80%E8%BE%B9%E9%81%BF%E9%9B%A8%23&Refer=top)
+
+1. [曼城6比3莱比锡](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E5%9F%8E6%E6%AF%943%E8%8E%B1%E6%AF%94%E9%94%A1%23&Refer=top)
+
+1. [红船驶入全运会开幕式现场](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%88%B9%E9%A9%B6%E5%85%A5%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
