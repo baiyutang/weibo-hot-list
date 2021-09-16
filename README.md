@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-17 01:11:00
+## 微博今日热榜 更新于 2021-09-17 02:05:21
 1. [吴蓉瑾王红旭被授予时代楷模称号](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%93%89%E7%91%BE%E7%8E%8B%E7%BA%A2%E6%97%AD%E8%A2%AB%E6%8E%88%E4%BA%88%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%E7%A7%B0%E5%8F%B7%23&Refer=new_time)
 
 1. [全红婵靠在巩立姣手臂上](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%9D%A0%E5%9C%A8%E5%B7%A9%E7%AB%8B%E5%A7%A3%E6%89%8B%E8%87%82%E4%B8%8A%23&Refer=top)
@@ -112,4 +112,8 @@
 1. [2AM将回归](https://s.weibo.com//weibo?q=%232AM%E5%B0%86%E5%9B%9E%E5%BD%92%23&Refer=top)
 
 1. [四川泸州6.0级地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
+
+1. [泸县6.0级地震最新情况](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E5%8E%BF6.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [监控拍下泸州地震瞬间](https://s.weibo.com//weibo?q=%23%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E6%B3%B8%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%23&Refer=top)
 
