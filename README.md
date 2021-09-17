@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-18 04:04:31
+## 微博今日热榜 更新于 2021-09-18 05:03:07
 1. [上海合作组织成员国元首理事会第二十一次会议](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E6%88%90%E5%91%98%E5%9B%BD%E5%85%83%E9%A6%96%E7%90%86%E4%BA%8B%E4%BC%9A%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BC%9A%E8%AE%AE%23&Refer=new_time)
 
 1. [儿子开吊车将母亲举高摘枣](https://s.weibo.com//weibo?q=%23%E5%84%BF%E5%AD%90%E5%BC%80%E5%90%8A%E8%BD%A6%E5%B0%86%E6%AF%8D%E4%BA%B2%E4%B8%BE%E9%AB%98%E6%91%98%E6%9E%A3%23&Refer=top)
