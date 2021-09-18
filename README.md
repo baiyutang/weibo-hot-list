@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-19 05:03:02
+## 微博今日热榜 更新于 2021-09-19 06:03:35
 1. [共同维护比金子还珍贵的和平稳定](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%90%8C%E7%BB%B4%E6%8A%A4%E6%AF%94%E9%87%91%E5%AD%90%E8%BF%98%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%23&Refer=new_time)
 
 1. [日本侵华野心有多大](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E9%87%8E%E5%BF%83%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [朗读者第3季首期太好哭了](https://s.weibo.com//weibo?q=%23%E6%9C%97%E8%AF%BB%E8%80%85%E7%AC%AC3%E5%AD%A3%E9%A6%96%E6%9C%9F%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top)
 
 1. [美国10名病人抢一张床位](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD10%E5%90%8D%E7%97%85%E4%BA%BA%E6%8A%A2%E4%B8%80%E5%BC%A0%E5%BA%8A%E4%BD%8D%23&Refer=top)
+
+1. [湾区升明月主持阵容](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E4%B8%BB%E6%8C%81%E9%98%B5%E5%AE%B9%23&Refer=top)
 
