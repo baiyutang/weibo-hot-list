@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-19 01:10:41
+## 微博今日热榜 更新于 2021-09-19 02:04:27
 1. [共同维护比金子还珍贵的和平稳定](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%90%8C%E7%BB%B4%E6%8A%A4%E6%AF%94%E9%87%91%E5%AD%90%E8%BF%98%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%23&Refer=new_time)
 
 1. [日本侵华野心有多大](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E9%87%8E%E5%BF%83%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [陈梦项链上有自己名字](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E9%A1%B9%E9%93%BE%E4%B8%8A%E6%9C%89%E8%87%AA%E5%B7%B1%E5%90%8D%E5%AD%97%23&Refer=top)
 
 1. [电视剧光芒](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%85%89%E8%8A%92%23&Refer=top)
+
+1. [防空警报](https://s.weibo.com//weibo?q=%23%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&Refer=top)
+
+1. [这几个扶起垃圾桶的背影真帅](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%87%A0%E4%B8%AA%E6%89%B6%E8%B5%B7%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%9A%84%E8%83%8C%E5%BD%B1%E7%9C%9F%E5%B8%85%23&Refer=top)
+
+1. [大学生夜跑遇险情跨栏式救火](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%9C%E8%B7%91%E9%81%87%E9%99%A9%E6%83%85%E8%B7%A8%E6%A0%8F%E5%BC%8F%E6%95%91%E7%81%AB%23&Refer=top)
 
