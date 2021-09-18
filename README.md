@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-19 04:04:36
+## 微博今日热榜 更新于 2021-09-19 05:03:02
 1. [共同维护比金子还珍贵的和平稳定](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%90%8C%E7%BB%B4%E6%8A%A4%E6%AF%94%E9%87%91%E5%AD%90%E8%BF%98%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%23&Refer=new_time)
 
 1. [日本侵华野心有多大](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E9%87%8E%E5%BF%83%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
@@ -126,4 +126,8 @@
 1. [95后女生每日一画绘制抗疫动人场景](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%A5%B3%E7%94%9F%E6%AF%8F%E6%97%A5%E4%B8%80%E7%94%BB%E7%BB%98%E5%88%B6%E6%8A%97%E7%96%AB%E5%8A%A8%E4%BA%BA%E5%9C%BA%E6%99%AF%23&Refer=top)
 
 1. [热狗说他是赵文卓的101忠犬](https://s.weibo.com//weibo?q=%23%E7%83%AD%E7%8B%97%E8%AF%B4%E4%BB%96%E6%98%AF%E8%B5%B5%E6%96%87%E5%8D%93%E7%9A%84101%E5%BF%A0%E7%8A%AC%23&Refer=top)
+
+1. [朗读者第3季首期太好哭了](https://s.weibo.com//weibo?q=%23%E6%9C%97%E8%AF%BB%E8%80%85%E7%AC%AC3%E5%AD%A3%E9%A6%96%E6%9C%9F%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [美国10名病人抢一张床位](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD10%E5%90%8D%E7%97%85%E4%BA%BA%E6%8A%A2%E4%B8%80%E5%BC%A0%E5%BA%8A%E4%BD%8D%23&Refer=top)
 
