@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-19 06:03:35
+## 微博今日热榜 更新于 2021-09-19 07:04:46
 1. [共同维护比金子还珍贵的和平稳定](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%90%8C%E7%BB%B4%E6%8A%A4%E6%AF%94%E9%87%91%E5%AD%90%E8%BF%98%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%23&Refer=new_time)
 
 1. [日本侵华野心有多大](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E9%87%8E%E5%BF%83%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
