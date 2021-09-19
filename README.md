@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-20 02:04:04
+## 微博今日热榜 更新于 2021-09-20 03:03:32
 1. [国家富强民族复兴人民幸福](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E4%BA%BA%E6%B0%91%E5%B9%B8%E7%A6%8F%23&Refer=new_time)
 
 1. [山西前首富李兆会失踪始末](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9D%8E%E5%85%86%E4%BC%9A%E5%A4%B1%E8%B8%AA%E5%A7%8B%E6%9C%AB%23&Refer=top)
