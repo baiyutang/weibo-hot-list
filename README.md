@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-20 04:04:12
+## 微博今日热榜 更新于 2021-09-20 05:02:53
 1. [国家富强民族复兴人民幸福](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E4%BA%BA%E6%B0%91%E5%B9%B8%E7%A6%8F%23&Refer=new_time)
 
 1. [山西前首富李兆会失踪始末](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9D%8E%E5%85%86%E4%BC%9A%E5%A4%B1%E8%B8%AA%E5%A7%8B%E6%9C%AB%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [中秋奇妙游人鹤共舞](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8%E4%BA%BA%E9%B9%A4%E5%85%B1%E8%88%9E%23&Refer=top)
 
 1. [女子感觉虚用祖传偏方补肾致铅中毒](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%84%9F%E8%A7%89%E8%99%9A%E7%94%A8%E7%A5%96%E4%BC%A0%E5%81%8F%E6%96%B9%E8%A1%A5%E8%82%BE%E8%87%B4%E9%93%85%E4%B8%AD%E6%AF%92%23&Refer=top)
+
+1. [杨芸晴你不适合两个人舞台首秀](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%8A%B8%E6%99%B4%E4%BD%A0%E4%B8%8D%E9%80%82%E5%90%88%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80%23&Refer=top)
+
+1. [消防员多次往返20层高楼后中暑呕吐](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%A4%9A%E6%AC%A1%E5%BE%80%E8%BF%9420%E5%B1%82%E9%AB%98%E6%A5%BC%E5%90%8E%E4%B8%AD%E6%9A%91%E5%91%95%E5%90%90%23&Refer=top)
 
