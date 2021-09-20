@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-21 00:12:20
+## 微博今日热榜 更新于 2021-09-21 01:07:18
 1. [团圆行动帮被拐孩子回家](https://s.weibo.com//weibo?q=%23%E5%9B%A2%E5%9C%86%E8%A1%8C%E5%8A%A8%E5%B8%AE%E8%A2%AB%E6%8B%90%E5%AD%A9%E5%AD%90%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 
 1. [琼海疑似发生一起啤酒爆炸事件](https://s.weibo.com//weibo?q=%23%E7%90%BC%E6%B5%B7%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E5%95%A4%E9%85%92%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%23&Refer=top)
