@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-20 08:19:57
+## 微博今日热榜 更新于 2021-09-20 09:51:21
 1. [国家富强民族复兴人民幸福](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AF%8C%E5%BC%BA%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E4%BA%BA%E6%B0%91%E5%B9%B8%E7%A6%8F%23&Refer=new_time)
 
 1. [山西前首富李兆会失踪始末](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9D%8E%E5%85%86%E4%BC%9A%E5%A4%B1%E8%B8%AA%E5%A7%8B%E6%9C%AB%23&Refer=top)
@@ -164,4 +164,42 @@
 1. [最美月亮在家的方向](https://s.weibo.com//weibo?q=%23%E6%9C%80%E7%BE%8E%E6%9C%88%E4%BA%AE%E5%9C%A8%E5%AE%B6%E7%9A%84%E6%96%B9%E5%90%91%23&Refer=top)
 
 1. [C罗连场进球](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E8%BF%9E%E5%9C%BA%E8%BF%9B%E7%90%83%23&Refer=top)
+
+1. [北京环球影城今天正式开园](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E4%BB%8A%E5%A4%A9%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%9B%AD%23&Refer=top)
+
+1. [医学女博士赶车途中救了个人](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E5%A5%B3%E5%8D%9A%E5%A3%AB%E8%B5%B6%E8%BD%A6%E9%80%94%E4%B8%AD%E6%95%91%E4%BA%86%E4%B8%AA%E4%BA%BA%23&Refer=top)
+
+1. [牙线会撑大牙缝吗](https://s.weibo.com//weibo?q=%23%E7%89%99%E7%BA%BF%E4%BC%9A%E6%92%91%E5%A4%A7%E7%89%99%E7%BC%9D%E5%90%97%23&Refer=top)
+
+1. [中秋是个什么秋](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E7%A7%8B%23&Refer=top)
+
+1. [北航渐冻症男孩的求学路](https://s.weibo.com//weibo?q=%23%E5%8C%97%E8%88%AA%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%A9%E7%9A%84%E6%B1%82%E5%AD%A6%E8%B7%AF%23&Refer=top)
+
+1. [厦门新增本土确诊16例](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A16%E4%BE%8B%23&Refer=top)
+
+1. [厦门今天仍有厦航航班进出港](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BB%8A%E5%A4%A9%E4%BB%8D%E6%9C%89%E5%8E%A6%E8%88%AA%E8%88%AA%E7%8F%AD%E8%BF%9B%E5%87%BA%E6%B8%AF%23&Refer=top)
+
+1. [杨倩说中秋想好好陪伴家人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E8%AF%B4%E4%B8%AD%E7%A7%8B%E6%83%B3%E5%A5%BD%E5%A5%BD%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA%23&Refer=top)
+
+1. [香港特区选委会选举后林郑月娥发表声明](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E9%80%89%E5%A7%94%E4%BC%9A%E9%80%89%E4%B8%BE%E5%90%8E%E6%9E%97%E9%83%91%E6%9C%88%E5%A8%A5%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [五仁口味占月饼销量40%](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%BB%81%E5%8F%A3%E5%91%B3%E5%8D%A0%E6%9C%88%E9%A5%BC%E9%94%80%E9%87%8F40%25%23&Refer=top)
+
+1. [怎样刷牙才是有效刷牙](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E5%88%B7%E7%89%99%E6%89%8D%E6%98%AF%E6%9C%89%E6%95%88%E5%88%B7%E7%89%99%23&Refer=top)
+
+1. [西班牙拉帕尔马岛火山喷发](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%89%E5%B8%95%E5%B0%94%E9%A9%AC%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&Refer=top)
+
+1. [香港完善选制后首次选委会选举结果](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E5%AE%8C%E5%96%84%E9%80%89%E5%88%B6%E5%90%8E%E9%A6%96%E6%AC%A1%E9%80%89%E5%A7%94%E4%BC%9A%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23&Refer=top)
+
+1. [鱿鱼游戏](https://s.weibo.com//weibo?q=%23%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F%23&Refer=top)
+
+1. [重庆姑娘与云南边防民警相恋12年](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%91%E5%A8%98%E4%B8%8E%E4%BA%91%E5%8D%97%E8%BE%B9%E9%98%B2%E6%B0%91%E8%AD%A6%E7%9B%B8%E6%81%8B12%E5%B9%B4%23&Refer=top)
+
+1. [艾美奖红毯](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%BE%8E%E5%A5%96%E7%BA%A2%E6%AF%AF%23&Refer=top)
+
+1. [人间的美好与向往都带着圆](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E9%97%B4%E7%9A%84%E7%BE%8E%E5%A5%BD%E4%B8%8E%E5%90%91%E5%BE%80%E9%83%BD%E5%B8%A6%E7%9D%80%E5%9C%86%23&Refer=top)
+
+1. [帮癌症妻子剃头后把自己头发剃光](https://s.weibo.com//weibo?q=%23%E5%B8%AE%E7%99%8C%E7%97%87%E5%A6%BB%E5%AD%90%E5%89%83%E5%A4%B4%E5%90%8E%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%8F%91%E5%89%83%E5%85%89%23&Refer=top)
+
+1. [杨倩中秋节假期回访母校](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%80%A9%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%81%87%E6%9C%9F%E5%9B%9E%E8%AE%BF%E6%AF%8D%E6%A0%A1&Refer=top)
 
