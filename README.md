@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-23 02:05:09
+## 微博今日热榜 更新于 2021-09-23 03:03:28
 1. [文明交通绿色出行](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%98%8E%E4%BA%A4%E9%80%9A%E7%BB%BF%E8%89%B2%E5%87%BA%E8%A1%8C%23&Refer=new_time)
 
 1. [美国新冠零号病人可能2019年4月出现](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E9%9B%B6%E5%8F%B7%E7%97%85%E4%BA%BA%E5%8F%AF%E8%83%BD2019%E5%B9%B44%E6%9C%88%E5%87%BA%E7%8E%B0%23&Refer=top)
@@ -112,4 +112,10 @@
 1. [未来普通人也有机会进入太空](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A5%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%9F%E6%9C%89%E6%9C%BA%E4%BC%9A%E8%BF%9B%E5%85%A5%E5%A4%AA%E7%A9%BA%23&Refer=top)
 
 1. [瑞丽特警转运车半年多跑18万公里](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E7%89%B9%E8%AD%A6%E8%BD%AC%E8%BF%90%E8%BD%A6%E5%8D%8A%E5%B9%B4%E5%A4%9A%E8%B7%9118%E4%B8%87%E5%85%AC%E9%87%8C%23&Refer=top)
+
+1. [第七十六届联合国大会一般性辩论](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%83%E5%8D%81%E5%85%AD%E5%B1%8A%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E4%B8%80%E8%88%AC%E6%80%A7%E8%BE%A9%E8%AE%BA%23&Refer=new_time)
+
+1. [姿态水晶解读S11分组](https://s.weibo.com//weibo?q=%E5%A7%BF%E6%80%81%E6%B0%B4%E6%99%B6%E8%A7%A3%E8%AF%BBS11%E5%88%86%E7%BB%84&Refer=top)
+
+1. [广场舞老人铁锤砸锁霸占足球场](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%9C%BA%E8%88%9E%E8%80%81%E4%BA%BA%E9%93%81%E9%94%A4%E7%A0%B8%E9%94%81%E9%9C%B8%E5%8D%A0%E8%B6%B3%E7%90%83%E5%9C%BA%23&Refer=top)
 
