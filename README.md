@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-23 05:03:17
+## 微博今日热榜 更新于 2021-09-23 06:04:01
 1. [文明交通绿色出行](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%98%8E%E4%BA%A4%E9%80%9A%E7%BB%BF%E8%89%B2%E5%87%BA%E8%A1%8C%23&Refer=new_time)
 
 1. [美国新冠零号病人可能2019年4月出现](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E9%9B%B6%E5%8F%B7%E7%97%85%E4%BA%BA%E5%8F%AF%E8%83%BD2019%E5%B9%B44%E6%9C%88%E5%87%BA%E7%8E%B0%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [你知道今天是国际熊猫节吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%9B%BD%E9%99%85%E7%86%8A%E7%8C%AB%E8%8A%82%E5%90%97%23&Refer=top)
 
 1. [父亲抱孩子狂奔求医遇好心司机护送](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8A%B1%E5%AD%A9%E5%AD%90%E7%8B%82%E5%A5%94%E6%B1%82%E5%8C%BB%E9%81%87%E5%A5%BD%E5%BF%83%E5%8F%B8%E6%9C%BA%E6%8A%A4%E9%80%81%23&Refer=top)
+
+1. [让农民生活芝麻开花节节高](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E5%86%9C%E6%B0%91%E7%94%9F%E6%B4%BB%E8%8A%9D%E9%BA%BB%E5%BC%80%E8%8A%B1%E8%8A%82%E8%8A%82%E9%AB%98%23&Refer=new_time)
 
