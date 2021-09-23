@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-09-23 15:04:40
+## 微博今日热榜 更新于 2021-09-23 17:06:49
 1. [文明交通绿色出行](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%98%8E%E4%BA%A4%E9%80%9A%E7%BB%BF%E8%89%B2%E5%87%BA%E8%A1%8C%23&Refer=new_time)
 
 1. [美国新冠零号病人可能2019年4月出现](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E9%9B%B6%E5%8F%B7%E7%97%85%E4%BA%BA%E5%8F%AF%E8%83%BD2019%E5%B9%B44%E6%9C%88%E5%87%BA%E7%8E%B0%23&Refer=top)
