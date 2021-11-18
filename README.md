@@ -1,7 +1,7 @@
 # Weibo Hot List 
  ![Refresh](https://github.com/baiyutang/weibo-hot-list/workflows/Refresh/badge.svg)
 
-微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
+微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次（已停掉）。 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
 ## 微博今日热榜 更新于 2021-09-23 23:04:28
